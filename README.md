@@ -1,9 +1,9 @@
 # primary-school
-English, Math, Social &amp; Science content for primary school.
+English, Math, Social &amp; Science content for primary school. Our objective is to create a complete curriculum, that is solid and crisp. 
 
 # pschool.in
 
-[pschool](www.pschool.in) is a free app, and will always remain a free app. We are making the content open source, and we look forward to contribution from community. Also any teachers and schools can use our content for free and no permission is required from us.
+[pschool](www.pschool.in) is a free app with lot of learning activities for kids. We are making the content open source, and we look forward to contribution from community. Our target is to develop full curriculum. We believe that we get the best curriculum, if there are contribution from many people, rather than single person creating it. Also any parents, teachers and schools can use our content for free and no permission is required from us.
 
 # Kindergarten
 
