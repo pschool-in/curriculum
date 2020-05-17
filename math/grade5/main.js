@@ -1,0 +1,41 @@
+const list = [
+          {
+            type: "ascendingOrder",
+            label: "Ascending Order",
+            data: { totalNos: 4, isAscending: true, level: 5 },
+          },
+          {
+            type: "ascendingOrder",
+            label: "Descending Order",
+            data: { totalNos: 4, isAscending: false, level: 5 },
+          },
+          {
+            type: "ascendingOrder",
+            label: "Ascending Order - 2",
+            data: { totalNos: 4, isAscending: true, level: 6 },
+          },
+          {
+            type: "ascendingOrder",
+            label: "Descending Order - 2",
+            data: { totalNos: 4, isAscending: false, level: 6 },
+          },
+          {
+            type: "missingWorkout",
+          label: "Addition - Missing Number",
+          data: { type: "add~xx~xx" },
+        },
+        {
+            type: "missingWorkout",
+          label: "Subtraction - Missing Number",
+          data: { type: "sub~xx~xx" },
+        },
+        { type: "blocksCount", label: "Calculate No. of Blocks" , data: {}},
+          {type: 'geometry', label: "Geometry"},
+        {type: 'geometryType', label: 'Parallel, Perpendicular, Intersecting lines', data: {type: 'lines'}},
+        {type: 'geometryType', label: 'Right, Acute, Obtuse angles', data: {type: 'angle'}},
+        {
+          type: "dragAndDrop",
+          label: "Parts of Circle",
+          data: { type: "circle" },
+        },
+            ]
