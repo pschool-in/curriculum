@@ -58,7 +58,7 @@ If you ~cool~ water to a temparature of ~0 °C~, it ~freezes~ to form ice.
 ## Lighter vs Heavier
 
 1. Lighter: leaves, ball, butterfly, balloon, coffee cup, feather, pencil
-2. Heavier: tree, bat, cycle, house, car, backbag
+2. Heavier: tree, bat, cycle, house, car, backpack
 
 ## Summer vs Winter
 

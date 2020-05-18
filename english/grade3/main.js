@@ -54,7 +54,7 @@ const list = [
         type: "matchByDragDrop",
         data: {
           isPractice: false,
-          title: "Drag and drop the collect nouns at proper places.",
+          title: "Drag and drop the collective nouns at proper places.",
           styles: {
             fontSize: "1rem",
             dashWidth: 70,

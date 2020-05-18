@@ -89,11 +89,11 @@ const list = [
         },
         {
           qText: `Which place is famous for Dasara?`,
-          options: `Mysore, Banglore, Madurai, Kochi`,
+          options: `Mysore, Bengaluru, Madurai, Kochi`,
         },
         {
           qText: `Which city is the capital of more than one state?`,
-          options: `Hydrabad, Banglore, Chennai, Thiruvananthapuram`,
+          options: `Hyderabad, Bengaluru, Chennai, Thiruvananthapuram`,
         },
         {
           qText: `Which state is called "God's own country"?`,
@@ -113,7 +113,7 @@ const list = [
         },
         {
           qText: `Which city has cool climate?`,
-          options: `Bangalore, Chennai, Hydrabad, Vishakapatnam`,
+          options: `Bangalore, Chennai, Hyderabad, Vishakapatnam`,
         },
       ],
     },

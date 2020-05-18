@@ -60,7 +60,7 @@ The sun is a ball of fire. It is very  hot.  Living  organisms  cannot  exist  o
         fontSize: "1rem",
         dashWidth: 50,
       },
-      text: `The ~root~ absorbs water from the soil and help hold the plant in the soil.
+      text: `The ~root~ absorbs water from the soil and helps hold the plant in the soil.
       The ~leaf~ uses the sun and air to make food for the plant.
       The ~stem~ helps the plant to stand straight.
       The ~flower~ makes the seeds and fruits.

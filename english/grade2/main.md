@@ -10,7 +10,7 @@ him, ice, jam, jet, ran, fan, fat, dry, dip, aim, spy, you, pin, her
 ## Order Word (4 letter words)
 
 ```
-HOME, TIME, ROAD, KIND, GOLD, LION, GOAT, MILK, BIKE, LOVE, DUCK, STAR, FISH, HAND, BIRD
+HOME, ROAD, KIND, GOLD, LION, GOAT, MILK, BIKE, LOVE, DUCK, STAR, FISH, HAND, BIRD
 ```
 
 ## Order Sentence

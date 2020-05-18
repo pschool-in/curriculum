@@ -44,7 +44,7 @@ Air has ~weight~ but it doesn't have ~shape~.
 Drag and drop the plant parts at proper places.
 
 ```
-The ~root~ absorbs water from the soil and help hold the plant in the soil.
+The ~root~ absorbs water from the soil and helps hold the plant in the soil.
 The ~leaf~ uses the sun and air to make food for the plant.
 The ~stem~ helps the plant to stand straight.
 The ~flower~ makes the seeds and fruits.

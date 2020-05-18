@@ -91,12 +91,12 @@ We also have Local Body election to select our representative at locality level.
         options: `India, China, Russia, USA`,
       },
       {
-        qText: `Who is the heat of the government?`,
+        qText: `Who is the head of the government?`,
         options: `President, Prime Minister, Chief Minister , Governer`,
       },
       {
         qText: `The Prime Minster is elected by __________.`,
-        options: `Member of Parliament, President, People of the country`,
+        options: `Members of Parliament, President, People of the country`,
       },
       {
         qText: `We are a democratic country because ________.`,

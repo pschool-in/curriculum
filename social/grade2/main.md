@@ -59,7 +59,7 @@ Teacher's Day → ~September~
 ## People and Jobs
 
 ```
-A ~fireman~ puts out fires.
+A ~fireman~ puts out fire.
 A ~butcher~ cuts meat and sell.
 A ~policeman~ prevents crime.
 A ~veterinary doctor~ looks after sick animal.

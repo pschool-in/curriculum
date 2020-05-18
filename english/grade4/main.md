@@ -40,7 +40,7 @@ Shin chan has a pet dog named Shiro. Shin chan does not take good care of his do
 
 ```
 Dora is my favorite cartoon character. She is a very determined girl and always keep moving forward to reach her goal. 
-Dora's adventures are usually about helping others who are in trouble. She has all the tools for her journey in her backbag. She knows how to read map to reach her destination. Boots is a monkey and it joins Dora in all her journey. It usually wears nothing but his beloved red boots, hence his name. 
+Dora's adventures are usually about helping others who are in trouble. She has all the tools for her journey in her backpack. She knows how to read map to reach her destination. Boots is a monkey and it joins Dora in all her journey. It usually wears nothing but his beloved red boots, hence his name. 
 Swiper is a fox. It wears a blue mask and gloves. It always tries to steal from Dora or others. But Dora doesn't punish the fox and simply shouts "NO'. The fox respects her and runs away.
 Benny is another friend of Dora. He is a big, strong bull with a huge appetite and an even bigger heart. He often tries to help Dora on her adventures, but Benny is so accident-prone that it is usually him in need of Dora's help.
 ```
@@ -56,11 +56,11 @@ Benny is another friend of Dora. He is a big, strong bull with a huge appetite a
     },
     {
         qText: `Dora always carries a _____`,
-        options: `backbag, suitcase, plastic bag, carry bay`,
+        options: `backpack, suitcase, plastic bag, carry bay`,
     },
     {
         qText: `Dora uses ________ to reach her destination.`,
-        options: `Map, Boots, Mobile, Backbag`,
+        options: `Map, Boots, Mobile, Backpack`,
     },
     {
         qText: `Dora's journey usually has ______ steps.`,

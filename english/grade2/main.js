@@ -24,7 +24,7 @@ const list = [
     type: "sequence",
     label: "Order Word (4 letter words)",
     data: {
-      text: `HOME, TIME, ROAD, KIND, GOLD, LION, GOAT, MILK, BIKE, LOVE, DUCK, STAR, FISH, HAND, BIRD`,
+      text: `HOME, ROAD, KIND, GOLD, LION, GOAT, MILK, BIKE, LOVE, DUCK, STAR, FISH, HAND, BIRD`,
     },
   },
   {

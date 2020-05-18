@@ -85,7 +85,7 @@ const list = [
         },
         {
           name: "Heavier",
-          text: `tree, bat, cycle, house, car, backbag`,
+          text: `tree, bat, cycle, house, car, elephant`,
         },
       ],
     },

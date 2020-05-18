@@ -41,8 +41,8 @@ The brain is made up of three parts.
       wordWidth: 120,
       words: [
         { word: "Cerebrum", x: 20, y: 10 },
-        { word: "Cerebellum", x: 125, y: 270 },
-        { word: "Medulla oblongata", x: 10, y: 310 },
+        { word: "Medulla oblongata", x: 125, y: 270 },
+        { word: "Cerebellum", x: 10, y: 310 },
       ],
     },
   },
@@ -101,8 +101,8 @@ The brain is made up of three parts.
       isPractice: false,
       words: [
         { word: "Cerebrum", x: 20, y: 10 },
-        { word: "Cerebellum", x: 125, y: 270 },
-        { word: "Medulla oblongata", x: 10, y: 310 },
+        { word: "Medulla oblongata", x: 125, y: 270 },
+        { word: "Cerebellum", x: 10, y: 310 },
       ],
     },
   },

@@ -80,7 +80,7 @@ const list =[
         fontSize: "1rem",
         dashWidth: 60,
       },
-      text: `A ~fireman~ puts out fires.
+      text: `A ~fireman~ puts out fire.
 A ~butcher~ cuts meat and sell.
 A ~policeman~ prevents crime.
 A ~veterinary doctor~ looks after sick animal.
