@@ -1,0 +1,289 @@
+{
+  "label": "Stories",
+  "slug": "stories",
+  "pageBreaks": [8],
+  "list": [
+    {
+      "id": 1592115023943,
+      "type": "passage",
+      "label": "A Thirsty Crow",
+      "data": {
+        "title": "A Thirsty Crow",
+        "img": {
+          "url": "01_crow.jpg"
+        },
+        "text": "One hot day, a thirsty crow flew all over the fields looking for water. For a long time, he could not find any. He felt very weak, almost lost all hope.Suddenly, he saw a water jug below the tree. He flew straight down to see if there was any water inside. Yes, he could see some water inside the jug!\n The crow tried to push his head into the jug. Sadly, he found that the neck of the jug was too narrow. Then he tried to push the jug to tilt for the water to flow out, but the jug was too heavy.\n The crow thought hard for a while. Then, looking around it, he saw some pebbles. He suddenly had a good idea. He started picking up the pebbles one by one, dropping each into the jug. As more and more pebbles filled the jug, the water level kept rising. Soon it was high enough for the crew to drink. His plan had worked! The crow drank the water happily and flew in the sky singing his favorite song.",
+        "moral": "Moral: Think smart, you may find a solution to any problem."
+      }
+    },
+    {
+      "id": 1594612963544,
+      "label": "Multiple Choice Questions - MCQ",
+      "type": "mcq",
+      "data": {
+        "editable": true,
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "The crow was searching for water on a _______.",
+            "options": "hot day, cold day, rainy day"
+          },
+          {
+            "qText": "While searching for water, the crow found a _________.",
+            "options": "water jug, water bottle, coke"
+          },
+          {
+            "qText": "The neck of the jug was ______________.",
+            "options": "very narrow, very wide, very dirty"
+          },
+          {
+            "qText": "What happened when the pebbles were dropped into the jug?",
+            "options": "the water level in the jug increased, the jug broke, nothing happend"
+          },
+          {
+            "qText": "Was the crow happy, at the end of the story?",
+            "options": "yes, no"
+          },
+          {
+            "qText": "What best define the moral of the story?",
+            "options": "If we use our brain and think, we can find solution to our problem.\nWe should not go out on a hot day.\nAlways carry pebbles while going out."
+          }
+        ]
+      }
+    },
+    {
+      "id": 1594625617801,
+      "label": "Order the sentences",
+      "type": "sorting",
+      "data": {
+        "editable": true,
+        "title": "Order the sentences based on the story.",
+        "text": "One hot day, a crow was searching for water.\nThe crow found a jug with little water.\nThe crow put pebbles into the jug.\nThe crow drank the water happily."
+      }
+    },
+    {
+      "id": 1592115023944,
+      "type": "passage",
+      "label": "The Woodcutter and the Axe",
+      "data": {
+        "img": {
+          "url": "02_woodcutter.png"
+        },
+        "title": "The Woodcutter and the Axe",
+        "text": "Long ago, there lived a woodcutter in a small village. He was sincere in his work and very honest. Every day, he went into the nearby forest to cut trees. He brought the woods back into the village and sold them to a merchant and earned his money. He earned just enough to make a living, and he was satisfied with his simple living.\nOne day, while cutting a tree near a river, his axe slipped out of his hand and fell into the river. The river was so deep, he could not take it on his own. He had only one axe that fell into the river. He started to worry. He will not be able to earn his living now! He was very sad and prayed to the God. He prayed sincerely and God appeared in front of him and asked, “What is the problem, my son?” The woodcutter explained the problem and requested the God to get his axe back.\nThe God stretched his hand deep into the river and took out a silver axe and asked, “Is this your axe?” The Woodcutter looked at the axe and said “No”. So, the God put his hand back deep into the water again and took a golden axe and asked, “Is this your axe?” The woodcutter looked at the axe and said “No”. The God said, “Take a look at it again Son, this is a very valuable golden axe. Are you sure, this is not yours?” The woodcutter said, “No, It’s not mine. I cannot cut trees with a golden axe. It’s not useful to me”.\nThe God smiled and finally put his hand into the water again and took out his iron axe and asked, “Is this your axe?” To this, the woodcutter said, “Yes! This is mine! Thank you!” The God was very impressed with his honesty and she gave him his iron axe and also the other two axes as a reward for his honesty.",
+        "moral": "Moral: Think smart, you may find a solution to any problem."
+      }
+    },
+    {
+      "id": 1594644363573,
+      "label": "Multiple Choice Questions - MCQ",
+      "type": "mcq",
+      "data": {
+        "editable": true,
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "Where does the woodcutter go to cut the trees?",
+            "options": "To the forest\nTo the village\nTo his farm"
+          },
+          {
+            "qText": "The woodcutter was unable to take the axe from river because ___________.",
+            "options": "the river is deep\nthe river is cold\nthe river is hot"
+          },
+          {
+            "qText": "What kind of man is the woodcutter?",
+            "options": "Honest and lazy\nWicked and sincere\nJealous and honest\nHonest and sincere"
+          },
+          {
+            "qText": "Who came to help the woodcutter?",
+            "options": "The God, A friend, A villager"
+          },
+          {
+            "qText": "How many axes did the woodcutter get at the end?",
+            "options": "One, Two, Three, Four"
+          },
+          {
+            "qText": "Which of the following is the costly metal?",
+            "options": "gold, silver, iron"
+          }
+        ]
+      }
+    },
+    {
+      "id": 1594644364401,
+      "label": "Order the sentences",
+      "type": "sorting",
+      "data": {
+        "editable": true,
+        "title": "Order the sentences based on the story.",
+        "text": "Long ago, there lived a woodcutter in a small village.\nOne day, the axe slipped and fell into the river.\nGod appeared and asked, \"What is the problem?\".\nThe woodcutter rejected the gold axe.\nGod rewarded the woodcutter for his honesty."
+      }
+    },
+    {
+      "id": 1592115023945,
+      "type": "passage",
+      "label": "A Fox and A Goat",
+      "data": {
+        "editable": true,
+        "title": "A Fox and A Goat",
+        "text": "Once upon a time, a fox was roaming around in the dark. Unfortunately, he fell into a well. He tried his level best to come out, but was not able to come out. So, he had no other alternative but to remain there until the next morning. The next day, a goat came that way. She peeped into the well and saw the fox there. The goat asked, “What are you doing there, Mr. Fox?”\nThe sly fox replied, “I came here to drink water. It is the best I have ever tasted. Come and drink yourself.” Without thinking even for a while, the goat jumped into the well, quenched her thirst and looked for a way to get out. But just like the fox, she also found herself helpless to come out.\nThen the fox said, “I have an idea. You stand on your hind legs. I’ll climb on your head and get out. Then, I shall help you also to come out.” The goat was innocent and did not realise the cunningness of the fox, and so did as the fox said and helped him to get out of the well.\nWhile walking away, the fox said, “Had you been intelligent enough, you would never have jumped in without thinking how to get out.",
+        "moral": "Moral: Think smart, you may find a solution to any problem."
+      }
+    },
+    {
+      "id": 1594644365232,
+      "label": "Multiple Choice Questions - MCQ",
+      "type": "mcq",
+      "data": {
+        "editable": true,
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "The fox fell into a ______.",
+            "options": "hole, river, well, pit"
+          },
+          {
+            "qText": "Who came first and saw the fox next day?",
+            "options": "A goat, A rat, A lion"
+          },
+          {
+            "qText": "Which of the following words represent the fox's character?",
+            "options": "cunning, innocent, intelligent, helpful"
+          },
+          {
+            "qText": "What was the goat's mistake?",
+            "options": "It fell into the well without thinking.\nIt looked into the well.\nIt drank the water from the well."
+          },
+          {
+            "qText": "Why did the goat fall into the well?",
+            "options": "To drink water\nTo swim in the well\nJust for fun\nTo help the fox."
+          }
+        ]
+      }
+    },
+    {
+      "id": 1594644366096,
+      "label": "Order the sentences",
+      "type": "sorting",
+      "data": {
+        "editable": true,
+        "title": "Order the sentences based on the story.",
+        "text": "A fox fell into the well.\nThe fox asked the goat to jump into the well.\nThe goat jumped into the well and tasted the water.\nThe fox climbed on the goat and came out of the well."
+      }
+    },
+    {
+      "id": 1592115023946,
+      "type": "passage",
+      "label": "The Bear and the Two Friends",
+      "data": {
+        "img": {
+          "url": "05_bear.jpg"
+        },
+        "title": "The Bear and the Two Friends",
+        "text": "Once upon a time, two friends were walking through the forest. They knew that any danger can happen to them at any time in the forest. So, they promised each other that they would remain united in any case of danger \nSuddenly, they saw a huge bear approaching them. One of the friends at once climbed a nearby tree. But the other one did not know how to climb. So, being led by his common sense, he lay down on the ground breathless, pretending to be a dead man. \nThe bear came near the man lying on the ground. It smelt him with his nose, and left the place. It is because, bears do not touch dead creatures. Now, the friend on the tree came down and asked his friend on the ground, “Friend, what did the bear tell you in your ears?” The other friend replied, “The bear advised me not to believe a false friend.",
+        "moral": "Moral: True Friend is the one who always supports and stands by you in any situation."
+      }
+    },
+    {
+      "id": 1594651844078,
+      "label": "Multiple Choice Questions",
+      "type": "mcq",
+      "slug": "mcq",
+      "data": {
+        "editable": true,
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "Where did the story take place?",
+            "options": "In a forest, In a house, In a school"
+          },
+          {
+            "qText": "The two friends met _________ on their way.",
+            "options": "A bear, A thief, A lion"
+          },
+          {
+            "qText": "Why the other friend didn't climb the tree?",
+            "options": "He didn't know how to climb the tree.\nHe was very tired.\nHe was very lazy.\nThere is no place in the tree."
+          },
+          {
+            "qText": "The bear left the boy because ______.",
+            "options": "it thought the boy was dead\nit thought the boy was sleeping\nit was not hungry"
+          },
+          {
+            "qText": "What defines the moral of the story?",
+            "options": "True friends should support each other.\nLie down motionless when approached by a bear.\nDo not go into a forest."
+          }
+        ]
+      }
+    },
+    {
+      "id": 1594651844798,
+      "label": "Order the Sentences",
+      "type": "sorting",
+      "slug": "sort",
+      "data": {
+        "editable": true,
+        "title": "Order the sentences based on the story.",
+        "text": "Two friends walked into a forest.\nA huge bear approached them.\nOne boy ran and climbed the tree.\nThe other boy didn't know what to do. He lied down motionless.\nThe bear came, smelt and walked away."
+      }
+    },
+    {
+      "id": 1592115023947,
+      "type": "passage",
+      "label": "The Golden Egg",
+      "data": {
+        "img": {
+          "url": "06_goose.png"
+        },
+        "title": "The Golden Egg",
+        "text": "Once upon a time, there lived a cloth merchant in a village with his wife and two children. They were indeed quite well-off. They had a beautiful hen which laid an egg every day. It was not an ordinary egg, but a golden egg. But, the man was not satisfied with what he used to get daily. He was a greedy person. \nThe man wanted to get all the golden eggs from his hen at one single go. So, one day he thought hard and at last came with a plan. He decided to kill the hen and get all the eggs together. \nSo, the next day when the hen laid a golden egg, the man caught hold of it, took a sharp knife, chopped off its neck and cut its body open. There was nothing but blood all around and there was no trace of any golden egg. He was very sad, because now he would not get even one single golden egg. \nHis life was going on smoothly with one golden egg a day, but now, he himself made his life miserable. Just because of his greediness, he became very poor.",
+        "moral": "Moral: One who desires more, loses all. One should remain satisfied with what one gets."
+      }
+    },
+    {
+      "id": 1594651845477,
+      "label": "Multiple Choice Questions",
+      "type": "mcq",
+      "slug": "mcq",
+      "data": {
+        "editable": true,
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "What is special about the merchant's hen?",
+            "options": "It laid golden eggs.\nIt laid eggs daily.\nIt wake up early."
+          },
+          {
+            "qText": "What type of person is the merchant?",
+            "options": "greedy, friendly, helpful, hardworking"
+          },
+          {
+            "qText": "Why did the merchant killed the hen?",
+            "options": "He wanted to cook the hen.\nHe wanted to collect all the golden eggs.\nThe hen was making lot of trouble."
+          },
+          {
+            "qText": "How the merchant felt at the end of the story?",
+            "options": "Disappointed, Sad, Happy, Calm"
+          },
+          {
+            "qText": "What defines the moral of the story?",
+            "options": "One should not be greedy and be happy with what he is getting.\nNever kill the hen that lay golden egg.\nLife is full of problems."
+          }
+        ]
+      }
+    },
+    {
+      "id": 1594651846182,
+      "label": "Order the Sentences",
+      "type": "sorting",
+      "slug": "sort",
+      "data": {
+        "editable": true,
+        "title": "Order the sentences based on the story.",
+        "text": "Merchant's hen laid a golden egg everyday.\nHe wanted all eggs immediately and made a plan.\nHe killed the hen but found no eggs.\nHe was disappointed."
+      }
+    }
+  ],
+  "fileName": "Stories",
+  "id": 1594644923927
+}

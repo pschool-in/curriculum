@@ -1,0 +1,72 @@
+{
+  "label": "Grade 2 - Math",
+  "list": [
+    {
+      "type": "counter",
+      "label": "Find the value (10s and 1s)",
+      "data": { "level": 2 }
+    },
+    {
+      "type": "counter",
+      "label": "Find the value (100s, 10s and 1s)",
+      "data": { "level": 3 }
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Biggest Number",
+      "data": { "totalNos": 4, "isBiggest": true, "level": 3 }
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Smallest Number",
+      "data": { "totalNos": 4, "isBiggest": false, "level": 3 }
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Ascending Order",
+      "data": { "totalNos": 4, "isAscending": true, "level": 2 }
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Descending Order",
+      "data": { "totalNos": 4, "isAscending": false, "level": 2 }
+    },
+    {
+      "type": "addition",
+      "label": "Addition",
+      "data": { "type": "add~xxx~x" }
+    },
+    {
+      "type": "addition",
+      "label": "Subtraction",
+      "data": { "type": "sub~xxx~x" }
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 6",
+      "data": { "type": "tables", "number": 6 }
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 7",
+      "data": { "type": "tables", "number": 7 }
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 8",
+      "data": { "type": "tables", "number": 8 }
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 9",
+      "data": { "type": "tables", "number": 9 }
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 10",
+      "data": { "type": "tables", "number": 10 }
+    }
+  ],
+  "fileName": "g2-math",
+  "id": 1592227928263
+}

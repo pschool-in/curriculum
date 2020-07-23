@@ -1,0 +1,58 @@
+{
+  "label": "Grade 1 - Science",
+  "list": [
+    {
+      "label": "Domestic vs Wild Animals",
+      "type": "group",
+      "data": {
+        "title": "Domestic vs Wild Animals",
+        "imageType": "animals",
+        "types": [
+          {
+            "name": "Domestic",
+            "text": "cat, dog, goat, horse, pig, sheep"
+          },
+          {
+            "name": "Wild Animals",
+            "text": "elephant, lion, monkey, rhino, tiger, zebra"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dragAndDrop",
+      "label": "Parts of Plant",
+      "data": { "type": "plant", "isPractice": false }
+    },
+    {
+      "type": "dragAndDrop",
+      "label": "Parts of Dog",
+      "data": { "type": "dog" }
+    },
+    {
+      "type": "dragAndDrop",
+      "label": "Parts of Face",
+      "data": { "type": "face" }
+    },
+    {
+      "type": "dragAndDrop",
+      "label": "Parts of Human Being",
+      "data": { "type": "human" }
+    },
+    {
+      "type": "match",
+      "label": "Animals and Houses",
+      "data": {
+        "title": "Match Animals with their house.",
+        "text": "Cow, Shed\n  Monkey, Tree\n  Dog, Kennel\n  Bee, Hive\n Spider, Web\nBird, Nest"
+      }
+    },
+    {
+      "type": "dragAndDrop",
+      "label": "Parts of Computer",
+      "data": { "type": "computer" }
+    }
+  ],
+  "fileName": "g1-science",
+  "id": 1592227928263
+}
