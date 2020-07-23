@@ -8,10 +8,10 @@ We know only English and Tamil and unable to handle other languages. So we reque
 
 We want to handle the below activites for most common indian languages.
 
-1. https://pschool.in/activity/tamilVowels
-2. https://pschool.in/activity/sequence
-3. https://pschool.in/activity/crossword
-4. https://pschool.in/activity/wordsearch
+1. https://pschool.in/showcase/writing/capital-letters
+2. https://pschool.in/showcase/vocabulary/order-4-letter-words
+3. https://pschool.in/showcase/crossword/g-4
+4. https://pschool.in/showcase/wordsearch/fruits
 
 # Todo Task
 
