@@ -1,0 +1,108 @@
+{
+  "label": "General Math",
+  "id": "math-general-2",
+  "pdf": "math-general-2.pdf",
+  "list": [
+    {
+      "type": "counter",
+      "label": "Find the value (10s and 1s)",
+      "data": {
+        "level": 2
+      },
+      "id": "100"
+    },
+    {
+      "type": "counter",
+      "label": "Find the value (100s, 10s and 1s)",
+      "data": {
+        "level": 3
+      },
+      "id": "200"
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Biggest Number",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": true,
+        "type": 3
+      },
+      "id": "300"
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Smallest Number",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": false,
+        "type": 3
+      },
+      "id": "400"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Ascending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": true,
+        "type": 2
+      },
+      "id": "500"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Descending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": false,
+        "type": 2
+      },
+      "id": "600"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 6",
+      "data": {
+        "type": "tables",
+        "number": 6
+      },
+      "id": "700"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 7",
+      "data": {
+        "type": "tables",
+        "number": 7
+      },
+      "id": "800"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 8",
+      "data": {
+        "type": "tables",
+        "number": 8
+      },
+      "id": "900"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 9",
+      "data": {
+        "type": "tables",
+        "number": 9
+      },
+      "id": "1000"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 10",
+      "data": {
+        "type": "tables",
+        "number": 10
+      },
+      "id": "1100"
+    }
+  ]
+}

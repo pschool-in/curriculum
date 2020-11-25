@@ -1,0 +1,119 @@
+{
+    "label": "Continents and Oceans",
+    "id": "continents-oceans",
+    "list": [
+      {
+        "label": "Map - Continents",
+        "type": "dragAndDrop",
+        "id": "100",
+        "data": {
+          "img": "worldContinents",
+          "title": "Drag and drop the continents at appropriate places.",
+          "width": 352,
+          "height": 260,
+          "wordWidth": 75,
+          "words": [
+            {
+              "word": "N America",
+              "x": 40,
+              "y": 80
+            },
+            {
+              "word": "S America",
+              "x": 75,
+              "y": 176
+            },
+            {
+              "word": "Europe",
+              "x": 160,
+              "y": 70
+            },
+            {
+              "word": "Africa",
+              "x": 140,
+              "y": 150
+            },
+            {
+              "word": "Asia",
+              "x": 210,
+              "y": 100
+            },
+            {
+              "word": "Australia",
+              "x": 256,
+              "y": 200
+            }
+          ]
+        }
+      },
+      {
+        "label": "Map - Oceans",
+        "type": "dragAndDrop",
+        "id": "200",
+        "data": {
+          "img": "worldContinents",
+          "title": "Drag and drop the Oceans at appropriate places.",
+          "width": 352,
+          "height": 260,
+          "wordWidth": 70,
+          "words": [
+            {
+              "word": "Indian",
+              "x": 210,
+              "y": 160
+            },
+            {
+              "word": "Pacific",
+              "x": 15,
+              "y": 176
+            },
+            {
+              "word": "Atlantic",
+              "x": 120,
+              "y": 180
+            },
+            {
+              "word": "Arctic",
+              "x": 270,
+              "y": 10
+            },
+            {
+              "word": "Southern",
+              "x": 150,
+              "y": 230
+            }
+          ]
+        }
+      },
+      {
+        "label": "Water bodies - MCQ",
+        "type": "mcq",
+        "id": "300",
+        "data": {
+          "title": "Multiple Choice Question",
+          "questions": [
+            {
+              "qText": "What is the biggest water source?",
+              "options": "Ocean, Sea, River, Lake"
+            },
+            {
+              "qText": "What is the biggest ocean?",
+              "options": "Pacific, Atlantic, Indian, Artic"
+            },
+            {
+              "qText": "What is the usual starting point of rivers?",
+              "options": "Mountains, Lake, Sea, Water Falls"
+            },
+            {
+              "qText": "Which source of water, human beings majorly depend upon?",
+              "options": "River, Ocean, Sea, Lake"
+            },
+            {
+              "qText": "What is the major threat to water bodies?",
+              "options": "Water pollution, Evaporation, Animals that drinks water, Fishes"
+            }
+          ]
+        }
+      }
+    ]
+  }

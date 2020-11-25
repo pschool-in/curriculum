@@ -1,0 +1,107 @@
+{
+  "id": "arithmatic-2",
+  "label": "Arithmatic",
+  "pdf": "arithmatic-2.pdf",
+  "list": [
+    {
+      "id": "100",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - 3 Digit",
+      "data": {
+        "type": "after~xxx",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "200",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - 3 Digit",
+      "data": {
+        "type": "before~xxx",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "300",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - 3 Digit Ending with 9",
+      "data": {
+        "type": "after~xx9",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "400",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - 3 Digit Ending with 0",
+      "data": {
+        "type": "before~xx0",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "500",
+      "type": "addition",
+      "label": "Two Digit Addition",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~xx~x"
+      }
+    },
+    {
+      "id": "600",
+      "type": "addition",
+      "label": "Adding Tens",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~xx~x0"
+      }
+    },
+    {
+      "id": "700",
+      "type": "addition",
+      "label": "Two Digit Subtraction",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~xx~x"
+      }
+    },
+    {
+      "id": "800",
+      "type": "addition",
+      "label": "Two Digit Subtraction - 2",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~xx~x0"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1260 @@
+{
+  "label": "wordsearch",
+  "list": [
+    {
+      "id": "100",
+      "type": "wordsearch",
+      "label": "Shapes",
+      "data": {
+        "title": "Find the given words from the table.",
+        "words": [
+          {
+            "word": [
+              "T",
+              "R",
+              "I",
+              "A",
+              "N",
+              "G",
+              "L",
+              "E"
+            ],
+            "marker": [
+              0,
+              0,
+              7,
+              7
+            ]
+          },
+          {
+            "word": [
+              "C",
+              "I",
+              "R",
+              "C",
+              "L",
+              "E"
+            ],
+            "marker": [
+              6,
+              2,
+              6,
+              7
+            ]
+          },
+          {
+            "word": [
+              "S",
+              "Q",
+              "U",
+              "A",
+              "R",
+              "E"
+            ],
+            "marker": [
+              3,
+              0,
+              3,
+              5
+            ]
+          },
+          {
+            "word": [
+              "L",
+              "I",
+              "N",
+              "E"
+            ],
+            "marker": [
+              7,
+              2,
+              4,
+              5
+            ]
+          },
+          {
+            "word": [
+              "P",
+              "O",
+              "I",
+              "N",
+              "T"
+            ],
+            "marker": [
+              0,
+              3,
+              4,
+              7
+            ]
+          },
+          {
+            "word": [
+              "O",
+              "V",
+              "A",
+              "L"
+            ],
+            "marker": [
+              1,
+              4,
+              1,
+              7
+            ]
+          }
+        ],
+        "table": [
+          [
+            "T",
+            "R",
+            "H",
+            "S",
+            "O",
+            "Y",
+            "A",
+            "L"
+          ],
+          [
+            "T",
+            "R",
+            "Y",
+            "Q",
+            "R",
+            "R",
+            "L",
+            "M"
+          ],
+          [
+            "G",
+            "T",
+            "I",
+            "U",
+            "G",
+            "J",
+            "C",
+            "L"
+          ],
+          [
+            "P",
+            "V",
+            "M",
+            "A",
+            "M",
+            "S",
+            "I",
+            "Y"
+          ],
+          [
+            "J",
+            "O",
+            "F",
+            "R",
+            "N",
+            "N",
+            "R",
+            "V"
+          ],
+          [
+            "I",
+            "V",
+            "I",
+            "E",
+            "E",
+            "G",
+            "C",
+            "A"
+          ],
+          [
+            "C",
+            "A",
+            "P",
+            "N",
+            "J",
+            "H",
+            "L",
+            "J"
+          ],
+          [
+            "W",
+            "L",
+            "Z",
+            "B",
+            "T",
+            "V",
+            "E",
+            "E"
+          ]
+        ],
+        "lang": "en",
+        "showWords": true
+      }
+    },
+    {
+      "id": "200",
+      "type": "wordsearch",
+      "label": "Days of the week",
+      "data": {
+        "words": [
+            {
+              "word": "sunday",
+              "marker": [
+                0,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "word": "monday",
+              "marker": [
+                1,
+                2,
+                6,
+                2
+              ]
+            },
+            {
+                "word": "tuesday",
+                "marker": [
+                  8,
+                  0,
+                  8,
+                  6
+                ]
+              },
+              {
+                "word": "wednesday",
+                "marker": [
+                  0,
+                  7,
+                  8,
+                  7
+                ]
+              },
+            {
+              "word": "thursday",
+              "marker": [
+                1,
+                6,
+                8,
+                6
+              ]
+            },
+            
+            {
+              "word": "friday",
+              "marker": [
+                2,
+                3,
+                7,
+                3
+              ]
+            },
+           
+            {
+                "word": "saturday",
+                "marker": [
+                  0,
+                  0,
+                  7,
+                  0
+                ]
+              }
+          ],
+          "showWords": false,
+          "lang": "en",
+          "desc": "Find the days of the week.",
+          "table": "SATURDAYT\nUEHQSXBOU\nNMONDAYVE\nDDFRIDAYS\nAGZHXJJFD\nYAGPMKQGA\nDTHURSDAY\nWEDNESDAY"
+      }
+    },
+    {
+      "id": "300",
+      "type": "wordsearch",
+      "label": "Planets",
+      "data": {
+        "words": [
+            {
+              "word": "mercury",
+              "marker": [
+                1,
+                0,
+                7,
+                6
+              ]
+            },
+            {
+              "word": "neptune",
+              "marker": [
+                1,
+                1,
+                7,
+                1
+              ]
+            },
+            {
+              "word": "venus",
+              "marker": [
+                7,
+                0,
+                7,
+                4
+              ]
+            },
+            {
+              "word": "earth",
+              "marker": [
+                0,
+                3,
+                4,
+                7
+              ]
+            },
+            {
+              "word": "mars",
+              "marker": [
+                0,
+                4,
+                3,
+                4
+              ]
+            },
+            {
+              "word": "jupiter",
+              "marker": [
+                6,
+                2,
+                0,
+                8
+              ]
+            },
+            {
+              "word": "uranus",
+              "marker": [
+                2,
+                8,
+                7,
+                8
+              ]
+            },
+            {
+              "word": "saturn",
+              "marker": [
+                8,
+                1,
+                8,
+                6
+              ]
+            }
+          ],
+          "showWords": false,
+          "lang": "en",
+          "title": "Identify all planets in solar system",
+          "table": "QMFMCPVVN\nFNEPTUNES\nGNBRMSJNA\nENOTCUGUT\nMARSPUDSU\nTPRIUURXR\nCRTTHUOYN\nTESYHTNSL\nRAURANUSS"
+      }
+     
+    },
+    {
+        "id": "400",
+        "type": "wordsearch",
+        "label": "Months of the year",
+        "data": {
+            "words": [
+                {
+                    "word": "January ",
+                    "marker": [
+                      7,
+                      3,
+                      7,
+                      9
+                    ]
+                  },
+                {
+                  "word": "February",
+                  "marker": [
+                    0,
+                    9,
+                    7,
+                    9
+                  ]
+                },
+                {
+                    "word": "March",
+                    "marker": [
+                      2,
+                      1,
+                      2,
+                      5
+                    ]
+                  },
+                  {
+                    "word": "April",
+                    "marker": [
+                      0,
+                      2,
+                      0,
+                      6
+                    ]
+                  },
+                 
+                  {
+                    "word": "May",
+                    "marker": [
+                      0,
+                      8,
+                      2,
+                      8
+                    ]
+                  },
+                  {
+                    "word": "June",
+                    "marker": [
+                      4,
+                      1,
+                      7,
+                      1
+                    ]
+                  },
+                  {
+                    "word": "July",
+                    "marker": [
+                      4,
+                      1,
+                      4,
+                      4
+                    ]
+                  },
+                  {
+                    "word": "August",
+                    "marker": [
+                      5,
+                      2,
+                      5,
+                      7
+                    ]
+                  },
+                {
+                  "word": "September ",
+                  "marker": [
+                    3,
+                    1,
+                    3,
+                    9
+                  ]
+                },
+                {
+                    "word": "October ",
+                    "marker": [
+                      1,
+                      0,
+                      1,
+                      6
+                    ]
+                  },
+                  {
+                    "word": "November ",
+                    "marker": [
+                      0,
+                      0,
+                      7,
+                      0
+                    ]
+                  },
+                {
+                  "word": "December ",
+                  "marker": [
+                    6,
+                    2,
+                    6,
+                    9
+                  ]
+                }   
+              ],
+              "showWords": false,
+              "lang": "en",
+              "title": "Find the months of the year.",
+              "table": "NOVEMBER\nDCMSJUNE\nATAEUADO\nPORPLUEJ\nRBCTYGCA\nIEHEYUEN\nLROMUSMU\nXDZBETBA\nMAYEUXER\nFEBRUARY"
+        }
+     
+    },
+    {
+        "id": "500",
+        "type": "wordsearch",
+        "label": "Animals",
+        "data": {
+            "words": [
+                {
+                  "word": "tiger",
+                  "marker": [
+                    3,
+                    3,
+                    7,
+                    7
+                  ]
+                },
+                {
+                  "word": "lion",
+                  "marker": [
+                    3,
+                    4,
+                    6,
+                    4
+                  ]
+                },
+                {
+                  "word": "goat",
+                  "marker": [
+                    0,
+                    3,
+                    3,
+                    3
+                  ]
+                },
+                {
+                  "word": "monkey",
+                  "marker": [
+                    2,
+                    6,
+                    7,
+                    6
+                  ]
+                },
+                {
+                  "word": "dog",
+                  "marker": [
+                    5,
+                    3,
+                    5,
+                    5
+                  ]
+                },
+                {
+                  "word": "cat",
+                  "marker": [
+                    3,
+                    1,
+                    3,
+                    3
+                  ]
+                },
+                {
+                  "word": "zebra",
+                  "marker": [
+                    0,
+                    5,
+                    4,
+                    9
+                  ]
+                },
+                {
+                  "word": "cow",
+                  "marker": [
+                    5,
+                    0,
+                    7,
+                    2
+                  ]
+                },
+                {
+                  "word": "panda",
+                  "marker": [
+                    0,
+                    9,
+                    4,
+                    9
+                  ]
+                },
+                {
+                  "word": "deer",
+                  "marker": [
+                    1,
+                    4,
+                    1,
+                    7
+                  ]
+                },
+                {
+                  "word": "bear",
+                  "marker": [
+                    2,
+                    1,
+                    2,
+                    4
+                  ]
+                },
+                {
+                  "word": "wolf",
+                  "marker": [
+                    1,
+                    0,
+                    4,
+                    0
+                  ]
+                }
+              ],
+              "showWords": true,
+              "lang": "en",
+              "title": "Find the animals given at the bottom.",
+              "table": "LWOLFCQL\nCCBCYSOC\nVFEAHJXW\nGOATWDNL\nRDRLIONH\nZEFMCGLZ\nMEMONKEY\nZRBQUMCR\nHJDRMLGU\nPANDAEHX"
+        }
+    },
+    {
+      "id": "600",
+      "type": "wordsearch",
+      "label": "Vehicles",
+      "data": {
+        "words": [
+            {
+              "word": "boat",
+              "marker": [
+                4,
+                1,
+                7,
+                1
+              ]
+            },
+            {
+              "word": "car",
+              "marker": [
+                6,
+                0,
+                6,
+                2
+              ]
+            },
+            {
+              "word": "train",
+              "marker": [
+                1,
+                5,
+                5,
+                5
+              ]
+            },
+            {
+              "word": "ship",
+              "marker": [
+                7,
+                4,
+                7,
+                7
+              ]
+            },
+            {
+              "word": "bicycle",
+              "marker": [
+                1,
+                3,
+                7,
+                3
+              ]
+            },
+            {
+              "word": "van",
+              "marker": [
+                0,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "word": "tractor",
+              "marker": [
+                0,
+                7,
+                6,
+                7
+              ]
+            },
+            {
+              "word": "aeroplane",
+              "marker": [
+                8,
+                0,
+                8,
+                8
+              ]
+            },
+            {
+              "word": "truck",
+              "marker": [
+                2,
+                6,
+                6,
+                6
+              ]
+            },
+            {
+              "word": "bus",
+              "marker": [
+                3,
+                0,
+                5,
+                0
+              ]
+            }
+          ],
+          "showWords": true,
+          "lang": "en",
+          "title": "Find the vehicles given at the bottom.",
+          "table": "VWSBUSCKA\nAKTFBOATE\nNTWAAKRNR\nLBICYCLEO\nPWMEHCFSP\nJTRAINBHL\nAOTRUCKIA\nTRACTORPN\nCQEDKXOEE"
+      }
+    },
+    {
+        "id": "700",
+        "type": "wordsearch",
+        "label": "Colors",
+        "data": {
+            "words": [
+                {
+                  "word": "pink",
+                  "marker": [
+                    4,
+                    7,
+                    7,
+                    7
+                  ]
+                },
+                {
+                  "word": "black",
+                  "marker": [
+                    7,
+                    3,
+                    7,
+                    7
+                  ]
+                },
+                {
+                  "word": "white",
+                  "marker": [
+                    2,
+                    1,
+                    6,
+                    5
+                  ]
+                },
+                {
+                  "word": "blue",
+                  "marker": [
+                    3,
+                    5,
+                    6,
+                    5
+                  ]
+                },
+                {
+                  "word": "green",
+                  "marker": [
+                    6,
+                    3,
+                    6,
+                    7
+                  ]
+                },
+                {
+                  "word": "purple",
+                  "marker": [
+                    0,
+                    1,
+                    5,
+                    6
+                  ]
+                },
+                {
+                  "word": "violet",
+                  "marker": [
+                    0,
+                    2,
+                    0,
+                    7
+                  ]
+                },
+                {
+                  "word": "yellow",
+                  "marker": [
+                    2,
+                    0,
+                    7,
+                    0
+                  ]
+                },
+                {
+                  "word": "red",
+                  "marker": [
+                    2,
+                    3,
+                    2,
+                    5
+                  ]
+                }
+              ],
+              "showWords": true,
+              "lang": "en",
+              "title": "Find the colors given at the bottom.",
+              "table": "NLYELLOW\nPGWHENMX\nVUDHJDFW\nIORXIVGB\nODEPRTRL\nLNDBLUEA\nEVXXEEEC\nTRJRPINK"
+        }
+    },
+    {
+        "id": "800",
+        "type": "wordsearch",
+        "label": "Profession",
+        "data": {
+            "words": [
+                {
+                  "word": "scientist",
+                  "marker": [
+                    0,
+                    5,
+                    8,
+                    5
+                  ]
+                },
+                {
+                  "word": "teacher",
+                  "marker": [
+                    3,
+                    0,
+                    3,
+                    6
+                  ]
+                },
+                {
+                  "word": "farmer",
+                  "marker": [
+                    2,
+                    2,
+                    7,
+                    2
+                  ]
+                },
+                {
+                  "word": "police",
+                  "marker": [
+                    1,
+                    1,
+                    1,
+                    6
+                  ]
+                },
+                {
+                  "word": "cook",
+                  "marker": [
+                    1,
+                    5,
+                    4,
+                    8
+                  ]
+                },
+                {
+                  "word": "doctor",
+                  "marker": [
+                    8,
+                    2,
+                    8,
+                    7
+                  ]
+                },
+                {
+                  "word": "driver",
+                  "marker": [
+                    6,
+                    3,
+                    6,
+                    8
+                  ]
+                },
+                {
+                  "word": "nurse",
+                  "marker": [
+                    0,
+                    0,
+                    0,
+                    4
+                  ]
+                },
+                {
+                  "word": "tailor",
+                  "marker": [
+                    3,
+                    0,
+                    8,
+                    0
+                  ]
+                },
+                {
+                  "word": "pilot",
+                  "marker": [
+                    0,
+                    7,
+                    4,
+                    7
+                  ]
+                }
+              ],
+              "showWords": true,
+              "lang": "en",
+              "title": "Find the jobs given at the bottom.",
+              "table": "NXCTAILOR\nUPOEEZPZU\nROFARMERD\nSLGCZVDIO\nEIPHGNRQC\nSCIENTIST\nSEORXYVLO\nPILOTKEJR\nMDZPKTRZB"
+        }
+      
+    },
+    {
+        "id": "900",
+        "type": "wordsearch",
+        "label": "Fruits",
+        "data": {
+            "words": [
+                {
+                  "word": "apple",
+                  "marker": [
+                    4,
+                    2,
+                    8,
+                    2
+                  ]
+                },
+                {
+                  "word": "orange",
+                  "marker": [
+                    4,
+                    0,
+                    4,
+                    5
+                  ]
+                },
+                {
+                  "word": "grape",
+                  "marker": [
+                    4,
+                    4,
+                    8,
+                    4
+                  ]
+                },
+                {
+                  "word": "tomato",
+                  "marker": [
+                    3,
+                    0,
+                    8,
+                    0
+                  ]
+                },
+                {
+                  "word": "banana",
+                  "marker": [
+                    3,
+                    1,
+                    8,
+                    6
+                  ]
+                },
+                {
+                  "word": "mango",
+                  "marker": [
+                    0,
+                    7,
+                    4,
+                    7
+                  ]
+                },
+                {
+                  "word": "melon",
+                  "marker": [
+                    0,
+                    3,
+                    4,
+                    3
+                  ]
+                },
+                {
+                  "word": "pears",
+                  "marker": [
+                    1,
+                    2,
+                    1,
+                    6
+                  ]
+                },
+                {
+                  "word": "guava",
+                  "marker": [
+                    4,
+                    4,
+                    8,
+                    8
+                  ]
+                },
+                {
+                  "word": "papaya",
+                  "marker": [
+                    2,
+                    9,
+                    7,
+                    9
+                  ]
+                }
+              ],
+              "showWords": true,
+              "lang": "en",
+              "title": "Find the fruits given at the bottom.",
+              "table": "ZZHTOMATO\nNORBROYYW\nGPBKAPPLE\nMELONNFBL\nBAYRGRAPE\nURSOEUHNU\nCSLDUHAUA\nMANGOKPVP\nMXJBUZWTA\nFBPAPAYAR"
+        }
+     
+     
+    },
+    {
+        "id": "1000",
+        "type": "wordsearch",
+        "label": "விலங்குகள்",
+        "data": {
+            "words": [
+                {
+                  "word": "சிங்கம்",
+                  "marker": [
+                    2,
+                    0,
+                    5,
+                    0
+                  ]
+                },
+                {
+                  "word": "சிறுத்தை ",
+                  "marker": [
+                    2,
+                    0,
+                    2,
+                    3
+                  ]
+                },
+                {
+                  "word": "ஆடு",
+                  "marker": [
+                    3,
+                    2,
+                    4,
+                    2
+                  ]
+                },
+                {
+                  "word": "மாடு",
+                  "marker": [
+                    4,
+                    1,
+                    4,
+                    2
+                  ]
+                },
+                {
+                  "word": "நாய்",
+                  "marker": [
+                    0,
+                    1,
+                    1,
+                    1
+                  ]
+                },
+                {
+                  "word": "ஒட்டகம்",
+                  "marker": [
+                    2,
+                    6,
+                    6,
+                    6
+                  ]
+                },
+                {
+                  "word": "புலி ",
+                  "marker": [
+                    6,
+                    3,
+                    6,
+                    4
+                  ]
+                },
+                {
+                  "word": "பூனை ",
+                  "marker": [
+                    6,
+                    5,
+                    7,
+                    5
+                  ]
+                },
+                {
+                  "word": "நரி",
+                  "marker": [
+                    4,
+                    7,
+                    5,
+                    7
+                  ]
+                },
+                {
+                  "word": "கரடி",
+                  "marker": [
+                    3,
+                    3,
+                    5,
+                    5
+                  ]
+                },
+                {
+                  "word": "குதிரை ",
+                  "marker": [
+                    2,
+                    4,
+                    0,
+                    6
+                  ]
+                },
+                {
+                  "word": "கழுதை ",
+                  "marker": [
+                    5,
+                    1,
+                    7,
+                    3
+                  ]
+                }
+              ],
+              "showWords": true,
+              "lang": "ta",
+              "title": "ஒளிந்திருக்கும் விலங்குகளை கண்டுபிடிக்கவும்",
+              "table": "தெறசிங்கம்சர்\nநாய்றுசுமாகத்டீ\nழ்ட்த்ஆடுழ்ழுபு\nசதுதைகழ்டபுதை\nபசகுடிரல்லில\nநதிழசுவ்டிபூனை\nரைவஒட்டகம்த\nபஙசிகேநரிந்நி"
+        }
+      },
+    {
+        "id": "1100",
+        "type": "wordsearch",
+        "label": "தமிழ்",
+        "data": {
+            "words": [
+                {
+                  "word": "சேவல்",
+                  "marker": [
+                    5,
+                    0,
+                    7,
+                    0
+                  ]
+                },
+                {
+                  "word": " சக்கரம்",
+                  "marker": [
+                    7,
+                    2,
+                    7,
+                    6
+                  ]
+                },
+                {
+                  "word": "ஓடம்",
+                  "marker": [
+                    5,
+                    6,
+                    7,
+                    6
+                  ]
+                },
+                {
+                  "word": " பட்டம்",
+                  "marker": [
+                    6,
+                    4,
+                    6,
+                    7
+                  ]
+                },
+                {
+                  "word": "ஔவையார்",
+                  "marker": [
+                    1,
+                    1,
+                    4,
+                    4
+                  ]
+                },
+                {
+                  "word": "நாற்று",
+                  "marker": [
+                    0,
+                    0,
+                    0,
+                    2
+                  ]
+                },
+                {
+                  "word": " ஊஞ்சல்",
+                  "marker": [
+                    3,
+                    0,
+                    0,
+                    3
+                  ]
+                },
+                {
+                  "word": " சங்கு ",
+                  "marker": [
+                    2,
+                    7,
+                    4,
+                    7
+                  ]
+                },
+                {
+                  "word": "அன்னம்",
+                  "marker": [
+                    3,
+                    4,
+                    0,
+                    7
+                  ]
+                },
+                {
+                  "word": "பந்து",
+                  "marker": [
+                    1,
+                    3,
+                    3,
+                    5
+                  ]
+                },
+                {
+                  "word": "தாழ்ப்பாள்",
+                  "marker": [
+                    5,
+                    1,
+                    5,
+                    5
+                  ]
+                },
+                {
+                  "word": "மூட்டை",
+                  "marker": [
+                    2,
+                    0,
+                    4,
+                    2
+                  ]
+                }
+              ],
+              "showWords": true,
+              "lang": "ta",
+              "title": "கீழ் காணும் வார்த்தைகளை கண்டுபிடிக்கவும் ",
+              "table": "நாகிமூஊகிசேவல்\nற்ஔஞ்ட்யதாகிய\nறுசவைங்டைழ்நிச\nல்பலயாரப்ங்க்\nய்குந்அர்பாபக\nவ்ங்ன்துகள்ட்ர\nமனடநித்ஓடம்\nம்லசங்குழ்ம்சி"
+           
+        }
+
+      }
+  ],
+  "savePending": false,
+  "header": "",
+  "columnCount": 2,
+  "noHeaderLine": false,
+  "lang": "en",
+  "pageBreaks": "",
+  "filterType": "exclude",
+  "filter": "",
+  "id": "1604065770809",
+  "imported": true
+}

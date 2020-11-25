@@ -1,0 +1,139 @@
+{
+  "id": "arithmatic-5",
+  "label": "Arithmatic",
+  "pdf": "arithmatic-5.pdf",
+  "list": [
+    {
+      "id": "100",
+      "type": "addition",
+      "label": "Addition",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "misc~x+x+x"
+      }
+    },
+    {
+      "id": "200",
+      "type": "addition",
+      "label": "Addition 2",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "misc~x00+x0+x"
+      }
+    },
+    {
+      "id": "300",
+      "type": "addition",
+      "label": "Subtraction",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtraction",
+        "type": "misc~xxx-x-x"
+      }
+    },
+    {
+      "id": "400",
+      "type": "addition",
+      "label": "Multiply",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Multiply",
+        "type": "mul~x0~x0"
+      }
+    },
+    {
+      "id": "500",
+      "type": "addition",
+      "label": "Multiply - 2",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Multiply",
+        "type": "mul~x00~x0"
+      }
+    },
+    {
+      "id": "600",
+      "type": "addition",
+      "label": "Multiply - 2",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Multiply",
+        "type": "mul~x00~x0"
+      }
+    },
+    {
+      "id": "700",
+      "type": "addition",
+      "label": "Divide",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Divide",
+        "type": "div~x00~x0"
+      }
+    },
+    {
+      "id": "800",
+      "type": "addition",
+      "label": "Fill up",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "add~xx~x0"
+      }
+    },
+    {
+      "id": "900",
+      "type": "addition",
+      "label": "Fill up - 2",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "sub~xx~x0"
+      }
+    },
+    {
+      "id": "1000",
+      "type": "addition",
+      "label": "Fill up - 3",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "mul~x0~x"
+      }
+    },
+    {
+      "id": "1100",
+      "type": "addition",
+      "label": "Fill up - 4",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "div~x00~x0"
+      }
+    }
+  ]
+}

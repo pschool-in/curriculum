@@ -1,0 +1,57 @@
+{
+  "label": "General Grammar - 3",
+  "id": "general-grammar-3",
+  "list": [
+    {
+      "label": "Subject-Verb Agreement",
+      "type": "fillupOptions",
+      "data": {
+        "text": "Mangoes and bananas *are (is) * available in summer. \n Ravi *helps (help) * his mother to fetch water every day. \n There *are (is) * lot of dust on the roof. \n The latest news *is (are) * not encouraging. \n Ramya *wants (want) * to be a teacher. \n My cousins *live (lives)* in Chennai. \n Sarah *listens (listen)* to music all the time. \n One of the dogs *barks (bark)* all night long. \n Sarath and Raj *are (is)* the best players in the team. \n The quality of the candles *is (are) * poor. \n One of the books *has (have)* been missing. \n Bread and butter *is (are)* his favorite breakfast. \n The horses *gallop (gallops)* across the field. \n Some of my luggage *was (were)* lost."
+      },
+      "id": "100"
+    },
+    {
+      "label": "Pronouns",
+      "type": "fillupOptions",
+      "data": {
+        "text": "Saranya likes to cook. Everyone likes *her (his) * cooking. \nKumar and his brother enjoy watching action films. This movie is for *them(they) *. \nDo you like movies? Please join *us (them) * at the theatre. \nI will meet Sangeetha tomorrow. I am meeting *her (him)* for the first time. \nYou left *your (yours) * text books on the table. \nI want to know *who (whom)* is going to play as villain. \nPlease eat whatever you want. The choice is *yours (your)*. \nRekha told *him (his)* about the celebration next week. \nRahul cannot come with *us (them)* today. \nShe grows Jasmine on her terrace. *They (Them)* smell sweet. \nPeacock is our national bird. *It (They)* has beautiful feathers. \nRam will visit *his (her) * grandmother this week. \nDon't walk fast. *We (Us)* feel tired. \nEvery Sunday, we meet *them (they)* at the sea shore. "
+      },
+      "id": "200"
+    },
+    {
+      "label": "Preposition",
+      "type": "selectWord",
+      "data": {
+        "title": "Click on the preposition in the below sentence.",
+        "text": "Radha was sitting *under* a tree. \n The school will start *at* nine o'clock. \n We will meet *during* the lunch time. \n I cooked dinner *for* my mother. \n Monday comes *after* Sunday. \n Tell me *about* the film you saw yesterday. \n Can I come *with* you to the beach? \n We must submit the assignment *by* Saturday. \n Can you please help me *with* my homework? \n The ball rolled *down* the stairs. \n Sam needs five pieces *of* chart paper. \n Will you please give me a glass *of* water? \n Mani bought a bag *of* rice yesterday. \n Who is that little girl *with* curling hair? \n We are living *in* Chennai. \n Please don't mix the juice *with* water. \n She will be going *for* a meeting now. \n Some birds flew *over* the bridge. \n I must complete my work *before* dinner."
+      },
+      "id": "300"
+    },
+    {
+      "label": "Identify adjective and preposition",
+      "type": "group",
+      "data": {
+        "title": "Drag and drop: Adjective vs Preposition.",
+        "types": [
+          {
+            "name": "Adjective",
+            "text": "important, every, hot, basic, old, strong, nice"
+          },
+          {
+            "name": "Preposition",
+            "text": "under, during, after, outside, before, over, with"
+          }
+        ]
+      },
+      "id": "400"
+    },
+    {
+      "type": "classifySentence",
+      "label": "Fact Vs Opinion",
+      "data": {
+        "type": "factsVsOpinions"
+      },
+      "id": "500"
+    }
+  ]
+}

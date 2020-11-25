@@ -1,0 +1,217 @@
+{
+  "label": "Confusing Words",
+  "id": "confusing-words",
+  "pageBreaks": "",
+  "pdf": "confusing-words.pdf",
+  "list": [
+    {
+      "id": "100",
+      "label": "your, you're",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: your, you're",
+        "text": "Did you tell *your* parents where *you're* going?\nDid you brush *your* teeth?\nWhen *you're*  finished with the dishes, you can watch TV.\nWhere did you put *your* lunchbox?\nIf *you're* going to be late, please let me know.\nI like *your* red bike.\nLet's go play when *you're* ready.",
+        "options": "your, you're"
+      }
+    },
+    {
+      "id": "200",
+      "label": "there, their, they're",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: there, their, they're",
+        "text": "The kids went to visit *their* grandparents.\n*They're* all eating cake together.\nWhat do you see over *there* ?\nTomorrow, *they're* having a party.\nThe library book is over *there*.\nThe students handed in *their* homework.",
+        "options": "there, their, they're"
+      }
+    },
+    {
+      "id": "300",
+      "label": "its, it's",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: its, it's",
+        "text": "The cat licked *its* paw.\nThe hamster is so cute. What is *its* name?\n*It's* going to rain tomorrow.\nMy toy is not in *its* box. Where could it be?\n*It's* time to give the dog its dinner.\n*It's* a  good idea to put on your helmet when you ride your bike.\nThe spacecraft fired *its* rockets.",
+        "options": "its, it's"
+      }
+    },
+    {
+      "id": "400",
+      "label": "Who's and Whose",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with who's and whose.",
+        "text": "He is an artist *whose* work I really admire.\n*Who's* that man in the white shirt?\n*Who's* the prime minister of India?\n*Whose* keys are on the table?\nI want someone *who's* loyal to me.",
+        "options": "who's, whose"
+      }
+    },
+    {
+      "id": "500",
+      "label": "To, Two, and Too",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "To, Two, and Too",
+        "text": "It is never *too* late to learn.\nI am going *to* read a story.\nSuresh ran *two* kilometers.\nThis gift is *too* expensive.\nCan I have *two* tickets?\nSita started *to* laugh.",
+        "options": "to, two, too"
+      }
+    },
+    {
+      "id": "600",
+      "label": "By, Buy, and Bye",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "By, Buy, and Bye",
+        "text": "*Bye* for now! I will catch you later.\nWhere can I *buy* a ticket?\nThis book is written *by* an Indian author.\nShould I *buy* a black car or a white car?\nThe bike was driven *by* Smith.\n*Bye*, see you tomorrow.",
+        "options": "by, buy, bye"
+      }
+    },
+    {
+      "id": "700",
+      "label": "Lose vs Loose",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: Lose vs Loose",
+        "text": "Ben has a *loose* tooth.\nThe hamster is so cute. Don't *lose* her now.\nThere are *loose* papers in the bag.\nDon't *lose* your temper.\nOur mothers *lose* their car keys lot of times.\nThe boy is wearing *loose* pants.\nThe dog is *loose* in the neighbourhood.",
+        "options": "loose, lose"
+      }
+    },
+    {
+      "id": "800",
+      "label": "Here vs Hear",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: Here vs Hear",
+        "text": "There is no one *here*.\nCan you *hear* the dog barking?\nWhen your uncle gets *here*, tell him to wait.\nThe bears won't *hear* us if we're quiet.\nKids, where are you? We're *here*.\nWho put the keys *here* ?\nI can't *hear* you. You're mumbling.",
+        "options": "here, hear"
+      }
+    },
+    {
+      "id": "900",
+      "label": "Fewer and Less",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either fewer or less.",
+        "text": "Rohan drinks *less* water than he used to.\nThere are *fewer* shops open on Sundays.\nI have *less* time to complete this task.\nI prefer eating *less* salt.\nWe have *fewer* customers this year than last.",
+        "options": "fewer, less"
+      }
+    },
+    {
+      "id": "1000",
+      "label": "Accept and Except",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Click on the blanks and select the correct word.",
+        "text": "Please *accept* our invitation for lunch.\nAll the players *except* the bowler wore caps.\nPriya will *accept* the award for the best singer.\nRahul does not like to *accept* help from anyone.\nWe all passed our exam *except* Tina.\nWill you *accept* our dinner invitation?\n*except* for Sam, we all likes going swimming.\nPlease *accept* this gift as a token of my appreciation.\nAll the students scored an A in the math quiz,  *except* for Bradley.\nMitchell wanted to go, *except* his mother couldn't leave.\nThank you, I will *accept* your offer.\nEveryone *except* Ben has blue eyes.",
+        "options": "accept, except"
+      }
+    },
+    {
+      "id": "1100",
+      "label": "Lie and Lay",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Click on the blanks and select the correct word.",
+        "text": "I am unwell. I am going to *lie* down for some time.\nMonica and her friend *lay* their keys on the shelf.\nThey *lie* on the ground and look at the stars.\nPlease *lay* the bag on the table.\nToday we will *lay* the carpet in the hall.",
+        "options": "lie, lay"
+      }
+    },
+    {
+      "id": "1200",
+      "label": "Affect and Effect",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": " Fill in the blanks with either affect or effect.",
+        "text": "Smoking will *affect* the health.\nThe *effect* of the tsunami was devastating.\nTom's opinion will not *affect* my decision.\nThe heavy rainfall will *affect* the crop.\nAir pollution has a bad *effect* on children.",
+        "options": "affect, effect"
+      }
+    },
+    {
+      "id": "1300",
+      "label": "Cereal and Serial",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either cereal or serial.",
+        "text": "What is your favourite TV *serial*?\nMy favourite *cereal* is Corn.\nWhat *cereal* do you like for breakfast?\nA new *serial* is starting on television from tomorrow.\nDrought has spoiled this year's *cereal* crop.",
+        "options": "cereal, serial"
+      }
+    },
+    {
+      "id": "1400",
+      "label": "Pole and Poll",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either pole or poll.",
+        "text": "The result of the *poll* has been declared.\nEvery morning the flag is raised on its *pole*.\nWe are conducting a *poll* among teachers.\nBJP won the election with 70% of the *poll*.\nThey flew to Europe via the North *Pole*.",
+        "options": "pole, poll"
+      }
+    },
+    {
+      "id": "1500",
+      "label": "Site and Sight",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either site or sight.",
+        "text": "A *site* has been chosen for the new school.\nDon’t judge anyone at first *sight*.\nThere are two shops on *site*.\nThe students cleaned up their camping *site*.\nShe lost her *sight* in an accident.",
+        "options": "site, sight"
+      }
+    },
+    {
+      "id": "1600",
+      "label": "Than and Then",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either than or then.",
+        "text": "He can run faster *than* I can.\nFirst buy bread and butter *then* eat them.\nNothing worse *than* a familiar enemy.\nFirst think, and *then* speak.\nPeter is smarter *than* Mathew.",
+        "options": "than, then"
+      }
+    },
+    {
+      "id": "1700",
+      "label": "Past and Passed",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either past or passed.",
+        "text": "We read about the *past* in history books.\nHave you *passed* the examination?\nTen years have *passed* away since he met.\nYou walked *past* the hospital.\nA bus *passed* by just a moment ago.",
+        "options": "past, passed"
+      }
+    },
+    {
+      "id": "1800",
+      "label": "Allowed and Aloud",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either allowed or aloud.",
+        "text": "Please read this story *aloud*.\nHe was not *allowed* to write the exam.\nSmoking is not *allowed* in the park.\nThe pain made him cry *aloud*.\nSwimming is not *allowed* at this beach.",
+        "options": "allowed, aloud"
+      }
+    },
+    {
+      "id": "1900",
+      "label": "Desert and Dessert",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with either desert or dessert.",
+        "text": "Plants in the *desert* do not need a lot of water.\nWe had chocolate cake for *dessert*.\nNobody likes to live in the *desert*.\nThey were lost in the *desert* for two days.\nMy favourite kind of *dessert* is Strawberry ice cream.",
+        "options": "desert, dessert"
+      }
+    }
+  ]
+}

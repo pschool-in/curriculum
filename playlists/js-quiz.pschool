@@ -1,0 +1,56 @@
+{
+  "label": "Javascript Quiz",
+  "id": "js-quiz",
+  "list": [
+    {
+      "label": "Multiple Choice Questions - MCQ",
+      "type": "mcqAdvanced",
+      "data": {
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "<p>Which of the following is not a valid arrow function?</p>",
+            "options": "<pre><code  class='language-javascript'>a => {ans: a}</code></pre>, <pre><code  class='language-javascript'>() => 5</code></pre>, <pre><code  class='language-javascript'>a => a</code></pre>, <pre><code  class='language-javascript'>a => { return a}</code></pre>"
+          },
+          {
+            "qText": "<p>True or False: There can be only one return statement in a function</p>",
+            "options": "True, *False"
+          },
+          {
+            "qText": "<p>Javascript is basically a ________.</p>",
+            "options": "functional language, object oriented language"
+          },
+          {
+            "qText": "<p>True or False: Javascript is very much related to java.</p>",
+            "options": "True, *False"
+          },
+          {
+            "qText": "<p>True or False: Javascript can run only within a browser.</p>",
+            "options": "True, *False"
+          },
+          {
+            "qText": "<p>Javascript is basically ___________ in nature.</p>",
+            "options": "asynchronous, synchronous"
+          },
+          {
+            "qText": "<p>What the below line of code does?</p><pre><code  class='language-javascript'>array.sort(() => Math.random() - 0.5)</code></pre>",
+            "options": "It will shuffle the array., It will throw an error., It is meaningless."
+          },
+          {
+            "qText": "<p>I want to call a function later, with a certain context. Which function method should I use?</p>",
+            "options": "bind, call, apply"
+          },
+          {
+            "qText": "<p>What is the output of the below code?</p><pre><code  class='language-javascript'>(function(x, f = () => x) {\n\tvar x;\n\tvar y = x;\n\tx = 2;\n\treturn [x, y, f()];\n})(1)</code></pre>",
+            "options": " *[2, 1, 1]\n [2, undefined, 1]\n [2, 1, 2] \n [2, undefined, 2]"
+          },
+          {
+            "qText": "<p>What is the output of the below code?</p><pre><code class='language-javascript'>(function() {\n\treturn [\n\t\t(() => this.x).bind({ x: 'inner' })(),\n\t\t(() => this.x)()\n\t]\n}).call({ x: 'outer' });</code></pre>",
+            "options": " ['inner', 'outer'] \n* ['outer', 'outer']\n[undefined, undefined]\nError"
+          }
+        ]
+      },
+      "id": "100"
+    }
+  ]
+}

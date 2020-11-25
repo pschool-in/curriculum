@@ -1,0 +1,332 @@
+{
+  "label": "Geometry",
+  "id": "geometry-1",
+  "list": [
+    {
+      "label": "Quick Notes",
+      "type": "passage",
+      "id": "100",
+      "data": {
+        "title": "Quick Notes",
+        "text": "A straight line can be drawn between two points. A horizontal line goes from left to right. A vertical line goes from top to bottom. The length of a line drawn in our notebook or paper can be measured by using a scale. The unit of measurement is cm.\n1. 1 m = 100 cm\n2. 1 km = 1000 m\nThe distance between two places are usually measured in km or miles.\nIf two lines meet each other, then the lines are said to be 'intersecting'.\nIf two lines meet, then an angle will be formed between the lines. Two lines are said to be perpendicular, if they meet each other at 90 degree.\nIf the angle between two lines is less than 90 degree, then it is called acute angle.If the angle between two lines is more than 90 degree, then it is called obtuse angle.\nIf two lines are similar and they don't meet, then they are called parallel lines. A rail road is made up of two parallel lines.\nA triangle has three sides. 'Tri' means three. If two sides of a triangle are perpendicular (90 degree), then it is called 'right triangle'.\nA quadrilateral has 4 sides. 'Quad' means four. A rectangle is a special type of quadrilateral, where the sides are perpendicular (90 degree). A square is a special type of rectangle where the sides are of equal length.\nThe area of a rectangle is calculated by multiplying its width and height. A real time example is, calculating the number of tiles in a room.\nIf we split a rectangle diagonally, we get two right triangles. So the area of right triangle is half the area of rectangle.\n A pentagon has 5 sides. 'penta' means five. \n A hexagon has 6 sides. 'Hexa' means six. Any closed shape with a fixed number of sides is called a polygon. 'Poly' means 'many'. Triangle, quadrilateral, pentagon, hexagen etc comes under polygon."
+      }
+    },
+    {
+      "type": "geometry",
+      "slug": "geometry",
+      "label": "Draw Lines",
+      "id": "200",
+      "data": {
+        "ques": [
+          {
+            "type": "line",
+            "qText": "Draw a line of length 4 cm.",
+            "tobe": 4
+          },
+          {
+            "type": "line",
+            "qText": "Draw a line of length 2.6 cm.",
+            "tobe": 2.6
+          },
+          {
+            "type": "hLine",
+            "qText": "Draw a horizontal line of length 3 cm.",
+            "tobe": 3
+          },
+          {
+            "type": "vLine",
+            "qText": "Draw a vertical line of length 4 cm.",
+            "tobe": 4
+          },
+          {
+            "type": "vLine",
+            "qText": "Draw a vertical line of length 2.4 cm.",
+            "tobe": 2.4
+          },
+          {
+            "type": "hLine",
+            "qText": "Draw a horizontal line of length 1.8 cm.",
+            "tobe": 1.8
+          },
+          {
+            "type": "line",
+            "qText": "Draw a line of length 3.2 cm.",
+            "tobe": 3.2
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometry",
+      "slug": "geometry",
+      "label": "Draw Circle and Square",
+      "id": "300",
+      "data": {
+        "ques": [
+          {
+            "type": "rect",
+            "qText": "Draw a square of side 4 cm.",
+            "tobe": [
+              4,
+              4
+            ]
+          },
+          {
+            "type": "rect",
+            "qText": "Draw a square of side 3.2 cm.",
+            "tobe": [
+              3.2,
+              3.2
+            ]
+          },
+          {
+            "type": "circle",
+            "qText": "Draw a circle of radius 1.8 cm.",
+            "tobe": 1.8
+          },
+          {
+            "type": "circle",
+            "qText": "Draw a circle of radius 2.4 cm.",
+            "tobe": 2.4
+          },
+          {
+            "type": "rect",
+            "qText": "Draw a square of sides 1.8  cm.",
+            "tobe": [
+              1.8,
+              1.8
+            ]
+          },
+          {
+            "type": "rect",
+            "qText": "Draw a square of sides  3.8 cm.",
+            "tobe": [
+              3.8,
+              3.8
+            ]
+          },
+          {
+            "type": "circle",
+            "qText": "Draw a circle of radius 2 cm.",
+            "tobe": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Parallel, Perpendicular, Intersecting lines",
+      "id": "500",
+      "data": {
+        "type": "lines"
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Right, Acute, Obtuse angles",
+      "id": "600",
+      "data": {
+        "type": "angle"
+      }
+    },
+    {
+      "type": "geometry",
+      "label": "Angle",
+      "id": "700",
+      "data": {
+        "ques": [
+          {
+            "type": "angle",
+            "qText": "Make an angle of 60 degree",
+            "tobe": 60
+          },
+          {
+            "type": "angle",
+            "qText": "Make an angle of 180 degree",
+            "tobe": 180
+          },
+          {
+            "type": "angle",
+            "qText": "Make an angle of 45 degree",
+            "tobe": 45
+          },
+          {
+            "type": "angle",
+            "qText": "Make an angle of 135 degree",
+            "tobe": 135
+          },
+          {
+            "type": "angle",
+            "qText": "Make an angle of 75 degree",
+            "tobe": 75
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Four Sides",
+      "id": "800",
+      "data": {
+        "qText": "Classify the below shapes accurately.",
+        "type": "custom",
+        "types": [
+          "rectangle",
+          "parallelogram",
+          "quadrilateral"
+        ],
+        "list": [
+          {
+            "d": "M 20 20 220 20 220 150 20 150 Z",
+            "type": 0
+          },
+          {
+            "d": "M 20 20 150 20 220 150 90 150 Z",
+            "type": 1
+          },
+          {
+            "d": "M 20 20 150 40 220 150 20 150 Z",
+            "type": 2
+          },
+          {
+            "d": "M 20 20 220 20 220 220 20 220 Z",
+            "type": 0
+          },
+          {
+            "d": "M 20 20 220 20 250 220 50 220 Z",
+            "type": 1
+          },
+          {
+            "d": "M 20 20 220 20 170 220 50 220 Z",
+            "type": 2
+          },
+          {
+            "d": "M 20 20 150 20 150 220 20 220 Z",
+            "type": 0
+          },
+          {
+            "d": "M 20 20 150 60 150 280 20 220 Z",
+            "type": 1
+          },
+          {
+            "d": "M 20 20 250 60 90 120 20 220 Z",
+            "type": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Area of Rectangle",
+      "id": "900",
+      "data": {
+        "qText": "Find the area of the below rectangles.",
+        "units": "sq cm",
+        "probType": "rectArea",
+        "list": [
+          {
+            "width": 4,
+            "height": 5,
+            "unit": 50
+          },
+          {
+            "width": 8,
+            "height": 7,
+            "unit": 30
+          },
+          {
+            "width": 2,
+            "height": 3,
+            "unit": 75
+          },
+          {
+            "width": 4,
+            "height": 4,
+            "unit": 60
+          },
+          {
+            "width": 2,
+            "height": 5,
+            "unit": 50
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Area of Right Triangle.",
+      "id": "1000",
+      "data": {
+        "qText": "Find the area of the below right triangle.",
+        "units": "sq cm",
+        "probType": "rightTriangleArea",
+        "list": [
+          {
+            "width": 4,
+            "height": 5,
+            "unit": 50
+          },
+          {
+            "width": 8,
+            "height": 7,
+            "unit": 30
+          },
+          {
+            "width": 2,
+            "height": 3,
+            "unit": 75
+          },
+          {
+            "width": 4,
+            "height": 4,
+            "unit": 60
+          },
+          {
+            "width": 2,
+            "height": 5,
+            "unit": 50
+          }
+        ]
+      }
+    },
+    {
+      "id": "1100",
+      "label": "Match the following",
+      "type": "match",
+      "data": {
+        "text": "Tri, Three\nQuad, Four\nPenta, Five\nHexa, Six\nPoly, Many",
+        "title": "Match the prefix with their meaning."
+      }
+    },
+    {
+      "label": "Choose the best answer.",
+      "type": "mcq",
+      "id": "1200",
+      "data": {
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "Which of the following is not a polygon?",
+            "options": "Line, Triangle, Square, Hexagon"
+          },
+          {
+            "qText": "Which of the following is not a quadrilateral?",
+            "options": "circle, rectangle, square"
+          },
+          {
+            "qText": "If the angle between two lines is 90 degree than it is called _________.",
+            "options": "right angle, Acute angle, Obtuse angle "
+          },
+          {
+            "qText": "Which of the following is not true?",
+            "options": "triangle is a quadrilateral, triangle is a polygon, square is a quadrilateral, square is a polygon"
+          },
+          {
+            "qText": "1 m = ______",
+            "options": "100 cm, 10 cm, 1000 cm, 1 cm"
+          }
+        ]
+      }
+    }
+  ]
+}

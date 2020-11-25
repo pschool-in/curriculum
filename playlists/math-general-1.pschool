@@ -1,0 +1,91 @@
+{
+  "label": "General Math",
+  "id": "math-general-1",
+  "pdf": "math-general-1.pdf",
+  "list": [
+    {
+      "type": "biggestNumber",
+      "label": "Biggest Number",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": true,
+        "type": 2
+      },
+      "id": "100"
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Smallest Number",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": false,
+        "type": 2
+      },
+      "id": "200"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Ascending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": true,
+        "type": 1
+      },
+      "id": "300"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Descending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": false,
+        "type": 1
+      },
+      "id": "400"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 2",
+      "data": {
+        "type": "tables",
+        "number": 2
+      },
+      "id": "500"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 3",
+      "data": {
+        "type": "tables",
+        "number": 3
+      },
+      "id": "600"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 4",
+      "data": {
+        "type": "tables",
+        "number": 4
+      },
+      "id": "700"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 5",
+      "data": {
+        "type": "tables",
+        "number": 5
+      },
+      "id": "800"
+    },
+    {
+      "type": "compare",
+      "label": "Compare Numbers",
+      "data": {
+        "level": 2
+      },
+      "id": "900"
+    }
+  ]
+}

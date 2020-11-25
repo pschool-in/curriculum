@@ -1,0 +1,377 @@
+{
+  "label": "தமிழ்",
+  "lang": "ta",
+  "pageBreaks": "",
+  "id": "tamil",
+  "list": [
+    {
+      "id": "vowels-writing",
+      "type": "tracing",
+      "label": "Tamil -  எழுத்துக்கள்",
+      "data": {
+        "type": "tamilVowels"
+      }
+    },
+    {
+      "id": "consonants-writing",
+      "type": "tracing",
+      "label": "உயிர்-மெய்-எழுத்துக்கள்",
+      "data": {
+        "type": "tamilConsonants"
+      }
+    },
+    {
+      "type": "rightOne",
+      "label": "எழுத்துக்களை அடையாளம் காண்க",
+      "id": "sound-vowels",
+      "data": {
+        "title": "ஓசை கேட்டு எழுத்துக்களை அடையாளம் காண்க.",
+        "type": "letters",
+        "collectionType": "tamilVowels"
+      }
+    },
+    {
+      "type": "completeWord",
+      "label": "விடுபட்ட எழுத்தை நிரப்புக ",
+      "id": "complete-word",
+      "data": {
+        "images": "custom",
+        "questions": [
+          {
+            "word": "அணில்",
+            "display": "_ணில்",
+            "hint": "squirrel",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "ஆமை",
+            "display": "_மை",
+            "hint": "tortoise",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "இலை",
+            "display": "_லை",
+            "hint": "leaf",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "ஈசல்",
+            "display": "_சல்",
+            "hint": "winged-termites",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "உலகம்",
+            "display": "_லகம்",
+            "hint": "world",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "ஊதல்",
+            "display": "_தல்",
+            "hint": "whistle",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "எறும்பு",
+            "display": "_றும்பு",
+            "hint": "ant",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "ஏணி",
+            "display": "_ணி",
+            "hint": "ladder",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "ஐந்து",
+            "display": "_ந்து",
+            "hint": "five",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          },
+          {
+            "word": "ஒட்டகம்",
+            "display": "_ட்டகம்",
+            "hint": "camel",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          },
+          {
+            "word": "ஓடம்",
+            "display": "_டம்",
+            "hint": "boat",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          },
+          {
+            "word": "ஔவை",
+            "display": "_வை",
+            "hint": "auvai",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          }
+        ]
+      }
+    },
+    {
+      "id": "parts-of-face",
+      "label": "பாகங்களை பொருத்துக ",
+      "type": "dragAndDrop",
+      "data": {
+        "img": "face",
+        "title": "பாகங்களை பொருத்துக ",
+        "width": 250,
+        "height": 296,
+        "wordWidth": 50,
+        "words": [
+          {
+            "word": "வாய்",
+            "x": 13,
+            "y": 242
+          },
+          {
+            "word": "காது",
+            "x": 190,
+            "y": 18
+          },
+          {
+            "word": "முடி",
+            "x": 29,
+            "y": 18
+          },
+          {
+            "word": "மூக்கு",
+            "x": 190,
+            "y": 231
+          },
+          {
+            "word": "கண்",
+            "x": 16,
+            "y": 188
+          }
+        ]
+      }
+    },
+    {
+      "id": "correct-spelling",
+      "type": "rightOne",
+      "label": "எழுத்துப்பிழை",
+      "data": {
+        "title": "சரியான வார்த்தையை தேர்வு செய்க",
+        "text": "பறவை, பரவை \n உலகம், உளகம்  \n எழுத்து, எலுத்து \n  சோளம் , சோலம் \n அரசன், அறசன் \n அறிவு , அரிவு \n வணிகர், வனிகர் \n  வெள்ளை, வெல்ளை  \n வரிசை, வறிசை \n விசிறி , விசரி "
+      }
+    },
+    {
+      "id": "match-animals",
+      "type": "match",
+      "label": "பொருத்துக",
+      "data": {
+        "title": "காட்டு விலங்குகளை முதல் எழுத்தோடு பொருத்துக.",
+        "text": "யா, elephant\nசி, lion\n கு, monkey\nபு , tiger\nவ, zebra",
+        "rightImgType": "animals",
+        "big": true
+      }
+    },
+    {
+      "id": "jumbled",
+      "type": "sequence",
+      "label": "சொல் தேடல்",
+      "data": {
+        "title": "எழுத்துக்களை சேர்த்து வார்த்தை அமைக்கவும்.",
+        "text": "வட்டம், ஊஞ்சல், எறும்பு, பட்டம், தூக்கம், இறைவன், கடவுள், முயற்சி, பயிற்சி, மல்லிகை",
+        "lang": "ta"
+      }
+    },
+    {
+      "data": {
+        "questions": [
+          {
+            "word": "வட்டம்",
+            "display": "வ__ம்",
+            "hint": "வளையலின் வடிவம் "
+          },
+          {
+            "word": "ஊஞ்சல்",
+            "display": "ஊ_சல்",
+            "hint": "பூங்காவில் சிறுவர்கள் விளையாடுவது"
+          },
+          {
+            "word": "எறும்பு",
+            "display": "எ_ம்பு",
+            "hint": "வரிசை மாறாமல் நடைபோடும் சிறிய உயிரினம்"
+          },
+          {
+            "word": "பட்டம்",
+            "display": "பட்_ம்",
+            "hint": "காற்றில் பறப்பது"
+          },
+          {
+            "word": "சிங்கம்",
+            "display": "சி__ம்",
+            "hint": "காட்டின் ராஜா "
+          }
+        ],
+        "title": "விடுபட்ட எழுத்துக்களை நிரப்புக"
+      },
+      "editable": true,
+      "id": "complete-word2",
+      "label": "விடுபட்ட எழுத்துக்களை நிரப்புக ",
+      "type": "completeWord"
+    },
+    {
+      "type": "rightOne",
+      "label": "ஓசை - வார்த்தை",
+      "id": "sound",
+      "data": {
+        "title": "ஓசை கேட்டு வார்த்தைகளை அடையாளம் காண்க.",
+        "type": "words",
+        "audio": "tamilWords.mp3",
+        "words": "அம்மா, அம்மி, அன்னம், ஆடு, ஆந்தை, ஆமை, இலை, இஞ்சி, இதயம், ஈட்டி, உரல், உதடு, உடுக்கை, ஊதல், ஊசி, ஊஞ்சல், எலி,  எறும்பு,  எருமை, ஏணி, ஏழு, ஐந்து , ஐவர், ஒட்டகம், ஒன்று, ஒன்பது, ஓடம், ஓநாய், ஓட்டம்"
+      }
+    },
+    {
+      "data": {
+        "noOptions": true,
+        "text": "அகர *முதல* எழுத்தெல்லாம் *ஆதி*\nபகவன் முதற்றே *உலகு*\nகற்றதனால் *ஆய* பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் *எனின்*",
+        "title": "கடவுள் வாழ்த்து"
+      },
+      "editable": true,
+      "id": "fillup",
+      "label": "திருக்குறள் ",
+      "type": "fillupOptions"
+    },
+    {
+      "id": "jumbled-sentence",
+      "type": "sequence",
+      "label": "வாக்கியம் அமை ",
+      "data": {
+        "text": "வாரத்தின் நாட்கள் ஏழு \n சூரியன் உதிக்கும் திசை கிழக்கு \n பூனை ஒரு வீட்டு விலங்கு \n நாய் நன்றியுள்ள பிராணி \n பூக்கள் மென்மையாக இருக்கும் \n ராமு வேகமாக ஓடுவான் \n தாத்தா செடி வளர்க்கிறார் \n பாட்டி தினமும் கதை சொல்வார் \n முகிலன் நன்றாக வரைவான் \n  கீதா ஒரு சுட்டிப்பெண் \n நான் பாடம் படிக்கிறேன் \n பனை மரம் உயரமாக இருக்கும் \n வானவில்லில் ஏழு நிறங்கள் இருக்கும் \n அறம் செய விரும்பு ",
+        "lang": "ta"
+      }
+    },
+    {
+      "id": "wordsearch",
+      "type": "wordsearch",
+      "label": "விலங்குகள்",
+      "data": {
+        "slug": "விலங்குகள்"
+      }
+    },
+    {
+      "id": "wordsearch2",
+      "type": "wordsearch",
+      "label": "தமிழ் - 1",
+      "data": {
+        "slug": "தமிழ்"
+      }
+    },
+    {
+      "id": "crossword",
+      "type": "crossword",
+      "label": "குறுக்கெழுத்து - 1",
+      "data": {
+        "type": "குறுக்கெழுத்து - 1"
+      }
+    },
+    {
+      "id": "crossword2",
+      "type": "crossword",
+      "label": "குறுக்கெழுத்து - 2",
+      "data": {
+        "type": "குறுக்கெழுத்து - 2"
+      }
+    },
+    {
+      "id": "map-rivers",
+      "label": "நதிகள்",
+      "type": "dragAndDrop",
+      "data": {
+        "img": "tamilNadu",
+        "width": 320,
+        "height": 412,
+        "wordWidth": 110,
+        "isPractice": false,
+        "words": [
+          {
+            "word": "காவிரி",
+            "x": 160,
+            "y": 180
+          },
+          {
+            "word": "வைகை",
+            "x": 115,
+            "y": 260
+          },
+          {
+            "word": "தாமிரபரணி",
+            "x": 80,
+            "y": 330
+          },
+          {
+            "word": "நொய்யல்",
+            "x": 20,
+            "y": 150
+          },
+          {
+            "word": "அமராவதி",
+            "x": 40,
+            "y": 210
+          },
+          {
+            "word": "பாலாறு",
+            "x": 150,
+            "y": 40
+          },
+          {
+            "word": "தென்பெண்ணை",
+            "x": 150,
+            "y": 90
+          }
+        ]
+      }
+    },
+    {
+      "id": "direction",
+      "label": "திசைகள்",
+      "type": "dragAndDrop",
+      "data": {
+        "img": "direction",
+        "width": 300,
+        "height": 300,
+        "wordWidth": 70,
+        "isPractice": false,
+        "words": [
+          {
+            "word": "கிழக்கு",
+            "x": 210,
+            "y": 140
+          },
+          {
+            "word": "மேற்கு",
+            "x": 20,
+            "y": 140
+          },
+          {
+            "word": "வடக்கு",
+            "x": 120,
+            "y": 20
+          },
+          {
+            "word": "தெற்கு",
+            "x": 120,
+            "y": 260
+          }
+        ]
+      }
+    },
+    {
+      "id": "sorting",
+      "label": "கிழமை - வரிசை படுத்துக ",
+      "type": "sorting",
+      "data": {
+        "editable": true,
+        "title": "கிழமை: வரிசை படுத்துக",
+        "text": "ஞாயிறு, திங்கள், செவ்வாய், புதன், வியாழன், வெள்ளி, சனி"
+      }
+    }
+  ]
+}

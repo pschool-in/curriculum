@@ -1,0 +1,82 @@
+{
+  "label": "General Vocabulary - 2",
+  "id": "general-vocabulary-2",
+  "pdf": "general-vocabulary-2.pdf",
+  "list": [
+    {
+      "type": "rightOne",
+      "label": "Pick Correct Spelling",
+      "data": {
+        "text": "class, clas \n cold, kold \n memory, memary \n butter, buter \n sugar, suger \n water, watar \n once, onse \n cattle, catle \n wheat, wheet \n meals, meels \n doctor, doktor \n bomb, bom \n ghost, gost \n potatoes, potatos \n listen, lisen  \n seed, ceed \n tomatoes, tomatos \n catch, katch"
+      },
+      "id": "100"
+    },
+    {
+      "type": "sequence",
+      "label": "Order Word (4 letter words)",
+      "data": {
+        "text": "HOME, ROAD, KIND, GOLD, LION, GOAT, MILK, BIKE, LOVE, DUCK, STAR, FISH, HAND, BIRD"
+      },
+      "id": "200"
+    },
+    {
+      "type": "sequence",
+      "label": "Order Word (5 letter words)",
+      "data": {
+        "text": "SMILE, DREAM, SUGAR, WORLD, MONTH, MUSIC, WATER, MOUTH, LAUGH, TIGER, MOVIE, MONEY, HOUSE,WOMAN, AFTER"
+      },
+      "id": "300"
+    }, 
+    {
+      "type": "match",
+      "label": "Match Synonyms",
+      "data": {
+        "title": "Match Synonyms",
+        "text": "small ,tiny\ndraw, sketch\nstore, shop\nsee, observe\nsmile, grin\nfunny, silly\nangry, upset"
+      },
+      "id": "400"
+    },
+    {
+      "type": "match",
+      "label": "Match Antonyms",
+      "data": {
+        "title": "Match Antonyms",
+        "text": "foolish, wise\nforget, remember\nglad, sad\nangel, devil \nbattle, peace \nbeautiful, ugly \nbehind, ahead \nbest, worst"
+      },
+      "id": "500"
+    },
+    {
+      "type": "match",
+      "label": "Match Synonyms - 2",
+      "data": {
+        "title": "Match Synonyms",
+        "text": "road, street\ngift, present\nanswer, reply\nbelow, under\nmoney, cash\nchild, kid"
+      },
+      "id": "600"
+    },
+    {
+      "type": "match",
+      "label": "Match Antonyms - 2",
+      "data": {
+        "title": "Match Antonyms",
+        "text": "common, rare \ncomplex, simple \ndifficult, easy \ndream, reality \nenemy, friend \neverything, nothing \nconstruct, destroy\nexpensive, cheap\nfuture, past"
+      },
+      "id": "700"
+    },
+    
+    {
+      "label": "Collective Nouns",
+      "type": "matchByDragDrop",
+      "data": {
+        "isPractice": false,
+        "title": "Drag and drop the collective nouns at proper places.",
+        "styles": {
+          "fontSize": "1rem",
+          "dashWidth": 70
+        },
+        "text": "A *herd* of cattle \n A *flock* of birds \n  A *school* of fish \n  A *pack* of wolves \n A * swarm* of bees \n   A *choir* of singers \n   A *troupe* of dancers"
+      },
+      "id": "800"
+    }
+  ]
+}

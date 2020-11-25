@@ -1,0 +1,100 @@
+{
+  "label": "How old is Muttajji?",
+  "id": "g4-english-muttajji",
+  "pdf":"g4-english-muttajji.pdf",
+  "list": [
+    {
+      "label": "Find Common Noun",
+      "type": "selectWord",
+      "slug": "select-word",
+      "editable": true,
+      "data": {
+        "title": "Click on the common noun.",
+        "text": "Putta and Putti are *twins*.\nWhere is your *notebook*, Rameez?\nThe *dam* was built on the banks of the Kaveri.\nI have named my *cat* Jerry.\nBoth my *parents* were born in March."
+      },
+      "id": "1596710356012"
+    },
+    {
+      "label": "Collective Noun",
+      "type": "matchByDragDrop",
+      "slug": "drag-and-drop-blanks-template",
+      "editable": true,
+      "data": {
+        "isPractice": false,
+        "title": "Drag and drop the collective nouns at the appropriate blanks.",
+        "styles": {
+          "fontSize": "1rem",
+          "dashWidth": 70
+        },
+        "text": "A *pride* of lions is sitting by the tree.\nThe *class* of students is studying for the exams.\nThe cat in the attic gave birth to a *litter* of kittens.\nI bought a *bunch* of grapes from the market.\nA *herd* of buffaloes is bathing in the river.\nSania bought a *bouquet* of flowers for her mother."
+      },
+      "id": "1596710418845"
+    },
+    {
+      "label": "Gesture Definition",
+      "type": "matchByDragDrop",
+      "slug": "drag-and-drop-blanks-template",
+      "editable": true,
+      "data": {
+        "isPractice": false,
+        "title": "Drag and drop the words at appropriate places",
+        "styles": {
+          "fontSize": "1rem",
+          "dashWidth": 70
+        },
+        "text": "*frowning* : showing worry, anger or disapproval\n*grinning* : showing happiness or approval\n*pouting*: showing disappointment or unhappiness\n*shrugging*: showing that we do not know or do not care about something"
+      },
+      "id": "1596710628507"
+    },
+    {
+      "label": "Fillup - Gesture",
+      "type": "fillupOptions",
+      "slug": "fillup-fixed-options",
+      "editable": true,
+      "data": {
+        "title": "Fill up with suitable gesture",
+        "text": "Bhaskar is opening his birthday presents. He is *grinning (pouting)* widely.\nWhen I asked Ramit about the broken vase, he just *shrugged(grinned)*. He did not know anything about it.\nWhen little Anne lost her toy, she *pouted (grinned)* the entire afternoon.\n\"Why is Raj not picking up his phone? I hope he is alright\", *frowned (shrugged)* Father.",
+        "options": ""
+      },
+      "id": "1596710574966"
+    },
+    {
+      "type": "rightOne",
+      "label": "Correct Spelling ",
+      "slug": "correct-spelling-template",
+      "editable": true,
+      "data": {
+        "title": "Pick the Correct Spelling",
+        "text": "buffaloes , bufaloes\nbunch, banch\nbouquet, bouquat\nsitting, siting\npride, prite\nkitten, kiten\nmarket, markat"
+      },
+      "id": "1596710677060"
+    },
+    {
+      "label": "Recipe fillup",
+      "type": "matchByDragDrop",
+      "slug": "drag-and-drop-blanks-template",
+      "editable": true,
+      "data": {
+        "isPractice": false,
+        "title": "Drag and drop the words at proper places.",
+        "styles": {
+          "fontSize": "1rem",
+          "dashWidth": 70
+        },
+        "text": "First, keep all the *ingredients* ready. Now, begin by arranging two slices of *bread* on a plate. Spread *butter* on both the slices. Then, add *cheese*, tomatoes, cucumbers, salt and pepper. Next, *cover* the arrangement with the other slice of bread. Lastly, toast the *sandwich* on medium flame until it is slightly brown."
+      },
+      "id": "1596710483750"
+    },
+    {
+      "label": "Recipe - Sorting",
+      "type": "sorting",
+      "slug": "sort",
+      "editable": true,
+      "data": {
+        "title": "Sort the sentences in the right order.",
+        "text": "First, keep all the ingredients ready. \nNow, begin by arranging two slices of bread on a plate.\nSpread butter on both the slices. \nThen, add cheese, tomatoes, cucumbers, salt and pepper. \nNext, cover the arrangement with the other slice of bread. \nLastly, toast the sandwich on medium flame until it is slightly brown."
+      },
+      "id": "1596710528047"
+    }
+  ]
+}

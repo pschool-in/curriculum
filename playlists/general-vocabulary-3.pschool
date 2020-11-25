@@ -1,0 +1,60 @@
+{
+  "label": "General Vocabulary - 3",
+  "id": "general-vocabulary-3",
+  "pdf": "general-vocabulary-3.pdf",
+  "list": [
+    {
+      "type": "sequence",
+      "label": "Order Word (6 letter words)",
+      "data": {
+        "text": "MOTHER, ADJUST, ADVICE, ACTION, FATHER, SIMPLE, GROUND, BRIDGE, DESIGN, SINGLE"
+      },
+      "id": "100"
+    },
+    {
+      "type": "rightOne",
+      "label": "Pick Correct Spelling",
+      "data": {
+        "text": "absence, abcense \n queue, que \n column, colum \n extreme, extreem \n almost, allmost \n beginning, begining \n surprise, suprise \n calendar, calender \n vehicle, vehical \n difference, diffrence \n awesome, ausom \n giraffe, girafee \n meaning, meening \n address, adress"
+      },
+      "id": "200"
+    },
+    {
+      "type": "match",
+      "label": "Match Synonyms",
+      "data": {
+        "title": "Match Synonyms",
+        "text": "lift, raise\nbag, sack\nbuy, purchase\nchair, seat\nclose, near\nchoose, pick\nfind, discover\ntwo, pair"
+      },
+      "id": "300"
+    },
+    {
+      "type": "match",
+      "label": "Match Antonyms",
+      "data": {
+        "title": "Match Antonyms",
+        "text": "nowhere, everywhere \n  pain, pleasure \n  permanent, temporary \n  serious, silly \n  build, demolish \n  ashamed, proud \ncapture, release \ncasual, regular"
+      },
+      "id": "400"
+    },
+    {
+      "type": "match",
+      "label": "Match Synonyms - 2",
+      "data": {
+        "title": "Match Synonyms",
+        "text": "leave, exit\ntasty,  delicious\npurchase, buy\nintelligent, smart\nchilly, cool\nbravery, courage\neat, munch\nstop, cease"
+      },
+      "id": "500"
+    },
+    {
+      "type": "match",
+      "label": "Match Antonyms - 2",
+      "data": {
+        "title": "Match Antonyms",
+        "text": "ceiling, floor \n  collect, distribute \n  command, request \n  advantage, drawback\n  damage, repair \n  different, alike \n  encourage, discourage \n  trap, release",
+        "level": 5
+      },
+      "id": "600"
+    }
+  ]
+}

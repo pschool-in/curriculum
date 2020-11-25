@@ -1,0 +1,79 @@
+{
+  "label": "Questions Sentence",
+  "id": "questions-1",
+  "pdf": "questions-1.pdf",
+  "notes": "mcq: Find the right question for the given statement. One more activity on fill by drag drop",
+  "list": [
+    {
+      "type": "sequence",
+      "label": "Jumbled Sentence",
+      "data": {
+        "title": "Connect the blocks to form meaningful questions.",
+        "text": "what is your name\nhow old are you\ncan I help you\nhow are you feeling\nwhat is the matter\nwhat is your favorite snack\nwhere is the restroom\ncan you help me\nwhere is your mother\ncan you drive a car"
+      },
+      "id": "100"
+    },
+    {
+      "label": "Fillup",
+      "type": "fillupOptions",
+      "id": "200",
+      "data": {
+        "title": "Fill in the blanks with the right word.",
+        "text": "*What* is your name?\n*How* old are you?\n*How* are you feeling?\n*What* is the matter?\n*What* is your favorite snack?\n*Where* is the restroom?\n*Where* is your mother going?\n*How* is your health?\n*Where* is your home?",
+        "options": "What, How, Where"
+      }
+    },
+    {
+      "id": "300",
+      "label": "Choose the best question",
+      "type": "mcq",
+      "data": {
+        "title": "Choose the best question for the given statement.",
+        "questions": [
+          {
+            "qText": "I am five years old.",
+            "options": "How old are you?, What old are you?, When old are you?"
+          },
+          {
+            "qText": "I live near the river.",
+            "options": "Where do you live?, How do you live?, When do you live?"
+          },
+          {
+            "qText": "It is raining outside.",
+            "options": "Why are you wet?, When are you coming?, How is the rain?"
+          },
+          {
+            "qText": "I went to school by bus.",
+            "options": "How did you go to school?, Did you go to school?, Where is the bus?"
+          },
+          {
+            "qText": "I had a great day.",
+            "options": "How was your day?, What did you do today?, What made your day?"
+          }
+        ]
+      }
+    },
+    {
+      "id": "400",
+      "label": "Fill up",
+      "type": "classifySentence",
+      "data": {
+        "title": "Fill up the blanks by selecting the right option.",
+        "types": [
+          {
+            "name": "Where",
+            "text": "_____ is your homework?\n_____ is your house?\n_____ is your ball?"
+          },
+          {
+            "name": "What",
+            "text": "_____ is your name?\n_____ is the time?\n_____ makes you happy?\n_____ is your sister's age?"
+          },
+          {
+            "name": "When",
+            "text": "_____ do you come?\n_____ is your birthday?\n_____ will your father come here?"
+          }
+        ]
+      }
+    }
+  ]
+}

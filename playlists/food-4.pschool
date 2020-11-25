@@ -1,0 +1,265 @@
+{
+  "label": "Food and Hygiene",
+  "id": "food-4",
+  "pdf": "food-4.pdf",
+  "list": [
+    {
+      "label": "Cooking - Reading",
+      "type": "passage",
+      "id": "100",
+      "data": {
+        "title": "Raw and Cooked Food",
+        "text": "Food is one of the basic needs of life. We get energy for all our activities from food. Food obtained from the nature provides all the nutrients to our body. But seeing the advertisement, we are attracted towards junk food.\nIn our daily life, we depend on plants and animals for our food. Food that we eat directly without cooking is called raw food. We eat fruits, some vegetables, tubers and nuts in the raw form. Some pulses and cereals are also eaten as raw food.\nFood that needs to be processed using heat before it can be eaten is called cooked food. Why should we cook food?\n1. Cooked food is digested easily.\n2. Cooking softens the food materials.\n3. Cooking kills germs.\n4. Cooking adds taste and flavour to food.\n# Cooking methods\nSome of the commonly used cooking methods are given below.\n# Boiling:\nIt is a method of cooking food by immersing it in boiling water. So that the food becomes soft. Example: Rice, Egg.\n# Steaming: \nIt is a method of cooking food in steam by immersing the vessel in a container with boiling water. Example: Idli, Idiyappam.\n# Pressure cooking: \nIt is a method of cooking food in a pressure cooker. Example: Rice, Dhal.\n# Roasting: \nIt is a method of cooking food by heating on a tawa or frying pan without covering it. Example: Groundnuts, Cashewnut.\n # Frying: \nIt is a method of cooking food in hot oil. Example: Chips, Poori.\nBoiling, steaming and pressure cooking uses moist heat. Roasting, frying and baking uses dry heat. There are other cooking methods like microwave cooking and solar cooking."
+      }
+    },
+    {
+      "label": "Food from Plants vs Animals",
+      "type": "group",
+      "id": "200",
+      "data": {
+        "title": "We get the below food items from plants and animals. Classify.",
+        "types": [
+          {
+            "name": "Plants",
+            "text": "Carrot, Potato,  Brinjal, Onion, Mushroom, Corn"
+          },
+          {
+            "name": "Animals",
+            "text": "Egg, Milk, Meat, Curd,Fish,Butter,Ghee"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Raw food",
+      "type": "group",
+      "id": "300",
+      "data": {
+        "title": "We can eat some food items raw, without cooking. Classify",
+        "types": [
+          {
+            "name": "Raw",
+            "text": "cashewnut, carrot, lady's finger, tomato, cucumber, apple"
+          },
+          {
+            "name": "Only Cooked",
+            "text": "fish, meat, brinjal, potato, dhal, spinach"
+          }
+        ]
+      }
+    },
+    {
+      "id": "400",
+      "label": "Match the following",
+      "type": "match",
+      "data": {
+        "text": "Idli, Steaming\nRice, Pressure cooking\nEgg, Boiling\nCashewnut, Roasting\nChips, Frying",
+        "title": "Match the foods with their major nutrients."
+      }
+    },
+    {
+      "label": "Choose the best answer",
+      "type": "mcq",
+      "id": "500",
+      "data": {
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "Which of the following vegetable is not used while making salad?",
+            "options": "potato, carrot, cucumber, cabbage"
+          },
+          {
+            "qText": "Pick the food items that are made from milk?",
+            "options": "* curd, * butter, mushroom, * ghee"
+          },
+          {
+            "qText": "Which cooking process needs a lot of oil?",
+            "options": "Frying, Roasting, Boiling"
+          },
+          {
+            "qText": "Cakes are usually prepared by the process of ________.",
+            "options": "baking, frying, roasting"
+          },
+          {
+            "qText": "What are the benefits of cooking food?",
+            "options": "Easy to digest, kills germs, adds taste and flavour, * all of the above"
+          }
+        ]
+      }
+    },
+    {
+      "label": "True or False",
+      "id": "600",
+      "type": "classifySentence",
+      "data": {
+        "title": "Classify the below sentences as true or false",
+        "types": [
+          {
+            "name": "True",
+            "text": "Cooking kills germs.\nHoney is the only food that does not spoil.\nIdlis are made by the process of steaming."
+          },
+          {
+            "name": "False",
+            "text": "We make salad by cooking vegetables.\nCooked foods are difficult to digest.\nChips are made by the process of boiling."
+          }
+        ]
+      }
+    },
+    {
+      "label": "Food Hygiene - Reading",
+      "type": "passage",
+      "id": "700",
+      "data": {
+        "title": "Food Hygiene",
+        "text": "We need to follow the below basic habits.\n1. Wash your hands with soap before cooking.\n2. Wash vegetables and fruits before cutting.\n3. Wash cooking vessels and knives.\n4. Don't cook food for a long time because it destroys the nutrients present in the food.\n5. Don't use the same oil for cooking food many times.\n6. Using the food items after their expiry date is not good for health.\n# Utensils\nUtensils are in different shapes and sizes. We use specific utensils for each cooking method. Clay pots were used earlier. Stainless steel and aluminum vessels are now generally used for cooking.\n# Meal-time Hygiene\nMeal-time hygiene includes ways to make sure that we do not get sick because of the way we eat or make food.\n1. Always cover food to protect them from dust and insects.\n2. Eat fresh food always.\n3. Avoid taking food that is too cold or too hot.\n4. Avoid fast food and fried food.\n5. Always wash your hands before and after eating.\n# Food During Illness\nWhen we are sick, we should avoid food items that are fried in oil. We should take energy-giving, easily digestible food. Some of them are given below:\n1. Porridge of rice or cereals.\n2. Fruit juice, tender coconut.\n3. Steamed foods like idli.\n# Food Wastage\nWe should not waste food. Food that is not eaten is called leftover food. That is discarded as waste. Following are the simple ways to avoid food wastage.\n1. Take what you'll eat and eat what you take.\n2. Share the excess food.\n3. Give the excess food to hungry animals.\nOne third of the food produced in the world is wasted. On the other hand, one section of people do not get enough food. 28th May is observed as world hunger day.\n# Food Preservation\nWe can preserve the food for long time by using the following methods.\n1. Pickling - Mixing fruits and vegetables with oil and salt.\n2. Refrigerating - Keeping food in the fridge to preserve them for a short time.\n3. Drying - Removing the water content of the food.\n4. Canning - Storing food in air tight containers."
+      }
+    },
+    {
+      "label": "Multiple Choice Questions",
+      "type": "mcq",
+      "id": "800",
+      "data": {
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "We should avoid eating ____ food.",
+            "options": "junk, fresh, raw"
+          },
+          {
+            "qText": "_______ is an easily digested food.",
+            "options": "Idli, Briyani, parotta"
+          },
+          {
+            "qText": "What type of food should we take when sick?",
+            "options": "meat, * energy giving, * easily digestible, fried food"
+          },
+          {
+            "qText": "Which day is observed as world hunger day?",
+            "options": "28th May, 18th May, 28th June, 18th June"
+          },
+          {
+            "qText": "The preservation method of mixing vegetables with oil and salt is known as _______.",
+            "options": "pickling, drying, canning"
+          }
+        ]
+      }
+    },
+    {
+      "label": "True or False",
+      "id": "900",
+      "type": "classifySentence",
+      "data": {
+        "title": "Classify the below sentences as true or false",
+        "types": [
+          {
+            "name": "True",
+            "text": "You should wash your hands before cooking.\nSolar cooker reduces the use of fuel.\nYou should wash your hands before and after eating."
+          },
+          {
+            "name": "False",
+            "text": "Vegetables and fruits should be washed after cutting.\nIn olden days, people cooked their food in pressure cooker.\nPressure cooker is not a cooking utensil.\nJunk food is good for health."
+          }
+        ]
+      }
+    },
+    {
+      "label": "Preservatives - Fill up",
+      "type": "matchByDragDrop",
+      "id": "1000",
+      "data": {
+        "isPractice": false,
+        "title": "Drag and drop the preservative methods at appropriate places.",
+        "styles": {
+          "fontSize": "1.3rem",
+          "dashWidth": 80
+        },
+        "text": "The process of mixing fruits and vegetables with oil and salt is called *pickling*.\nKeeping food in the fridge to preserve them for a short time is called *refrigerating*.\nRemoving the water content of the food is called *drying*.\nStoring food in air tight containers is called *canning*."
+      }
+    },
+    {
+      "label": "Choose the best answer",
+      "type": "mcq",
+      "id": "1100",
+      "data": {
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "Which one can be eaten as raw food?",
+            "options": "Carrot, Meat, Fish, Potato"
+          },
+          {
+            "qText": "Uncooked food is called _______",
+            "options": "raw food, junk food, hygienic food, cooked food"
+          },
+          {
+            "qText": "Solar cooker reduces___________ .",
+            "options": "Air Pollution, Water Pollution, Land Pollution, Noise Pollution"
+          },
+          {
+            "qText": "Which one cannot be preserved by drying method?",
+            "options": "Fruits, Rice, Fish, Cereals"
+          },
+          {
+            "qText": "We can avoid food wastage by",
+            "options": "Giving to the needy, Eating more than we need, buying extra food, throwing in a dust bin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1200",
+      "label": "Fill Up",
+      "type": "fillupOptions",
+      "data": {
+        "title": "Fill in the blanks with the given options.",
+        "text": "*Raw (Junk)* food gives us energy to work and play.\n Cooked food is easily *digested(undigested)*.\nPressure cooker is one of the *modern(olden)* utensils.\nWe need pure air, protected water and * hygenic (junk) *food for our healthy life.\nWe make Idli by *steaming(boiling)* method."
+      }
+    },
+    {
+      "label": "Hygienic vs Junk food",
+      "id": "1300",
+      "type": "group",
+      "data": {
+        "title": "Classify the below as hygenic or junk food.",
+        "types": [
+          {
+            "name": "Hygenic",
+            "text": "fruits, nuts, salad, milk"
+          },
+          {
+            "name": "Junk",
+            "text": "panipoori, samosa, chips"
+          }
+        ]
+      }
+    },
+    {
+      "type": "match",
+      "label": "Match the following",
+      "id": "1400",
+      "data": {
+        "fontSize": "1rem",
+        "title": "Match the following",
+        "text": "Grapes,Raw food\nMixture of vegetables,Salad\nElectric rice cooker,Modern utensil\nEarthen pot, Olden utensil\nLess fatty food,Food during illness"
+      }
+    },
+    {
+      "label": "Say yes or No",
+      "type": "classifySentence",
+      "id": "1500",
+      "data": {
+        "title": "Say Yes or No",
+        "types": [
+          {
+            "name": "Yes",
+            "text": "Frying is a method of cooking.\nCooking in a solar oven needs sunlight.\nConsuming too much oily food is bad for our health."
+          },
+          {
+            "name": "No ",
+            "text": "Briyani is a raw food.\nWe can cook rice on a tawa."
+          }
+        ]
+      }
+    }
+  ]
+}

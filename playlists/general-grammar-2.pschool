@@ -1,0 +1,55 @@
+{
+  "label": "General Grammar - 2",
+  "id": "general-grammar-2",
+  "list": [
+    {
+      "type": "sequence",
+      "label": "Order Sentence",
+      "data": {
+        "text": "we have holiday tomorrow \n  I am drinking water \n  I am going to chennai \n  I am sitting in sofa \n  Siva is sleeping in bed \n the cat is drinking milk \n  I am thinking of icecream \n  sun rises in the east \n  I am playing with my friends \n I have not done my homework \n I saw a very beautiful puppy \n Ravi is very good in math \n english is not my favorite subject"
+      },
+      "id": "100"
+    },
+    {
+      "label": "Question Sentence",
+      "type": "sequence",
+      "data": {
+        "title": "Form a question sentence from the below blocks",
+        "text": "what is your name \nhow old are you \ncan I help you \nhow are you feeling \nwhat is the matter \nwhat is your favorite snack \nwhere is the restroom \ncan you help me \nwhere is your mother \ncan you drive a car"
+      },
+      "id": "200"
+    },
+    {
+      "type": "classifySentence",
+      "label": "Identify Tense",
+      "data": {
+        "type": "simpleTense"
+      },
+      "id": "300"
+    },
+    {
+      "type": "classifySentence",
+      "label": "Identify Noun Type",
+      "data": {
+        "type": "nounType"
+      },
+      "id": "400"
+    },
+    {
+      "type": "fillupOptions",
+      "label": "Article",
+      "data": {
+        "type": "article"
+      },
+      "id": "500"
+    },
+    {
+      "type": "fillupOptions",
+      "label": "Choose Appropriate Word",
+      "data": {
+        "type": "passage1"
+      },
+      "id": "600"
+    }
+  ]
+}

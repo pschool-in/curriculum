@@ -1,0 +1,69 @@
+{
+  "label": "General Math",
+  "id": "math-general-5",
+  "pdf": "math-general-5.pdf",
+  "list": [
+    {
+      "type": "ascendingOrder",
+      "label": "Ascending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": true,
+        "type": 5
+      },
+      "id": "100"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Descending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": false,
+        "type": 5
+      },
+      "id": "200"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Ascending Order - 2",
+      "data": {
+        "totalNos": 4,
+        "isAscending": true,
+        "type": 6
+      },
+      "id": "300"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Descending Order - 2",
+      "data": {
+        "totalNos": 4,
+        "isAscending": false,
+        "type": 6
+      },
+      "id": "400"
+    },
+    {
+      "type": "missingWorkout",
+      "label": "Addition - Missing Number",
+      "data": {
+        "type": "add~xx~xx"
+      },
+      "id": "500"
+    },
+    {
+      "type": "missingWorkout",
+      "label": "Subtraction - Missing Number",
+      "data": {
+        "type": "sub~xx~xx"
+      },
+      "id": "600"
+    },
+    {
+      "type": "blocksCount",
+      "label": "Calculate No. of Blocks",
+      "data": {},
+      "id": "700"
+    }
+  ]
+}

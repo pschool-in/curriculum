@@ -1,0 +1,505 @@
+{
+  "label": "Geometry",
+  "id": "geometry-2",
+  "list": [
+    {
+      "label": "Quick Notes",
+      "type": "passage",
+      "id": "100",
+      "data": {
+        "title": "Quick Notes",
+        "text": "A triangle has three sides and three angles. If we add the three angles in a triangle we will get 180 degree. This is true for all triangles. If we know two angles, then we can find the third angle by substracting from 180.\nA quadrilateral has four sides and four angles. If we add the four angles we get 360 degree. In a rectangle all angles are 90 degree.\nA parallelogram is a special type of quadrilateral, where the opposite sides are of equal length and opposite angles are equal.\nIf we break a straight line at a point, then the angle formed by the point is 180 degree. If we join two lines at an angle of 180 degree, then it will look like one single line.\nA complete rotatation of a line about a point gives 360 degree. "
+      }
+    },
+    {
+      "type": "geometry",
+      "slug": "geometry",
+      "label": "Draw Rectangle and Triangle",
+      "id": "200",
+      "data": {
+        "ques": [
+          {
+            "type": "rect",
+            "qText": "Draw a rectangle of sides 4 and 3 cm.",
+            "tobe": [
+              3,
+              4
+            ]
+          },
+          {
+            "type": "rect",
+            "qText": "Draw a rectangle of sides 2.2 and 3.2 cm.",
+            "tobe": [
+              2.2,
+              3.2
+            ]
+          },
+          {
+            "type": "triangle",
+            "qText": "Draw a triangle whose sides are 4, 3, 3 cm.",
+            "tobe": [
+              3,
+              3
+            ]
+          },
+          {
+            "type": "triangle",
+            "qText": "Draw a triangle whose all sides are equal.",
+            "tobe": [
+              4,
+              4
+            ]
+          },
+          {
+            "type": "rect",
+            "qText": "Draw a rectangle of sides 4 and 1 cm.",
+            "tobe": [
+              4,
+              1
+            ]
+          },
+          {
+            "type": "triangle",
+            "qText": "Draw a triangle whose sides are 4, 3, 2 cm.",
+            "tobe": [
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometry",
+      "slug": "geometry",
+      "label": "Triangle",
+      "id": "300",
+      "data": {
+        "ques": [
+          {
+            "type": "triangleAngle",
+            "qText": "Draw a triangle whose angles are 45, 45, 90 degrees.",
+            "tobe": [
+              45,
+              45,
+              90
+            ]
+          },
+          {
+            "type": "triangleAngle",
+            "qText": "Draw a triangle whose all angles are equal.",
+            "tobe": [
+              60,
+              60,
+              60
+            ]
+          },
+          {
+            "type": "triangleAngle",
+            "qText": "Draw a triangle whose angles are 30, 60, 90 degrees.",
+            "tobe": [
+              30,
+              60,
+              90
+            ]
+          },
+          {
+            "type": "triangleAngle",
+            "qText": "Draw a triangle whose two angles are 110, 40 degrees.",
+            "tobe": [
+              30,
+              40,
+              110
+            ]
+          },
+          {
+            "type": "triangleAngle",
+            "qText": "Draw a triangle whose two angles are 50 degrees.",
+            "tobe": [
+              50,
+              50,
+              80
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometry",
+      "slug": "geometry",
+      "label": "Parallelogram",
+      "id": "400",
+      "data": {
+        "ques": [
+          {
+            "type": "parallelogram",
+            "qText": "Draw a parallelogram of sides 3 and 4 cm, with one of its angle being 60 degree.",
+            "tobe": [
+              3,
+              4,
+              60
+            ]
+          },
+          {
+            "type": "parallelogram",
+            "qText": "Draw a parallelogram of sides 3 and 3 cm, with one of its angle being 90 degree.",
+            "tobe": [
+              3,
+              3,
+              90
+            ]
+          },
+          {
+            "type": "parallelogram",
+            "qText": "Draw a parallelogram of sides 3 and 2 cm, with one of its angle being 110 degree.",
+            "tobe": [
+              3,
+              2,
+              110
+            ]
+          },
+          {
+            "type": "parallelogram",
+            "qText": "Draw a parallelogram of sides 3 and 4 cm, with one of its angle being 75 degree.",
+            "tobe": [
+              3,
+              4,
+              75
+            ]
+          },
+          {
+            "type": "parallelogram",
+            "qText": "Draw a parallelogram of sides 2 and 3.6 cm, with one of its angle being 60 degree.",
+            "tobe": [
+              2,
+              3.6,
+              60
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "slug": "geometry",
+      "label": "Missing angle - Triangle",
+      "id": "500",
+      "data": {
+        "qText": "Find the missing angle in the triangle.",
+        "units": "degree",
+        "probType": "triAngle",
+        "list": [
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              39,
+              93
+            ],
+            "angles": [
+              90,
+              35,
+              0
+            ]
+          },
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              166,
+              57
+            ],
+            "angles": [
+              0,
+              60,
+              60
+            ]
+          },
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              111,
+              195
+            ],
+            "angles": [
+              45,
+              20,
+              0
+            ]
+          },
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              237,
+              41
+            ],
+            "angles": [
+              45,
+              80,
+              0
+            ]
+          },
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              39,
+              93
+            ],
+            "angles": [
+              0,
+              35,
+              55
+            ]
+          },
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              111,
+              195
+            ],
+            "angles": [
+              45,
+              0,
+              115
+            ]
+          },
+          {
+            "pts": [
+              40,
+              260,
+              280,
+              260,
+              237,
+              41
+            ],
+            "angles": [
+              0,
+              80,
+              55
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Missing angle",
+      "id": "600",
+      "data": {
+        "qText": "Find the missing angle.",
+        "units": "degree",
+        "probType": "angle180",
+        "list": [
+          30,
+          150,
+          45,
+          135,
+          90,
+          60,
+          120,
+          90
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Missing angle - 2",
+      "id": "700",
+      "data": {
+        "qText": "Find the missing angle.",
+        "units": "degree",
+        "probType": "angle360",
+        "list": [
+          90,
+          180,
+          270,
+          135,
+          300,
+          150,
+          45,
+          225
+        ]
+      }
+    },
+    {
+      "type": "geometryType",
+      "label": "Missing angle - Parallelogram",
+      "id": "800",
+      "data": {
+        "qText": "Find the missing angle in the parallellogram.",
+        "units": "degree",
+        "probType": "parallelogramAngle",
+        "list": [
+          {
+            "pts": [
+              50,
+              193,
+              173,
+              193,
+              257,
+              50,
+              134,
+              50
+            ],
+            "angles": [
+              60,
+              120,
+              0,
+              120
+            ]
+          },
+          {
+            "pts": [
+              50,
+              193,
+              173,
+              193,
+              145,
+              50,
+              22,
+              50
+            ],
+            "angles": [
+              0,
+              80,
+              100,
+              80
+            ]
+          },
+          {
+            "pts": [
+              50,
+              119,
+              254,
+              119,
+              211,
+              50,
+              8,
+              50
+            ],
+            "angles": [
+              120,
+              60,
+              0,
+              60
+            ]
+          },
+          {
+            "pts": [
+              50,
+              268,
+              155,
+              268,
+              239,
+              50,
+              133,
+              50
+            ],
+            "angles": [
+              0,
+              110,
+              70,
+              110
+            ]
+          },
+          {
+            "pts": [
+              50,
+              193,
+              173,
+              193,
+              257,
+              50,
+              134,
+              50
+            ],
+            "angles": [
+              60,
+              0,
+              60,
+              120
+            ]
+          },
+          {
+            "pts": [
+              50,
+              193,
+              173,
+              193,
+              145,
+              50,
+              22,
+              50
+            ],
+            "angles": [
+              100,
+              80,
+              100,
+              0
+            ]
+          },
+          {
+            "pts": [
+              50,
+              119,
+              254,
+              119,
+              211,
+              50,
+              8,
+              50
+            ],
+            "angles": [
+              120,
+              0,
+              120,
+              60
+            ]
+          },
+          {
+            "pts": [
+              50,
+              268,
+              155,
+              268,
+              239,
+              50,
+              133,
+              50
+            ],
+            "angles": [
+              70,
+              110,
+              70,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "dragAndDrop",
+      "label": "Parts of Circle",
+      "data": {
+        "type": "circle"
+      },
+      "id": "1100"
+    }
+  ]
+}

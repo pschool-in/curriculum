@@ -1,0 +1,410 @@
+{
+    "label": "Malayalam",
+    "lang": "ml",
+    "pageBreaks": "",
+    "id": "malayalam",
+    "list": [
+        {
+            "data": {
+              "text": "ഭരണി,ബരണി\nഷർട്ട്, ഷർറ്റ്\nവിളക്ക്,വിഴക്ക്\nപാവാട,പാവാഠ\nപറവ,പരവ\nഅരണ, അരന\nമുതല,മുദല\nതൊപ്പി,തൊപി\nകിടക്ക,കിടക\nബക്കറ്റ്,ഭക്കറ്റ്\nതവള,തവഴ\nആകാശം,ആഖാശം\nഗരുഡൻ,ഖരുഠൻ\nചവിട്ടി, ഛവിട്ടി",
+              "title": "ശരിയായ അക്ഷരവിന്യാസം  തിരഞ്ഞെടുക്കുക"
+            },
+            "editable": true,
+            "id": "1604246276884",
+            "label": " ശരിയായ അക്ഷരവിന്യാസം",
+            "slug": "correct-spelling-template",
+            "type": "rightOne"
+          },
+          {
+            "data": {
+              "text": "വെ ണ്ട ക്കാ യ,  ചെ മ്പ ര ത്തി, ഗ രു ഡ ൻ, ത ണ്ണി മ ത്ത ന്‍, ഏ ത്ത പ്പ ഴം, സൂ ര്യ കാ ന്തി, പേ ര യ് ‌ക്ക, കൈ ത ച്ച ക്ക, ത ക്കാ ളി, പൂ വ ന്‍ കോ ഴി, വേ ഴാ മ്പ ല്‍, കു റു ക്ക ന്‍, പു ളളി പ്പു ലി, ജി റാ ഫ്‌, ക ര ടി\n",
+              "title": "Connect the blocks to form meaningful word."
+            },
+            "editable": true,
+            "id": "1604246118236",
+            "label": "Jumbled - Template",
+            "slug": "find-word-template",
+            "type": "sequence"
+          },
+      {
+        "data": {
+          "isPractice": false,
+          "styles": {
+            "dashWidth": 70,
+            "fontSize": "1rem"
+          },
+          "text": "താ, മര\nവാ, തിൽ\nതൂ, വൽ\nകു, പ്പി\nകാ, ക്ക\nഭൂ, മി\nഭാ, രതം",
+          "title": "Match to form a meaningful word."
+        },
+        "editable": true,
+        "id": "1604247703086",
+        "label": "Match and form words - 1",
+        "slug": "drag-and-drop-blanks-template",
+        "type": "match"
+      },
+      {
+        "data": {
+          "isPractice": false,
+          "styles": {
+            "dashWidth": 70,
+            "fontSize": "1rem"
+          },
+          "text": "പൂ, ച്ച\nപാ, ത്രം\nപേ, ന\nസ, ഞ്ചി\nപുസ് , തകം\nക, സേര\nമേ, ശ\nമ, യിൽ\nഅല, മാരി",
+          "title": "Match to form a meaningful word."
+        },
+        "editable": true,
+        "id": "1604854569136",
+        "label": "Match and form words - 2",
+        "slug": "drag-and-drop-blanks-template",
+        "type": "match"
+      },
+      {
+        "data": {
+          "isPractice": false,
+          "styles": {
+            "dashWidth": 70,
+            "fontSize": "1rem"
+          },
+          "text": "ബാ, ലൻ\nബ, ലൂണ്\nചാ, യ\nച, കിരി\nചേ, ന\nവി, ളക്ക്\nവാ, ഴ\nവ, ഞ്ചി",
+          "title": "Match to form a meaningful word."
+        },
+        "editable": true,
+        "id": "1604855111972",
+        "label": "Match and form words - 3",
+        "slug": "drag-and-drop-blanks-template",
+        "type": "match"
+      },
+      {
+        "data": {
+          "lang": "ml",
+          "table": [
+            [
+              "ക",
+              "ര",
+              "ടി",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "ന",
+              "ആ",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "കു",
+              "രു",
+              "വി",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "പ",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "ശു",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "വ",
+              ""
+            ],
+            [
+              "",
+              "",
+              "ര",
+              "തി",
+              "കു",
+              "",
+              "ടു",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "ക",
+              ""
+            ]
+          ],
+          "title": "Solve the crossword. Please click on a cell to view the hint.",
+          "words": [
+            {
+              "direction": "across",
+              "hint": "",
+              "marker": {
+                "x": 0,
+                "y": 0
+              },
+              "word": "കരടി"
+            },
+            {
+              "direction": "down2",
+              "hint": "",
+              "marker": {
+                "x": 6,
+                "y": 7
+              },
+              "word": "കടുവ"
+            },
+            {
+              "direction": "down",
+              "hint": "",
+              "marker": {
+                "x": 2,
+                "y": 3
+              },
+              "word": "പശു"
+            },
+            {
+              "direction": "across2",
+              "hint": "",
+              "marker": {
+                "x": 4,
+                "y": 1
+              },
+              "word": "ആന"
+            },
+            {
+              "direction": "across",
+              "hint": "",
+              "marker": {
+                "x": 1,
+                "y": 2
+              },
+              "word": "കുരുവി"
+            },
+            {
+              "direction": "across2",
+              "hint": "",
+              "marker": {
+                "x": 4,
+                "y": 6
+              },
+              "word": "കുതിര"
+            }
+          ]
+        },
+        "editable": true,
+        "id": "1605287811738",
+        "label": "Crossword - Template",
+        "type": "crossword"
+      },
+      {
+        "data": {
+          "lang": "ml",
+          "showWords": true,
+          "table": [
+            [
+              "എ",
+              "ശ",
+              "പ",
+              "ഘ",
+              "പ",
+              "ശു",
+              "ശ",
+              "ഡ"
+            ],
+            [
+              "കു",
+              "തി",
+              "ര",
+              "ഘ",
+              "ഥ",
+              "ഞ",
+              "ണ",
+              "ബ"
+            ],
+            [
+              "അ:",
+              "സ",
+              "റ",
+              "ഠ",
+              "ഝ",
+              "ക",
+              "ച",
+              "വ"
+            ],
+            [
+              "ന",
+              "ആ",
+              "അ.",
+              "ഠ",
+              "അ",
+              "ര",
+              "ഊ",
+              "ഖ"
+            ],
+            [
+              "ഘ",
+              "ഥ",
+              "ഥ",
+              "ഷ",
+              "ഓ",
+              "ടി",
+              "യ",
+              "ക"
+            ],
+            [
+              "ഥ",
+              "ഷ",
+              "വി",
+              "ല",
+              "ആ",
+              "ഡ",
+              "ടു",
+              "ഉ"
+            ],
+            [
+              "ഥ",
+              "രു",
+              "ഈ",
+              "ഒ",
+              "റ",
+              "വ",
+              "ധ",
+              "സ"
+            ],
+            [
+              "കു",
+              "ഉ",
+              "ഛ",
+              "മൈ",
+              "ന",
+              "ഊ",
+              "ഥ",
+              "വ"
+            ]
+          ],
+          "title": "നൽകിയ വാക്കുകൾ പട്ടികയിൽ നിന്ന് കണ്ടെത്തുക.",
+          "words": [
+            {
+              "marker": [
+                0,
+                1,
+                2,
+                1
+              ],
+              "word": [
+                "കു",
+                "തി",
+                "ര"
+              ]
+            },
+            {
+              "marker": [
+                0,
+                7,
+                2,
+                5
+              ],
+              "word": [
+                "കു",
+                "രു",
+                "വി"
+              ]
+            },
+            {
+              "marker": [
+                5,
+                2,
+                5,
+                4
+              ],
+              "word": [
+                "ക",
+                "ര",
+                "ടി"
+              ]
+            },
+            {
+              "marker": [
+                4,
+                0,
+                5,
+                0
+              ],
+              "word": [
+                "പ",
+                "ശു"
+              ]
+            },
+            {
+              "marker": [
+                7,
+                4,
+                5,
+                6
+              ],
+              "word": [
+                "ക",
+                "ടു",
+                "വ"
+              ]
+            },
+            {
+              "marker": [
+                1,
+                3,
+                0,
+                3
+              ],
+              "word": [
+                "ആ",
+                "ന"
+              ]
+            },
+            {
+              "marker": [
+                3,
+                7,
+                4,
+                7
+              ],
+              "word": [
+                "മൈ",
+                "ന"
+              ]
+            }
+          ]
+        },
+        "editable": true,
+        "id": "1605690505120",
+        "label": "പക്ഷികളും മൃഗങ്ങളും",
+        "type": "wordsearch"
+      }
+    ]
+  }
+  

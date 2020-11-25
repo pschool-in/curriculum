@@ -1,0 +1,86 @@
+{
+  "label": "Choose Right Word",
+  "id": "choose-right-word",
+  "pageBreaks": "",
+  "pdf": "choose-right-word.pdf",
+  "list": [
+    {
+      "id": "100",
+      "label": "is, am, are ",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: is, am, are ",
+        "text": "Peter Baker *is* from Manchester, but Paul and John *are* from London. Manchester and London *are* cities in England. Hamburg *is* a city in Germany. Sandra  *is* at school today. Jack and Peter *are* her friends. They *are* in the same class. Mr. and Mrs. Baker *are* on a trip to the USA to visit their cousin Anne. She  *is* a nice girl. Peter says: \"My grandfather  *is* in hospital. I *am* at home with my grandmother.\" What time *is* it? It *is* 8 o'clock. *are* you tired? No, I *am* not.",
+        "options": "is, am, are"
+      }
+    },
+    {
+      "id": "200",
+      "label": "has, have, had",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with the right word: has, have, had",
+        "text": "I *have* many friends.\nWe *had* a big house when I was a kid.\nSpring *has* six crayons.\nA rabbit *has* long ears.\nDo you *have* a balloon?\nThis bird *has* red wings.\nGeron *had* fun at the party last night.\nDivya *has* a new toy.\nThe students *had* fun watching movie last night.\nNow Priya *has* a big smile on her face.\nHe *has* a new dog named Tommy.\nI really hope that I *have* the time to complete the home work.\nTonight, we *have* a birthday party.",
+        "options": "has, have, had"
+      }
+    },
+    {
+      "id": "300",
+      "label": "I and Me",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with I and me.",
+        "text": "Could you pass *me* the salt?\n*I* don't want to go out now.\nVinoth and *I* are going to the movies.\nAm *I* invited?\nShe gave *me* some coins.\nWalk with *me*, *I* need your company.\nYou and *I* should go to the park.\nJake asked *me* to help him.\nHe needs to ask Ravi or *me*.\nIf *I* go outside, I'll get cold.",
+        "options": "I, me"
+      }
+    },
+    {
+      "id": "400",
+      "label": "We and Us",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with we and us.",
+        "text": "Let *us* cross the road.\nCan *we* all go to the swimming pool tomorrow?\n*We* were talking to the principal.\nThank you for driving *us* to the market.\nThe teacher asked *us* to form a circle.",
+        "options": "we, us"
+      }
+    },
+    {
+      "id": "500",
+      "label": "She and Her",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with she and her.",
+        "text": "I gave *her* the books.\n*She* doesn't have a pen.\n*She* is so clever.\nIf I tell Roshima, *she* might tell Sunitha.\nI will talk to *her* about this issue.",
+        "options": "she, her"
+      }
+    },
+    {
+      "id": "600",
+      "label": "They and Them",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with they and them.",
+        "text": "We asked *them* to keep the door open.\nIf you build it, *they* will come.\n*They* are very nice people.\nWhat do *they* want?\nI have lost my keys. I can't find *them* anywhere.\n What if *they* forget to prepare food.\nPlease inform *them* that the food is ready.\nI know *they* are excited about the picnic.\nI don't like *them*.\nAre *they* from Italy?",
+        "options": "they, them"
+      }
+    },
+    {
+      "id": "700",
+      "label": "He and Him",
+      "type": "fillupOptions",
+      "data": {
+        "editable": true,
+        "title": "Fill in the blanks with he and him.",
+        "text": "If you see David, give *him* these books.\nDoes *he* want some coffee?\n*He* is a wise man.\nDid Mohan get the promotion *he* wanted?\nI didn't recognize *him*.",
+        "options": "he, him"
+      }
+    }
+  ],
+  "fileName": "Choose Right Word"
+}

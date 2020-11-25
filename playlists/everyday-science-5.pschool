@@ -1,0 +1,99 @@
+{
+  "id": "everyday-science-5",
+  "label": "Everyday Science",
+  "pdf": "everyday-science-5.pdf",
+  "list": [
+    {
+      "label": "Reversible Changes - Passage",
+      "type": "passage",
+      "id": "100",
+      "data": {
+        "title": "Reversible Changes",
+        "text": "Change is the transition of a substance from one form to another. We see many changes around us. We see changes like day and night, summer and winter and so on. We also see changes in objects. Growth of a tree, ripening of fruits, falling of leaves are some of the changes taking place around us. You can observe changes in you also. Your height and weight increase, hair and nail grow and you have grown up as a whole compared to last year. These changes can be classified as reversible and irreversible changes.\n# Reversible Changes\nChanges which can be reversed are called reversible changes. If you keep water in the freezer for some time, it is tranformed into ice. If it is taken out, it becomes water again. This is a reversible change.\n# Irreversible Changes\nChanges which cannot be reversed are called irreversible changes. If you burn a piece of paper it burns and turns into ash. It cannot become paper again. This is an irreversible change.\nIrreversible changes are also known as permanent changes. Processes like burning, cooking, rusting of iron cause permanent changes.\nThe chemical properties of the substance do not change in reversible changes. On the other hand, the chemical properties of the substance will change in irreversible change.\n# Wastes Generated in our Environment\nWaste is any substance which is discarded after primary use. It is worthless, defective and of no use. They are unwanted and undesirable materials.\nWastes from home is known as household waste and they are classified as below\n#Organic wastes: \nKitchen wastes, Vegetables, Flowers, Leaves, Fruits\n#Toxic wastes:\n Old medicines, Paints, Chemicals, Bulbs, Spray cans, Fertilizers, Pesticide, containers, Batteries, Shoe polish.\n#Recyclable wastes:\n Paper, Glass, Metals, Plastics.\n#e-wastes:\n Computer parts, Electronic materials, Cell phone parts, CFL bulbs.\nWaste management is needed for the following reasons.\n# To control pollution\nVarious pollutions like water pollution, air pollution and soil pollution can be avoided.\n# To conserve natural resources\nWaste disposal is important for the conservation of our environmental resources like forest, minerals and water.\n# To control spread of diseases\nSpread of infectious diseases can be controlled.\n# Recycle for further use\nWastes can be recycled to get products for further use.\nWe need to learn how to reduce, reuse and recycle wastes. The following practices will be helpful to reduce wastes in our home and school environment.\n1. Use reusable and recyclable bags and containers.\n2. Avoid one time use items and use items which can be used repeatedly.\n3. Segregate wastes into bio-degradable and nonbiodegradable items.\n4. Do not throw away your wastes every where. Put them in dustbins and dispose them properly.\n5. Don’t waste food. Waste food in schools can be collected and used to feed cattles.\n6. Organic wastes can be converted into manures."
+      }
+    },
+    {
+      "type": "rightOne",
+      "id": "200",
+      "label": "Odd one out",
+      "data": {
+        "title": "Pick the odd one out",
+        "fontSize": "1.3rem",
+        "noCaps": true,
+        "text": "Cooking, Melting, Freezing, Boiling\nBoiling, Burning, Cooking, Rusting of iron\nChemicals, Vegetables, Flowers, Fruits\nPaints, Paper, Glass, Metals"
+      }
+    },
+    {
+      "label": "Reversible vs Irreversible",
+      "type": "classifySentence",
+      "id": "300",
+      "data": {
+        "title": "Classify the below, as reversible or irreversible process.",
+        "types": [
+          {
+            "name": "Reversible",
+            "text": "Stretching a rubber band.\nBlowing air into a balloon.\nFreezing water in a fridge."
+          },
+          {
+            "name": "Irreversible",
+            "text": "Cutting a rubber band into pieces.\nBursting a balloon.\nBurning of papers"
+          }
+        ]
+      }
+    },
+    {
+      "id": "400",
+      "label": "Match the following",
+      "type": "match",
+      "data": {
+        "text": "Used Mobile, e-waste\nVegetable waste , organic\nPaper, recycleable\nRusting, irreversible\nFreezing, reversible",
+        "fontSize": "1rem",
+        "title": "Match the following"
+      }
+    },
+    {
+      "label": "Multiple Choice Questions",
+      "id": "500",
+      "type": "mcq",
+      "data": {
+        "title": "Multiple Choice Questions",
+        "questions": [
+          {
+            "qText": "An example for reversible change is ________.",
+            "options": "melting of ice, burst of balloon, burning paper, change of milk into curd"
+          },
+          {
+            "qText": "Chemical reactions are example for",
+            "options": "reversible change, * irreversible change, both of them, none of them"
+          },
+          {
+            "qText": "Which of the following is not an organic waste?",
+            "options": "Battery, Flowers, Vegetables, Fruits"
+          },
+          {
+            "qText": "________ wastes can be converted into manures.",
+            "options": "organic, toxic, recyclable e-waste"
+          },
+          {
+            "qText": "Which of the following help to reduce waste?",
+            "options": "* Use reusable bags, * Don't waste food, * Segregate wastes into bio-degradable and nonbiodegradable items"
+          }
+        ]
+      }
+    },
+    {
+      "label": "Fill up ",
+      "type": "matchByDragDrop",
+      "id": "600",
+      "data": {
+        "isPractice": false,
+        "title": "Drag and drop to complete the below sentences.",
+        "styles": {
+          "fontSize": "1rem",
+          "dashWidth": 60
+        },
+        "text": "Most of the physical changes are *reversible* changes.\nMost of the chemical changes are *irreversible* changes.\nWastes from house and apartments are called *household* wastes.\nNews paper is a *recyclable* waste.\nKitchen wastes are *organic* waste."
+      }
+    }
+  ]
+}

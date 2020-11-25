@@ -1,0 +1,240 @@
+{
+  "label": "தமிழ் வார்த்தைகள்",
+  "lang": "ta",
+  "pageBreaks": "",
+  "id": "tamil-words",
+  "list": [
+    {
+      "type": "completeWord",
+      "label": "விடுபட்ட எழுத்தை நிரப்புக ",
+      "id": "100",
+      "data": {
+        "images": "custom",
+        "questions": [
+          {
+            "word": "அணில்",
+            "display": "_ணில்",
+            "hint": "squirrel",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "ஆமை",
+            "display": "_மை",
+            "hint": "tortoise",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "இலை",
+            "display": "_லை",
+            "hint": "leaf",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "ஈசல்",
+            "display": "_சல்",
+            "hint": "winged-termites",
+            "options": "அ, ஆ, இ, ஈ"
+          },
+          {
+            "word": "உலகம்",
+            "display": "_லகம்",
+            "hint": "world",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "ஊதல்",
+            "display": "_தல்",
+            "hint": "whistle",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "எறும்பு",
+            "display": "_றும்பு",
+            "hint": "ant",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "ஏணி",
+            "display": "_ணி",
+            "hint": "ladder",
+            "options": "உ, ஊ, எ, ஏ"
+          },
+          {
+            "word": "ஐந்து",
+            "display": "_ந்து",
+            "hint": "five",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          },
+          {
+            "word": "ஒட்டகம்",
+            "display": "_ட்டகம்",
+            "hint": "camel",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          },
+          {
+            "word": "ஓடம்",
+            "display": "_டம்",
+            "hint": "boat",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          },
+          {
+            "word": "ஔவை",
+            "display": "_வை",
+            "hint": "auvai",
+            "options": "ஐ, ஒ, ஓ, ஔ"
+          }
+        ]
+      }
+    },
+    {
+      "type": "completeWord",
+      "id": "200",
+      "label": "விடுபட்ட எழுத்தை நிரப்புக - 2",
+      "data": {
+        "images": "custom",
+        "questions": [
+          {
+            "word": "கப்பல்",
+            "display": "_ப்பல்",
+            "hint": "ship",
+            "options": "க, ங், ச, ஞா"
+          },
+          {
+            "word": "சங்கு",
+            "display": "ச_கு",
+            "hint": "conch",
+            "options": "க, ங், ச, ஞா"
+          },
+          {
+            "word": "சக்கரம்",
+            "display": "_க்கரம்",
+            "hint": "wheel",
+            "options": "க, ங், ச, ஞா"
+          },
+          {
+            "word": "ஞானி",
+            "display": "_னி",
+            "hint": "rishi",
+            "options": "க, ங், ச, ஞா"
+          },
+          {
+            "word": "டமாரம்",
+            "display": "_மாரம்",
+            "hint": "drums",
+            "options": "ட, ண, த, ந"
+          },
+          {
+            "word": "உணவு",
+            "display": "உ_வு",
+            "hint": "food",
+            "options": "ட, ண, த, ந"
+          },
+          {
+            "word": "தவளை",
+            "display": "_வளை",
+            "hint": "frog",
+            "options": "ட, ண, த, ந"
+          },
+          {
+            "word": "நண்டு",
+            "display": "_ண்டு",
+            "hint": "crab",
+            "options": "ட, ண, த, ந"
+          },
+          {
+            "word": "பட்டம்",
+            "display": "_ட்டம்",
+            "hint": "kite",
+            "options": "ப, ம, யா, ர"
+          },
+          {
+            "word": "மணி",
+            "display": "_ணி",
+            "hint": "bell",
+            "options": "ப, ம, யா, ர"
+          },
+          {
+            "word": "யாழ்",
+            "display": "_ழ்",
+            "hint": "yazl",
+            "options": "ப, ம, யா, ர"
+          },
+          {
+            "word": "ரயில்",
+            "display": "_யில்",
+            "hint": "train",
+            "options": "ப, ம, யா, ர"
+          },
+          {
+            "word": "லட்டு",
+            "display": "_ட்டு",
+            "hint": "ladoo",
+            "options": "ல, வா, ழ, ற"
+          },
+          {
+            "word": "வாத்து",
+            "display": "_த்து",
+            "hint": "duck",
+            "options": "ல, வா, ழ, ற"
+          },
+          {
+            "word": "பழங்கள்",
+            "display": "ப_ங்கள்",
+            "hint": "fruits",
+            "options": "ல, வா, ழ, ற"
+          },
+          {
+            "word": "பறவை",
+            "display": "ப_வை",
+            "hint": "bird",
+            "options": "ல, வா, ழ, ற"
+          },
+          {
+            "word": "சோளம்",
+            "display": "சோ_ம்",
+            "hint": "corn",
+            "options": "ள, வா, ழ, ற"
+          },
+          {
+            "word": "அரசன்",
+            "display": "அரச_",
+            "hint": "king",
+            "options": "ல, ன், ழ, ள"
+          }
+        ]
+      }
+    },
+    {
+      "id": "300",
+      "type": "match",
+      "label": "பொருத்துக",
+      "data": {
+        "editable": true,
+        "title": "பொருத்துக",
+        "text": "மயில் , பறவை \n நாய் , விலங்கு \n மல்லிகை , மலர் \n தை , மாதம் \n திங்கள் , கிழமை \n சென்னை , ஊர் "
+      }
+    },
+    {
+      "id": "400",
+      "type": "match",
+      "label": "காட்டு விலங்குகள் - பொருத்துக",
+      "data": {
+        "title": "காட்டு விலங்குகளை முதல் எழுத்தோடு பொருத்துக.",
+        "text": "யா, elephant\nசி, lion\n கு, monkey\nபு , tiger\nவ, zebra",
+        "rightImgType": "animals",
+        "big": true
+      }
+    },
+    {
+      "id": "500",
+      "type": "match",
+      "label": "வீட்டு விலங்குகள் - பொருத்துக",
+      "data": {
+        "title": "வீட்டு விலங்குகளை முதல் எழுத்தோடு பொருத்துக.",
+        "text": "பூ, cat\nநா, dog\nஆ, goat\nப, pig\nகு, horse",
+        "rightImgType": "animals",
+        "big": true
+      }
+    }
+  ]
+}

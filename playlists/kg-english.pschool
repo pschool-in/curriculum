@@ -1,0 +1,206 @@
+{
+  "label": "Kindergarten English",
+  "id": "kg-english",
+  "pdf": "kg-english.pdf",
+  "list": [
+    {
+      "type": "tracing",
+      "label": "Capital Letters (A - E)",
+      "data": {
+        "type": "capitalLetters",
+        "repeatCount": 3,
+        "chars": "ABCDE"
+      },
+      "id": "100"
+    },
+    {
+      "type": "tracing",
+      "label": "Capital Letters (F - J)",
+      "data": {
+        "type": "capitalLetters",
+        "repeatCount": 3,
+        "chars": "FGHIJ"
+      },
+      "id": "200"
+    },
+    {
+      "type": "tracing",
+      "label": "Capital Letters (K - O)",
+      "data": {
+        "type": "capitalLetters",
+        "repeatCount": 3,
+        "chars": "KLMNO"
+      },
+      "id": "300"
+    },
+    {
+      "type": "tracing",
+      "label": "Capital Letters (P - T)",
+      "data": {
+        "type": "capitalLetters",
+        "repeatCount": 3,
+        "chars": "PQRST"
+      },
+      "id": "400"
+    },
+    {
+      "type": "tracing",
+      "label": "Capital Letters (U - Z)",
+      "data": {
+        "type": "capitalLetters",
+        "repeatCount": 3,
+        "chars": "UVWXYZ"
+      },
+      "id": "500"
+    },
+    {
+      "type": "match",
+      "label": "Match Fruits",
+      "data": {
+        "title": "Match Fruits with their first letter.",
+        "text": "A, apple\nB, banana\nC, cherry\nG, grapes\nS, strawberry",
+        "rightImgType": "fruits",
+        "big": true
+      },
+      "id": "600"
+    },
+    {
+      "type": "match",
+      "label": "Match Fruits - 2",
+      "data": {
+        "title": "Match Fruits with their first letter.",
+        "text": "M, mango\nO, orange\nP, pineapple\nW, watermelon\nJ, jackfruit",
+        "rightImgType": "fruits",
+        "big": true
+      },
+      "id": "650"
+    },
+    {
+      "type": "match",
+      "label": "Match Vegetables",
+      "data": {
+        "title": "Match Vegetables with their first letter.",
+        "text": "O, onion\nC, carrot\nB, beetroot\nP, potato\nT, tomato",
+        "rightImgType": "fruits",
+        "big": true
+      },
+      "id": "660"
+    },
+    {
+      "type": "match",
+      "label": "Match Vehicles",
+      "data": {
+        "title": "Match Vehicles with their first letter.",
+        "text": "A, aeroplane\nS, ship\nC, car\nT, train\nB, bus",
+        "rightImgType": "fruits",
+        "big": true
+      },
+      "id": "670"
+    },
+    {
+      "type": "match",
+      "label": "Match Flowers",
+      "data": {
+        "title": "Match Flowers with their first letter.",
+        "text": "R, rose\nL, lotus\nH, hibiscus\nM, marigold\nS, sunflower",
+        "rightImgType": "fruits",
+        "big": true
+      },
+      "id": "680"
+    },
+    {
+      "type": "tracing",
+      "label": "Small Letters (a - e)",
+      "data": {
+        "type": "smallLetters",
+        "repeatCount": 3,
+        "chars": "abcde"
+      },
+      "id": "700"
+    },
+    {
+      "type": "tracing",
+      "label": "Small Letters (f - j)",
+      "data": {
+        "type": "smallLetters",
+        "repeatCount": 3,
+        "chars": "fghij"
+      },
+      "id": "800"
+    },
+    {
+      "type": "tracing",
+      "label": "Small Letters (k - o)",
+      "data": {
+        "type": "smallLetters",
+        "repeatCount": 3,
+        "chars": "klmno"
+      },
+      "id": "900"
+    },
+    {
+      "type": "tracing",
+      "label": "Small Letters (p - t)",
+      "data": {
+        "type": "smallLetters",
+        "repeatCount": 3,
+        "chars": "pqrst"
+      },
+      "id": "1000"
+    },
+    {
+      "type": "tracing",
+      "label": "Small Letters (u - z)",
+      "data": {
+        "type": "smallLetters",
+        "repeatCount": 3,
+        "chars": "uvwxyz"
+      },
+      "id": "1100"
+    },
+    {
+      "type": "match",
+      "label": "Match Wild Animals",
+      "data": {
+        "title": "Match wild animals with their first letter.",
+        "text": "E, elephant\nL, lion\n M, monkey\nT, tiger\nZ, zebra",
+        "rightImgType": "animals",
+        "big": true
+      },
+      "id": "1200"
+    },
+    {
+      "type": "match",
+      "label": "Match Domestic Animals",
+      "data": {
+        "title": "Match domestic animals with their first letter.",
+        "text": "C, cat\nD, dog\nG, goat\nP, pig\nH, horse",
+        "rightImgType": "animals",
+        "big": true
+      },
+      "id": "1300"
+    },
+    {
+      "type": "rightOne",
+      "label": "Identify Capital Letters",
+      "slug": "correct-spelling",
+      "id": "1400",
+      "data": {
+        "title": "Listen to the sound and click on the letter.",
+        "type": "letters",
+        "collectionType": "capitalLetters"
+      }
+    },
+    {
+      "type": "rightOne",
+      "label": "Identify Small Letters",
+      "slug": "correct-spelling",
+      "id": "1500",
+      "data": {
+        "title": "Listen to the sound and click on the letter.",
+        "type": "letters",
+        "collectionType": "smallLetters"
+      }
+    }
+  ]
+}

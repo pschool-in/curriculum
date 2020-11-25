@@ -1,0 +1,185 @@
+{
+  "id": "arithmatic-3",
+  "label": "Arithmatic",
+  "pdf": "arithmatic-3.pdf",
+  "list": [
+    {
+      "type": "compare",
+      "label": "Compare Numbers - 1",
+      "data": {
+        "level": 3
+      },
+      "id": "-200"
+    },
+    {
+      "type": "compare",
+      "label": "Compare Numbers - 2",
+      "data": {
+        "level": 4
+      },
+      "id": "-100"
+    },
+    {
+      "id": "100",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - 4 Digit",
+      "data": {
+        "type": "after~xxxx",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "200",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - 4 Digit",
+      "data": {
+        "type": "before~xxxx",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "300",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - 4 Digit Ending with 9",
+      "data": {
+        "type": "after~xxx9",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "400",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - 4 Digit Ending with 0",
+      "data": {
+        "type": "before~xxx0",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "500",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - 4 Digit Ending with 99",
+      "data": {
+        "type": "after~xx99",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "600",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - 4 Digit Ending with 00",
+      "data": {
+        "type": "before~xx00",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "700",
+      "type": "addition",
+      "label": "3 Digit Addition",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~xxx~x"
+      }
+    },
+    {
+      "id": "800",
+      "type": "addition",
+      "label": "Adding Tens",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~xxx~x0"
+      }
+    },
+    {
+      "id": "900",
+      "type": "addition",
+      "label": "Adding Hundreds",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~xxx~x00"
+      }
+    },
+    {
+      "id": "1000",
+      "type": "addition",
+      "label": "Two Digit Subtraction",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~xxx~x"
+      }
+    },
+    {
+      "id": "1100",
+      "type": "addition",
+      "label": "Subtract from Tens",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~xxx~x0"
+      }
+    },
+    {
+      "id": "1200",
+      "type": "addition",
+      "label": "Subtract from Hundreds",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~xxx~x00"
+      }
+    },
+    {
+      "id": "1300",
+      "type": "addition",
+      "label": "Single Digit Multiplication",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Multiply",
+        "type": "mul~x~x"
+      }
+    }
+  ]
+}

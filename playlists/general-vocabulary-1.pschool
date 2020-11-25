@@ -1,0 +1,176 @@
+{
+  "label": "General Vocabulary - 1",
+  "id": "general-vocabulary-1",
+  "pdf": "general-vocabulary-1.pdf",
+  "list": [
+    {
+      "type": "rightOne",
+      "id": "100",
+      "label": "Pick Correct Spelling",
+      "data": {
+        "text": "CAT, KAT \n APPLE, APLE \n  BOX, BOK \n CAN, CAAN \n BALL, BAL \n EGG, EG \n GRAPES,GRAPS \nHOME,HOM \nICE,ICC \nZEBRA,ZIBRA"
+      }
+    },
+    {
+      "type": "completeWord",
+      "id": "200",
+      "label": "Complete Word - Fruits",
+      "data": {
+        "lang": "en",
+        "images": "fruits",
+        "questions": [
+          {
+            "word": "APPLE",
+            "display": "_PPLE",
+            "hint": "apple"
+          },
+          {
+            "word": "GRAPES",
+            "display": "_RAPES",
+            "hint": "grapes"
+          },
+          {
+            "word": "BANANA",
+            "display": "_ANANA",
+            "hint": "banana"
+          },
+          {
+            "word": "CHERRY",
+            "display": "_HERRY",
+            "hint": "cherry"
+          },
+          {
+            "word": "AVOCADO",
+            "display": "_VOCADO",
+            "hint": "avocado"
+          },
+          {
+            "word": "STRAWBERRY",
+            "display": "_TRAWBERRY",
+            "hint": "strawberry"
+          }
+        ]
+      }
+    },
+    {
+      "type": "completeWord",
+      "id": "300",
+      "label": "Complete Word - Animals",
+      "data": {
+        "lang": "en",
+        "images": "animals",
+        "questions": [
+          {
+            "word": "CAT",
+            "display": "_AT",
+            "hint": "cat"
+          },
+          {
+            "word": "DOG",
+            "display": "_OG",
+            "hint": "dog"
+          },
+          {
+            "word": "ELEPHANT",
+            "display": "_LEPHANT",
+            "hint": "elephant"
+          },
+          {
+            "word": "GOAT",
+            "display": "_OAT",
+            "hint": "goat"
+          },
+          {
+            "word": "HORSE",
+            "display": "_ORSE",
+            "hint": "horse"
+          },
+          {
+            "word": "LION",
+            "display": "_ION",
+            "hint": "lion"
+          },
+          {
+            "word": "MONKEY",
+            "display": "_ONKEY",
+            "hint": "monkey"
+          },
+          {
+            "word": "PIG",
+            "display": "_IG",
+            "hint": "pig"
+          },
+          {
+            "word": "RHINO",
+            "display": "_HINO",
+            "hint": "rhino"
+          },
+          {
+            "word": "SHEEP",
+            "display": "_HEEP",
+            "hint": "sheep"
+          },
+          {
+            "word": "TIGER",
+            "display": "_IGER",
+            "hint": "tiger"
+          },
+          {
+            "word": "ZEBRA",
+            "display": "_EBRA",
+            "hint": "zebra"
+          }
+        ]
+      }
+    },
+    {
+        "type": "match",
+        "label": "Match Synonyms",
+        "id": "400",
+        "data": {
+            "title": "Match Synonyms",
+          "text": "huge, large\nquick, fast\nill, sick\nfriendly, kind\nsilent, quiet\nspeak, talk\nlarge, big"
+        }
+      },
+    {
+        "type": "match",
+        "label": "Match Antonyms",
+        "id": "500",
+        "data": {
+            "title": "Match Antonyms",
+            "text": "yes, no\nyou, I\nyesterday, tomorrow\nyoung, old\nearly, late \ncry, laugh "
+          }
+      },
+      {
+        "type": "match",
+        "label": "Match Synonyms - 2",
+        "id": "600",
+        "data": {
+            "title": "Match Synonyms",
+          "text": "rest, relax\nbad, evil\ndifficult, hard\nbegin, start\ncome, arrive\nend, finish\nright, correct\nwrong, incorrect"
+        }
+      },
+      {
+        "type": "match",
+        "label": "Match Antonyms - 2",
+        "id": "700",
+        "data": {
+            "title": "Match Antonyms",
+          "text": "fail, pass\nmany, few \npoor, rich \nspeed, slow\ncruel, kind \nabove, below"
+        }
+      },
+      
+     
+    {
+      "type": "rightOne",
+      "label": "Identify Words by Sound",
+      "id": "800",
+      "data": {
+        "title": "Listen to the sound and click on the word.",
+        "type": "words",
+        "audio": "englishWords.mp3",
+        "words": "jump, play, look, good, water, about, little, after, before, many, few"
+      }
+    }
+  ]
+}

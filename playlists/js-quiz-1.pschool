@@ -1,0 +1,57 @@
+{
+    "label": "Javascript Quiz",
+    "id": "js-quiz",
+    "list": [
+      {
+        "label": "Multiple Choice Questions - MCQ",
+        "type": "mcqAdvanced",
+        "data": {
+          "title": "Multiple Choice Questions",
+          "questions": [
+            {
+              "qText": "<p>Javascript is a </p>",
+              "options": "loosely-typed language, strongly-typed language"
+            },
+            {
+              "qText": "<p>What is the output of the below code?</p><pre><code  class='language-javascript'>console.log(0.3 - 0.2 === 0.1)</pre></code>",
+              "options": "True, *False, 0.1"
+            },
+            {
+              "qText": "<p>Which of the following is not a valid keyword to declare a variable?</p>",
+              "options": "var, let, * def, const"
+            },
+            {
+              "qText": "<p>What is the output of the below code?</p><pre><code  class='language-javascript'>var x = 10;\nfunction doSomething(){\n\tconsole.log(x);\n\tvar x = 20;\n}</pre></code>",
+              "options": "null, 10, 20, * undefined"
+            },
+            {
+              "qText": "<p>What is the output of the below code?</p><pre><code  class='language-javascript'>function doSomething(){\n\tdoIt();\n\treturn;\n\tfunction doIt(){\n\t\tconsole.log('hello world');\n\t}\n}\ndoSomething();</pre></code>",
+              "options": "hello world, Error, Undefined, null"
+            },
+            {
+              "qText": "<p>What is the output of the below code?</p><pre><code  class='language-javascript'>for(var i = 0; i < 10; i++){\n\tsetTimeout(function(){ console.log(i)},100);\n}</pre></code>",
+              "options": " Prints number 0 to 10 instantly after 100 ms, Prints number 0 to 10 with an interval of 100 ms, * Prints 10 for 10 times after 100 ms"
+            },
+            {
+              "qText": "<p>What is the main benefit of Immediately-invoked function expression (IIFE)?</p><pre><code  class='language-javascript'>(function(){\n\tvar id = 100;\n\t...\n})();</pre></code>",
+              "options": "It reduces the number of lines of code., * It avoids global variables., It reduces the number of runtime errors."
+            },
+            {
+              "qText": "<p>Which of the following is right?</p>",
+              "options": "<p><code>var</code> has function scope and <code>let</code> has block scope.</p>,<p><code>var</code> has block scope and <code>let</code> has function scope.</p>,<p><code>var</code> and <code>let</code> has function scope.</p>,<p><code>var</code> and <code>let</code> has block scope.</p>"
+            },
+            {
+              "qText": "<p>True or False: The below code will throw an error.</p><pre><code  class='language-javascript'>const marks = [95,92,78]\nmarks[0] = 80;</pre></code>",
+              "options": " True, * False"
+            },
+            {
+              "qText": "<p>What is the output of the below code?</p><pre><code class='language-javascript'>var a = [20, 30, 40];\nvar b = a;\nb[1] = 10;\nconsole.log(a)</pre></code>",
+              "options": " *[20, 10, 40] \n [20, 30, 40]"
+            }
+          ]
+        },
+        "id": "100"
+      }
+    ]
+  }
+  

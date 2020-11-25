@@ -1,0 +1,105 @@
+{
+  "label": "General Math",
+  "id": "math-general-4",
+  "pdf": "math-general-4.pdf",
+  "list": [
+    {
+      "type": "biggestNumber",
+      "label": "Biggest Number",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": true,
+        "type": 5
+      },
+      "id": "100"
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Smallest Number",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": false,
+        "type": 5
+      },
+      "id": "200"
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Biggest Number - 2",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": true,
+        "type": 6
+      },
+      "id": "300"
+    },
+    {
+      "type": "biggestNumber",
+      "label": "Smallest Number - 2",
+      "data": {
+        "totalNos": 4,
+        "isBiggest": false,
+        "type": 6
+      },
+      "id": "400"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Ascending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": true,
+        "type": 4
+      },
+      "id": "500"
+    },
+    {
+      "type": "picturePuzzle",
+      "label": "Picture Puzzle",
+      "data": {},
+      "id": "600"
+    },
+    {
+      "type": "ascendingOrder",
+      "label": "Descending Order",
+      "data": {
+        "totalNos": 4,
+        "isAscending": false,
+        "type": 4
+      },
+      "id": "700"
+    },
+    {
+      "type": "wordProblemType",
+      "label": "Word Problems",
+      "id": "800"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 13",
+      "data": {
+        "type": "tables",
+        "number": 13
+      },
+      "id": "900"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 14",
+      "data": {
+        "type": "tables",
+        "number": 14
+      },
+      "id": "1000"
+    },
+    {
+      "type": "matchByDragDrop",
+      "label": "Tables - 15",
+      "data": {
+        "type": "tables",
+        "number": 15
+      },
+      "id": "1100"
+    }
+  ]
+}

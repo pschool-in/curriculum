@@ -1,0 +1,155 @@
+{
+  "id": "arithmatic-4",
+  "label": "Arithmatic",
+  "pdf": "arithmatic-4.pdf",
+  "list": [
+    {
+      "type": "compare",
+      "label": "Compare Numbers - 1",
+      "data": {
+        "level": 5
+      },
+      "id": "-200"
+    },
+    {
+      "type": "compare",
+      "label": "Compare Numbers - 2",
+      "data": {
+        "level": 6
+      },
+      "id": "-100"
+    },
+    {
+      "id": "100",
+      "type": "addition",
+      "label": "2 Digit easy addition",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~x5~x5"
+      }
+    },
+    {
+      "id": "200",
+      "type": "addition",
+      "label": "2 Digit easy subtraction",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~x5~x5"
+      }
+    },
+    {
+      "id": "300",
+      "type": "addition",
+      "label": "Adding Tens",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~x0~x0"
+      }
+    },
+    {
+      "id": "400",
+      "type": "addition",
+      "label": "Subtracting Tens",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~x0~x0"
+      }
+    },
+    {
+      "id": "500",
+      "type": "addition",
+      "label": "Multiply Easy",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Multiply",
+        "type": "mul~x0~x"
+      }
+    },
+    {
+      "id": "600",
+      "type": "addition",
+      "label": "Multiply Easy - 2",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Multiply",
+        "type": "mul~x00~x"
+      }
+    },
+    {
+      "id": "700",
+      "type": "addition",
+      "label": "Divide",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Divide",
+        "type": "div~x~x"
+      }
+    },
+    {
+      "id": "800",
+      "type": "addition",
+      "label": "Fill up",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "add~xx~x"
+      }
+    },
+    {
+      "id": "900",
+      "type": "addition",
+      "label": "Fill up - 2",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "sub~xx~x"
+      }
+    },
+    {
+      "id": "1000",
+      "type": "addition",
+      "label": "Fill up - 3",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "mul~x~x"
+      }
+    },
+    {
+      "id": "1100",
+      "type": "addition",
+      "label": "Fill up - 4",
+      "data": {
+        "count": 10,
+        "isReverse": true,
+        "text": "",
+        "title": "Fill in the blanks.",
+        "type": "div~xx~x"
+      }
+    }
+  ]
+}

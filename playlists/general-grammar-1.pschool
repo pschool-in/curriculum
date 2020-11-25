@@ -1,0 +1,78 @@
+{
+  "label": "General Grammar - 1",
+  "id": "general-grammar-1",
+  "list": [
+    {
+      "type": "selectWord",
+      "label": "Identify action word (Verb)",
+      "data": {
+        "type": "actionWord"
+      },
+      "id": "100"
+    },
+    {
+      "type": "fillupOptions",
+      "label": "What / Why/ Where",
+      "data": {
+        "type": "question1"
+      },
+      "id": "200"
+    },
+    {
+      "type": "sequence",
+      "label": "Order Sentence",
+      "data": {
+        "text": "we are happy \n it is dark \n dog is hungry \n they are coming \n  I am a boy \n I live in Trichy \n please come in line \n we are watching tv \n they are playing cricket \n  I am reading poems"
+      },
+      "id": "300"
+    },
+    {
+      "type": "selectWord",
+      "label": "Identify Proper Noun",
+      "data": {
+        "type": "properNoun"
+      },
+      "id": "400"
+    },
+    {
+      "type": "selectWord",
+      "label": "Identify Common Noun",
+      "data": {
+        "type": "commonNoun"
+      },
+      "id": "500"
+    },
+    {
+      "type": "fillupOptions",
+      "label": "is/am/are",
+      "data": {
+        "type": "is-am-are"
+      },
+      "id": "600"
+    },
+    {
+      "type": "fillupOptions",
+      "label": "was/were",
+      "data": {
+        "type": "was-were"
+      },
+      "id": "700"
+    },
+    {
+      "type": "group",
+      "label": "Helping vs Main verbs",
+      "data": {
+        "type": "helpingVerbs"
+      },
+      "id": "800"
+    },
+    {
+      "type": "group",
+      "label": "Noun vs Verb",
+      "data": {
+        "type": "nounVsVerb"
+      },
+      "id": "900"
+    }
+  ]
+}

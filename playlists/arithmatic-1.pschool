@@ -1,0 +1,121 @@
+{
+  "id": "arithmatic-1",
+  "label": "Arithmatic",
+  "pdf": "arithmatic-1.pdf",
+  "list": [
+    {
+      "id": "100",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - Single Digit",
+      "data": {
+        "type": "after~x",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "200",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - Single Digit",
+      "data": {
+        "type": "before~x",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "300",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - Two Digit",
+      "data": {
+        "type": "after~xx",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "400",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - Two Digit",
+      "data": {
+        "type": "before~xx",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "500",
+      "type": "addition",
+      "slug": "after-number",
+      "label": "After Number - 2 Digit Ending with 9",
+      "data": {
+        "type": "after~x9",
+        "title": "Write the after number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "600",
+      "type": "addition",
+      "slug": "before-number",
+      "label": "Before Number - 2 Digit Ending with 0",
+      "data": {
+        "type": "before~x0",
+        "title": "Write the before number.",
+        "count": 10,
+        "isReverse": false,
+        "text": ""
+      }
+    },
+    {
+      "id": "700",
+      "type": "addition",
+      "label": "Single Digit Addition",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~x~x"
+      }
+    },
+    {
+      "id": "800",
+      "type": "addition",
+      "label": "Adding Tens and Ones",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Add the Numbers",
+        "type": "add~x0~x"
+      }
+    },
+    {
+      "id": "900",
+      "type": "addition",
+      "label": "Single Digit Subtraction",
+      "data": {
+        "count": 10,
+        "isReverse": false,
+        "text": "",
+        "title": "Subtract the Numbers",
+        "type": "sub~x~x"
+      }
+    }
+  ]
+}
