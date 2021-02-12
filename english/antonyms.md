@@ -1,6 +1,7 @@
 # level - 1
 
-```yes, no
+```
+yes, no
 you, I
 yesterday, tomorrow
 young, old
@@ -8,7 +9,8 @@ early, late
 cry, laugh
 ```
 
-```fail, pass
+```
+fail, pass
 many, few
 poor, rich
 speed, slow
@@ -16,7 +18,8 @@ cruel, kind
 above, below
 ```
 
-```left, right
+```
+left, right
 always, never
 bottom, top
 careful, careless
@@ -24,7 +27,8 @@ warm, cool
 east, west
 ```
 
-```bad, good
+```
+bad, good
 after, before
 boy, girl
 close, far
@@ -32,7 +36,8 @@ dark, light
 empty, full
 ```
 
-```against,for
+```
+against,for
 question, answer
 brave, coward
 closed,  open
@@ -40,7 +45,8 @@ day, night
 found, lost
 ```
 
-```all,none
+```
+all,none
 black,white
 dull, bright
 cold, hot
@@ -48,7 +54,8 @@ down, up
 give, take
 ```
 
-```begin, end
+```
+begin, end
 lend, borrow 
 broad, narrow
 come, go
@@ -56,7 +63,8 @@ dry, wet
 hate, love
 ```
 
-```out, in
+```
+out, in
 heaven, hell
 here, there
 large, small
@@ -65,7 +73,8 @@ low, high
 ```
 
 
-```north, south
+```
+north, south
 push, pull
 smooth, rough
 slim, fat
@@ -73,7 +82,8 @@ soft, hard
 them, us
 ```
 
-```true, false
+```
+true, false
 tall , short
 truth, lie
 loud, quiet
@@ -83,7 +93,8 @@ on, off
 
 # level - 2
 
-```foolish, wise
+```
+foolish, wise
 forget, remember
 glad, sad
 angel, devil
@@ -91,7 +102,8 @@ battle, peace
 beautiful, ugly
 ```
 
-```behind, ahead
+```
+behind, ahead
 best, worst
 common, rare
 complex, simple
@@ -99,7 +111,8 @@ difficult, easy
 dream, reality
 ```
 
-```accept, refuse
+```
+accept, refuse
 awake, asleep
 bless,curse
 downwards,upwards
@@ -107,7 +120,8 @@ fresh,stale
 hinder,help
 ```
 
-```admit,deny
+```
+admit,deny
 bent,straight
 clever,stupid
 enter,exit
@@ -115,7 +129,8 @@ float,sink
 harsh,mild
 ```
 
-```alive,dead
+```
+alive,dead
 better,worse
 dangerous,safe
 even,odd
@@ -123,7 +138,8 @@ gentle,rough
 inside,outside
 ```
 
-```arrive, depart
+```
+arrive, depart
 bitter, sweet
 decrease, increase
 famous, unknown
@@ -131,7 +147,8 @@ guest, host
 interesting, boring
 ```
 
-```ascend, descend
+```
+ascend, descend
 blame, praise
 deep, shallow
 find, lose
@@ -139,7 +156,8 @@ heavy, light
 inner, outer
 ```
 
-```frequent, seldom
+```
+frequent, seldom
 leader, follower
 intentional, accidental
 junior, senior
@@ -147,7 +165,8 @@ inhale, exhale
 lenient, strict
 ```
 
-```major, minor
+```
+major, minor
 melt, freeze
 opposite, similar
 on, off
@@ -155,7 +174,8 @@ polite, rude
 powerful, weak
 ```
 
-```sow, reap
+```
+sow, reap
 success, failure
 sunny, cloudy
 sour, sweet
@@ -165,7 +185,8 @@ victory, defeat
 
 # level - 3
 
-```enemy, friend
+```
+enemy, friend
 everything, nothing
 construct, destroy
 expensive, cheap
@@ -173,7 +194,8 @@ future, past
 ceiling, floor
 ```
 
-```collect, distribute
+```
+collect, distribute
 command, request
 advantage, drawback
 damage, repair
@@ -181,7 +203,8 @@ different, alike
 encourage, discourage
 ```
 
-```bold, timid
+```
+bold, timid
 appear, vanish
 clockwise, counterclockwise
 straight, crooked
@@ -189,7 +212,8 @@ feeble, strong
 contract, expand
 ```
 
-```cheap, expensive
+```
+cheap, expensive
 ancient, modern
 clumsy, graceful
 despair, hope
@@ -197,7 +221,8 @@ guilty, innocent
 humble, proud
 ```
 
-```build, destroy
+```
+build, destroy
 antonym, synonym
 combine, separate
 dawn, dusk
@@ -205,7 +230,8 @@ grow, shrink
 horizontal, vertical
 ```
 
-```abundant, scarce
+```
+abundant, scarce
 artificial, natural
 compulsory, voluntary
 export, import
@@ -213,7 +239,8 @@ giant, dwarf
 inferior, superior
 ```
 
-```apart, together
+```
+apart, together
 cheerful, sad
 conceal, reveal
 external, internal
@@ -221,7 +248,8 @@ generous, stingy
 include, exclude
 ```
 
-```trap, release
+```
+trap, release
 absent, present
 lengthen, shorten
 lazy, industrious
@@ -229,7 +257,8 @@ minority, majority
 maximum, minimum
 ```
 
-```messy, neat
+```
+messy, neat
 miser, spendthrift
 optimist, pessimist
 permanent, temporary
@@ -237,7 +266,8 @@ poetry, prose
 plural, singular
 ```
 
-```sink, float
+```
+sink, float
 rapid, slow
 voluntary, compulsory
 scatter, collect
