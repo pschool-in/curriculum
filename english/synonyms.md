@@ -7,7 +7,7 @@ ill, sick
 friendly, kind
 silent, quiet
 speak, talk
-large, big
+immense, enormous
 ```
   
 ```
@@ -96,11 +96,39 @@ need, necessity
 opportunity, chance
 ```
 
+```
 question, query
 sad, unhappy
 weak, fragile
 magnify, expand
 miniature, tiny
+fake,artificial
+```
+```
+approve, accept
+always, forever
+broad, wide
+care, concern
+keep, hold
+mistake, error
+```
+
+```
+arrive, reach
+behave, act
+last, end
+help, aid
+alike, same
+fast, rapid
+```
+
+```
+thin, slim
+close, shut
+over, above
+negative, pessimistic
+more, additional
+ancient, very old
 
 
 
