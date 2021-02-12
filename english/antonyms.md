@@ -269,7 +269,7 @@ plural, singular
 ```
 sink, float
 rapid, slow
-voluntary, compulsory
+vacant, occupied
 scatter, collect
 serious, trivial
 virtue, vice
