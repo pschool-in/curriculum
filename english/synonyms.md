@@ -21,6 +21,25 @@ right correct
 wrong incorrect
 ```
 
+```
+zero, nil
+zone, area
+Synonym, Same
+Tug, pull
+Big, huge
+Empty, Blank
+```
+
+```
+Magnify, Expand
+Miniature, tiny
+Cordial, kind
+Idea- thought
+Occur-happen
+Raw-uncooked
+```
+
+
 
 # Level - 2
 
