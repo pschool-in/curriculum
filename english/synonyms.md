@@ -7,7 +7,6 @@ ill, sick
 friendly, kind
 silent, quiet
 speak, talk
-immense, enormous
 ```
   
 ```
@@ -17,18 +16,17 @@ difficult, hard
 begin, start
 come, arrive
 end, finish
-right, correct
-wrong, incorrect
 ```
 
 ```
+immense, enormous
+wrong, incorrect
 zero, nil
 zone, area
 synonym, Same
 tug, pull
-big, huge
-empty, Blank
 ```
+
 
 ```
 magnify, expand
@@ -50,7 +48,6 @@ store, shop
 see, observe
 smile, grin
 funny, silly
-angry, upset
 ```
 
 ```
@@ -72,8 +69,6 @@ buy, purchase
 chair, seat
 close, near
 choose, pick
-find, discover
-two, pair
 ```
 
 ```
@@ -83,10 +78,26 @@ purchase, buy
 intelligent, smart
 chilly, cool
 bravery, courage
-eat, munch
-stop, cease
 ```
 
+```
+roof, ceiling
+eat, munch
+stop, cease
+carry, take
+grow, expand
+allow, permit
+```
+
+```
+grasp, absorb
+learn, study
+hurt, injure
+neat, tidy
+ache, pain
+away, gone
+
+```
 ```
 enlarge, grow
 happy, joyful
@@ -129,6 +140,36 @@ over, above
 negative, pessimistic
 more, additional
 ancient, very old
+```
+
+```
+thick, fat
+some, few
+see, notice
+close, nearby
+soon, shortly
+angry, upset
+```
+
+```
+right, correct
+empty, Blank
+find, discover
+two, pair
+too, also
+steady, constant
+```
+
+```
+race, competition
+chase, follow
+guard, protect
+common, usual
+hollow, hole
+smack, slap
+```
+
+```
 
 
 
