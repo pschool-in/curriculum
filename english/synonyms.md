@@ -19,24 +19,14 @@ end, finish
 ```
 
 ```
-immense, enormous
+
 wrong, incorrect
 zero, nil
 zone, area
-synonym, Same
+synonym, same
+idea, thought
 tug, pull
 ```
-
-
-```
-magnify, expand
-miniature, tiny
-cordial, kind
-idea, thought
-occur, happen
-raw, uncooked
-```
-
 
 
 # Level - 2
@@ -49,6 +39,16 @@ see, observe
 smile, grin
 funny, silly
 ```
+
+```
+magnify, expand
+miniature, tiny
+cordial, kind
+immense, enormous
+occur, happen
+raw, uncooked
+```
+
 
 ```
 road, street
@@ -170,6 +170,71 @@ smack, slap
 ```
 
 ```
+answer, reply
+astonish, amaze
+border, margin
+bear, tolerate
+back, behind
+busy, engaged
+```
 
+```
+careful, cautious
+change, alter
+continue, keep on
+decrease, reduce
+divide, split
+fetch, retrieve
+```
 
+```
+freedom, liberty
+frequent, often
+omit, skip
+thaw, defrost
+try, attempt
+trash, waste
+```
+
+```
+shy, bashful
+harmony, unity
+accrate, truth
+anxious, worried
+poise, confidence
+transparent, clear
+```
+
+```
+dive, plunge
+evidence, proof
+brief, short
+meager, insufficient
+value, worth
+trivial, unimportant
+```
+
+```
+total, whole
+toss, throw
+tale, story
+yell, shout
+remark, comment
+prompt, immediate
+```
+
+```
+paticular, specific
+vanish, disappear
+defect, fault
+annoy, bother
+bargain, deal
+attire, dress
+```
+
+```
+amiable, friend
+admit, confess
+dense, thick
+odd, strange
 
