@@ -40,21 +40,46 @@ catch, katch
 ```
 
 ```
-absence, abcense
+absence, abcense, absense
 queue, que
-column, colum
-extreme, extreem
+column, colum, colunm
+extreme, extreem, exstream
 almost, allmost
-beginning, begining
+beginning, begining, begening
 surprise, suprise
-calendar, calender
+calendar, calender,calander
 vehicle, vehical
 difference, diffrence
+friend,freind
+great, grate
 ```
 
 ```
 awesome, ausom
 giraffe, girafee
 meaning, meening
-address, adress
+address, adress, addrass
+```
+
+
+```
+acceptable, acceptible
+accidentally, accidentaly, accidentelly
+accommodate, accomodate, acommodate
+achieve, acheive, acchive
+acknowledge , acknowlege, aknowledge
+acquire, aquire, acquaire
+argument, arguement, arguemant
+because, becuase, becase
+believe, beleive, bilieve
+business, buisness, bisness
+category, catagory, cetagory
+chief, cheif, cheef
+colleague, collaegue, colligue
+coming, comming, camming
+```
+
+```
+congratulate – congradulate
+
 ```
