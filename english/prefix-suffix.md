@@ -3,13 +3,25 @@
 Some antonyms are formed by adding a prefix
 
 ```
-inaccurate, incapable, incorrect, indefinite, injustice, insecure, invisible
+inaccurate, incapable, incorrect, indefinite, injustice, insecure, invisible, independent, indecent,  inhuman, ineffective, indirectly, inequality, indoor,
 
-irregular, 
+increase, include, industry, initial, intelligent, incident, involve,
 
-disobey, disadvantage, dishonest, disagree, disappear, disapprove, discomfort, disloyal, disobedient
+irregular, irresponsible, irreplaceable, irrational, irresistable
 
-unfit, unfair, unbound, unfold, unfortunate, unjust, unknown, unlikely, unqualified, unsatisfactory, unzip, unkind
+irritate, irony,
+
+illegal, illegible, illogical, illiterate, ,
+
+illness, illustrate, illuminate
+
+disobey, disadvantage, dishonest, disagree, disappear, disapprove, discomfort, disloyal, disobedient, dislike, disappoint, disinvest, disable, discover, disjoint
+discord, discussion, discipline, disgust
+
+
+unkind, unhappy, unwell, unable, untrained, unfit, unfair, unlucky, unseen, unusual, unbound, unfold, unfortunate, unjust, unknown, unlikely, unqualified, unsatisfactory, unzip,
+
+uncle, understand, under, underline,
 
 immature, impatient, impolite, impossible, impure, imperfect, improve, improper, immaterial, imbalance, imprison, 
 
