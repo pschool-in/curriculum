@@ -3,6 +3,7 @@
 # tell, tale
 
 Mugil wants to tell you something.
+
 It is a delightful tale about a butterfly.
 
 # hole, whole
@@ -12,7 +13,8 @@ I read the whole book
 
 # sail, sale
 
-He wants to Sail across the Atlantic
+He wants to Sail across the Atlantic.
+
 Mary put her piano up for sale.
 
 # knows, nose
@@ -33,6 +35,7 @@ We bought a new Television.
 # hour, our
 
 We can start after one hour.
+
 India is our nation 
 
 # not, knot
