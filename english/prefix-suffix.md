@@ -37,3 +37,39 @@ misty, misery, mister, missile, mission, missed.
 ```
 useful - useless
 ```
+
+
+# suffix
+
+## -eer
+Meaning: engaged in something, associated with something
+Examples: auctioneer, volunteer, engineer, profiteer
+## -er
+Meaning: someone who performs an action
+Examples: helper, teacher, preacher, dancer
+## -ion
+Meaning: the action or process of
+Examples: celebration, opinion, decision, revision
+## -ity
+Meaning: the state or condition of
+Examples: probability, equality, abnormality, civility
+## -ment
+Meaning: the action or result of
+Examples: movement, retirement, abandonment, establishment
+## -ness
+Meaning: a state or quality
+Examples: fondness, awareness, kindness, darkness
+## -or
+Meaning: a person who is something
+Examples: distributor, investigator, translator, conductor
+## -sion
+Meaning: state or being
+Examples: depression, confusion, tension, compulsion
+## -ship
+Meaning: position held
+Examples: worship, ownership, courtship, internship
+## -th
+Meaning: state or quality
+Examples: strength, labyrinth, depth, warmth
+
+
