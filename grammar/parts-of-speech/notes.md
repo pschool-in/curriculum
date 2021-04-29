@@ -35,3 +35,7 @@ A conjunction joins words, phrases, or clauses. eg: and, but, or
 An interjection is a word used to express emotion. eg: oh!, wow!, oops!
          
 Same word can perform different functions in different sentences.
+
+*Stones* are hard to break. - Noun
+They built a *stone* wall. - Adjective
+
