@@ -1,36 +1,33 @@
-# Fruits
-
 # fruits
 
-- fruits - ফল
-- apple - আপেল
-- grapes - আঙ্গুর
-- banana - কলা
+- apple
+- grapes
+- banana
 - cherry
 - avocado
 - strawberry
-- guava - পেয়ারা
-- jackfruit - কাঁঠাল
-- mango - আমের
-- orange - কমলা
-- papaya - পেঁপে
-- pineapple - আনারস
-- pomegranate - ডালিম
-- watermelon - তরমুজ
+- guava
+- jackfruit
+- mango
+- orange
+- papaya
+- pineapple
+- pomegranate
+- watermelon
 
 # vegetables
 
-- carrot - গাজর
+- carrot
 - beetroot
-- onion - পেঁয়াজ
+- onion
 - tomato
-- potato - আলু
-- cabbage - বাঁধাকপি
-- cauliflower - ফুলকপি
-- corn - ভুট্টা
-- cucumber - শসা
-- garlic - রসুন
-- ginger - আদা
+- potato
+- cabbage
+- cauliflower
+- corn
+- cucumber
+- garlic
+- ginger
 
 # flowers
 
