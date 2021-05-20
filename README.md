@@ -1,53 +1,45 @@
-# pschool.in
+# About PSchool
 
-[pschool](https://www.pschool.in) is an activity based learning app for kids. We are making the content open source, and we look forward to contribution from community. Our goal  is to develop full curriculum. We believe that we get the best curriculum, if there are contribution from many people, rather than single person creating it. Also any parents, teachers and schools can use our content for free and no permission is required from us.
+[www.pschool.in](https://pschool.in) is a learning app for kids. It has
+thousands of learning activities. Presently we have content from kg to 5th
+standard. In future, we will add content till 12th.
 
-# primary-school
+We are basically a technology company and we don't want to be the authority of
+content. So we keep our content as open source. It means any person who is
+interested can contribute to add more content or to make the existing content
+better.
 
-This repository contains the content we use in the app. And it does not contain the source code. 
+# Separate App for Languages
 
-1. English, Math, Social &amp; Science content for primary school. 
-2. Other Indian languages like Hindi, Telugu, Malayalam, Kannada, Tamil
-3. General actvitities like suduku, drawing, coloring
+We want to have separate app for different Indian languages.
 
+We will support the below languages.
 
+1. Hindi
+2. Telugu
+3. Tamil
+4. Malayalam
+5. Kannada
+6. Marathi
+7. Bengali
 
-# Kindergarten
+(Note: This list may expand based on popular demand and feasibility)
 
-1. [English](english/kg/main.md)
-2. [Math](math/kg/main.md)
+# Common Activities
 
-# Grade 1
+The below are the minimum types of activities we want to cover.
 
-1. [English](english/grade1/main.md)
-2. [Math](math/grade1/main.md)
-3. [Science](science/grade1/main.md)
-
-# Grade 2
-
-1. [English](english/grade2/main.md)
-2. [Math](math/grade2/main.md)
-3. [Social](social/grade2/main.md)
-4. [Science](science/grade2/main.md)
-
-# Grade 3
-
-1. [English](english/grade3/main.md)
-2. [Math](math/grade3/main.md)
-3. [Social](social/grade3/main.md)
-4. [Science](science/grade3/main.md)
-
-# Grade 4
-
-1. [English](english/grade4/main.md)
-2. [Math](math/grade4/main.md)
-3. [Social](social/grade4/main.md)
-4. [Science](science/grade4/main.md)
-
-# Grade 5
-
-1. [English](english/grade5/main.md)
-2. [Math](math/grade5/main.md)
-3. [Social](social/grade5/main.md)
-4. [Science](science/grade5/main.md)
-
+- writing: How to write different letters. (which are the building blocks of any
+  language)
+- picture: Getting to know the words and their spelling based on pictures.
+  (fruits, vegetables, flowers, animals, etc). It is limited to the stack images
+  we have. (www.pschool.in/author/images)
+- words : connect letter to form words
+- More about words. Antonyms, Synonyms, correct spelling, confusing words,
+  connecting letters to form words etc
+- More about sentences. Tense, question & answer
+- Simple reading exercises. Common poems etc
+- Simple activities in Science (Drag and Drop)
+- Simple activities in Social
+- wordsearch (20 count)
+- crossword (20 count)
