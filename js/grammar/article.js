@@ -256,7 +256,57 @@ There is a chair at *the* table.
 Mary ate *an* egg for breakfast.
 Tom runs as fast as *a* cheetah.
 There is *an* inky spot on my pants.
-I love to read *a* book.`
+I love to read *a* book.`,
+
+        `Raj wants *a* new bag.
+John tasted *the* cake made by his mother.
+ *a* new dance teacher was appointed.
+All *the* children need to obey their parents.
+Uncle turned on *the* television.
+I will buy *a* pen today.
+She read *an* interesting story to us.
+There was *a* huge crowd in the market.
+Julie spoke for *an* hour about her school project.
+*a* European expert was invited to our school annual day celebration.`,
+
+        `We have *a* beautiful dressing room.
+*the* garden is full of lillies.
+Is hockey *a* popular sport in your school? 
+I need *a* glass of water.
+She needs *an* envelope.
+They’re at *the* park near their house.
+My brother is in *the* library.
+What is *the* baby’s name?`,
+
+        `John uses *the* Internet *a* lot.
+What is *the* capital of your country?
+He called me *an* hour ago.
+Tamil nadu lies in *the* south of India.
+She is on *a* diet.
+Carol’s father works as *an* electrician.
+We need *a* place to live.
+I saw *an* old man working on *a* farm.`,
+
+        `Jake took out *a* bottle of juice.
+It started raining heavily and she lended us *an* umbrella. I returned *the* umbrella the next day.
+I have *a* great idea.
+He is *the* nice man whom i told you about. 
+We had *a* delicious meal.
+She wore *a* pretty pink dress.
+I saw tigers in *a* zoo.
+He is *a* pilot.
+*An* apple *a* day builds immunity.
+*The* boys have come to play.`,
+
+        `Italy is *a* European country.
+He gave *a* one rupee coin to her.
+He says he always speaks *the* truth. But I don't believe him.
+*The* Sahara is in *the* northern part of Africa.
+Ant is *an* insect.
+New York is *a* large city.
+Blue whale is *the* largest animal.
+I saw *a* one eyed person near *the* market.
+He is *an* honest teacher. He don't give extra marks for his son.`
       ]
     },
     {
@@ -277,6 +327,38 @@ I love to read *a* book.`
         He likes to read *-* short stories.
         A teacher is *an* important person in everyone's life.`
       }
+    },
+    {
+      id: 'no-article-2',
+      label: 'No Article - Fill up (2)',
+      type: 'fillupOptions',
+      commonData: {
+        title: `Click on the blanks and pick the correct Article. Select ' - ' for no article.`,
+        options: '-, a, an'
+      },
+      data: [
+        `I bought *a* pair of shoes.
+        *-* elephants are very intelligent animals.
+        I saw *a* movie last night.
+        They are staying at *a* hostel.
+        Ram played with *-* determination.
+        *-* penguins live in the South Pole.
+        I could see *-* clouds in the sky.
+        There was *-* milk on the table.
+        I gave it to *-* Jhonny.
+        She arrived in *-* India yesterday.`,
+
+        `She is *a* famous actress.
+Do you speak *-* English?
+He is good at *-* cricket.
+People will travel to *-* Mars soon.
+I do not like *-* basketball.
+Shall we play *a* game of chess?
+My grandma was sick. We took her to *-* hospital. Now she is good.
+We saw *an* elephant in the zoo.
+Do you eat *-* rice everyday?
+My brother does not like *-* chicken.`
+      ]
     }
   ]
 };

@@ -69,6 +69,161 @@ Don't eat too much of junk foods.`,
           `Is this your jacket?
 Where is your house?
 Why are you not interested?`
+        ],
+        //new adds
+        [
+          `I am a student
+Sun rises in the east.
+My favourite colour is yellow
+Leaves are green in color.`,
+          `Please, come in.
+Get out of my sight.
+Give me some water.`,
+          `Do you play carrom?
+Have you gone to the park?
+Shall we climb on the tree?`
+        ],
+
+        [
+          `The Principal knows every student in our school.
+Julie is a really smart girl.
+New Delhi is the capital of India`,
+          `Close the window
+Kindly, have your food on time.
+Have some coffee.
+Do the work right now.`,
+          `Will they come tomorrow?
+Does he dance western?
+Does she paint with pastels?`
+        ],
+
+        [
+          `Flowers in the garden are well maintained.
+Mother had gone to office.
+Teacher is so strict and won't excuse even small mistakes.`,
+          `Show me your marks.
+Don’t play in the rain.
+Wipe your hands properly`,
+          `Does the dog bite?
+Did you read the article ?
+Did they lose the match?
+Did he laugh at me ?`
+        ],
+
+        [
+          `Daniel is a lawyer.
+She is a humble girl and never wear costly dresses.
+The gift was sent by her brother.
+I came first in the running race.`,
+          `Find my eraser.
+Please be quiet.
+Pass the bag.`,
+          `Am i speaking to Anu?
+Are you an Indian?
+Was it late yesterday to home?`
+        ],
+
+        [
+          `Today is a holiday.
+Fathima lost her water bottle.
+Wild animals live in the forest.`,
+          `Go now!
+Don’t sit there
+Don’t forget your homework
+Please remember your belongings.`,
+          `Were they on leave for a week?
+Was he writing an email?
+Is she a classic dancer?`
+        ],
+
+        [
+          `Fruits and vegetables are good for health.
+Father came to school yesterday.
+John got a new watch as his birthday gift.`,
+          `Let the dance begin.
+Wake up early in the morning
+Don't touch without washing your hands.`,
+          `Have you completed your homework?
+Has he submitted the assignment?
+Had they reached home on time?
+Who will raise the flag on important occasions?`
+        ],
+
+        [
+          `These grapes are sour.
+Taylor is punctual everyday.
+My pet parrot is sleeping on the couch.
+Books are kept on the table.`,
+          `Please consider my opinion. 
+Nobody can stop the time.
+Stop biting your fingernails`,
+          `Does she have difficulties in maths?
+Do you want to come for the tour?
+What is the time now?`
+        ],
+
+        [
+          `I watched TV and forgot the homework.
+John brushes his teeth twice a day.
+Hen lays eggs.`,
+          `Stop blabbering in front of people.
+Have grit to solve the problems.
+Wait for me.
+Hand me the file.`,
+          `When is the English hour?
+Why have you scored less marks?
+Where have you gone?`
+        ],
+
+        [
+          `Children are playing in the garden.
+India won the match.
+Ram is a brave fighter.`,
+          `Be there at 8’0 clock
+Laugh louder for the joke
+Enjoy your burger.`,
+          `Which is your place in the classroom?
+Who is in charge of your class? 
+How do you come to school?
+Whose pen is this?`
+        ],
+
+        [
+          `God is love.
+Papers are torn by the child.
+We have planned to go for a picnic.
+Table lamp was on all day.`,
+          `Join us for the dinner.
+Stay strong always. 
+Wash your clothes.`,
+          `Whom do they want to meet?
+Can you help the old man?
+Will you call your friend?`
+        ],
+
+        [
+          `Food was spoiled because it was kept open all day.
+The boy crossed the road safely.
+Priya likes the diamond ring.`,
+          `Sanitise your hands. 
+Be careful while crossing the road.
+Help each other. 
+Everybody look at him.`,
+          `May I come in?
+Shall I take some rest?
+Could he throw away the waste materials?`
+        ],
+        [
+          `He is a popular singer.
+John wakes up early in the morning.
+There was heavy rain in the morning.`,
+          `You keep out of this.
+Somebody answer the phone.
+Do forgive me.`,
+          `Would they participate in the football tournament?
+Should we submit an assignment tomorrow?
+Shall we change the prayer time?
+Can you clean the classroom?`
         ]
       ]
     },
@@ -111,7 +266,126 @@ I am playing with my friends
 I have not done my homework
 I saw a very beautiful puppy
 Ravi is very good in math
-English is not my favorite subject`
+English is not my favorite subject`,
+
+        `i play tennis
+Ram wants to fly
+birds are chirping
+he was annoyed
+Kim lost her favourite box
+baby is drinking milk
+she is able to read
+towels are above the table
+Rani is afraid of snakes
+she fell down again`,
+
+        `water is freezing
+little girls are singing songs
+roots absorb water
+superheroes are famous
+virus causes infection
+kitten looks frighten
+i am listening to you
+birds fly as a flock
+i prefer to drink coffee
+lion protects its cubs`,
+
+        `i haven’t learnt cycling
+please look at the mirror
+she is searching her ring
+it started to rain suddenly
+please stand opposite to me
+clean your nails frequently
+show respect to elders
+cobbler mend the shoes
+keep pencil inside the box
+world is round in shape`,
+
+        `exercise daily to stay healthy
+she has a cute smile
+purple is a royal colour
+that was a stormy night
+cleaning is an ordinary task
+Angel vanished into thin air
+my battery is finished
+summer holidays are always special
+the diagram is really nice
+father made a wonderful cake`,
+
+        `Priya learnt to ride horse
+the video will be recorded
+remind him to attend meetings
+be attentive in math class
+Lisa is jealous of her sister
+sit comfortably on the chair
+vehicle is parked near theater
+her father is very kind
+the road is very narrow
+keep the pebbles safe`,
+
+        `you hand writing is good
+friends presented a lovely gift
+measure the line using ruler
+maintain silence in library
+he delivered a confident speech
+mother’s bike cannot be repaired
+Ravi was exempted from punishment
+pack only the necessary things
+living room is arranged neatly
+Lisa speaks proud of herself`,
+
+        `the President's speech was humorous
+students has become notorious 
+poor farmer had little food
+diamonds are precious stones
+Roy dreamt of gigantic monster
+police investigated the criminals
+grandma had a worried look
+we enjoyed the surprise party
+principal took the suggestion seriously
+Nick stomped on a tomato`,
+
+        `smart people don't repeat their mistakes
+the report was sent yesterday
+do you understand my question
+be happy with what you have
+your performance will be observed
+competition details will be notified
+erase the drawing and draw again
+beggars live on streets
+good habits make great kids
+list out the grocery items`,
+
+        `John claimed the coconut tree
+the teacher gave us homework
+this pen belongs to Ruby
+I'm happy with my family
+your stage performance was wonderful
+father lit the candle
+dry leaves filled the ground
+John helps the needy people
+children are solving sudoku
+some books are damaged`,
+
+        `eskimos live in the igloos
+i like to learn guitar
+cats live longer than dogs
+these mangoes are sweet
+Fathima bought a torchlight
+playing treasure game is interesting
+Sam likes to read stories
+the teacher gave easy problems`,
+
+        `my pet parrot flew away
+clean your hands with sanitizer
+Geetha kicked the ball
+the old man walks slowly
+your handwriting is legible
+climber plants needs support
+students are waiting in the classroom
+octopus has eight tentacles
+mango has one big seed
+John hid the chocolate`
       ]
     },
     {
@@ -160,53 +434,6 @@ English is not my favorite subject`
         We saw a monkey sitting on the tree. It was suprisingly looking *at (to)* us. We said 'hi' to *the (a, an)* monkey. It was impressed. It picked and *threw (throw)* a few mangoes to us. We collected *them (us, it)* happily and left the place.`,
 
         `Every week we *have (has, had)* Sunday as *our (my, they)* holiday.  Why Sunday is *so (to, do)* special for me?  My father takes *me (I, we)* along for his morning walk.  We walk briskly *to (do, so)* the sea shore. It is *just (first)* ten minutes *from (on, in)* my home.  I can hear the rolling waves of the *sea (see, say)*.  It is so good to watch the waves in the morning *sun (moon, star)* rays.`
-      ]
-    },
-    {
-      type: 'classifySentence',
-      label: 'Fact Vs Opinion',
-      id: 'fact-opinion',
-      commonData: {
-        title: 'Classify the below sentences as Facts and Opinions',
-        types: ['Fact', 'Opinion']
-      },
-      data: [
-        [
-          `Sun rises in the East.
-Mr. Narendra Modi is the Prime Minister of India.
-The Ganges is the longest river in India.
-There are 60 seconds in a minute.
-Christmas comes in December.`,
-          `Blue is a better color than red.
-Balu is the best person in my class.
-No one can hit six like Dhoni.
-I think it will rain tomorrow.
-I like dogs more than cat.`
-        ],
-        [
-          `We saw a rainbow yesterday.
-Our TV is not working.
-Arun has done his college in the US.
-Dogs are faithful animals.
-We went to Delhi last summer.`,
-          `I think, the teacher doesn't like me.
-Arun is the best math teacher in the whole world.
-It may rain tomorrow.
-He may be fifty years old.
-Pizza tastes better than Burger.`
-        ],
-        [
-          `She has won three medals.
-It is raining hard.
-I am eleven years old.
-This is the tallest building in the city.
-Earth has only one moon.`,
-          `England will win the next world cup.
-Our head master is the most intelligent man in our school.
-I didn't like the food you bought.
-The movie I saw yesterday was the most boring movie.
-Sometimes he behaves like a fool.`
-        ]
       ]
     }
   ]

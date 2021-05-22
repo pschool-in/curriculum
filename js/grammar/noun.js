@@ -146,6 +146,199 @@ A *cup* of tea
 A *crowd* of people
 A *forest* of trees`
       ]
+    },
+    {
+      type: 'selectWord',
+      label: 'Identify Proper Noun',
+      id: 'select-proper',
+      commonData: {
+        title: 'Select the proper noun in the below sentence.',
+        printTitle: 'Underline the proper noun in the below sentences.'
+      },
+      data: [
+        `*Jim* is a doctor
+*Mt. Everest* is the tallest peak in the  world.
+*Earth* is a planet.
+*Google* is a search engine.
+A boy threw a ball on *Wilson*.
+Her friend is *Daniel*.
+I am lucky to have *John* as a friend.
+*India* is a democratic country.
+*Pacific Ocean* is the largest ocean on earth.
+*Ganga* is a holy river.`,
+
+        `*Anu* begins to sing.
+*Ram* is a clever boy.
+*English* is easy to learn.
+Do you know what *John's* hobby is?
+*Lina* has a collection of feathers of different birds.
+The first month of the year is *January*.
+*Roopa* is an engineer.
+Shall we meet *Priya* at her home?
+I live in *Canada*.
+*Adam* is playing with her kitty.`,
+
+        `*Gopal* is my cousin.
+His uncle lives in *France*.
+These paintings are done by *Usha*.
+The carpenter went to *Mark's* house.
+Seetha got chocolates from the *United States*.
+My favorite cartoon is *Chin Shan*.
+I was born in *April*.
+*Geetha* is happy with her birthday presents. 
+*John* is a horse rider.
+*Peter* won the running race.`,
+
+        `The *Sun* is round in shape. 
+My mom ordered the laptop from *Amazon*.
+Cards are shuffled by *Tina*.
+*Alladin* went into the cave to find treasure.
+The guide received me and *Jack* and showed us around the city.
+Our neighbour's dog was barking all night. But its name is *Peace*.
+The most famous play writer in the world is *William Shakesphere*.
+*Mahabharata* is considered as the largest epic book. 
+*Sita* is a great dancer.`
+      ]
+    },
+    {
+      type: 'selectWord',
+      label: 'Identify Common Noun',
+      id: 'select-proper',
+      commonData: {
+        title: 'Select the common noun in the below sentence.',
+        printTitle: 'Underline the common noun in the below sentences.'
+      },
+      data: [
+        `I am a *student*.
+The *classroom* is noisy.
+We all are *friends*.
+It is an empty *room*. 
+I like to wear purple colored *dress*.
+This *watch* belongs to Tom.
+*Dogs* like to go for a walk.
+All the *bananas* are eaten.
+George is a clever *boy*.
+They are playing on the *ground*.`,
+
+        `Our new *neighbours* are very friendly.
+I like to play *games*.
+Jina has posted a *letter*.
+These *pictures* are beautifully drawn.
+*Birds* are flying so high.
+My *brother* delivered the best speech.
+Please come to visit my *home*.
+Tom is craving for *meat*.
+Peter went to a *store*.
+Please pass me a *book*.`,
+
+        `How many *chocolates* did you buy?
+Jimmy had broken his *leg*.
+Anu is playing near the *sea*.
+*Policemen* are working so hard.
+Drink lot of *water*.
+*Playground* was empty during exams.
+Sometimes this *computer* doesn't work.
+I like to play with my *friends*.
+Jacob is taking a *plane* to california.
+This *street* is well paved for walking.`,
+
+        `*Judges* should not be biased.
+*Magicians* could make things to disappear.
+Some *artists* take lots of time to draw.
+*Planets* are revolving around the Sun.
+I like to walk along the banks of the *river*.
+Tom was given the responsibility to welcome the *guests*.
+Lets go to the *museum* next week.
+I want to change my *school*.
+*Doormats* should be washed regularly.
+Which *country* do you belong to?`
+      ]
+    },
+    {
+      type: 'selectWord',
+      label: 'Identify Collective Noun',
+      id: 'select-proper',
+      commonData: {
+        title: 'Select the collective noun in the below sentence.',
+        printTitle: 'Underline the collective noun in the below sentences.'
+      },
+      data: [
+        `My mom made a *batch* of cookies.
+The farmer has a *herd* of cattles.
+A *flock* of geese flew over a house.
+A *troop* of soldiers went into a battle.
+He ate a *bunch* of grapes.
+Mary sings in the school *choir*.
+The *army* of ants worked together.
+A *herd* of elephants crossed the road.
+They saw a *school* of dolphins.
+Kittens are playing with the *bundle* of sticks.`,
+
+        `She kept a *bouquet* of flowers on the table.
+A *flock* of sheep were grazing in the field.
+I saw a *gaggle* of geese in the park.
+A *fleet* of ships are ready for the voyage.
+Meera lost her *pair* of shoes yesterday.
+A *basket* of fruits are kept on the dining table.
+The shelf is filled with *piles* of books.
+The pride of lions are ready for hunting.
+My friend has a fine *collection* of old stamps.
+A *band* of musicians was hired to perform at the birthday party.`
+      ]
+    },
+    {
+      type: 'selectWord',
+      label: 'Identify Collective Noun',
+      id: 'select-proper',
+      commonData: {
+        title: 'Select the abstract noun in the below sentence.',
+        printTitle: 'Underline the abstract noun in the below sentences.'
+      },
+      data: [
+        `Taj Mahal is known for its *beauty*.
+He has *fear* for dogs.
+I need to *sleep* now as I am tired.
+Your *idea* is brilliant.
+I *hate* travelling by train.
+Ram has *faith* on his father.
+He was jumping up and down with *excitement*.
+India got its *freedom* in 1947.
+I went to home after a long time, and my family members greeted me with *joy*.
+He should be praised for his *honesty*.`,
+
+        `Babies *need* constant care.
+Many families are living in *poverty*.
+She has *power* to help others.
+Parents should treat children with *compassion*.
+Grandma showed her *childhood* photos to me.
+I *hope* that he will complete the homework.
+The musical concert was a *success*.
+I have *energy* to play one more game.
+Let's give Tom a *surprise* visit at home.
+Tenali’s *wit* is his strength.`,
+
+        `Sana has got lots of *talents*.
+The king celebrated his *victory*.
+I am not sure whether she is telling the *truth*.
+The *height* of the tree is ten feet.
+The *weight* of this granite stone is 100 kg.
+the *depth* of the well is twenty feet.
+Raj is waiting for his exam *result*.
+Pilot could control the *speed* of the plane.
+Students need to learn new *skills*.
+The rat stood *calm* in front of a cat.`,
+
+        `*Kindness* is the best quality of my mother.
+Mohan won the task with great *luck*.
+*Wastage* of food angers the nanny.
+The dove is the symbol of *peace*.
+My grandma is full of *wisdom*.
+Tom is a *timid* cat.
+Raj couldn't hide his *disappointment*.
+He won the game because of his *determination*
+*Bravery* of the soldier was awarded by the president.
+All students will get their *opportunities*.`
+      ]
     }
   ]
 };
