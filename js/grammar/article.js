@@ -23,7 +23,7 @@ export default {
             type: 'html',
             text: `For indefinite article, we use <b>a</b> or  <b>an</b> depending on the sound that begins the next word.`
           },
-          { type: 'hilight', text: 'an apple, an egg, a bag, a cat' },
+          { type: 'hilight', text: 'an apple, an egg, a bag, a bat' },
           `We use 'a' before words that begin with vowel. For eg, though the below words begin with 'u', the beginning sound is 'you'.`,
           { type: 'hilight', text: 'a universe, a uniform' },
           `We use 'an' before words that begin with non vowel. For eg, though the below words begin with 'h', the first letter is silent.`,
@@ -264,7 +264,7 @@ John tasted *the* cake made by his mother.
 All *the* children need to obey their parents.
 Uncle turned on *the* television.
 I will buy *a* pen today.
-She read *an* interesting story to us.
+She reads *an* interesting story to us.
 There was *a* huge crowd in the market.
 Julie spoke for *an* hour about her school project.
 *a* European expert was invited to our school annual day celebration.`,
