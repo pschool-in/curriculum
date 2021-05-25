@@ -2,7 +2,7 @@
 
 In English, the contents are based on the below guidelines.
 
-# kg to 3nd
+# kg to 3rd
 
 - Learning letters
 - cursiving writing
@@ -12,7 +12,7 @@ In English, the contents are based on the below guidelines.
 - wordsearch
 - picture based activities
 
-# 3nd and above
+# 3rd and above
 
 Our activities will be on three types
 
