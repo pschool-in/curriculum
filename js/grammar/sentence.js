@@ -246,7 +246,7 @@ we are watching tv
 they are playing cricket
 I am reading poems`,
 
-        `we have holiday tomorrow
+        `we have a holiday tomorrow
 I am drinking water
 the dog is barking
 the crow is thirsty
@@ -257,8 +257,8 @@ he lives in a big city
 honesty is the best policy
 I am going to Chennai`,
 
-        `I am sitting in sofa
-Siva is sleeping in bed
+        `I am sitting on the sofa
+Siva is sleeping on the bed
 the cat is drinking milk
 I am thinking of icecream
 sun rises in the east

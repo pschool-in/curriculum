@@ -30,7 +30,7 @@ export default {
           `# Do verbs`,
           {
             type: 'html',
-            text: `They can be used both as main and helping verb. If used as a main verb, then it indicates action. eg: <i> Can you do a help?</i><br>. We use <b>have</b> helping verb to ask questions. We also use them for more emphatic or deliberate actions. `
+            text: `They can be used both as main and helping verb. If used as a main verb, then it indicates action. eg: <i> Can you do a favour?</i><br> We use <b>have</b> helping verb to ask questions. We also use them for more emphatic or deliberate actions. `
           },
           `# Other common helping verbs`,
           {
@@ -68,17 +68,17 @@ export default {
       data: {
         title: 'Fill in the blank.',
         text: `Anil *is* swimming in the pool.
-        The school bell *is* ringing.
-        I *am* Anil.
-        Ships *are* sailing in the sea.
-        I *am* not a rabbit.
-        Birds *are* flying in the sky.
-        We *are* happy.
-        Raju and Anil *are* friends.
-        These children *are* playing in the garden.
-        The tiger *is* feeling hungry.
-        I *am* not an idiot.
-        This *is* a lotus flower.`,
+The school bell *is* ringing.
+I *am* Anil.
+Ships *are* sailing in the sea.
+I *am* not a rabbit.
+Birds *are* flying in the sky.
+We *are* happy.
+Raju and Anil *are* friends.
+These children *are* playing in the garden.
+The tiger *is* feeling hungry.
+I *am* not an idiot.
+This *is* a lotus flower.`,
         options: 'am, is, are'
       }
     },
@@ -89,17 +89,17 @@ export default {
       data: {
         title: 'Fill in the blanks.',
         text: `It *was* very hot yesterday.
-        *Were* you angry yesterday?
-        I *was* having fun at the park.
-        Where *were* you?
-        Why *were* you crying?
-        They *were* drinking water.
-        I *was* winning the race!
-        Where *were* you going?
-        I *was* so happy yesterday!
-        When *were* you at the park?
-        They *were* going to zoo.
-        Why *was* your brother sad?`,
+*Were* you angry yesterday?
+I *was* having fun at the park.
+Where *were* you?
+Why *were* you crying?
+They *were* drinking water.
+I *was* winning the race!
+Where *were* you going?
+I *was* so happy yesterday!
+When *were* you at the park?
+They *were* going to zoo.
+Why *was* your brother sad?`,
         options: 'was, were'
       }
     },

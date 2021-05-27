@@ -12,12 +12,12 @@ export default {
       },
       data: [
         `we, saw, an, injured, dog, on, the, street
-I, love, to, swim, in, the, beach
-I, have, three, chocolates, at, my, home
-we, are, building, a house, for, our, dog
-what, is, the, fifth, month, of, a, year
+I, love, to, swim, in, the, sea
+I, have, three, chocolates, at, home
+we, are, building, a kennel, for, our, dog
+which, is, the, fifth, month, of, a, year
 there, are, forty, students, standing, in, the, queue
-we, are, having, bread, and butter, as, breakfast
+we, are, having, bread, and butter, for, breakfast
 Simla, is, one, of, the, most, beautiful, places
 my mom, gave, me, four, pink, color, pencils
 I like, coffee, but, my brother, doesn't, like, it`,
@@ -37,7 +37,7 @@ they, were, hiding, inside, the, wardrobe`,
 did, you, complete, the homework, on, time
 what, is, the, name, of, your, father
 what, is, the, capital, of, your, country
-what, is, the, biggest, river, in, India
+which, is, the, biggest, river, in, India
 why, are, you, late, for, the, meeting 
 can, you, please, help, me, with, my, homework
 at, what, time, do, you, go, to, sleep

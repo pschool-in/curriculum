@@ -122,7 +122,7 @@ He is an *English* teacher.
 Can you try some *dark* pants?`,
           `You can *easily* open the box.
 She can *quickly* read a book.
-The class is *badly* loud today.`
+The class is *very* loud today.`
         ]
       ]
     },

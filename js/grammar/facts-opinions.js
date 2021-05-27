@@ -38,16 +38,16 @@ export default {
       },
       data: [
         [
-          `Sun rises in the East.
+          `The Sun rises in the East.
   Mr. Narendra Modi is the Prime Minister of India.
   The Ganges is the longest river in India.
   There are 60 seconds in a minute.
-  Christmas comes in December.`,
+  Christmas is celebrated in December.`,
           `Blue is a better color than red.
-  Balu is the best person in my class.
+  Balu is the best student in my class.
   No one can hit six like Dhoni.
   I think it will rain tomorrow.
-  I like dogs more than cat.`
+  I like dogs more than cats.`
         ],
         [
           `We saw a rainbow yesterday.
@@ -75,7 +75,7 @@ export default {
         ],
         [
           `The national currency of India is Rupee.
-Sun sets in the west.
+The Sun sets in the west.
 Tomatoes are fruits.
 Water covers 70% of our Earth.
 Kangaroos can't walk backwards.`,

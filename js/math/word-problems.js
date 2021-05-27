@@ -1,16 +1,16 @@
 export default {
-  label: 'Word Problems',
-  id: 'word-problems',
+  label: "Word Problems",
+  id: "word-problems",
   list: [
     {
-      label: 'Type of Problem',
-      type: 'classifySentence',
-      id: 'classify-between3',
+      label: "Type of Problem",
+      type: "classifySentence",
+      id: "classify-between3",
       commonData: {
         title:
-          'Classify the below problem as addition, subtraction, multiplication, division',
-        types: ['+', '−', '×', '÷'],
-        optionFontSize: '3rem'
+          "Classify the below problem as addition, subtraction, multiplication, division",
+        types: ["+", "−", "×", "÷"],
+        optionFontSize: "3rem",
       },
       data: [
         [
@@ -24,7 +24,7 @@ In sports day function, 674 students participated. Out of them 345 were boys. Fi
 A basket of eggs contains 12 eggs. How many eggs will be there in 17 baskets?`,
 
           `Nila has 36 potatoes. She puts 6 potatoes in a basket. How many baskets will she need to put all the potatoes?
-Jonah has  275 coins. One pencil cost 5 coins. How many pencils can Jonah buy?`
+Jonah has  275 coins. One pencil cost 5 coins. How many pencils can Jonah buy?`,
         ],
         [
           `Subbu got a new camera. She took 131 pictures of her friends. She took 68 pictures of her family. How many pictures did she take in all?
@@ -36,7 +36,7 @@ Selvi had Rs 978 in her purse. She bought a book for Rs 357. How many money is l
           `The cost of one bat is Rs 245. What is the total cost of 7 bats?
 There are 25 fruits on a tree. How many fruits will be there on 16 trees?`,
           `There are 117 students going for a picnic in cars. 9 students can go in one car. How many cars will be required for all students?
-Gagan has to sell 672 dolls. He sells 7 dolls in one day. How many days will he take to sell all the dolls?`
+Gagan has to sell 672 dolls. He sells 7 dolls in one day. How many days will he take to sell all the dolls?`,
         ],
         [
           `The car dealer has 125 cars in the lot. The owner just ordered 142 new cars. When the new cars come, what will be the total number of cars in the lot?
@@ -48,7 +48,7 @@ Gagan has to sell 672 dolls. He sells 7 dolls in one day. How many days will he 
         The price of a plate is Rs 114. What will be the total price of 8 plates?`,
           `A teacher has 342 notebooks. She has to make bundles of 3 notebooks. How many bundles can she make?
         One packet of pencils contains 8 pencils. If there are a total of 512 pencils, how many packets of pencils can we make?
-        Richa has 84 erasers to give. If she gives 2 erasers to each of her class friends, how many class friends will get erasers?`
+        Richa has 84 erasers to give. If she gives 2 erasers to each of her class friends, how many class friends will get erasers?`,
         ],
         [
           `Janis sings 12 songs on Monday and 20 songs on Tuesday. How many songs did she sing in all?
@@ -60,9 +60,9 @@ A teacher gives 12 pencils to each student in a classroom. How many pencils will
 Every girl in a house has 18 clothes. What is the total number of clothes 13 girls will have?`,
           `A teacher has 96 notebooks to give to 8 students. How many notebooks will each student get?
 A mother gives Rs 465 equally to her 5 sons. How much money does each son get?
-On his birthday, Jagga buys 600 toffees for school. He wants to put them equally in 4 packets. How many toffees should he put in one packet?`
-        ]
-      ]
-    }
-  ]
+On his birthday, Jagga buys 600 toffees for school. He wants to put them equally in 4 packets. How many toffees should he put in one packet?`,
+        ],
+      ],
+    },
+  ],
 };
