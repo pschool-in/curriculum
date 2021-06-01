@@ -1,4 +1,4 @@
-Degrees of Comparison
+# Degrees of Comparison
 
 The Degrees of Comparison in English grammar are made with the Adjective and Adverb words to
 show the qualities of noun(person,place,things)
@@ -62,6 +62,7 @@ Exercise
 
 I. Positive degree
 
+```
 1. No other democracy is as large as India.
 2. Hari is as smart as kiran.
 3. No other girl in my class is as clever as Devi.
@@ -72,6 +73,7 @@ I. Positive degree
 8. Rose is as beautiful as tulip
 9. Cookies are not so tasty as chocolates.
 10. Anu’s office is not as big as her house.
+```
 
 11. Tablets are not as convenient as mobile phones.
 12. No other businessman of his town is as successful as Mr .Anand
