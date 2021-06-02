@@ -199,7 +199,7 @@ They / want / money / immediately
 He / got / his shoes / wet
 ```
 
-## SVIODO
+## SVIODO Pattern
 ```
 We / wish / you / Happy new year
 The principal / gave / him / the medal
