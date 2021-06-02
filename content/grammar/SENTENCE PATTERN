@@ -1,54 +1,40 @@
-SENTENCE PATTERN DEFINITION
+#SENTENCE PATTERN 
+An arrangement of words is called sentence pattern.
+This arrangement needs to be in a grammatically correct structure. It means the placement of verbs and nouns should be correct to form a meaningful sentence.
 
+ Sentences are very diverse and there are actually a lot of ways to construct them.
 There are five important components in a sentence.
-1.Subject (S)
-2.Verb (V)
-3.Object (O)
-4.Complement (C)
-5.Adverbial (A)
-
-1. SUBJECT (S)
-Definition :To get ‘S’ ask the question ‘Who?’ before the verb.
-
 Subject (S)
-● consists of nouns or pronouns
-● occurs before a verb
+Verb (V)
+Object (O)
+Complement (C)
+Adverbial (A)
 
+##SUBJECT (S)
+Subject (S) consists of nouns or pronouns. It occurs before a verb. To get ‘S’ ask the question ‘Who?’ before the verb.
 
-
-e.g.
-❖ Rani dancewell
-(Here “Rani” - Subject)
-❖ The child broke the
-glass(Here “The child” -
-Subject)
-
-
-2. VERB (V)
-Definition :In every sentence the most important word is the verb. A verb shows an
+###e.g.
+```
+Rani dance well (Here “Rani” - Subject)
+The child broke the glass(Here “The child” - Subject)
+```
+##VERB (V)
+Verb (V) consists of auxiliaries or finite verbs. In every sentence the most important word is the verb. A verb shows an
 action or activity or work done.
-e.g.
-❖ He is a doctor
-
-(“Be” form verb)
-❖ Jems wrote a letter
-(Main verb)
-❖ The baby is crying
-(auxiliary verb + Main verb)
-❖
-Verb (V) consists of auxiliaries or finite verbs
-3. OBJECT (O)
-Definition :
-
-❖ To get the object ‘O’ ask the question ‘What’ or ‘Whom’.
-❖ ‘What’ is for things
-❖ ‘Whom’ is for persons.
-
-e.g.
-❖ He bought a pen (a pen = Object)
-❖ He handles the computer (computer = Object)
-❖ I saw him (him = Object)
-Object (O) - consists of nouns or noun phrases or noun clauses
+###e.g.
+```
+He is a doctor (“Be” form verb)
+Jems wrote a letter (Main verb)
+The baby is crying (auxiliary verb + Main verb)
+```
+##OBJECT (O)
+Object (O) - consists of nouns or noun phrases or noun clauses. To get the object ‘O’ ask the question ‘What (for things)’ or ‘Whom (for persons)’.
+###e.g.
+```
+He bought a pen (a pen = Object)
+He handles the computer (computer = Object)
+I saw him (him = Object)
+```
 
 
 (a) DO
@@ -231,3 +217,7 @@ SVIODO
 9. Sarah / sent / Paul / a gift
 10. She / offered / me / a firm hand shake
 11. They / sold / him / pictures
+
+
+#refernces
+http://www.grammarinenglish.com/sentencepattern/
