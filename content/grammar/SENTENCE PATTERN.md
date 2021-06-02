@@ -1,8 +1,7 @@
 #SENTENCE PATTERN 
-An arrangement of words is called sentence pattern.
+There are many ways to construct a sentence. An arrangement of words in a sentence is called sentence pattern. 
 This arrangement needs to be in a grammatically correct structure. It means the placement of verbs and nouns should be correct to form a meaningful sentence.
 
- Sentences are very diverse and there are actually a lot of ways to construct them.
 There are five important components in a sentence.
 Subject (S)
 Verb (V)
@@ -28,196 +27,190 @@ Jems wrote a letter (Main verb)
 The baby is crying (auxiliary verb + Main verb)
 ```
 ##OBJECT (O)
-Object (O) - consists of nouns or noun phrases or noun clauses. To get the object ‘O’ ask the question ‘What (for things)’ or ‘Whom (for persons)’.
+Object (O) - consists of nouns or noun phrases or noun clauses. Objects are of 2 types namely Direct object (DO) and Indirect object (IO).
+To get the object ‘O’ ask the question ‘What (for things which indicates Direct object: DO)’ or ‘Whom (for persons which indicates indirect object: IO)’.
 ###e.g.
 ```
 He bought a pen (a pen = Object)
 He handles the computer (computer = Object)
 I saw him (him = Object)
+I gave Rosy a pen (What= Direct object; Whom=Indirect object)
 ```
+## COMPLEMENT (C)
+Complement (C) - from the word ‘complete’. The words required to complete the meaning of a sentence are called Complement. It completes the meaning in the
+sentence. Without Complement the meaning of a sentence may be incomplete or the meaning may vary.
+###e.g.
+He is a dentist(S V C)
+She became a journalist (S V C)
+It grew dark (S V C)
 
-
-(a) DO
-- Direct object
-- answers the question ‘what’
-
-e.g.
-S V O (what)
-I likes animals
-
-(b) IO
-
-- Indirect object
-- answers the question ‘whom’
-
-e.g.
-S V IO (whom) DO
-I gave Rosy a pen
-4. COMPLEMENT (C)
-Definition :The words required to complete the meaning of a sentence are called
-Complement .
-e.g.
-S V C
-He is a dentist
-She became a journalist
-It grew dark
-Complement (C) - from the word ‘complete’
-❖ - completes the meaning in the
-sentence
-❖ - wihtout it the, meaning is
-incomplete
-❖ - wihtout it the, meaning changes
-Adjunct or Adverbial
-Definition :
+## Adjunct or Adverbial (A)
 To get ‘A’ ask the question why, when, where or how.
-e.g.
-S V A
+e.g. (S V A)
+
+```
 She Comes every day(when)
 They ate Junk food (how)
 Raju Sits here(where)
+```
 
+##SV pattern
 
-SV pattern
-1. Sheela /is listening
-2. Raju/ prepared
-3. She/ sings
-4. They/ played
-5. Child/ cries
-6. Students/ listen
-7. They/ work
-8. We / cooked
-9. Ravi /reads
-10. Birds/ fly
+```
+Sheela /is listening
+Raju/ prepared
+She/ sings
+They/ played
+Child/ cries
+Students/ listen
+They/ work
+We / cooked
+Ravi /reads
+Birds/ fly
+```
 
-11. Boys /are playing
-12. They /completed
-13. We /are planning
-14. Ram /saved
-15. Jack /noticed
-16. Ragu/ builds
-17. She /will go
-18. Shyam /came
-19. The painter/ received
-20. The bell/ rang
+```
+Boys /are playing
+They /completed
+We /are planning
+Ram /saved
+Jack /noticed
+Ragu/ builds
+She /will go
+Shyam /came
+The painter/ received
+The bell/ rang
+```
 
-SVO pattern
-1. Radha/ makes/ a doll
-2. They /completed/ their project
-3. Hema /eats/ banana
-4. The man/ hit/ the ball
-5. The boy/ reads/ a magazine
-6. The horse /rides/ the man
-7. The dog/ bites /a boy
-8. She /sings/ a song
-9. We/ received/ the parcel
-10. She /writes / a letter
+##SVO pattern
+Radha/ makes/ a doll
+They /completed/ their project
+Hema /eats/ banana
+The man/ hit/ the ball
+The boy/ reads/ a magazine
+The horse /rides/ the man
+The dog/ bites /a boy
+She /sings/ a song
+We/ received/ the parcel
+She /writes / a letter
+```
+```
+They / did / a lot of work
+Kannan / resembles / his father
+Many students / witnessed / the play
+The police / arrested / the thief
+I / want / one of these books
+I / love / England
+Peter / got / admission
+A huntsman / followed / a wild animal
+My mother / is teaching / French
+She / prayed / for society
+```
 
-11. They / did / a lot of work
-12. kannan / resembles / his father
-13. Many students / witnessed / the play
-14. The police / arrested / the thief
-15. I / want / one of these books
-16. I / love / England
-17. Peter / got / admission
-18. A huntsman / followed / a wild animal
-19. My mother / is teaching / French
-20. She / prayed / for society
+##SVC pattern
+```
+They / are / players
+Her father / is / a doctor
+I / am / an Indian
+The class / became / noisy
+Her eyes / are / beautiful
+Mother Teresa / is / India’s gift to the world
+Our headmaster sideline / was / a lending library
+The leaves / turn / yellow
+Her dreams / have come / true
+They / worked / hard
+```
 
-SVC pattern
+```
+The tea / is getting / cold
+It / was / a very pleasant talk
+The leaves / turn / yellow
+John / is / tall
+Men / are / mortal
+She /became/ a doctor
+Sheela /is /happy
+Mary /was/poor
+They / became/ angry
+John / is / tall
+```
 
-1. They / are / players
-2. Her father / is / a doctor
-3. I / am / an Indian
-4. The class / became / noisy
-5. Her eyes / are / beautiful
-6. Mother Teresa / is / India’s gift to the world
-7. Our headmaster sideline / was / a lending library
-8. The leaves / turn / yellow
-9. Her dreams / have come / true
-10. They / worked / hard
+##SVA PATTERN
+```
+He / came / to the party
+They / came / suddenly
+It / is going / away
+The train / arrived / late
+They / will come / later
+It / rained / last night
+She / worked / in a second-hand bookshop
+They / went / to the market
+He / reads / slowly
+The noise / fades / away
+```
 
-11. The tea / is getting / cold
-12. It / was / a very pleasant talk
-13. The leaves / turn / yellow
-14. John / is / tall
-15. Men / are / mortal
-16. She /became/ a doctor
-17. Sheela /is /happy
-18. Mary /was/poor
-19. They / became/ angry
-20. John / is / tall
+```
+The pen/ is/ on the desk
+Hari lives in chennai
+Magi / got up / early
+Mani / wrote / neatly
+Flowers / are / everywhere
+Ragu /works/ hardly
+Priya / settled / in USA
+I / read/ newspaper/regularly
+Sugan / reads/ carefully
+Guru / works / in Bangalore
+```
+##SVOC PATTERN
+```
+They / made / him / captain
+Arun / named / me / Robert
+people / elected / ragu / president
+The chairman / selected / priya / speaker
+They / made / him / the Mayor
+They / made / David / Chairman of the Rotary club
+The news / made / his name / popular
+Sheela / made /kavi / happy
+Hema / learnt / music / last year
+Rosy / got / her shoes / wet
+Ramu / recognised / meenu / as a genius
+He / panted / the wall / white
+England / declared / me / a jew
+He / made / his son / a doctor
+```
 
-SVA PATTERN
+##SVOA pattern
+```
+The boy / kicks / the ball / with force
+Prema / made / a new dress / yesterday
+The kidnapper / locked / the child / in a lonely house
+The manager / threw / the chair / out
+Sathya / invited / the guests / to get in
+They / played / the match / in broad daylight
+The thieves / broke open / the lockers / in the bank
+I / shall meet / you / at the railway station
+You / will understand / the truth / one day
+Ravi / lost / him father / last week
+The forest officer / shot / the tiger / at once
+You / will understand / the truth / one day
+He / wrote / a letter / from Paris
+They / want / money / immediately
+He / got / his shoes / wet
+```
 
-1. He / came / to the party
-2. They / came / suddenly
-3. It / is going / away
-4. The train / arrived / late
-5. They / will come / later
-6. It / rained / last night
-7. She / worked / in a second-hand bookshop
-8. They / went / to the market
-9. He / reads / slowly
-10. The noise / fades / away
-
-11. The pen/ is/ on the desk
-12. Hari lives in chennai
-13. Magi / got up / early
-14. Mani / wrote / neatly
-15. Flowers / are / everywhere
-16. Ragu /works/ hardly
-17. Priya / settled / in USA
-18. I / read/ newspaper/regularly
-19. Sugan / reads/ carefully
-20. Guru / works / in Bangalore
-
-SVOC PATTERN
-
-1. They / made / him / captain
-2. Arun / named / me / Robert
-3. people / elected / ragu / president
-4. The chairman / selected / priya / speaker
-5. They / made / him / the Mayor
-6. They / made / David / Chairman of the Rotary club
-7. The news / made / his name / popular
-8. Sheela / made /kavi / happy
-9. Hema / learnt / music / last year
-10. Rosy / got / her shoes / wet
-11. Ramu / recognised / meenu / as a genius
-12. He / panted / the wall / white
-13. England / declared / me / a jew
-14. He / made / his son / a doctor
-SVOA pattern
-
-1. The boy / kicks / the ball / with force
-2. Prema / made / a new dress / yesterday
-3. The kidnapper / locked / the child / in a lonely house
-4. The manager / threw / the chair / out
-5. Sathya / invited / the guests / to get in
-6. They / played / the match / in broad daylight
-7. The thieves / broke open / the lockers / in the bank
-8. I / shall meet / you / at the railway station
-9. You / will understand / the truth / one day
-10. Ravi / lost / him father / last week
-11. The forest officer / shot / the tiger / at once
-12. You / will understand / the truth / one day
-13. He / wrote / a letter / from Paris
-14. They / want / money / immediately
-15. He / got / his shoes / wet
-
-SVIODO
-1. We / wish / you / Happy new year
-2. The principal / gave / him / the medal
-3. He / gave / her / a watch
-4. She / sold / him / her house
-5. Paul / gave / his wife / a gift
-6. The Headmaster / showed / her / the result
-7. He / sent / us / some foreign stamps
-8. The doctor / gave / her / medicine
-9. Sarah / sent / Paul / a gift
-10. She / offered / me / a firm hand shake
-11. They / sold / him / pictures
-
+##SVIODO
+```
+We / wish / you / Happy new year
+The principal / gave / him / the medal
+He / gave / her / a watch
+She / sold / him / her house
+Paul / gave / his wife / a gift
+The Headmaster / showed / her / the result
+He / sent / us / some foreign stamps
+The doctor / gave / her / medicine
+Sarah / sent / Paul / a gift
+She / offered / me / a firm hand shake
+They / sold / him / pictures
+```
 
 #refernces
 http://www.grammarinenglish.com/sentencepattern/
