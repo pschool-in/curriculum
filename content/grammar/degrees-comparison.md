@@ -221,6 +221,8 @@ III Superlative Degree
 39. Books are the most interesting companions.
 40. They are the most reliable friends.
 
+```
+```
 41. Butter is the softest substance
 42. Newspapers are the best media for a variety of news.
 43. Arul is the fastest runner in his college
@@ -231,10 +233,14 @@ III Superlative Degree
 48. Mount Everest is the highest peak in the world.
 49. Wordsworth is the greatest of all English poets.
 50. Greenland is the largest island in the world.
+```
 
-Reference :
+##Reference :
+
+```
 https://www.aplustopper.com/degree-of-comparison-exercises-for-class-10-icse/
 https://www.englishgrammar.org/transformation-degrees-comparison/
 https://www.grammar-monster.com/glossary/positive_degree.htm
 https://www.gingersoftware.com/content/grammar-rules/adjectives/comparing-adjectives/
 https://examples.yourdictionary.com/examples-of-comparitive-and-superlative-adjectives-for-kids.html
+```
