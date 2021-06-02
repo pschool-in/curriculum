@@ -84,6 +84,7 @@ The bell/ rang
 ```
 
 ## SVO pattern
+```
 Radha/ makes/ a doll
 They /completed/ their project
 Hema /eats/ banana
