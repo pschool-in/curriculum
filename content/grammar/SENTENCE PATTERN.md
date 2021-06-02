@@ -1,4 +1,4 @@
-#SENTENCE PATTERN 
+# SENTENCE PATTERN 
 There are many ways to construct a sentence. An arrangement of words in a sentence is called sentence pattern. 
 This arrangement needs to be in a grammatically correct structure. It means the placement of verbs and nouns should be correct to form a meaningful sentence.
 
@@ -9,27 +9,27 @@ Object (O)
 Complement (C)
 Adverbial (A)
 
-##SUBJECT (S)
+## SUBJECT (S)
 Subject (S) consists of nouns or pronouns. It occurs before a verb. To get ‘S’ ask the question ‘Who?’ before the verb.
 
-###e.g.
+### e.g.
 ```
 Rani dance well (Here “Rani” - Subject)
 The child broke the glass(Here “The child” - Subject)
 ```
-##VERB (V)
+## VERB (V)
 Verb (V) consists of auxiliaries or finite verbs. In every sentence the most important word is the verb. A verb shows an
 action or activity or work done.
-###e.g.
+### e.g.
 ```
 He is a doctor (“Be” form verb)
 Jems wrote a letter (Main verb)
 The baby is crying (auxiliary verb + Main verb)
 ```
-##OBJECT (O)
+## OBJECT (O)
 Object (O) - consists of nouns or noun phrases or noun clauses. Objects are of 2 types namely Direct object (DO) and Indirect object (IO).
 To get the object ‘O’ ask the question ‘What (for things which indicates Direct object: DO)’ or ‘Whom (for persons which indicates indirect object: IO)’.
-###e.g.
+### e.g.
 ```
 He bought a pen (a pen = Object)
 He handles the computer (computer = Object)
@@ -39,22 +39,21 @@ I gave Rosy a pen (What= Direct object; Whom=Indirect object)
 ## COMPLEMENT (C)
 Complement (C) - from the word ‘complete’. The words required to complete the meaning of a sentence are called Complement. It completes the meaning in the
 sentence. Without Complement the meaning of a sentence may be incomplete or the meaning may vary.
-###e.g.
+### e.g.
 He is a dentist(S V C)
 She became a journalist (S V C)
 It grew dark (S V C)
 
 ## Adjunct or Adverbial (A)
 To get ‘A’ ask the question why, when, where or how.
-e.g. (S V A)
-
+### e.g. (S V A)
 ```
 She Comes every day(when)
 They ate Junk food (how)
 Raju Sits here(where)
 ```
 
-##SV pattern
+## SV pattern
 
 ```
 Sheela /is listening
@@ -82,7 +81,7 @@ The painter/ received
 The bell/ rang
 ```
 
-##SVO pattern
+## SVO pattern
 Radha/ makes/ a doll
 They /completed/ their project
 Hema /eats/ banana
@@ -107,7 +106,7 @@ My mother / is teaching / French
 She / prayed / for society
 ```
 
-##SVC pattern
+## SVC pattern
 ```
 They / are / players
 Her father / is / a doctor
@@ -134,7 +133,7 @@ They / became/ angry
 John / is / tall
 ```
 
-##SVA PATTERN
+## SVA PATTERN
 ```
 He / came / to the party
 They / came / suddenly
@@ -160,7 +159,7 @@ I / read/ newspaper/regularly
 Sugan / reads/ carefully
 Guru / works / in Bangalore
 ```
-##SVOC PATTERN
+## SVOC PATTERN
 ```
 They / made / him / captain
 Arun / named / me / Robert
@@ -178,7 +177,7 @@ England / declared / me / a jew
 He / made / his son / a doctor
 ```
 
-##SVOA pattern
+## SVOA pattern
 ```
 The boy / kicks / the ball / with force
 Prema / made / a new dress / yesterday
@@ -197,7 +196,7 @@ They / want / money / immediately
 He / got / his shoes / wet
 ```
 
-##SVIODO
+## SVIODO
 ```
 We / wish / you / Happy new year
 The principal / gave / him / the medal
@@ -212,5 +211,5 @@ She / offered / me / a firm hand shake
 They / sold / him / pictures
 ```
 
-#refernces
+# refernces
 http://www.grammarinenglish.com/sentencepattern/
