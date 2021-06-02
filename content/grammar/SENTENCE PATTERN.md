@@ -14,8 +14,8 @@ Subject (S) consists of nouns or pronouns. It occurs before a verb. To get ‘S�
 
 ### e.g.
 ```
-Rani dance well (Here “Rani” - Subject)
-The child broke the glass(Here “The child” - Subject)
+Rani dance well (Rani Subject)
+The child broke the glass (The child-Subject)
 ```
 ## VERB (V)
 Verb (V) consists of auxiliaries or finite verbs. In every sentence the most important word is the verb. A verb shows an
@@ -39,10 +39,12 @@ I gave Rosy a pen (What= Direct object; Whom=Indirect object)
 ## COMPLEMENT (C)
 Complement (C) - from the word ‘complete’. The words required to complete the meaning of a sentence are called Complement. It completes the meaning in the
 sentence. Without Complement the meaning of a sentence may be incomplete or the meaning may vary.
-### e.g.
-He is a dentist(S V C)
-She became a journalist (S V C)
-It grew dark (S V C)
+### e.g. (S V C)
+```
+He is a dentist
+She became a journalist
+It grew dark
+```
 
 ## Adjunct or Adverbial (A)
 To get ‘A’ ask the question why, when, where or how.
