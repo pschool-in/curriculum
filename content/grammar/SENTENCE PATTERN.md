@@ -91,7 +91,7 @@ They |completed | their project
 Hema  | eats | banana
 The man | hit | the ball
 The boy | reads | a magazine
-The horse  |rides | the man
+The man  |rides | the horse
 The dog | bites | a boy
 She | sings | a song
 We | received | the parcel
@@ -105,7 +105,7 @@ The police | arrested | the thief
 I | want | one of these books
 I | love | England
 Peter | got | admission
-A huntsman | followed | a wild animal
+A hunter | followed | a wild animal
 My mother | is teaching | French
 She | prayed | for society
 ```
@@ -145,7 +145,7 @@ It | is going | away
 The train | arrived | late
 They | will come | later
 It | rained | last night
-She | worked | in a second-hand bookshop
+She | worked | in a bookshop
 They | went | to the market
 He | reads | slowly
 The noise | fades | away
@@ -176,7 +176,7 @@ Sheela | made | kavi | happy
 Hema | learnt | music | last year
 Rosy | got | her shoes | wet
 Ramu | recognised | meenu | as a genius
-He | panted | the wall | white
+He | painted | the wall | white
 England | declared | me | a jew
 He | made | his son | a doctor
 ```
@@ -192,9 +192,8 @@ They | played | the match | in broad daylight
 The thieves | broke open | the lockers | in the bank
 I | shall meet | you | at the railway station
 You | will understand | the truth | one day
-Ravi | lost | him father | last week
+Ravi | lost | his father | last week
 The forest officer | shot | the tiger | at once
-You | will understand | the truth | one day
 He | wrote | a letter | from Paris
 They | want | money | immediately
 He | got | his shoes | wet
@@ -212,7 +211,7 @@ He | sent | us | some foreign stamps
 The doctor | gave | her | medicine
 Sarah | sent | Paul | a gift
 She | offered | me | a firm hand shake
-They | sold | him | pictures
+They|sold|him|pictures
 ```
 
 # refernces
