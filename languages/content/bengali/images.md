@@ -1,71 +1,75 @@
 # fruits
 
-1. apple
-2. grapes
-3. banana
-4. cherry
-5. avocado
-6. strawberry
-7. guava
-8. jackfruit
-9. mango
-10. orange
-11. papaya
-12. pineapple
-13. pomegranate
-14. watermelon
+1. apple - আপেল
+2. grapes - আঙুর, আঙ্গুর
+3. banana - কলা 
+4. cherry - চেরি
+5. avocado - 
+6. strawberry - 
+7. guava - পেয়ারা
+8. jackfruit - কাঁঠাল
+9. mango - আম
+10. orange - কমলা লেবু 
+11. papaya - পেঁপে 
+12. pineapple - আনারস
+13. pomegranate - ডালিম, বেদানা 
+14. watermelon - তরমুজ
+15. litchi - লিচু
 
 # vegetables
 
-1. carrot
-2. beetroot
-3. onion
-4. tomato
-5. potato
-6. cabbage
-7. cauliflower
-8. corn
-9. cucumber
-10. garlic
-11. ginger
+1. carrot - গাজর
+2. beetroot - বিট
+3. onion - পেঁয়াজ
+4. tomato - টমেটো
+5. potato - আলু
+6. cabbage - বাঁধাকপি
+7. cauliflower - ফুলকপি
+8. corn - ভুট্টা
+9. cucumber - শসা
+10. garlic - রসুন
+11. ginger - আদা
+12. bitter gourd - করলা
+13. bottle gourd - লাউ
+14. ridge gourd - ঝিঙ্গে
 
 # flowers
 
-1. rose
-2. lotus
-3. sunflower
-4. marigold
-5. hibiscus
-6. jasmine
+1. rose - গোলাপ
+2. lotus - পদ্ম
+3. sunflower - সূর্যমুখী
+4. marigold - গাঁদা
+5. hibiscus - জবা
+6. jasmine - জুঁই
 
 # vehicles
 
-1. aeroplane
-2. boat
-3. bus
-4. car
-5. cycle
-6. helicoptor
-7. motorbike
-8. ship
-9. tractor
-10. train
+1. aeroplane - বিমান
+2. boat - নৌকা
+3. bus - বাস
+4. car - কার 
+5. cycle - সাইকেল
+6. helicoptor - হেলিকপ্টার
+7. motorbike - মোটরসাইকেল
+8. ship - জাহাজ
+9. tractor - ট্র্যাক্টর
+10. train - রেল গাড়ি
 
 # house
 
-1. house
-2. table
-3. bed
-4. candle
-5. chair
-6. shelf
-7. boy
-8. girl
-9. man
-10. woman
-11. ball
-12. coat
-13. glasses
+1. house - ঘর
+2. table - টেবিল
+3. bed - বিছানা
+4. candle - মোমবাতি
+5. chair - চেয়ার, কেদারা 
+6. shelf - তাক 
+7. boy - ছেলে
+8. girl - মেয়ে
+9. man - পুরুষ  
+10. woman - মহিলা
+11. ball - বল
+12. coat - কোট
+13. glasses - চশমা
 
 # school
 
