@@ -1,27 +1,23 @@
-# Process
+This is still a work in progress documentation.
 
-There are many ways in which an error or mistake can crop up. Having a process
-and multiple review system only can ensure that our content are issue-free.
+In PSchool, we keep the Development and Content team independent of each other.
+And we want to keep the content as open source.
 
-# Workflow
+The below pages talks more about the product and process.
 
-We wanted the best teachers to work with us. But we don't expect them to be tech
-savy. We don't expect them to directly work in github. We want them to create
-content in google docs or some other format.
+- [Workflow](workflow.md)
+- [Curriculum](curriculum.md)
+- [Playlist](playlist.md)
+- [Activity](activity.md)
+- [General Instructions](instructions.md)
 
-The below image explains the work flow.
+# Subject-wise
 
-<img src="images/workflow.jpg" width="786" >
+- [English](english.md)
 
-**Step 1:** Optional and the files are temporary. (Content Developers may not be
-comfortable working directly in github).
+# Content Team
 
-**Step 2:** This has to be in sync with the app content and always available.
-Either Content Developer or Technical Analyst can work on this.
-
-**Step 3:** Technical Analyst will create this from markdown and always has to
-be in sync with app content.
-
-**Step 4:** Technical Analyst will test and cross check with content developer
-that all is well. Will also prepare the printable PDF. Will also look into any
-user feedback.
+- Rethna Ganesh
+- Sethu Rani
+- Siva Raman
+- Aravinth
