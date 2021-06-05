@@ -1,62 +1,55 @@
 # Degrees of Comparison
 
 The Degrees of Comparison in English grammar are made with the Adjective and Adverb words to
-show the qualities of noun(person,place,things)
+show the qualities of noun (person,place,things).
+```
+Adjectives:-Small, big, large, beautiful, fast, wise, healthy, easy, good.
+Adverbs:-Slowly, beautifully, easily. quickly, badly, eagerly.
+```
 
-Some Adjectives:
-Small, big, large, beautiful, fast, wise, healthy, easy, good .
+Every adjective and adverb can be written in one of three degrees
+```
+Positive degree
+Comparative degree
+Superlative degree
+```
 
-Some Adverbs:
-Slowly, beautifully, easily. quickly, badly, eagerly.
+## Positive Degree
+The positive degree of an adjective or adverb offers no comparison. Only adjective word used without “er, est, more and most”. (...as+adjective+as;
+...so+adjective+as)
 
-Every adjective and adverb can be written in one of three degrees:
-1. Positive degree
-2. Comparative degree
-3. Superlative degree
+```
+eg:
+Vijay is a tall boy.
+Priya is a beautiful girl in her class.
+Jeni is as clever as Janu.
+```
+## Comparative Degree
 
-1.The Positive Degree:
-The positive degree of an adjective or adverb offers no comparison.
-Keypoint :
-
-➢ [only adjective word used without “er, est, more and most” ]
-➢ ...as+adjective+as
-➢ ...so+adjective+as
-
-Example:
-
-■ Vijay is a tall boy
-■ Priya is a beautiful girl in her class.
-■ Jeni is as clever as janu
-
-2. The Comparative Degree:
-
-This compares two things to show which has the lesser or greater degree of the
-
-quality.
-Keypoint:
-
+This compares two things to show which has the lesser or greater degree of the quality.
+```
 ● [add “er” (one syllable word) and Add “More” (more than one syllable) to an
 adjective to form the comparative degree.
 ● [adjective+than- is used in comparative degree]
+```
+```
+eg:
 
-Example:
+Balu is taller than Ramu.
+Sheela is more beautiful than Rani.
+```
 
-● Balu is taller than Ramu
-● Sheela is more beautiful than Rani
-
-4. The Superlative Degree:
+## Superlative Degree:
 This compares more than two things to show which has the least or greatest degree of the
-quality.
-Keypoint:
-● Add “est” (one syllable word) and Add “Most” (more than one syllable) to an
-adjective to form the superlative degree.
-● (the+adjective)- is used in comparative degree
+quality. Add “est” (one syllable word) and Add “Most” (more than one syllable) to an
+adjective to form the superlative degree. (the+adjective)- is used in comparative degree.
 
-Example:
+```
+eg:
 
-■ John is the most intelligent student in his class.
-
+John is the most intelligent student in his class.
 Mahesh is the cleverest boy in his gang.
+```
 
 Exercise
 
@@ -175,64 +168,69 @@ II Comparative Degree
 49. Hema is not richer than Sakthi
 50. Shyam is more adventurous than any other boy in the class
 
-III Superlative Degree
+## Superlative Degree
+```
+I can't find my most comfortable jeans.
+The tiger is the most ferocious of all animals
+Jupiter is the biggest planet in our solar system.
+Radha is the smartest girl in her class.
+This is the most interesting book I have ever read.
+I am the shortest person in my family.
+Jerry is the least worried about the game.
+That was the best movie ever.
+Sam is the most handsome boy in the whole school.
+Mount Everest is the highest mountain in the world.
+```
 
-1. I can't find my most comfortable jeans.
-2. The tiger is the most ferocious of all animals
-3. Jupiter is the biggest planet in our solar system.
-4. Radha is the smartest girl in her class.
-5. This is the most interesting book I have ever read.
-6. I am the shortest person in my family.
-7. Jerry is the least worried about the game.
-8. That was the best movie ever.
-9. Sam is the most handsome boy in the whole school.
-10. Mount Everest is the highest mountain in the world.
+```
+ This is the least expensive sweater in the store
+ Lead is the heaviest metal.
+Ravi is the strongest boy in his class.
+Mohan is the tallest boy.
+Gold is the costliest of all metals.
+Malar is the most beautiful girl in the class.
+His marks are the lowest in the class.
+Mala is the wisest girl among them all.
+This is the funniest of all books that I have read so far.
+Rishi is the strongest boy in our class.
+```
 
-11. This is the least expensive sweater in the store
-12. Lead is the heaviest metal.
-13. Ravi is the strongest boy in his class.
-14. Mohan is the tallest boy.
-15. Gold is the costliest of all metals.
-16. Malar is the most beautiful girl in the class.
-17. His marks are the lowest in the class.
-18. Mala is the wisest girl among them all.
-19. This is the funniest of all books that I have read so far.
-20. Rishi is the strongest boy in our class.
-
-21. You are the best friend of mine.
-22. The snake is the most dangerous animal.
-23. The TajMahal is the most famous epitome of love.
-24. Mahesh is the most handsome boy in his family.
-25. Room no 15 in the hotel was the most convenient one.
-26. Rekha is the prettiest girl in the class.
-27. Dogs are the most faithful animals.
-28. Tea is the most popular beverage in the world.
-29. The bee is one of the tiniest creatures
-30. Solomon was the wisest king
-
-31. Tamil is one of the oldest languages in the world
-32. Suraj is the most intelligent of all boys
-33. The Pyramids of Egypt are the greatest architecture.
-34. Mr.Sharma is the most successful businessman of his town
-35. Asia is the largest continent in the world.
-36. Sonia was the most ambitious girl in the class.
-37. The Dead sea is the lowest point on the Earth.
-38. Baikal lake is the deepest fresh water lake in the world
-39. Books are the most interesting companions.
-40. They are the most reliable friends.
+```
+You are the best friend of mine.
+The snake is the most dangerous animal.
+The TajMahal is the most famous epitome of love.
+Mahesh is the most handsome boy in his family.
+Room no 15 in the hotel was the most convenient one.
+Rekha is the prettiest girl in the class.
+Dogs are the most faithful animals.
+Tea is the most popular beverage in the world.
+The bee is one of the tiniest creatures.
+Solomon was the wisest king.
+```
+```
+Tamil is one of the oldest languages in the world.
+Suraj is the most intelligent of all boys.
+The Pyramids of Egypt are the greatest architecture.
+Mr.Sharma is the most successful businessman of his town.
+Asia is the largest continent in the world.
+Sonia was the most ambitious girl in the class.
+The Dead sea is the lowest point on the Earth.
+Baikal lake is the deepest fresh water lake in the world.
+Books are the most interesting companions.
+They are the most reliable friends.
 
 ```
 ```
-41. Butter is the softest substance
-42. Newspapers are the best media for a variety of news.
-43. Arul is the fastest runner in his college
-44. He is one of the most dedicated doctors in the hospital.
-45. Malacca is the oldest town in Malaysia.
-46. Asoka was one of the greatest Indian kings.
-47. The cow is one of the most useful animals.
-48. Mount Everest is the highest peak in the world.
-49. Wordsworth is the greatest of all English poets.
-50. Greenland is the largest island in the world.
+Butter is the softest substance.
+Newspapers are the best media for a variety of news.
+Arul is the fastest runner in his college.
+He is one of the most dedicated doctors in the hospital.
+Malacca is the oldest town in Malaysia.
+Asoka was one of the greatest Indian kings.
+The cow is one of the most useful animals.
+Mount Everest is the highest peak in the world.
+Wordsworth is the greatest of all English poets.
+Greenland is the largest island in the world.
 ```
 
 ##Reference :
