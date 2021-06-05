@@ -1,8 +1,12 @@
-# SENTENCE PATTERN 
-There are many ways to construct a sentence. An arrangement of words in a sentence is called sentence pattern. 
-This arrangement needs to be in a grammatically correct structure. It means the placement of verbs and nouns should be correct to form a meaningful sentence.
+# Sentence Pattern
+
+There are many ways to construct a sentence. An arrangement of words in a
+sentence is called sentence pattern. This arrangement needs to be in a
+grammatically correct structure. It means the placement of verbs and nouns
+should be correct to form a meaningful sentence.
 
 There are five important components in a sentence.
+
 ```
 Subject (S)
 Verb (V)
@@ -10,37 +14,55 @@ Object (O)
 Complement (C)
 Adverbial (A)
 ```
-## SUBJECT (S)
-Subject (S) consists of nouns or pronouns. It occurs before a verb. To get ‘S’ ask the question ‘Who?’ before the verb.
 
-### e.g.
+## Subject (S)
+
+It consists of nouns or pronouns. It occurs before a verb. To get ‘S’ ask the
+question ‘Who?’ before the verb.
+
 ```
-Rani dance well (Rani - Subject)
-The child broke the glass (The child - Subject)
+eg:
+Rani dance well. (Rani - Subject)
+The child broke the glass. (The child - Subject)
 ```
-## VERB (V)
-Verb (V) consists of auxiliaries or finite verbs. In every sentence the most important word is the verb. A verb shows an
-action or activity or work done.
-### e.g.
+
+## Verb (V)
+
+It consists of auxiliaries or finite verbs. In every sentence the most important
+word is the verb. A verb shows an action or activity or work done.
+
 ```
+eg:
 He is a doctor (“Be” form verb)
 Jems wrote a letter (Main verb)
 The baby is crying (auxiliary verb + Main verb)
 ```
-## OBJECT (O)
-Object (O) - consists of nouns or noun phrases or noun clauses. Objects are of 2 types namely Direct object (DO) and Indirect object (IO).
-To get the object ‘O’ ask the question ‘What (for things which indicates Direct object: DO)’ or ‘Whom (for persons which indicates indirect object: IO)’.
+
+## Object (O)
+
+Object (O) - consists of nouns or noun phrases or noun clauses. Objects are of 2
+types namely Direct object (DO) and Indirect object (IO). To get the object ‘O’
+ask the question ‘What (for things which indicates Direct object: DO)’ or ‘Whom
+(for persons which indicates indirect object: IO)’.
+
 ### e.g.
+
 ```
 He bought a pen (a pen = Object)
 He handles the computer (computer = Object)
 I saw him (him = Object)
 I gave Rosy a pen (What= Direct object; Whom=Indirect object)
 ```
+
 ## COMPLEMENT (C)
-Complement (C) - from the word ‘complete’. The words required to complete the meaning of a sentence are called Complement. It completes the meaning in the
-sentence. Without Complement the meaning of a sentence may be incomplete or the meaning may vary.
+
+Complement (C) - from the word ‘complete’. The words required to complete the
+meaning of a sentence are called Complement. It completes the meaning in the
+sentence. Without Complement the meaning of a sentence may be incomplete or the
+meaning may vary.
+
 ### e.g. (S V C)
+
 ```
 He is a dentist
 She became a journalist
@@ -48,8 +70,11 @@ It grew dark
 ```
 
 ## Adjunct or Adverbial (A)
+
 To get ‘A’ ask the question why, when, where or how.
+
 ### e.g. (S V A)
+
 ```
 She Comes every day(when)
 They ate Junk food (how)
@@ -85,6 +110,7 @@ The bell | is ringing
 ```
 
 ## SVO pattern
+
 ```
 Radha | makes | a doll
 They |completed | their project
@@ -97,6 +123,7 @@ She | sings | a song
 We | received | the parcel
 She  |writes | a letter
 ```
+
 ```
 They | did | a lot of work
 Kannan | resembles | his father
@@ -111,6 +138,7 @@ She | prayed | for society
 ```
 
 ## SVC pattern
+
 ```
 They | are | players
 Her father | is | a doctor
@@ -138,6 +166,7 @@ John | is | tall
 ```
 
 ## SVA PATTERN
+
 ```
 He | came | to the party
 They | came | suddenly
@@ -163,7 +192,9 @@ I | read | newspaper | regularly
 Sugan | reads | carefully
 Guru | works | in Bangalore
 ```
+
 ## SVOC PATTERN
+
 ```
 They | made | him | captain
 Arun | named | me | Robert
@@ -182,6 +213,7 @@ He | made | his son | a doctor
 ```
 
 ## SVOA pattern
+
 ```
 The boy | kicks | the ball | with force
 Prema | made | a new dress | yesterday
@@ -200,6 +232,7 @@ He | got | his shoes | wet
 ```
 
 ## SVIODO Pattern
+
 ```
 We | wish | you | Happy new year
 The principal | gave | him | the medal
@@ -215,4 +248,5 @@ They|sold|him|pictures
 ```
 
 # refernces
+
 http://www.grammarinenglish.com/sentencepattern/

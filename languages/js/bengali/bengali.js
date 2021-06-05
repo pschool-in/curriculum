@@ -215,8 +215,7 @@ export default {
       label: "Match Fruits",
       data: {
         title: "Match Fruits with their first letter.",
-        text:
-          "ক, banana \n আ, mango \nপেঁ, papaya \nত, watermelon\nডা, pomegranate",
+        text: "ক, banana \n আ, mango \nপেঁ, papaya \nত, watermelon\nডা, pomegranate",
         rightImgType: "fruits",
         big: true,
       },
@@ -227,8 +226,7 @@ export default {
       label: "Match Flowers",
       data: {
         title: "Match Flowers with their first letter.",
-        text:
-          "গো, rose \n প , lotus \n সূ, sunflower \n জুঁ , jasmine \n গাঁ, marigold",
+        text: "গো, rose \n প , lotus \n সূ, sunflower \n জুঁ , jasmine \n গাঁ, marigold",
         rightImgType: "fruits",
         big: true,
       },
@@ -426,8 +424,7 @@ export default {
       data: {
         editable: true,
         title: "Order - Days of the week",
-        text:
-          "রবিবার, সোমবার, 	মঙ্গলবার, বুধবার, বৃহস্পতিবার, 	শুক্রবার, শনিবার ",
+        text: "রবিবার, সোমবার, 	মঙ্গলবার, বুধবার, বৃহস্পতিবার, 	শুক্রবার, শনিবার ",
       },
     },
   ],
