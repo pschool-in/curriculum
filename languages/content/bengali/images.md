@@ -73,69 +73,71 @@
 
 # school
 
-1. eraser
-2. pen
-3. pencil
-4. ruler
-5. schoolbag
-6. scissors
-7. sharpener
-8. waterbottle
+1. eraser - ইরেজার, রাবার
+2. pen - কলম
+3. pencil - পেন্সিল
+4. ruler - স্কেল
+5. schoolbag - স্কুল ব্যাগ
+6. scissors - কাঁচি
+7. sharpener - শার্পনার
+8. waterbottle - জলের বোতল
 
 # kitchen
 
-1. stove
-2. fork
-3. knife
-4. pan
-5. spoon
-6. pot
-7. butter
+1. stove - চুলা
+2. fork - কাঁটাচামচ
+3. knife - ছুরি
+4. pan - চাটু
+5. spoon - চামচ
+6. pot - পাত্র
+7. butter - মাখন
+8. ghee - ঘি
+9. bread - পাউরুটি
 
 # gadgets
 
-1. camera
-2. headphone
-3. pendrive
-4. remote
-5. smartphone
-6. speaker
-7. tablet
-8. torch
+1. camera - ক্যামেরা, আলোকচিত্রগ্রহণযন্ত্র
+2. headphone - হেডফোন
+3. pendrive - পেন ড্রাইভ
+4. remote - দূরবর্তী
+5. smartphone - স্মার্টফোন
+6. speaker - স্পিকার
+7. tablet - ট্যাবলেট
+8. torch - টর্চ্লাইট্
 
 # animals
 
-1. cat
-2. dog
-3. goat
-4. sheep
-5. horse
-6. pig
-7. elephant
-8. lion
-9. monkey
-10. tiger
-11. hippo
-12. rhino
-13. fox
-14. crocodile
-15. zebra
-16. bear
-17. camel
-18. shark
-19. whale
-20. dolphin
-21. dragonfly
-22. fish
-23. frog
-24. crab
-25. snake
-26. squirrel
-27. tortoise
-28. rat
-29. winged-termites
-30. ant
-31. fly
+1. cat - বিড়াল
+2. dog - কুকুর
+3. goat - ছাগল
+4. sheep - ভেড়া
+5. horse - ঘোড়া
+6. pig - শূকর
+7. elephant - হাতি
+8. lion - সিংহ
+9. monkey - বানর, বাঁদর
+10. tiger - বাঘ
+11. hippopotamus - জলহস্তী
+12. rhinoceros - গণ্ডার
+13. fox - শিয়াল
+14. crocodile - কুমির 
+15. zebra - জেব্রা
+16. bear - ভালুক
+17. camel - উট
+18. shark - হাঙ্গর
+19. whale - তিমি মাছ 
+20. dolphin - ডলফিন, শুশুক
+21. dragonfly - ফড়িং
+22. fish - মাছ
+23. frog - ব্যাঙ
+24. crab - কাঁকড়া
+25. snake - সাপ
+26. squirrel - কাঠবিড়ালি
+27. tortoise - কচ্ছপ
+28. rat - ইঁদুর
+29. termites - উইপোকা
+30. ant - পিঁপড়ে
+31. fly - মাছি
 
 # birds
 
