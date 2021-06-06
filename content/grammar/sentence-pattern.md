@@ -33,9 +33,9 @@ word is the verb. A verb shows an action or activity or work done.
 
 ```
 eg:
-He is a doctor (“Be” form verb)
-Jems wrote a letter (Main verb)
-The baby is crying (auxiliary verb + Main verb)
+He is a doctor. (“Be” form verb)
+James wrote a letter. (Main verb)
+The baby is crying. (auxiliary verb + Main verb)
 ```
 
 ## Object (O)
@@ -45,28 +45,26 @@ types namely Direct object (DO) and Indirect object (IO). To get the object ‘O
 ask the question ‘What (for things which indicates Direct object: DO)’ or ‘Whom
 (for persons which indicates indirect object: IO)’.
 
-### e.g.
-
 ```
+eg:
 He bought a pen (a pen = Object)
-He handles the computer (computer = Object)
+He handles the computer class. (computer = Object)
 I saw him (him = Object)
 I gave Rosy a pen (What= Direct object; Whom=Indirect object)
 ```
 
-## COMPLEMENT (C)
+## Complement (C)
 
 Complement (C) - from the word ‘complete’. The words required to complete the
 meaning of a sentence are called Complement. It completes the meaning in the
 sentence. Without Complement the meaning of a sentence may be incomplete or the
 meaning may vary.
 
-### e.g. (S V C)
-
 ```
-He is a dentist
-She became a journalist
-It grew dark
+eg:
+He is a dentist.
+She became a journalist.
+It grew dark.
 ```
 
 ## Adjunct or Adverbial (A)
@@ -76,6 +74,7 @@ To get ‘A’ ask the question why, when, where or how.
 ### e.g. (S V A)
 
 ```
+eg:
 She Comes every day(when)
 They ate Junk food (how)
 Raju Sits here(where)
@@ -84,16 +83,16 @@ Raju Sits here(where)
 ## SV pattern
 
 ```
-Sheela | is listening
-Raju | is preparing
-She | is singing
-They | are playing
-Child | is crying
-Students | are listening
-They | are working
-We | are eating
-Ravi | is reading
-Birds | are flying
+Sheela | is listening.
+Raju | is preparing.
+She | is singing.
+They | are playing.
+Child | is crying.
+Students | are listening.
+They | are working.
+We | are eating.
+Ravi | is reading.
+Birds | are flying.
 ```
 
 ```
@@ -231,7 +230,7 @@ They | want | money | immediately
 He | got | his shoes | wet
 ```
 
-## SVIODO Pattern
+## S-V-IO-DO Pattern
 
 ```
 We | wish | you | Happy new year
@@ -244,7 +243,7 @@ He | sent | us | some foreign stamps
 The doctor | gave | her | medicine
 Sarah | sent | Paul | a gift
 She | offered | me | a firm hand shake
-They|sold|him|pictures
+They | sold | him | pictures
 ```
 
 # refernces
