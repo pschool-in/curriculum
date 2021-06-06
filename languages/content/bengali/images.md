@@ -1,137 +1,143 @@
 # fruits
 
-1. apple
-2. grapes
-3. banana
-4. cherry
-5. avocado
-6. strawberry
-7. guava
-8. jackfruit
-9. mango
-10. orange
-11. papaya
-12. pineapple
-13. pomegranate
-14. watermelon
+1. apple - আপেল
+2. grapes - আঙুর, আঙ্গুর
+3. banana - কলা 
+4. cherry - চেরি
+5. avocado - 
+6. strawberry - 
+7. guava - পেয়ারা
+8. jackfruit - কাঁঠাল
+9. mango - আম
+10. orange - কমলা লেবু 
+11. papaya - পেঁপে 
+12. pineapple - আনারস
+13. pomegranate - ডালিম, বেদানা 
+14. watermelon - তরমুজ
+15. litchi - লিচু
 
 # vegetables
 
-1. carrot
-2. beetroot
-3. onion
-4. tomato
-5. potato
-6. cabbage
-7. cauliflower
-8. corn
-9. cucumber
-10. garlic
-11. ginger
+1. carrot - গাজর
+2. beetroot - বিট
+3. onion - পেঁয়াজ
+4. tomato - টমেটো
+5. potato - আলু
+6. cabbage - বাঁধাকপি
+7. cauliflower - ফুলকপি
+8. corn - ভুট্টা
+9. cucumber - শসা
+10. garlic - রসুন
+11. ginger - আদা
+12. bitter gourd - করলা
+13. bottle gourd - লাউ
+14. ridge gourd - ঝিঙ্গে
 
 # flowers
 
-1. rose
-2. lotus
-3. sunflower
-4. marigold
-5. hibiscus
-6. jasmine
+1. rose - গোলাপ
+2. lotus - পদ্ম
+3. sunflower - সূর্যমুখী
+4. marigold - গাঁদা
+5. hibiscus - জবা
+6. jasmine - জুঁই
 
 # vehicles
 
-1. aeroplane
-2. boat
-3. bus
-4. car
-5. cycle
-6. helicoptor
-7. motorbike
-8. ship
-9. tractor
-10. train
+1. aeroplane - বিমান
+2. boat - নৌকা
+3. bus - বাস
+4. car - কার 
+5. cycle - সাইকেল
+6. helicoptor - হেলিকপ্টার
+7. motorbike - মোটরসাইকেল
+8. ship - জাহাজ
+9. tractor - ট্র্যাক্টর
+10. train - রেল গাড়ি
 
 # house
 
-1. house
-2. table
-3. bed
-4. candle
-5. chair
-6. shelf
-7. boy
-8. girl
-9. man
-10. woman
-11. ball
-12. coat
-13. glasses
+1. house - ঘর
+2. table - টেবিল
+3. bed - বিছানা
+4. candle - মোমবাতি
+5. chair - চেয়ার, কেদারা 
+6. shelf - তাক 
+7. boy - ছেলে
+8. girl - মেয়ে
+9. man - পুরুষ  
+10. woman - মহিলা
+11. ball - বল
+12. coat - কোট
+13. glasses - চশমা
 
 # school
 
-1. eraser
-2. pen
-3. pencil
-4. ruler
-5. schoolbag
-6. scissors
-7. sharpener
-8. waterbottle
+1. eraser - ইরেজার, রাবার
+2. pen - কলম
+3. pencil - পেন্সিল
+4. ruler - স্কেল
+5. schoolbag - স্কুল ব্যাগ
+6. scissors - কাঁচি
+7. sharpener - শার্পনার
+8. waterbottle - জলের বোতল
 
 # kitchen
 
-1. stove
-2. fork
-3. knife
-4. pan
-5. spoon
-6. pot
-7. butter
+1. stove - চুলা
+2. fork - কাঁটাচামচ
+3. knife - ছুরি
+4. pan - চাটু
+5. spoon - চামচ
+6. pot - পাত্র
+7. butter - মাখন
+8. ghee - ঘি
+9. bread - পাউরুটি
 
 # gadgets
 
-1. camera
-2. headphone
-3. pendrive
-4. remote
-5. smartphone
-6. speaker
-7. tablet
-8. torch
+1. camera - ক্যামেরা, আলোকচিত্রগ্রহণযন্ত্র
+2. headphone - হেডফোন
+3. pendrive - পেন ড্রাইভ
+4. remote - দূরবর্তী
+5. smartphone - স্মার্টফোন
+6. speaker - স্পিকার
+7. tablet - ট্যাবলেট
+8. torch - টর্চ্লাইট্
 
 # animals
 
-1. cat
-2. dog
-3. goat
-4. sheep
-5. horse
-6. pig
-7. elephant
-8. lion
-9. monkey
-10. tiger
-11. hippo
-12. rhino
-13. fox
-14. crocodile
-15. zebra
-16. bear
-17. camel
-18. shark
-19. whale
-20. dolphin
-21. dragonfly
-22. fish
-23. frog
-24. crab
-25. snake
-26. squirrel
-27. tortoise
-28. rat
-29. winged-termites
-30. ant
-31. fly
+1. cat - বিড়াল
+2. dog - কুকুর
+3. goat - ছাগল
+4. sheep - ভেড়া
+5. horse - ঘোড়া
+6. pig - শূকর
+7. elephant - হাতি
+8. lion - সিংহ
+9. monkey - বানর, বাঁদর
+10. tiger - বাঘ
+11. hippopotamus - জলহস্তী
+12. rhinoceros - গণ্ডার
+13. fox - শিয়াল
+14. crocodile - কুমির 
+15. zebra - জেব্রা
+16. bear - ভালুক
+17. camel - উট
+18. shark - হাঙ্গর
+19. whale - তিমি মাছ 
+20. dolphin - ডলফিন, শুশুক
+21. dragonfly - ফড়িং
+22. fish - মাছ
+23. frog - ব্যাঙ
+24. crab - কাঁকড়া
+25. snake - সাপ
+26. squirrel - কাঠবিড়ালি
+27. tortoise - কচ্ছপ
+28. rat - ইঁদুর
+29. termites - উইপোকা
+30. ant - পিঁপড়ে
+31. fly - মাছি
 
 # birds
 
