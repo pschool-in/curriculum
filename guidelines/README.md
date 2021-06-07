@@ -10,6 +10,7 @@ The below pages talks more about the product and process.
 - [Playlist](playlist.md)
 - [Activity](activity.md)
 - [General Instructions](instructions.md)
+- [Dev Notes](dev-notes.md)
 
 # Subject-wise
 
