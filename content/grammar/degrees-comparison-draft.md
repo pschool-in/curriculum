@@ -118,6 +118,45 @@ Groundnuts are as good as cashew nuts.
 No other non-metal is as lustrous as iodine.
 Guru is not so good as Arun.
 ```
+Jegan is a wise man.
+Himalaya is a large mountain.
+Running is an easy exercise.
+Coral polyps are small organism.
+ Shanu  comes from a wealthy family.
+Bio-fertilizer is good for food grains crops.
+He is as strong as lion. 
+The ice cubes are cold .             
+The sun looks bright today,
+The boy is fast on his cycle.
+
+The teacher’s voice is very loud.
+China is a big country.
+Gold is a precious metal
+Jogging is a good exercise
+Aswin looks handsome in this costume.
+Her hair  was short 
+No man is born wise.
+The fool talks and the wise man thinks. 
+What a big family it was!
+
+Dheena  has a fast internet connection. 
+The alarm clock is ten minutes fast. 
+Cut the meat into thin slices. 
+This coffee is too strong for me. 
+Mary is a strong, independent woman. 
+The dolphin is an intelligent mammals.
+The interior of the house was very attractive. 
+Everyone in my family is happy. 
+My parents  are happy with my exam result.
+
+I think it's dangerous to climb that mountain alone. (Swift)
+It is hard to explain the situation now
+The tree grew very tall
+Don’t eat  high cholesterol foods.
+We had a long discussion on that day
+I saw a strange man in front of the house. 
+
+
 
 # Comparative Degree
 
