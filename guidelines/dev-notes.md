@@ -30,11 +30,17 @@ www.pschool.in/import
 
 We need two utilities for each language.
 
-## Word to Char Array converter.
+## Word to Char Array converter
 
 We need a function which takes a 'word' as input and returns an array by breaking the word into characters.
 
+```
+https://codesandbox.io/s/language-utils-5lmhn
+```
 
+## Character Input
+
+For activities like fill up, crossword etc, we expect the user to key in characters. We need to develop a component which can take in all possible input, and also easy for a 3rd standard student to use.
 
 
 
