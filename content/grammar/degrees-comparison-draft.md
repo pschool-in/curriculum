@@ -118,45 +118,48 @@ Groundnuts are as good as cashew nuts.
 No other non-metal is as lustrous as iodine.
 Guru is not so good as Arun.
 ```
-Jegan is a wise man.
+```Jegan is a wise man.
 Himalaya is a large mountain.
 Running is an easy exercise.
-Coral polyps are small organism.
- Shanu  comes from a wealthy family.
+Saran lives in a small village.
+Shanu  comes from a wealthy family.
 Bio-fertilizer is good for food grains crops.
-He is as strong as lion. 
+Harish is as strong as lion. 
 The ice cubes are cold .             
-The sun looks bright today,
+The sun looks bright today.
 The boy is fast on his cycle.
 
 The teacher’s voice is very loud.
 China is a big country.
-Gold is a precious metal
-Jogging is a good exercise
+Gold is a precious metal.
+Jogging is a good exercise.
 Aswin looks handsome in this costume.
-Her hair  was short 
+Her hair was short 
 No man is born wise.
-The fool talks and the wise man thinks. 
+Cut the meat into thin slices.
 What a big family it was!
 
-Dheena  has a fast internet connection. 
+Dheena has a fast internet connection. 
 The alarm clock is ten minutes fast. 
-Cut the meat into thin slices. 
+The fool talks and the wise man thinks.
 This coffee is too strong for me. 
 Mary is a strong, independent woman. 
-The dolphin is an intelligent mammals.
+The dolphin is an intelligent mammal.
 The interior of the house was very attractive. 
 Everyone in my family is happy. 
-My parents  are happy with my exam result.
+My parents are happy with my exam result.
+I don't want to go home in the dark.
 
-I think it's dangerous to climb that mountain alone. (Swift)
-It is hard to explain the situation now
-The tree grew very tall
+I think it's dangerous to climb that mountain alone.
+It is hard to explain the situation now.
+The tree grew very tall.
 Don’t eat  high cholesterol foods.
-We had a long discussion on that day
+We had a long discussion on that day.
 I saw a strange man in front of the house. 
-
-
+Ragu is a clever Novelist.
+It is expensive to travel by plane.
+Vini is marvellous at telling jokes. 
+Oranges are very cheap in winter season.```
 
 # Comparative Degree
 
@@ -250,12 +253,12 @@ Malar is the most beautiful girl in the class.
 His marks are the lowest in the class.
 Mala is the wisest girl among them all.
 This is the funniest of all books that I have read so far.
-Rishi is the strongest boy in our class.
+Rishi is the smartest boy in our class.
 ```
 
 ```
 You are the best friend of mine.
-The snake is the most dangerous animal.
+The snake is the most dangerous reptiles.
 The Tajmahal is the most famous epitome of love.
 Mahesh is the most handsome boy in his family.
 Room no 15 in the hotel was the most convenient one.
