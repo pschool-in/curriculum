@@ -49,7 +49,7 @@ The baby had *lace* on her frock.  (noun)
 The baby's lace frock is very pretty!  (adjective)
 ```
 ```
-Our school *football* team never has never lost a single match this year! adjective)
+Our school *football* team never has never lost a single match this year! (adjective)
 The *football* was lost during practice.  (noun)
 I have visited Ranganthittu *Bird* Samctuary many times.  (adjective)
 The peacock is the national *bird* of India.  (noun)
