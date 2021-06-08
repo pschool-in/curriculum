@@ -26,7 +26,7 @@ The sea *roared* angrily.
 The *fury* of the storm was scary.
 
 The rain *beat* down relentlessly.
-The pages *rustled* softly.
+The pages *turned* rapidly in the wind.
 The candle *melted* into a puddle.
 The logs *float* on the river.
 The crown *sat* on the king’s head.
