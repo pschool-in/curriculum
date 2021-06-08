@@ -141,50 +141,50 @@
 
 # birds
 
-1. crow
-2. dove
-3. duck
-4. hen
-5. parrot
-6. peacock
-7. penguin
-8. sparrow
+1. crow - কাক
+2. dove - পায়রা
+3. duck - হাঁস
+4. hen - মুরগি
+5. parrot - টিয়া পাখি
+6. peacock - ময়ূর
+7. penguin - পেঙ্গুইন
+8. sparrow - চড়ুই, চড়াই
 
 # bodyParts
 
-1. ear
-2. eye
-3. foot
-4. hair
-5. hand
-6. mouth
-7. nose
-8. tooth
+1. ear - কান
+2. eye - চক্ষু , চোখ, নয়ন
+3. foot - পা
+4. hair - চুল
+5. hand - হাত
+6. mouth - মুখ
+7. nose - নাক
+8. tooth - দাঁত
 
 # others
 
-1. sun
-2. rain
-3. star
-4. milk
-5. ring
-6. brush
-7. bone
-8. auvai
-9. bell
-10. bird
-11. conch
-12. drums
-13. five
-14. food
-15. fruits
-16. king
-17. kite
-18. ladder
-19. ladoo
-20. leaf
-21. rishi
-22. wheel
-23. whistle
-24. world
-25. yazl
+1. sun - সূর্য
+2. rain - বৃষ্টি
+3. star - তারা
+4. milk - দুধ
+5. ring - আংটি
+6. brush - ব্রাশ
+7. bone - হাড়
+8. auvai - 
+9. bell - ঘণ্টা
+10. bird - পাখি
+11. conch - শঙ্খ
+12. drums - ঢাক
+13. five - পাঁচ
+14. food - খাদ্য, খাবার
+15. fruits - ফল
+16. king - রাজা
+17. kite - ঘুড়ি
+18. ladder - মই, সিঁড়ি
+19. ladoo - লাডু
+20. leaf - পাতা
+21. rishi - ঋষি 
+22. wheel - চাকা
+23. whistle - বাঁশি
+24. world - বিশ্ব, পৃথিবী
+25. yazl - 
