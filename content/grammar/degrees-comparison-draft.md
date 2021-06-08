@@ -118,7 +118,8 @@ Groundnuts are as good as cashew nuts.
 No other non-metal is as lustrous as iodine.
 Guru is not so good as Arun.
 ```
-```Jegan is a wise man.
+```
+Jegan is a wise man.
 Himalaya is a large mountain.
 Running is an easy exercise.
 Saran lives in a small village.
@@ -128,7 +129,8 @@ Harish is as strong as lion.
 The ice cubes are cold .             
 The sun looks bright today.
 The boy is fast on his cycle.
-
+```
+```
 The teacher’s voice is very loud.
 China is a big country.
 Gold is a precious metal.
@@ -138,7 +140,9 @@ Her hair was short
 No man is born wise.
 Cut the meat into thin slices.
 What a big family it was!
-
+This is a really hot day.
+```
+```
 Dheena has a fast internet connection. 
 The alarm clock is ten minutes fast. 
 The fool talks and the wise man thinks.
@@ -149,7 +153,9 @@ The interior of the house was very attractive.
 Everyone in my family is happy. 
 My parents are happy with my exam result.
 I don't want to go home in the dark.
+```
 
+```
 I think it's dangerous to climb that mountain alone.
 It is hard to explain the situation now.
 The tree grew very tall.
@@ -159,21 +165,21 @@ I saw a strange man in front of the house.
 Ragu is a clever Novelist.
 It is expensive to travel by plane.
 Vini is marvellous at telling jokes. 
-Oranges are very cheap in winter season.```
-
+Oranges are very cheap in winter season.
+```
 # Comparative Degree
 
 ```
-My house is bigger than yours.
+My house is bigger than my uncle's house.
 Your grade is worse than mine.
 The Pacific Ocean is deeper than the Arctic ocean.
 You are more polite than John.
 My brother is taller than I am, but he is older too.
 A rose is more beautiful than a daisy.
 The Earth is larger than the moon.
-A pint is less than a quart.
+My mom is a better cook than your mom.
 Learning Kannada is more difficult than learning Hindi.
-She is more cheerful than her sister.
+Madhu is more cheerful than her sister.
 ```
 
 ```
@@ -182,7 +188,7 @@ My house is larger than hers.
 This box is smaller than the one I lost.
 Your dog runs faster than Jim's dog.
 The rock flew higher than the roof.
-Jim and Jack are both my friends, but I like Jack better.
+Apples are tastier than oranges.
 India is more powerful than China.
 Sheela is prettier than Sita.
 His marks are lower than mine.
@@ -190,42 +196,55 @@ Sachin walk is slower than sathish.
 ```
 
 ```
-My brother is taller than I am, but he is older too.
+Milk chocolate is sweeter than dark chocolate.
 Preethi is more beautiful than Prema.
 Trains are more expensive than buses in London
 Fruit is healthier than chocolate.
 Arya is more intelligent than Rahman.
 Tokyo is more expensive than Delhi.
 This room is more spacious than that.
-Mohan is funnier than suresh
+Mohan is funnier than suresh.
 This book is more boring than the last one.
-Democracy is better than President rule.
+The cat runs quicker than dogs.
 ```
 
 ```
 Lead is heavier than any other non-metal.
 Iron is harder than wood.
 Raju was better than any other singer in his club.
-Jupiter is bigger than any other planet.
-Alaska is colder than Florida.
+Jupiter is bigger than Earth.
+iphone mobiles are more expensive than samsung mobiles.
 Shakespeare was greater than any other play writer in English.
-Greenland is larger than any other island in the world.
-The cow is more useful than any other animals.
-Iron is more useful than any other metal.
-Ram does not earn more money than I do.
+Greenland is larger than Madagascar.
+The cow is more useful than donkey.
+Iron is more useful than silver.
+Ram does not earn more money than his brother.
 ```
 
 ```
+Summer season is more comforatable than winter .
 China is larger than India.
 Kochi is better than any other port in Kerala
 Oranges are cheaper than apples.
 Mark is more intelligent than James.
-Susie is taller than any other girl in the class
-Bombay is bigger than any other Indian cities.
+Susie is taller than any other girl in her class.
+Bombay is bigger than Chennai.
 No other metal is costlier than gold.’
 I am taller than my brother.
 Guru is not richer than Hema.
-Shyam is more adventurous than any other boy in the class.
+```
+
+```
+my son Kiran is weaker than Kamal.
+Tea is more popular beverage than Burger.
+The Nile is longer than the River Thames.
+The cartoon channel is better than News channel.
+My new dog is cuter than old one.
+Rajesh would be more comfortable wearing jeans.
+Shyam is more adventurous than any other boy in the college.
+It is healthier to eat vegetables than meat.
+The Himalayas is a higher mountain range than The Alps.
+The pasta is nicer than the pizza in this restaurant.
 ```
 
 ## Superlative Degree
@@ -279,8 +298,8 @@ The Dead sea is the lowest point on the Earth.
 Baikal lake is the deepest fresh water lake in the world.
 Books are the most interesting companions.
 They are the most reliable friends.
-
 ```
+
 ```
 Butter is the softest substance.
 Newspapers are the best media for a variety of news.
@@ -294,6 +313,19 @@ Wordsworth is the greatest of all English poets.
 Greenland is the largest island in the world.
 ```
 
+```
+Bill Gates is the second richest person in the world.
+I think this is the prettiest dress in the shop.
+My laptop is the most important thing I have ever bought.
+It was the most interesting film we’d seen this year.
+You have the biggest desk in the whole office.
+India is the largest democracy in the world.
+playing games is the funniest way to pass the time at home.
+My brother is  the most annoying person in my family.
+He’s the best football player in the team.
+His strongest point is his ambition.
+```
+
 ##Reference :
 
 ```
@@ -302,5 +334,7 @@ https://www.englishgrammar.org/transformation-degrees-comparison/
 https://www.grammar-monster.com/glossary/positive_degree.htm
 https://www.gingersoftware.com/content/grammar-rules/adjectives/comparing-adjectives/
 https://examples.yourdictionary.com/examples-of-comparitive-and-superlative-adjectives-for-kids.html
+https://www.eslbase.com/grammar/comparative-superlative
+https://onlineteachersuk.com/comparative-superlative-adjectives/
 
 ```
