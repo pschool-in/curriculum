@@ -47,3 +47,36 @@ czarina, spinster, hen, wife, queen
 
 tiger, duke, man, master, monk', 'niece, aunt, bride, sister
 ```
+
+## Match the Gender Pair
+
+Match
+
+
+```
+stewardess, steward
+stallion, filly
+giant, giantess
+grandson, granddaughter
+Count, Countess
+
+peacock, peahen
+landlord, landlady
+emperor, empress
+milkman, milkmaid
+tiger, tigress
+
+host , hostess
+goddess, god
+stepson, stepdaughter
+maidservant, manservant
+ram, ewe
+
+nun, monk
+stag, hind
+rooster, hen
+washerman, washerwoman
+gentleman, lady
+```
+
+
