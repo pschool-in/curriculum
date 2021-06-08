@@ -1,4 +1,34 @@
 
+# Parts of Speech 2
+
+## Hunt the Adverb!
+
+```
+Meera spoke *rudely* to her teacher.
+*Suddenly* it began to rain!
+The gardener worked *tirelessly* in the hot sun.
+The children *stealthily* switched off the television when they heard their father’s car!
+I can do this *easily*.
+
+The prisoner stared at his captor *fearlessly*.
+Sita sings *beautifully*!
+The old woman spoke *softly*.
+The policeman spoke *loudly* to catch our attention.
+The boy ran *fast* to catch the school bus.
+
+Isha’s parents took her to the dentist *immediately*.
+Pujit did all his sums *correctly*.
+The leader requested the residents *humbly* to keep their surroundings clean.
+The girl *carelessly* crossed the busy road.
+He *rarely* falls sick!
+
+Meghna waited *patiently* for the doctor to see her.
+The little boy looked *sadly* at his sick puppy.
+The workers are *late* today.
+Sameera visits her grandmother *frequently*.
+The Chief Guest arrived *early*!
+```
+
 ### noun vs adjective vs verb
 
 noun
