@@ -97,28 +97,41 @@ Birds | are flying.
 Boys | are | leaving.
 They | are | shouting.
 We | are planning.
-Ram  |saved.
+Ram  | saved.
 Jack | is dancing.
 Ragu | is hoping.
-She | will go.
+Anu | will go.
 Baby |is crawling.
 The painter | is working.
 The bell | is ringing.
+```
+
+```
+The boys | worried.
+The baby | slept.
+Karthick | finished.
+The Dog | has bitten.
+The bee | stung.
+Somu | was dreamed.
+Raju | has gone.
+We | are praying.
+Boys | have planned.
+Banu | cooked.
 ```
 
 ## SVO pattern
 
 ```
 Radha | makes | a doll.
-They |completed | their project.
+The students | completed | their project.
 Hema  | eats | banana.
 The man | hit | the ball.
 The boy | reads | a magazine.
-The man  |rides | the horse.
-The dog | bites | a boy.
-She | sings | a song.
-We | received | the parcel.
-She  |writes | a letter.
+Kawin  | rides | the horse.
+The dog | bit | a boy.
+Roshini | sings | a song.
+My mother | received | the parcel.
+Vignesh | writes | a letter.
 ```
 
 ```
@@ -127,11 +140,11 @@ Kannan | resembles | his father.
 Many students | witnessed | the play.
 The police | arrested | the thief.
 I | want | one of these books.
-I | love | my nation.
+we | love | our Nation.
 Peter | got | admission.
-A hunter | followed | a wild animal.
+A hunter | followed | a wild Elephant.
 My mother | is teaching | French.
-She | prayed | for society.
+Manju | prayed | for society.
 ```
 
 ## SVC pattern
@@ -195,8 +208,8 @@ Guru | works | in Bangalore.
 ```
 They | made | him | captain.
 Arun | named | me | Robert.
-people | elected  | ragu | president.
-The chairman | selected | priya | speaker.
+People | elected  | Ragu | president.
+The chairman | selected | Priya | speaker.
 They | made | him | the Mayor.
 They | made | David | Chairman of the Rotary club.
 The news | made | his name | popular.
@@ -216,9 +229,9 @@ The boy | kicks | the ball | with force.
 Prema | made | a new dress | yesterday.
 The kidnapper | locked | the child | in a lonely house.
 The manager | threw | the chair | out.
-Sathya | invited | the guests | to get in.
+Sathya | invited | the guests | happily.
 They | played | the match | in broad daylight.
-The thieves | broke open | the lockers | in the bank.
+The thieves | broke  | the lockers | in the bank.
 I | shall meet | you | at the railway station.
 You | will understand | the truth | one day.
 Ravi | lost | his father | last week.
@@ -244,6 +257,42 @@ She | offered | me | a firm hand shake.
 They|sold|him|pictures.
 ```
 
+
+## SVOAA pattern
+
+```
+Prabhu | met | Saran | at the theatre | yesterday.
+He | practised | pistol shooting | in the firing range | in London.
+Rajesh | joined | the dinner | at my home | yesterday.
+Sara | enjoyed | the music recital immensly | yesterday.
+They | pushed | the bus | from behind | to make it move.
+Gowtham | will close | the shop | early | today.
+He | left | the book | on the table | at once.
+
+```
+
+## SVCA pattern
+
+```
+You | seem | tried | today.
+It | is | dark | everywhere.
+Padma | became | wise | thereafter.
+They | reached | home | late.
+The train | left | the station | on time.
+Latha | got | well | soon.
+Harish | became | popular | at once.
+I | am | a student | in this school.
+Sathya | acts | well | at all times.
+My father | is | an Engineer | in Chennai.
+Aravind | got | well | slowly.
+Mrs.Kala | is | the principal | here.
+Dr.David | is | famous | in his locality.
+Geetha | is | a doctor | at Paris.
+People | were made | the Mayor | last week.
+Mr.Donald Trump | was elected | the President | last year.
+```
+
 # refernces
 
 http://www.grammarinenglish.com/sentencepattern/
+http://www.grammarinenglish.com/sentencepattern/?lesson=examples
