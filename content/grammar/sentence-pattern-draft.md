@@ -117,6 +117,7 @@ Raju | has gone.
 We | are praying.
 Boys | have planned.
 Banu | cooked.
+She |is smiling.
 ```
 
 ## SVO pattern
@@ -130,7 +131,7 @@ The boy | reads | a magazine.
 Kawin  | rides | the horse.
 The dog | bit | a boy.
 Roshini | sings | a song.
-My mother | received | the parcel.
+My Teacher | received | the Award.
 Vignesh | writes | a letter.
 ```
 
@@ -146,6 +147,22 @@ A hunter | followed | a wild Elephant.
 My mother | is teaching | French.
 Manju | prayed | for society.
 ```
+
+```
+The Mason | built | a stone wall.
+The children | eat | buns, cakes, and biscuits.
+The Boy | threw | a ball.
+Arul | is reading | a Newspaper.
+Giri | rode | a bike.
+Monkeys | are eating| Banana.
+The cat | bit | a Mouse.
+Akash |  likes | Icecreams.
+Aswin | irons | his shirt.
+My friends |have played |Foot ball.
+```
+
+
+
 
 ## SVC pattern
 
@@ -264,8 +281,8 @@ They|sold|him|pictures.
 Prabhu | met | Saran | at the theatre | yesterday.
 He | practised | pistol shooting | in the firing range | in London.
 Rajesh | joined | the dinner | at my home | yesterday.
-Sara | enjoyed | the music recital immensly | yesterday.
-They | pushed | the bus | from behind | to make it move.
+Sara | enjoyed | the music recital| immensly | yesterday.
+They | pushed | the bus | from behind | to move.
 Gowtham | will close | the shop | early | today.
 He | left | the book | on the table | at once.
 
@@ -284,6 +301,8 @@ Harish | became | popular | at once.
 I | am | a student | in this school.
 Sathya | acts | well | at all times.
 My father | is | an Engineer | in Chennai.
+```
+```
 Aravind | got | well | slowly.
 Mrs.Kala | is | the principal | here.
 Dr.David | is | famous | in his locality.
@@ -292,7 +311,9 @@ People | were made | the Mayor | last week.
 Mr.Donald Trump | was elected | the President | last year.
 ```
 
-# refernces
+# reference
 
 http://www.grammarinenglish.com/sentencepattern/
+
 http://www.grammarinenglish.com/sentencepattern/?lesson=examples
+
