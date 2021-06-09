@@ -60,13 +60,67 @@ My school has a beautiful *garden*!  (noun)
 The lady in the green sari is my *history* teacher.  (adjective)
 *History* was never my favourite subject!  (noun)
 ```
-
-
-
+##Identify whether the underlined words are verbs or nouns.
 ```
-Our 
+The ball went *rolling* down the hill.  (verb)
+The cook could not find her *rolling* pin.  (noun)
+He loves to watch children at *play*.  (verb)
+The *play* last night did not have a large audience.  (noun)
+How are you going to *transport* your belongings?  (verb)
+The bullock cart is the only form of *transport* in this village!  (noun)
+I strongly *object* to the unnecessary use of plastic.  (verb)
+She could see a shining *object* under the bed.  (noun)
+The storm ripped apart the ship's *sail*.  (noun)
+They set *sail* to the mainland at dawn. (verb)
 ```
-
+```
+The children were busy writing their revision  *exercise*.  (noun)
+I *exercise* every day.  (verb)
+The prince was not in the habit of wearing a *watch*.
+*Watch* the stove till I come back.
+The lost traveller saw a bright *light* shining in the distance.  (noun)
+Take a torch to *light* the dark road.  (verb)
+They heard a shrill *whistle* piercing the silent night! (verb)
+My little cousin loves to blow his toy *whistle*!  (noun)
+I *promise* to be on time!  (verb)
+She kept the *promise* made to her mother.  (noun)
+```
+```
+That dog is trained to *attack*!  (verb)
+The *attack* took place under cover of darkness.  (noun)
+Don't give such a lame *excuse* for incomplete homework! (verb)
+Any *excuse* is good for a celebration!  (noun)
+He refused to *answer* his father's question.  (verb)
+The *answer* was too long and boring!  (noun)
+The war was finally at an *end*, to the great relief of the people.  (noun)
+When will you *end* your quarrel?  (verb)
+The border was within a day's *march*.  (noun)
+The *march* to the border took three days.  (verb)
+```
+```
+There was no *trace* of the children in the garden.  (noun)
+I could not *trace* the source of the sweet smell.  (verb)
+The little girl sat on the wooden *block* with her teddy bear.  (noun)
+The tall boys always *block* our view to the stage during assembly!  (verb)
+As soon as the door was opened, a cold windy *blast* rushed in!  (noun)
+They had to *blast* a tunnel through the mountain.  (verb)
+When is your lunch *break*?  (noun)
+When do you *break* for lunch?  (verb)
+*Brush* your teeth after every meal!  (verb)
+This is the *brush* used to clean the windows.  (noun)
+```
+```
+Their *cook* makes the most wonderful food!  (noun)
+My mother takes a long time to *cook*!  (verb)
+Children love to *colour* pictures.  (verb)
+This *colour* is very pleasant.  (noun)
+There is no *salt* in the curry!  (noun)
+Did you forget to *salt* the curry?  (verb)
+Swami has a blue *cycle*.  (noun)
+Swami has to *cycle* to school every day.  (verb)
+My doll has a *curl* on her forehead.  (noun)
+Did Ajay *curl* his hair?  (verb)
+```
 
 
 
