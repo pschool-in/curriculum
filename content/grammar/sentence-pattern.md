@@ -54,7 +54,7 @@ Ravi is reading.
 
 They are working.
 The bell is ringing.
-We are still planning.
+We are planning.
 ```
 
 S + V + O
