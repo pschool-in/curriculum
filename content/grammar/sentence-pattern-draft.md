@@ -197,11 +197,11 @@ George | is | the captain.
 Her face | tured | red.
 Asha | felt | sick.
 This soup | tastes | bad.
-Lions | are | wild animals.
+Lion | is | a wild animal.
 He | will be | fine.
 Meera | was | a ghost.
 It | tastes | like salty butter.
-She | looks | amazing.
+The Tajmahal | seems | amazing.
 ```
 ## SVA PATTERN
 
@@ -210,11 +210,11 @@ He | came | to the party.
 They | came | suddenly.
 It | is going | away.
 The train | arrived | late.
-They | will come | later.
+Rishi | will come | later.
 It | rained | last night.
-She | worked | in a bookshop.
-They | went | to the market.
-He | reads | slowly.
+Sasi | worked | in a bookshop.
+My aunt | went | to the market.
+Sachin | reads | slowly.
 The noise | fades | away.
 ```
 
@@ -227,7 +227,7 @@ Flowers | are | everywhere.
 Ragu | works | hardly.
 Priya | settled | in USA.
 I | read | newspaper | regularly.
-Sugan | reads | carefully.
+Sugan | listens | carefully.
 Guru | works | in Bangalore.
 ```
 ```
@@ -238,7 +238,7 @@ My friends | are reading| in the library.
 Kalpana | cooks | very well.
 Boys | are playing | in the ground.
 My baby | speaks | very well.
-Meena | sings | every morning.
+Meena | prays | every morning.
 Marry | cooks | deliciously.
 The cock | is | on the roof.
 ```
@@ -246,19 +246,27 @@ The cock | is | on the roof.
 
 ```
 They | made | him | captain.
-Arun | named | me | Robert.
+Arun | named | me | Rahul.
 People | elected  | Ragu | president.
 The chairman | selected | Priya | speaker.
-They | made | him | the Mayor.
+People | made | him | the Mayor.
 They | made | David | Chairman of the Rotary club.
 The news | made | his name | popular.
 Sheela | made | kavi | happy.
-Hema | learnt | music | last year.
 Rosy | got | her shoes | wet.
-Ramu | recognised | meenu | as a genius.
-He | painted | the wall | white.
-England | declared | me | a jew.
-He | made | his son | a doctor.
+My Granny | named | me | Reena.
+```
+```
+Ramu | recognised | Meenu | as a genius.
+Akash | painted | the wall | white.
+My father | made | my brother | a doctor.
+Reading | made  | him | a complete man.
+My father | found	| me | crying.
+My Relatives | called	| Mugilan|	a genius.
+The student |	elected |	Johnson| a leader.
+My cousin | made | her Mother| angry.	
+Sheela | called | him | a liar.
+Jogging | made| my body | Fit .
 ```
 
 ## SVOA pattern
@@ -269,31 +277,52 @@ Prema | made | a new dress | yesterday.
 The kidnapper | locked | the child | in a lonely house.
 The manager | threw | the chair | out.
 Sathya | invited | the guests | happily.
-They | played | the match | in broad daylight.
+They | played | the match | in daylight.
 The thieves | broke  | the lockers | in the bank.
 I | shall meet | you | at the railway station.
 You | will understand | the truth | one day.
 Ravi | lost | his father | last week.
+```
+```
 The forest officer | shot | the tiger | at once.
 He | wrote | a letter | from Paris.
-They | want | money | immediately.
-Everyone | attends |the meeting | regularly.
+Susi | want | money | immediately.
+All the students | attend |the coaching class | regularly.
+Bala | placed | mobile | on the shelf.
+The storm | drove |the ship| on Land.
+John | put | the bag | down.
+Dheena | drives | the car | slowly.
+I | met | my friend | at the market.
+We | wear | woolen clothes | in winter season.
 ```
 
 ## S-V-IO-DO Pattern
 
 ```
-We | wish | you | Happy new year.
+We | wish | you | a Happy new year.
 The principal | gave | him | the medal.
-He | gave | her | a watch.
-They| presented | him | a car.
-Paul | gave | his wife | a gift.
-The Headmaster | showed | her | the result.
-He | sent | us | some foreign chocolates.
+Edison | gave | her | a watch.
+My Uncle | sent | me | a car.
+Peter | gifted | his sister | a pen.
+The student| showed |  his progress  | to the teacher.
+Rahul | brought | us | some foreign chocolates.
 The doctor | gave | her | medicine.
-Sarah | sent | Paul | a gift.
-She | offered | me | a firm hand shake.
-They|sold|him|pictures.
+Sarah | sent | Paul | a Laptop.
+Reena | offered | me | a firm hand shake.
+```
+```
+Karna | sold | his mobile| to Kannan.
+My mom | brought | me | a cup of tea.
+Ganesh | gave | his sister | a makeup kit.
+The Secretary | sanctioned | ten lakhs | to the school.
+Sankar | taught| me | Hindi.
+The Headmaster | promised | parents | for fees reduction.
+Sakthi | bought | his mother | a ring.
+Janu | wrote | her friend  | a letter.
+Kala  | sent | him | a greeting card.
+The teacher | taught | us | Grammar.
+My sister | prepared |me | a cake.
+
 ```
 
 
@@ -340,3 +369,4 @@ http://www.grammarinenglish.com/sentencepattern/
 http://www.grammarinenglish.com/sentencepattern/?lesson=examples
 https://www.grammar-monster.com/glossary/subject_complement.htm
 https://examsdaily.in/wp-content/uploads/2018/09/sentence-pattern-and-homophones.pdf
+https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-grammar-sentence-pattern/
