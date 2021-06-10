@@ -60,7 +60,7 @@ My school has a beautiful *garden*!  (noun)
 The lady in the green sari is my *history* teacher.  (adjective)
 *History* was never my favourite subject!  (noun)
 ```
-##Identify whether the underlined words are verbs or nouns.
+## Identify whether the underlined words are verbs or nouns.
 ```
 The ball went *rolling* down the hill.  (verb)
 The cook could not find her *rolling* pin.  (noun)
@@ -121,7 +121,7 @@ Swami has to *cycle* to school every day.  (verb)
 My doll has a *curl* on her forehead.  (noun)
 Did Ajay *curl* his hair?  (verb)
 ```
-##Choose the correct form of the words given in brackets to complete the sentences.
+## Choose the correct form of the words given in brackets to complete the sentences.
 ```
 The children *happily* played in the park all day.  (happy)
 The teacher told Neeraj not to *daydream*.  (dream)
