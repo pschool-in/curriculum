@@ -191,7 +191,18 @@ Mary | was | poor.
 They | became | angry.
 John | is | tall.
 ```
-
+```
+My sister | looked | worried.
+George | is | the captain.
+Her face | tured | red.
+Asha | felt | sick.
+This soup | tastes | bad.
+Lions | are | wild animals.
+He | will be | fine.
+Meera | was | a ghost.
+It | tastes | like salty butter.
+She | looks | amazing.
+```
 ## SVA PATTERN
 
 ```
@@ -219,7 +230,18 @@ I | read | newspaper | regularly.
 Sugan | reads | carefully.
 Guru | works | in Bangalore.
 ```
-
+```
+Leena | goes | to school.
+Hari | runs | very quickly.
+He |is lying | on the floor.
+My friends | are reading| in the library.
+Kalpana | cooks | very well.
+Boys | are playing | in the ground.
+My baby | speaks | very well.
+Meena | sings | every morning.
+Marry | cooks | deliciously.
+The cock | is | on the roof.
+```
 ## SVOC PATTERN
 
 ```
@@ -316,4 +338,5 @@ Mr.Donald Trump | was elected | the President | last year.
 http://www.grammarinenglish.com/sentencepattern/
 
 http://www.grammarinenglish.com/sentencepattern/?lesson=examples
-
+https://www.grammar-monster.com/glossary/subject_complement.htm
+https://examsdaily.in/wp-content/uploads/2018/09/sentence-pattern-and-homophones.pdf
