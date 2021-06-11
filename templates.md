@@ -46,6 +46,23 @@ Common Multiple Choice Questions (MCQ)
 
 <img src="screenshots/06_mcq.png" width="300" >
 
+The options can be given in a couple of ways. And the first entry is always the
+right option.
+
+If the options are words or phrases then we separate the options using comma.
+(comma as delimiter)
+
+If the options are sentences, then we separate the options using new line. (line
+break as delimiter)
+
+If we have 'none of the above' or 'all of the above' as options then we don't
+want to shuffle the options and we expect them to always come as the last
+option.
+
+Sometimes, we want to give more than one right option.
+
+For the above two cases, add astrisk before the right option(s).
+
 # 7. Right Option
 
 Very similar to MCQ, but their is no separate question, only instruction. Find
