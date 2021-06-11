@@ -1,10 +1,10 @@
-ADVERBS 
-An adverb is a word that tells us more about a verb. 
+## ADVERBS 
+```An adverb is a word that tells us more about a verb. 
 It "qualifies" or "modifies" a verb . 
 Example 
 John speaks loudly. (How does John speak?) 
-Rohan decided to leave immediately. (When did Rohan decide to leave?) Mary lives locally. (Where does Mary live?) 
-· Adverbs can also modify adjectives or even other adverbs . 
+Rohan decided to leave immediately. (When did Rohan decide to leave?) Mary lives locally. (Where does Mary live?).
+Adverbs can also modify adjectives or even other adverbs . 
 Example 
 Modify an Adjective 
 He is really handsome. (How handsome is he?) 
@@ -35,39 +35,51 @@ Coolly
 Correctly 
 Crossly 
 Dearly 
-Delightfully 
-Adverbs of Manner 
-Adverbs of manner tell us “how” something happens. They can answer the question "How?". 
-·Adverbs of Manner mainly modify verbs
+Delightfully ```
+```
+## Adverbs of Manner 
+```
+Adverbs of manner tell us “how” something happens. They can answer the question "How?" 
+Adverbs of Manner mainly modify verbs.
 Example 
 He speaks slowly. (How does he speak?) 
-They helped us cheerfully. (How did they help us?) 
-Adverbs of Place 
+They helped us cheerfully. (How did they help us?) ```
+
+## Adverbs of Place
+
 Adverbs of Place tell us the place “where” something happens. They can answer the question "where?". 
 Adverbs of Place mainly modify verbs. 
 Example 
 Please sit here. (Where should I sit?) 
-They looked everywhere. (Where did they look?) 
-Adverbs of Time 
+They looked everywhere. (Where did they look?) ```
+
+## Adverbs of Time 
+
 Adverbs of Time tell us something about the time that something happens. Adverbs of Time mainly modify verbs. 
 They can answer the question "when?": 
 Example 
 He came yesterday. (When did he come?) 
 I want it now. (When do I want it?) 
-Adverbs of Degree 
+```
+
+## Adverbs of Degree 
+```
 Adverbs of Degree tell us the degree or extent to which something happens. 
 They can answer the question "how much?" or "to what degree?". It can modify verbs, adjectives and other adverbs.
 Example 
 She entirely agrees with him. (How much does she agree with him?) 
 Mary is very beautiful. (To what degree is Mary beautiful? How beautiful is Mary?) 
 He drove quite dangerously. (To what degree did he drive dangerously? How dangerously did he drive?) 
-Adverbs of Frequency 
+```
+## Adverbs of Frequency
+```
 Adverbs of Frequency are adverbs of time that answer the question "How frequently?" or "How often?". 
 They tell us how often something happens. 
 They can describe verbs and adjectives, but they do not modify other adverbs. 
 Example 
 He’s always calling me on my mobile. (How often is he calling you on your mobile ?) 
-I try to do exercise twice a day 
+I try to do exercise twice a day.
+```
 # Exercise: 
 ## Adverbs of Manner 
 
@@ -75,9 +87,9 @@ I try to do exercise twice a day
 Anu swims well. 
 Hari ran quickly. 
 Sheela spoke softly. 
-James coughed loudly to attract her attention. 
+James coughed loudly . 
 Ram plays the flute beautifully. 
-Siva ate the chocolate cake greedily. 
+Siva ate the chocolate cake eagerly. 
 The town grew quickly after 1997. 
 Muthu waited patiently for his mother to arrive.
 Vino swam well despite being tired. 
@@ -85,50 +97,46 @@ The rain fell hard during the storm.
 ```
 
 ```
-Kavin gently woke the sleeping woman.
-Jaya angrily slammed the door. 
+Kavin gently woke the sleeping Mom.
+Jaya angrily shut the door. 
 Slowly she picked up the knife. 
 Roughly Vimala grabbed her arm. 
-Akbar quickly drank the water. 
-Anand laughed nervously. 
-Aruna reads the letter carefully. 
+Akbar quickly drank the 1liter water. 
+Anand laughed loudly at the joke. 
+Aruna reads the admission form carefully. 
 Kamal answered all the questions correctly.
 The town grew quickly after 1997. 
 The cat walked calmly along the fence.
+```
+```
 Sara folded the blankets carefully. 
 Make sure you cross the road safely! 
-Henry gently woke the sleeping Mom. 
-```
-
-```
-I eagerly accepted the job offer. 
-The men worked hard to repair the wall. 
-This church has faithfully maintained its traditions.
+This idea was eagerly received by the students. 
+My father worked hard to build our house. 
+He served the family faithfully for many years.
 She gently patted the baby on the back.
-The boy yawned lazily. 
-Many of the students did poorly on the final exam.
-The meeting will start promptly at 2:00.
-Sharmi angrily slammed the door. 
+Anitha woke up and stretched lazily. 
+The online class will start promptly at 2:00.
+The audience cheered him enthusiastically. 
 He reluctantly admitted that he was wrong. 
-My uncle accepted the invitation gladly.
+```
+```
+My uncle received the invitation gladly.
 Charles asked me quietly to leave the house. 
-```
-
-```
-Sankar quietly asked me to pour the coffee.
+Sankar politely asked me to pour the coffee.
 The shed was badly damaged by the storm.
-The policeman walked bravely into the dark building.
-Drive the car fast if you want to catch the flight.
-Drive the car slowly unless you want to die.
-He always keeps himself busy. 
-He does not talk loudly to the person he respects. 
+Seenu walked bravely into the dark building.
+I eagerly wait to see his batting. 
+Babu does not talk loudly to his parents. 
 Vicky always behaves gently with his elders.
-I opened the door hurriedly. 
-I saw you standing there exhaustingly. 
-You needed someone badly to hold your hand. 
-I ran to you as I was so worried. 
-He ate the chocolate cake greedily. 
-Ragu generously gave us the money. 
+Viji opened the door hurriedly. 
+Ravi saw his dad standing in busstand exhaustingly.
+```
+```
+Gokul has the ability to come back strongly. 
+They speak English fluently. 
+Balu stares the pizza greedily. 
+The tortoise moves slowly. 
 The child ran towards his mother happily.
 Gopi calmly explained his point of view. 
 ```
@@ -146,7 +154,9 @@ Tomorrow our fortune will be sealed.
 Last year was the finest year of my life. 
 Yesterday my problems seemed so far away. 
 We must go now. 
-I will call you later. 
+I will call you later.
+```
+```
 Is Kamala still sleeping? 
 It is a holiday today. 
 Ganga has just come. 
@@ -154,12 +164,11 @@ They will be here soon.
 I put my shoes on last. 
 The fight is not over yet. 
 The train is coming late. 
-
-```
-```
 It is quite cold at night. 
 Siva reads for an hour daily. 
 That incident happened a long time ago.
+```
+```
 School children get up early in week days.
 I have read this book before. 
 Sheela hasn't been too well lately. 
@@ -171,7 +180,6 @@ We are giving him a dinner this evening.
 Vijay had his dinner first.
 Then he talked to me.
 ```
-
 ```
 We got here at ten and the others arrived soon after.
 His heart stopped beating and he died soon afterwards. 
@@ -183,15 +191,14 @@ Manoj completed his graduation last year.
 Akila is going to the market now. 
 John and Mani were roaming in the market all day. 
 I searched about you for a year. 
+```
+```
 Prem has been waiting for you since this morning. 
 Rajan never pays his rent on time. 
 It often rains in Bangalore. 
 You should always be polite. 
 Arun seldom talks. 
 Kavin rarely reads Hindi newspapers. 
-```
-
-```
 Vikram completed his work earlier. 
 Ramya will visit her grandparents soon. 
 Arjun got his payment recently. 
