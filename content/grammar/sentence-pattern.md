@@ -90,7 +90,7 @@ S+V+O+C
 ```
 They made me captain.
 The baby made everyone happy.
-Hema learned music last year.
+My Granny named me Reena.
 The long ship journey made the people sick.
 
 Rosy got her shoes wet.
