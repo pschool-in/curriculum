@@ -148,9 +148,9 @@ Gopi calmly explained his point of view.
 I have to go now. 
 Ram will see you soon. 
 We first met Rani last year. 
-Akila never gets up early at the weekends.
-Pooja forgot her lunch yesterday and again today.
-Tomorrow our fortune will be sealed.
+I get up very early sometimes.	
+Pooja forgot her lunch yesterday.
+I work five days a week.
 Last year was the finest year of my life. 
 Yesterday my problems seemed so far away. 
 We must go now. 
@@ -160,112 +160,111 @@ I will call you later.
 Is Kamala still sleeping? 
 It is a holiday today. 
 Ganga has just come. 
-They will be here soon. 
-I put my shoes on last. 
-The fight is not over yet. 
-The train is coming late. 
+My parents will be here soon. 
+I am feeling happy today. 
+The fight is not over yet.  
 It is quite cold at night. 
 Siva reads for an hour daily. 
 That incident happened a long time ago.
 ```
 ```
-School children get up early in week days.
+This magazine is published monthly.
 I have read this book before. 
-Sheela hasn't been too well lately. 
 You must reach there by tomorrow. 
 Rohan decided to leave immediately.
 Bala told you everything yesterday. 
 You can see the doctor in the morning.
-We are giving him a dinner this evening.
-Vijay had his dinner first.
-Then he talked to me.
+We are giving him a party this evening.
+Vijay had his dinner late at night.
+My uncle visits Ooty frequently.
+I come to this museum regularly.	
+
 ```
 ```
-We got here at ten and the others arrived soon after.
-His heart stopped beating and he died soon afterwards. 
-Jeeva left the town last year. We have not seen him since.
-Sweets are now processed with less sugar than formerly.
+Now I am going to Vimal's home.
+Kathir slept late the previous night.
+I left her home in the afternoon.
+My friends are going on vacation for a week.
 Naveen went to the doctor yesterday. 
 Rahul will go to his hometown tomorrow. 
-Manoj completed his graduation last year. 
+Janu is still waiting for you. 
 Akila is going to the market now. 
-John and Mani were roaming in the market all day. 
-I searched about you for a year. 
+Muthu waited for a few minutes. 
+Sakthi often eats vegetarian food. 
 ```
 ```
-Prem has been waiting for you since this morning. 
-Rajan never pays his rent on time. 
+Prem has been waiting for you since morning. 
+Rajan never pays his fees on time. 
 It often rains in Bangalore. 
 You should always be polite. 
 Arun seldom talks. 
 Kavin rarely reads Hindi newspapers. 
 Vikram completed his work earlier. 
 Ramya will visit her grandparents soon. 
-Arjun got his payment recently. 
+Arjun got his marksheet recently. 
 Somu drinks water hourly. 
 Anand goes to the gym daily. 
-Myfather visits his parents yearly. 
-Raju gets his payment quarterly
+Myfather visits his parents yearly once. 
+I have not seen you since Monday.
 ```
 
 ## Adverbs of Frequency 
 
 ```
-My dentist told me I should floss twice daily 
-I have seen her only once. 
-Sakthi goes there quite regularly. 
-It is never too old to learn. 
-Rahul can normally makes the shot. 
+My dentist told me I should floss twice daily. 
+I have seen Dhoni only once in Hyderabad. 
+Sara goes Chennai quite regularly. 
+It is never too old to learn.  
 Neighbours seldom see John ouside. 
 Our teacher is always punctual. 
-Mother can feeds them twice a day. 
+Mother can feeds them thrice a day. 
 Do you go to movie everyday? 
-It was raining harder than ever. 
 The spider tried again and again. 
-Shanu often goes outside the country. 
+Shanu often goes outside the country.
+```
+```
 shanthi goes to the park every week. 
 Ranjith is seldom late for the class. 
-```
-
-```
-Kiran usually completes the work on time. 
+Kiran usually completes his work on time. 
 The committee will meet twice a month. 
 My children rarely ask questions about sports. 
 Students practice sports three times a week. 
 No, I don’t visit my in-laws now and then. 
 The doctor visits this village only sometimes. 
 After the quarrel, she has never talked to me again.
-Do you frequently go to theatre? No, we go only occasionally. 
-I always wait for him but Ram does not even care. 
-Sometimes I get so angry that I cannot even talk to him.
-Alex often goes abroad for official duties. 
+Do you frequently go to theatre?
+```
+```
+Rama always waits for Seetha . 
+Sometimes I get so angry.
+Alex often goes abroad for official purpose. 
 However, we also go to tours regularly. 
 My parents go to Italy once a year. 
 Jeeva went to India many times before. 
 But I never went to America in my life. 
-My father always tells me to go the church. 
-We go out to watch a movie every Saturday evening.
-We rarely go to beach in weekdays. 
+My father always tells me to go the Church. 
+We go out to a movie every Saturday evening.
+We rarely go to beach in weekdays.
+```
+```
 Plays are mostly boring. 
 He is often late for Maths class.
-```
-
-```
-Once I fell asleep in the middle of a conversation.
+While reading a book, he fell asleep.
 We travel once a month to refresh our minds. 
 Roja hardly gets some free time to watch serials. 
 Saran have to goes to work every day. 
-We frequently take leave from our jobs to go on the road trips.
-My uncle takes a long vacation at least once annually. 
-My friends usually go shopping on Saturday morning. 
-My brother reads story books occasionally. 
-Children like to watch TV often. 
-sometimes Vivek watches Chinese films. 
-My daughter never eats vegetables. 
-I always read comic books. 
-My grand parents rarely watch music channels 
-The incubator turns each egg hourly. 
+I frequently  like to watch cartoon channels.
 We take a vacation at least once annually. 
+My friends usually go shopping on Saturdays. 
+My brother reads story books occasionally. 
+```
+```
+I usually watch television in the evening.. 
+sometimes Vivek watches Chinese films. 
+My daughter never eats junk foods. 
+I always read comic books. 
+My grand parents rarely watch music channels. 
+The Incubator turns each egg hourly. 
 I usually shop for groceries on Sundays.
 ```
 
