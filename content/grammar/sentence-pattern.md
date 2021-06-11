@@ -78,9 +78,9 @@ I am an Indian.
 The class became noisy.
 
 My uncle is a farmer.
-She sings well.
+She looks worried.
 The milk is getting cold.
-They worked hard.
+The sky turned dark.
 ```
 
 ## Classify Pattern - 2
