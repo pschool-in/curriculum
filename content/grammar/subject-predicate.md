@@ -21,15 +21,32 @@ The subject is usually followed by the predicate as given in the examples above,
 ```
 
 
-
 ## Identify the Subject
 
 Select the subject in the below sentences.
+
 *The Sleeping Beauty* slept for a hundred years!
-
-
-
-
+*Their house* was flooded last week.
+Climb up *the ladder*.
+*Sasha* is my beautiful cat!
+TThe train* was late again!
+Down the road ran the *little boy*.
+*The rose* is a beautiful flower!
+*A squirrel* has a bushy tail.
+How sweetly *the tnightingale* sings!
+*The door* is locked.
+```
+```^
+Round and round went *the giant wheel with the screaming children*!
+*The audience* looked restless and bored!
+Tell me when *the alarm* rings.
+*The horse* jumped easily over the fence
+There is no solution for *this problem*!
+Why are *the dogs* barking?
+Inside the tunnel *the children* were found.
+The last song was sung by *the rock star* at the end of the show.
+*Kki the parrot* was lost in the city.
+The daring escape *by the prisoners* shocked the whole country.
 ```
 
 ## Identify the Predicate
@@ -37,5 +54,6 @@ Select the subject in the below sentences.
 Select the predicate in the below sentences.
 
 ```
+The ship *siled on the sea
 
 ```
