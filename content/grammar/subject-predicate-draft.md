@@ -58,3 +58,50 @@ Find the Subject in the below sentences.
 ```
 
 
+```
+*Your mom* is very kind.
+*Her dress* is beautiful.
+*The floor* is wet.
+*The door* is locked.
+*The horse* likes to eat hay.
+*My parents* said that I could get a dog.
+*The students* studied hard for the test.
+*My mom* loves me very much.
+*I* want to have a dog.
+*I* took a picture of my family.
+*Their house* was flooded last week.
+```
+
+```
+*My friends and I* like to swing at the park.
+*The bee* drank the nectar from the flower.
+*Ram's new pencilbox* is ugly.
+*Sasha* is my beautiful cat!
+The train* was late again!
+*The rose* is a beautiful flower!
+*A squirrel* has a bushy tail.
+*The audience* looked restless and bored!
+*The horse* jumped easily over the fence
+*Kiki the parrot* was lost in the city.
+```
+
+```
+*The Sleeping Beauty* slept for a hundred years!
+The daring escape *by the prisoners* shocked the whole country. (check|15)
+```
+
+
+```
+Climb up *the ladder*.
+How sweetly *the nightingale* sings!
+Round and round went *the giant wheel with the screaming children*!
+Tell me when *the alarm* rings.
+There is no solution for *this problem*! (check|15)
+Why are *the dogs* barking?
+Inside the tunnel *the children* were found.
+The last song was sung by *the rock star* at the end of the show.
+```
+
+## Find the Predicate
+
+//Todo
