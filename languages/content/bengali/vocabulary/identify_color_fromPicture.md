@@ -5,11 +5,11 @@ Picture - Color in Bengali
 crocodile - সবুজ   
 banana - হলুদ   
 cherry - লাল  
-orange - কমলা 
-carrot - কমলা
-boat - নীল 
-pen - নীল
-headphone - কালো 
-leaf - সবুজ
+orange - কমলা   
+carrot - কমলা  
+boat - নীল   
+pen - নীল  
+headphone - কালো   
+leaf - সবুজ  
 garlic - সাদা 
 
