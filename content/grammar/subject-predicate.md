@@ -1,10 +1,12 @@
 # Subject and Predicate
 
 ## Notes
-```
+
+
 A sentence is a group pf words arranged in a particular order and has two parts, namely, a subject and a predicate which help to express a complete thought.
-      For example: The children played in the field.
-                   Rajini is a beautiful singer.
+For example: The children played in the field.
+Rajini is a beautiful singer.
+
 The subject of a sentence may be a word or a group of words that tell us who or what does something or is spoken about.
 In a sentence, who or what we talk about is the subject.
 In the above sentemces, 'the children' are doing sonething and 'Ranjini' is spoken about, therefore they are the subjects of the sentences.
