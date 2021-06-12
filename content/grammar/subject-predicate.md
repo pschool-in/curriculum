@@ -19,7 +19,7 @@ The subject is usually followed by the predicate as given in the examples above,
 ## Identify the Subject
 
 Select the subject of these sentences.
-
+```
 *The Sleeping Beauty* slept for a hundred years!
 *Their house* was flooded last week.
 Climb up *the ladder*.
