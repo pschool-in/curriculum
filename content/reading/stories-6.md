@@ -46,13 +46,41 @@ The stepmother did not take Cinderella to the party.
 
 ## The Jungle Book
 
-One day, Bagheera, a panther, found an abandoned human baby in the forest. He carried the baby to his friends, the wolves. The wolves raised the baby as their own. They named him Mowgli. A few years passed and Mowgli turned into a young boy and adapted to the forest life. The panther gave him training in hunting.
+One day, Bagheera, a panther, found an abandoned human baby in the jungle. He carried the baby to his friends, the wolves. The wolves raised the baby as their own. They named him Mowgli. A few years passed and Mowgli turned into a young boy and adapted to the jungle life. The panther gave him training in hunting.
 
 Sher Khan, a tiger was not happy about Mowgli growing with wolves. He wanted to have the boy for dinner, and constantly asked the wolves to hand over the boy to him.
 
-In order to protect Mowgli from Sher Khar, the wolves decided to send Mowgli to the village in the border of the forest. But the journey was not smooth. He faced many challenges and also got a good friend in Baloo, a bear.
+In order to protect Mowgli from Sher Khar, the wolves decided to send Mowgli to the village in the border of the jungle. But the journey was not smooth. He faced many challenges and also got a good friend in Baloo, a bear.
 
-After spending time with Baloo, Mowgli decided not to go anywhere from the forest. He ran back to his pack of wolves. But he was stopped by the tiger. When the tiger was about to catch Mowgli, there was a lightning bolt that set a nearby tree on fire. Mowgli found that the tiger was afraid of fire. He took a burning branch and ran towards the tiger. Out of fear, the tiger jumped from a huge height and was never seen again.
+After spending time with Baloo, Mowgli decided not to go anywhere from the jungle. He ran back to his pack of wolves. But he was stopped by the tiger. When the tiger was about to catch Mowgli, there was a lightning bolt that set a nearby tree on fire. Mowgli found that the tiger was afraid of fire. He took a burning branch and ran towards the tiger. Out of fear, the tiger jumped from a huge height and was never seen again.
 
 Mowgli, Bagheera and Baloo were finally relieved.
+
+## MCQ
+
+```
+Bagheera is a __________.
+panther, tiger, wolf, bear
+
+Who raised Mowgli?
+wolves, foxes, dogs, panther
+
+Who had a bad character in the story?
+Sher Khan, Bagheera, Baloo
+
+What saved Mowgli from Sher Khan?
+lightning bolt, heavy rain, Bagheera, Baloo
+
+What did Bagheera taught Mowgli?
+hunting, swimming, reading, eating
+```
+
+## Alice in Wonderland
+
+## Sherlock Holmes
+
+## Oliver Twist
+
+## Merchant of Venice
+
 
