@@ -259,7 +259,7 @@ My friends usually go shopping on Saturdays.
 My brother reads story books occasionally. 
 ```
 ```
-I usually watch television in the evening.. 
+I usually watch television in the evening. 
 sometimes Vivek watches Chinese films. 
 My daughter never eats junk foods. 
 I always read comic books. 
@@ -274,61 +274,60 @@ They were almost finished.
 This cake is absolutely wonderful. 
 The temperature was barely above freezing. 
 Our driveway is completely frozen. 
-We felt incredibly lucky after winning tickets to the World Series.
 My teacher is terribly grumpy today. 
 Your dinner is almost ready. 
 I have an extremely busy schedule. 
 Our office is fully furnished. 
 This job is quite interesting. 
-Her dress was too small for me. 
+Her dress was too small for me.
+```
+```
 Latha likes Italy very much. 
 I thought her first novel was rather good. 
 Aravind played remarkably well in the final. 
 Vasu will earn slightly more money in his new job.
-```
-
-```
-It was somewhat late when the show started 
+It was somewhat late when the show started. 
 I strongly believe animals should not be exploited. 
-What happened to Kavi was terribly sad 
-My friends thoroughly enjoyed the film 
+What happened to Kavi,she was terribly sad. 
+My friends thoroughly enjoyed the film. 
 Gokul’s essay is practically finished now. 
-I thought it was a pretty good film 
-It was quite difficult to choose the right person for Kaviya.
+I thought it was a pretty good film.
+```
+```
+It is quite difficult to satisfy my sister .
 That exam was incredibly difficult. 
 I missed you lots when you went away! 
-The movie is quite interesting, 
+The movie is quite interesting. 
 That was most generous of him. 
 My mother is not at all happy about that! 
-Judges thought she sang particularly well 
-My son can reads the road sign perfectly 
-That is a completely different situation 
-Dinesh became deeply involved in politics 
+Judges thought sheela sang particularly well. 
+My son can reads the road sign perfectly. 
+That is a completely different situation.
+Dinesh became deeply involved in politics.
+```
+```
 Did she run quickly enough to win the race? 
-```
-
-```
 I enormously appreciate your help with that. 
 That is an entirely different situation. 
 Abdul did extremely well in the exam. 
-Prabhu plays the piano fairly well 
-Preethi is greatly admired for her work on nuclear physics.
+Prabhu plays the piano fairly well. 
+Preethi is greatly admired by his work.
 Kannan is a highly skilled Engineer. 
-I’m a bit worried about Tom. 
-Hema looked a little confused. 
-I go out with my friends a lot. 
+I’m a bit worried about my exam. 
+Madhu looked a little confused. 
+Sakthi goes out with my friends a lot. 
+```
+```
 I’m not absolutely sure what time she left. 
 Passengers have almost arrived at the station.
-```
-
-```
-There is an awfully big cut on his leg 
-Dora arrived a little bit late 
-That is an extremely difficult question
+There is an awfully big crack on his leg. 
+Dora arrived a little bit late. 
+That is an extremely difficult question.
 The film was enormously successful. 
 Workers don’t have enough food. 
 John was totally exhausted. 
 Ragu is deeply grateful to everyone who helped him.
+This coffee is too hot.
 ```
 
 
@@ -342,12 +341,11 @@ Cats don't usually walk backwards.
 The ship sailed westwards. 
 The balloon drifted upwards. 
 Henry walked towards the car. 
-My son ran towards me. 
-```
-
-```
+My son ran towards me.
 We will keep walking homewards until we arrive.
 The child went indoors. 
+```
+```
 Jai lived and worked in Japan. 
 Water always flows downhill. 
 The wind pushed us sideways. 
@@ -356,21 +354,21 @@ Pooja is sitting close to me.
 Shopping Mall is nearby my house. 
 The cat is sleeping on the bed. 
 The treasure lies underneath the box.
-Why are you standing in the back of the dancefloor? 
-Deepen moved forward to answer. 
+Why are you standing in the back of the stage? 
+Deepen moved forward to answer.
+```
+```
 From the 13th century onward a reaction set in. 
-Mugil looked upwards to the heavens. 
-Riya, move forward to the front of the queue, please! Let's go there. 
+Mugil looked upwards to the heavens.  
 The doctor is in duty. 
 Come and sit by me. 
 The balloon went up. 
 Come and meet me here. 
 We were waiting inside. 
 I could find him nowhere. 
-````
-
-```
 Mala is going back to school. 
+```
+```
 Our friends live close by. 
 Jerrick kicked the ball around. 
 My uncle’s house is nearby. 
@@ -380,7 +378,9 @@ Diwali is still months away.
 I can't hear you. Come near. 
 Hurry! You are getting behind. 
 Maya looked upwards to the sky. 
-Varun put all his books on the desk. 
+Varun put all his books on the desk.
+```
+```
 Turn left at the end of the street.
 The plane caught fire and came down. 
 Don't go in. There is someone inside. 
@@ -400,4 +400,5 @@ https://www.ef.com/wwen/english-resources/english-grammar/adverbs-pl ace/
 http://www.englishmirror.com/english-grammar/adverb-of-time.html 
 https://www.learngrammar.net/a/examples-adverb-of-manner https://www.englishclub.com/grammar/adverbs-kinds.htm 
 https://www.ef.com/wwen/english-resources/english-grammar/adverbs-manner/
+https://www.ef.com/wwen/english-resources/english-grammar/adverbs-degree/
 ```
