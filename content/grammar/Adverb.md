@@ -67,7 +67,7 @@ Frequency
 I brush my teeth twice.
 Our teacher is always punctual.
 The spider tried again and again to catch the fly.
-He is often late for the Maths class.
+Dheena is often late for the Maths class.
 I always read comic books.
 ```
 
