@@ -145,14 +145,14 @@ Gopi calmly explained his point of view.
 ## Adverbs of Time 
 
 ```
-I have to go now. 
+We have to go now. 
 Ram will see you soon. 
 We first met Rani last year. 
 I get up very early sometimes.	
 Pooja forgot her lunch yesterday.
-I work five days a week.
+Priya works five days a week.
 Last year was the finest year of my life. 
-Yesterday my problems seemed so far away. 
+My Brother enjoys being with children usually.
 We must go now. 
 I will call you later.
 ```
@@ -182,7 +182,7 @@ I come to this museum regularly.
 ```
 ```
 Now I am going to Vimal's home.
-Kathir slept late the previous night.
+Generally, I don't like spicy foods.
 I left her home in the afternoon.
 My friends are going on vacation for a week.
 Naveen went to the doctor yesterday. 
@@ -335,15 +335,15 @@ This coffee is too hot.
 
 ```
 I would like to go somewhere for my vacation. 
-Prema is wearing a necklace around her neck. They have nowhere to go. 
-I keep running in to Sally everywhere! 
+Prema is wearing a necklace around her neck. 
+Kala took the child outside.
 Cats don't usually walk backwards. 
 The ship sailed westwards. 
 The balloon drifted upwards. 
 Henry walked towards the car. 
 My son ran towards me.
-We will keep walking homewards until we arrive.
-The child went indoors. 
+You should always go forward in life.
+The child went out of home. 
 ```
 ```
 Jai lived and worked in Japan. 
@@ -358,8 +358,9 @@ Why are you standing in the back of the stage?
 Deepen moved forward to answer.
 ```
 ```
-From the 13th century onward a reaction set in. 
-Mugil looked upwards to the heavens.  
+Petrol Bunk is far away from my Office. 
+Mugil looked upwards to the heavens. 
+We find Indians everywhere.
 The doctor is in duty. 
 Come and sit by me. 
 The balloon went up. 
@@ -372,7 +373,7 @@ Mala is going back to school.
 Our friends live close by. 
 Jerrick kicked the ball around. 
 My uncle’s house is nearby. 
-She took the child outside. 
+Rosy took her son outside. 
 We find Indians everywhere. 
 Diwali is still months away. 
 I can't hear you. Come near. 
@@ -391,7 +392,7 @@ There was a big clock below the painting.
 They moved to the southeast of Australia. 
 The parents searched far and near for their child. 
 The school is within walking distance of my house. 
-Why is this class making noise? The teacher has gone out. 
+Please put the books on the table. 
 ```
 
 ## References: 
