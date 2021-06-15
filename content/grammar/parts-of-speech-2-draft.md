@@ -136,7 +136,7 @@ The king prayed for *wisdom* to rule his country well.  (wise)
 ```
 ```
 Prepare for your *dictation* exam tomorrow.  (dictate)
-Tomorrow is the last date for *payment* of the phone bill.  (psy)
+Tomorrow is the last date for *payment* of the phone bill.  (pay)
 The team celebrated their *victory*.  (victor)
 India is the largest *democracy* in the world.  (democrat)
 She is slowly gaining *strength* after her long illness.  (strong)
