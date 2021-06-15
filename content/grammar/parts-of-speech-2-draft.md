@@ -130,7 +130,7 @@ He was *mislead* by his friends.  (lead)
 The toddler loved to be pushed on his *tricycle*!  (cycle)
 The spectacular *sunset* took my breath away! (sun)
 Our school captain is an outstanding *dancer*. (dance)
-Mother Teresa is often thought of with great reverence.  (revere)
+Mother Teresa is often thought of with great *reverence*.  (revere)
 The school requires us to wear knee *length* skirts.  (long)
 The king prayed for *wisdom* to rule his country well.  (wise)
 ```
