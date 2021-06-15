@@ -72,6 +72,21 @@ Suraj and Pinky *were* waiting for the school bus when it started raining.
 The giant *was* very kind to Jack.
 The frogs *were* croaking in the garden.
 ```
+```
+They *were* really busy with their work.
+Raju *was* outstanding student in my class.
+Many saplings *were* planted in June last year.
+Divya *was* very smart.
+You *were* my best friend.
+```
+```
+I *was* tired at last night.
+Last week we *were* in Goa.
+There *was* a dog in the road.
+The children *were* so tired after the festival.
+Mohan *was* in class V lastyear.
+James and John *were* playing chess.
+```
 
 ## they vs them
 
@@ -81,6 +96,20 @@ Sheela has known *them* all her life.
 The grapes are so sour that *they* cannot be eaten.
 Tell *them* to be on time.
 I told *them* to be quiet.
+```
+```
+This was a very interesting experience to *them*.
+Those cakes are delicious *they* were made by my grandma.
+I invited *them* to the party.
+Maybe *they* are hungry.
+My teacher advised *them* to wake early morning.
+```
+```
+I think *they* know my parents.
+I’ve bought some apples. I’ll put *them* on the table.
+I'm sure *they*are right.
+Jack gave presents to *them*.
+When did *they* go home?
 ```
 
 ## my vs mine
