@@ -1,5 +1,5 @@
 # Cinderella
-
+```
 Once upon a time, there was a kind girl named Cinderella. She lived with her stepmother and her two stepsisters. 
 But they were very cruel to Cinderella. They made her work all day.
 
@@ -15,7 +15,7 @@ The prince followed, but she vanished leaving behind her single slipper.
 
 The prince wanted to marry Cinderella but was unable to find her. The king sent messengers everywhere to find the girl that matches the slipper. 
 It matched with no other girls except Cinderella. Finally the prince found Cinderella, got married and lived happily forever.
-
+```
 
 ## MCQ
 
@@ -45,6 +45,7 @@ The stepmother did not take Cinderella to the party.
 ```
 
 ## The Jungle Book
+```
 
 One day, Bagheera, a panther, found an abandoned human baby in the jungle. He carried the baby to his friends, the wolves. The wolves raised the baby as their own. They named him Mowgli. A few years passed and Mowgli turned into a young boy and adapted to the jungle life. The panther gave him training in hunting.
 
@@ -55,6 +56,7 @@ In order to protect Mowgli from Sher Khar, the wolves decided to send Mowgli to 
 After spending time with Baloo, Mowgli decided not to go anywhere from the jungle. He ran back to his pack of wolves. But he was stopped by the tiger. When the tiger was about to catch Mowgli, there was a lightning bolt that set a nearby tree on fire. Mowgli found that the tiger was afraid of fire. He took a burning branch and ran towards the tiger. Out of fear, the tiger jumped from a huge height and was never seen again.
 
 Mowgli, Bagheera and Baloo were finally relieved.
+```
 
 ## MCQ
 
@@ -75,7 +77,44 @@ What did Bagheera taught Mowgli?
 hunting, swimming, reading, eating
 ```
 
+
 ## Alice in Wonderland
+```
+
+This is the story of a little girl called Alice who is very bored, sitting on a bench with her older sister. Suddenly, a white rabbit passes by, checking his watch and grumbling that he was late. 
+Alice followed the rabbit down the hole where, in a room she finds a bottle with a note saying, "drink me". Curious Alice drinks and finds herself becoming smaller and smaller! She can now fit through the small door in  the room, behind which is a beautiful garden and Alice decides to take a walk in the garden. 
+This is the beginning of Alice's adventures in the magical garden where she meets strange and wonderful creatures, and even a queen! At the end of her adventures in Wonderland, Alice wakes up on the bench next to her sister to realise that all her adventures had been only a dream!
+```
+## MCQ
+```
+The story is about a __________.
+little girl called Alice, naughty boy called Alan, cute baby who is lost
+
+What is Alice doing?
+sitting on a bench, sleeping, enjoying a picnic
+
+Alice was with her _________.
+sister, best friend. mother
+
+Who passed by suddenly?
+a white rabbit, a pink rabbit, a brown rabbit
+
+What did Alice do?
+she followed the white rabbit, she drank from the bottle, she took a walk in the garden, all of the above
+
+Alice met _________.
+many strange and wonderful creatures in the magical garden, her teacher in the garden, nobody in the garden
+
+Did the adventures of Alice really happen? 
+No, they were only a dream, Yes, they really happened, Some of them really happened
+
+```
+
+
+
+
+
+  
 
 ## Sherlock Holmes
 
