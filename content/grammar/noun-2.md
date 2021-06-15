@@ -79,4 +79,49 @@ washerman, washerwoman
 gentleman, lady
 ```
 
+## Same Basket
 
+Drag and drop words, so that nouns of same group are together.
+
+```
+drumstick, capsicum, *cauliflower*
+chess, snakes and ladder, *scrabble*
+father, brother, *son*
+elephant, boar, *zebra*
+mango, apple, *orange*
+
+oxygen, hydrogen, *nitrogen*
+rooster, peacock, *falcon*
+mother, sister, *daughter*
+pencil, pen, *eraser*
+snow, rain, *sunshine*
+
+carrot, cabbage, *beetroot*
+monopoly, checkers,  *carrom*
+uncle, nephew, *grandfather*
+giraffe, chimpanzee, *bison*
+grapes, banana,  *kiwi*
+
+turkey,  eagle, *vulture*
+aunt, niece, *grandmother*
+sharpenner, ruler, *pencil box*
+gale, snow, *storm*
+hen, crow, *duck*
+```
+
+## Outsider
+
+Find the odd one out. 
+
+```
+friend, mother, father, cousin, niece
+dinner, tea, lemonade, milk, coffee
+office, house, palace, mansion, flat
+table, chair, sofa, stool, seat
+caravan, school, bank, hospital, theatre
+bicycle, bus, train, car, truck
+chicken, calf, puppy, kitten, piglet
+plates, hammers, axes, screwdrivers, pliers  
+ten o’clock, evening, night, afternoon, noon
+salesman, grocer, butcher, florist, stationer
+```
