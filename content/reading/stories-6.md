@@ -98,17 +98,23 @@ sitting on a bench, sleeping, enjoying a picnic
 Alice was with her _________.
 sister, best friend. mother
 
-Who passed by suddenly?
+Who passed by suddenly when Alice was sitting on the bench?
 a white rabbit, a pink rabbit, a brown rabbit
 
 What did Alice do?
-she followed the white rabbit, she drank from the bottle, she took a walk in the garden, all of the above
+she followed the white rabbit 
+she drank from the bottle 
+she took a walk in the garden, all of the above
 
-Alice met _________.
-many strange and wonderful creatures in the magical garden, her teacher in the garden, nobody in the garden
+Who did Alice meet in the beautiful garden?
+many strange and wonderful creatures in the magical garden
+her teacher in the garden 
+nobody in the garden
 
 Did the adventures of Alice really happen? 
-No, they were only a dream, Yes, they really happened, Some of them really happened
+No, they were only a dream 
+Yes, they really happened
+Some of them really happened
 
 ```
 
