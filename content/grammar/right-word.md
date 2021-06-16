@@ -116,12 +116,18 @@ When did *they* go home?
 
 ```
 This doll is *mine*.
-Both *my* parents studied in Chennai.
+*my* parents studied in Chennai.
 The blue bicycle is *mine*.
 This is *my* storybook, but you may borrow it. 
 The room with the yellow door is *mine*.
 ```
-
+```
+The green book is *mine*.
+That is not *my* Umbrella.
+Those glasses are *mine*.
+Kavin is *my* friend.
+*My* ideas are *mine*.
+```
 ## he vs his
 
 ```
@@ -130,6 +136,13 @@ This is Mr Sharma, *he* is a writer.
 Ankit is my friend, *he* loves ice cream.
 My father is always busy with *his* work.
 Saurav is quite scared of *his* strict tutor!
+```
+```
+There is a new boy in my class, *his* name is Gokul.
+*He* is always ready to help us when we need.
+My parents and *his*parents are friends.
+Look at him! *He* is very quiet.
+*His* bedroom is so tidy.
 ```
 
 ## had-have
@@ -140,6 +153,13 @@ Sunita *had* gone to visit her grandmother yesterday.
 Priya *had* a pizza with lots of cheese.
 I love to *have* idli for breakfast.
 Vijay and Ajay *have* just got a pet kitten.
+```
+```
+My name is Raja. I *have* one brother and one sister.
+My mom can’t help me today because She *has* a lot of work.
+I hope I will *have* a car when I grow up.
+The cat *has* green eyes.
+The boys *have* an important test tomorrow.
 ```
 
 ## your vs you're
@@ -153,6 +173,14 @@ If *you're* going to be late, please let me know.
 I like *your* red bike.
 Let's go play when *you're* ready.
 ```
+```
+*Your* mother makes wonderful cupcakes for me.
+When *you’re* ready, we’ll leave soon.
+Did you tell *your* parents where *you’re* going?
+*You’re* absolutely impossible to beat at chess.
+Call me if *you’re* going to the party.
+*You’re* making me laugh with *your* funny jokes. 
+```
 
 ## its vs it's
 
@@ -161,9 +189,17 @@ The cat licked *its* paw.
 The hamster is so cute. What is *its* name?
 *It's* going to rain tomorrow.
 My toy is not in *its* box. Where could it be?
-*It's* time to give the dog its dinner.
+*It's* time to give the dog's dinner.
 *It's* a  good idea to put on your helmet when you ride your bike.
 The spacecraft fired *its* rockets.
+```
+```
+My car is old and *its* paint is peeling.
+*It’s* my turn to go down the slide.
+The dog felt great with *its* new hair cut.
+*It’s* important to study hard for tests.
+Turn down the music, *it’s* hurting my ears.
+The bear protected *its* cubs.
 ```
 
 ## who's vs whose
