@@ -1,5 +1,6 @@
 # Cinderella
-```
+
+
 Once upon a time, there was a kind girl named Cinderella. She lived with her stepmother and her two stepsisters. 
 But they were very cruel to Cinderella. They made her work all day.
 
@@ -15,7 +16,8 @@ The prince followed, but she vanished leaving behind her single slipper.
 
 The prince wanted to marry Cinderella but was unable to find her. The king sent messengers everywhere to find the girl that matches the slipper. 
 It matched with no other girls except Cinderella. Finally the prince found Cinderella, got married and lived happily forever.
-```
+
+
 
 ## MCQ
 
