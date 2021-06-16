@@ -78,14 +78,14 @@ Raju *was* outstanding student in my class.
 Many saplings *were* planted in June last year.
 Divya *was* very smart.
 You *were* my best friend.
-```
-```
+
 I *was* tired at last night.
 Last week we *were* in Goa.
 There *was* a dog in the road.
 The children *were* so tired after the festival.
 Mohan *was* in class V lastyear.
 James and John *were* playing chess.
+
 ```
 
 ## they vs them
@@ -96,20 +96,19 @@ Sheela has known *them* all her life.
 The grapes are so sour that *they* cannot be eaten.
 Tell *them* to be on time.
 I told *them* to be quiet.
-```
-```
+
 This was a very interesting experience to *them*.
 Those cakes are delicious *they* were made by my grandma.
 I invited *them* to the party.
 Maybe *they* are hungry.
-My teacher advised *them* to wake early morning.
-```
-```
+My Granny advised *them* to wake early morning.
+
 I think *they* know my parents.
 I’ve bought some apples. I’ll put *them* on the table.
-I'm sure *they*are right.
+I'm sure *they* are right.
 Jack gave presents to *them*.
 When did *they* go home?
+
 ```
 
 ## my vs mine
@@ -120,13 +119,13 @@ This doll is *mine*.
 The blue bicycle is *mine*.
 This is *my* storybook, but you may borrow it. 
 The room with the yellow door is *mine*.
-```
-```
+
 The green book is *mine*.
 That is not *my* Umbrella.
 Those glasses are *mine*.
 Kavin is *my* friend.
 *My* ideas are *mine*.
+
 ```
 ## he vs his
 
@@ -136,13 +135,13 @@ This is Mr Sharma, *he* is a writer.
 Ankit is my friend, *he* loves ice cream.
 My father is always busy with *his* work.
 Saurav is quite scared of *his* strict tutor!
-```
-```
+
 There is a new boy in my class, *his* name is Gokul.
 *He* is always ready to help us when we need.
-My parents and *his*parents are friends.
+My parents and *his* parents are friends.
 Look at him! *He* is very quiet.
 *His* bedroom is so tidy.
+
 ```
 
 ## had-have
@@ -153,13 +152,13 @@ Sunita *had* gone to visit her grandmother yesterday.
 Priya *had* a pizza with lots of cheese.
 I love to *have* idli for breakfast.
 Vijay and Ajay *have* just got a pet kitten.
-```
-```
+
 My name is Raja. I *have* one brother and one sister.
 My mom can’t help me today because She *has* a lot of work.
 I hope I will *have* a car when I grow up.
 The cat *has* green eyes.
 The boys *have* an important test tomorrow.
+
 ```
 
 ## your vs you're
@@ -172,12 +171,11 @@ Where did you put *your* lunchbox?
 If *you're* going to be late, please let me know.
 I like *your* red bike.
 Let's go play when *you're* ready.
-```
-```
+
 *Your* mother makes wonderful cupcakes for me.
 When *you’re* ready, we’ll leave soon.
 Did you tell *your* parents where *you’re* going?
-*You’re* absolutely impossible to beat at chess.
+*You’re* absolutely impossible to beat me at chess.
 Call me if *you’re* going to the party.
 *You’re* making me laugh with *your* funny jokes. 
 ```
@@ -210,7 +208,15 @@ He is an artist *whose* work I really admire.
 *Who's* the prime minister of India?
 *Whose* keys are on the table?
 I want someone *who's* loyal to me.
+
+How do you call someone *who* lives in India?
+*Who's* your new English teacher?
+This is Magi *who* saw a rabbit in our garden.
+*Whose* camera is this? Is it yours, Prema?
+This is the doctor *who* helped Sara recover from her illness.
+
 ```
+
 
 ## there, their vs they're
 
@@ -221,6 +227,13 @@ What do you see over *there* ?
 Tomorrow, *they're* having a party.
 The library book is over *there*.
 The students handed in *their* homework.
+
+I can't remember *their* true names.
+Where are the Pens? *They're* in the box.
+*There* is a cat in the garden.
+The boys are playing football with *their* ball.
+Where are your parents? *They're* out.
+The children did *their* homework yesterday itself.
 ```
 
 ## you vs yours
@@ -231,6 +244,13 @@ Is this water bottle *yours*, Meera?
 Sita,*you* are capable of doing excellently!
 The choice is *yours*, Iqbal.
 Can *you* help me carry these books?
+
+This book is *yours* not mine.
+First of all, dear friend, tell me how *you* are?
+This is my Dictionary. Could you show me  *yours*?
+Arun,  *you* should obey our elders.
+Can *you* tell me *your* phone number?
+
 ```
 
 ## when vs where
@@ -241,6 +261,13 @@ Seema was out *when* the guests arrived.
 My father was very naughty *when* he was a little boy!
 *Where* was the farmer’s cow?
 This is the school *where* my sisters studied.
+
+1492 is the year *when* Columbus discovered North America.
+This is a big park *where* you can have a lot of fun. 
+*When* I was young, there were no houses here.
+I forgot *where* I kept the keys.
+*When* does the School re-open?
+
 ```
 
 ## this vs those
@@ -251,4 +278,11 @@ This is the school *where* my sisters studied.
 *This* blue pen is mine.
 Please water *those* plants before they die!
 Why are *those* girls laughing?
+
+See *those* clouds, how they hang!
+I’ve already seen *This* movie.
+*Those* chocolates are delicious.
+*This* soup tastes really good.
+Did you make *Those* cream puffs?
+
 ```
