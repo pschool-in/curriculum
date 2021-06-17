@@ -74,16 +74,16 @@ The frogs *were* croaking in the garden.
 ```
 ```
 They *were* really busy with their work.
-Raju *was* outstanding student in my class.
-Many saplings *were* planted in June last year.
-Divya *was* very smart.
-You *were* my best friend.
+Raju *was* an outstanding student in my class.
+Many neem saplings *were* planted in June last year.
+Divya *was* a very smart girl.
+You *were* my best friend in school.
 
 I *was* tired at last night.
 Last week we *were* in Goa.
-There *was* a dog in the road.
-The children *were* so tired after the festival.
-Mohan *was* in class V lastyear.
+There *was* a dog on the road.
+The children *were* very tired after the festival.
+Mohan *was* in class V last year.
 James and John *were* playing chess.
 
 ```
@@ -101,12 +101,12 @@ This was a very interesting experience to *them*.
 Those cakes are delicious *they* were made by my grandma.
 I invited *them* to the party.
 Maybe *they* are hungry.
-My Granny advised *them* to wake early morning.
+My granny advised *them* to wake up early in the morning.
 
 I think *they* know my parents.
 I’ve bought some apples. I’ll put *them* on the table.
 I'm sure *they* are right.
-Jack gave presents to *them*.
+Jack gave *them* presents.
 When did *they* go home?
 
 ```
@@ -122,7 +122,7 @@ The room with the yellow door is *mine*.
 
 The green book is *mine*.
 That is not *my* Umbrella.
-Those glasses are *mine*.
+Those eye glasses are *mine*.
 Kavin is *my* friend.
 *My* ideas are *mine*.
 
@@ -138,7 +138,7 @@ Saurav is quite scared of *his* strict tutor!
 
 There is a new boy in my class, *his* name is Gokul.
 *He* is always ready to help us when we need.
-My parents and *his* parents are friends.
+My parents and *his* are friends.
 Look at him! *He* is very quiet.
 *His* bedroom is so tidy.
 
@@ -153,8 +153,8 @@ Priya *had* a pizza with lots of cheese.
 I love to *have* idli for breakfast.
 Vijay and Ajay *have* just got a pet kitten.
 
-My name is Raja. I *have* one brother and one sister.
-My mom can’t help me today because She *has* a lot of work.
+My name is Raja. I *have* a brother sister.
+My mom can’t help me today because she *has* a lot of work.
 I hope I will *have* a car when I grow up.
 The cat *has* green eyes.
 The boys *have* an important test tomorrow.
@@ -175,7 +175,7 @@ Let's go play when *you're* ready.
 *Your* mother makes wonderful cupcakes for me.
 When *you’re* ready, we’ll leave soon.
 Did you tell *your* parents where *you’re* going?
-*You’re* absolutely impossible to beat me at chess.
+*You’re* absolutely incapable of beating me at chess!
 Call me if *you’re* going to the party.
 *You’re* making me laugh with *your* funny jokes. 
 ```
@@ -187,7 +187,7 @@ The cat licked *its* paw.
 The hamster is so cute. What is *its* name?
 *It's* going to rain tomorrow.
 My toy is not in *its* box. Where could it be?
-*It's* time to give the dog's dinner.
+*It's* time to give the dog its dinner.
 *It's* a  good idea to put on your helmet when you ride your bike.
 The spacecraft fired *its* rockets.
 ```
@@ -205,7 +205,7 @@ The bear protected *its* cubs.
 ```
 He is an artist *whose* work I really admire.
 *Who's* that man in the white shirt?
-*Who's* the prime minister of India?
+*Who's* the Prime Minister of India?
 *Whose* keys are on the table?
 I want someone *who's* loyal to me.
 
@@ -228,8 +228,8 @@ Tomorrow, *they're* having a party.
 The library book is over *there*.
 The students handed in *their* homework.
 
-I can't remember *their* true names.
-Where are the Pens? *They're* in the box.
+I can't remember *their* actual names.
+Where are the pens? *They're* in the box.
 *There* is a cat in the garden.
 The boys are playing football with *their* ball.
 Where are your parents? *They're* out.
@@ -247,9 +247,9 @@ Can *you* help me carry these books?
 
 This book is *yours* not mine.
 First of all, dear friend, tell me how *you* are?
-This is my Dictionary. Could you show me  *yours*?
+This is my dictionary. Could you show me *yours*?
 Arun,  *you* should obey our elders.
-Can *you* tell me *your* phone number?
+Can *you* give me *your* phone number?
 
 ```
 
@@ -266,7 +266,7 @@ This is the school *where* my sisters studied.
 This is a big park *where* you can have a lot of fun. 
 *When* I was young, there were no houses here.
 I forgot *where* I kept the keys.
-*When* does the School re-open?
+*When* does school re-open?
 
 ```
 
@@ -280,9 +280,9 @@ Please water *those* plants before they die!
 Why are *those* girls laughing?
 
 See *those* clouds, how they hang!
-I’ve already seen *This* movie.
+I’ve already seen *this* movie.
 *Those* chocolates are delicious.
 *This* soup tastes really good.
-Did you make *Those* cream puffs?
+Did you make *those* cream puffs?
 
 ```
