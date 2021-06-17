@@ -63,15 +63,15 @@
 Sujatha *can* draw well.
 I wish I *could* fly like a bird!
 Anita *can* surely excel in the Board Exams!
-Where *could* the dog be hiding?
-*Can* you give this bag to your mother?
+Where *can* the dog be hiding?
+*Could* you give this bag to your mother?
 ```
 
 ## than vs then
 
 ```
 He can run faster *than* I can.
-First buy bread and butter *then* eat them.
+First buy bread and butter *then* eat.
 Nothing worse *than* a familiar enemy.
 First think, and *then* speak.
 Peter is smarter *than* Mathew.
@@ -134,7 +134,7 @@ Shilpa *was* excited about the school trip to Goa.
 Vasu hoped that the weather *would* be favourable for the match.
 Heidi *was* thrilled to see that it *was* snowing.
 The beggar hoped that the people in the big house *would* give him some food.
-The farmer prayed that the rain *would* water his crop.
+The farmer prayed that the rain *would* water his crops.
 ```
 
 ## were vs where
