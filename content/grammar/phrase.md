@@ -2,7 +2,7 @@
 
 ## One instead of Many!
 
-Which one word will replace the underlined phrase.
+Which one word will replace the underlined phrase?
 
 ```
 The judge *took no notice of* the lawyer’s statement.
