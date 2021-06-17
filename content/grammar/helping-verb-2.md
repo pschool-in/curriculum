@@ -21,7 +21,7 @@ Why *should* we get up so early every day?
 Sheeba *is* going out now.
 Ravi *was* eating when the phone rang.
 We *were* instructed to keep our books open.
-I *have* never heard my neighbur’s dog barking!
+I *have* never heard my neighbur’s dog bark!
 The baby *was* crying the whole night!
 The prisoner *was* sentenced for life.
 The fishermen *were* caught in the storm.
