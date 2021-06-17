@@ -2,7 +2,7 @@
 
 ## Appropriate Adjective
 
-Put the adjectives given in the box into the right sentence.
+Put the adjectives given in the bottom at the right place.
 
 ```
 An ostrich lays the *biggest* eggs!
