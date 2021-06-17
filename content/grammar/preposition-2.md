@@ -260,7 +260,7 @@ The soldier had to feel his way *along* the dark path in the forest.
 The children enjoyed the picnic *despite* the bad weather.
 Elephants can run fast *in spite of* their size.
 My mother cooks fresh food *despite* her busy schedule.
-The planes continue to fly *in spite of* the fog.
+The planes continued to fly *in spite of* the fog.
 ```
 
 ## before vs behind
@@ -290,5 +290,5 @@ Wrap your scarf *around* your neck, it’s a windy day.
 We jog *around* the stadium to warm up before cricket practice.
 Sandhya joined this school *after* I did.
 When are you coming *around* to see my pet parrot?
-*After (Around)* dinner, Meena goes to bed.
+*After* dinner, Meena goes to bed.
 ```
