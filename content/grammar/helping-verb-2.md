@@ -27,3 +27,31 @@ The prisoner *was* sentenced for life.
 The fishermen *were* caught in the storm.
 My friends and I *were* at the mall yesterday.
 ```
+
+## Do we Agree?
+
+```
+There *is (are)* a crow’s nest in the tree.
+Why *was (were)* the class in an uproar?
+*Is (Are)* these students’ teachers present today?
+June, *has (have)* the longest day of the year.
+The mother of these children *is (are)* a doctor.
+Bhim, the shortest of all the boys *is (are)* very strong!
+The boy with the long hair *is (are)* one of my cousins.
+The sound of bells *was (were)* heard all over the village.
+The girls *are (was)* doing a good job, teaching the young children to write.
+The house *is (are)* being thoroughly cleaned today.
+```
+
+```
+My father and I *are (am)* going for a movie.
+There *is (are)* a lot of food in the fridge.
+A large audience *was (were)* present at the concert.
+The girls *were (was)* eagerly waiting to receive their gifts.
+Pepper and chilli *are(is)* required for this recipe.
+Hans Christian Anderson *has (have)* written many fairy tales for children.
+Please check if anybody *has (have)* been left behind.
+Our neighbour’s house *is (are)* not so old.
+These women *have (has)* come a long way to meet the Chief Guest.
+How much money *is (are)* there in the purse?
+```
