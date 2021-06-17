@@ -63,18 +63,32 @@
 Sujatha *can* draw well.
 I wish I *could* fly like a bird!
 Anita *can* surely excel in the Board Exams!
-Where *can* the dog be hiding?
-*Could* you give this bag to your mother?
+Where *could* the dog be hiding?
+*Can* you give this bag to your mother?
+
+Saran *can* swim like a fish.
+Raju *could* speak several languages. 
+You *can* borrow my pen if you like.
+When I entered the room, I *could* hear something scratching.
+You *can* use my umbrella, I don't need it right now.
+*could* you please do me a favour?
+
 ```
 
 ## than vs then
 
 ```
 He can run faster *than* I can.
-First buy bread and butter *then* eat.
+First buy bread and butter *then* eat them.
 Nothing worse *than* a familiar enemy.
 First think, and *then* speak.
 Peter is smarter *than* Mathew.
+
+He can play tennis better *than* John.
+Let's study first and *then* go for a jog.
+Art class is easier *than* maths for me.
+Study hard for the test and *then* pass it.
+If you give me your hat, *then* I will tell you my secret.
 ```
 
 ## better vs best
@@ -85,6 +99,13 @@ Sheetal has the *best* handwriting in the class..
 My sister makes the *best* milkshake!
 Geeta and Jyothi are *best* friends.
 Girish felt much *better* after taking a nap.
+
+It is *better* to stay here than to go away.
+Vignesh is the *best* student in my class.
+An honest enemy is *better* than a fake friend.
+Ruban is the *best* bowler in my cricket team.
+Rahav moved forward for a *better* view.
+
 ```
 
 ## shall vs should
@@ -95,6 +116,12 @@ Mitha *should* eat on time.
 I *shall* go to the party next week.
 Sarah *should* be taking care of her health.
 You *should* have seen the sunrise this morning, it was beautiful!
+
+*shall* I pick you up from airport?
+I *should* get more sleep at night.
+The school *shall*  provide free Laptop for Merit students.
+All *should* obey Traffic Rules.
+I *shall* call you back after I finish this class.
 ```
 
 ## will vs would
@@ -105,6 +132,12 @@ My uncle *will* surely visit us next year.
 Students are wondering if exams *will* be held this month.
 *Would* you like some more chocolate in your milk? 
 I wonder who *will* win the IPL cup this year?
+
+*would* you please be quiet?
+He said, “I *will* never eat meat again!”
+I *would* go jogging more when I lived near the park.
+I *will* send you the answer by email tonight.
+If you knew Sara, you *would* probably like her.
 ```
 
 ## much vs many
@@ -134,7 +167,7 @@ Shilpa *was* excited about the school trip to Goa.
 Vasu hoped that the weather *would* be favourable for the match.
 Heidi *was* thrilled to see that it *was* snowing.
 The beggar hoped that the people in the big house *would* give him some food.
-The farmer prayed that the rain *would* water his crops.
+The farmer prayed that the rain *would* water his crop.
 ```
 
 ## were vs where
