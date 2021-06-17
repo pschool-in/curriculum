@@ -5,7 +5,7 @@
 
 ```
 Meera spoke *rudely* to her teacher.
-*Suddenly* it began to rain!
+*Suddenly*,it began to rain!
 The gardener worked *tirelessly* in the hot sun.
 The children *stealthily* switched off the television when they heard their father’s car!
 I can do this *easily*.
@@ -18,7 +18,7 @@ The boy ran *fast* to catch the school bus.
 
 Isha’s parents took her to the dentist *immediately*.
 Pujit did all his sums *correctly*.
-The leader requested the residents *humbly* to keep their surroundings clean.
+The leader *humbly* requested the residents to keep their surroundings clean.
 The girl *carelessly* crossed the busy road.
 He *rarely* falls sick!
 
@@ -41,11 +41,11 @@ There is a musty *smell* in this room!
 
 The bees are humming in the *garden*.
 The *telephone* is not working.
-The *news* is too good to be believed.
+The *news* is too good to be true!
 Manu takes a *nap* every afternoon.
 Hari spends a lot of time playing with his *pet* rabbits.
 
-*Lunch time* for us is between one and two pm.
+*Lunchtime* for us is between one and two pm.
 This is the *way* we go to school.
 Is Chaitra an *artist*?
 Lucknow is the *capital* of Uttar Pradesh.
@@ -65,7 +65,7 @@ The weather is *extremely* hot in May.
 Raman is the *best* trekker on the team.
 Sunil has been studying *all* morning.
 
-Heera has a *cute* little kitten.
+Heera has a *cute* kitten. 
 *None* of the stores in our neighbourhood are open before ten am.
 Surya’s cousin is a *well known* author.
 The view from the mountain top was *breathtaking*!
@@ -75,7 +75,7 @@ verb
 ```
 Mohan *ran* to catch the school bus.
 Sheetal’s parrot *loves* to talk to her goldfish!
-The guests at the wedding *were* tired of waiting for the bride to arrive.
+The guests at the wedding were tired of waiting for the bride to *arrive*.
 We *ignored* her foolish remark.
 Children must *obey* their parents.
 
@@ -94,11 +94,11 @@ Those two siblings *are* like Tom and Jerry!
 What do you *want* for lunch?
 This phone *belongs* to my sister.
 My mother is the lady *wearing* the red sari.
-*Have* you ever heard the mockingbird sing? 
+*Have* you ever heard a mockingbird sing? 
 Robert Bruce watched the spider *spinning* its web.
 
 This is the way to *brush* your hair.
-I can *hear* a cat meowing in the basement!
+I can *hear* a cat mewing in the basement!
 Dr Abdul Kalam has *authored* many books.
 The Principal *expressed* annoyance at the indiscipline during assembly.
 ```
@@ -124,7 +124,7 @@ Enid Blyton is a *much* loved children’s author.
 preposition
 ```
 The monkey went around with a basket to collect money from the spectators *after* the performance.
-The birds are singing sweetly *this* morning.
+The birds are singing sweetly *in* the garden.
 I saw a cart being pulled *by* an old donkey.
 The milkman’s buffaloes are bathing *in* the river.
 The sage placed his hand *on* the prince’s head to bless him.
@@ -152,13 +152,13 @@ Wear *your* headphones while listening to this.
 *That*  calendar has beautiful photographs.
 *Your* idea is fantastic!
 *Who* is the king of the jungle? 
-*Both* Vikram and his brother are booksellers.
+Both Vikram and *his* brother are booksellers.
 ```
 
 conjunction
 ```
 The students stood up *when* the teacher entered the room.
-Ravi enjoys cycling up *and* down the hills.
+Ravi enjoys cycling up *and* down the hill.
 Arjun is a shy *but* helpful boy.
 The farmer hurried home, *as* it was late.
 The dragon lashed out its tail, *but* missed the brave hunter.
@@ -172,7 +172,7 @@ His dog jumped on him,*as soon as* Rohit entered the house.
 Which do you like better, tea *or* coffee?
 Please read the instructions *and* follow them.
 That girl is not only the topper,*but also* very humble.
-The rooster *is* crowing so loudly.
+The rooster *and* the hens live in the same coop.
 ```
 
 
