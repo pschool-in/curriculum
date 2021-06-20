@@ -32,20 +32,20 @@ a ______ of keys | bunch
 
 ## Gender Bender!
 
-Drag and drop the below words in the respective boxes.
+Drag and drop the gender into the appropriate boxes.
 
 Masculine
 ```
 ram, gander, boy, bull, prince, waiter
 
-son, sir, actor, colt, priest', 'filly, princess, heroine, lady
+son, sir, actor, colt, priest, filly, princess, heroine, lady
 ```
 
 Feminine
 ```
 czarina, spinster, hen, wife, queen
 
-tiger, duke, man, master, monk', 'niece, aunt, bride, sister
+tiger, duke, man, master, monk, niece, aunt, bride, sister
 ```
 
 ## Match the Gender Pair
