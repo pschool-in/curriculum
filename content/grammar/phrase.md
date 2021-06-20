@@ -35,7 +35,7 @@ appeared, visible, examine
 Preethi couldn’t *think back of*  her last visit to her grandmother’s house.
 remember, count, appear
 
-The detective *looked carefully* at the fingerprints on the glass.
+The detective *looked carefully at* the fingerprints on the glass.
 examined, thought, whispered
 
 ```
