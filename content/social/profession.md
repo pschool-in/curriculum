@@ -31,9 +31,9 @@ I represent people in a court of law, I am a *lawyer*.
 I look after a library, I am a *librarian*.
 ```
 
-## People and Tool
+## People and Tools
 
-Match the people with their  tools of trade.
+Match the people with their tools of trade.
 
 ```
 gardener, spade
