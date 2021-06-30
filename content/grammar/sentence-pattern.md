@@ -1,5 +1,59 @@
 # Sentence Pattern
 
+## Notes
+
+We use words to construct sentences. All meaningful sentences have a pattern. It
+is mainly made up of five components.
+
+```
+Subject (S)
+Verb (V)
+Object (O)
+Complement (C)
+Adverbial (A)
+```
+
+The most simple sentence has a subject and verb (S+V) component.
+
+```
+Baby is crying.
+Dogs bark.
+```
+
+A complement (C) is used to complete a sentence. Check the highlighted words in
+the below examples.
+
+```
+John is *tall*.
+Ram is *a pilot*.
+```
+
+An object (O) is the receiver of an action.
+
+```
+I read *newspaper*.
+Sarah ate *cake*.
+```
+
+In some sentences, there can be two objects: Direct (DO) and Indirect (IO).
+
+```
+They sent me a gift.
+me - IO, gift - DO
+
+Can you tell our friends the story.
+friends - IO, story - DO
+
+```
+
+An adverbial (A) component gives more meaning to the verb (V) component.
+
+```
+He was *at school*.
+She got *into the car*.
+
+```
+
 ## Classify Component
 
 Classify the underlined word.
@@ -55,6 +109,10 @@ Ravi is reading.
 They are working.
 The bell is ringing.
 We are planning.
+
+The curtains disappeared.
+The wind is blowing.
+It is raining.
 ```
 
 S + V + O
@@ -81,6 +139,14 @@ My uncle is a farmer.
 She looks worried.
 The milk is getting cold.
 The sky turned dark.
+```
+
+S + V + A
+
+```
+He is lying on the floor.
+The meeting is at eight.
+
 ```
 
 ## Classify Pattern - 2
