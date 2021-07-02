@@ -13,3 +13,17 @@ headphone - কালো
 leaf - সবুজ  
 garlic - সাদা 
 
+### Colors in Bengali
+
+সবুজ - Green,  
+হলুদ - Yellow,  
+নীল - Blue,  
+লাল - Red,  
+কমলা - Orange,  
+গেরুয়া - Saffron,  
+বেগুনি - Violet,  
+কালো - Black,   
+সাদা - White,  
+ধূসর - Grey,  
+বাদামি - Brown,  
+গোলাপী - Pink ,  
