@@ -14,7 +14,12 @@
 12. pineapple
 13. pomegranate
 14. watermelon
-15. fruits - ഫലം
+15. fig
+16. custard-apple
+17. plum
+18. dates
+19. muskmelon
+20. fruits - ഫലം
 
 # vegetables
 
@@ -29,6 +34,24 @@
 9. cucumber
 10. garlic
 11. ginger
+12. pumpkin
+13. almond
+14. beans
+15. bitter-gourd
+16. brinjal
+17. capsicum
+18. cashewnut
+19. chilli
+20. coconut
+21. corianderleaf
+22. curryleaf
+23. drumstick
+24. greenpeas
+25. ladies-finger
+26. mintleaf
+27. peanut
+28. raddish
+29. spinach
 
 # flowers
 
@@ -38,6 +61,8 @@
 4. marigold - ജമന്തി
 5. hibiscus - ചെമ്പരുത്തി
 6. jasmine - മുല്ലപ്പൂ
+7. tulip
+8. zinnia
 
 # vehicles
 
@@ -51,6 +76,13 @@
 8. ship
 9. tractor
 10. train
+11. ambulance
+12. auto
+13. cart
+14. excavator
+15. fire-engine
+16. lorry
+17. van
 
 # house
 
@@ -60,13 +92,16 @@
 4. candle
 5. chair
 6. shelf
-7. boy
-8. girl
-9. man
-10. woman
-11. ball
-12. coat
-13. glasses
+7. baby
+8. boy
+9. girl
+10. man
+11. woman
+12. ball
+13. coat
+14. glasses
+15. clock
+16. watch
 
 # school
 
@@ -78,6 +113,10 @@
 6. scissors
 7. sharpener
 8. waterbottle
+9. calculator
+10. book
+11. color-pencils
+12. crayons
 
 # kitchen
 
@@ -99,6 +138,7 @@
 6. speaker
 7. tablet
 8. torch
+9. web-camara
 
 # animals
 
@@ -133,6 +173,23 @@
 29. winged-termites
 30. ant
 31. fly
+32. bat
+33. buffalo
+34. butterfly
+35. cheetah
+36. cow
+37. donkey
+38. giraffe
+39. kangaroo
+40. leopard
+41. mongoose
+42. mosquito
+43. octopus
+44. wolf
+45. cockroach
+46. garden-lizard
+47. lizard
+48. rabbit
 
 # birds
 
@@ -144,6 +201,18 @@
 6. peacock - മയിൽ
 7. penguin
 8. sparrow
+9. chick
+10. crane
+11. eagle
+12. flamingo
+13. kingfisher
+14. myna
+15. ostrich
+16. owl
+17. rooster
+18. vulture
+19. woodpecker
+20. hornbill
 
 # bodyParts
 
@@ -159,27 +228,28 @@
 # others
 
 1. sun
-2. rain
-3. star
-4. milk
-5. ring
-6. brush
-7. bone
-8. auvai
-9. bell - മണി
-10. bird
-11. conch
-12. drums
-13. five
-14. food
-15. fruits
-16. king
-17. kite
-18. ladder
-19. ladoo
-20. leaf
-21. rishi
-22. wheel
-23. whistle
-24. world
-25. yazl
+2. moon
+3. rain
+4. star
+5. milk
+6. ring
+7. brush
+8. bone
+9. auvai
+10. bell - മണി
+11. bird
+12. conch
+13. drums
+14. five
+15. food
+16. fruits
+17. king
+18. kite
+19. ladder
+20. ladoo
+21. leaf
+22. rishi
+23. wheel
+24. whistle
+25. world
+26. yazl
