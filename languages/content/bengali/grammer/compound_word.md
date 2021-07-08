@@ -1,4 +1,4 @@
-### স্বরসন্ধি 
+### স্বরসন্ধি ( We can do MCQ with 3 wrong options, need to identify some. other type of simple activity as well for smaller kids)
 
 সূর্য + উদয় = সূর্যোদয় ,    
 স্ব + অধীনতা = স্বাধীনতা ,   
