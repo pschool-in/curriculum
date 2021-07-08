@@ -181,23 +181,23 @@
 29. termites - উইপোকা
 30. ant - পিঁপড়ে - error in letter validation
 31. fly - মাছি
-32. bat
-33. buffalo
-34. butterfly
-35. cheetah
-36. cow
-37. donkey
-38. giraffe
+32. bat - বাদুড়
+33. buffalo - মোষ
+34. butterfly - প্রজাপতি
+35. cheetah - চিতাবাঘ
+36. cow - গোরু
+37. donkey - গাধা
+38. giraffe - 
 39. kangaroo
 40. leopard
-41. mongoose
-42. mosquito
-43. octopus
-44. wolf
-45. cockroach
+41. mongoose - বেজি
+42. mosquito - মশা
+43. octopus - 
+44. wolf - নেকড়ে বাঘ
+45. cockroach - আরশোলা
 46. garden-lizard
-47. lizard
-48. rabbit
+47. lizard - টিকটিকি
+48. rabbit - খরগোশ
 
 # birds
 
@@ -209,18 +209,18 @@
 6. peacock - ময়ূর
 7. penguin - পেঙ্গুইন - Not required
 8. sparrow - চড়ুই, চড়াই
-9. chick
-10. crane
-11. eagle
+9. chick - মুরগিছানা
+10. crane - সারস পাখি
+11. eagle - 
 12. flamingo
-13. kingfisher
-14. myna
-15. ostrich
-16. owl
-17. rooster
-18. vulture
-19. woodpecker
-20. hornbill
+13. kingfisher - মাছরাঙ্গা
+14. myna - মায়না
+15. ostrich - উটপাখি
+16. owl - পেঁচা
+17. rooster - মোরগ
+18. vulture - শকুন
+19. woodpecker - কাঠঠোকরা
+20. hornbill - 
 
 # bodyParts
 
