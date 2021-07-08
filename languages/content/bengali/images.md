@@ -14,13 +14,13 @@
 12. pineapple - আনারস
 13. pomegranate - ডালিম, বেদানা
 14. watermelon - তরমুজ
-15. fig
-16. custard-apple
-17. plum
-18. dates
-19. muskmelon
+15. fig - ডুমুর
+16. custard-apple - আতা
+17. plum - 
+18. dates - খেজুর
+19. muskmelon - খরবুজ
 20. litchi - লিচু
-21. fruits
+21. fruits - ফল
 
 # vegetables
 
@@ -35,24 +35,24 @@
 9. cucumber - শসা
 10. garlic - রসুন
 11. ginger - আদা
-12. pumpkin
-13. almond
-14. beans
+12. pumpkin - কুমড়
+13. almond - বাদাম
+14. beans - 
 15. bitter-gourd - করলা
-16. brinjal
-17. capsicum
-18. cashewnut
-19. chilli
-20. coconut
-21. corianderleaf
-22. curryleaf
-23. drumstick
-24. greenpeas
-25. ladies-finger
-26. mintleaf
-27. peanut
-28. raddish
-29. spinach
+16. brinjal - বেগুন
+17. capsicum - 
+18. cashewnut - কাজুবাদাম
+19. chilli - লঙ্কা
+20. coconut - নারকেল
+21. corianderleaf - ধনেপাতা 
+22. curryleaf - কারিপাতা 
+23. drumstick - সজনেডাঁটা 
+24. greenpeas - মটরশুটি
+25. ladies-finger - ভিন্ডি 
+26. mintleaf - পুদিনা
+27. peanut - চিনাবাদাম
+28. raddish - মূলো 
+29. spinach - পালং শাক
 
 ## Extras
 
@@ -67,8 +67,8 @@
 4. marigold - গাঁদা - error in letter validation
 5. hibiscus - জবা
 6. jasmine - জুঁই - error in letter validation
-7. tulip
-8. zinnia
+7. tulip - টিউলিপ
+8. zinnia - জিনিয়া
 
 # vehicles
 
@@ -82,13 +82,13 @@
 8. ship - জাহাজ
 9. tractor - ট্র্যাক্টর - Not required
 10. train - রেল গাড়ি
-11. ambulance
-12. auto
-13. cart
-14. excavator
-15. fire-engine
-16. lorry
-17. van
+11. ambulance - অ্যাম্বুলেন্স
+12. auto - অটো
+13. cart - গোরুর গাড়ি
+14. excavator - খননকারী যন্ত্র
+15. fire-engine - দমকল. 
+17. lorry - লরি
+18. van - 
 
 # house
 
@@ -98,7 +98,7 @@
 4. candle - মোমবাতি
 5. chair - চেয়ার, কেদারা
 6. shelf - তাক
-7. baby
+7. baby - বাচ্চা
 8. boy - ছেলে
 9. girl - মেয়ে
 10. man - পুরুষ
@@ -106,8 +106,8 @@
 12. ball - বল
 13. coat - কোট
 14. glasses - চশমা
-15. clock
-16. watch
+15. clock - ঘড়ি
+16. watch - হাতঘড়ি 
 
 # school
 
@@ -120,9 +120,9 @@
 7. sharpener - শার্পনার - error in letter validation - not required
 8. waterbottle - জলের বোতল
 9. calculator
-10. book
-11. color-pencils
-12. crayons
+10. book - বই
+11. color-pencils - রঙ পেন্সিল
+12. crayons - 
 
 # kitchen
 
