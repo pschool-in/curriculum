@@ -84,7 +84,7 @@ shipसमुंद्री जहाज
 tractor, ट्रैक्टर
 train, रेल गाडी
 ```
-``
+```
 ambulance, रोगी वाहन
 auto, ऑटो
 cart, कार्ट
@@ -92,7 +92,7 @@ excavator, खोदक मशीन
 fire-engine, दमकल
 lorry, लॉरी
 van, वैन
-
+```
 # house
 ```
 house
@@ -151,11 +151,11 @@ web-camara
 ```
 # animals (जानवरों)
 ```
-cat - बिल्ली
-dog
-goat
+cat, बिल्ली
+dog, कुत्ता
+goat, बकरी
 sheep
-horse
+horse, घोडा
 pig
 elephant - हाथी
 lion - शेर
@@ -165,9 +165,9 @@ tiger - बाघ
 ```
 hippo
 rhino - गैंडा
-fox
+fox, लोमड़ी
 crocodile - मगरमच्छ
-zebra
+zebra, धारीदार घोडा
 bear - भालू
 camel - ऊंट
 shark
@@ -190,13 +190,13 @@ ant, दुनिया
 fly
 bat, चमगादड़
 buffalo
-butterfly
+butterfly, तितली
 cheetah
 cow
-donkey
+donkey, गधा
 giraffe
-kangaroo
-leopard
+kangaroo, कंगारू
+leopard, तेंदुआ
 ```
 ```
 mongoose
@@ -205,7 +205,7 @@ octopus
 wolf
 cockroach
 garden-lizard
-lizard
+lizard, छिपकली
 rabbit
 ```
 # birds (चिड़िया)
