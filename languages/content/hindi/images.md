@@ -1,88 +1,97 @@
-# fruits
+# fruits (फल)
+```
+apple, सेब
+grapes, अंगूर
+banana, केला
+cherry, चेरी
+avocado, एवोकाडो
+strawberry, स्ट्रॉबेरी
+guava, अमरूद
+jackfruit, कटहल
+mango, आम
+orange, संतरा 
+```
+```
+papaya, पपीता
+pineapple, अनानास
+pomegranate, अनार
+watermelon, तरबूज
+fig, अंजीर
+custard apple, शरीफा
+plum, बेर
+dates, खजूर
+muskmelon, खरबूजा
+```
 
-1. apple - सेब
-2. grapes - अंगूर
-3. banana - केला
-4. cherry
-5. avocado
-6. strawberry
-7. guava - अमरूद
-8. jackfruit - कटहल
-9. mango - आम
-10. orange
-11. papaya - पपीता
-12. pineapple - अनानास
-13. pomegranate - अनार
-14. watermelon - तरबूज
-15. fig
-16. custard-apple
-17. plum
-18. dates
-19. muskmelon
-20. fruits - फल
+# vegetables (सब्जियां)
+```
+carrot, गाजर
+beetroot, चुकंदर
+onion, प्याज
+tomato, टमाटर
+potato, आलू
+cabbage
+cauliflower, गोभी
+corn, मक्का
+cucumber, खीरा
+garlic, लहसुन
+```
+```
+ginger, अदरक
+pumpkin, कद्दू
+almond, बादाम
+beans, फलियां
+bitter-gourd, करेला
+brinjal, बैंगन
+capsicum, शिमला मिर्च
+cashewnut, काजू
+chilli, मिर्च
+coconut, नारियल
+```
+```
+corianderleaf, धनिए के पत्ते
+curryleaf, करी पत्ता
+drumstick, ढोल का छड़ी
+greenpeas, हरी मटर
+ladies-finger, भिन्डी
+mintleaf, पुदीना
+peanut, मूंगफली
+raddish, मूली
+spinach, पालक
+```
 
-# vegetables
-
-1. carrot
-2. beetroot
-3. onion - प्याज
-4. tomato
-5. potato
-6. cabbage
-7. cauliflower
-8. corn
-9. cucumber
-10. garlic
-11. ginger
-12. pumpkin
-13. almond
-14. beans
-15. bitter-gourd
-16. brinjal
-17. capsicum
-18. cashewnut
-19. chilli
-20. coconut
-21. corianderleaf
-22. curryleaf
-23. drumstick
-24. greenpeas
-25. ladies-finger
-26. mintleaf
-27. peanut
-28. raddish
-29. spinach
-
-# flowers
-
-1. rose - गुलाब
-2. lotus - कमल
-3. sunflower - सूरजमुखी
-4. marigold
-5. hibiscus
-6. jasmine - चमेली
-7. tulip
-8. zinnia
-
-# vehicles
-
-1. aeroplane
-2. boat
-3. bus
-4. car - गाड़ी
-5. cycle
-6. helicoptor
-7. motorbike
-8. ship
-9. tractor
-10. train
-11. ambulance
-12. auto
-13. cart
-14. excavator
-15. fire-engine
-16. lorry
-17. van
+# flowers (फूल)
+```
+rose - गुलाब
+lotus - कमल
+sunflower - सूरजमुखी
+marigold, गेंदा
+hibiscus, हिबिस्कुस
+jasmine, चमेली
+tulip, ट्यूलिप
+zinnia, ज़िनिया 
+```
+# vehicles (वाहनों)
+```
+aeroplane, विमान
+boat, नाव
+bus, बस
+car, गाड़ी
+cycle, चक्र
+helicoptor, हेलीकॉप्टर
+motorbike, मोटरसाइकिल
+shipसमुंद्री जहाज
+tractor, ट्रैक्टर
+train, रेल गाडी
+```
+``
+ambulance, रोगी वाहन
+auto, ऑटो
+cart, कार्ट
+excavator, खोदक मशीन
+fire-engine, दमकल
+lorry, लॉरी
+van, वैन
 
 # house
 
@@ -140,7 +149,7 @@
 8. torch
 9. web-camara
 
-# animals
+# animals (जानवरों)
 
 1. cat - बिल्ली
 2. dog
