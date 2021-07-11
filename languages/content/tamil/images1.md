@@ -113,7 +113,7 @@ Peanut, நிலக்கடலை
 Radish, முள்ளங்கி
 Spinach, கீரை 
 Brinjal, கத்திரி 
-Ladyies finger, வெண்டைக்காய் 
+Ladies finger, வெண்டைக்காய் 
 Broad beans, அவரைக்காய் 
 Ash gourd, பூசணிக்காய்
 Ridge Gourd, பீர்க்கங்காய்
@@ -166,94 +166,94 @@ Train, தொடர்வண்டி
 Helicopter, வானூர்தி 
 Motorbike, 
 Tractor, இழுவை இயந்திரம்
-Ambulance, 
-Auto, 
+Ambulance, அவசர ஊர்தி
+Auto, ஆட்டோ
 Cart, 
 Excavator, 
-Fire engine, 
-lorry, 
+Fire engine, தீயணைப்பு வாகனம்
+lorry, சரக்குந்து 
 van, 
 ```
 # House
 ```
-House
-Table
-Bed
-Candle
-Chair
-Shelf
-Boy
-Girl
-Man
-Woman
-Ball
-Coat
-Glass
-Clock, 
-Watch, 
+House, வீடு
+Table, மேசை
+Bed, மெத்தை
+Candle, மெழுகுவர்த்தி
+Chair, நாற்காலி
+Shelf, அலமாரி
+Boy, சிறுவன்
+Girl, சிறுமி
+Man, ஆண்
+Woman, பெண்
+Ball, பந்து
+Coat, மேலங்கி
+Glass, மூக்கு கண்ணாடி
+Clock, கடிகாரம்
+Watch, கைக்கடிகாரம்
 ```
 # School
 ```
-Eraser, 
-Pen, 
-Pencil, 
-Ruler, 
-Schoolbag, 
-Scissors, 
+Eraser, அழிப்பான்
+Pen, பேனா
+Pencil, எழுதுகோல் 
+Ruler, அளவுகோல்
+Schoolbag, புத்தகப்பை
+Scissors, கத்தரிக்கோல்
 Sharpener, 
-Water bottle, 
-Calculator, 
-Book, 
+Water bottle, தண்ணீர் குடுவை
+Calculator, கணிப்பான்
+Book, புத்தகம்
 Colorpencil, 
 Crayons, 
 ```
 # Kitchen
 ```
-Stove, 
-Fork, 
-Knife,
+Stove, அடுப்பு
+Fork, முள் கரண்டி
+Knife,கத்தி
 Pan, 
 Spoon, 
-pot, 
-Butter, 
+pot, பானை
+Butter, வெண்ணெய்
 ```
 # Gadgets
 ```
-Camera, 
+Camera, புகைப்பட கருவி
 Headphone
 Pendrive, 
 Remote, 
 Smartphone, 
-Speaker, 
+Speaker, ஒலிப்பெருக்கி
 Tablet, 
 Torch, 
 Web Camera, 
 ```
 # TooLs
 ```
-Axe, 
-Balance, 
-Blackboard, 
-hose, 
-microscope, 
-Needle, 
+Axe, கோடரி
+Balance, தராசு
+Blackboard, கரும்பலகை 
+hose, குழாய்
+microscope, நுண்ணோக்கி
+Needle, ஊசி
 Oven, 
-plier, 
-Plough, 
-Saw, 
+plier, இடுக்கி
+Plough, கலப்பை
+Saw, இரம்பம்
 ```
 ```
-Spade
-Stethoscope, 
-Telescope, 
-Testtube, 
-Thermometer, 
-Trowel, 
-Walkie-Talkie, 
-awl, 
-Compass, 
+Spade, மண்வெட்டி
+Stethoscope,
+Telescope, தொலைநோக்கி
+Testtube, சோதனை குழாய்
+Thermometer, வெப்பமானி
+Trowel, கரணை
+Walkie-Talkie, நடந்துகொண்டே பேசும் கருவி
+awl, குத்தூசி
+Compass, திசைகாட்டி
 easel,
-hacksaw, 
+hacksaw, வெட்டும் ரம்பம்
 scalpel, 
 ```
 
