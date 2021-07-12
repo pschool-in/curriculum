@@ -26,4 +26,7 @@ garlic - সাদা
 সাদা - White,  
 ধূসর - Grey,  
 বাদামি - Brown,  
-গোলাপী - Pink ,  
+গোলাপী - Pink ,   
+আকাশী - Sky color,   
+গাঢ় - dark,   
+হালকা - light,  
