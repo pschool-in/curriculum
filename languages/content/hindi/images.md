@@ -101,22 +101,22 @@ bed, बिस्तर
 candle, मोमबत्ती
 chair, कुर्सी
 shelf, अलमारी
-baby
-boy
-girl
-man
-woman
-ball
+baby, बच्चा
+boy, लड़का
+girl, लड़की
+man, आदमी
+woman, स्री
+ball, गेंद
 coat
-glasses
+glasses, ऐनक
 clock, घड़ी
-watch
+watch, घड़ी
 ```
 # school
 ```
 eraser, रबड़
 pen, कलम
-pencil
+pencil, 
 ruler, मापन
 schoolbag
 scissors, कैंची
@@ -135,31 +135,30 @@ knife, छुरी
 pan, तवा
 spoon, चमचा
 pot, मटका
-butter
+butter, मक्खन
 ```
 # Tools
 ```
 Axe, कुल्हाडी
 balance, तराज़ू
 Black board, श्यामपट 
-hose, 
+hose, नली
 microscope, 
 Needle, सुई
 Oven, तन्दूर
-Plough, हल
-plough, 
+plough, हल 
 Saw, आरी
 Spade, कुदाली
 Stethescope,
-telescope, 
+telescope, दूरबीन
 thermometer, 
 trowel, करनी
 walkie-talkie, 
 awl, टेकु आ 
 Compass, कुतुबनुमा
-easel, 
-hacksaw, 
-scalpel, 
+easel, चित्रफलक
+hacksaw, लोहा-आरी
+scalpel, छुरी
 ```
 # gadgets
 ```
@@ -170,7 +169,7 @@ remote
 smartphone
 speaker
 tablet
-torch
+torch, मशाल
 web-camara
 ```
 # animals (जानवरों)
@@ -283,7 +282,7 @@ bell, घंटी
 ```
 ```
 bird, चिड़िया
-conch, शंख
+conch, शंख 
 drums
 five, पांच
 food, खाना
