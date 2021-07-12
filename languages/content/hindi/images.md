@@ -3,9 +3,9 @@
 apple, सेब
 grapes, अंगूर
 banana, केला
-cherry, चेरी
-avocado, एवोकाडो
-strawberry, स्ट्रॉबेरी
+cherry
+avocado
+strawberry
 guava, अमरूद
 jackfruit, कटहल
 mango, आम
@@ -30,7 +30,7 @@ beetroot, चुकंदर
 onion, प्याज
 tomato, टमाटर
 potato, आलू
-cabbage
+cabbage, पत्ता गोभी
 cauliflower, गोभी
 corn, मक्का
 cucumber, खीरा
@@ -68,20 +68,20 @@ sunflower - सूरजमुखी
 marigold, गेंदा
 hibiscus, हिबिस्कुस
 jasmine, चमेली
-tulip, ट्यूलिप
-zinnia, ज़िनिया 
+tulip, 
+zinnia, 
 ```
 # vehicles (वाहनों)
 ```
 aeroplane, विमान
 boat, नाव
-bus, बस
+bus
 car, गाड़ी
 cycle, चक्र
-helicoptor, हेलीकॉप्टर
+helicoptor
 motorbike, मोटरसाइकिल
-shipसमुंद्री जहाज
-tractor, ट्रैक्टर
+ship, समुंद्री जहाज
+tractor
 train, रेल गाडी
 ```
 ```
@@ -90,17 +90,17 @@ auto, ऑटो
 cart, कार्ट
 excavator, खोदक मशीन
 fire-engine, दमकल
-lorry, लॉरी
-van, वैन
+lorry
+van
 ```
 # house
 ```
-house
-table
-bed
-candle
-chair
-shelf
+house, मकान
+table, मेज
+bed, बिस्तर
+candle, मोमबत्ती
+chair, कुर्सी
+shelf, अलमारी
 baby
 boy
 girl
@@ -109,33 +109,57 @@ woman
 ball
 coat
 glasses
-clock
+clock, घड़ी
 watch
 ```
 # school
 ```
-eraser
-pen - कलम
+eraser, रबड़
+pen, कलम
 pencil
-ruler
+ruler, मापन
 schoolbag
-scissors
-sharpener
+scissors, कैंची
+sharpener, पेंसिल ताराश 
 waterbottle
 calculator
-book
+book, किताब
 color-pencils
-crayons
+crayons, कडिया पेंसिल
 ```
 # kitchen
 ```
-stove
-fork
-knife
-pan
-spoon
-pot
+stove, चूल्हा
+fork, कांटा
+knife, छुरी
+pan, तवा
+spoon, चमचा
+pot, मटका
 butter
+```
+# Tools
+```
+Axe, कुल्हाडी
+balance, तराज़ू
+Black board, श्यामपट 
+hose, 
+microscope, 
+Needle, सुई
+Oven, तन्दूर
+Plough, हल
+plough, 
+Saw, आरी
+Spade, कुदाली
+Stethescope,
+telescope, 
+thermometer, 
+trowel, करनी
+walkie-talkie, 
+awl, टेकु आ 
+Compass, कुतुबनुमा
+easel, 
+hacksaw, 
+scalpel, 
 ```
 # gadgets
 ```
@@ -154,59 +178,59 @@ web-camara
 cat, बिल्ली
 dog, कुत्ता
 goat, बकरी
-sheep
+sheep, भेड्
 horse, घोडा
-pig
-elephant - हाथी
-lion - शेर
-monkey - बंदर
-tiger - बाघ
+pig, सुअर
+elephant, हाथी
+lion, शेर
+monkey, बंदर
+tiger, बाघ
 ```
 ```
-hippo
-rhino - गैंडा
+hippo, दरियाई घोड़ा
+rhino, गैंडा
 fox, लोमड़ी
-crocodile - मगरमच्छ
+crocodile, मगरमच्छ
 zebra, धारीदार घोडा
-bear - भालू
-camel - ऊंट
-shark
-whale
-dolphin
+bear, भालू
+camel, ऊंट
+shark, हाँगर
+whale, तिमिंगल
+dolphin, 
 ```
 ```
-dragonfly
-fish
-frog
-crab - केकड़ा
-snake
-squirrel
-tortoise
-rat
-winged-termites
+dragonfly, 
+fish, मछली
+frog, मेंडक
+crab, केकड़ा
+snake, सर्प
+squirrel, गिलहरी
+tortoise, कछुआ
+rat, चूहा
+winged-termites, 
 ant, दुनिया
 ```
 ```
-fly
+fly,मक्खी
 bat, चमगादड़
-buffalo
+buffalo, भेंस
 butterfly, तितली
-cheetah
-cow
+cheetah, 
+cow, गाय
 donkey, गधा
-giraffe
+giraffe, 
 kangaroo, कंगारू
 leopard, तेंदुआ
 ```
 ```
-mongoose
-mosquito
-octopus
-wolf
-cockroach
+mongoose, नेवला
+mosquito, मच्छर
+octopus, 
+wolf, भेड़िया
+cockroach, तिलचट्टा
 garden-lizard
 lizard, छिपकली
-rabbit
+rabbit, खरगोश
 ```
 # birds (चिड़िया)
 ```
