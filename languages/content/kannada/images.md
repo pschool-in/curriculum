@@ -1,4 +1,4 @@
-# fruits (ಹಣ್ಣುಗಳು)
+# ಹಣ್ಣುಗಳು
 ```
 apple, ಸೇಬು
 grapes, ದ್ರಾಕ್ಷಿಗಳು
@@ -22,7 +22,7 @@ plum
 dates
 muskmelon, ಖರ್ಬೂಜ
 ```
-# vegetables (ತರಕಾರಿ)
+# ತರಕಾರಿ
 ```
 carrot, ಗಜ್ಜರಿ
 beetroot,ಕಂದು ಬೇರು
@@ -58,7 +58,7 @@ peanut, ಕಡಲೆಕಾಯಿ
 radish, ಮೂಲಂಗಿ
 spinach, ಸೊಪ್ಪು
 ```
-# flowers (ಹೂವುಗಳು)
+# ಹೂವುಗಳು
 ```
 rose, ಗುಲಾಬಿ
 lotus, ಕಮಲ
@@ -69,12 +69,12 @@ jasmine, ಮಲ್ಲಿಗೆ
 tulip
 zinnia
 ```
-# vehicles (ವಾಹನಗಳು)
+# ವಾಹನಗಳು
 ```
 aeroplane, ವಿಮಾನ
 boat, ದೋಣಿ
-bus
-car
+bus, ಬಸ್
+car, ಕಾರು
 cycle, ಚಕ್ರ
 helicoptor
 motorbike
@@ -91,28 +91,28 @@ fire-engine, ಅಗ್ನಿ ಶಾಮಕ
 lorry
 van, ನಿಂದ
 ```
-# house
+# ಮನೆ
 ```
-house
+house, ಮನೆ
 table
-bed
-candle
-chair
+bed, ಹಾಸಿಗೆ
+candle, ಮೋಂಬತ್ತಿ
+chair, ಕುರ್ಚಿ
 shelf
-baby
-boy
+baby, ಮಗು
+boy, ಹುಡುಗ
 ```
 ```
-girl
-man
-woman
-ball
+girl, ಹುಡುಗಿ
+man, ಮನುಷ್ಯ
+woman, ಮಹಿಳೆ
+ball, ಚೆಂಡು
 coat
 glasses
-clock
-watch
+clock, ಗಡಿಯಾರ
+watch, ನೋಡುವವ
 ```
-# school
+# ಶಾಲೆ
 
 ```
 eraser
@@ -122,13 +122,13 @@ ruler, ತಕ್ಕಡಿ
 schoolbag, ಶಾಲಾ ಚೀಲ
 scissors, ಕತ್ತರಿ
 sharpener
-waterbottle
+waterbottle, ನೀರಿನ ಶೀಶೆ
 calculator
-book
+book, ಪುಸ್ತಕ
 color-pencils
 crayons
 ```
-# kitchen
+# ಅಡಿಗೆ
 ```
 stove, ಒಲೆ
 fork
@@ -150,7 +150,7 @@ tablet
 torch
 web-camara
 ```
-# animals (ಪ್ರಾಣಿಗಳು)
+# ಪ್ರಾಣಿಗಳು
 ```
 cat, ಬೆಕ್ಕು
 dog, ನಾಯಿ
@@ -207,7 +207,7 @@ garden-lizard, ಓತಿಕ್ಯಾತ
 lizard, ಹಲ್ಲಿ
 rabbit, ಮೊಲ
 ```
-# birds (ಪಕ್ಷಿಗಳು)
+# ಪಕ್ಷಿಗಳು
 ```
 crow, ಕಾಗೆ
 dove, ಪಾರಿವಾಳ
@@ -227,12 +227,12 @@ kingfisher
 myna
 ostrich
 owl, ಗೂಬೆ
-rooster
+rooster, ಹುಂಜ
 vulture, ವಲ್ಚರ್
 woodpecker, ಮರಕುಟಿಗ
 hornbill
 ```
-# bodyParts
+# ದೇಹದ ಭಾಗಗಳು
 ```
 ear, ಕಿವಿ
 eye,  ಕಣ್ಣು
