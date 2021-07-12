@@ -118,9 +118,9 @@ watch
 eraser
 pen
 pencil
-ruler
-schoolbag
-scissors
+ruler, ತಕ್ಕಡಿ
+schoolbag, ಶಾಲಾ ಚೀಲ
+scissors, ಕತ್ತರಿ
 sharpener
 waterbottle
 calculator
@@ -130,13 +130,13 @@ crayons
 ```
 # kitchen
 ```
-stove
+stove, ಒಲೆ
 fork
-knife
+knife, ಚಾಕು
 pan
-spoon
-pot
-butter
+spoon, ಚಮಚ
+pot, ಮಡಕೆ
+butter, ಬೆಣ್ಣೆ
 ```
 # gadgets
 ```
@@ -154,58 +154,58 @@ web-camara
 ```
 cat, ಬೆಕ್ಕು
 dog, ನಾಯಿ
-goat
-sheep
-horse
-pig
-elephant - ಆನೆ
-lion - ಸಿಂಹ
-monkey - ಕೋತಿ
-tiger - ಹುಲಿ
-hippo
-rhino - ಖಡ್ಗಮೃಗ
+goat, ಮೇಕೆ
+sheep, ಕುರಿ
+horse, ಕುದುರೆ
+pig, ಹಂದಿ
+elephant, ಆನೆ
+lion, ಸಿಂಹ
+monkey, ಕೋತಿ
+tiger, ಹುಲಿ
+hippo, ನೀರಾನೆ
+rhino, ಖಡ್ಗಮೃಗ
 ```
 ```
-fox
-crocodile - ಮೊಸಳೆ
-zebra
-bear - ಕರಡಿ
-camel - ಒಂಟೆ
-shark
-whale
+fox, ನರಿ
+crocodile, ಮೊಸಳೆ
+zebra, ಹೇಸರಗತ್ತೆ
+bear, ಕರಡಿ
+camel, ಒಂಟೆ
+shark, ಹುಲಿಮೀನು
+whale, ತಿಮಿಂಗಿಲ
 dolphin
 dragonfly
-fish
-frog
-crab - ಏಡಿ
+fish, ಮೀನು
+frog, ಕಪ್ಪೆ
+crab, ಏಡಿ
 ```
 ```
-snake
-squirrel
-tortoise
-rat
+snake, ಹಾವು
+squirrel, ಅಳಿಲು
+tortoise, ಆಮೆ
+rat, ಹೆಗ್ಗಣ
 winged-termites
-ant
+ant, ಇರುವೆ
 fly
-bat
-buffalo
-butterfly
+bat, ಬಾವುಲಿ
+buffalo, ಎಮ್ಮೆ
+butterfly, ಚಿಟ್ಟೆ
 cheetah
-cow
+cow, ಹಸು
 ```
 ```
-donkey
-giraffe
+donkey, ಕತ್ತೆ
+giraffe, ಜಿರಾಫೆ
 kangaroo
-leopard
-mongoose
-mosquito
+leopard, ಚಿರತೆ
+mongoose, ಮುಂಗುಸಿ
+mosquito, ಸೊಳ್ಳೆ
 octopus
-wolf
-cockroach
-garden-lizard
-lizard
-rabbit
+wolf, ತೋಳ
+cockroach, ಜಿರಳೆ
+garden-lizard, ಓತಿಕ್ಯಾತ
+lizard, ಹಲ್ಲಿ
+rabbit, ಮೊಲ
 ```
 # birds (ಪಕ್ಷಿಗಳು)
 ```
