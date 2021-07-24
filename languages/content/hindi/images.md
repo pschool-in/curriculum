@@ -34,7 +34,7 @@ snake, सर्प
 squirrel, गिलहरी
 tortoise, कछुआ
 rat, चूहा
-winged-termites, 
+winged-termites, पंखों वाला दीमक
 ant, दुनिया
 ```
 ```
@@ -55,7 +55,7 @@ mosquito, मच्छर
 octopus, 
 wolf, भेड़िया
 cockroach, तिलचट्टा
-garden-lizard
+garden-lizard, बिछकपडा 
 lizard, छिपकली
 rabbit, खरगोश
 ```
@@ -73,8 +73,8 @@ chick, चूजा
 crane, सारस
 ```
 ```
-eagle
-flamingo
+eagle, गिद्ध
+flamingo, राज-हंस
 kingfisher, राम चिरैया
 myna, मैना
 ostrich, शुतरमुर्ग
@@ -93,7 +93,7 @@ grapes, अंगूर
 banana, केला
 cherry
 avocado
-strawberry
+strawberry, झरबेर
 guava, अमरूद
 jackfruit, कटहल
 mango, आम
@@ -158,11 +158,11 @@ marigold, गेंदा
 hibiscus, हिबिस्कुस
 jasmine, चमेली
 tulip, 
-zinnia, 
+zinnia, ज़िन्निया
 ```
 # vehicles (वाहनों)
 ```
-aeroplane, विमान
+aeroplane, हवाई जहाज
 boat, नाव
 bus
 car, गाड़ी
@@ -198,7 +198,7 @@ woman, स्री
 ball, गेंद
 coat
 glasses, ऐनक
-clock, घड़ी
+clock, दीवार घड़ी
 watch, घड़ी
 ```
 # school
@@ -207,10 +207,10 @@ eraser, रबड़
 pen, कलम
 pencil, 
 ruler, मापन
-schoolbag
+schoolbag, बस्ता 
 scissors, कैंची
 sharpener, पेंसिल ताराश 
-waterbottle
+waterbottle, पानी की बोतल 
 calculator
 book, किताब
 color-pencils
@@ -258,7 +258,7 @@ Axe, कुल्हाडी
 balance, तराज़ू
 Black board, श्यामपट 
 hose, नली
-microscope, 
+microscope, सूछ्म दर्शी
 Needle, सुई
 Oven, तन्दूर
 plough, हल 
