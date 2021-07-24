@@ -1,4 +1,92 @@
+https://pschpsch.netlify.app/author/images
+
+# animals (जानवरों)
+```
+cat, बिल्ली
+dog, कुत्ता
+goat, बकरी
+sheep, भेड्
+horse, घोडा
+pig, सुअर
+elephant, हाथी
+lion, शेर
+monkey, बंदर
+tiger, बाघ
+```
+```
+hippo, दरियाई घोड़ा
+rhino, गैंडा
+fox, लोमड़ी
+crocodile, मगरमच्छ
+zebra, धारीदार घोडा
+bear, भालू
+camel, ऊंट
+shark, हाँगर
+whale, तिमिंगल
+dolphin, 
+```
+```
+dragonfly, 
+fish, मछली
+frog, मेंडक
+crab, केकड़ा
+snake, सर्प
+squirrel, गिलहरी
+tortoise, कछुआ
+rat, चूहा
+winged-termites, 
+ant, दुनिया
+```
+```
+fly,मक्खी
+bat, चमगादड़
+buffalo, भेंस
+butterfly, तितली
+cheetah, 
+cow, गाय
+donkey, गधा
+giraffe, 
+kangaroo, कंगारू
+leopard, तेंदुआ
+```
+```
+mongoose, नेवला
+mosquito, मच्छर
+octopus, 
+wolf, भेड़िया
+cockroach, तिलचट्टा
+garden-lizard
+lizard, छिपकली
+rabbit, खरगोश
+```
+# birds (चिड़िया)
+```
+crow, कौवा
+dove, कबूतर
+duck, बतख़
+hen, मुर्गी
+parrot, तोता
+peacock, मोर
+penguin,
+sparrow, गौरेया
+chick, चूजा
+crane, सारस
+```
+```
+eagle
+flamingo
+kingfisher, राम चिरैया
+myna, मैना
+ostrich, शुतरमुर्ग
+owl, उल्लू
+rooster, मुर्गा
+vulture, गिद्ध
+woodpecker, कठफोड़वा
+hornbill
+```
+
 # fruits (फल)
+
 ```
 apple, सेब
 grapes, अंगूर
@@ -11,6 +99,7 @@ jackfruit, कटहल
 mango, आम
 orange, संतरा 
 ```
+
 ```
 papaya, पपीता
 pineapple, अनानास
@@ -137,6 +226,32 @@ spoon, चमचा
 pot, मटका
 butter, मक्खन
 ```
+
+# gadgets
+```
+camera
+headphone
+pendrive
+remote
+smartphone
+speaker
+tablet
+torch, मशाल
+web-camara
+```
+
+# bodyParts
+```
+ear, कान
+eye, आंख
+foot, टांग
+hair, केश
+hand,  हाथ
+mouth, मुंह
+nose, नाक
+tooth, दांत
+```
+
 # Tools
 ```
 Axe, कुल्हाडी
@@ -160,113 +275,7 @@ easel, चित्रफलक
 hacksaw, लोहा-आरी
 scalpel, छुरी
 ```
-# gadgets
-```
-camera
-headphone
-pendrive
-remote
-smartphone
-speaker
-tablet
-torch, मशाल
-web-camara
-```
-# animals (जानवरों)
-```
-cat, बिल्ली
-dog, कुत्ता
-goat, बकरी
-sheep, भेड्
-horse, घोडा
-pig, सुअर
-elephant, हाथी
-lion, शेर
-monkey, बंदर
-tiger, बाघ
-```
-```
-hippo, दरियाई घोड़ा
-rhino, गैंडा
-fox, लोमड़ी
-crocodile, मगरमच्छ
-zebra, धारीदार घोडा
-bear, भालू
-camel, ऊंट
-shark, हाँगर
-whale, तिमिंगल
-dolphin, 
-```
-```
-dragonfly, 
-fish, मछली
-frog, मेंडक
-crab, केकड़ा
-snake, सर्प
-squirrel, गिलहरी
-tortoise, कछुआ
-rat, चूहा
-winged-termites, 
-ant, दुनिया
-```
-```
-fly,मक्खी
-bat, चमगादड़
-buffalo, भेंस
-butterfly, तितली
-cheetah, 
-cow, गाय
-donkey, गधा
-giraffe, 
-kangaroo, कंगारू
-leopard, तेंदुआ
-```
-```
-mongoose, नेवला
-mosquito, मच्छर
-octopus, 
-wolf, भेड़िया
-cockroach, तिलचट्टा
-garden-lizard
-lizard, छिपकली
-rabbit, खरगोश
-```
-# birds (चिड़िया)
-```
-crow, कौवा
-dove, कबूतर
-duck, बतख़
-hen, मुर्गी
-parrot, तोता
-peacock, मोर
-penguin,
-sparrow, गौरेया
-chick, चूजा
-crane, सारस
-```
-```
-eagle
-flamingo
-kingfisher, राम चिरैया
-myna, मैना
-ostrich, शुतरमुर्ग
-owl, उल्लू
-rooster, मुर्गा
-vulture, गिद्ध
-woodpecker, कठफोड़वा
-hornbill
-```
-# bodyParts
-```
-ear, कान
-eye, आंख
-foot, टांग
-hair, केश
-hand,  हाथ
-mouth, मुंह
-nose, नाक
-tooth, दांत
-```
+
 # others
 ```
 sun, रवि
