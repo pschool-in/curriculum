@@ -1,16 +1,105 @@
+https://pschpsch.netlify.app/author/images
+
+# animals (जानवरों)
+```
+cat, बिल्ली
+dog, कुत्ता
+goat, बकरी
+sheep, भेड्
+horse, घोडा
+pig, सुअर
+elephant, हाथी
+lion, शेर
+monkey, बंदर
+tiger, बाघ
+```
+```
+hippo, दरियाई घोड़ा
+rhino, गैंडा
+fox, लोमड़ी
+crocodile, मगरमच्छ
+zebra, धारीदार घोडा
+bear, भालू
+camel, ऊंट
+shark, हाँगर
+whale, तिमिंगल
+dolphin, 
+```
+```
+dragonfly, 
+fish, मछली
+frog, मेंडक
+crab, केकड़ा
+snake, सर्प
+squirrel, गिलहरी
+tortoise, कछुआ
+rat, चूहा
+winged-termites, पंखों वाला दीमक
+ant, दुनिया
+```
+```
+fly,मक्खी
+bat, चमगादड़
+buffalo, भेंस
+butterfly, तितली
+cheetah, 
+cow, गाय
+donkey, गधा
+giraffe, 
+kangaroo, कंगारू
+leopard, तेंदुआ
+```
+```
+mongoose, नेवला
+mosquito, मच्छर
+octopus, 
+wolf, भेड़िया
+cockroach, तिलचट्टा
+garden-lizard, बिछकपडा 
+lizard, छिपकली
+rabbit, खरगोश
+```
+# birds (चिड़िया)
+```
+crow, कौवा
+dove, कबूतर
+duck, बतख़
+hen, मुर्गी
+parrot, तोता
+peacock, मोर
+penguin,
+sparrow, गौरेया
+chick, चूजा
+crane, सारस
+```
+```
+eagle, गिद्ध
+flamingo, राज-हंस
+kingfisher, राम चिरैया
+myna, मैना
+ostrich, शुतरमुर्ग
+owl, उल्लू
+rooster, मुर्गा
+vulture, गिद्ध
+woodpecker, कठफोड़वा
+hornbill
+```
+
 # fruits (फल)
+
 ```
 apple, सेब
 grapes, अंगूर
 banana, केला
 cherry
 avocado
-strawberry
+strawberry, झरबेर
 guava, अमरूद
 jackfruit, कटहल
 mango, आम
 orange, संतरा 
 ```
+
 ```
 papaya, पपीता
 pineapple, अनानास
@@ -69,11 +158,11 @@ marigold, गेंदा
 hibiscus, हिबिस्कुस
 jasmine, चमेली
 tulip, 
-zinnia, 
+zinnia, ज़िन्निया
 ```
 # vehicles (वाहनों)
 ```
-aeroplane, विमान
+aeroplane, हवाई जहाज
 boat, नाव
 bus
 car, गाड़ी
@@ -101,27 +190,27 @@ bed, बिस्तर
 candle, मोमबत्ती
 chair, कुर्सी
 shelf, अलमारी
-baby
-boy
-girl
-man
-woman
-ball
+baby, बच्चा
+boy, लड़का
+girl, लड़की
+man, आदमी
+woman, स्री
+ball, गेंद
 coat
-glasses
-clock, घड़ी
-watch
+glasses, ऐनक
+clock, दीवार घड़ी
+watch, घड़ी
 ```
 # school
 ```
 eraser, रबड़
 pen, कलम
-pencil
+pencil, 
 ruler, मापन
-schoolbag
+schoolbag, बस्ता 
 scissors, कैंची
 sharpener, पेंसिल ताराश 
-waterbottle
+waterbottle, पानी की बोतल 
 calculator
 book, किताब
 color-pencils
@@ -135,32 +224,9 @@ knife, छुरी
 pan, तवा
 spoon, चमचा
 pot, मटका
-butter
+butter, मक्खन
 ```
-# Tools
-```
-Axe, कुल्हाडी
-balance, तराज़ू
-Black board, श्यामपट 
-hose, 
-microscope, 
-Needle, सुई
-Oven, तन्दूर
-Plough, हल
-plough, 
-Saw, आरी
-Spade, कुदाली
-Stethescope,
-telescope, 
-thermometer, 
-trowel, करनी
-walkie-talkie, 
-awl, टेकु आ 
-Compass, कुतुबनुमा
-easel, 
-hacksaw, 
-scalpel, 
-```
+
 # gadgets
 ```
 camera
@@ -170,93 +236,10 @@ remote
 smartphone
 speaker
 tablet
-torch
+torch, मशाल
 web-camara
 ```
-# animals (जानवरों)
-```
-cat, बिल्ली
-dog, कुत्ता
-goat, बकरी
-sheep, भेड्
-horse, घोडा
-pig, सुअर
-elephant, हाथी
-lion, शेर
-monkey, बंदर
-tiger, बाघ
-```
-```
-hippo, दरियाई घोड़ा
-rhino, गैंडा
-fox, लोमड़ी
-crocodile, मगरमच्छ
-zebra, धारीदार घोडा
-bear, भालू
-camel, ऊंट
-shark, हाँगर
-whale, तिमिंगल
-dolphin, 
-```
-```
-dragonfly, 
-fish, मछली
-frog, मेंडक
-crab, केकड़ा
-snake, सर्प
-squirrel, गिलहरी
-tortoise, कछुआ
-rat, चूहा
-winged-termites, 
-ant, दुनिया
-```
-```
-fly,मक्खी
-bat, चमगादड़
-buffalo, भेंस
-butterfly, तितली
-cheetah, 
-cow, गाय
-donkey, गधा
-giraffe, 
-kangaroo, कंगारू
-leopard, तेंदुआ
-```
-```
-mongoose, नेवला
-mosquito, मच्छर
-octopus, 
-wolf, भेड़िया
-cockroach, तिलचट्टा
-garden-lizard
-lizard, छिपकली
-rabbit, खरगोश
-```
-# birds (चिड़िया)
-```
-crow, कौवा
-dove, कबूतर
-duck, बतख़
-hen, मुर्गी
-parrot, तोता
-peacock, मोर
-penguin,
-sparrow, गौरेया
-chick, चूजा
-crane, सारस
-```
-```
-eagle
-flamingo
-kingfisher, राम चिरैया
-myna, मैना
-ostrich, शुतरमुर्ग
-owl, उल्लू
-rooster, मुर्गा
-vulture, गिद्ध
-woodpecker, कठफोड़वा
-hornbill
-```
+
 # bodyParts
 ```
 ear, कान
@@ -268,6 +251,31 @@ mouth, मुंह
 nose, नाक
 tooth, दांत
 ```
+
+# Tools
+```
+Axe, कुल्हाडी
+balance, तराज़ू
+Black board, श्यामपट 
+hose, नली
+microscope, सूछ्म दर्शी
+Needle, सुई
+Oven, तन्दूर
+plough, हल 
+Saw, आरी
+Spade, कुदाली
+Stethescope,
+telescope, दूरबीन
+thermometer, 
+trowel, करनी
+walkie-talkie, 
+awl, टेकु आ 
+Compass, कुतुबनुमा
+easel, चित्रफलक
+hacksaw, लोहा-आरी
+scalpel, छुरी
+```
+
 # others
 ```
 sun, रवि
@@ -283,7 +291,7 @@ bell, घंटी
 ```
 ```
 bird, चिड़िया
-conch, शंख
+conch, शंख 
 drums
 five, पांच
 food, खाना
