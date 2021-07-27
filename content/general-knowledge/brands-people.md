@@ -41,6 +41,7 @@ Nokia - Fredrik Idestam and Leo Mechelin
 Sony - Masaru Ibuka
 ```
 
+```
 Starbucks - Jerry Baldwin
 Tata Group – Jamsetji Nusserwanji Tata
 The Coca-Cola Company – John Pemberton
