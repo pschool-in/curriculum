@@ -15,3 +15,42 @@ Infosys − Narayana Murthy
 Alibaba − Jack Ma
 General Electric − Thomas Alva Edison
 ```
+
+```
+Paytm - Vijay Sekhar Sharma
+Flipkart - Binny Bansal 
+OLA - Bhavish Agarwal
+BYJU'S - Byju Raveendran
+OYO Rooms - Ritesh Agarwal
+Adidas - Adolf "Adi"
+American Express - Henry Wells
+BMW - Franz Josef
+Cisco System - Len Bosack
+```
+
+```
+Dell - Michael Dell 
+FedEx - Frederick W. Smith
+Ford Motor Company - Henry Ford
+HP - Bill Hewlett and David Packard 
+IBM - Thomas J. Watson
+Intel Corporation - Gordon E. Moore
+McDonald’s - Richard and Maurice McDonald
+Nike - Bill Bowerman and Philip Knight
+Nokia - Fredrik Idestam and Leo Mechelin
+Sony - Masaru Ibuka
+```
+
+Starbucks - Jerry Baldwin
+Tata Group – Jamsetji Nusserwanji Tata
+The Coca-Cola Company – John Pemberton
+Walmart – Sam Walton
+Yahoo! – Jerry Yang 
+```
+
+
+
+
+
+
+
