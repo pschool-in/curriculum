@@ -19,7 +19,13 @@
   g. Small similar words (as fill in the blanks, for example বক , বই , কই ) - reference Bengali class 1 text book amar boi, page 13) - Need to explore simple words, it's very important to cover 2 letter simple words to provide a base for the kids, the book has lots of words, but we need to indertify what kind of activity we can do for the same)
   h. Buckeintg words in segments like animal / bird  ( could be a part of social) need to explore
 5. Grammar (ব্যাকরণ)
-  a. 
+  a. সমোচ্চারিত ভিন্নার্থক শব্দ
+  b. বচন
+  c. লিঙ্গ
+  d. পুরুষ
+  e. স্বরসন্ধি (adding of 2 words done) - Splitting is not done. Need to do
+  f. ব্যাঞ্জনসন্ধি (adding of 2 words done) - Spliting is not done. Need to do
+
   
   
   
