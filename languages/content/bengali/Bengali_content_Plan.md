@@ -21,7 +21,7 @@
 5. Grammar (ব্যাকরণ)
   a. Same sounding words (সমোচ্চারিত ভিন্নার্থক শব্দ)
   b. বচন (Singular / Prural)
-  c. লিঙ্গ (Gender)
+  c. লিঙ্গ (Gender) - Need to add one grouping activity
   d. পুরুষ (Person - 1st , 2nd , 3rd)
   e. স্বরসন্ধি (adding of 2 words done) - Splitting is not done. Need to do
   f. ব্যাঞ্জনসন্ধি (adding of 2 words done) - Spliting is not done. Need to do
