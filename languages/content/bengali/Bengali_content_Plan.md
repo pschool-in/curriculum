@@ -31,3 +31,17 @@
   
   ```
   
+  #  Sample Todo
+  
+  ```
+  1. Add 10 stories to playlist 'bn-stories-2'
+  2. Add 30 antonyms to playlist 'bn-words-2'
+  ```
+  
+  # Playlists
+  
+  ```
+  1. bn-words-2 : wordlist for grade 5
+  ```
+  
+  
