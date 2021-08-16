@@ -14,10 +14,11 @@
   9. Add 10 synonyms to playlist 'bn-words-2'
   10. Add 1 synonyms to playlist 'bn-words'
   11. Add 10 Compund letter (fill in the blanks with option) to 'bn-writing'
-  12. Add 10 spliting of compound word activity to 'bn-words'
-  13. Add 5 adding compound (vowel) words activity to 'bn-words'
-  14. Add 6 adding compound (consonant) words activity to 'bn-words'
+  12. Add 10 spliting of compound word activity to 'bn-grammar'
+  13. Add 5 adding compound (vowel) words activity to 'bn-grammar'
+  14. Add 6 adding compound (consonant) words activity to 'bn-grammar'
   15. add 5 season-month activity in 'bn-social'
+  16. add 10 activities in 'bn-grammar'
   
   
   still updating
