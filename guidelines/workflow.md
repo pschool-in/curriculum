@@ -1,7 +1,7 @@
 # Process
 
-There are many ways in which an error or mistake can crop up. Having a process
-and multiple review system only can ensure that our content are issue-free.
+There are many ways in which an error or mistake can happen. Having a process
+and multiple review system can ensure that our content are issue-free.
 
 # Workflow
 
