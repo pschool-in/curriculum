@@ -1,4 +1,4 @@
-# Instructions
+# General Instructions
 
 'Paying attention to details' is the success of any team.
 
