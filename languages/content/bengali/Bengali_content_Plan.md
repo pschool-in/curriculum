@@ -10,6 +10,11 @@
   5. Add 10 crosswords to the playlist 'bn-crossword'
   6. Add 5 wordsearch to playlist 'bn-wordsearch'
   7. Add 5 connect word activity to 'bn-words'
+  8. Add activity correct spelling to 'bn-words'
+  9. Add 10 synonyms to playlist 'bn-words-2'
+  10. Add 1 synonyms to playlist 'bn-words'
+  11. Add 10 Compund letter (fill in the blanks with option) to bn-writing
+  
   
   still updating
   ```
