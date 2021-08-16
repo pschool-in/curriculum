@@ -9,7 +9,7 @@
   4. Add 10 poems to playlist 'bn-poem-2'
   5. Add 10 crosswords to the playlist 'bn-crossword'
   6. Add 5 wordsearch to playlist 'bn-wordsearch'
-  7. Add 5 connect word activity to 'bn-words-2'
+  7. Add 5 connect word activity to 'bn-words'
   
   still updating
   ```
@@ -18,6 +18,8 @@
   
   ```
   1. bn-words-2 : wordlist for grade 5
+  2. bn-stories-2 : Relatively bigger stories for class 3-5
+  3. bn-poem-2 : Poems for class 4-5
   ```
   
   
