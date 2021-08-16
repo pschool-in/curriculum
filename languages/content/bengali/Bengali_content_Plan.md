@@ -1,6 +1,6 @@
-### Content Plan for Bengali
+# Content Plan for Bengali
   
-  #  Todo
+  ##  Todo
   
   ```
   1. Add 10 stories to playlist 'bn-stories-2'
@@ -14,7 +14,7 @@
   still updating
   ```
   
-  # Playlists
+  ## Playlists
   
   ```
   1. bn-words-2 : wordlist for grade 5
