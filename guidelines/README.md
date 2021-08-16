@@ -4,7 +4,8 @@ In PSchool, we keep the Development and Content team independent of each other.
 And we want to keep the content as open source.
 
 The below pages talks more about the product and process.
-
+- [Plain Text](rich-vs-plain-text.md)
+- [Templates](../templates.md)
 - [Workflow](workflow.md)
 - [Curriculum](curriculum.md)
 - [Playlist](playlist.md)
