@@ -20,6 +20,7 @@
   15. add 5 season-month activity in 'bn-social'
   16. add 10 activities in 'bn-grammar'
   17. Add 2 coonect sentence in 'bn-sentence' - done
+  18. Add 2 activity same meaning word in 'bn-sentence' - done
   
   still updating
   ```
