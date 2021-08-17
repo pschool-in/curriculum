@@ -3,7 +3,7 @@
   ##  Todo
   
   ```
-  1. Add 10 stories to playlist 'bn-stories-2'
+  1. Add 10 stories to playlist 'bn-reading-2'- DONE
   2. Add 10 antonyms to playlist 'bn-words-2'
   3. Add 10 picture based acitivity to the 'bn-picture-2'
   4. Add 10 poems to playlist 'bn-poem-2'
