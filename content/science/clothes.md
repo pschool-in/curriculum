@@ -23,7 +23,9 @@ In addition to this, we wear clothes of different designs, colors and tradition.
 ## Who wears what?
 
 Men: Dhoti, pyjama, lungi, trousers, mundase, pheta, pagdi etc.
+
 Women: Saris, salwar-suit, frocks, skirts, gowns, tops etc.
+
 Common: Shirts, pants, jeans, t-shirts, caps, hats etc.
 
 ## Who's uniforms are these?
