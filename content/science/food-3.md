@@ -112,3 +112,27 @@ A *balanced diet* is necessary for the proper growth and development of our body
 Sprouted seeds contain more *proteins*.
 *lunch* is the second meal of a day.
 ```
+
+
+## Fill in the Blanks (using options)
+
+```
+Food gives us *energy (force) * to work and play.
+There are *five (seven)* main nutrients.
+*Carbohydrates (Vitamins)* are energy giving food.
+Children like to eat *tasty (healthy)* food.
+Fish is rich in *protein (fat, vitamin)*.
+```
+
+## True or False
+
+```
+True:
+Nuts are rich in proteins.
+Food helps us to build our body and keeps us healthy.
+We feel hungry when our body needs food.
+
+False:
+We always eat cooked food.
+Vitamins and Proteins are energy giving food.
+```
