@@ -364,3 +364,130 @@ Egg type fowls are called broilers.
 Surti is a cow breed.
 Assel is a buffalo breed.
 ```
+
+Chapter - Green Environment
+
+## Reading
+
+### What are wastes?
+
+Nature provides us a lot of useful things.We use these natural resources and create more trash. The unwanted materials thrown away are called wastes. They can be solid, liquid and gas. They are produced from households, industries, hospitals etc., These unwanted materials pollute our environment.
+
+### Waste Management 
+
+It is the step we take to handle our waste and to make sure our environment does not get dirty and polluted. Waste management deals with both biodegradable and non-biodegradable waste.
+
+### Steps in waste management
+
+There are four main steps in waste management.
+These includes : 1. Separation of Waste
+ 2. Waste collection and transportation
+3. Waste recycling and composting 
+4. Waste disposal
+
+### What are the three R‛s in waste management
+
+The three R‛s stand for REDUCE, REUSE, RECYCLE. We must first reduce,
+then reuse and finally recycle.
+
+Reduce is to make or use less materials.
+Reuse is using a thing repeatedly for the same or for another purpose.
+Recycle is to take materials from things you throw away and make new products by using them. Recycling takes energy and time but saves the amount of ‘new‛ resources we need to make things.
+
+### Waste Separation
+
+Waste at home should be separated into biodegradable, recyclable
+and non-recyclable waste. Waste like left over food, vegetable waste which are broken down naturally should be collected in a separate litter box. Materials which cannot be decomposed should be placed in separate dustbin. Paper waste, glass waste and aluminium waste which can be recycled into new useful products should be kept in separate box.
+
+### Environment friendly materials
+
+Things that can be decomposed or broken down by microorganisms are
+biodegradable. They can return to the soil and enrich the soil. Materials which are beneficial to the environment and do not cause harm are called eco-friendly materials.
+
+## Group : Biodegradable vs Non biodegradable
+
+Classify the below items based on its degrading capacity.
+
+Biodegradable : Plants, Fruits, Flowers, Vegetables, Animals
+
+Non biodegradable: Glass, Metal, Electronic devices, Plastics, Batteries, Computer parts
+
+## Group : Blue waste vs Red waste
+
+Classify the below  items based on its recycling capacity.
+
+Blue waste: newspapers, magazines, glass, cardboard, food tins, tetra packs.
+
+Red waste: plastic wrap, bubble wrap, wax, used towels.
+
+## Match the following
+
+Match the foods with their major nutrients.
+
+```
+Plastic waste, Threat to environment
+Waste separation, Biodegradable, recyclable and non-recyclable
+Reduce, Reuse and Recycle, Three R‛s
+Stainless steel,Eco-friendly material
+
+```
+
+## Multiple Choice Questions
+
+```
+________ is used to make bags, dustbins and tooth brushes.
+Bamboo, cotton,jute
+
+Plastic plates stay in the environment for over _______ years.
+
+1000, 100, 2000
+
+Glass containers for food and beverages are ________ recyclable.
+
+100%, 90%, 80%
+
+Moving the waste from one place to another is called _________.
+
+Transportation, waste collection, land-filling
+
+```
+
+## Fill in the Blanks (By Drag Drop)
+
+Drag and drop the words at proper places.
+
+```
+Things that can be decomposed or broken down by microorganisms are
+*biodegradable*.
+Picking up the waste is called *Waste collection*.
+*Compost* makes the soil fertile.
+*Reduce* is to make or use less materials.
+*Reuse* is using a thing repeatedly for the same or for another purpose.
+```
+
+
+## Fill in the Blanks (using options)
+
+```
+*Recycle (reuse)* is to take materials from things you throw away and make new products by using them.
+*Conservation (preservation)* of environment means to protect all things found in nature.
+*Unwanted (wanted)* materials pollute our environment.
+*Reducing (reusing)* the waste is the first and most important step in waste management.
+The first‘R‛ in the three R‛s is *reduce (reuse)*.
+```
+
+## True or False
+
+```
+True:
+Green bin stands for biodegradable waste.
+Blue bins stands for recyclable waste.
+Red bin stands for non- recyclable waste.
+Picking up the waste is called Waste collection.
+
+False:
+Glass cannot be recycled.
+Metals are biodegradable.
+Plastics are not hazardous to animals.
+Food waste and plastics waste are collected together.
+```
