@@ -3,20 +3,20 @@
 ## Reading
 Why do we need houses?
 
-1. We live in houses to protect ourselves from very cold weather, gusty winds, scorching sun, heavy rains as they can cause us great discomfort .
+1. We live in houses to protect ourselves from very cold weather, gusty winds, scorching sun, heavy rains as they can cause us great discomfort.
 2. A house also protects us from thefts.
 3. It protects the people living close to the forests from wild animals.
 
 Do you know, like us animals also need shelters to protect themselves? 
-Some animals build shelter for themselves while others find them ready in the surroundings.
+Some animals build a shelter for themselves while others find them ready in the surroundings.
 
 ### Animals who build shelters for themselves
-Birds build nests as they are afraid of the animals that eat eggs. Nests protects the young birds as they are too weak to protect themselves.
-Nests are made up of grass, straw and twigs. They may even contain cotton, wool, and pieces of thread and string. 
+Birds build nests as they are afraid of the animals that eat eggs. Nests protect the young birds as they are too weak to protect themselves.
+Nests are made up of grass, straw, and twigs. They may even contain cotton, wool, and pieces of thread and string. 
 
 ### Animals that found ready shelters in the surroundings
 Some animals do not make any efforts to build a shelter. They simply look around for a safe place. Some live
-in small hollows in high cliffs or live near our houses. They find shelter in gaps in walls.
+in small hollows on high cliffs or live near our houses. They find shelter in gaps in walls.
 
 #### Fun Fact
 It is believed that a cobra lives in an anthill. But anthills are built by ants, not by a
@@ -26,7 +26,7 @@ cobra. The cobras live in holes.
 
 ## Group: Build shelter themselves Vs find ready shelters
 
-Classify the below animals based on building habit.
+Classify the below animals based on building habits.
 
 Build shelter themselves: Birds, Honey bees, Rats, Mice
 
@@ -53,12 +53,12 @@ Lion, Den
 ```
 ## Fill in the blanks (By Drag Drop)
 
-Drag and drops the words at right places:
+Drag and drops the words at the right places:
 
 ```
 Birds use *grass*, *straw*, *twigs* and even *cotton* and *wool*, to build their nests.
-Weaver bird uses *thorny* trees to build their nest.
-Tailor bird selects a plant with *big* leaves and builds its nest by *stiching* the leaves together.
+Weaverbird uses *thorny* trees to build their nest.
+Tailorbird selects a plant with *big* leaves and builds its nest by *stitching* the leaves together.
 Tigers and hyenas live in *caves*.
 *Bats* live in tall trees or look for shelter in old, deserted, tumble-down buildings.
 
@@ -79,8 +79,8 @@ A cobra lives in *hole (anthill)*.
 
 ```
 True:
-The young birds are too weak to defend themselves and nest keeps the young ones safe.
-Animals that eat eggs find it difficult to reach nest.
+The young birds are too weak to defend themselves and the nest keeps the young ones safe.
+Animals that eat eggs find it difficult to reach the nest.
 Rats and mice dig into the soil and make holes and burrows to live in.
 
 False:
@@ -95,8 +95,8 @@ Bats like to build their shelters in densely populated areas.
 ```
 Birds build their nests to ___________.
 Protect their eggs from other animals
-Protect young birds as they are too wak to defend themselves
-Have a safe place for laying thier eggs
+Protect young birds as they are too weak to defend themselves
+Have a safe place for laying their eggs
 * All
 
 Rats and Mice mostly build their shelters in ___________.
@@ -113,11 +113,11 @@ Cow
 
 Which of the following is not the use of a house?
 Store wild animals
-Protect from scorching sun
+Protect from the scorching sun
 Avoid heavy rains
 Be away from gusty winds
 
-Which of the following does not live in stable?
+Which of the following does not live in a stable?
 Cow
 Horse
 Donkey
@@ -130,19 +130,19 @@ Tiger
 # The Life Cycle of Animals (g4)
 
 ## Reading
-In animals, the babies either grow in their mother's tummy or hatch out of the eggs. Some animals like crows, spiders and lizards lay eggs. Unlike a chicken, their eggs are tiny. Some animals lay eggs that are too tiny to be observed with naked eyes.
+In animals, the babies either grow in their mother's tummy or hatch out of the eggs. Some animals like crows, spiders, and lizards lay eggs. Unlike a chicken, their eggs are tiny. Some animals lay eggs that are too tiny to be observed with naked eyes.
 
 ### Hen
-A hen lays eggs. The warmth which is provided by hen to her eggs, helps the chick inside the egg to grow. After the full growth, chicks breaks the egg shell and comes out.
+A hen lays eggs. The warmth which is provided by the hen to her eggs helps the chick inside the egg to grow. After the full growth, the chick breaks the eggshell and comes out.
 
 Unlike, a chick which does not look very different from a hen, in some animals, the young one grows into an adult animal that looks
 very different from the young one. This change of form is called metamorphosis.
 
 ### Butterfly
-A butterfly has to go through various stages of growth unlike other animals. These stages are egg, larva, pupa and adult.
-The adult stage is called butterfly. All the butterflies have to go through these four stages.
+A butterfly has to go through various stages of growth, unlike other animals. These stages are egg, larva, pupa, and adult.
+The adult stage is called the butterfly. All the butterflies have to go through these four stages.
 
-## Group: Egg laying Vs Non-egg laying
+## Group: Egg-laying Vs Non-egg laying
 
 Classify the below animals on the basis of whether they lay eggs or not.
 
@@ -190,7 +190,7 @@ The process of the change of form is known as ___________.
 Metamorphosis
 Photosynthesis
 Metagenesis
-Crystallisation
+Crystallization
 
 The larva of a butterfly is called?
 Caterpillar
@@ -205,10 +205,10 @@ Stalk
 Drag and drop the words at proper places.
 
 ```
-The four stages of butterfly growth are egg, larva, *pupa* and adult.
+The four stages of butterfly growth are egg, larva, *pupa*, and adult.
 In some animals, the young ones look very different from the adult form, this change in the form is called *metamorphosis*.
-Animals like *ants*, snakes, frogs and crow lay eggs.
-There are many *differences* between the catterpillar and butterfly.
+Animals like *ants*, snakes, frogs, and crow lay eggs.
+There are many *differences* between the caterpillar and butterfly.
 A butterfly lays eggs on the *leaves* of a plant.
 *Moult* means to shed old skin to make way for new growth.
 
@@ -221,7 +221,7 @@ All the butterflies have to undergo *four (five)* stages of growth.
 It takes * Six to eight weeks (nine to twelve)* for the larva to emerge from the egg.
 When the caterpillar comes out of the egg it *is (is not)* very hungry.
 A Spider lays *tiny (big)* eggs.
-A butterfly during its growth remains in caterpillar stage for *ten to twelve days (two to three days)*.
+A butterfly during its growth remains in the caterpillar stage for *ten to twelve days (two to three days)*.
 
 ```
 
@@ -232,9 +232,11 @@ A butterfly during its growth remains in caterpillar stage for *ten to twelve da
 True:
 The pupa of a butterfly is also called a chrysalis.
 A butterfly has four attractive wings and six long legs.
-Different types of caterpillars are of different colours.
+Different types of caterpillars are of different colors.
 
 False:
-For each type of butterfly, the type of plants on whose leaves its female will lay eggs is not fixed.
+For each type of butterfly, the type of plant on whose leaves its female will lay eggs is not fixed.
 In three to four days, the larva emerges from the egg.
 ```
+
+
