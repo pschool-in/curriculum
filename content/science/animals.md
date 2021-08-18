@@ -147,6 +147,7 @@ The adult stage is called butterfly. All the butterflies have to go through thes
 Classify the below animals on the basis of whether they lay eggs or not.
 
 Lay eggs: Hen, Spider, Frog, Snake, Crow
+
 Don't lay eggs: Cat, Dog, Horse, Cow, Donkey
 
 ## Match the following:
