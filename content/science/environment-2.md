@@ -2,7 +2,7 @@
 
 ## Reading
 
-###What is an environment?
+### What is an environment?
 
 Our surroundings and all the living and non living things are together known as the environment. It includes
 many components such as sunlight, air,
