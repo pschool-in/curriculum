@@ -109,3 +109,36 @@ Sheep, wool, sweater
 Cotton, cotton yarn, cloth
 
 Jute, fibres, sac
+
+# CLOTHING- OUR NECESSITY (g5)
+
+## Want vs Need
+
+We ‘Need’ clothes to cover and protect our body from dust and infection. But desire to have some clothes just because they look attractive is called ‘Want’. Want is something we can live without because it’s not a necessity. On the other hand, fulfilment of the need is important for our living.
+
+## Fun fact!
+
+Sarees from some states of India have special significance and great popularity among women. Those sarees are Lucknow chikan, Kashmir silk, Banarasi silk, Kadiyal, Pitambari, Pochampalli, Narayanpet, Kanjivaram, Patola and Mysore silk.
+
+## How clothes reach you? (sort/ arrange)
+
+1.	Yarns are manufactured.
+2.	Yarns are intertwined into fabrics.
+3.	These fabrics are converted into different clothing like shirts, jeans, sarees, skirts etc.
+4.	These clothes are sold to shopkeepers.
+5.	You buy clothes from a shop.
+6.	You wear your new clothes!
+
+## Find the winter clothing. (crossword)
+
+Sweater, gloves, socks, muffler, coat, warmer, blanket, quilt.
+
+## Guess the speciality of these sities. (fill by drop)
+
+Paithan and Yeolla, *Paithani*
+
+Aurangabad, *Himroo shawls*
+
+Solapur, *Bedsheets*
+
+Ichalkaranji, *Handloom*
