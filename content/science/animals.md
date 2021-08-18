@@ -1,4 +1,4 @@
-# Animal Shelters
+# Animal Shelters (g3)
 
 ## Reading
 Why do we need houses?
@@ -24,7 +24,7 @@ cobra. The cobras live in holes.
 
 
 
-# Group: Build shelter themselves Vs find ready shelters
+## Group: Build shelter themselves Vs find ready shelters
 
 Classify the below animals based on building habit.
 
@@ -32,7 +32,7 @@ Build shelter themselves: Birds, Honey bees, Rats, Mice
 
 Find ready shelters: Doves, Tiger, Bats, Cobra
 
-# Group: Domestic Animals Vs Wild Animals
+## Group: Domestic Animals Vs Wild Animals
 
 Classify the below animals on the basis of their domestic nature.
 
@@ -127,6 +127,113 @@ Tiger
 
 
 
+# The Life Cycle of Animals (g4)
+
+## Reading
+In animals, the babies either grow in their mother's tummy or hatch out of the eggs. Some animals like crows, spiders and lizards lay eggs. Unlike a chicken, their eggs are tiny. Some animals lay eggs that are too tiny to be observed with naked eyes.
+
+### Hen
+A hen lays eggs. The warmth which is provided by hen to her eggs, helps the chick inside the egg to grow. After the full growth, chicks breaks the egg shell and comes out.
+
+Unlike, a chick which does not look very different from a hen, in some animals, the young one grows into an adult animal that looks
+very different from the young one. This change of form is called metamorphosis.
+
+### Butterfly
+A butterfly has to go through various stages of growth unlike other animals. These stages are egg, larva, pupa and adult.
+The adult stage is called butterfly. All the butterflies have to go through these four stages.
+
+## Group: Egg laying Vs Non-egg laying
+
+Classify the below animals on the basis of whether they lay eggs or not.
+
+Lay eggs: Hen, Spider, Frog, Snake, Crow
+Don't lay eggs: Cat, Dog, Horse, Cow, Donkey
+
+## Match the following:
+
+Match the animals with their babies.
+
+```
+Cat, Kitten
+Dog, Puppy
+Butterfly, Caterpillar
+Goat, Lamb
+Lion, Cub
+Horse, Foal
+
+```
+
+## Multiple Choice Questions
+
+```
+Which one of the following is not the stage of butterfly growth?
+None of the above
+Egg
+Larva
+Pupa
+Adult
+
+Where does Plain Tiger Butterfly lay her egg?
+Milkweed (Rui) leaf
+Mulberry leaf
+Mango leaf
+Maple leaf
+
+What is the pupa of a butterfly called?
+Chrysalis
+Shell
+Budding
+Larva
+
+The process of the change of form is known as ___________.
+Metamorphosis
+Photosynthesis
+Metagenesis
+Crystallisation
+
+The larva of a butterfly is called?
+Caterpillar
+Pupa
+Worm
+Stalk
+
+```
+
+## Fill in the Blanks (By Drag Drop)
+
+Drag and drop the words at proper places.
+
+```
+The four stages of butterfly growth are egg, larva, *pupa* and adult.
+In some animals, the young ones look very different from the adult form, this change in the form is called *metamorphosis*.
+Animals like *ants*, snakes, frogs and crow lay eggs.
+There are many *differences* between the catterpillar and butterfly.
+A butterfly lays eggs on the *leaves* of a plant.
+*Moult* means to shed old skin to make way for new growth.
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+All the butterflies have to undergo *four (five)* stages of growth.
+It takes * Six to eight weeks (nine to twelve)* for the larva to emerge from the egg.
+When the caterpillar comes out of the egg it *is (is not)* very hungry.
+A Spider lays *tiny (big)* eggs.
+A butterfly during its growth remains in caterpillar stage for *ten to twelve days (two to three days)*.
+
+```
 
 
+## True or False
 
+```
+True:
+The pupa of a butterfly is also called a chrysalis.
+A butterfly has four attractive wings and six long legs.
+Different types of caterpillars are of different colours.
+
+False:
+For each type of butterfly, the type of plants on whose leaves its female will lay eggs is not fixed.
+In three to four days, the larva emerges from the egg.
+```
