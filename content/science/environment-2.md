@@ -1,4 +1,4 @@
-Chapters - The Earth and its living world, Environmental balance
+Chapters -  maha g5: The Earth and its Living World, maha g5: Environmental Balance
 # Environment-2
 
 ## Reading
@@ -180,7 +180,7 @@ In the lower part of the ionosphere, there is a layer of a gas called ozone.
 One-third of the earth’s surface is covered with water.
 ```
 
-Chapter - Our Environment
+Chapter - tn-5-3-science: Our Environment
 ## Reading
 
 ### Types of Environment
@@ -365,7 +365,7 @@ Surti is a cow breed.
 Assel is a buffalo breed.
 ```
 
-Chapter - Green Environment
+Chapter - tn-4-3-science: Green Environment
 
 ## Reading
 
