@@ -25,7 +25,7 @@ In addition to this, we wear clothes of different designs, colors and tradition.
 
 ## Activities
 
-### Who wears what? (drag and drop)
+### Who wears what? (classify sentence-template)
 
 Men: Dhoti, pyjama, lungi, trousers, mundase, pheta, pagdi etc.
 
@@ -41,19 +41,19 @@ Pictures of a soldier, policeman, nurse, doctor, fireman, traffic police, studen
 
 Summer: Skirts, shorts, cotton clothes, kurtas.
 
-Rainy: Raincoats, umbrellas.
-
 Winter: Coats, sweaters, mufflers, gloves, socks.
 
 ### Fun fact!
 
 Uniforms of soldiers are called ‘camouflage’ because it matches with their environment so that the enemies could not spot them easily.
 
-#### Guess what would they wear in the following surroundings: (drag and drop)
+#### Guess what would they wear in the following surroundings: (fill up by drag)
 
-1.	Jungles- green clothes
-2.	Desserts- khaki clothes
-3.	Snowy areas- white clothes
+Soldiers wear *Khaki* clothes in deserts.
+
+Soldiers wear *Green* clothes in jungles.
+
+Soldiers wear *White* clothes in The Himalayas.
 
 # Chapter - maha g4: Clothes
 
@@ -86,7 +86,7 @@ Eg- paper plates, false flowers, models etc.
 4.	*Raincoats* protect us from rain.
 5.	*Scarfs* protect our skin from the sun and *Mufflers* protect our ears and neck from cold.
 
-### What are the sources of these clothes? (drop by drag) 
+### What are the sources of these clothes? (classify template) 
 
 Animal: wool, silk.
 
@@ -112,11 +112,17 @@ Liquid handwashes are used to clean clothes.
 
 ### Match the following:
 
-Sheep, wool, sweater
+Sheep, wool
 
-Cotton, cotton yarn, cloth
+Sweater, winter
 
-Jute, fibres, sac
+Cotton, cotton yarn
+
+Jute, fibres
+
+Cap, summer
+
+Raincoat, winter
 
 # Chapter - maha g5: Clothes - our Necessity
 
@@ -137,7 +143,7 @@ Sarees from some states of India have special significance and great popularity 
 1.	Yarns are manufactured.
 2.	Yarns are intertwined into fabrics.
 3.	These fabrics are converted into different clothing like shirts, jeans, sarees, skirts etc.
-4.	These clothes are sold to shopkeepers.
+4.	Clothes are sold to shopkeepers.
 5.	You buy clothes from a shop.
 6.	You wear your new clothes!
 
@@ -145,12 +151,12 @@ Sarees from some states of India have special significance and great popularity 
 
 Sweater, gloves, socks, muffler, coat, warmer, blanket, quilt.
 
-### Guess the speciality of these sities. (fill by drop)
+### Guess the speciality of these cities. (fill by drop)
 
-Paithan and Yeolla, *Paithani*
+Paithan and Yeolla are famous for *Paithani*
 
-Aurangabad, *Himroo shawls*
+Aurangabad is famous for *Himroo shawls*
 
-Solapur, *Bedsheets*
+Solapur is known for *Bedsheets*
 
-Ichalkaranji, *Handloom*
+Ichalkaranji is well known for *Handloom*
