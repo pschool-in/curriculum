@@ -45,6 +45,17 @@ Sun rises from *east* and sets in *west* direction.
 
 ```
 
+## Match the following
+
+```
+Direction opposite to north, south
+Direction opposite to west, east
+Maps show, continents and countries
+Brihanmumbai, Mumbai city district
+List of symbols and other information, Index
+
+```
+
 ## Multiple Choice Questions
 
 ```
