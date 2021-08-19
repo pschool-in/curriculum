@@ -25,3 +25,50 @@ The remaining part of the dead animals will start to decay in the soil. After so
 Moreover, this will make the soil fertile. As a result, plants and trees will get good nourishment from the fertile soil. 
 Thus, all living things and non-living things are depending upon each other. Sometimes humans are making harm to the environment by pollution. 
 So we should not harm things to the environment.
+
+## Group :  Living thing Vs. Non-living thing
+
+Classify the below things based on the category of living and non-living thing
+
+Living thing: Mango tree, squirrel, fox, Lotus, 
+
+Non-living thing: Stone, Water, Wooden chair, Bread
+
+## Match the following
+
+```
+Birds, nest
+Silk, Clothes
+Wooden chair, Tree
+Soil fertile, decay of dead animals and plants
+Pollution, Environment
+```
+
+## Multiple Choice Questions
+
+```
+Animals can able to __________
+Eat food
+Move one place to another
+Reproduce the little ones
+*All the above
+
+Houses are built using ____________
+Bricks and cement
+Steel and glasses
+Wood
+*All the above
+
+Environment has _______ and ________
+Living things and non-living things
+Only Animals and plants
+Only human beings and air
+Only Water and land
+
+Human used to make many things like _____, ______ from the environment.
+Paper, baskets
+Water, soil
+Stone, plants
+Mountain, land
+
+
