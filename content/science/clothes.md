@@ -1,7 +1,8 @@
-Chapter - maha g3: Our Clothes
-# OUR CLOTHES (g3)
+# Chapter - maha g3: Our Clothes
 
-## Why do we need clothes?
+## Reading 
+
+### Why do we need clothes?
 
 a. To cover our body.
 
@@ -15,14 +16,16 @@ e. To look presentable.
 
 ...what else can you think of?
     
-## How do we know what to wear?
+### How do we know what to wear?
 
 There are three main seasons, namely, The Summer, The Winter and The Rainy Season. These seasons last for almost 4 months and after the completion of one cycle, they continue to follow each other. That’s why it’s called “cycle of seasons”.
 So, we can say that what we wear depends on the cycle of seasons.
 
 In addition to this, we wear clothes of different designs, colors and tradition. So we can say that clothing style also depends on occupation, taste and occasion. 
 
-## Who wears what? (drag and drop)
+## Activities
+
+### Who wears what? (drag and drop)
 
 Men: Dhoti, pyjama, lungi, trousers, mundase, pheta, pagdi etc.
 
@@ -30,11 +33,11 @@ Women: Saris, salwar-suit, frocks, skirts, gowns, tops etc.
 
 Common: Shirts, pants, jeans, t-shirts, caps, hats etc.
 
-## Who's uniforms are these?
+### Who's uniforms are these? (displaying pictures)
 
 Pictures of a soldier, policeman, nurse, doctor, fireman, traffic police, student.
 
-## Which clothes are suitable for which season? (drag and drop)
+### Which clothes are suitable for which season? (drag and drop)
 
 Summer: Skirts, shorts, cotton clothes, kurtas.
 
@@ -42,24 +45,25 @@ Rainy: Raincoats, umbrellas.
 
 Winter: Coats, sweaters, mufflers, gloves, socks.
 
-## Fun fact!
+### Fun fact!
 
 Uniforms of soldiers are called ‘camouflage’ because it matches with their environment so that the enemies could not spot them easily.
 
-### Guess what would they wear in the following surroundings: (drag and drop)
+#### Guess what would they wear in the following surroundings: (drag and drop)
 
 1.	Jungles- green clothes
 2.	Desserts- khaki clothes
 3.	Snowy areas- white clothes
 
-Chapter - maha g4: Clothes
-# CLOTHES (g4)
+# Chapter - maha g4: Clothes
 
-## How clothes are made?
+## Reading
+
+### How clothes are made?
 
 In the past, a spinning wheel was used to make yarn from cotton; and then, these yarns were used to make fabrics and clothes. In the modern times, yarn is made through machinery; although the procedure is same.
 
-## What to do with old clothes?
+### What to do with old clothes?
 
 1.	If they’re in a good condition, donate them to needy people.
 2.	They can be reused for making new clothes.
@@ -67,12 +71,14 @@ In the past, a spinning wheel was used to make yarn from cotton; and then, these
 4.	Some clothes can also be reused into paper making.
 Eg- paper plates, false flowers, models etc.
 
-## Fun fact!
+### Fun fact!
 
 1.	Mahatma Gandhi, during the struggle for independence, promoted the use of ‘Swasdeshi’ goods by making khadi yarn on his charakha. This led to formation of ‘Charakha Mandals’ throughout the nation.
 2.	In case of unavailability of detergent, one can also use soap nuts, washing soda, ritha, hinganbet and limestone. All these are natural substances.
 
-## Test your knowledge: (fill by dragging)
+## Activities
+
+### Test your knowledge: (fill by dragging)
 
 1.	Gandhiji always wore clothes made of *khadi* yarn.
 2.	It is unsafe to wear *nylon* clothes while cooking or burning crackers.
@@ -80,7 +86,7 @@ Eg- paper plates, false flowers, models etc.
 4.	*Raincoats* protect us from rain.
 5.	*Scarfs* protect our skin from the sun and *Mufflers* protect our ears and neck from cold.
 
-## What are the sources of these clothes? (drop by drag) 
+### What are the sources of these clothes? (drop by drag) 
 
 Animal: wool, silk.
 
@@ -88,7 +94,7 @@ Plant: cotton, jute.
 
 Synthetic: nylon, rayon.
 
-## True or False?
+### True or False?
 
 True:
 
@@ -104,7 +110,7 @@ A person can wear same clothes forever.
 
 Liquid handwashes are used to clean clothes.
 
-## Match the following:
+### Match the following:
 
 Sheep, wool, sweater
 
@@ -112,18 +118,21 @@ Cotton, cotton yarn, cloth
 
 Jute, fibres, sac
 
-Chapter - maha g5: Clothes - our Necessity
-# CLOTHING- OUR NECESSITY (g5)
+# Chapter - maha g5: Clothes - our Necessity
 
-## Want vs Need
+## Reading
+
+### Want vs Need
 
 We ‘Need’ clothes to cover and protect our body from dust and infection. But desire to have some clothes just because they look attractive is called ‘Want’. Want is something we can live without because it’s not a necessity. On the other hand, fulfilment of the need is important for our living.
 
-## Fun fact!
+### Fun fact!
 
 Sarees from some states of India have special significance and great popularity among women. Those sarees are Lucknow chikan, Kashmir silk, Banarasi silk, Kadiyal, Pitambari, Pochampalli, Narayanpet, Kanjivaram, Patola and Mysore silk.
 
-## How clothes reach you? (sort/ arrange)
+## Activities
+
+### How clothes reach you? (sort/ arrange)
 
 1.	Yarns are manufactured.
 2.	Yarns are intertwined into fabrics.
@@ -132,11 +141,11 @@ Sarees from some states of India have special significance and great popularity 
 5.	You buy clothes from a shop.
 6.	You wear your new clothes!
 
-## Find the winter clothing. (crossword)
+### Find the winter clothing. (crossword)
 
 Sweater, gloves, socks, muffler, coat, warmer, blanket, quilt.
 
-## Guess the speciality of these sities. (fill by drop)
+### Guess the speciality of these sities. (fill by drop)
 
 Paithan and Yeolla, *Paithani*
 
