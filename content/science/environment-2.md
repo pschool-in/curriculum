@@ -5,88 +5,54 @@ Chapters -  maha g5: The Earth and its Living World, maha g5: Environmental Bala
 
 ### What is an environment?
 
-Our surroundings and all the living and non living things are together known as the environment. It includes
-many components such as sunlight, air,
-water, soil, plants and animals, etc.
-The earth is surrounded by the atmosphere. Water, land
-and air constitute envelopes of the earth,
-namely, the hydrosphere, lithosphere and
-atmosphere. The biosphere spreads in all
-the other three spheres.
-
+Our surroundings and all the living and non living things are together known as the environment. It includes many components such as sunlight, air, water, soil, plants and animals, etc.
+The earth is surrounded by the atmosphere. Water, landand air constitute envelopes of the earth, known as  the hydrosphere, lithosphere and atmosphere. The biosphere spreads in all the other three spheres.
 
 ### The lithosphere and the hydrosphere
 
-The lithosphere is the solid part of the Earth such as rocks and mountains.The hydrosphere is the liquid water such as the rivers,lakes and oceans.About a third of the surface of the earth
-consists of land.Two-thirds of the earth’s surface is
-covered with water.
+The lithosphere is the solid part of the Earth such as rocks and mountains.The hydrosphere is the liquid water such as the rivers,lakes and oceans.About a third of the surface of the earth consists of land.Two-thirds of the earth’s surface is covered with water.
 
 ### The atmosphere
 
-The envelope of air around the earth is
-called the atmosphere. As we go higher
-from the surface of the earth, the air in the
-atmosphere becomes rarer. The atmosphere
-consists of a mixture of gases, namely,
-nitrogen, oxygen, water vapour and carbon
-dioxide. There are some other gases too in
-the air in very small quantities.
+The envelope of air around the earth is called the atmosphere. As we go higher from the surface of the earth, the air in the atmosphere becomes rarer. The atmosphere
+consists of a mixture of gases. This iclue gases such asa nitrogen, oxygen, water vapour and carbon dioxide. Some other gases are also present in the air in very small quantities.
 
-The layer that extends from the earth’s
-surface to a height of about 13 km is called
-the troposphere.
+The layer that extends from the earth’s surface to a height of about 13 km is called the troposphere.
 
-Beyond the troposphere, up to a height
-of about 50 km from the earth is the layer
-called the stratosphere.In the lower part
-of the stratosphere, there is a layer of a gas
-called ozone.The ozone layer absorbs Ultraviolet rays and protects
+Beyond the troposphere, up to a height of about 50 km from the earth is the layer called the stratosphere.In the lower part
+of the stratosphere, there is a layer of a gas called ozone.The ozone layer absorbs Ultraviolet rays and protects
 the living world from these rays.
-
 
 ### Water cycle
 
-Water on the earth evaporates
-continuously due to the heat of the sun.As water vapour is lighter
-than air, it rises high up into the atmosphere.
-As it goes higher, it cools and condenses
-forming very fine droplets of water forming clouds.These small droplets join together and form
-bigger drops which are heavy. They cannot
-float. Such drops of water fall down on the
-earth in the form of rain.this continuous process of evaporation and condensation is called water cycle.
+Water on the earth evaporates continuously due to the heat of the sun.As water vapour is lighter than air, it rises high up into the atmosphere.
+As it goes higher, it cools and condenses forming fine droplets of water forming clouds.These small droplets join together and form
+bigger drops which are heavy. They cannot float. Such drops of water fall down on the
+earth in the form of rain. This continuous process of evaporation and condensation is called water cycle.
  
 ### Biosphere
 
-Many different kinds of
-plants, animals and micro-organisms are found everywhere on the earth - on land, in water and in the air. The zone of life where all the life forms interact is called biosphere
+Many different kinds of plants, animals and micro-organisms are found everywhere on the earth - on land, in water and in the air. The zone of life where all the life forms interact is called biosphere
 
 ### Food chain
 
 A worm eats grass and leaves.
-A grasshopper eats worms. Birds eat
-Grasshoppers.They are all connected.
-Each of the components is food for the next
-one. That is why we say that they form
-a chain. Such a chain is called a food
-chain. Each of these components is a link
-in a food chain.
+A grasshopper eats worms. 
+Birds eat Grasshoppers.They are all connected.
+One component is food for the next one. That is why we say that they form a chain. Such a chain is called a food
+chain. Each of these components is a link in a food chain.
 
 The most important food in a food chain is plants.One living thing can be a part of a number of food chains. That gives rise to
 a food web in nature.
 
 ### Environmental balance
 
-There are many food chains in our
-environment. Micro-organisms living in the soil help the process of
-decomposition of plant residue, dead animals, excreta, etc.
-This helps in plant growth.Thus plants use substances in the
+There are many food chains in our environment. Micro-organisms living in the soil help the process of
+decomposition of plant residue, dead animals, excreta, etc. This helps in plant growth.Thus plants use substances in the
 soil for their growth and when plants and animals die, the decomposition of their remains adds these substances to
-the soil once again. This is an important cycle in
-the environment.
+the soil once again. This is an important cycle in the environment.
 
-For the existence of living things,
-it is important that environmental
-balance is maintained.
+For the existence of living things, it is important that environmental balance is maintained.
 
 ## Group : Lithosphere vs Hydrosphere
 
@@ -151,7 +117,7 @@ For the existence of living things, it is important that *environmental balance*
 Biosphere is also known as *the zone of life*.
 One *living thing* can be a part of a number of food chains.
 Our surroundings and all the living and non living things are together known as the *environment*.
-The *biosphere spreads in all the other three spheres.
+The *biosphere* spreads in all the other three spheres.
 
 ```
 
@@ -181,6 +147,7 @@ One-third of the earth’s surface is covered with water.
 ```
 
 Chapter - tn-5-3-science: Our Environment
+
 ## Reading
 
 ### Types of Environment
@@ -190,8 +157,7 @@ It includes physical environment and biological environment.
 
 Physical environment includes all non-living things like land, water and air. Biological environment includes the living things such as plants and animals.
 
- Natural environment has lot of economic values. Plants and animals in our environment are useful to us in a number of ways. Animals like cow, buffalo and goat give us milk. Some animals are used for
-transportation. These animals are raised in farms.
+Natural environment has lot of economic values. Plants and animals in our environment are useful to us in a number of ways. Animals like cow, buffalo and goat give us milk. Some animals are used for transportation, some others are reared for their meat. Feathers of birds are used to make pillows and quilts. These economically important animals are raised in farms.
 
 
 ### Farms
@@ -200,27 +166,25 @@ Farming is the activity of growing crops and raising livestock. It is a part of 
 
 Agriculture is the cultivation of land and breeding of animals and plants to provide food, fiber, woods and medicinal plants to sustain and enhance life.
 
-An area of land with fields and buildings that is devoted primarily to growing crops or raising domestic animals or both as a business is called farm.
+An area of land with fields and sturctures devoted to growing crops or raising domestic animals or both as a business is called farm.
 
 ### Diary farm
 
-Dairy farming is a type of agriculture that focuses on extraction of milk and preparation of various milk products like cheese, butter, curd etc.
+Dairy farming is a type of agriculture that focuses on extraction of milk and preparation of various milk products like cheese, butter, curd, ghee etc.
 
-Buffaloes produce more amount of milk than cows. Also, buffalo
-milk has more nutrients than cow’s milk.India is the biggest buffalo milk producer in the world.
+Buffaloes produce more amount of milk than cows. Also, buffalo milk has more nutrients than cow’s milk.India is the biggest buffalo milk producer in the world.
 
 The cattle feed includes roughage and concentrates. The roughage contains high amount of fiber. Apart from these feed, cattle need an adequate amount of fresh water.
 
 Foot and mouth disease and anthrax are some of the common diseases found among cattle.
 
-Veterinary medicine deals with the prevention, diagnosis and
-treatment of disease, disorder and injury for domestic and non-domestic animals.
+Veterinary medicine deals with the prevention, diagnosis and treatment of disease, disorder and injury for domestic and non-domestic animals.
 
-Bullocks are used to plough land, harvest and thrash crops.
-Cattle are employed in transportation.
-Cattle dung is used as manure. It is also used as fuel and for generation of biogas.
-Panchagavya is an ayurvedic medicine used in agriculture to control pest and fungi.It is a mixer of dung and urine of cows, fresh milk, curd, jaggary and ghee.
-Leather goods are manufactured from cattle hides.
++ Bullocks are used to plough land, harvest and thrash crops.
++ Cattle are employed in transportation.
++ Cattle dung is used as manure. It is also used as fuel and for generation of biogas.
++ Panchagavya is an ayurvedic medicine used in agriculture to control pest and fungi.It is a mixer of dung and urine of cows, fresh milk, curd, jaggary and ghee.
++ Leather goods are manufactured from cattle hides.
 
 ### Poultry farms
 
@@ -230,14 +194,14 @@ Fowls are mainly of two types. They include meat type (broiler), egg type (egg l
 
 Poultry birds need proteins, carbohydrates, fats, minerals and vitamins for egg and meat production. Bajra, barley, maize, wheat, rice bran, jowar, oil cake, fish meal, bread and green residues of vegetables are the feed given to the poultry birds.
 
-Poultry birds are good source of nutritive food.
-Their feathers are used for making pillows and quilts.
-Dropping of the poultry birds is used as manure. It is highly valuable for crops.
++ Poultry birds are good source of nutritive food.
++ Their feathers are used for making pillows and quilts.
++ Dropping of the poultry birds is used as manure. It is highly valuable for crops.
 
-Poultry birds affected by virus suffer from fever and diarrhea.
-Foul cholera is caused in them by bacteria.
-Over exposure to wet and cold conditions causes cramps in poultry birds.
-Poultry birds are affected by internal parasites.
++ Poultry birds affected by virus suffer from fever and diarrhea.
++ Foul cholera is caused in them by bacteria.
++ Over exposure to wet and cold conditions causes cramps in poultry birds.
++ Poultry birds are affected by internal parasites.
 
 ### Apiculture
 
@@ -250,11 +214,11 @@ Drones are the fertile males. Worker bees are sterile female bees and the smalle
 
 Honey contains proteins, amino acids, vitamins and minerals like calcium, iron, phosphorus and manganese.
 
-Honey has an antiseptic and antibacterial property.It builds up haemoglobin content in the blood.
-Honey is used in Ayurvedic and Unani system of medicines.It prevents cough, cold, fever and relieves sore throat.
-Honey also enhances digestion and appetite.
++ Honey has an antiseptic and antibacterial property.It builds up haemoglobin content in the blood.
++ Honey is used in Ayurvedic and Unani system of medicines.It prevents cough, cold, fever and relieves sore throat.
++ Honey also enhances digestion and appetite.
 
-Bee wax is secreted by worker bee to build the combs of bee hive.It is widely used in cosmetics.
++ Bee wax is secreted by worker bee to build the combs of bee hive.It is widely used in cosmetics.
 
 ### Manure
 
@@ -357,12 +321,14 @@ The roughage contains high amount of fiber and it includes fodder, hay, straw an
 Concentrates include broken grams, cereals, millets, rice polish, cotton seeds and oil cakes.
 Bullocks are used to plough land, harvest and thrash crops.
 Panchagavya is an ayurvedic medicine used in agriculture to control pest and fungi.
+Veterinary medicine deals with the prevention, diagnosis and treatment of disease, disorder and injury for domestic and non-domestic animals.
 
 False:
 Worker bees lays eggs.
 Egg type fowls are called broilers.
 Surti is a cow breed.
 Assel is a buffalo breed.
+
 ```
 
 Chapter - tn-4-3-science: Green Environment
@@ -371,7 +337,7 @@ Chapter - tn-4-3-science: Green Environment
 
 ### What are wastes?
 
-Nature provides us a lot of useful things.We use these natural resources and create more trash. The unwanted materials thrown away are called wastes. They can be solid, liquid and gas. They are produced from households, industries, hospitals etc., These unwanted materials pollute our environment.
+Nature provides us a lot of useful things. We use most of these natural resources and create more trash. The unwanted materials which are thrown away are called wastes. They can be in solid, liquid or gaseous state. They are produced from households, industries, hospitals etc., These unwanted materials pollute our environment.
 
 ### Waste Management 
 
@@ -380,10 +346,11 @@ It is the step we take to handle our waste and to make sure our environment does
 ### Steps in waste management
 
 There are four main steps in waste management.
-These includes : 1. Separation of Waste
- 2. Waste collection and transportation
-3. Waste recycling and composting 
-4. Waste disposal
+These includes : 
++ Separation of Waste
++ Waste collection and transportation
++ Waste recycling and composting 
++ Waste disposal
 
 ### What are the three R‛s in waste management
 
