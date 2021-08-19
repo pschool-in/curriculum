@@ -71,4 +71,20 @@ Water, soil
 Stone, plants
 Mountain, land
 
+Seed of the plants are scattered by _________
+Wind
+Animals
+Insects 
+*All the above
+```
 
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+Living things bring changes in *non-living things* too
+Living things need *food* and it helps them to grow.
+Humans used to weave *Clothes* using cotton, silk, wool.
+Some animals used to hunt and eat other *animal’s flesh*
+For survival, living things will take their necessary things from the *environment*.
