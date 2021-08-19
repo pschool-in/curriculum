@@ -93,3 +93,22 @@ For survival, living things will take their necessary things from the *environme
 ## Fill in the blanks (Using options)
 
 ```
+1. Sparrows grow by eating *insects and food grains (stone and paper)*.
+2. Plants and animals will come under *living things (non-living things)*.
+3. Plants utilize *sunlight (moonlight)* to prepare their food.
+4. Birds will build their nest using *cotton, twigs and threads (food, water and light) *.
+5. Papers, rock and bag will come under *living things (non-living things)*.
+```
+
+## True or False
+
+```
+True:
+Dead animals will decay in the soil and turn the soil as fertile.
+Living things and non-living things depend upon each other in the environment.
+Plants will not move from one place to another place by their own.
+
+False:
+Train can move from one place to another. So, train will come under living things.
+Wooden chairs and tables are made from the trees. Trees will come under living things. So, wooden chairs and tables are also living things.
+```
