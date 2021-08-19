@@ -1,3 +1,4 @@
+Chapter - maha g3: Our Clothes
 # OUR CLOTHES (g3)
 
 ## Why do we need clothes?
@@ -51,6 +52,7 @@ Uniforms of soldiers are called ‘camouflage’ because it matches with their e
 2.	Desserts- khaki clothes
 3.	Snowy areas- white clothes
 
+Chapter - maha g4: Clothes
 # CLOTHES (g4)
 
 ## How clothes are made?
@@ -110,6 +112,7 @@ Cotton, cotton yarn, cloth
 
 Jute, fibres, sac
 
+Chapter - maha g5: Clothes - our Necessity
 # CLOTHING- OUR NECESSITY (g5)
 
 ## Want vs Need
