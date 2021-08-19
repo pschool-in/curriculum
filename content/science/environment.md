@@ -216,7 +216,7 @@ Drag and drop the words at proper place
 The crocodile is a *Reptile*.
 *Elephants* have a trunk.
 *Snake* is a cold-blooded animal.
-* Chameleon* can change its skin color.
+*Chameleon* can change its skin color.
 *Monkey* is a warm-blooded animal.
 ```
 
