@@ -208,6 +208,40 @@ Cockroach
 Fruitfly
 ```
 
+## Fill in the blanks ( By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The crocodile is a *Reptile*.
+*Elephants* have a trunk.
+*Snake* is a cold-blooded animal.
+* Chameleon* can change its skin color.
+*Monkey* is a warm-blooded animal.
+```
+
+## Fill in the blanks (Using options)
+
+```
+Birds have *two (three)* wings.
+*Ox (Dog)* is used as a draft animal.
+Rats and mice will *trouble (help)* us.
+Bedbugs will suck *blood (sweat)* from our body
+*Kangaroos (Monkey)* have a special pouch in their body, to carry their young ones.
+```
+
+## True or False:
+
+```
+True:
+Fishes have fins, scales in their body.
+Eagle flies higher than the pigeon.
+Spiders are an insect that has eight legs.
+
+False:
+Dogs will have scales in their body.
+Bat is a bird.
+```
 
 
 
