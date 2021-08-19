@@ -1,0 +1,81 @@
+Chapter - maha g3: Directions and Maps
+# Directions and Maps (g3)
+
+## Reading
+How to find the directions?
+
+There are mainly four directions: East, West, North and South.
+1. The direction in which sun rises is east.
+2. The direction in which sun sets is west.
+3. East and west are opposite to each other.
+4. When we face east, the north is to our left and the south is to our right.
+
+Do you know, because the sun rises and sets every day, it is used to determine directions.
+
+### Use of directions in maps
+Directions are always shown in a map. They are indicated with an arrow pointing north. 
+Before reading the map, make sure the directions on the map match the directions on the ground. This method will help you to read the maps.
+
+### District, state and country
+
+1. We live in a house. Our houses are contructed on land.
+2. A continent is the vast section of land on the earth.
+3. The earth's surface is also occupied by the salt water. This part is called Ocean.
+4. Earth is also known as the world.
+
+World is made up of many countries and countries are made up of states.
+
+Our country is India. 'Brihanmumbai' is one of our country's biggest cities. The ‘Mumbai City District' and the ‘Mumbai Suburban District' are the two districts of Brihanmumbai.
+Mumbai is one of India's most populous cities. Mumbai is the state capital of Maharashtra.
+
+Do you know?
+The information in a map is presented via symbols, drawings, signs, and various shades of colour. Along with the map, there is a list of these symbols and other information. 
+This list is known as Index. Index helps us to understand the map.
+
+## Fill in the blanks (by drag drop)
+
+Drag and drops the words at the right places:
+
+```
+*South* direction is opposite to north direction.
+A vast section of land on the earth is called *continent*.
+Sun rises from *east* and sets in *west* direction.
+*Ocean* is the part of earth's surface occupied by salt water.
+*Index* helps us to understand map through symbols and signs.
+
+```
+
+## Multiple Choice Questions
+
+```
+What is the name of the country we live in?
+United States
+Earth
+Spain
+India
+
+Earth is also known as ___________.
+Continent
+Ocean
+World
+State
+
+Which direction is to our left when we face east?
+South
+East
+North
+West
+
+____________ is the capital of Maharashtra.
+Nagpur
+Mumbai
+Pune
+Nashik
+
+Which direction does the magnetic needle shows?
+North
+South
+East 
+West
+
+```
