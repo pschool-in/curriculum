@@ -88,3 +88,8 @@ Living things need *food* and it helps them to grow.
 Humans used to weave *Clothes* using cotton, silk, wool.
 Some animals used to hunt and eat other *animal’s flesh*
 For survival, living things will take their necessary things from the *environment*.
+```
+
+## Fill in the blanks (Using options)
+
+```
