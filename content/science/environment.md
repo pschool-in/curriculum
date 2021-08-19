@@ -114,3 +114,12 @@ False:
 Train can move from one place to another. So, train will come under living things.
 Wooden chairs and tables are made from the trees. Trees will come under living things. So, wooden chairs and tables are also living things.
 ```
+
+
+Chapter : maha g3: So many kinds of animals
+
+## Reading
+
+### Different types of Animals, Insects, and Birds
+
+Our mother nature is full of diversity. On our planet, there are different types of animals, birds, and insects with different colors, shapes, sizes. All of them will move in different ways.  Moreover, every type has its unique characteristics. Many animals live on land and some reside in water. Some live both in water and land. Birds will be there in land and air. Some birds will be there in both water and land. Birds and animals are grouped in different ways. Mammal is one of the most important categories. Some kinds of animals/ birds will come under mammals, whereas some of them are not mammals. The mammals usually give the milk to their young owns, for example; cows, goats, pigs, rats, dogs, etc. Usually, mammals have presence of mammary glands and they will have hair in their body.
