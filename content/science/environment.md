@@ -153,3 +153,61 @@ Interesting facts - Bats have wings in their body, but they don’t have feather
 ### Domestic animals and Wild animals:
 
 Animals and birds can be categorized into two types. They are domestic and wild.  Domestic animals can be tamed and they will not do any harm, whereas wild animals will harm us. Wild animals can be seen in the places like forests, zoos. Examples of wild animals are lions, foxes, bears, tigers, etc. Some types of animals /birds can stay along with us in the home. They will not do any harm to us. Domestic animals will always give good support to humans and help us in many ways. For example, cows, goats, buffalo are domestic animals that give us milk. Bullocks will help in agriculture and transportation. Dogs guard the house. Donkeys, bullocks will help to draw the heavy things from one place to another.  Also, some animals like hens will lay eggs and eggs are an important food for humans. Some types of animals will be used as a meat source for food. Animals that learn to live with us will be of help to us and those animals will become like pets or friends. There are some types of animals and insects which will enter our house, which is of no use for us. For example, some types of animals and insects like rats, mice, bed bugs, spiders, etc will come to our home and they will create disturbance for us. Rats and mice will always destroy the stored items in our house. Spiders will start to make cobwebs in the house. Cockroaches, mosquitoes, houseflies will give trouble for us.
+
+## Group : Domestic animals Vs. Wild animals
+
+Classify the below things based on the category of Domestic animals Vs. Wild animals
+
+Domestic animals – Cow, Dog, Goat, Pig
+
+Wild animals-  Lion, Tiger, Bear, Fox
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Spider, Web
+Fish, Water
+Sheep, wool
+Dog, Bark
+Snake, Crawl
+```
+
+## Multiple Choice Questions
+
+```
+__________will crawl from one place to another place.
+Snake
+Elephant
+Bat
+Horse
+
+Butterflies have ______legs.
+Six
+Seven
+Eight
+Nine
+
+__________ animal has mane in their body.
+Horse
+Cow
+Elephant
+Deer
+
+_______ have different types of colors in their body.
+Peacock
+Crow
+Eagle
+Dove
+
+____________ grows in stagnant water.
+Mosquitoes
+Houseflies
+Cockroach
+Fruitfly
+```
+
+
+
+
