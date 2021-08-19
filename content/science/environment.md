@@ -123,3 +123,33 @@ Chapter : maha g3: So many kinds of animals
 ### Different types of Animals, Insects, and Birds
 
 Our mother nature is full of diversity. On our planet, there are different types of animals, birds, and insects with different colors, shapes, sizes. All of them will move in different ways.  Moreover, every type has its unique characteristics. Many animals live on land and some reside in water. Some live both in water and land. Birds will be there in land and air. Some birds will be there in both water and land. Birds and animals are grouped in different ways. Mammal is one of the most important categories. Some kinds of animals/ birds will come under mammals, whereas some of them are not mammals. The mammals usually give the milk to their young owns, for example; cows, goats, pigs, rats, dogs, etc. Usually, mammals have presence of mammary glands and they will have hair in their body.
+
+### Different Sizes
+
+Animals like cows, elephants, horses, goats, etc., are there in different types of sizes. Some are small, some are big and some are medium-sized animals.  For example Elephants, giraffes are big size animals. Dogs, goats are medium-sized animals. Squirrels, rats are small-sized animals. Insects are also tiny ones, where they have their unique characteristics. 
+
+### Different colors
+
+Moreover, some varieties of animals, birds, and insects will have different color patterns in their body. For example, the peacock will have many colors on its body. Five-colored parrot Brett is one type of bird variety in which has 5 different types of colors in its body.
+
+### Different ways of the Birds
+
+Birds will have two legs and have two wings, to fly. Their body will be covered with feathers. Every type of bird can fly in the sky, but the ability to flying a distance will vary. For example, an eagle will fly higher in the sky and it can stay long back in the sky itself, whereas pigeons will not able to fly high and it will come down very soon. 
+
+### Different ways of the Animals
+
+Animals have four legs and every type of animals move in different ways. Some animals will run very fast, whereas some animals will move very slowly. For example, on the land; the cheetah is the fastest animal and the tortoise is the slowest animal. Reptiles are also classified under animals. Moreover, some reptiles will move at normal speed and some reptiles will move very fast. For example, snakes and crocodiles are reptiles, however, snakes move much faster when compared to crocodiles on land. Most of the reptiles will crawl and have scales on their body. Moreover, some of the reptiles have short legs and some types of reptiles do not have legs. For example, snakes don't have legs, and lizards have short legs.  
+
+### Different ways of the Insects
+
+Some insects will fly in the air, as well as they move on the land also. There are much variety of insects and they are also with different characteristics. Insects also have wings, but we will not call them birds. Examples are mosquitoes, houseflies, butterflies, etc. Usually, most insects have six legs and it’s smaller than birds. But some insects will have eight legs. 
+
+### Different ways of the Fish
+
+Fishes live and breathe in water. There are many different types of fishes and every type has its unique characteristic feature. Fishes have fins and scales in their body. Fish uses fins to move in the water. Fishes use their gills to breathe in water. Fishes cannot survive on land and they cannot walk on land. Some unique fishes are there that can survive on moist-land also, for example, the mud-fish.
+
+Interesting facts - Bats have wings in their body, but they don’t have feathers on the body. Bats are not birds like the crow, peacock, parrot, etc. It is classified under the cold-blooded animal. 
+
+### Domestic animals and Wild animals:
+
+Animals and birds can be categorized into two types. They are domestic and wild.  Domestic animals can be tamed and they will not do any harm, whereas wild animals will harm us. Wild animals can be seen in the places like forests, zoos. Examples of wild animals are lions, foxes, bears, tigers, etc. Some types of animals /birds can stay along with us in the home. They will not do any harm to us. Domestic animals will always give good support to humans and help us in many ways. For example, cows, goats, buffalo are domestic animals that give us milk. Bullocks will help in agriculture and transportation. Dogs guard the house. Donkeys, bullocks will help to draw the heavy things from one place to another.  Also, some animals like hens will lay eggs and eggs are an important food for humans. Some types of animals will be used as a meat source for food. Animals that learn to live with us will be of help to us and those animals will become like pets or friends. There are some types of animals and insects which will enter our house, which is of no use for us. For example, some types of animals and insects like rats, mice, bed bugs, spiders, etc will come to our home and they will create disturbance for us. Rats and mice will always destroy the stored items in our house. Spiders will start to make cobwebs in the house. Cockroaches, mosquitoes, houseflies will give trouble for us.
