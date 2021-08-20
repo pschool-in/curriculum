@@ -95,11 +95,11 @@ For survival, living things will take their necessary things from the *environme
 ## Fill in the blanks (Using options)
 
 ```
-1. Sparrows grow by eating *insects and food grains (stone and paper)*.
-2. Plants and animals will come under *living things (non-living things)*.
-3. Plants utilize *sunlight (moonlight)* to prepare their food.
-4. Birds will build their nest using *cotton, twigs and threads (food, water and light) *.
-5. Papers, rock and bag will come under *living things (non-living things)*.
+Sparrows grow by eating *insects and food grains (stone and paper)*.
+Plants and animals will come under *living things (non-living things)*.
+Plants utilize *sunlight (moonlight)* to prepare their food.
+Birds will build their nest using *cotton, twigs and threads (food, water and light) *.
+Papers, rock and bag will come under *living things (non-living things)*.
 ```
 
 ## True or False
