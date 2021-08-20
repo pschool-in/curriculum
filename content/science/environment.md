@@ -267,3 +267,93 @@ Animals and plants give us abundantly and they are satisfying our needs. Similar
 
 We have four seasons and they are summer, winter, spring, autumn, or fall. Every season we will have changes in the environment. For example, during the summer season, there will be sunny and we used to wear cotton clothes. During the winter season, there will be cold and we wear woolen or warm clothes to shield ourselves from the cold. It will give changes to other living things too. For example, the animals which have fur will become much thicker during the winter season.  During the spring seasons, fresh buds will start to bloom and it is the season of new beginnings. During the autumn (fall) seasons, trees leave changing color and some trees will lose their leaves. Not only trees, change in seasons will affect all living things. 
 
+## Group: Carnivores Vs. Omnivores
+
+Classify the below items based on their food habits
+
+Carnivores: Sharks, Hyena, Polar Bear, Snake
+Omnivores: Foxes, Dogs, Humans, Bears
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Summer, Heatwaves
+Winter, Cold and frost
+Spring, a new beginning 
+Autumn, fall season
+Monsoon, Overflow of river
+```
+
+## Multiple Choice Questions
+
+```
+Mangoes will available in ________ season
+Summer
+Winter
+Autumn
+Spring
+
+__________ is an arboreal animal.
+Primate
+Alligator
+Lion
+Pig
+
+___________ is a root vegetable.
+Garlic
+Tomato
+Brinjal
+Cauliflower
+
+_________ lives on land.
+Panda
+Seals
+Penguins
+Walrus
+
+__________ are reptile
+Turtles
+Gila monster
+Alligator
+*All the above
+```
+
+## Fill in the Blanks (By Drag Drop)
+
+Drag and drop the words at proper places
+
+```
+Cow dung is used for * production of biogas*
+Plants in *marshes* called mangroves.
+*Sheep pellets* can be used as manure for plants.
+*Roots*of the plant grow under the soil.
+Silk is obtained from the cocoon of the larvae of *silkworm*.
+```
+
+## Fill in the blanks (Using options)
+
+```
+*Cattle dung (Human dung)* is used in plastering the mud houses.
+Change in season will affect * living things (non-living things)*.
+Plants prepare their food by *photosynthesis (Absorption)*.
+We depend upon *Agriculture (Weaving)* for our food.
+The *Shearing (Ginning)* process involved in obtaining the wool from sheep.
+```
+
+## True or false
+
+```
+True:
+Monkey is an arboreal animal.
+Deer is an herbivore.
+Kangaroo is a wild animal.
+
+False:
+Frogs will be so active during wintertime.
+During the autumn season, fresh buds will bloom, and the new beginning of life starts.
+```
+
+
+
