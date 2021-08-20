@@ -272,6 +272,7 @@ We have four seasons and they are summer, winter, spring, autumn, or fall. Every
 Classify the below items based on their food habits
 
 Carnivores: Sharks, Hyena, Polar Bear, Snake
+
 Omnivores: Foxes, Dogs, Humans, Bears
 
 ## Match the following
