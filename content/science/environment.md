@@ -116,7 +116,7 @@ Wooden chairs and tables are made from the trees. Trees will come under living t
 ```
 
 
-Chapter : maha g3: So many kinds of animals
+Chapter: maha g3: So many kinds of animals
 
 ## Reading
 
@@ -243,5 +243,27 @@ Dogs will have scales in their body.
 Bat is a bird.
 ```
 
+Chapter: maha g4:The Inter-relationships between Living Things
 
+## Reading
+
+### The Inter-relationships between Living Things
+
+Living things take their necessary things from the environment. All living things need food, water, air for survival and it is fulfilled in the environment. Moreover, there will be more differences in needs for every living organism. The necessity will change from one to another living things. You can find the living things in their suitable place, where its necessary things are getting fulfilled. For example; a Lemon tree lives in the land, but it will not survive in a pond or lake or ocean or sea. 
+
+### Animals Need
+
+Animals need is fulfilled in the environment. Animals can live in the area where it is getting supported by the environment. Fish lives in water, but it is very difficult to survive in the land. Tiger has stripes on its body and it will hide in tall grasses to hunt its prey. Those stripes will help the tiger camouflage so that its prey cannot able to find the tiger. Tiger is dependent upon its prey animals like deer, wild pigs, buffalo, etc. Moreover, they are dependent upon the waterhole, dense vegetation, and also need caves or dens for their shelter. Similarly, many animals will depend upon the plants, animals, and other surroundings in the environment. Some animals will come under herbivores, some will come under carnivores and some animals will come under omnivores.
+
+### Animals and trees support each other
+
+Some animals live on trees as well as on land also. For example, animals like monkeys, squirrels, etc., will live on both trees and land. In this case, both trees and animals help each other. Trees will give fruits, vegetables to these animals. Sometimes monkeys can use the tress to defend themselves from their enemies. Suck kind of animals are called Arboreal (living in trees). Even birds build their nest in the tree.  Moreover, unknowingly these animals support the trees. These animals will move and roam in the surroundings and spread the seeds unknowingly. While roaming, these kinds of animals and birds spread the seeds in the land and it will help in growing the new plants.
+
+### Human’s Need
+
+Animals and plants give us abundantly and they are satisfying our needs. Similar to other living things, we humans also take care of some animals for our domestic use. Those animals will be called domestic animals. We used to feed, give shelter, and taking care of those animals. These animals will give their products like milk, meat, eggs, etc. Moreover, some animals help us in transportation, agriculture, etc. Besides, we use the excreta of domestic animals. For example, cattle dung will be made into dung cakes. They are combustible and used as fuel. In addition, cattle dung are used as manure for agriculture and it is used for plastering the mud houses. We need plants, animals to fulfill our needs. Plants give us vegetables, fruits, flowers, seeds, and many products for our daily use. For example, from cotton wool plants, we will get the cotton to weave our clothes. Moreover, many plants have more medicinal values and their extraction is used as medicines. So, we do take care of the plants, domestic animals and we are giving protection for them too.
+
+### Seasons
+
+We have four seasons and they are summer, winter, spring, autumn, or fall. Every season we will have changes in the environment. For example, during the summer season, there will be sunny and we used to wear cotton clothes. During the winter season, there will be cold and we wear woolen or warm clothes to shield ourselves from the cold. It will give changes to other living things too. For example, the animals which have fur will become much thicker during the winter season.  During the spring seasons, fresh buds will start to bloom and it is the season of new beginnings. During the autumn (fall) seasons, trees leave changing color and some trees will lose their leaves. Not only trees, change in seasons will affect all living things. 
 
