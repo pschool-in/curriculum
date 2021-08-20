@@ -80,6 +80,17 @@ Plants, Biosphere
 Ocean, Hydrosphere
 Sand, Lithosphere
 ```
+## Food Chain
+
+Arrange the links to form a food chain.
+
+```
+Nectar (flowers), butterflies, small birds, foxes
+Dead plants, centipede, robin, raccoon
+Grass, grasshopper, frog, snake, eagle
+Decayed plants, worms, birds, eagles
+
+```
 
 ## Multiple Choice Questions
 
@@ -457,4 +468,27 @@ Glass cannot be recycled.
 Metals are biodegradable.
 Plastics are not hazardous to animals.
 Food waste and plastics waste are collected together.
+```
+## Good or Bad
+
+Classify the activities as good or bad for the environment.
+
+```
+Good:
+Recyle old newspapers.
+Replace plastic drinking bottles with glass or steel bottles.
+Save water.
+Adapt rain water harvesting techniques.
+Reuse non biodegradable materials.
+Plant a tree.
+
+Bad:
+Use disposable plates and cups.
+Buying single use items.
+Using pesticides.
+Leaving water running.
+Throwing out recyclables.
+Putting non-recyclable items in the recycling bin.
+Throwing out electronics.
+
 ```
