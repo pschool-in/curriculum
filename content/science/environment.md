@@ -158,9 +158,9 @@ Animals and birds can be categorized into two types. They are domestic and wild.
 
 Classify the below things based on the category of Domestic animals Vs. Wild animals
 
-Domestic animals – Cow, Dog, Goat, Pig
+Domestic animals: Cow, Dog, Goat, Pig
 
-Wild animals-  Lion, Tiger, Bear, Fox
+Wild animals: Lion, Tiger, Bear, Fox
 
 ## Match the following
 
