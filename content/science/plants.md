@@ -324,6 +324,116 @@ Based on the production of flowers, plants are classified into flowering and non
 Based on the period of life cycle plants are classified into Annuals, Biennials and Perennials.  
 Based on the colour present in the plant, they are classified into Green and Nongreen plants. 
 
+## Group : Flowering vs Non flowering
+
+Classify the below plants based on whether they produce flowers.
+
+Flowering: sunflower, rose, daffodils, tulip, cactus, neem, paddy, mango. 
+
+Non flowering: algae, fungi, ferns, moses.
+
+## Group : Green vs Non green
+
+Classify the below plants based on colour.
+
+Green: paddy, rice, grass, moss, conifer, algae.
+
+Non green: mushroom, moulds, bracket fungi, yeast.
+
+## Group : Winter vs Summer
+
+Classify the below flowers based on the season they bloom.
+
+Winter: december, winter jasmine, tuberose, pansy.
+
+Summer:  jasmine, sunflower, rose, marigold, bougainvillea, daisy. 
+
+## Group : Autumn vs Spring
+
+Classify the below flowers based on the season they bloom.
+
+Autumn: dahlia, saffron, hibiscus, chrysanthemum. 
+
+Spring: tulip, pansy, daffodil, prime rose.
+
+ ## Group : Root vs Stem
+
+Classify the below plants based on their edible part.
+
+Root: carrot, beetroot, tapioca.
+
+Stem: onion, turmeric, sugarcane.
+
+## Group : Leaf vs Flower
+
+Classify the below plants based on their edible part.
+
+Leaf: coriander, cabbage, moringa.
+
+Flower: banana flower, cauliflower, cloves.
+
+## Group : Fruits vs Grains
+
+Classify the below plants based on their edible part.
+
+Fruits: watermelon, grapes, pumpkin, tomato, mango.
+
+Grains: rice, pulses, fenugreek. 
+
+## Match the following
+
+Match the trees with their life span.
+
+```
+Pine, 400 years
+Banyan, 300 years
+Oak, 1500 years
+Apple, 30 years
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+*Veins (lamina)* are branch out from the midrib.
+*Petiole (sepal)*joins the leaf to the main stem.
+*Stomata (leaf)* are used to exchange gases.
+*Chlorophyll (anthocyanin)* is the green pigment in plants.
+
+```
+
+## True or False
+
+```
+True:
+Plants bearing flowers are flowering plants.
+Tomato is a fruit.
+Cycas is an exotic plant.
+
+False:
+Rose is an autumn flower.
+Cauliflower is an edible leaf. 
+
+```
+## Odd one out
+
+Pick the odd one out.
+
+```
+December, Tuberose, *Tulip*. 
+Saffron, Dahlia, *Rose*. 
+*Rose*, Boat lily, Crotons.
+
+```
+## Answer in one word.
+
+```
+Green pigment in plant that help in tapping light - *chlorophyll*
+Process by which plants make food - *photosynthesis*
+Part of plant that helps in exchange of gases - *stomata*
+Leaves loose water by this process - *traspiration*
+
+```
 
 **A drag and drop activity on a leaf.**
 
