@@ -138,6 +138,133 @@ The fruit is a fleshy or dry ripened part of a plant, enclosing the seed or seed
 
 The hard part inside the fruit is called seed. Most plants grow from seeds.
 
+## Group : Terrestrial vs Aquatic
+
+Classify the below plants based on the habitat they belong.
+
+Terrestrial: sunflower, rose, daffodils, poison ivy, tulip, cactus, papaya, pineapple, apricot. 
+
+Aquatic: lotus, water lily, duckweed, watercress, water hyacinth, hydrilla, vallisneria
+
+## Group : Free floating vs Fixed rooted vs Submerged
+
+Classify the below plants into their respective type.
+
+Free floating: duckweed, mosquito fern, water hyacinth, pistia.
+
+Fixed rooted: lotus, watershield, lotus, water lily.
+
+Submerged: vallisneria, hydrilla, pondweed.
+
+## Group : Dessert vs Mountain vs Plain
+
+Classify the below plants based on their habitat.
+
+Dessert: opuntia, aloe vera, cactus, date palm. 
+
+Mountain: pine, maple, cedar, oak, deodar. 
+
+Plain: mango, banyan, teak. 
+
+## Group : Cold climate vs Hot climate
+
+Classify the below plants based on the climate they grow in.
+
+Cold climate: beet, carrot, turnip, radish, kale, spinach, pea, onion, lettuce, potatoes. 
+
+Hot climate: lily, rose, chrysanthemum, bougainvillea, brinjal, chilli, cucumber, tomato.
+
+ ## Group : One seed vs Many seeds vs Seedless
+
+Classify the below fruits based on the number of seeds they produce .
+
+One seed: avocado, mango, cherry, apricot.
+
+Many seeds: guava, watermelon, strawberry, figs, jackfruit, tomato, pomegranate. 
+
+Seedless: pineapple, banana.
+
+## Group : Tap root vs Fibrous root
+
+Classify the below plants based on the type of root system the contain.
+
+Tap root: beet root, carrot, parsnip, parsley.
+
+Fibrous root: rice, wheat, barley, oats, rye, millet.
+
+## Group : Weak vs Strong
+
+Classify the below plants based on the type of stem the contain.
+
+Weak: watermelon, grapes, pumpkin, bean, cucumber.
+
+Strong : neem, banyan, mango, deodar. 
+
+## Match the following
+
+Match the things with their place in the environment
+
+```
+Root, Absorption
+Stem, Support
+Leaf, Photosynthesis
+Flower, Reproduction
+Seed, Germination
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+*Fibrous (tap)* roots are developed from the base of the stem.
+Avecinnia plants have roots *above (below)* the ground.
+Trees such as peepal and banyan have very strong and thick stem called *trunk (wood)*.
+The loss of water in the form of gas happens through the tiny pores in the leaves is called *transpiration (evaporation)*.
+The soft and brightly colored part of a flower is called *petal (tepal)*.
+The green part that lies under the petal and supports it is called *sepal (petal)*.
+The middle of the flower has two parts called the *stamen (style)* and pistil.
+The natural home of a plant is called its *habitat (niche)*.
+Plants make suitable adjustment with their surroundings to meet their requirements. This is known as *adaptation (evolution)*.
+
+```
+
+## True or False
+
+```
+True:
+Deserts get very less rainfall and experience high temperature.
+Leaves are changed to spines to reduce the loss of water.
+Needle like leaves help them to survive in cold conditions like
+snow.
+Plants in plains need to adapt to both dry conditions and
+extreme temperatures.
+
+False:
+Banyan, Peepal and Tamarind trees live less than hundred years.
+Mountain trees leaves are called frond.
+ 
+```
+## Jumbled words
+
+Connect the blocks to form meaningful words.
+
+```
+Plant, leaf, bud, flower, root, dessert, mountain, seed.
+
+```
+## Odd one out
+
+Pick the odd one out.
+
+```
+Carrot, Radish, *Tomato*, Beetroot
+Cabbage,  Greens,  *Turmeric*,  Spinach
+*Neem*,  Aloe vera,  Datepalm,  Opuntia
+*Mango*, Apple, Orange, Papaya.
+Hydrilla, *Opuntia*, Water hyacinth, Vallisneria
+
+```
+
 **Drag and drop to match plants to the parts we eat.**
 
 1. Deserts → Cactus
