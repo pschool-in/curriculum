@@ -27,21 +27,27 @@ In addition to this, we wear clothes of different designs, colors and tradition.
 
 ### Who wears what? (classify sentence-template)
 
+```
 Men: Dhoti, pyjama, lungi, trousers, mundase, pheta, pagdi etc.
 
 Women: Saris, salwar-suit, frocks, skirts, gowns, tops etc.
 
 Common: Shirts, pants, jeans, t-shirts, caps, hats etc.
+```
 
 ### Who's uniforms are these? (displaying pictures)
 
+```
 Pictures of a soldier, policeman, nurse, doctor, fireman, traffic police, student.
+```
 
 ### Which clothes are suitable for which season? (drag and drop)
 
+```
 Summer: Skirts, shorts, cotton clothes, kurtas.
 
 Winter: Coats, sweaters, mufflers, gloves, socks.
+```
 
 ### Fun fact!
 
@@ -82,22 +88,27 @@ Eg- paper plates, false flowers, models etc.
 
 ### Test your knowledge: (fill by dragging)
 
+```
 1.	Gandhiji always wore clothes made of *khadi* yarn.
 2.	It is unsafe to wear *nylon* clothes while cooking or burning crackers.
 3.	People prefer wearing *cotton* clothes in summer.
 4.	*Raincoats* protect us from rain.
 5.	*Scarfs* protect our skin from the sun and *Mufflers* protect our ears and neck from cold.
+```
 
 ### What are the sources of these clothes? (classify template) 
 
+```
 Animal: wool, silk.
 
 Plant: cotton, jute.
 
 Synthetic: nylon, rayon.
+```
 
 ### True or False?
 
+```
 True:
 
 Detergent is used to wash clothes.
@@ -111,9 +122,11 @@ False:
 A person can wear same clothes forever.
 
 Liquid handwashes are used to clean clothes.
+```
 
 ### Match the following:
 
+```
 Sheep, wool
 
 Sweater, winter
@@ -125,6 +138,7 @@ Jute, fibres
 Cap, summer
 
 Raincoat, winter
+```
 
 # Chapter - maha g5: Clothes - our Necessity
 
@@ -142,19 +156,24 @@ Sarees from some states of India have special significance and great popularity 
 
 ### How clothes reach you? (sort/ arrange)
 
+```
 1.	Yarns are manufactured.
 2.	Yarns are intertwined into fabrics.
 3.	These fabrics are converted into different clothing like shirts, jeans, sarees, skirts etc.
 4.	Clothes are sold to shopkeepers.
 5.	You buy clothes from a shop.
 6.	You wear your new clothes!
+```
 
 ### Find the winter clothing. (crossword)
 
-Sweater, gloves, socks, muffler, coat, warmer, blanket, quilt.
+```
+Sweater, gloves, socks, muffler, coat, blanket.
+```
 
 ### Guess the speciality of these cities. (fill by drop)
 
+```
 Paithan and Yeolla are famous for *Paithani*
 
 Aurangabad is famous for *Himroo shawls*
@@ -162,3 +181,4 @@ Aurangabad is famous for *Himroo shawls*
 Solapur is known for *Bedsheets*
 
 Ichalkaranji is well known for *Handloom*
+```
