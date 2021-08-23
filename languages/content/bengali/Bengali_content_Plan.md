@@ -22,7 +22,7 @@
   17. Add 2 coonect sentence in 'bn-sentence' - DONE
   18. Add 2 activity same meaning word in 'bn-sentence' -  DONE
   19. Add 2 season-month activity in 'bn-social'
-  
+  20. Add 10 "volwe + consonant" letter in 'bn-word' - DONE 
   still updating
   ```
   
