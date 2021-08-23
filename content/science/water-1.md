@@ -24,3 +24,20 @@ Water is important, not just for us, but also for the animals, plants and all ot
 
 Water is very important in our lives!
 
+## Activities
+
+### Fill in the blanks:
+
+```
+1. Water keeps the blood *thin (thick)*.
+2. Animals *bathe (sleep)* in water.
+3. Water is very *important (less important)* in the lives of people.
+4. Roots of the plant absorb rainwater that has *seeped (sowed)* into the soil.
+5. People take care to provide drinking water for the animals they *keep (don't keep)*.
+6. We go near a waterhole in a forest to see *wild (domestic)* animals.
+```
+
+### Find the sources of water (wordseaarch)
+```
+Rainwater, River, Pond, Lake, Ocean, Sea, Well.
+```
