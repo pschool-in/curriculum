@@ -49,11 +49,13 @@ Uniforms of soldiers are called ‘camouflage’ because it matches with their e
 
 #### Guess what would they wear in the following surroundings: (fill up by drag)
 
+```
 Soldiers wear *Khaki* clothes in deserts.
 
 Soldiers wear *Green* clothes in jungles.
 
 Soldiers wear *White* clothes in The Himalayas.
+```
 
 # Chapter - maha g4: Clothes
 
