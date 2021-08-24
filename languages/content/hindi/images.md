@@ -35,7 +35,7 @@ squirrel, गिलहरी
 tortoise, कछुआ
 rat, चूहा
 winged-termites, पंखों वाला दीमक
-ant, दुनिया
+ant, चींटी
 ```
 ```
 fly,मक्खी
