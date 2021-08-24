@@ -646,11 +646,11 @@ Self dispersal of seeds - *autochory*
 ## Match the following
 
 ```
-Earthworm, Destroys the egg and larva of mosquitoesVermi-compost
+Earthworm, Vermicompost
 Birds, Ornithophily
 Coconut, Dispersal by water
 Bee, Honey
-Dragonfly, Destroys the egg and larva of mosquitoes
+Dragonfly, Destroys larvae
 
 ```
 
