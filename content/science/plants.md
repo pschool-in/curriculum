@@ -425,7 +425,7 @@ Saffron, Dahlia, *Rose*.
 *Rose*, Boat lily, Crotons.
 
 ```
-## Answer in one word.
+## Answer in one word. (drag and drop)
 
 ```
 Green pigment in plant that help in tapping light - *chlorophyll*
@@ -510,9 +510,149 @@ Agriculture or farming is one of the main sources of the livelihood. It is the p
 
 Soil is one of the most important natural resources and is essential for agriculture. The organic and inorganic material on the surface of the earth that provides the medium for plant growth is called the soil. The soil is classified on the basis of the proportion of various sizes.
 
+Soil is one of the most important natural resources. It is essential for agriculture. It supports the growth of plants by holding the roots and supplying water and nutrients. It is the home for many organisms. Soil is formed by the breaking of rocks by the action of wind, water and climate. The mixture of rock particles and humus is called the soil. The soil is classified on the basis of the proportion of various sizes.
 
+## Group : Gynoecium vs Androceium
 
+Classify the below parts based on where they belong.
 
+Gynoecium: stamen, stalk, filament, anther, pollen. 
+
+Androceium: ovary, style, stigma, ovules.
+
+## Group : Unisexual vs Bisexual
+
+Classify the below plants into their respective type.
+
+Unisexual:  Coconut flowers, Papaya, Watermelon, Cucumber, Maize,  melon, Snake gourd, Bitter gourd, Tapioca, Pumpkin, Pine.
+
+Bisexual: Lily, Rose, Sunflower, Tulip, Daffodil, Mustard, Brinjal, Hibiscus, Tomato, Long bean, Chille, mango.
+
+## Group : Anemophily vs Hydrophily vs Entamophily
+
+Classify the below plants based on their mode of pollination.
+
+Anemophily:  wheat, rice, corn, barley, oats.
+
+Hydrophily: hydrilla, zostera, vallisneria. 
+
+Entamophily: sunflower, orchids. 
+
+## Group : Monocotyledon vs Dicotyledon
+
+Classify the below plants based on their type of seed.
+
+Monocotyledon: grass, palm,. orchid, lily, banana, wheat, rice. 
+
+Dicotyledon: bean, castor, pea.
+
+## Group : Anemochory vs Hydrochory 
+
+Classify the below plants based on their mode of seed dispersal .
+
+Anemochory: cotton, dandelion, drumstick.
+
+Hydrochory: lotus, coconut, salix.
+
+## Group : Zoochory vs Autochory
+
+Classify the below plants based on the type seed dispersal.
+
+Zoochory: xanthium, acyranthus.
+
+Autochory: ladies finger, balsam.
+ 
+## Group : Sandy vs Clay vs Loamy
+
+Classify the characteristic to their respective soil type.
+
+Sandy: big particles, drain quickly, dry, light,aerated.
+
+Clay : fine particles, tightly packed, little gap.
+
+Loamy: large and fine particles, mix of sand and clay, silt, water holding capacity.
+
+Life cycle of plants.
+
+```
+germination of seed, seedling, mature plant, flowering, pollination, reproduction, seed formation, seed dispersal.
+
+```
+## Match the following
+
+Match the pigments with their respective colour.
+
+```
+Anthocyanin, Purple
+Carotenoid, Orange
+Chlorophyll, Green
+Astaxanthin, Blood red
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+Neelakurinji that blossoms once in *12 (15)* years.
+
+To attract the *insects (moth)* plants are bright in colour and produce smell in their flowers.
+Plants which are pollinated by the moth and bats release their fragrance mostly at *night (noon)* and have colourless petals.
+agents.
+Pollination by *birds (bats)* is known as Ornithophily.
+Earthworms help to *increase (decrease)* the amount of air and water that gets into the soil.
+*Dragonfly (butterfly)* destroys the egg and larva of harmful insects and mosquitoes and prevents the spreading of diseases.
+
+```
+## True or False
+
+```
+True:
+Man is also responsible for the dispersal of many fruits and seeds.
+Every seed has minute plant called the embryo.
+After fertilization, the ovary grows into a fruit and other parts of
+the flower fall off.
+The cell which results after fusion of the gametes is called
+a zygote.
+
+False:
+The embryo forms into a zygote.
+Androecium is the female reproductive part.
+ 
+```
+## Jumbled words
+
+Connect the blocks to form meaningful words.
+
+```
+Androecium, Gynoecium, Anemochory, Hydrochory, Zoochory, Autochory, Anemophily, Hydrophily, Entamophily. 
+
+```
+## Answer in one word.(drag and drop)
+
+```
+Female reproductive organ - *gynoecium*
+Male reproductive organ - *androceium*
+Pollination through air - *anemophily*
+Pollination through water - *hydrophily*
+Pollination through animals - *entamophily*
+Seed with single cotyledon - *monocotyledon*
+Seed with two cotyledons - *dicotyledon*
+Seed dispersal by wind - *anemochory*
+Seed dispersal by water - *hydrochory*
+Seed dispersal by animals - *zoochory*
+Self dispersal of seeds - *autochory*
+
+```
+## Match the following
+
+```
+Earthworm, Destroys the egg and larva of mosquitoesVermi-compost
+Birds, Ornithophily
+Coconut, Dispersal by water
+Bee, Honey
+Dragonfly, Destroys the egg and larva of mosquitoes
+
+```
 
 **Drag and drop to match parts and their function.**
 
@@ -558,12 +698,4 @@ Soil is one of the most important natural resources and is essential for agricul
 8. The flowers which contain both androecium and gynoecium are called ______ flowers.
 
    bisexual, unisexual, asexual
-
-   
-      
-   
- ********************************************************************************************************************************
-Soil is one of the most important natural resources. It is essential for agriculture. It supports the growth of plants by holding the roots and supplying water and nutrients. It is the home for many organisms. Soil is formed by the breaking of rocks by the action of wind, water and climate. The mixture of rock particles and humus is called the soil. The soil is classified on the basis of the proportion of various sizes.
-
-
 
