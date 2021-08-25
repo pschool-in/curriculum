@@ -90,3 +90,29 @@ East
 West
 
 ```
+
+## Name the following
+
+```
+Type of map which shows boundary lines for states. *Physical map*
+The colour which  is used to indicate mountains and hills on the map. *Brown*
+The tool which is used for determining directions. *Compass*
+The direction between north and east. *North east*
+Kerala is situated in which part of India. *Southwestern*
+
+```
+
+## True or False
+
+```
+True:
+We can make a globe for small part of India.
+Plains and mountains are shown in different colour.
+
+False:
+Picture that stands for different features on a map is Index.
+The name of map is known as map key.
+There are three main directions east, west and south.
+
+```
+
