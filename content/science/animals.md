@@ -279,3 +279,35 @@ by the tiger.
 A Food web is an interconnection of multiple food chains. Transfer of
 energy between organisms of different energy sources occurs through food web.
 
+
+
+
+
+
+Chapter - Tamil g4 (Term 3): Life of Animals
+
+# Life of Animals
+
+## Reading
+Each animal has some unique behaviour. Animal behaviour includes the activities of an animal and its interaction with other organisms.
+
+### Group Behaviour in Animals
+Animals gain a lot of benefits from spending time together with other members of the same species. This is called group behaviour.
+Honey bees live together in a group and follow a hierarchy. Bees have one queen bee in every hive. There are a few male bees called drones.
+There are hundreds of female bees, which are the worker bees.
+
+In birds, Some birds permanently live in groups while others come together only during the breeding season. Not all the bird species build nests. Some of them lay their eggs on the ground or in gap between rocks.
+
+Elephant group is called Herd or Parade. For each group there is a female head, which leads the group towards the availability of food, water and safety.
+
+### Adaptation in Animals
+The changes in an animal's behaviour to adjust with its habitat is called adaptation. There are three types of adaptations:
+
+Changes in the physical features of the animal are called structural adaptations. Changes in the functions of the animal‛s body are called physiological adaptations.
+Changes in the activities of the animal are behavioural adaptations.
+
+### Structure of Insects
+Insects have three main body regions. They are:
+
+The main visible parts on the head are the large
+compound eyes, the antennae (feelers) and the mouth parts. The thorax is the middle region of the body. Abdomen The abdomen is the last part of the insect body.
