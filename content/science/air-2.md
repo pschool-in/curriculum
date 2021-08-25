@@ -90,8 +90,8 @@ Match the gases with their respective percentages in air.
 ```
 Nitrogen, 78%
 Oxygen, 21%
-Argon, 0.93%
-Carbon dioxide, 0.04%
+Argon, 0.07%
+Carbon dioxide, 0.03%
 Other gases, small quantities
 
 ```
