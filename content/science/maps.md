@@ -91,7 +91,7 @@ West
 
 ```
 
-## Name the following
+## Name the following (by drag drop)
 
 ```
 Type of map which shows boundary lines for states. *Physical map*
@@ -116,7 +116,7 @@ There are three main directions east, west and south.
 
 ```
 
-## Determine the directions with reference to the starting points
+## Determine the directions with reference to the starting points (by drag drop)
 
 ```
 Kaveri walks towards north, then she turns left. *West*
