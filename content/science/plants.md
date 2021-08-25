@@ -594,10 +594,8 @@ Astaxanthin, Blood red
 
 ```
 Neelakurinji that blossoms once in *12 (15)* years.
-
 To attract the *insects (moth)* plants are bright in colour and produce smell in their flowers.
 Plants which are pollinated by the moth and bats release their fragrance mostly at *night (noon)* and have colourless petals.
-agents.
 Pollination by *birds (bats)* is known as Ornithophily.
 Earthworms help to *increase (decrease)* the amount of air and water that gets into the soil.
 *Dragonfly (butterfly)* destroys the egg and larva of harmful insects and mosquitoes and prevents the spreading of diseases.
