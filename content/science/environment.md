@@ -464,5 +464,17 @@ Trees give *Oxygen (Carbon-di-oxide)* during day time.
 
 ## True or false
 
+```
+True:
+Fungi is a micro-organism.
+The young plant is called a sapling.
+Stones are an abiotic factor
+
+False:
+An elephant is an omnivore animal.
+Soil is a consumer.
+```
+
+
 
 
