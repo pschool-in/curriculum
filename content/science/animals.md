@@ -336,6 +336,13 @@ body are called viviparous animals. Humans, cows, deer and dogs are some example
 
 The type of reproduction in which only a single parent, gets divided into two new offspring, is known as asexual reproduction. There are four primary ways of asexual reproduction in animals: Fission, Budding, Fragmentation and Spore formation.
 
+### Conservation of Animals
+A National park is an area which is strictly reserved for the betterment of
+the wild life. The national parks cover an area of 100 – 500 square kilometers. In these areas, private ownership rights are not allowed.
+
+A sanctuary is a protected area which is reserved for the conservation of animals only. Harvesting of timber, collection of forest products and private
+ownership rights are allowed here.
+
 
 
 
