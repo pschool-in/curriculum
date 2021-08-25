@@ -1,4 +1,4 @@
-Chapter - maha g3: Directions and Maps
+Chapter - maha g3: Directions and Maps, maha g4: Directions and Maps
 # Directions and Maps (g3)
 
 ## Reading
@@ -126,5 +126,13 @@ I am facing west, now I am facing the opposite direction. *East*
 
 ```
 
+
+maha g4: Maps and Symbols
+# Maps and Symbols (g4)
+
+## Fill in the blanks (by drag drop)
+
+```
+*Moving objects* are not included on a map.
 
 
