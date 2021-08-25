@@ -240,4 +240,42 @@ For each type of butterfly, the type of plant on whose leaves its female will la
 In three to four days, the larva emerges from the egg.
 ```
 
+Chapter - Tamil g3 (Term 3): Animal Life
+
+# Animal Life
+
+## Reading
+
+Animal life can be broadly undertood on the basis of the following:
+
+1. Habitat of animals
+2. Undestanding the food procurement by animals
+3. Identifying the eating habits of the animals
+4. Knowing the mouthparts of the birds and insects
+5. By realising the importance of food chain and food web in the environment.
+
+### Animals in different environment
+The living place of an animal or a plant is called habitat. The basic needs such as food, water, shelter and place to breed are found in a habitat.
+Animals that live on land are called terrestrial animals. E.g., Ants, Cats and Lion. While, Animals that live in water are called aquatic
+animals. E.g., Fish, Dolphin and Crab.
+
+### How do animals get their foods?
+Animals cannot make their own food. They depend on plants or other plant-eating animals for their food. Some animals can even consume both plants and animals.
+
+### Identification on the basis of eating habits
+Animals that eat only plants are called herbivorous animals or herbivores (Plant eaters).
+Flesh eating animals are called carnivorous animals or carnivores. 
+Some animals eat both plants and the flesh of other animals. These animals are
+called omnivorous animals or omnivores. 
+
+### Mouthparts of animals
+Mouth parts are different parts of the mouth that are adapted based on the nature of food that the animal eats. It is difficult to identify them sometimes.
+
+### Food chain and food web
+A food chain gives us information on how living things are related with
+one another by the food they eat. For example, grass is eaten by deer. The deer is eaten
+by the tiger.
+
+A Food web is an interconnection of multiple food chains. Transfer of
+energy between organisms of different energy sources occurs through food web.
 
