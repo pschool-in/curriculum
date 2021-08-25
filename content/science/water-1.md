@@ -41,3 +41,34 @@ Water is very important in our lives!
 ```
 Rainwater, River, Pond, Lake, Ocean, Sea, Well.
 ```
+# Chapter maha g3: Where does water come from?
+
+## Reading
+
+### Where does water come from?
+
+Simply put, it comes from THE RAIN. 
+
+Rain water leads to rise in rivulets, streams and rivers. 
+
+Still water forms lakes and ponds.
+
+Some water gets deposited under the ground and we usually extract it through wells, hand-pumps and bore-wells.
+
+### Fun fact!
+
+1. Dams are built to slower the flow of water, to save it and to generate energy.
+
+2. Rainwater harvesting is another good technique for conserving water in which the rainwater is collected from he roofs of the house and gets deposited in the tank.
+
+### How rivers are formed?
+
+When rain falls on the mountains, water flows down. Further, many rivulets combine to form a river.
+
+### Which of these sources of water are natural and which ones are man-made? (Drag and drop)
+
+```
+Man-made: wells, dams, bore-wells, hand-pumps, canals, taps, reservoirs.
+
+Natural: springs, streams, rivers, lakes, creeks, seas, oceans, ponds.
+```
