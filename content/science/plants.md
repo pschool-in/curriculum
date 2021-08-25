@@ -142,6 +142,8 @@ The hard part inside the fruit is called seed. Most plants grow from seeds.
 
 Classify the below plants based on the habitat they belong.
 
+``` 
+
 Terrestrial: sunflower, rose, daffodils, poison ivy, tulip, cactus, papaya, pineapple, apricot. 
 
 Aquatic: lotus, water lily, duckweed, watercress, water hyacinth, hydrilla, vallisneria
@@ -155,10 +157,14 @@ Free floating: duckweed, mosquito fern, water hyacinth, pistia.
 Fixed rooted: lotus, watershield, lotus, water lily.
 
 Submerged: vallisneria, hydrilla, pondweed.
+ 
+``` 
 
 ## Group : Dessert vs Mountain vs Plain
 
 Classify the below plants based on their habitat.
+
+``` 
 
 Dessert: opuntia, aloe vera, cactus, date palm. 
 
@@ -174,9 +180,13 @@ Cold climate: beet, carrot, turnip, radish, kale, spinach, pea, onion, lettuce, 
 
 Hot climate: lily, rose, chrysanthemum, bougainvillea, brinjal, chilli, cucumber, tomato.
 
+```
+
  ## Group : One seed vs Many seeds vs Seedless
 
 Classify the below fruits based on the number of seeds they produce .
+
+```
 
 One seed: avocado, mango, cherry, apricot.
 
@@ -184,21 +194,31 @@ Many seeds: guava, watermelon, strawberry, figs, jackfruit, tomato, pomegranate.
 
 Seedless: pineapple, banana.
 
+```
+
 ## Group : Tap root vs Fibrous root
 
 Classify the below plants based on the type of root system the contain.
+
+```
 
 Tap root: beet root, carrot, parsnip, parsley.
 
 Fibrous root: rice, wheat, barley, oats, rye, millet.
 
+```
+
 ## Group : Weak vs Strong
 
 Classify the below plants based on the type of stem the contain.
 
+```
+
 Weak: watermelon, grapes, pumpkin, bean, cucumber.
 
 Strong : neem, banyan, mango, deodar. 
+
+```
 
 ## Match the following
 
@@ -328,57 +348,85 @@ Based on the colour present in the plant, they are classified into Green and Non
 
 Classify the below plants based on whether they produce flowers.
 
+```
+
 Flowering: sunflower, rose, daffodils, tulip, cactus, neem, paddy, mango. 
 
 Non flowering: algae, fungi, ferns, moses.
+
+```
 
 ## Group : Green vs Non green
 
 Classify the below plants based on colour.
 
+```
+
 Green: paddy, rice, grass, moss, conifer, algae.
 
 Non green: mushroom, moulds, bracket fungi, yeast.
+
+```
 
 ## Group : Winter vs Summer
 
 Classify the below flowers based on the season they bloom.
 
+```
+
 Winter: december, winter jasmine, tuberose, pansy.
 
-Summer:  jasmine, sunflower, rose, marigold, bougainvillea, daisy. 
+Summer:  jasmine, sunflower, rose, marigold, bougainvillea, daisy.
+
+```
 
 ## Group : Autumn vs Spring
 
 Classify the below flowers based on the season they bloom.
 
+```
+
 Autumn: dahlia, saffron, hibiscus, chrysanthemum. 
 
 Spring: tulip, pansy, daffodil, prime rose.
+
+```
 
  ## Group : Root vs Stem
 
 Classify the below plants based on their edible part.
 
+```
+
 Root: carrot, beetroot, tapioca.
 
 Stem: onion, turmeric, sugarcane.
+
+```
 
 ## Group : Leaf vs Flower
 
 Classify the below plants based on their edible part.
 
+```
+
 Leaf: coriander, cabbage, moringa.
 
 Flower: banana flower, cauliflower, cloves.
+
+```
 
 ## Group : Fruits vs Grains
 
 Classify the below plants based on their edible part.
 
+```
+
 Fruits: watermelon, grapes, pumpkin, tomato, mango.
 
-Grains: rice, pulses, fenugreek. 
+Grains: rice, pulses, fenugreek.
+
+```
 
 ## Match the following
 
@@ -516,21 +564,31 @@ Soil is one of the most important natural resources. It is essential for agricul
 
 Classify the below parts based on where they belong.
 
+```
+
 Gynoecium: stamen, stalk, filament, anther, pollen. 
 
 Androceium: ovary, style, stigma, ovules.
+
+``` 
 
 ## Group : Unisexual vs Bisexual
 
 Classify the below plants into their respective type.
 
+```
+
 Unisexual:  Coconut flowers, Papaya, Watermelon, Cucumber, Maize,  melon, Snake gourd, Bitter gourd, Tapioca, Pumpkin, Pine.
 
 Bisexual: Lily, Rose, Sunflower, Tulip, Daffodil, Mustard, Brinjal, Hibiscus, Tomato, Long bean, Chille, mango.
 
+```
+
 ## Group : Anemophily vs Hydrophily vs Entamophily
 
 Classify the below plants based on their mode of pollination.
+
+```
 
 Anemophily:  wheat, rice, corn, barley, oats.
 
@@ -538,39 +596,57 @@ Hydrophily: hydrilla, zostera, vallisneria.
 
 Entamophily: sunflower, orchids. 
 
+```
+
 ## Group : Monocotyledon vs Dicotyledon
 
 Classify the below plants based on their type of seed.
+
+```
 
 Monocotyledon: grass, palm,. orchid, lily, banana, wheat, rice. 
 
 Dicotyledon: bean, castor, pea.
 
+```
+
 ## Group : Anemochory vs Hydrochory 
 
 Classify the below plants based on their mode of seed dispersal .
+
+```
 
 Anemochory: cotton, dandelion, drumstick.
 
 Hydrochory: lotus, coconut, salix.
 
+```
+
 ## Group : Zoochory vs Autochory
 
 Classify the below plants based on the type seed dispersal.
 
+```
+
 Zoochory: xanthium, acyranthus.
 
 Autochory: ladies finger, balsam.
+
+```
  
 ## Group : Sandy vs Clay vs Loamy
 
 Classify the characteristic to their respective soil type.
+
+```
 
 Sandy: big particles, drain quickly, dry, light,aerated.
 
 Clay : fine particles, tightly packed, little gap.
 
 Loamy: large and fine particles, mix of sand and clay, silt, water holding capacity.
+
+```
 
 ## Life cycle of plants. (sorting)
 
