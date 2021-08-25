@@ -311,3 +311,31 @@ Insects have three main body regions. They are:
 
 The main visible parts on the head are the large
 compound eyes, the antennae (feelers) and the mouth parts. The thorax is the middle region of the body. Abdomen The abdomen is the last part of the insect body.
+
+
+
+
+
+Chapter - Tamil g5 (Term 3): Animals
+
+# Animals
+
+## Reading
+Due to increasing exploitation of animals, it is important to understand reproduction in animals, extinction of animals and the ways to preserve them.
+
+### Reproduction in Animals
+Reproduction is the biological process by which an organism gives rise to a new organism. There are two types of reproduction in animals: sexual reproduction and asexual reproduction. 
+
+Sexual reproduction consists of the following stages:
+a) Pre-fertilization
+b) Fertilization 
+c) Post-fertilization
+
+Animals in which embryo develops outside the body are called oviparous animals, ex: Butterfly and Frogs. Animals in which the embryo develops inside the
+body are called viviparous animals. Humans, cows, deer and dogs are some examples.
+
+The type of reproduction in which only a single parent, gets divided into two new offspring, is known as asexual reproduction. There are four primary ways of asexual reproduction in animals: Fission, Budding, Fragmentation and Spore formation.
+
+
+
+
