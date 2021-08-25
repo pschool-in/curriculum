@@ -572,7 +572,7 @@ Clay : fine particles, tightly packed, little gap.
 
 Loamy: large and fine particles, mix of sand and clay, silt, water holding capacity.
 
-Life cycle of plants.
+## Life cycle of plants. (sorting)
 
 ```
 germination of seed, seedling, mature plant, flowering, pollination, reproduction, seed formation, seed dispersal.
