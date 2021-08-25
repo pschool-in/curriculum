@@ -388,5 +388,81 @@ Biotic factors are also called living things and abiotic factors are also called
  
  Microorganisms that feed on the decaying waste such as dead plants and animals for their survival and are called decomposers. Those micro-organisms support the environment by giving nutrients to the soil. So soil turns more fertile and this helps to grow the plants and trees well.  For example; Bacteria, fungi, etc.
 
-## Group : 
+## Group : Plant-based products Vs. Animal-based products
+
+Classify the below things based on the category of Plant-based products Vs. Animal-based products
+
+Plants based products: Ketchup, Popcorn, Lettuce, French fries
+
+Animal-based products: Milk, Cheese, Eggs, Ice cream
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Wood, Furniture
+Wind energy, electricity
+Leather, Bags
+Sheep, Wool
+Farmer, food
+```
+
+## Multiple Choice Questions
+
+```
+ ___________ is classified under decomposers.
+Fungi
+Lotus
+Tomato
+Lentils
+
+Humans are classified under __________
+Omnivores
+Carnivores
+Herbivores
+None of the above
+
+___________ are also called as primary producers.
+Plants
+Animals
+Insects
+Human beings
+
+Van Mahotsav means _______________
+Festival of forests
+Festival of animals
+Festival of human beings
+None of the above  
+
+Choose a correct food chain sequence from the following orders
+Plant – Deer- Lion
+Lion- Bacteria – Humans
+Humans – plants – Tiger
+Fox – Fungi - Humans
+```
+
+## Fill in the blanks (By Drag Drop)
+
+```
+Amoeba is a *unicellular organism*.
+*Ecology* is the science that deals with the relationship between biotic factors and their physical environment.
+Plants prepare their food on their own and the process is called *photosynthesis*.
+*Parasitic plants* are dependent on other plants for their food.
+Carnivores are *flesh-eating animals*
+```
+
+## Fill in the blanks (Using options)
+
+```
+*Decomposers (Producers)* get food from the decay of animals and plants.
+Trees give *Oxygen (Carbon-di-oxide)* during day time.
+*Lentils (Insects)* grows in the fertile soil.
+*Cats (Hens)* gives birth to kittens. 
+*Tree (Sapling)*provides both shelter and food to other living things.
+```
+
+## True or false
+
+
 
