@@ -116,3 +116,15 @@ There are three main directions east, west and south.
 
 ```
 
+## Determine the directions with reference to the starting points
+
+```
+Kaveri walks towards north, then she turns left. *West*
+Prakash drove towards east and then turned right. *South*
+Raja walks towards south, then turns left and again turns left. *North*
+I am facing west, now I am facing the opposite direction. *East*
+
+```
+
+
+
