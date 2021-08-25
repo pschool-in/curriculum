@@ -356,5 +356,36 @@ Frogs will be so active during wintertime.
 During the autumn season, fresh buds will bloom, and the new beginning of life starts.
 ```
 
+Chapter: tn-3-3-science: Our Environment
+
+## Reading
+
+### Biotic Factors 
+
+Biotic factors are the living organisms in our environment. For example; Trees and Plants, Animals, Birds, Human beings, etc.
+
+### Abiotic factors 
+
+Abiotic factors are the non-living organisms in our environment. For example; Temperature, Water, air, stone, mountain, etc.
+
+### Difference between Biotic factors and Abiotic factors
+
+Biotic factors are also called living things and abiotic factors are also called non-living things. Biotic factors can feel, breathe and grow. They need food for living and they will give birth to young ones. Abiotic factors do not grow and breathe. They cannot feel and food is not necessary for them. Besides, they do not give birth to young ones. Moreover, all abiotic and biotic factors are linked together in the environment by the flow of energy via food. Living things and non-living things interact with one another in the environment. Moreover, plants are not able to move from one place to another, but they will be able to grow and also their branches will develop well. Plants can make prepare their food by using abiotic factors like soil, water, air, sunlight, etc. Every biotic factor depends on other things for food in the environment.
+
+### Balanced – Ecosystem
+
+ The food chain plays a more important role in every biotic/ living thing in the environment. Living things are dependent on both living things and non-living things for food, survival in this ecosystem. Based on consumption of food, living things/ biotic factors are categorized into three types. They are Producers, Consumers, and Decomposers. Our ecosystem supports living things such as plants, animals, human beings, and also micro-organisms to grow in the environment.
+ 
+ ### Producers
+ 
+ Some types of living things can able to prepare their food by themselves and they are called producers. For example, Plants & trees are classified under producers. Plants will prepare the food by the process called photosynthesis. Plants are also called primary producers. Moreover, humans and animals depend upon plants for their food. Some types of plants do not prepare their food by themselves and they will depend upon other plants for food. These types of plants are called parasitic plants. For example, Cuscuta. 
+ 
+ ### Consumers
+ 
+ Some types of living things are not able to produce food on their own and it is dependent for food on plants and animals for its survival. They are called Consumers and they can be classified into three categories. They are Herbivores, Carnivores and Omnivores. When living things are dependent fully on plants for their food and they are called Herbivores. When living things eats only flesh animals for their food and they are called Carnivores. When living things are dependent fully on plants and animal's flesh (meat) for their food and they are called Omnivores.
+ 
+ ### Decomposers
+ 
+ Microorganisms that feed on the decaying waste such as dead plants and animals for their survival and are called decomposers. Those micro-organisms support the environment by giving nutrients to the soil. So soil turns more fertile and this helps to grow the plants and trees well.  For example; Bacteria, fungi, etc.
 
 
