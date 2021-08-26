@@ -14,7 +14,7 @@ monkey| बंदर
 tiger| बाघ
 ```
 ```
-hippo| दरियाई घोड़ा
+hippo| जलहस्ती
 rhino| गैंडा
 fox| लोमड़ी
 crocodile| मगरमच्छ
@@ -22,7 +22,7 @@ bear| भालू
 camel| ऊंट
 fish| मछली
 frog| मेंडक
-snake| सर्प
+snake| साँप
 tortoise| कछुआ, 
 ```
 ```
