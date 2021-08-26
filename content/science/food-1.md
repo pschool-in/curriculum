@@ -96,6 +96,23 @@ maha g3: Our diet
 
 ## Group: Healthy food Vs Unhealthy food
 
+Classify the following
+
+Healthy food: Wheat, Pulses, Sprouts, Vegetables
+
+Unhealthy food: White bread, Cookies, Pizza, Potato chips
+
+## Fill in the blanks (by drag drop)
+
+```
+Healthy food makes our body *fit*.
+A balanced diet is one which contain all the *nutrients*.
+Work done when sitting is *sedentary work*.
+Oils and fat give us *calories*.
+If our diet is not balanced we may suffer from *diseases*.
+
+```
+
 
 
 
