@@ -63,6 +63,13 @@ Madhya Pradesh
 Odisha
 Gujarat
 None of the above
+
+_______ is situated in Tamil Nadu.
+Fort Geldria
+Murud-Janjira Fort
+Mehrangarh Fort
+None of the above
+
 ```
 
 ## Fill in the blanks (By Drag Drop)
