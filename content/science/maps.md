@@ -169,7 +169,7 @@ Port known for handling bulk Cargo on the eastern coast. *Visakhapatnam*
 Jaipur : Rajasthan :: Shimla : *Himachal Pradesh*
 Godavari : Maharashtra :: Narmada : *Madhya Pradesh*
 Cotton : Natural :: Plastic : *Man-made*
-Northeast : Southeast :: Northwest : Southwest
+Northeast : Southeast :: Northwest : *Southwest*
 
 ```
 
