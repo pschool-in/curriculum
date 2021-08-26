@@ -43,16 +43,6 @@ mosquito| मच्छर
 lizard| छिपकली
 rabbit| खरगोश
 ```
-```
-mongoose, नेवला
-mosquito, मच्छर
-octopus, 
-wolf, भेड़िया
-cockroach, तिलचट्टा
-garden-lizard, बिछकपडा 
-lizard, छिपकली
-rabbit, खरगोश
-```
 # birds (चिड़िया)
 ```
 crow| कौवा
@@ -236,26 +226,26 @@ tooth| दांत
 
 # Tools
 ```
-Axe, कुल्हाडी
-balance, तराज़ू
-Black board, श्यामपट 
-hose, नली
-microscope, सूछ्म दर्शी
-Needle, सुई
-Oven, तन्दूर
-plough, हल 
-Saw, आरी
-Spade, कुदाली
-Stethescope,
-telescope, दूरबीन
-thermometer, 
-trowel, करनी
-walkie-talkie, 
-awl, टेकु आ 
-Compass, कुतुबनुमा
-easel, चित्रफलक
-hacksaw, लोहा-आरी
-scalpel, छुरी
+Axe| कुल्हाडी
+balance| तराज़ू
+Black board | श्यामपट 
+hose | नली
+microscope| सूछ्म दर्शी
+Needle | सुई
+Oven | तन्दूर
+plier| 
+plough | हल 
+Saw| आरी
+Spade| कुदाली
+Stethescope|
+telescope| दूरबीन
+testube | 
+thermometer| 
+trowel| करनी
+Compass| कुतुबनुमा
+easel| चित्रफलक
+hacksaw| लोहा-आरी
+scalpel| छुरी
 ```
 
 # others
