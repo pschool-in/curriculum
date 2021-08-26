@@ -134,5 +134,44 @@ maha g4: Maps and Symbols
 
 ```
 *Moving objects* are not included on a map.
+An area is shown to take exactly the same turns on a map is a *winding road*.
+The largest river basin of India is the *Ganga basin*.
+Andhra pradesh is located in the *southern* region of India.
+*Ajanta caves* are situated in Aurangabad district.
+
+```
+
+## Match the following
+
+```
+Maharashtra, Mumbai
+Jammu and Kashmir, Srinagar
+Telangana, Hyderabad
+Odisha, Bhubaneshwar
+West bengal, Kolkata
+
+```
+
+## Answer the following (by drag drop)
+
+```
+River originated from Gomukh. *Ganga river*
+State in which Bhimbhetika caves are situated. *Madhya pradesh*
+Where the source of Kaveri is located? *Western ghats*
+India's largest port by size. *Mumbai port*
+Port known for handling bulk Cargo on the eastern coast. *Visakhapatnam*
+
+```
+
+## Answer the following with refernce to given examples (by drag drop)
+
+```
+Jaipur : Rajasthan :: Shimla : *Himachal Pradesh*
+Godavari : Maharashtra :: Narmada : *Madhya Pradesh*
+Cotton : Natural :: Plastic : *Man-made*
+Northeast : Southeast :: Northwest : Southwest
+
+```
+
 
 
