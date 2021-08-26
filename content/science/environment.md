@@ -38,6 +38,8 @@ Non-living thing: Stone, Water, Wooden chair, Bread
 
 ## Match the following
 
+Match the following with its correct one
+
 ```
 Birds, nest
 Silk, Clothes
