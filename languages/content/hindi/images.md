@@ -166,7 +166,7 @@ aeroplane, हवाई जहाज
 boat, नाव
 bus
 car, गाड़ी
-cycle, चक्र
+cycle,
 helicoptor
 motorbike, मोटरसाइकिल
 ship, समुंद्री जहाज
