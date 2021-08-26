@@ -20,3 +20,16 @@ Ambon is an animal feed made from a fermented mixture of oilcake, jaggery, and c
 7. Wild animals such as the tiger and lion hunt and eat other animals.When they are starving, they are sometimes driven to enter neighbouring villages. 
 The livestock are then killed and taken away.
 8. Foxes have been known to venture into human settlements. They are unable to kill cattle. The majority of their time is spent stealing poultry.
+
+
+
+## Group: Herbivorous animals Vs carnivorous animals
+
+Classify the below animals on the basis of their food.
+
+Herbivorous animals: Cow, Horse, sheep, Deer
+
+Carnivorous animals: Tiger, Lion, Hyena, Wolf
+
+
+
