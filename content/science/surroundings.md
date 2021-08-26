@@ -15,3 +15,59 @@ People in villages are dependent on marketplaces to fulfill their daily essentia
 ### Historical places and monuments
 
 India has a rich heritage and it is well known for its old culture. Many places in India have more historical values and it helps us to understand the history. Mostly all places in India are named in memory of famous historical things, religious places, etc.  Moreover, the places in India are also renowned by famous historical persons. Some places are famous for historical buildings, some places are well known for historical events. We are gifted to get this treasure and it is our responsibility to preserve its value. 
+
+## Group : Farming Implements Vs. Weaving implements
+
+Classify the below things based on the category of Farming Implements and Weaving implements
+
+Farming implements: Spades, Garden fork, Pickaxe, Mouldboard plows
+
+Weaving implements: Dowels, Shed stick, Shed stick, Warp yarn  
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Delhi, Red fort
+Jaipur, Amber Fort
+Telangana, Golconda Fort
+Rajasthan, Chittorgarh Fort
+Chennai, Fort St. George
+```
+
+## Multiple Choice Questions
+
+```
+______________ is  World Heritage Day.
+18th April
+20th June
+23rd April
+25th April
+
+India Gate is situated in ___________
+Delhi
+Mumbai
+Kashmir
+None of the above
+
+
+Essential items are available in ________________.
+Market place
+Mall
+Temple
+Fort
+
+Khajuraho Temples is situated in ___________.
+Madhya Pradesh
+Odisha
+Gujarat
+None of the above
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+
+
