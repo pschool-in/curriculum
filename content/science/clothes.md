@@ -293,4 +293,31 @@ Aurangabad is famous for *Himroo shawls*
 Solapur is known for *Bedsheets*
 
 Ichalkaranji is well known for *Handloom*
+
 ```
+***************************************************************************************************************************************************************************
+
+## Additional activities - by Sanha
+
+## Fill in the Blanks (using options)
+
+Drag and drop the words at proper places.
+
+```
+*Mumbai (Goa)* is famous worldwide for its textile mills.
+Wanting things you do not need is *desire (want)*, not necessity.
+Several regions in our country have a tradition of producing fabrics
+*characteristic (traditional)* of the place.
+It is cold. Put on your *coat (umbrella)*.
+It is snowy. Put on your *gloves (skirt)*.
+It is sunny. Put on your *sunglasses (boots)*.
+I take my *umbrella (skirt)* on a rainy day.
+I wear my *hat (boot)* on sunny day.
+It is cool. Put on a *jacket (bag)*.
+It is cold. Put on a *scarf (skirt)*.
+It is *cold (rainy)*. Take your sweater.
+It is *rainy (cold)*. Take your umbrella.
+
+```
+## Wordsearch
+
