@@ -205,7 +205,52 @@ Jute, fibres
 Cap, summer
 
 Raincoat, winter
+
 ```
+***************************************************************************************************************************************************************************
+
+## Additional activities - by Sanha
+
+## Fill in the Blanks (By Drag Drop)
+
+Drag and drop the words at proper places.
+
+```
+Cloth or fabric is made by intertwining *threads* together. Intertwining threads together is called *weaving*.
+The wad of *cotton* is twisted into a long wick.
+Sweaters, caps, etc. are woven with the help of *knitting needles* at home.
+*Handlooms* and powerlooms are used to weave cloth on a large scale.
+We must always have *clean* clothes in order to remain healthy and look neat and tidy.
+
+```
+## Group: Natural vs Artificial
+
+Arrange the materials based on their source of origin.
+
+```
+Natural : cotton, wool, silk, jute.
+
+Artificial: nylon, rayon.
+
+```
+## Match the following.
+
+Match the traditional dresses to their respective state.
+
+```
+Ikkat saree, Andhra Pradesh
+Mekhela Chador, Assam
+Dhoti-kurta, Bihar
+Kachhora,  Chhattisgarh 
+Nav-vari, Goa
+Kediyu-chorno, Gujrat
+Daaman, Haryana
+Tussar silk saris ,  Jharkhand 
+Mundum Neriyathum, Kerala
+Puan, Mizoram
+
+```
+*************************************************************************************************************************************************************************
 
 # Chapter - maha g5: Clothes - our Necessity
 
