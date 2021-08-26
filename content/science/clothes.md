@@ -103,6 +103,31 @@ What do we wear to go to school - *uniform*
 What do we wear to protect our hands from cold - *gloves*
 
 ```
+## Fill in the Blanks (By Drag Drop)
+
+Drag and drop the words at proper places.
+
+```
+Clothes *protect* us from heat, cold and rain.
+We wear *cotton* clothes in summer.
+Woollen clothes keeps us *warm*.
+We use *raincoat* or umbrella when it rains.
+
+```
+## True or False
+
+```
+True:
+We get wool from sheep.
+We get silk from silkworm.
+We wear woolen clothes in summer.
+Lawyer wears black coat.
+
+False:
+We wear party wear to school.
+Doctors wear yellow coats.
+
+```
 ************************************************************************************************************************************************************************
 
 # Chapter - maha g4: Clothes
