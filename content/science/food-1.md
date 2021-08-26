@@ -74,4 +74,26 @@ The process of making food using sunlight, carbon dioxide and water is called *P
 ```
 
 
+maha g3: Our diet
+# Our diet (g3)
+
+## Reading
+1. Every day, we eat some food. We eat between meals. We also have m ilk, tea, coffee. Our daily diet includes everything we eat and drink.
+2. We make a lot of muscular movements when working. This labour is difficult. It's called physical labour. Work makes us hungry.
+3. Some tasks can be done while seated. It requires no physical exertion. Such work is sedentary work.
+
+## Variety in food
+1. Rice becomes a key element of the diet of those who live in areas where rice grows abundantly.
+2. People in areas where jowar or bajra is a major crop include more ‘bhakari' in their diets.
+3. In certain regions, wheat is the major crop. People in those regions eat more chapatis.
+4. In the sea, there is an abundance of fish. As a result, the Konkan people consume a lot of fish in their diet.
+5. We receive different vegetables and fruits at different times of the year depending on their seasons. As a result, the foods in our diet change as well.
+
+## We should take care of our food
+1. We should eat food made at home.
+2. Sprouted pulses, leafy vegetables, buttermilk and yoghurt should be included often in our diet.
+3. We should avoid products shown in newspapers and TVs. The advertisements are tempting but it does not mean that they are healthy for our body.
+
+## Multiple choice questions
+
 
