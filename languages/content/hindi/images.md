@@ -22,7 +22,7 @@ zebra, धारीदार घोडा
 bear, भालू
 camel, ऊंट
 shark, हाँगर
-whale, तिमिंगल
+whale,
 dolphin, 
 ```
 ```
