@@ -100,5 +100,12 @@ Humayun tomb is located in Gujarat.
 Gate of India is situated in Delhi.
 ```
 
+Chapter : tn-3-2-social: Historical Places
 
+## Reading
 
+### Historical Places
+
+Historical places have famous buildings or famous sites or religious cultures that have been preserved due to their rich cultural- heritage. Every historical place has its own (story) historical importance and they are preserved carefully by our government. Historical places add important value to a nation’s heritage. It also helps in promoting tourism. Moreover, historical places will also tell us about the ancient lifestyle. By reading and knowing a lot about historical places, we can know about where we come from. Historical places mark important events in history.
+
+Group: 
