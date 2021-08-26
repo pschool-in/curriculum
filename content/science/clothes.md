@@ -33,12 +33,14 @@ Men: Dhoti, pyjama, lungi, trousers, mundase, pheta, pagdi etc.
 Women: Saris, salwar-suit, frocks, skirts, gowns, tops etc.
 
 Common: Shirts, pants, jeans, t-shirts, caps, hats etc.
+
 ```
 
 ### Who's uniforms are these? (displaying pictures)
 
 ```
 Pictures of a soldier, policeman, nurse, doctor, fireman, traffic police, student.
+
 ```
 
 ### Which clothes are suitable for which season? (drag and drop)
@@ -47,6 +49,7 @@ Pictures of a soldier, policeman, nurse, doctor, fireman, traffic police, studen
 Summer: Skirts, shorts, cotton clothes, kurtas.
 
 Winter: Coats, sweaters, mufflers, gloves, socks.
+
 ```
 
 ### Fun fact!
@@ -61,7 +64,46 @@ Soldiers wear *Khaki* clothes in deserts.
 Soldiers wear *Green* clothes in jungles.
 
 Soldiers wear *White* clothes in The Himalayas.
+
 ```
+**********************************************************************************************************************************************************************
+
+## Additional activities - by Sanha
+
+## Who am I ? (drag and drop)
+
+```
+I wear a white coat and examine patients. - *Doctor*
+I wear blue clothes and put out fires. - *Firefighter*
+You always see me in khaki clothes.
+I go wherever there is a fight. - *police*
+I work in a hospital and take care of patients. - *nurse*
+I am always ready to protect the country.- *soldier*
+
+```
+## Match the following
+ 
+```
+Summer,cotton clothes
+Winter, woolen clothes
+Rain, raincoat
+Polyester, artificial fiber
+Silk, silkworm
+
+```
+## What do we wear? (drag and drop)
+
+```
+What do we wear to protect our feet - *shoes*
+What do we wear to keep ourselves dry in rain - *raincoat*
+What do we wear when we go to bed - *pyjamas*
+What do we wear to protect ourselves from cold - *sweater*
+What do we wear to provide shade from sunlight - *hat*
+What do we wear to go to school - *uniform*
+What do we wear to protect our hands from cold - *gloves*
+
+```
+************************************************************************************************************************************************************************
 
 # Chapter - maha g4: Clothes
 
