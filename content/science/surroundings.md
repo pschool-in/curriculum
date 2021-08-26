@@ -116,3 +116,49 @@ Chapter : tn-3-2-social: Historical Places
 Historical places have famous buildings or famous sites or religious cultures that have been preserved due to their rich cultural- heritage. Every historical place has its own (story) historical importance and they are preserved carefully by our government. Historical places add important value to a nation’s heritage. It also helps in promoting tourism. Moreover, historical places will also tell us about the ancient lifestyle. By reading and knowing a lot about historical places, we can know about where we come from. Historical places mark important events in history.
 
 Group: 
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Mecca Masjid, Hyderabad
+Undavalli Caves, Amaravathi
+Dhamekh Stupa, Varanasi 
+Santhome Church, Chennai
+Sree Padmanabhaswamy Temple, Kerala
+```
+
+## Multiple Choice Questions 
+
+```
+Tomb of Akbar is located in ________
+Agra
+Noida
+Gurugram
+None of the Above
+
+ _____________ Fort is first English fort in India.
+Fort St. George
+Sewri Fort
+Mahim Fort
+None of the Above
+
+Vivekanandha rock is situated in __________
+Kanyakumari
+Calcutta
+Hampi
+Kochi
+
+______________ is the capital of the Pallavas dynasty.
+Kanchipuram
+Madurai
+Trichy
+Vellore
+
+ ____________ is palace of winds
+Hawa Mahal
+Tipu and Hyder Mahal
+Taj Mahal
+None of the above
+
