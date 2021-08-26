@@ -31,5 +31,15 @@ Herbivorous animals: Cow, Horse, sheep, Deer
 
 Carnivorous animals: Tiger, Lion, Hyena, Wolf
 
+## Match the following
+
+```
+Milk, Cat
+Flesh, Lion
+Rabiits and earthworms, Fox
+Bengal gramme, Horse
+Oilcake, Cow
+
+```
 
 
