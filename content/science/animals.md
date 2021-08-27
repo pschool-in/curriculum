@@ -247,6 +247,15 @@ In three to four days, the larva emerges from the egg.
 
 www.pschool.in/1630051473345
 
+Complete the life cycle. (Start with egg)
+
+```
+egg, tadpole, tadpole with legs, young frog, adult frog.
+egg, caterpillar, chrysalis, butterfly.
+egg, embryo, hatching, chick, chicken.
+
+```
+
 **********************************************************************************************************************************************************************
 
 Chapter - Tamil g3 (Term 3): Animal Life
