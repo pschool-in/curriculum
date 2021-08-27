@@ -4,9 +4,7 @@
  
 ## Chapter: tn-3-3-science : Air
 
-The content has been created already and is available in the URL : 
-
-pschool.in/air/100 
+The content has been created already and is available in the URL : pschool.in/air/100 
 
 ************************************************************************************************************************************
 
