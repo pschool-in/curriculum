@@ -156,6 +156,73 @@ Sweeping : Physical labour :: Sitting : Sedentary work
 
 ```
 
+maha g3: Our Kitchen
+# Inside the Kitchen! (g3)
 
+## Reading
 
+1. Heating is used to prepare our food.
+2. To cook rice, we add water to the rice and bring it to a boil.
+3. Puris and pakodas are deep-fried. They are fried in oil or ghee.
+4. Idlis and modaks are steamed.
+5. Chapatis and bhakaris are roasted.
 
+When foods are heated, they become tastier and simpler to digest.
+
+## Glossory
+
+Combustible material: A combustible substance is something that can burn. 
+A fuel is a combustible substance that can be utilised to generate heat in a convenient manner. Fuels include cooking gas, kerosene, and coal.
+
+## Methods of suppyling heat for cooking
+1. Some people use kerosene stoves for cooking.
+2. Nowadays, hotplates are also used for cooking on electricity. They are very convenient to use.
+3. Some people use biogas.
+4. Some people use the heat from the sun for cooking. They use the solar cooker.
+
+## Fill in the blanks (by drag drop)
+
+```
+We boil water to kill *bacteria*.
+*Cooking* makes food soft, tasty and easy to digest.
+The material that is burnt to produce heat is known as *fuel*.
+Wood and *coal* produces more smoke, while using as a fuel for cooking.
+*Utensils* are used for cooking food.
+
+```
+
+## Match the following
+
+```
+Blender, Mixing
+Oven, Heating
+Refrigerator, Cooling
+Electric juices, Juicing
+Crock pot, Baking
+
+```
+
+## Answer the following in one word
+
+```
+Coal burning stove is also known as *Shegadi*.
+The process by which foodstuffs become tastier and easier to digest is *heating*.
+Foods which we eat mostly without cooking are *fruits*.
+A device which use the energy of direct sunlight to cook is *Solar cooker*.
+Grilled sandwiches can also be made with the help of *toaster*.
+
+```
+
+# True or False
+
+```
+True:
+Most tables have salt and pepper shakers for spicing up food.
+You can use a spatula to flip over your eggs easily.
+Plastic containers are used to store food.
+
+False:
+A pan is used to chop things on so you don't scratch up your kitchen counter.
+Plastic containers are used to cook food.
+
+```
