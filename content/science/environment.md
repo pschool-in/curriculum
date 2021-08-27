@@ -238,6 +238,102 @@ False:
 Dogs will have scales in their body.
 Bat is a bird.
 ```
+*****************************************************************************************************************************************************
+
+## Additional activities - by Sanha
+
+## Name the following.(drag and drop)
+
+```
+Animals that fly in the sky - *aerial*
+Animals that live in water - *aquatic*
+An animal that is black - *crow*
+An animal that has many colors - *peacock*
+An animal that flies high in the sky - *eagle*
+An animal that swims in water - *fish*
+An animal that runs very fast - *cheetah*
+An animals that is very slow - *sloth*
+An animal that nibbles and is small - *squirrel*
+An animal with long hind legs which help them to hop, jump and leap - *frog*
+An animal that gives us eggs - *hen*
+An animal that make webs - *spider*
+An animal that has a trunk - *elephant*
+
+```
+## Group: Big vs Small
+
+Classify the animals based on their size.
+
+```
+Big: elephant, cow, ox, lion, tiger, peacock.
+
+Small: spider, mosquito, fly, squirrel.
+
+```
+## Group: Useful vs Troublesome
+
+Classify the animals based on whether they are useful or troublesome.
+
+```
+Useful: cow, sheep, hen, duck, goat.
+
+Troublesome: spider, mice, rat, mosquito, cockroach, gnat.
+
+```
+
+## Group: Crawl vs Fly
+Classify the animals based on their movement.
+
+```
+Crawl: snake, chameleon, lizard.
+
+Fly: crow, eagle, parrot.
+
+```
+## Where will you find us? (match the following)
+
+```
+Fish, water
+Cow, land
+Eagle, sky
+
+```
+## Who am I? (drag and drop)
+
+```
+I am small. I can climb up a tree quickly and run along its branch.I nibble food. Who am I ? 
+*squirrel*
+
+I am bulky. My legs are very heavy and I cannot run very fast. Who am I?
+*elephant*
+
+I have long hind legs. I can easily jump, hop and leap. Who am I?
+*frog*
+
+I do not have any legs. I like to crawl. Who am I?
+*snake*
+
+I have wings but I am not a bird. Who am I?
+*butterfly*
+
+```
+## Fill in the blank. (using options)
+
+```
+A beetle can fly . It is a *insect (bird)*.
+All crows are *black (white)*.
+Both butterfly and bat have wings but butterfly is an *insect(bird)* and bat is an *animal (insect)*.
+```
+## How many legs do the following animals have? (match the following)
+
+```
+ Snake, zero
+ Eagle, two
+ Deer, four
+ Housefly,six
+
+```
+**********************************************************************************************************************************************
 
 Chapter: maha g4:The Inter-relationships between Living Things
 
