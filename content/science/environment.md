@@ -11,7 +11,7 @@ Every thing in the environment adapt itself to live and interact with each other
 
 ### Living thing and Non-living thing
 Things in surroundings can be divided into two types as living and non-living things. Living things are able to live, breathe, consume, grow, die, reproduce. For example Human beings, animals, plants, trees, bacteria, fungus, etc. Plants and trees will also come under the living thing, but they cannot move from one place to another. Other than mobility, plants and trees can do everything like breathe, grow, die, etc.
-Non-living things are the things that are not alive. So, non-living things will not able to breathe, live, eat, reproduce, etc. Moreover, they will not move from one place to another on their own. For example Stone, chair, house, etc.
+Non-living things are not alive. So, non-living things do not breathe, live, eat, reproduce, etc. Moreover, they cannot move from one place to another on their own. For example Stone, chair, house, etc.
 
 ### Relationship of all things in the environment
 
@@ -337,7 +337,7 @@ Chapter: maha g4:The Inter-relationships between Living Things
 
 ### The Inter-relationships between Living Things
 
-Living things take their necessary things from the environment. All living things need food, water, air for survival and it is fulfilled in the environment. Moreover, there will be more differences in needs for every living organism. The necessity will change from one to another living things. You can find the living things in their suitable place, where its necessary things are getting fulfilled. For example; a Lemon tree lives in the land, but it will not survive in a pond or lake or ocean or sea. 
+Living things take their necessary things from the environment. All living things need food, water, air for survival and it is fulfilled in the environment. Moreover, there are more differences in needs for every living organism. The necessity will change from one to another living things. You can find the living things in their suitable place, where its necessary things are getting fulfilled. For example; a Lemon tree lives in the land, but it will not survive in a pond or lake or ocean or sea. 
 
 ### Animals Need
 
@@ -349,7 +349,7 @@ Some animals live on trees as well as on land also. For example, animals like mo
 
 ### Human’s Need
 
-Animals and plants give us abundantly and they are satisfying our needs. Similar to other living things, we humans also take care of some animals for our domestic use. Those animals will be called domestic animals. We used to feed, give shelter, and taking care of those animals. These animals will give their products like milk, meat, eggs, etc. Moreover, some animals help us in transportation, agriculture, etc. Besides, we use the excreta of domestic animals. For example, cattle dung will be made into dung cakes. They are combustible and used as fuel. In addition, cattle dung are used as manure for agriculture and it is used for plastering the mud houses. We need plants, animals to fulfill our needs. Plants give us vegetables, fruits, flowers, seeds, and many products for our daily use. For example, from cotton wool plants, we will get the cotton to weave our clothes. Moreover, many plants have more medicinal values and their extraction is used as medicines. So, we do take care of the plants, domestic animals and we are giving protection for them too.
+Animals and plants give us abundantly and they are satisfying our needs. Similar to other living things, we humans also take care of some animals for our domestic use. Those animals will be called domestic animals. These animals will give their products like milk, meat, eggs, etc. Moreover, some animals help us in transportation, agriculture, etc. Besides, we use the excreta of domestic animals. For example, cattle dung will be made into dung cakes. They are combustible and used as fuel. Plants give us vegetables, fruits, flowers, seeds, and many products for our daily use. For example, from cotton wool plants, we will get the cotton to weave our clothes. Moreover, many plants have more medicinal values and their extraction is used as medicines.
 
 ### Seasons
 
