@@ -233,19 +233,19 @@ Axe| कुल्हाडी
 balance| तराज़ू
 Black board | श्यामपट 
 hose | रबर का पाइप
+plier| प्‍लास
 microscope| सूछ्म दर्शी
 Needle | सुई
-Oven | तन्दूर
-plier| प्‍लास
-plough | हल 
-Saw| आरी
-Spade| कुदाली
+oven | कुठला
+plough | हल
+Saw| आरा
+Spade| कुदाल
 Stethescope|आला
 telescope| दूरबीन
 testube | परखनली
 thermometer| तापमान-यंत्र 
 trowel| करनी
-Compass| कुतुबनुमा
+Compass| दिशा सूचक यंत्र
 easel| चित्रफलक
 hacksaw| लोहा-आरी
 scalpel| छुरी
