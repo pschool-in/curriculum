@@ -138,6 +138,153 @@ The fruit is a fleshy or dry ripened part of a plant, enclosing the seed or seed
 
 The hard part inside the fruit is called seed. Most plants grow from seeds.
 
+## Group : Terrestrial vs Aquatic
+
+Classify the below plants based on the habitat they belong.
+
+``` 
+
+Terrestrial: sunflower, rose, daffodils, poison ivy, tulip, cactus, papaya, pineapple, apricot. 
+
+Aquatic: lotus, water lily, duckweed, watercress, water hyacinth, hydrilla, vallisneria
+
+## Group : Free floating vs Fixed rooted vs Submerged
+
+Classify the below plants into their respective type.
+
+Free floating: duckweed, mosquito fern, water hyacinth, pistia.
+
+Fixed rooted: lotus, watershield, lotus, water lily.
+
+Submerged: vallisneria, hydrilla, pondweed.
+ 
+``` 
+
+## Group : Dessert vs Mountain vs Plain
+
+Classify the below plants based on their habitat.
+
+``` 
+
+Dessert: opuntia, aloe vera, cactus, date palm. 
+
+Mountain: pine, maple, cedar, oak, deodar. 
+
+Plain: mango, banyan, teak. 
+
+## Group : Cold climate vs Hot climate
+
+Classify the below plants based on the climate they grow in.
+
+Cold climate: beet, carrot, turnip, radish, kale, spinach, pea, onion, lettuce, potatoes. 
+
+Hot climate: lily, rose, chrysanthemum, bougainvillea, brinjal, chilli, cucumber, tomato.
+
+```
+
+ ## Group : One seed vs Many seeds vs Seedless
+
+Classify the below fruits based on the number of seeds they produce .
+
+```
+
+One seed: avocado, mango, cherry, apricot.
+
+Many seeds: guava, watermelon, strawberry, figs, jackfruit, tomato, pomegranate. 
+
+Seedless: pineapple, banana.
+
+```
+
+## Group : Tap root vs Fibrous root
+
+Classify the below plants based on the type of root system the contain.
+
+```
+
+Tap root: beet root, carrot, parsnip, parsley.
+
+Fibrous root: rice, wheat, barley, oats, rye, millet.
+
+```
+
+## Group : Weak vs Strong
+
+Classify the below plants based on the type of stem the contain.
+
+```
+
+Weak: watermelon, grapes, pumpkin, bean, cucumber.
+
+Strong : neem, banyan, mango, deodar. 
+
+```
+
+## Match the following
+
+Match the things with their place in the environment
+
+```
+Root, Absorption
+Stem, Support
+Leaf, Photosynthesis
+Flower, Reproduction
+Seed, Germination
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+*Fibrous (tap)* roots are developed from the base of the stem.
+Avecinnia plants have roots *above (below)* the ground.
+Trees such as peepal and banyan have very strong and thick stem called *trunk (wood)*.
+The loss of water in the form of gas happens through the tiny pores in the leaves is called *transpiration (evaporation)*.
+The soft and brightly colored part of a flower is called *petal (tepal)*.
+The green part that lies under the petal and supports it is called *sepal (petal)*.
+The middle of the flower has two parts called the *stamen (style)* and pistil.
+The natural home of a plant is called its *habitat (niche)*.
+Plants make suitable adjustment with their surroundings to meet their requirements. This is known as *adaptation (evolution)*.
+
+```
+
+## True or False
+
+```
+True:
+Deserts get very less rainfall and experience high temperature.
+Leaves are changed to spines to reduce the loss of water.
+Needle like leaves help them to survive in cold conditions like
+snow.
+Plants in plains need to adapt to both dry conditions and
+extreme temperatures.
+
+False:
+Banyan, Peepal and Tamarind trees live less than hundred years.
+Mountain trees leaves are called frond.
+ 
+```
+## Jumbled words
+
+Connect the blocks to form meaningful words.
+
+```
+Plant, leaf, bud, flower, root, dessert, mountain, seed.
+
+```
+## Odd one out
+
+Pick the odd one out.
+
+```
+Carrot, Radish, *Tomato*, Beetroot
+Cabbage,  Greens,  *Turmeric*,  Spinach
+*Neem*,  Aloe vera,  Datepalm,  Opuntia
+*Mango*, Apple, Orange, Papaya.
+Hydrilla, *Opuntia*, Water hyacinth, Vallisneria
+
+```
+
 **Drag and drop to match plants to the parts we eat.**
 
 1. Deserts → Cactus
@@ -197,6 +344,144 @@ Based on the production of flowers, plants are classified into flowering and non
 Based on the period of life cycle plants are classified into Annuals, Biennials and Perennials.  
 Based on the colour present in the plant, they are classified into Green and Nongreen plants. 
 
+## Group : Flowering vs Non flowering
+
+Classify the below plants based on whether they produce flowers.
+
+```
+
+Flowering: sunflower, rose, daffodils, tulip, cactus, neem, paddy, mango. 
+
+Non flowering: algae, fungi, ferns, moses.
+
+```
+
+## Group : Green vs Non green
+
+Classify the below plants based on colour.
+
+```
+
+Green: paddy, rice, grass, moss, conifer, algae.
+
+Non green: mushroom, moulds, bracket fungi, yeast.
+
+```
+
+## Group : Winter vs Summer
+
+Classify the below flowers based on the season they bloom.
+
+```
+
+Winter: december, winter jasmine, tuberose, pansy.
+
+Summer:  jasmine, sunflower, rose, marigold, bougainvillea, daisy.
+
+```
+
+## Group : Autumn vs Spring
+
+Classify the below flowers based on the season they bloom.
+
+```
+
+Autumn: dahlia, saffron, hibiscus, chrysanthemum. 
+
+Spring: tulip, pansy, daffodil, prime rose.
+
+```
+
+ ## Group : Root vs Stem
+
+Classify the below plants based on their edible part.
+
+```
+
+Root: carrot, beetroot, tapioca.
+
+Stem: onion, turmeric, sugarcane.
+
+```
+
+## Group : Leaf vs Flower
+
+Classify the below plants based on their edible part.
+
+```
+
+Leaf: coriander, cabbage, moringa.
+
+Flower: banana flower, cauliflower, cloves.
+
+```
+
+## Group : Fruits vs Grains
+
+Classify the below plants based on their edible part.
+
+```
+
+Fruits: watermelon, grapes, pumpkin, tomato, mango.
+
+Grains: rice, pulses, fenugreek.
+
+```
+
+## Match the following
+
+Match the trees with their life span.
+
+```
+Pine, 400 years
+Banyan, 300 years
+Oak, 1500 years
+Apple, 30 years
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+*Veins (lamina)* are branch out from the midrib.
+*Petiole (sepal)*joins the leaf to the main stem.
+*Stomata (leaf)* are used to exchange gases.
+*Chlorophyll (anthocyanin)* is the green pigment in plants.
+
+```
+
+## True or False
+
+```
+True:
+Plants bearing flowers are flowering plants.
+Tomato is a fruit.
+Cycas is an exotic plant.
+
+False:
+Rose is an autumn flower.
+Cauliflower is an edible leaf. 
+
+```
+## Odd one out
+
+Pick the odd one out.
+
+```
+December, Tuberose, *Tulip*. 
+Saffron, Dahlia, *Rose*. 
+*Rose*, Boat lily, Crotons.
+
+```
+## Answer in one word. (drag and drop)
+
+```
+Green pigment in plant that help in tapping light - *chlorophyll*
+Process by which plants make food - *photosynthesis*
+Part of plant that helps in exchange of gases - *stomata*
+Leaves loose water by this process - *traspiration*
+
+```
 
 **A drag and drop activity on a leaf.**
 
@@ -273,9 +558,175 @@ Agriculture or farming is one of the main sources of the livelihood. It is the p
 
 Soil is one of the most important natural resources and is essential for agriculture. The organic and inorganic material on the surface of the earth that provides the medium for plant growth is called the soil. The soil is classified on the basis of the proportion of various sizes.
 
+Soil is one of the most important natural resources. It is essential for agriculture. It supports the growth of plants by holding the roots and supplying water and nutrients. It is the home for many organisms. Soil is formed by the breaking of rocks by the action of wind, water and climate. The mixture of rock particles and humus is called the soil. The soil is classified on the basis of the proportion of various sizes.
 
+## Group : Gynoecium vs Androceium
 
+Classify the below parts based on where they belong.
 
+```
+
+Gynoecium: stamen, stalk, filament, anther, pollen. 
+
+Androceium: ovary, style, stigma, ovules.
+
+``` 
+
+## Group : Unisexual vs Bisexual
+
+Classify the below plants into their respective type.
+
+```
+
+Unisexual:  Coconut flowers, Papaya, Watermelon, Cucumber, Maize,  melon, Snake gourd, Bitter gourd, Tapioca, Pumpkin, Pine.
+
+Bisexual: Lily, Rose, Sunflower, Tulip, Daffodil, Mustard, Brinjal, Hibiscus, Tomato, Long bean, Chille, mango.
+
+```
+
+## Group : Anemophily vs Hydrophily vs Entamophily
+
+Classify the below plants based on their mode of pollination.
+
+```
+
+Anemophily:  wheat, rice, corn, barley, oats.
+
+Hydrophily: hydrilla, zostera, vallisneria. 
+
+Entamophily: sunflower, orchids. 
+
+```
+
+## Group : Monocotyledon vs Dicotyledon
+
+Classify the below plants based on their type of seed.
+
+```
+
+Monocotyledon: grass, palm,. orchid, lily, banana, wheat, rice. 
+
+Dicotyledon: bean, castor, pea.
+
+```
+
+## Group : Anemochory vs Hydrochory 
+
+Classify the below plants based on their mode of seed dispersal .
+
+```
+
+Anemochory: cotton, dandelion, drumstick.
+
+Hydrochory: lotus, coconut, salix.
+
+```
+
+## Group : Zoochory vs Autochory
+
+Classify the below plants based on the type seed dispersal.
+
+```
+
+Zoochory: xanthium, acyranthus.
+
+Autochory: ladies finger, balsam.
+
+```
+ 
+## Group : Sandy vs Clay vs Loamy
+
+Classify the characteristic to their respective soil type.
+
+```
+
+Sandy: big particles, drain quickly, dry, light,aerated.
+
+Clay : fine particles, tightly packed, little gap.
+
+Loamy: large and fine particles, mix of sand and clay, silt, water holding capacity.
+
+```
+
+## Life cycle of plants. (sorting)
+
+```
+germination of seed, seedling, mature plant, flowering, pollination, reproduction, seed formation, seed dispersal.
+
+```
+## Match the following
+
+Match the pigments with their respective colour.
+
+```
+Anthocyanin, Purple
+Carotenoid, Orange
+Chlorophyll, Green
+Astaxanthin, Blood red
+
+```
+
+## Fill in the Blanks (using options)
+
+```
+Neelakurinji that blossoms once in *12 (15)* years.
+To attract the *insects (moth)* plants are bright in colour and produce smell in their flowers.
+Plants which are pollinated by the moth and bats release their fragrance mostly at *night (noon)* and have colourless petals.
+Pollination by *birds (bats)* is known as Ornithophily.
+Earthworms help to *increase (decrease)* the amount of air and water that gets into the soil.
+*Dragonfly (butterfly)* destroys the egg and larva of harmful insects and mosquitoes and prevents the spreading of diseases.
+
+```
+## True or False
+
+```
+True:
+Man is also responsible for the dispersal of many fruits and seeds.
+Every seed has minute plant called the embryo.
+After fertilization, the ovary grows into a fruit and other parts of
+the flower fall off.
+The cell which results after fusion of the gametes is called
+a zygote.
+
+False:
+The embryo forms into a zygote.
+Androecium is the female reproductive part.
+ 
+```
+## Jumbled words
+
+Connect the blocks to form meaningful words.
+
+```
+Androecium, Gynoecium, Anemochory, Hydrochory, Zoochory, Autochory, Anemophily, Hydrophily, Entamophily. 
+
+```
+## Answer in one word.(drag and drop)
+
+```
+Female reproductive organ - *gynoecium*
+Male reproductive organ - *androceium*
+Pollination through air - *anemophily*
+Pollination through water - *hydrophily*
+Pollination through animals - *entamophily*
+Seed with single cotyledon - *monocotyledon*
+Seed with two cotyledons - *dicotyledon*
+Seed dispersal by wind - *anemochory*
+Seed dispersal by water - *hydrochory*
+Seed dispersal by animals - *zoochory*
+Self dispersal of seeds - *autochory*
+
+```
+## Match the following
+
+```
+Earthworm, Vermicompost
+Birds, Ornithophily
+Coconut, Dispersal by water
+Bee, Honey
+Dragonfly, Destroys larvae
+
+```
 
 **Drag and drop to match parts and their function.**
 
@@ -322,11 +773,7 @@ Soil is one of the most important natural resources and is essential for agricul
 
    bisexual, unisexual, asexual
 
-   
-      
-   
- ********************************************************************************************************************************
-Soil is one of the most important natural resources. It is essential for agriculture. It supports the growth of plants by holding the roots and supplying water and nutrients. It is the home for many organisms. Soil is formed by the breaking of rocks by the action of wind, water and climate. The mixture of rock particles and humus is called the soil. The soil is classified on the basis of the proportion of various sizes.
+**************************************************************************************************************************************************************************
 
-
-
+## Wordsearch and Crosswords
+www.pschool.in/1629789605628
