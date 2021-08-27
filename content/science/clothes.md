@@ -10,7 +10,7 @@ b. To protect ourselves from dust and dirt.
 
 c. To feel warm during winters.
 
-d. To not tan from sunlight.
+d. To avoid tanning from the sun.
 
 e. To look presentable.
 
