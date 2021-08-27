@@ -115,7 +115,12 @@ Chapter : tn-3-2-social: Historical Places
 
 Historical places have famous buildings or famous sites or religious cultures that have been preserved due to their rich cultural- heritage. Every historical place has its own (story) historical importance and they are preserved carefully by our government. Historical places add important value to a nation’s heritage. It also helps in promoting tourism. Moreover, historical places will also tell us about the ancient lifestyle. By reading and knowing a lot about historical places, we can know about where we come from. Historical places mark important events in history.
 
-Group: 
+## Group: British Monuments Vs Mughal monuments in India
+
+Classify the below things based on the category of British Monuments and Mughal monuments in India
+
+British Monuments: Gateway of India, India Gate, Fort St. George, Victoria Memorial
+Mughal Monuments: Taj Mahal, Chini ka Rauza, Qutb Minar, Kashmiri Gate
 
 ## Match the following
 
