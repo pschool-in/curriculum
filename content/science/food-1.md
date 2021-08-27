@@ -202,7 +202,7 @@ Crock pot, Baking
 
 ```
 
-## Answer the following in one word
+## Answer the following in one word (by drag drop)
 
 ```
 Coal burning stove is also known as *Shegadi*.
