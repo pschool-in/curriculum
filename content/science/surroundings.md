@@ -167,4 +167,42 @@ Hawa Mahal
 Tipu and Hyder Mahal
 Taj Mahal
 None of the above
+```
 
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+*Thiruvalluvar statue* was situated in the Kanyakumari district.
+Aayi Mandapam is also called *Park Monument*.
+*Mandvi Gate* is the north gate of the Royal Enclosure for the state Baroda.
+*Wagah border* is famous for ceremonial closing the gates and lowering of India and Pakistan flags.
+* Sittanavasal Cave* is situated in Tamil Nadu.
+```
+
+## Fill in the banks (Using options)
+
+```
+Mamallapuram was built by *Narasimhavarman (Paramesvaravarman )*.
+Arch of Viceroy is situated in * Goa (Ahmedabad)*
+Vasco Da Gama Memorial is situated in *Kerala (Goa)*.
+Nalanda University was constructed by the *Gupta dynasty (Rajputs)*.
+The Elephant Palace is situated in *Madhya Pradesh (Andhra Pradesh)*
+```
+
+## True or False:
+
+```
+True:
+Ajanta and Ellora caves were built by Krishna I.
+Brihadishvara temple was constructed by Cholas.
+Gingee fort is located in the Villupuram district.
+
+False:
+Mahabalipuram was constructed by pandyas.
+Tipu Sultan palace is situated in Mangalore.
+```
+
+
+ 
