@@ -6,11 +6,11 @@ Chapter: maha g3: Our Environment
 
 What is an Environment?
 
-The environment is a surrounding that has living things like plants, animals, human beings, insects, and non-living things such as, soil, stone, mountain, etc.
-All things in the environment will adapt themselves to live and interact with each other. A good life will start from a healthy environment. 
+The environment is a surrounding that have living things such as plants, animals, human beings, insects, and non-living things such as, soil, stone, mountain, etc.
+Every thing in the environment adapt itself to live and interact with each other. A good life will start from a healthy environment. 
 
 ### Living thing and Non-living thing
-Things in surroundings can be divided into two types as living and non-living things. Living things are things where they are able to live, breathe, consume, grow, die, reproduce. For example Human beings, animals, plants, trees, bacteria, fungus, etc. Plants and trees will also come under the living thing, but they cannot move from one place to another. Other than mobility, plants and trees can do everything like breathe, grow, die, etc.
+Things in surroundings can be divided into two types as living and non-living things. Living things are able to live, breathe, consume, grow, die, reproduce. For example Human beings, animals, plants, trees, bacteria, fungus, etc. Plants and trees will also come under the living thing, but they cannot move from one place to another. Other than mobility, plants and trees can do everything like breathe, grow, die, etc.
 Non-living things are the things that are not alive. So, non-living things will not able to breathe, live, eat, reproduce, etc. Moreover, they will not move from one place to another on their own. For example Stone, chair, house, etc.
 
 ### Relationship of all things in the environment
