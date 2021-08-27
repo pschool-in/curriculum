@@ -179,12 +179,15 @@ watch| हाथ-घड़ी
 ```
 eraser| रबड़
 pen| कलम 
-ruler| मापन
-schoolbag| बस्ता 
+pencil|पेंसिल 
+ruler| पेमाना
+bag| बस्ता 
 scissors| कैंची
 sharpener| चोखा करनेवाला 
 waterbottle| पानी की बोतल 
+Calculator | गणना यंत्र
 book| किताब
+Color pencils | रंग पेंसिल
 crayons| चित्रांकनी
 
 ```
