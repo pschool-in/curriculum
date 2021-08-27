@@ -102,6 +102,14 @@ Healthy food: Wheat, Pulses, Sprouts, Vegetables
 
 Unhealthy food: White bread, Cookies, Pizza, Potato chips
 
+## Group: Physical labour Vs Sedentary work
+
+Classify the following
+
+Physical labour: Playing kho-kho, Climbing a mountain, Cycling, Sweeping
+
+Sedentary work: Reading book, Drawing, Operating a laptop, Playing carrom
+
 ## Fill in the blanks (by drag drop)
 
 ```
@@ -138,7 +146,7 @@ Pulses, Madhya Pradesh
 
 ```
 
-## Anser the follwing with reference to given examples (by drag drop)
+## Answer the follwing with reference to given examples (by drag drop)
 
 ```
 Healthy : Sprouted pulses :: Unhealthy : *Cold drinks*
