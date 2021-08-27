@@ -37,9 +37,10 @@ Water is very important in our lives!
 6. We go near a waterhole in a forest to see *wild (domestic)* animals.
 ```
 
-### Find the sources of water (wordseaarch)
+### Wordseaarch:
+
 ```
-Rainwater, River, Pond, Lake, Ocean, Sea, Well.
+Rainwater, River, Pond, Lake, Ocean, Sea, Well, Canal, Bay, Delta, Water.
 ```
 
 ### Fill up by drag:
