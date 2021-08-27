@@ -60,10 +60,9 @@ owl| उल्लू
 rooster| मुर्गा
 woodpecker| कठफोड़व
 eagle| गिद्ध
-sparrow| गौरेया
 crane| सारस
-flamingo| राज-हंस
-kingfisher| राम चिरैया
+flamingo| मराल
+kingfisher| नीलकंठा
 ```
 
 # fruits (फल)
@@ -87,7 +86,7 @@ watermelon| तरबूज
 fig| अंजीर
 custard apple| शरीफा
 dates| खजूर
-muskmelon| खरबूजा
+muskmelon| खरबूज
 ```
 
 # vegetables (सब्जियां)
@@ -98,8 +97,8 @@ onion| प्याज
 tomato| टमाटर
 potato| आलू
 cabbage| पत्ता गोभी
-cauliflower| गोभी
-corn| मक्का
+cauliflower| फूलगोभीी
+corn| भुट्टा
 cucumber| खीरा
 garlic| लहसुन
 ```
@@ -112,13 +111,13 @@ bitter-gourd| करेला
 brinjal| बैंगन
 capsicum| शिमला मिर्च
 cashewnut| काजू
-chilli| मिर्च
+Green chilli| हरी मिर्च
 coconut| नारियल
 ```
 ```
-corianderleaf| धनिए के पत्ते
+corianderleaf| धनिए पत्ते
 curryleaf| करी पत्ता
-drumstick| ढोल का छड़ी
+drumstikc| सहजन
 greenpeas| हरी मटर
 ladies-finger| भिन्डी
 mintleaf| पुदीना
@@ -134,7 +133,7 @@ lotus | कमल
 sunflower | सूरजमुखी
 marigold | गेंदा
 jasmine | चमेली
-hibiscus | हिबिस्कुस
+hibiscus | गुडहल
 ```
 # vehicles (वाहनों)
 ```
@@ -170,11 +169,11 @@ baby| बच्चा
 boy| लड़का
 girl| लड़की
 man| आदमी
-woman| स्री
+woman| औरत
 ball| गेंद
 glasses| ऐनक
 clock| दीवार घड़ी
-watch| घड़ी
+watch| हाथ-घड़ी
 ```
 # school
 ```
@@ -183,10 +182,11 @@ pen| कलम
 ruler| मापन
 schoolbag| बस्ता 
 scissors| कैंची
-sharpener| पेंसिल ताराश 
+sharpener| चोखा करनेवाला 
 waterbottle| पानी की बोतल 
 book| किताब
-crayons| कडिया पेंसिल
+crayons| चित्रांकनी
+
 ```
 # kitchen
 ```
@@ -194,7 +194,7 @@ stove| चूल्हा
 fork| कांटा
 spoon| चमचा
 knife| छुरी
-pan| तवा
+pan|कड़ाही
 pot| मटका
 butter| मक्खन
 ```
@@ -216,8 +216,8 @@ web-camara
 ```
 ear| कान
 eye| आंख
-foot| टांग
-hair| केश
+foot| पैर
+hair| बाल
 hand|  हाथ
 mouth| मुंह
 nose| नाक
@@ -229,18 +229,18 @@ tooth| दांत
 Axe| कुल्हाडी
 balance| तराज़ू
 Black board | श्यामपट 
-hose | नली
+hose | रबर का पाइप
 microscope| सूछ्म दर्शी
 Needle | सुई
 Oven | तन्दूर
-plier| 
+plier| प्‍लास
 plough | हल 
 Saw| आरी
 Spade| कुदाली
-Stethescope|
+Stethescope|आला
 telescope| दूरबीन
-testube | 
-thermometer| 
+testube | परखनली
+thermometer| तापमान-यंत्र 
 trowel| करनी
 Compass| कुतुबनुमा
 easel| चित्रफलक
@@ -250,13 +250,13 @@ scalpel| छुरी
 
 # others
 ```
-sun| रवि
+sun| सूरज
 moon| चांद
 rain| वर्षा
-star| सितारा
+star| तारा
 milk| दूध
 ring| अंगूठी
-brush| ब्रश
+brush| कूंचा
 bone| हड्डी
 ```
 ```
