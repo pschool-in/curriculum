@@ -136,3 +136,14 @@ False:
 We always eat cooked food.
 Vitamins and Proteins are energy giving food.
 ```
+
+## Jumbled words
+
+```
+MKIL : *MILK*
+INMELAR : *MINERAL*
+WTERA : *WATER*
+AITVIMN : *VITAMIN*
+GEG : EGG
+
+```
