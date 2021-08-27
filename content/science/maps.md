@@ -172,6 +172,26 @@ Cotton : Natural :: Plastic : *Man-made*
 Northeast : Southeast :: Northwest : *Southwest*
 
 ```
+*********************************************************************************************************************************************************************
 
+## Additional Activities - by Sanha
+
+## Match the following.
+
+Match the historical places with their repective state.
+
+```
+Taj Mahal, Agra
+India Gate, Delhi
+Hawa Mahal, Jaipur
+Victoria Memorial, Kolkata
+Golden Temple, Punjab
+
+```
+## Wordsearch
+
+www.pschool.in/1630047158685
+
+*********************************************************************************************************************************************************************
 
 
