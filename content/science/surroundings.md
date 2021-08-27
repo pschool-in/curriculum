@@ -120,6 +120,7 @@ Historical places have famous buildings or famous sites or religious cultures th
 Classify the below things based on the category of British Monuments and Mughal monuments in India
 
 British Monuments: Gateway of India, India Gate, Fort St. George, Victoria Memorial
+
 Mughal Monuments: Taj Mahal, Chini ka Rauza, Qutb Minar, Kashmiri Gate
 
 ## Match the following
