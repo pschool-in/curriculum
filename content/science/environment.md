@@ -10,9 +10,8 @@ The environment is a surrounding that has living things like plants, animals, hu
 All things in the environment will adapt themselves to live and interact with each other. A good life will start from a healthy environment. 
 
 ### Living thing and Non-living thing
-Things in surroundings can be divided into two types. They are living things and non-living things. 
-Living things are things where they can able to live, breathe, eat food, grow, die, reproduce young ones, and also it can able to move from one place to another on their own. For example Human beings, animals, plants, trees, bacteria, fungus, etc. Plants and trees will also come under the living thing, but they cannot able to move from one place to another. Other than moving, plants and trees can do everything like breathe, grow, die, etc.
-Non- living things are the things that are not alive. So, non-living things will not able to breathe, live, eat food, reproduce, etc. Moreover, they will not move from one place to another on their own. For example Stone, chair, house, etc.
+Things in surroundings can be divided into two types as living and non-living things. Living things are things where they are able to live, breathe, consume, grow, die, reproduce. For example Human beings, animals, plants, trees, bacteria, fungus, etc. Plants and trees will also come under the living thing, but they cannot able to move from one place to another. Other than mobiloty, plants and trees can do everything like breathe, grow, die, etc.
+Non-living things are the things that are not alive. So, non-living things will not able to breathe, live, eat, reproduce, etc. Moreover, they will not move from one place to another on their own. For example Stone, chair, house, etc.
 
 ### Relationship of all things in the environment
 
@@ -33,7 +32,7 @@ Non-living thing: Stone, Water, Wooden chair, Bread
 
 ## Match the following
 
-Match the following with its correct one
+Match the following with its correct one.
 
 ```
 Birds, nest
