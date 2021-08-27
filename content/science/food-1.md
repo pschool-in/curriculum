@@ -113,6 +113,40 @@ If our diet is not balanced we may suffer from *diseases*.
 
 ```
 
+## True or False
+
+```
+True:
+Water is most important part of our diet
+Deficiency diseases can be prevented by eating a balanced diet.
+
+False:
+Meat alone is sufficient to provide all nutrients to the body.
+People who does not work don't feel hungry.
+We eat same kind of food throughout the year.
+
+```
+
+## Match the following
+
+```
+Rice, Odisha
+Wheat, Punjab
+Bhakri, Maharashtra
+Turmeric, Andhra Pradesh
+Pulses, Madhya Pradesh
+
+```
+
+## Anser the follwing with reference to given examples (by drag drop)
+
+```
+Healthy : Sprouted pulses :: Unhealthy : *Cold drinks*
+Occassionally : Buttermilk :: Daily : *Water*
+Diet : Healthy :: Junk food : *Unhealthy*
+Sweeping : Physical labour :: Sitting : Sedentary work
+
+```
 
 
 
