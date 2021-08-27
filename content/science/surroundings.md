@@ -121,7 +121,7 @@ Classify the below things based on the category of British Monuments and Mughal 
 
 British Monuments: Gateway of India, India Gate, Fort St. George, Victoria Memorial
 
-Mughal Monuments: Taj Mahal, Chini ka Rauza, Qutb Minar, Kashmiri Gate
+Mughal Monuments: Taj Mahal, Chini ka Rauza, Qutub Minar, Kashmiri Gate
 
 ## Match the following
 
