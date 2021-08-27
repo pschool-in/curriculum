@@ -16,17 +16,12 @@ Non- living things are the things that are not alive. So, non-living things will
 
 ### Relationship of all things in the environment
 
-Living things and non-living things will be connected to the environment. For survival, living things will take their necessary things from the environment.
-For example, birds live in a nest. To build the nest, they need twigs, cotton, threads, etc. So, they will take from the environment. 
-Humans also will take their necessary things from the environment. For example, Silk, cotton, wool are available in the environment. So, these things will help to weave the clothes/ dresses.
-Humans making many things like paper, baskets, mats, etc., from the environment. Living things will also support the environment to keep a healthy environment.
+Living things and non-living things will be connected to the environment. For example, birds live in a nest. To build the nest, they need twigs, cotton, threads, etc. So, they will take from the environment. 
+Humans also will take their necessary things from the environment. For example, Silk, cotton, wool are available in the environment which will help to weave the clothes/ dresses. Living things will also support the environment to keep it healthy.
 For example: Usually, some seeds from the plants will be scattered in the soil/ ground by the wind. In addition, animals, insects will also scatter the seeds to the soil unknowingly. 
-So, those seeds will grow as new plants in new places. This will help the environment to be healthy. Usually living things will bring changes even in non-living things.
-Living things will take many things from the environment. Some types of animals will hunt and eat the raw flesh from other living animals or dead animals. 
-The remaining part of the dead animals will start to decay in the soil. After some time, those decay will turn into manure for the trees and plants. 
-Moreover, this will make the soil fertile. As a result, plants and trees will get good nourishment from the fertile soil. 
-Thus, all living things and non-living things are depending upon each other. Sometimes humans are making harm to the environment by pollution. 
-So we should not harm things to the environment.
+So, those seeds will grow as new plants that will help the environment. Usually living things will bring changes even in non-living things. Some types of animals will hunt and eat the raw flesh from other living animals or dead animals. 
+The remaining part of the dead animals will start to decay in the soil, which will turn into manure for the trees and plants by make the soil fertile.Thus, all living things and non-living things are dependant upon each other. 
+
 
 ## Group :  Living thing Vs. Non-living thing
 
