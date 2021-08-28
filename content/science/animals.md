@@ -314,6 +314,15 @@ Terrestrial: Bison, Tiger, Horse, Cow, Fox, Bear, deer
 
 Aquatic: Fish, Tortoise, Octopus, Seahorse, Jellyfish, Starfish, Mussel
 
+## Group: Herbivore Vs Carnivore Vs Omnivore
+
+Classify the below animals on the basis of their eating habits.
+
+Herbivore: Cow, Buffalo, Goat, Elephant, Zebra
+
+Carnivore: Lion, Leopard, Cheetah, Seal, Crocodile
+
+Omnivore: Human, Bear, Hen, Fox, Crow
 
 ## Match the Following
 
@@ -350,10 +359,58 @@ Squirrel and monkey are the examples of *arboreal (aquatic)* animals.
 
 ## True or False:
 ```
+True:
+Flesh eating animals are called carnivorous animals or carnivores.
+Herbivores have sharp, straight edged, flat front teeth called incisors.
+Animals that hunt other animals are called predators.
 
+False:
+The mosquitoes do not have a needle like structure to suck blood.
+Animals that need both land and water to live are called aquatic animals.
+Animals can make their own food.
+
+```
+## Jumbled words
+
+```
+NCATER: *NECTAR*
+DVEO: *DOVE*
+ICNIRSOS: *INCISORS*
+NENISEAC: *CANINES*
+PEYR: *PREY*
+```
+
+## Multiple Choice Questions
+
+```
+Bear, man, crow and hen are examples of ___________.
+Omnivores, Herbivores, Carnivores, Amphibians
+
+The butterfly has a tube like structure called _________ to suck nectar from flowers.
+Proboscis, Canines, Incisors, None of the above
+
+A __________ usually starts with plants and ends with carnivores or omnivores.
+Food chain, Food Web, connection, hunt
+
+Which of the animals given below suck their food?
+Butterfly, bear, leopard, frog
+
+Which of the following us an example of carnivore?
+Tiger, cow, horse, buffalo
 
 ```
 
+## Food Chain
+
+Arrange in right order as a food chain.
+
+```
+Leaves, Caterpillar, Hen, Hawk
+Grass, Grasshopper, rat, owl
+Flower, Flies, Frog, Snake, Eagle
+Carrot, Rabbit, Fox, Lion
+Tree, Deer, Lion
+```
 
 Chapter - Tamil g4 (Term 3): Life of Animals
 
