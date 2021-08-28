@@ -643,3 +643,25 @@ In the Red Data Book, *Red (Black)* color is used to denote endangered species.
 *Amoeba (Sea Stars)* reproduces through Fission.
 ```
 
+## True or False
+```
+True: 
+The third stage of butterfly growth is pupa.
+Dogs are an example of Vivparous animals.
+Endangered species have population less than 50 or less than 250 for the past three years.
+
+False:
+Rafflesia Flower is not an endangered species.
+Sea Anemone reproduces through budding process.
+UNESCO has declared Gir National Park as a World Heritage Site.
+```
+
+## Jumbled words
+
+```
+OPERS: *SPORE*
+OTGEZY: *ZYGOTE*
+RAVAL: *LARVA*
+RBMYOM: *EMBRYO*
+DYHAR: *HYDRA*
+```
