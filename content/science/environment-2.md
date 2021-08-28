@@ -166,30 +166,19 @@ Chapter - tn-5-3-science: Our Environment
 There are two main types of environment.
 It includes physical environment and biological environment. 
 
-Physical environment includes all non-living things like land, water and air. Biological environment includes the living things such as plants and animals.
++ Physical environment:all non-living things like land, water and air. + Biological environment:the living things such as plants and animals.
 
-Natural environment has lot of economic values. Plants and animals in our environment are useful to us in a number of ways. Animals like cow, buffalo and goat give us milk. Some animals are used for transportation, some others are reared for their meat. Feathers of birds are used to make pillows and quilts. These economically important animals are raised in farms.
-
+Natural environment has lot of economic values. Plants and animals in our environment are useful to us in a number of ways. These economically important animals are raised in farms.
 
 ### Farms
 
-Farming is the activity of growing crops and raising livestock. It is a part of agriculture. 
+Farming is the activity of growing crops and raising livestock. It is a part of agriculture.An area of land with fields and sturctures devoted to growing crops or raising domestic animals or both as a business is called farm.
 
-Agriculture is the cultivation of land and breeding of animals and plants to provide food, fiber, woods and medicinal plants to sustain and enhance life.
++ Diary farm: Type of agriculture that focuses on extraction of milk and preparation of various milk products like cheese, butter, curd, ghee etc.
++ Poultry farms: In poultry farms avian species are reared and bred for the purpose of egg, meat or both. Poultry birds grown for meat are called broilers. Layers are the female fowls grown for egg production.
++ Apiculture: Rearing of honey bee for honey is known as apiculture. It is also called bee keeping. In this technique honey bees are reared in a specially designed wooden box.
 
-An area of land with fields and sturctures devoted to growing crops or raising domestic animals or both as a business is called farm.
-
-### Diary farm
-
-Dairy farming is a type of agriculture that focuses on extraction of milk and preparation of various milk products like cheese, butter, curd, ghee etc.
-
-Buffaloes produce more amount of milk than cows. Also, buffalo milk has more nutrients than cow’s milk.India is the biggest buffalo milk producer in the world.
-
-The cattle feed includes roughage and concentrates. The roughage contains high amount of fiber. Apart from these feed, cattle need an adequate amount of fresh water.
-
-Foot and mouth disease and anthrax are some of the common diseases found among cattle.
-
-Veterinary medicine deals with the prevention, diagnosis and treatment of disease, disorder and injury for domestic and non-domestic animals.
+### Uses:
 
 + Bullocks are used to plough land, harvest and thrash crops.
 + Cattle are employed in transportation.
@@ -197,33 +186,9 @@ Veterinary medicine deals with the prevention, diagnosis and treatment of diseas
 + Panchagavya is an ayurvedic medicine used in agriculture to control pest and fungi.It is a mixer of dung and urine of cows, fresh milk, curd, jaggary and ghee.
 + Leather goods are manufactured from cattle hides.
 
-### Poultry farms
-
-In poultry farms avian species are reared and bred for the purpose of egg, meat or both. Fowls, ducks, geese, turkeys and some varieties of pigeon are the most commonly reared species. Chicken occupy 90% of the total poultry. Poultry birds grown for meat are called broilers. Layers are the female fowls grown for egg production.
-
-Fowls are mainly of two types. They include meat type (broiler), egg type (egg layer) and dual type.
-
-Poultry birds need proteins, carbohydrates, fats, minerals and vitamins for egg and meat production. Bajra, barley, maize, wheat, rice bran, jowar, oil cake, fish meal, bread and green residues of vegetables are the feed given to the poultry birds.
-
 + Poultry birds are good source of nutritive food.
 + Their feathers are used for making pillows and quilts.
 + Dropping of the poultry birds is used as manure. It is highly valuable for crops.
-
-+ Poultry birds affected by virus suffer from fever and diarrhea.
-+ Foul cholera is caused in them by bacteria.
-+ Over exposure to wet and cold conditions causes cramps in poultry birds.
-+ Poultry birds are affected by internal parasites.
-
-### Apiculture
-
-Rearing of honey bee for honey is known as apiculture. It is also called bee keeping. In this technique honey bees are reared in a specially designed wooden box. Honey bees have been very closely associated with humans since ancient times. Various products like honey and wax are obtained from honey bees.
-
-The queen is the largest member of the bee colony. There is only one
-queen and it is the fertile female of the colony.
-
-Drones are the fertile males. Worker bees are sterile female bees and the smallest members of the colony. These bees are very active. Their function is to collect honey, look after the young ones, clean the comb, defend the hive and maintain the temperature of the bee hive.
-
-Honey contains proteins, amino acids, vitamins and minerals like calcium, iron, phosphorus and manganese.
 
 + Honey has an antiseptic and antibacterial property.It builds up haemoglobin content in the blood.
 + Honey is used in Ayurvedic and Unani system of medicines.It prevents cough, cold, fever and relieves sore throat.
@@ -231,28 +196,33 @@ Honey contains proteins, amino acids, vitamins and minerals like calcium, iron, 
 
 + Bee wax is secreted by worker bee to build the combs of bee hive.It is widely used in cosmetics.
 
-### Manure
+### Manure and Vermiculture
 
-Manure is an organic matter used as fertilizer. It is mostly derived from animal and plant residues. It increases the fertility of the soil by adding nutrients such as nitrogen, phosphorus and potassium. It is a natural form of fertilizer.
+Manure is an organic matter used as fertilizer. It is mostly derived from animal and plant residues. It increases the fertility of the soil. It is a natural form of fertilizer.
 
-Common form of animal manure is the farmyard manure. It contains the feces and urine of different livestock.Green manure is obtained by decomposition of green leaves, twigs of trees, shrubs and herbs.
-Compost is obtained by decomposition of organic matter by various
-microorganisms.
-
-### Vermiculture
++ Farmyard manure: It contains the feces and urine of different livestock.
++ Green manure: It is obtained by decomposition of green leaves, twigs of trees, shrubs and herbs.
++ Compost: It is obtained by decomposition of organic matter by various microorganisms.
 
 Vermiculture or Vermicomposting is a method of transforming organic wastes such as waste papers, leaves, pieces of woods etc., into
-a nutrient rich fertilizer using earth worms. It is a healthy and clean way to eliminate wastes going into our landfills. It keeps the environment clean.It improves the water holding capacity of
-the soil and prevents soil erosion.
+a nutrient rich fertilizer using earth worms. 
+
++ It is a healthy and clean way to eliminate wastes going into our landfills.
++ It keeps the environment clean.
++ It improves the water holding capacity of the soil and prevents soil erosion.
 
 
 ## Group : Diary farm vs Poultry farm
 
 Classify the animals based on the environment they belong.
 
+```
+
 Diary farm: Cows, Buffalo, Goat, Sheeps, Camels.
 
 Poultry farm : Chicken, Fowls, Ducks, Geese, Turkeys
+
+```
 
 ## Match the following
 
