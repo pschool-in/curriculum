@@ -448,13 +448,13 @@ Alone: Tiger, Bear, Leopard, Mole, Sloth
 
 Group: Elephants, Wolf, Whale, Sheep, Deer
 
-## Group: Nocturnal Vs Daytime
+## Group: Nocturnal Vs Diurnal
 
 Classify the below animals on the basis of their nocturnal behaviour.
 
 Nocturnal: Cat, Mouse, Firefly, Owl, Bat, Moth
 
-Daytime: Dog, Cow, Horse, Sheep, Sparrow, Crow
+Diurnal: Dog, Cow, Horse, Sheep, Sparrow, Crow
 
 ## Group: Fur Vs No Fur
 
@@ -475,12 +475,70 @@ Wolf, Pack
 Sheep, Flock
 Ant, Colony
 Owl, Parliament
-
 ```
 
+## Fill in the Blanks (By Drag Drop)
 
+```
+The animals which are active at night are called *Nocturnal* animals.
+*Kangaroo* is best known for parental care.
+*Honeybees* lives in hives.
+The human *baby* is completely helpless at birth.
+Animals that are active during day time are known as *Diurnal* animals.
+```
 
+## Fill in the Blanks (using options)
 
+```
+*Nocturnal (Diurnal)* creatures have highly developed senses of hearing, smell, and eyesight.
+*Cow (Sheep)* gives milk and protects its calf from the enemies.
+*Humans (Kangaroo)* support the physical, emotional, social and intellectual development of their child.
+The compound eyes of insects are made up of small units called *ommatidia (proboscis)*.
+The *thorax (abdomen)* is the middle region of an insect body.
+```
+
+## Multiple Choice Questions
+
+```
+What is the group of parrots called?
+Flock, Pride, Parliament, herd
+
+Which of the following is associated with group of cranes?
+Stare, Hive, Shoal, Pack
+
+The changes in an animal's behaviour to adjust with its habitat is called _________.
+Adaptation, Metamorphosis, Fertilisation, Parenting
+
+Which organ does a fish use to breathe in water?
+Gills, Lungs, Skin, Tougue
+
+Bats use ultrasonic sounds to find their way in dark and detect objects. This is called ____.
+Echolocation, Navigation, Adaptation, Nocturnal
+```
+
+## True or False
+
+```
+True:
+Vampire bats feed on the blood of their prey.
+Female kangaroo carries its baby in its pouch.
+Ants have organs of smell and taste in their antennae.
+
+False:
+Birds do not migrate from their shelters to avoid adverse conditions.
+A group of elephants is known as herd.
+All the species of birds build nests for their shelters.
+```
+
+## Jumbled words
+
+```
+PIRED : *PRIDE*
+ARXHOT: *THORAX*
+ALRUNID: *DIURNAL*
+LFCOK: *FLOCK*
+URNKT: *TRUNK*
+```
 
 
 Chapter - Tamil g5 (Term 3): Animals
