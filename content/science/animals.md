@@ -479,6 +479,8 @@ Owl, Parliament
 
 ## Fill in the Blanks (By Drag Drop)
 
+Drag and drop the words at proper places.
+
 ```
 The animals which are active at night are called *Nocturnal* animals.
 *Kangaroo* is best known for parental care.
@@ -540,7 +542,6 @@ LFCOK: *FLOCK*
 URNKT: *TRUNK*
 ```
 
-
 Chapter - Tamil g5 (Term 3): Animals
 
 # Animals
@@ -569,5 +570,76 @@ A sanctuary is a protected area which is reserved for the conservation of animal
 ownership rights are allowed here.
 
 
+## Group: Oviparous Vs Viviparous
 
+Classify the below animals on whether they lay eggs or not.
+
+Oviparous: Duck, Frog, Sparrow, Butterfly, Eagle
+
+Viviparous: Human, Deer, Lion, Tiger, Elephant
+
+## Group: Endangered Vs Not Endangered
+
+Endangered: Umbrella Tree, Malabar Lily, Rafflesia Flower, Indian Mallo, Musli Plant
+
+Not Endangered: Lotus, Rose, Marigold, Jasmine, Water Lily
+
+## Group: National Parks Vs Wildlife Sanctuaries
+
+National Park: Jim Corbett, Gir Forest, Kaziranga, Sundarban, Periyar
+
+Wildlife Santuary: Kalakkad, Mudumalai, Mundanthrai, Anaimalai, Vedanthangal
+
+
+
+## Match the following
+
+```
+Zygote, Fertilised egg
+Viviparous, Cat
+Endangered Animal, Rhinoceros
+Fragmentation, Asexual
+Mudumalai, Ooty
+```
+
+## Multiple Choice Questions
+
+```
+Which of the following location has Viralimalai Bird Sanctury?
+Trichi, Mumbai, Patna, Dehradun
+
+Which of the following is not associated with asexual reproduction?
+Zygote, Fission, Budding, Fragmentation
+
+_____ is not a Viviparous animal.
+Crow, Tiger, Zebra, Cow
+
+______ is the first stage of butterfly formation.
+Egg, Zygote, Pupa, Larva
+
+The fusion of gametes (sex cells) is known as _________.
+Fertilisation, Ovulation, Fission, Fragmentation
+```
+
+## Fill in the Blanks (By Drag Drop)
+
+Drag and drop the words at proper places.
+
+```
+Reproduction in animals are of two types, *sexual* and asexual. 
+Pupa is also known as *Chrysalis*.
+*Fission* is the process of reproduction in flatworms.
+Budding takes place in animals like *Hydras* and corals.
+*Asiatic Lion* is an example of endangered animal.
+```
+
+## Fill in the Blanks (using options)
+
+```
+Project Tiger was initiated in India in *1972 (1975)* to protect the Bengal Tiger.
+In the Red Data Book, *Red (Black)* color is used to denote endangered species.
+*Kaziranga (Gir)* national park is famous for one horned Rhino.
+*Blue Cross (Red Data Book)* of India was founded by Captain V. Sundaram of Chennai.
+*Amoeba (Sea Stars)* reproduces through Fission.
+```
 
