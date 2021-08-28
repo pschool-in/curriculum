@@ -166,7 +166,8 @@ Chapter - tn-5-3-science: Our Environment
 There are two main types of environment.
 It includes physical environment and biological environment. 
 
-+ Physical environment:all non-living things like land, water and air. + Biological environment:the living things such as plants and animals.
++ Physical environment:all non-living things like land, water and air. 
++ Biological environment:the living things such as plants and animals.
 
 Natural environment has lot of economic values. Plants and animals in our environment are useful to us in a number of ways. These economically important animals are raised in farms.
 
