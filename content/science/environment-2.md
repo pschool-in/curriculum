@@ -5,34 +5,27 @@ Chapters -  maha g5: The Earth and its Living World, maha g5: Environmental Bala
 
 ### What is an environment?
 
-Our surroundings and all the living and non living things are together known as the environment. It includes many components such as sunlight, air, water, soil, plants and animals, etc.
-The earth is surrounded by the atmosphere. Water, landand air constitute envelopes of the earth, known as  the hydrosphere, lithosphere and atmosphere. The biosphere spreads in all the other three spheres.
+Everything that we see and many many things that we can't see are present in our surroundings and are together known as the environment. For example sunlight, air, water, food, plants, animals, microbes, dust, insects etc.
 
-### The lithosphere and the hydrosphere
 
-The lithosphere is the solid part of the Earth such as rocks and mountains.The hydrosphere is the liquid water such as the rivers,lakes and oceans.About a third of the surface of the earth consists of land.Two-thirds of the earth’s surface is covered with water.
+### The Biosphere
+
+The zone of life where all the life forms interact is called biosphere. It basically includes everything the environment has. It is sub-divided as;
+1. Lithosphere: all the land of the environment.
+2. Hydrosphere: all the major, minor and minute water-bodies.
+3. Atmosphere: envelope of air around the earth.
 
 ### The atmosphere
 
-The envelope of air around the earth is called the atmosphere. As we go higher from the surface of the earth, the air in the atmosphere becomes rarer. The atmosphere
-consists of a mixture of gases. This iclue gases such asa nitrogen, oxygen, water vapour and carbon dioxide. Some other gases are also present in the air in very small quantities.
+Higher the level above the ground, lesser the oxygen. It includes several other gases like nitrogen, carbondioxide, water vapour etc. Some layers of the atmosphere are:
+1. Troposphere: extends 13km from the earth's surface.
+2. Stratosphere: extends 50km from the earth's surface.
+3. Ozone: protects from harmful UV rays of the sun.
 
-The layer that extends from the earth’s surface to a height of about 13 km is called the troposphere.
-
-Beyond the troposphere, up to a height of about 50 km from the earth is the layer called the stratosphere.In the lower part
-of the stratosphere, there is a layer of a gas called ozone.The ozone layer absorbs Ultraviolet rays and protects
-the living world from these rays.
 
 ### Water cycle
 
-Water on the earth evaporates continuously due to the heat of the sun.As water vapour is lighter than air, it rises high up into the atmosphere.
-As it goes higher, it cools and condenses forming fine droplets of water forming clouds.These small droplets join together and form
-bigger drops which are heavy. They cannot float. Such drops of water fall down on the
-earth in the form of rain. This continuous process of evaporation and condensation is called water cycle.
- 
-### Biosphere
-
-Many different kinds of plants, animals and micro-organisms are found everywhere on the earth - on land, in water and in the air. The zone of life where all the life forms interact is called biosphere
+Water on the earth evaporates continuously due to the heat of the sun.As water vapour is lighter than air, it rises high up into the atmosphere.As it goes higher, cools and condenses to  form clouds.The small droplets join together and formbigger drops which are heavy. Such drops of water fall down as rain. This continuous process of evaporation and condensation is called water cycle.
 
 ### Food chain
 
@@ -56,19 +49,23 @@ For the existence of living things, it is important that environmental balance i
 
 ## Group : Lithosphere vs Hydrosphere
 
+```
 Classify the below things based on where they belong in the environment.
 
 Lithosphere: Mountains, Rocks, Stones, Top soil, Sand
 
 Hydrosphere : Oceans, Lakes, Ponds, Streams, Glaciers, Groundwater
+```
 
 ## Group : Atmosphere vs Biosphere
 
+```
 Classify the below things based on where they belong in the environment.
 
 Atmosphere: Carbon dioxide, Oxygen, Nitrogen, Water vapour
 
 Biosphere: Plants, Animals, Humans, Microbes, Insects
+```
 
 ## Match the following
 
@@ -319,39 +316,33 @@ Chapter - tn-4-3-science: Green Environment
 
 ### What are wastes?
 
-Nature provides us a lot of useful things. We use most of these natural resources and create more trash. The unwanted materials which are thrown away are called wastes. They can be in solid, liquid or gaseous state. They are produced from households, industries, hospitals etc., These unwanted materials pollute our environment.
+Simply put, all the unwanted and thrown away materials are called wastes. They can be solids, liquids or gases and are produced from households, industries, hospitals etc. resulting in environmental pollution.
 
 ### Waste Management 
 
-It is the step we take to handle our waste and to make sure our environment does not get dirty and polluted. Waste management deals with both biodegradable and non-biodegradable waste.
+We need to make sure that our environment does not get dirty and polluted, and thus, management of both biodegradable and non-biodegradable wastes is necessary.
 
 ### Steps in waste management
 
-There are four main steps in waste management.
-These includes : 
 + Separation of Waste
 + Waste collection and transportation
 + Waste recycling and composting 
 + Waste disposal
 
-### What are the three R‛s in waste management
+### What are the three R‛s in waste management?
 
-The three R‛s stand for REDUCE, REUSE, RECYCLE. We must first reduce,
-then reuse and finally recycle.
-
-Reduce is to make or use less materials.
-Reuse is using a thing repeatedly for the same or for another purpose.
-Recycle is to take materials from things you throw away and make new products by using them. Recycling takes energy and time but saves the amount of ‘new‛ resources we need to make things.
+Reduce: make/ use less material.
+Reuse: using the same thing again.
+Recycle: make new things out of scarp. It also helps in conservation of resources.
 
 ### Waste Separation
 
-Waste at home should be separated into biodegradable, recyclable
-and non-recyclable waste. Waste like left over food, vegetable waste which are broken down naturally should be collected in a separate litter box. Materials which cannot be decomposed should be placed in separate dustbin. Paper waste, glass waste and aluminium waste which can be recycled into new useful products should be kept in separate box.
+Biodegradable: left over food, vegetable waste etc.
+Recycleable: pper waste, glass waste, aluminum waste etc.
+Non-recycleable: plastic wrap, wax boxex etc.
 
 ### Environment friendly materials
-
-Things that can be decomposed or broken down by microorganisms are
-biodegradable. They can return to the soil and enrich the soil. Materials which are beneficial to the environment and do not cause harm are called eco-friendly materials.
+Micro-organisms can decompose some waster materials and make it beneficiary for the soil. Such materials are called environment friendly materials.
 
 ## Group : Biodegradable vs Non biodegradable
 
