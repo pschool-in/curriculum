@@ -297,9 +297,62 @@ by the tiger.
 A Food web is an interconnection of multiple food chains. Transfer of
 energy between organisms of different energy sources occurs through food web.
 
+## Group : Wings Vs No-Wings
+
+Classify the below animals based on the wings.
+
+Wings: Sparrow, Dragonfly, Parrot, Butterfly, Bat
+
+No-Wings: Snail, Tortoise, fish, Penguin, tiger
 
 
+## Group: Terrestrial Vs Aquatic
 
+Classify the below animals on whether they live on land or water.
+
+Terrestrial: Bison, Tiger, Horse, Cow, Fox, Bear, deer
+
+Aquatic: Fish, Tortoise, Octopus, Seahorse, Jellyfish, Starfish, Mussel
+
+
+## Match the Following
+
+Match the animals with their living places
+
+```
+Tiger, Forest
+Polar Bear, Polar region
+Whale, Salt water
+Camel, Desert
+Frogs, Fresh water
+```
+
+## Fill in the Blanks (By Drag Drop):
+
+Drag and drop the words at right places:
+
+```
+A lion lives in a *den*.
+Birds live and lay their eggs in the *nest*.
+An *earthworm* is found in soil.
+We can find a number if fishes in a *pond*.
+Spider like to weave a *web* and honeybee likes to live in a *honeycomb*.
+```
+
+## Fill in the Blanks (using options):
+```
+Animals that live on trees are known as *arboreal (aerial)* animals.
+*Dove (Monkey)* is an example of aerial animal.
+*Toad (fish)* lives on both land and water.
+Crow flies in the sky, so it is an *aerial (arboreal)* animal.
+Squirrel and monkey are the examples of *arboreal (aquatic)* animals.
+```
+
+## True or False:
+```
+
+
+```
 
 
 Chapter - Tamil g4 (Term 3): Life of Animals
