@@ -357,17 +357,25 @@ biodegradable. They can return to the soil and enrich the soil. Materials which 
 
 Classify the below items based on its degrading capacity.
 
+```
+
 Biodegradable : Plants, Fruits, Flowers, Vegetables, Animals
 
 Non biodegradable: Glass, Metal, Electronic devices, Plastics, Batteries, Computer parts
+
+```
 
 ## Group : Blue waste vs Red waste
 
 Classify the below  items based on its recycling capacity.
 
+```
+
 Blue waste: newspapers, magazines, glass, cardboard, food tins, tetra packs.
 
 Red waste: plastic wrap, bubble wrap, wax, used towels.
+
+```
 
 ## Match the following
 
