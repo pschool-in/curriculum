@@ -440,6 +440,45 @@ Insects have three main body regions. They are:
 The main visible parts on the head are the large
 compound eyes, the antennae (feelers) and the mouth parts. The thorax is the middle region of the body. Abdomen The abdomen is the last part of the insect body.
 
+## Group: Alone Vs Group
+
+Classify the below animals on whether they live alone or in groups.
+
+Alone: Tiger, Bear, Leopard, Mole, Sloth
+
+Group: Elephants, Wolf, Whale, Sheep, Deer
+
+## Group: Nocturnal Vs Daytime
+
+Classify the below animals on the basis of their nocturnal behaviour.
+
+Nocturnal: Cat, Mouse, Firefly, Owl, Bat, Moth
+
+Daytime: Dog, Cow, Horse, Sheep, Sparrow, Crow
+
+## Group: Fur Vs No Fur
+
+Classify the below animals based on the presence of fur.
+
+Fur: Fox, Rabbit, Sheep, Polar Bear, Beaver
+
+No Fur: Zebra, Dog, Fish, Frog, Snake
+
+
+## Match the following
+
+Match the animals with their groups.
+
+```
+Lion, Pride
+Wolf, Pack
+Sheep, Flock
+Ant, Colony
+Owl, Parliament
+
+```
+
+
 
 
 
