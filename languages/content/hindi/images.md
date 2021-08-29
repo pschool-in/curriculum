@@ -115,7 +115,7 @@ Green chilli| हरी मिर्च
 coconut| नारियल
 ```
 ```
-corianderleaf| धनिए पत्ते
+corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
 drumstikc| सहजन
 greenpeas| हरी मटर
