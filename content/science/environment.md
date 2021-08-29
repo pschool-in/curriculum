@@ -6,17 +6,19 @@ Chapter: maha g3: Our Environment
 
 What is an Environment?
 
-The environment is a surrounding that have living things such as plants, animals, human beings, insects, and non-living things such as, soil, stone, mountain, etc.
-Every thing in the environment adapt itself to live and interact with each other. A good life will start from a healthy environment. 
+All the living and non-living things surrounding us together forms the environment. These things are plants, animals, human beings, insects, soil, stone, mountain, microbes etc. All these thing adapt and interact to form a healthy environment. 
 
 ### Living thing and Non-living thing
-Things in surroundings can be divided into two types as living and non-living things. Living things are able to live, breathe, consume, grow, die, reproduce. For example Human beings, animals, plants, trees, bacteria, fungus, etc. Plants and trees will also come under the living thing, but they cannot move from one place to another. Other than mobility, plants and trees can do everything like breathe, grow, die, etc.
-Non-living things are not alive. So, non-living things do not breathe, live, eat, reproduce, etc. Moreover, they cannot move from one place to another on their own. For example Stone, chair, house, etc.
+Living things live, breathe, consume, grow, die and reproduce. For example Human beings, animals, plants, trees, bacteria, fungus, plants, trees etc. 
+Non-living things do not breathe, live, eat, reproduce, etc. For example Stone, chair, house, etc.
+
 
 ### Relationship of all things in the environment
 
-Living things and non-living things are connected to the environment. For example, birds live in a nest. To build the nest, they need twigs, cotton, threads, etc. So, they will take from the environment. Living things are also support the environment to keep it healthy.For example: Usually, some seeds from the plants will be scattered in the soil/ ground by the wind. In addition, animals, insects will also scatter the seeds to the soil unknowingly. So, those seeds will grow as new plants that will help the environment.  Living things bring changes even in non-living things. Some types of animals will hunt and eat the raw flesh from other living animals or dead animals. The remaining part of the dead animals will start to decay in the soil and that willturn into manure for the trees and plants by make the soil fertile.Thus, all living things and non-living things are dependant upon each other. 
-
+1. Living things and non-living things interact in the environment. For example, birds live in a nest. To build the nest, they need twigs, cotton, threads, etc. 
+2. Living things also keep the environment healthy. For example, seeds scatter in the soil/ ground by the wind and grow as new plants that help the environment.  
+3. Living things bring changes even in non-living things. Some types of animals hunt and eat. The remaining part of the dead animals will start to decay in the soil and that will turn into manure.
+Thus, all living things and non-living things are dependent upon each other. 
 
 ## Group :  Living thing Vs. Non-living thing
 
@@ -114,37 +116,43 @@ Chapter: maha g3: So many kinds of animals
 
 ### Different types of Animals, Insects, and Birds
 
-Our mother nature is full of diversity. On our planet, there are different types of animals, birds, and insects with different colors, shapes, sizes. All of them will move in different ways.  Moreover, every type has its unique characteristics. Many animals live on land and some reside in water. Some live both in water and land. Birds will be there in land and air. Some birds will be there in both water and land. Birds and animals are grouped in different ways. Mammal is one of the most important categories. Some kinds of animals/ birds will come under mammals, whereas some of them are not mammals. The mammals usually give the milk to their young owns, for example; cows, goats, pigs, rats, dogs, etc. Usually, mammals have presence of mammary glands and they will have hair in their body.
+Our planet is full of diversity. Moreover, every type has its unique characteristics. Some animals live on land; some in water; some live both in water and land; birds in land and air; some birds in water. 
+Mammals are one of the most important ones. They usually give the milk to their young ones like  cows, goats, pigs, rats, dogs, etc. They have mammary glands and hair on their body.
+
 
 ### Different Sizes
 
-Animals like cows, elephants, horses, goats, etc., are there in different types of sizes. Some are small, some are big and some are medium-sized animals.  For example Elephants, giraffes are big size animals. Dogs, goats are medium-sized animals. Squirrels, rats are small-sized animals. Insects are also tiny ones, where they have their unique characteristics. 
+Body size of all the animals vary. For example elephants and giraffes are big size animals; dogs and  goats are medium-sized animals; squirrels and rats are small-sized animals. Insects are the tiny ones with unique characteristics. 
 
 ### Different colors
 
-Moreover, some varieties of animals, birds, and insects will have different color patterns in their body. For example, the peacock will have many colors on its body. Five-colored parrot Brett is one type of bird variety in which has 5 different types of colors in its body.
+Different animals, birds, and insects will have different color patterns in their body. For example, peacock has colorful feathers; five-colored parrot Brett; tiger is found in both orange and white; crows in black and pigeons in grey.
 
 ### Different ways of the Birds
 
-Birds will have two legs and have two wings, to fly. Their body will be covered with feathers. Every type of bird can fly in the sky, but the ability to flying a distance will vary. For example, an eagle will fly higher in the sky and it can stay long back in the sky itself, whereas pigeons will not able to fly high and it will come down very soon. 
+Birds have two legs and two wings. Their body is covered with feathers. Every bird can fly, with a few exceptions like penguins. For example, an eagle will fly higher whereas pigeons will not be able to fly high. 
 
 ### Different ways of the Animals
 
-Animals have four legs and every type of animals move in different ways. Some animals will run very fast, whereas some animals will move very slowly. For example, on the land; the cheetah is the fastest animal and the tortoise is the slowest animal. Reptiles are also classified under animals. Moreover, some reptiles will move at normal speed and some reptiles will move very fast. For example, snakes and crocodiles are reptiles, however, snakes move much faster when compared to crocodiles on land. Most of the reptiles will crawl and have scales on their body. Moreover, some of the reptiles have short legs and some types of reptiles do not have legs. For example, snakes don't have legs, and lizards have short legs.  
-
+Animals have four legs and each animals move in a different way. Some run very fast, some move very slowly. For example, cheetah is the fastest land animal and the tortoise is the slowest.
+Some reptiles move at normal speed and some very fast. Most of the reptiles crawl and have scales on their body. For example, snakes move much faster when compared to crocodiles on land. Moreover, some have short legs and some have no legs at all. For example, snakes don't have legs, and lizards have small legs.  
+ 
 ### Different ways of the Insects
 
-Some insects will fly in the air, as well as they move on the land also. There are much variety of insects and they are also with different characteristics. Insects also have wings, but we will not call them birds. Examples are mosquitoes, houseflies, butterflies, etc. Usually, most insects have six legs and it’s smaller than birds. But some insects will have eight legs. 
+Some fly in the air, as well as they move on land. There are variety of insects with different characteristics. Insects also have wings. Examples are mosquitoes, houseflies, butterflies, etc. Usually, most insects have six legs but some eight. 
 
 ### Different ways of the Fish
 
-Fishes live and breathe in water. There are many different types of fishes and every type has its unique characteristic feature. Fishes have fins and scales in their body. Fish uses fins to move in the water. Fishes use their gills to breathe in water. Fishes cannot survive on land and they cannot walk on land. Some unique fishes are there that can survive on moist-land also, for example, the mud-fish.
+Fishes live in water. They are of different types. They have fins and scales in their body to move in the water; use gills to breathe. They cannot survive on land. Some unique fishes can survive on moist-land, for example, the mud-fish.
 
-Interesting facts - Bats have wings in their body, but they don’t have feathers on the body. Bats are not birds like the crow, peacock, parrot, etc. It is classified under the cold-blooded animal. 
+Interesting facts - Bats have wings in their body, but they no feathers. Bats are not birds and are classified under the cold-blooded animal. 
 
 ### Domestic animals and Wild animals:
 
-Animals and birds can be categorized into two types. They are domestic and wild.  Domestic animals can be tamed and they will not do any harm, whereas wild animals will harm us. Wild animals can be seen in the places like forests, zoos. Examples: lions, foxes, bears, tigers, etc. Some types of animals /birds can stay along with us in the home. They will not do any harm to us and they are called as Domestic animals. will always give good support to humans and help us in many ways. For example, cows, goats, buffalo. There are some types of animals and insects which will enter our house, which is of no use for us. For example, some types of animals and insects like rats, mice, bed bugs, spiders, etc will come to our home and they will create disturbance for us. 
+Animals and birds can be categorized into two types; domestic and wild.  Domestic animals can be tamed and don't harm, but wild animals harm us. 
+Wild animals like lions, foxes, bears, tigers, etc., can be seen in forests, zoos.
+Domestic animals always support humans and help us in many ways. For example, cows, goats, buffalo. 
+There are some types of animals and insects which enter our house, but are of no use to us like rats, mice, bed bugs, spiders etc.
 
 ## Group : Domestic animals Vs. Wild animals
 
