@@ -12,7 +12,7 @@ Ambon is an animal feed made from a fermented mixture of oilcake, jaggery, and c
 
 ## To each their own food
 1. Cows eat grass, hay, oilcake, and ambon.
-2. Horses consume soaking Bengal gramme (harbhara), grass, and hay.
+2. Horses consume soaking Bengal gram (harbhara), grass, and hay.
 3. In addition to grass, goats and sheep eat the leaves of numerous bushes.
 4. Milk is consumed by cats. Birds such as sparrows, doves, and pigeons are also hunted and eaten by them.
 5. Dogs will eat chapatis or bhakaris, but meat is their preferred food.
