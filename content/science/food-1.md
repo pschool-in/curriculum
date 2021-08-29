@@ -43,7 +43,7 @@ Carnivorous animals: Tiger, Lion, Hyena, Wolf
 Milk, Cat
 Flesh, Lion
 Rabbits and earthworms, Fox
-Bengal gramme, Horse
+Bengal gram, Horse
 Oilcake, Cow
 
 ```
@@ -52,7 +52,7 @@ Oilcake, Cow
 
 ```
 True:
-Food of different living things is different.
+Food for different living things, is different.
 The entire living world depends on food prepared by plants.
 With the help of sunlight, plants prepare their own food.
 
