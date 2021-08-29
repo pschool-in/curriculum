@@ -8,11 +8,11 @@ Apart from the water bodies like rivers, lakes and seas, there's plenty of water
 
 ### Why do we feel thirsty?
 
-Our body is 70% made of water. Its doesn't mean that it has flowing water within. It means that 70% functioning of our body is dependent on water. For example;
+Our body is 70% made of water. It doesn't mean that it has flowing water within. It means that 70% functioning of our body is dependent on water. For example;
 1. Water keeps our blood thin.
 2. It helps to digest our food.
 3. Urination of waste materials.
-Therefore, we must have sufficient water in our body for the easy performance of these functions. In case there's not enough water, we feel thirsty.
+Therefore, we must have sufficient water in our bodies for the easy performance of these functions. In case there's not enough water, we feel thirsty.
 
 ### Fun Fact!
 
@@ -20,7 +20,7 @@ There are some plants like Bulrushes, Lotus, Water chestnut, Hyacinth and Spider
 
 ### Importance of water
 
-Water is important, not just for us, but also for the animals, plants and all other living beings. We need it for drinking, cleaning, bathing, cooking, agriculture, industries etc.
+Water is important, not just for us, but also for the animals, plants and all other living beings. We need it for drinking, cleaning, bathing, cooking, agriculture,   industries ,etc.
 
 Water is very important in our lives!
 
@@ -37,7 +37,7 @@ Water is very important in our lives!
 6. We go near a waterhole in a forest to see *wild (domestic)* animals.
 ```
 
-### Wordseaarch:
+### Wordsearch:
 
 ```
 Rainwater, River, Pond, Lake, Ocean, Sea, Well, Canal, Bay, Delta, Water.
@@ -50,7 +50,7 @@ Plants that grow in water are called *aquatic*.
 Only *3%* of the earth's water is fresh.
 Only *0.5%* of the fresh water is available to us.
 Our body is has *70%* of water in it.
-We should drink *12* glasses of water everyday.
+We should drink *12* glasses of water every day.
 *Whale* is the largest animal.
 *Seahorse* and *starfish* are different types of *aquatic* animals.
 ```
@@ -63,17 +63,17 @@ We should drink *12* glasses of water everyday.
 
 Simply put, it comes from THE RAIN. 
 
-Rain water leads to rise in rivulets, streams and rivers. 
+Rain water leads to a rise in rivulets, streams and rivers. 
 
-Still water forms lakes and ponds.
+Still, water forms lakes and ponds.
 
 Some water gets deposited under the ground and we usually extract it through wells, hand-pumps and bore-wells.
 
 ### Fun fact!
 
-1. Dams are built to slower the flow of water, to save it and to generate energy.
+1. Dams are built to slow the flow of water, to save it and to generate energy.
 
-2. Rainwater harvesting is another good technique for conserving water in which the rainwater is collected from roofs of the house and gets deposited in the tank.
+2. Rainwater harvesting is another good technique for conserving water in which the rainwater is collected from the roofs of the house and gets deposited in the tank.
 
 
 ### How rivers are formed?
@@ -120,17 +120,17 @@ Gas/ Vapour: Formed at high temperatures.
 
 1. Pure water has no shape, colour, taste or smell and is transparent.
 
-2. Air also consists of water vapours. As a result of it, glass holding ice forms droplets of water on its outside surface.
+2. Air also consists of water vapours. As a result, glass holding ice forms droplets of water on its outside surface.
 
 ### New words!
 
 1. Transparent: Something that you can see through.
 
-2. Transluscent: Something you can partially see through.
+2. Translucent: Something you can partially see through.
 
 3. Opaque: Something you cannot see through.
 
-## Activites
+## Activities
 
 ### True or False:
 
@@ -165,7 +165,7 @@ Ice is the *solid* state of water.
 ```
 India gets a lot of rain during *monsoon (summer, winter)* season. 
 
-Water is a *transparent (opaque, transluscent)* body.
+Water is a *transparent (opaque, translucent)* body.
 
 Ice is formed at *cold (hot, room)* temperature.
 
