@@ -471,11 +471,11 @@ Abiotic and biotic factors are linked together in the environment by the flow of
 
 ### Balanced – Ecosystem
 
- The food chain plays a more important role in every biotic/ living thing in the environment. Living things are dependent on both living things and non-living things for food, survival in this ecosystem. Based on consumption of food, living things/ biotic factors are categorized into three types. They are Producers, Consumers, and Decomposers. Our ecosystem supports living things such as plants, animals, human beings, and also micro-organisms to grow in the environment.
+ The food chain plays a more important role in every biotic/ living thing in the environment. Living things are dependent on both living things and non-living things for food, survival in this ecosystem. Based on consumption of food, living things are categorized into three types. They are Producers, Consumers, and Decomposers. Our ecosystem supports living things such as plants, animals, human beings, and also micro-organisms to grow in the environment.
  
  ### Producers
  
- Some types of living things prepare their food by themselves and they are called producers. For example, trees. Plants prepare food by the process called photosynthesis. Plants are also called primary producers. Moreover, humans and some types of animals depend upon plants for their food. Some types of plants do not prepare their food by themselves and they depend upon other plants for food. These types of plants are called parasitic plants. For example, Cuscuta.
+Some types of living things prepare their food by themselves and they are called producers. For example, trees. Plants prepare food by the process called photosynthesis. Plants are also called primary producers. Moreover, humans and some types of animals depend upon plants for their food. Some types of plants do not prepare their food by themselves and they depend upon other plants for food. These types of plants are called parasitic plants. For example, Cuscuta.
  
  ### Consumers
  
