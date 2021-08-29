@@ -98,7 +98,7 @@ tomato| टमाटर
 potato| आलू
 cabbage| पत्ता गोभी
 cauliflower| फूलगोभीी
-corn| भुट्टा
+corn| मक्का
 cucumber| खीरा
 garlic| लहसुन
 ```
