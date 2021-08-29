@@ -4,7 +4,7 @@ Chapter: maha g3: Our Environment
 
 ## Reading
 
-What is an Environment?
+### What is an Environment?
 
 All the living and non-living things surrounding us together forms the environment. These things are plants, animals, human beings, insects, soil, stone, mountain, microbes etc. All these thing adapt and interact to form a healthy environment. 
 
@@ -345,23 +345,23 @@ Chapter: maha g4:The Inter-relationships between Living Things
 
 ### The Inter-relationships between Living Things
 
-Living things take their necessary things from the environment. All living things need food, water, air for survival and it is fulfilled in the environment. Moreover, there are more differences in needs for every living organism. The necessity will change from one to another living things. You can find the living things in their suitable place, where its necessary things are getting fulfilled. For example; a Lemon tree lives in the land, but it will not survive in a pond or lake or ocean or sea. 
+Living things take their necessary things from the environment. All living things need food, water, air for survival and it is fulfilled in the environment. Moreover, there are more differences in needs for every living organism. You can find the living things in their suitable place, where its necessary things are getting fulfilled. For example; a Lemon tree lives in the land, but it will not survive in water areas.
 
 ### Animals Need
 
-Animals need is fulfilled in the environment. Animals can live in the area where it is getting supported by the environment. Fish lives in water, but it is very difficult to survive in the land. Tiger has stripes on its body and it will hide in tall grasses to hunt its prey. Those stripes will help the tiger camouflage so that its prey cannot able to find the tiger. Tiger is dependent upon its prey animals like deer, wild pigs, buffalo, etc. Moreover, they are dependent upon the waterhole, dense vegetation, and also need caves or dens for their shelter. Similarly, many animals will depend upon the plants, animals, and other surroundings in the environment. Some animals will come under herbivores, some will come under carnivores and some animals will come under omnivores.
+Animals need is fulfilled in the environment. Animals can live in the area where it is getting supported by the environment. For eg; Fish lives in water, but it is very difficult to live in the land. Similarly, many animals depend upon plants, animals, and other surroundings in the environment. 
 
 ### Animals and trees support each other
 
-Some animals live on trees as well as on land also. For example, animals like monkeys, squirrels, etc., will live on both trees and land. In this case, both trees and animals help each other. Trees will give fruits, vegetables to these animals. Sometimes monkeys can use the tress to defend themselves from their enemies. Suck kind of animals are called Arboreal (living in trees). Even birds build their nest in the tree.  Moreover, unknowingly these animals support the trees. These animals will move and roam in the surroundings and spread the seeds unknowingly. While roaming, these kinds of animals and birds spread the seeds in the land and it will help in growing the new plants.
+Some animals live on trees as well as on land also. For example; monkeys, squirrels, etc., will live on both trees and land. In this case, both trees and animals help each other. Trees will give fruits, vegetables to these animals. These animals will move and roam in the surroundings and spread the seeds unknowingly. While roaming, these kinds of animals and birds spread the seeds in the land and it will help in growing the new plants.
 
 ### Human’s Need
 
-Animals and plants give us abundantly and they are satisfying our needs. Similar to other living things, we humans also take care of some animals for our domestic use. Those animals will be called domestic animals. These animals will give their products like milk, meat, eggs, etc. Moreover, some animals help us in transportation, agriculture, etc. Besides, we use the excreta of domestic animals. For example, cattle dung will be made into dung cakes. They are combustible and used as fuel. Plants give us vegetables, fruits, flowers, seeds, and many products for our daily use. For example, from cotton wool plants, we will get the cotton to weave our clothes. Moreover, many plants have more medicinal values and their extraction is used as medicines.
+Animals and plants give us abundantly and they are satisfying our needs. Humans also take care of some animals for their domestic use and they are called domestic animals. Plants give us vegetables, fruits, flowers, seeds, and many products for our daily use. Besides, many plants have more medicinal values and their extraction is used as medicines.
 
 ### Seasons
 
-We have four seasons and they are summer, winter, spring, autumn, or fall. Every season we will have changes in the environment. For example, during the summer season, there will be sunny and we used to wear cotton clothes. During the winter season, there will be cold and we wear woolen or warm clothes to shield ourselves from the cold. It will give changes to other living things too. For example, the animals which have fur will become much thicker during the winter season.  During the spring seasons, fresh buds will start to bloom and it is the season of new beginnings. During the autumn (fall) seasons, trees leave changing color and some trees will lose their leaves. Not only trees, change in seasons will affect all living things. 
+We have four seasons and they are summer, winter, spring, autumn (or) fall. Every season we will bring changes in the environment. For example, in the summer season, there will be sunny and we used to wear cotton clothes. In the winter season, there will be cold and we wear woolen clothes. It will give changes to other living things too. For eg; the animals which have fur will become much thicker during the winter season. During the spring seasons, fresh buds will start to bloom and it is the season of new beginnings. During the autumn (fall) seasons, trees leave changing color and some trees will lose their leaves. Not only trees, change in seasons will affect all living things.
 
 ## Group: Carnivores Vs. Omnivores
 
@@ -458,7 +458,7 @@ Chapter: tn-3-3-science: Our Environment
 
 ### Biotic Factors 
 
-Biotic factors are the living organisms in our environment. For example; Trees and Plants, Animals, Birds, Human beings, etc.
+Biotic factors are the living organisms in our environment. For example; Trees, Animals, Birds, Human beings, etc.
 
 ### Abiotic factors 
 
@@ -466,7 +466,8 @@ Abiotic factors are the non-living organisms in our environment. For example; Te
 
 ### Difference between Biotic factors and Abiotic factors
 
-Biotic factors are also called living things and abiotic factors are also called non-living things. Biotic factors can feel, breathe and grow. They need food for living and they will give birth to young ones. Abiotic factors do not grow and breathe. They cannot feel and food is not necessary for them. Besides, they do not give birth to young ones. Moreover, all abiotic and biotic factors are linked together in the environment by the flow of energy via food. Living things and non-living things interact with one another in the environment. Moreover, plants are not able to move from one place to another, but they will be able to grow and also their branches will develop well. Plants can make prepare their food by using abiotic factors like soil, water, air, sunlight, etc. Every biotic factor depends on other things for food in the environment.
+Biotic factors are also called living things and abiotic factors are also called non-living things. Biotic factors can feel, breathe and grow. They need food for living and they will give birth to young ones. Abiotic factors do not live. So, food is not necessary for them. 
+Abiotic and biotic factors are linked together in the environment by the flow of energy via food. They both interact with one another in the environment. Moreover, plants are immobile, but they can grow well. Plants prepare their food by using abiotic factors like soil, water, air, sunlight, etc. Every biotic factor depends on other things for food in the environment.
 
 ### Balanced – Ecosystem
 
@@ -474,15 +475,18 @@ Biotic factors are also called living things and abiotic factors are also called
  
  ### Producers
  
- Some types of living things can able to prepare their food by themselves and they are called producers. For example, Plants & trees are classified under producers. Plants will prepare the food by the process called photosynthesis. Plants are also called primary producers. Moreover, humans and animals depend upon plants for their food. Some types of plants do not prepare their food by themselves and they will depend upon other plants for food. These types of plants are called parasitic plants. For example, Cuscuta. 
+ Some types of living things prepare their food by themselves and they are called producers. For example, trees. Plants prepare food by the process called photosynthesis. Plants are also called primary producers. Moreover, humans and some types of animals depend upon plants for their food. Some types of plants do not prepare their food by themselves and they depend upon other plants for food. These types of plants are called parasitic plants. For example, Cuscuta.
  
  ### Consumers
  
- Some types of living things are not able to produce food on their own and it is dependent for food on plants and animals for its survival. They are called Consumers and they can be classified into three categories. They are Herbivores, Carnivores and Omnivores. When living things are dependent fully on plants for their food and they are called Herbivores. When living things eats only flesh animals for their food and they are called Carnivores. When living things are dependent fully on plants and animal's flesh (meat) for their food and they are called Omnivores.
+Some types of living things are not able to produce food on their own and it is dependent for food on plants and animals. They are called Consumers and they can be classified into three categories. They are Herbivores, Carnivores and Omnivores.
+1. Living things depend completely on plants for their food, they are called Herbivores.
+2. Living things eats only flesh animals for their food, they are called Carnivores. 
+3. Living things depend completely on plants and animal's flesh (meat) for their food, they are called Omnivores.
  
  ### Decomposers
  
- Microorganisms that feed on the decaying waste such as dead plants and animals for their survival and are called decomposers. Those micro-organisms support the environment by giving nutrients to the soil. So soil turns more fertile and this helps to grow the plants and trees well.  For example; Bacteria, fungi, etc.
+Microorganisms that feed on the decaying waste such as dead plants and animals for their survival are called decomposers. Those micro-organisms support the environment by giving nutrients to the soil. So soil turns more fertile and this helps to grow the plants and trees well. For example; Bacteria, fungi, etc.
 
 ## Group : Plant-based products Vs. Animal-based products
 
