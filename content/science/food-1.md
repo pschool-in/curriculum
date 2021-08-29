@@ -80,7 +80,7 @@ maha g3: Our diet
 ## Reading
 1. Every day, we eat some food. We eat between meals. We also have milk, tea, coffee. Our daily diet includes everything we eat and drink.
 2. We make a lot of muscular movements when working. This labour is difficult. It's called physical labour. Work makes us hungry.
-3. Some tasks can be done while seated. It requires no physical exertion. Such work is sedentary work.
+3. Some tasks can be done while seated. It requires no physical exertion. Such work is called sedentary work.
 
 ## Variety in food
 1. Rice becomes a key element of the diet of those who live in areas where rice grows abundantly.
@@ -92,7 +92,7 @@ maha g3: Our diet
 ## We should take care of our food
 1. We should eat food made at home.
 2. Sprouted pulses, leafy vegetables, buttermilk and yogurt should be included often in our diet.
-3. We should avoid products shown in newspapers and TVs. The advertisements are tempting but it does not mean that they are healthy for our bodies.
+3. We should avoid products shown in newspapers and TVs. The advertisements are tempting, but it does not mean that they are healthy for our body.
 
 ## Group: Healthy food Vs Unhealthy food
 
@@ -129,8 +129,8 @@ Water is the most important part of our diet
 Deficiency diseases can be prevented by eating a balanced diet.
 
 False:
-Meat alone is sufficient to provide all nutrients to the body.
-People who do not work don't feel hungry.
+Meat alone is sufficient to provide all nutrients for the body.
+People who don't work, won't feel hungry.
 We eat the same kind of food throughout the year.
 
 ```
@@ -198,7 +198,7 @@ Wood and *coal* produces more smoke, while using as a fuel for cooking.
 Blender, Mixing
 Oven, Heating
 Refrigerator, Cooling
-Electric juices, Juicing
+Electric juicers, Juicing
 Crock pot, Baking
 
 ```
@@ -209,7 +209,7 @@ Crock pot, Baking
 Coal-burning stove is also known as *Shegadi*.
 The process by which foodstuffs become tastier and easier to digest is *heating*.
 Foods which we eat mostly without cooking are *fruits*.
-A device that uses the energy of direct sunlight to cook is *Solar cooker*.
+A device that uses the energy of direct sunlight to cook, is *Solar cooker*.
 Grilled sandwiches can also be made with the help of *toaster*.
 
 ```
