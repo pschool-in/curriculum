@@ -73,7 +73,7 @@ Some water gets deposited under the ground and we usually extract it through wel
 
 1. Dams are built to slower the flow of water, to save it and to generate energy.
 
-2. Rainwater harvesting is another good technique for conserving water in which the rainwater is collected from he roofs of the house and gets deposited in the tank.
+2. Rainwater harvesting is another good technique for conserving water in which the rainwater is collected from roofs of the house and gets deposited in the tank.
 
 
 ### How rivers are formed?
