@@ -16,11 +16,11 @@ Ambon is an animal feed made from a fermented mixture of oilcake, jaggery, and c
 3. In addition to grass, goats and sheep eat the leaves of numerous bushes.
 4. Milk is consumed by cats. Birds such as sparrows, doves, and pigeons are also hunted and eaten by them.
 5. Dogs will eat chapatis or bhakaris, but meat is their preferred food.
-6. Deer, bisons, and nilgai eat a wide variety of green grasses, crops, and leaves.
-7. Wild animals such as the tiger and lion hunt and eat other animals.When they are starving, they are sometimes driven to enter neighbouring villages. 
-The livestock are then killed and taken away.
+6. Deer, bison, and nilgai eat a wide variety of green grasses, crops, and leaves.
+7. Wild animals such as the tiger and lion hunt and eat other animals. When they are starving, they are sometimes driven to enter neighbouring villages. 
+The livestock is then killed and taken away.
 8. Foxes have been known to venture into human settlements. They are unable to kill cattle. The majority of their time is spent stealing poultry.
-9. Some birds eat grains. Worms are eaten by hens. Crows eat the meat of dead animals. Some birds eat fruits of trees.
+9. Some birds eat grains. Worms are eaten by hens. Crows eat the meat of dead animals. Some birds eat the fruits of trees.
 
 ## Plants need food
 1. However, they are unable to travel from one location to another in search of food.
@@ -32,7 +32,7 @@ The livestock are then killed and taken away.
 
 Classify the below animals on the basis of their food.
 
-Herbivorous animals: Cow, Horse, sheep, Deer
+Herbivorous animals: Cow, Horse, Sheep, Deer
 
 Carnivorous animals: Tiger, Lion, Hyena, Wolf
 
@@ -42,7 +42,7 @@ Carnivorous animals: Tiger, Lion, Hyena, Wolf
 ```
 Milk, Cat
 Flesh, Lion
-Rabiits and earthworms, Fox
+Rabbits and earthworms, Fox
 Bengal gramme, Horse
 Oilcake, Cow
 
@@ -53,12 +53,12 @@ Oilcake, Cow
 ```
 True:
 Food of different living things is different.
-Entire living world depends on food prepared by plants.
+The entire living world depends on food prepared by plants.
 With the help of sunlight, plants prepare their own food.
 
 False:
-Dog is a herbivore.
-There is no difference in the feeding habit of tiger and a vulture.
+The dog is a herbivore.
+There is no difference in the feeding habit of a tiger and a vulture.
 
 ```
 
@@ -78,7 +78,7 @@ maha g3: Our diet
 # Our diet (g3)
 
 ## Reading
-1. Every day, we eat some food. We eat between meals. We also have m ilk, tea, coffee. Our daily diet includes everything we eat and drink.
+1. Every day, we eat some food. We eat between meals. We also have milk, tea, coffee. Our daily diet includes everything we eat and drink.
 2. We make a lot of muscular movements when working. This labour is difficult. It's called physical labour. Work makes us hungry.
 3. Some tasks can be done while seated. It requires no physical exertion. Such work is sedentary work.
 
@@ -86,13 +86,13 @@ maha g3: Our diet
 1. Rice becomes a key element of the diet of those who live in areas where rice grows abundantly.
 2. People in areas where jowar or bajra is a major crop include more ‘bhakari' in their diets.
 3. In certain regions, wheat is the major crop. People in those regions eat more chapatis.
-4. In the sea, there is an abundance of fish. As a result, the Konkan people consume a lot of fish in their diet.
+4. In the sea, fish are abundant. As a result, the Konkan people consume a lot of fish in their diet.
 5. We receive different vegetables and fruits at different times of the year depending on their seasons. As a result, the foods in our diet change as well.
 
 ## We should take care of our food
 1. We should eat food made at home.
-2. Sprouted pulses, leafy vegetables, buttermilk and yoghurt should be included often in our diet.
-3. We should avoid products shown in newspapers and TVs. The advertisements are tempting but it does not mean that they are healthy for our body.
+2. Sprouted pulses, leafy vegetables, buttermilk and yogurt should be included often in our diet.
+3. We should avoid products shown in newspapers and TVs. The advertisements are tempting but it does not mean that they are healthy for our bodies.
 
 ## Group: Healthy food Vs Unhealthy food
 
@@ -114,7 +114,7 @@ Sedentary work: Reading book, Drawing, Operating a laptop, Playing carrom
 
 ```
 Healthy food makes our body *fit*.
-A balanced diet is one which contain all the *nutrients*.
+A balanced diet contain all the *nutrients*.
 Work done when sitting is *sedentary work*.
 Oils and fat give us *calories*.
 If our diet is not balanced we may suffer from *diseases*.
@@ -125,13 +125,13 @@ If our diet is not balanced we may suffer from *diseases*.
 
 ```
 True:
-Water is most important part of our diet
+Water is the most important part of our diet
 Deficiency diseases can be prevented by eating a balanced diet.
 
 False:
 Meat alone is sufficient to provide all nutrients to the body.
-People who does not work don't feel hungry.
-We eat same kind of food throughout the year.
+People who do not work don't feel hungry.
+We eat the same kind of food throughout the year.
 
 ```
 
@@ -146,11 +146,11 @@ Pulses, Madhya Pradesh
 
 ```
 
-## Answer the follwing with reference to given examples (by drag drop)
+## Answer the following  with reference to given examples (by drag drop)
 
 ```
 Healthy : Sprouted pulses :: Unhealthy : *Cold drinks*
-Occassionally : Buttermilk :: Daily : *Water*
+Occasionally : Buttermilk :: Daily : *Water*
 Diet : Healthy :: Junk food : *Unhealthy*
 Sweeping : Physical labour :: Sitting : Sedentary work
 
@@ -170,12 +170,12 @@ maha g3: Our Kitchen
 
 When foods are heated, they become tastier and simpler to digest.
 
-## Glossory
+## Glossary
 
 Combustible material: A combustible substance is something that can burn. 
-A fuel is a combustible substance that can be utilised to generate heat in a convenient manner. Fuels include cooking gas, kerosene, and coal.
+Fuel is a combustible substance that can be utilized to generate heat in a convenient manner. Fuels include cooking gas, kerosene, and coal.
 
-## Methods of suppyling heat for cooking
+## Methods of supplying heat for cooking
 1. Some people use kerosene stoves for cooking.
 2. Nowadays, hotplates are also used for cooking on electricity. They are very convenient to use.
 3. Some people use biogas.
@@ -206,10 +206,10 @@ Crock pot, Baking
 ## Answer the following in one word (by drag drop)
 
 ```
-Coal burning stove is also known as *Shegadi*.
+Coal-burning stove is also known as *Shegadi*.
 The process by which foodstuffs become tastier and easier to digest is *heating*.
 Foods which we eat mostly without cooking are *fruits*.
-A device which use the energy of direct sunlight to cook is *Solar cooker*.
+A device that uses the energy of direct sunlight to cook is *Solar cooker*.
 Grilled sandwiches can also be made with the help of *toaster*.
 
 ```
