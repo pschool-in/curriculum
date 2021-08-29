@@ -58,11 +58,11 @@ ostrich| शुतरमुर्ग
 ```
 owl| उल्लू
 rooster| मुर्गा
-woodpecker| कठफोड़व
+woodpecker| कठफोड़वा
 eagle| गिद्ध
 crane| सारस
 flamingo| मराल
-kingfisher| नीलकंठा
+kingfisher| नीलकंठ
 ```
 
 # fruits (फल)
