@@ -97,8 +97,8 @@ onion| प्याज
 tomato| टमाटर
 potato| आलू
 cabbage| पत्ता गोभी
-cauliflower| गोभीी
-corn| मक्का
+cauliflower| फूल गोभी 
+corn| भुट्टा 
 cucumber| खीरा
 garlic| लहसुन
 ```
@@ -111,13 +111,13 @@ bitter-gourd| करेला
 brinjal| बैंगन
 capsicum| शिमला मिर्च
 cashewnut| काजू
-Green chilli| मिर्च
+Green chilli| हरी मिर्च
 coconut| नारियल
 ```
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
-drumstikc| ढोल का छड़ी
+drumstikc| सहजन
 greenpeas| हरी मटर
 ladies-finger| भिन्डी
 mintleaf| पुदीना
