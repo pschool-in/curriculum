@@ -140,10 +140,10 @@ hibiscus | गुडहल
 aeroplane| हवाई जहाज
 boat| नाव
 bus| बस
-car| कार 
+car| गाड़ी  
 bicycle| साइकिल
 helicopter| हेलीकॉप्टर
-motorbike| मोटरबाइक
+motorbike| मोटरसाइकिल
 ship| समुंद्री जहाज
 tractor| ट्रैक्टर
 ```
