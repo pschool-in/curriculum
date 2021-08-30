@@ -220,8 +220,8 @@ web-camara
 ```
 ear| कान
 eye| आंख
-foot| पैर
-hair| बाल
+foot| टांग
+hair| केश
 hand|  हाथ
 mouth| मुंह
 nose| नाक
