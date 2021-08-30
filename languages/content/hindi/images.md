@@ -254,19 +254,21 @@ scalpel| छुरी
 
 # others
 ```
-sun| रवि
+sun| सूर्य
 moon| चांद
-rain| वर्षा
-star| सितारा
+rain| बारिश
+star| तारा
 milk| दूध
 ring| अंगूठी
+Brush| कूंचा
 bone| हड्डी
 ```
 ```
 bell| घंटी
-bird| चिड़िया
+bird| पक्षी
 conch| शंख 
 five| पांच
+Dhol| ढोल
 food| खाना
 fruits| फल
 king| राजा
@@ -276,7 +278,7 @@ kite, पतंग
 ladder| सीढ़ी
 ladoo| लड्डू
 leaf| पत्ता
-rishi| ऋषि
+rishi| ऋषि मुनि
 wheel| पहिया
 whistle| सीटी
 world| दुनिया
