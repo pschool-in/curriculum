@@ -85,6 +85,7 @@ pomegranate| अनार
 watermelon| तरबूज
 fig| अंजीर
 custard apple| शरीफा
+Plum| आलूबुखारा
 dates| खजूर
 muskmelon| खरबूज
 ```
