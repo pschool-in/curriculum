@@ -254,7 +254,7 @@ scalpel| छुरी
 
 # others
 ```
-sun| सूर्य
+sun| रवि
 moon| चांद
 rain| बारिश
 star| तारा
