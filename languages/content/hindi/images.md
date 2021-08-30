@@ -141,7 +141,7 @@ hibiscus | गुडहल
 aeroplane| हवाईजहाज
 boat| नाव
 bus| बस
-car| कार  
+car| गाड़ी 
 bicycle| 
 helicopter| 
 motorbike| 
@@ -172,7 +172,7 @@ girl| लड़की
 man| आदमी
 woman| औरत
 ball| गेंद
-Coat| कोट
+Coat| 
 glasses| ऐनक
 clock| दीवार घड़ी
 watch| हाँथ घडी 
