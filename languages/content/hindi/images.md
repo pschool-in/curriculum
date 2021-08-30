@@ -274,7 +274,7 @@ fruits| फल
 king| राजा
 ```
 ```
-kite, पतंग
+kite| पतंग
 ladder| सीढ़ी
 ladoo| लड्डू
 leaf| पत्ता
