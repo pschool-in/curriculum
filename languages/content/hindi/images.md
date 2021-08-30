@@ -140,18 +140,18 @@ hibiscus | गुडहल
 aeroplane| हवाई जहाज
 boat| नाव
 bus| बस
-car| गाड़ी
+car| कार 
 bicycle| साइकिल
 helicopter| हेलीकॉप्टर
-motorbike| मोटरसाइकिल
+motorbike| मोटरबाइक
 ship| समुंद्री जहाज
 tractor| ट्रैक्टर
 ```
 ```
-train| रेल गाडी
+train| रेलगाडी
 ambulance| रोगी वाहन
 auto| ऑटो
-cart| कार्ट
+cart| हाथ गाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
 lorry| लॉरी
