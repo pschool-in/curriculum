@@ -119,7 +119,7 @@ coconut| नारियल
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
 drumstikc| सहजन
-greenpeas| हरी मटर
+greenpeas| मटर
 ladies-finger| भिन्डी
 mintleaf| पुदीना
 peanut| मूंगफली
