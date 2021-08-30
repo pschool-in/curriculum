@@ -160,7 +160,7 @@ Van|वेन
 ```
 # house
 ```
-house| घर
+house| मकान 
 table| मेज
 bed| बिस्तर
 candle| मोमबत्ती
@@ -170,12 +170,11 @@ baby| बच्चा
 boy| लड़का
 girl| लड़की
 man| आदमी
-woman| औरत
+woman| स्त्री
 ball| गेंद
-Coat| कोट
 glasses| ऐनक
 clock| दीवार घड़ी
-watch| हाथ घड़ी
+watch| घड़ी
 ```
 # school
 ```
