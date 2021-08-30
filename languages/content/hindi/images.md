@@ -97,8 +97,8 @@ beetroot| चुकंदर
 onion| प्याज
 tomato| टमाटर
 potato| आलू
-cabbage| पत्ता गोभी
-cauliflower| फूल गोभी 
+cabbage| पत्तागोभी
+cauliflower| फूलगोभी 
 corn| भुट्टा 
 cucumber| खीरा
 garlic| लहसुन
@@ -138,21 +138,21 @@ hibiscus | गुडहल
 ```
 # vehicles (वाहनों)
 ```
-aeroplane| हवाई जहाज
+aeroplane| हवाईजहाज
 boat| नाव
 bus| बस
 car| गाड़ी  
 bicycle| साइकिल
 helicopter| हेलीकॉप्टर
 motorbike| मोटरसाइकिल
-ship| समुंद्री जहाज
+ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
 ```
 ```
 train| रेलगाडी
-ambulance| रोगी वाहन
+ambulance| रोगीवाहन
 auto| ऑटो
-cart| हाथ गाडी
+cart| हाथगाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
 lorry| लॉरी
@@ -184,7 +184,7 @@ pencil|पेंसिल
 ruler| पेमाना
 bag| बस्ता 
 scissors| कैंची
-sharpener| चोखा करनेवाला 
+sharpener| चोखा करने वाला 
 waterbottle| पानी की बोतल 
 Calculator | गणना यंत्र
 book| किताब
@@ -198,7 +198,7 @@ stove| चूल्हा
 fork| कांटा
 spoon| चम्मच
 knife| छुरी
-pan|कड़ाही
+pan| कड़ाही
 pot| मटका
 butter| मक्खन
 ```
@@ -235,7 +235,7 @@ balance| तराज़ू
 Black board | श्यामपट 
 hose | रबर का पाइप
 plier| प्‍लास
-microscope| सूछ्म दर्शी
+microscope| सूछ्मदर्शी
 Needle | सुई
 oven | कुठला
 plough | हल
