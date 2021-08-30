@@ -254,9 +254,9 @@ scalpel| छुरी
 
 # others
 ```
-sun| रवि
+sun| सूर्य 
 moon| चांद
-rain| बारिश
+rain| बारिश 
 star| तारा
 milk| दूध
 ring| अंगूठी
@@ -279,7 +279,7 @@ ladder| सीढ़ी
 ladoo| लड्डू
 leaf| पत्ता
 rishi| ऋषि मुनि
-wheel| पहिया
+wheel| चक्का
 whistle| सीटी
 world| दुनिया
 ```
