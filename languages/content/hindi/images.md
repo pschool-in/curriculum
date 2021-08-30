@@ -195,7 +195,7 @@ crayons| चित्रांकनी
 ```
 stove| चूल्हा
 fork| कांटा
-spoon| चमचा
+spoon| चम्मच
 knife| छुरी
 pan|कड़ाही
 pot| मटका
@@ -219,8 +219,8 @@ web-camara
 ```
 ear| कान
 eye| आंख
-foot| टांग
-hair| केश
+foot| पैर
+hair| बाल
 hand|  हाथ
 mouth| मुंह
 nose| नाक
