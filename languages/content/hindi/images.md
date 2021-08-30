@@ -253,13 +253,12 @@ scalpel| छुरी
 
 # others
 ```
-sun| सूरज
+sun| रवि
 moon| चांद
 rain| वर्षा
-star| तारा
+star| सितारा
 milk| दूध
 ring| अंगूठी
-brush| कूंचा
 bone| हड्डी
 ```
 ```
@@ -267,7 +266,6 @@ bell| घंटी
 bird| चिड़िया
 conch| शंख 
 five| पांच
-drums| ढोल
 food| खाना
 fruits| फल
 king| राजा
