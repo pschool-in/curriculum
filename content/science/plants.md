@@ -148,9 +148,13 @@ Terrestrial: sunflower, rose, daffodils, poison ivy, tulip, cactus, papaya, pine
 
 Aquatic: lotus, water lily, duckweed, watercress, water hyacinth, hydrilla, vallisneria
 
+```
+
 ## Group : Free floating vs Fixed rooted vs Submerged
 
 Classify the below plants into their respective type.
+
+```
 
 Free floating: duckweed, mosquito fern, water hyacinth, pistia.
 
@@ -172,9 +176,13 @@ Mountain: pine, maple, cedar, oak, deodar.
 
 Plain: mango, banyan, teak. 
 
+```
+
 ## Group : Cold climate vs Hot climate
 
 Classify the below plants based on the climate they grow in.
+
+```
 
 Cold climate: beet, carrot, turnip, radish, kale, spinach, pea, onion, lettuce, potatoes. 
 
@@ -182,7 +190,7 @@ Hot climate: lily, rose, chrysanthemum, bougainvillea, brinjal, chilli, cucumber
 
 ```
 
- ## Group : One seed vs Many seeds vs Seedless
+## Group : One seed vs Many seeds vs Seedless
 
 Classify the below fruits based on the number of seeds they produce .
 
