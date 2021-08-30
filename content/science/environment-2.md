@@ -338,8 +338,8 @@ Recycle: make new things out of scarp. It also helps in conservation of resource
 ### Waste Separation
 
 Biodegradable: left over food, vegetable waste etc.
-Recycleable: pper waste, glass waste, aluminum waste etc.
-Non-recycleable: plastic wrap, wax boxex etc.
+Recycleable: paper waste, glass waste, aluminum waste etc.
+Non-recycleable: plastic wrap, wax boxes etc.
 
 ### Environment friendly materials
 Micro-organisms can decompose some waster materials and make it beneficiary for the soil. Such materials are called environment friendly materials.
@@ -369,8 +369,6 @@ Red waste: plastic wrap, bubble wrap, wax, used towels.
 ```
 
 ## Match the following
-
-Match the foods with their major nutrients.
 
 ```
 Plastic waste, Threat to environment
