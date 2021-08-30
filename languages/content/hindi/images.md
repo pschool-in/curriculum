@@ -169,11 +169,11 @@ baby| बच्चा
 boy| लड़का
 girl| लड़की
 man| आदमी
-woman| औरत
+woman| स्री
 ball| गेंद
 glasses| ऐनक
 clock| दीवार घड़ी
-watch| हाथ-घड़ी
+watch| घड़ी
 ```
 # school
 ```
