@@ -141,10 +141,10 @@ hibiscus | गुडहल
 aeroplane| हवाईजहाज
 boat| नाव
 bus| बस
-car| गाड़ी  
+car| कार  
 bicycle| साइकिल
 helicopter| हेलीकॉप्टर
-motorbike| मोटरसाइकिल
+motorbike| मोटरबाइक
 ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
 ```
@@ -156,7 +156,7 @@ cart| हाथगाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
 lorry| लॉरी
-Van|वेन
+Van| वेन
 ```
 # house
 ```
