@@ -142,21 +142,21 @@ aeroplane| हवाईजहाज
 boat| नाव
 bus| बस
 car| कार  
-bicycle| साइकिल
-helicopter| हेलीकॉप्टर
-motorbike| मोटरबाइक
+bicycle| 
+helicopter| 
+motorbike| 
 ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
 ```
 ```
 train| रेलगाडी
 ambulance| रोगीवाहन
-auto| ऑटो
+auto|
 cart| हाथगाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
-lorry| लॉरी
-Van| वेन
+lorry|
+Van|
 ```
 # house
 ```
