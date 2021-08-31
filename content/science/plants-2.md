@@ -291,6 +291,7 @@ Cabbage,  Greens,  *Turmeric*,  Spinach
 *Mango*, Apple, Orange, Papaya.
 Hydrilla, *Opuntia*, Water hyacinth, Vallisneria
 
+comment by Atish - Please mention which type of activity to fit this
 ```
 
 **Drag and drop to match plants to the parts we eat.**
