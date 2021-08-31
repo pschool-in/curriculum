@@ -29,12 +29,12 @@ Water is very important in our lives!
 ### Fill in the blanks:
 
 ```
-1. Water keeps the blood *thin (thick)*.
-2. Animals *bathe (sleep)* in water.
-3. Water is very *important (less important)* in the lives of people.
-4. Roots of the plant absorb rainwater that has *seeped (sowed)* into the soil.
-5. People take care to provide drinking water for the animals they *keep (don't keep)*.
-6. We go near a waterhole in a forest to see *wild (domestic)* animals.
+Water keeps the blood *thin (thick)*.
+Animals *bathe (sleep)* in water.
+Water is very *important (less important)* in the lives of people.
+Roots of the plant absorb rainwater that has *seeped (sowed)* into the soil.
+People take care to provide drinking water for the animals they *keep (don't keep)*.
+We go near a waterhole in a forest to see *wild (domestic)* animals.
 ```
 
 ### Wordsearch:
@@ -174,4 +174,21 @@ The process of evaporation talks about water turning into its *vapour (solid, li
 Humidity is caused due to the presence of *water (ice, blood)* in the air.
 
 Water takes the *shape (size, taste)* of the container it is kept in.
+```
+
+### Multiple Choice Questions (MCQ):
+
+```
+We need water to _____ our face.
+wash, dry, paint
+We need water to _____ our teeth.
+brush, rinse, colour
+We need water to _____ our food.
+cook, water, waste
+We need water to _____ our vessels.
+clean, paint, colour
+Plants need water to ______.
+grow, flow, dry
+We need water to ______ a boat.
+row, sow, tow
 ```
