@@ -269,7 +269,7 @@ bell| घंटी
 bird| पक्षी
 conch| शंख 
 five| पांच
-Dhol| ढोल
+Drums| ढोल
 food| खाना
 fruits| फल
 king| राजा
