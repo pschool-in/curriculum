@@ -614,7 +614,7 @@ Classify the below plants based on their type of seed.
 
 ```
 
-Monocotyledon: grass, palm,. orchid, lily, banana, wheat, rice. 
+Monocotyledon: grass, palm, orchid, lily, banana, wheat, rice. 
 
 Dicotyledon: bean, castor, pea.
 
