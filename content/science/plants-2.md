@@ -158,7 +158,7 @@ Classify the below plants into their respective type.
 
 Free floating: duckweed, mosquito fern, water hyacinth, pistia.
 
-Fixed rooted: lotus, watershield, lotus, water lily.
+Fixed rooted: lotus, watershield, water lily.
 
 Submerged: vallisneria, hydrilla, pondweed.
  
