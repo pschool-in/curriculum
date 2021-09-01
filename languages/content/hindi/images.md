@@ -1,6 +1,7 @@
 https://pschpsch.netlify.app/author/images
 
 # animals (जानवरों)
+
 ```
 cat| बिल्ली
 dog| कुत्ता
@@ -13,56 +14,80 @@ lion| शेर
 monkey| बंदर
 tiger| बाघ
 ```
+
 ```
 hippo| जलहस्ती
 rhino| गैंडा
 fox| लोमड़ी
 crocodile| मगरमच्छ
+zebra
 bear| भालू
 camel| ऊंट
+shark |
+whale |
+dolphin
+dragonfly
 fish| मछली
 frog| मेंडक
+crab
 snake| साँप
-tortoise| कछुआ, 
+squirrel| गिलहरी
+tortoise| कछुआ,
 ```
+
 ```
 rat| चूहा
-squirrel| गिलहरी
+winged-termites |
 ant| चींटी
 fly| मक्खी
 bat| चमगादड़
 buffalo| भेंस
 butterfly| तितली
-```
-```
-leopard| तेंदुआ
+cheetah
 cow| गाय
 donkey| गधा
+```
+
+```
+giraffe
+kangaroo
+leopard| तेंदुआ
 mongoose| नेवला
 mosquito| मच्छर
+octopus
+wolf
+cockroach
+garden-lizard
 lizard| छिपकली
 rabbit| खरगोश
 ```
+
 # birds (चिड़िया)
+
 ```
 crow| कौवा
+dove
 duck| बतख़
 hen| मुर्गी
 parrot| तोता
 peacock| मोर
+penguin
 sparrow| गौरेया
 chick| चूजा
+crane| सारस
+eagle| गिद्ध
+flamingo| मराल
+kingfisher| नीलकंठ
 myna| मैना
 ostrich| शुतरमुर्ग
 ```
+
 ```
 owl| उल्लू
 rooster| मुर्गा
+vulture |
 woodpecker| कठफोड़वा
-eagle| गिद्ध
-crane| सारस
-flamingo| मराल
-kingfisher| नीलकंठ
+hornbill
 ```
 
 # fruits (फल)
@@ -71,12 +96,14 @@ kingfisher| नीलकंठ
 apple| सेब
 grapes| अंगूर
 banana| केला
+cherry
+avocado
 strawberry| झरबेर
 guava| अमरूद
 jackfruit| कटहल
 mango| आम
 orange| संतरा
-papaya| पपीता 
+papaya| पपीता
 ```
 
 ```
@@ -84,13 +111,14 @@ pineapple| अनानास
 pomegranate| अनार
 watermelon| तरबूज
 fig| अंजीर
-custard apple| शरीफा
-Plum| आलूबुखारा
+custard-apple| शरीफा
+plum| आलूबुखारा
 dates| खजूर
 muskmelon| खरबूज
 ```
 
 # vegetables (सब्जियां)
+
 ```
 carrot| गाजर
 beetroot| चुकंदर
@@ -98,11 +126,12 @@ onion| प्याज
 tomato| टमाटर
 potato| आलू
 cabbage| पत्ता गोभी
-cauliflower| फूल गोभी 
-corn| भुट्टा 
+cauliflower| फूल गोभी
+corn| भुट्टा
 cucumber| खीरा
 garlic| लहसुन
 ```
+
 ```
 ginger| अदरक
 pumpkin| कद्दू
@@ -112,9 +141,10 @@ bitter-gourd| करेला
 brinjal| बैंगन
 capsicum| शिमला मिर्च
 cashewnut| काजू
-Green chilli| हरी मिर्च
+chilli| हरी मिर्च
 coconut| नारियल
 ```
+
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
@@ -128,26 +158,32 @@ spinach| पालक
 ```
 
 # flowers (फूल)
+
 ```
 rose | गुलाब
 lotus | कमल
 sunflower | सूरजमुखी
 marigold | गेंदा
-jasmine | चमेली
 hibiscus | गुडहल
+jasmine | चमेली
+tulip
+zinnia
 ```
+
 # vehicles (वाहनों)
+
 ```
 aeroplane| हवाई जहाज
 boat| नाव
 bus| बस
-car| गाड़ी  
+car| गाड़ी
 bicycle| साइकिल
 helicopter| हेलीकॉप्टर
 motorbike| मोटरसाइकिल
 ship| समुंद्री जहाज
 tractor| ट्रैक्टर
 ```
+
 ```
 train| रेलगाडी
 ambulance| रोगी वाहन
@@ -156,9 +192,11 @@ cart| हाथ गाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
 lorry| लॉरी
-Van|वेन
+van|वेन
 ```
+
 # house
+
 ```
 house| घर
 table| मेज
@@ -172,39 +210,44 @@ girl| लड़की
 man| आदमी
 woman| औरत
 ball| गेंद
-Coat| कोट
+coat| कोट
 glasses| ऐनक
 clock| दीवार घड़ी
 watch| हाथ घड़ी
 ```
+
 # school
+
 ```
 eraser| रबड़
-pen| कलम 
-pencil|पेंसिल 
+pen| कलम
+pencil|पेंसिल
 ruler| पेमाना
-bag| बस्ता 
+schoolbag| बस्ता
 scissors| कैंची
-sharpener| चोखा करनेवाला 
-waterbottle| पानी की बोतल 
-Calculator | गणना यंत्र
+sharpener| चोखा करनेवाला
+waterbottle| पानी की बोतल
+calculator | गणना यंत्र
 book| किताब
-Color pencils | रंग पेंसिल
+color-pencils | रंग पेंसिल
 crayons| चित्रांकनी
 
 ```
+
 # kitchen
+
 ```
 stove| चूल्हा
 fork| कांटा
-spoon| चम्मच
 knife| छुरी
 pan|कड़ाही
+spoon| चम्मच
 pot| मटका
 butter| मक्खन
 ```
 
 # gadgets
+
 ```
 camera
 headphone
@@ -218,6 +261,7 @@ web-camara
 ```
 
 # bodyParts
+
 ```
 ear| कान
 eye| आंख
@@ -230,30 +274,34 @@ tooth| दांत
 ```
 
 # Tools
+
 ```
-Axe| कुल्हाडी
+axe| कुल्हाडी
 balance| तराज़ू
-Black board | श्यामपट 
+black-board | श्यामपट
 hose | रबर का पाइप
-plier| प्‍लास
 microscope| सूछ्म दर्शी
-Needle | सुई
+needle | सुई
 oven | कुठला
+plier| प्‍लास
 plough | हल
-Saw| आरा
-Spade| कुदाल
-Stethescope|आला
+saw| आरा
+spade| कुदाल
+stethoscope |आला
 telescope| दूरबीन
 testube | परखनली
-thermometer| तापमान-यंत्र 
+thermometer| तापमान-यंत्र
 trowel| करनी
-Compass| दिशा सूचक यंत्र
+walkie-talkie |
+awl |
+compass| दिशा सूचक यंत्र
 easel| चित्रफलक
 hacksaw| लोहा-आरी
 scalpel| छुरी
 ```
 
 # others
+
 ```
 sun| सूर्य
 moon| चांद
@@ -261,19 +309,21 @@ rain| बारिश
 star| तारा
 milk| दूध
 ring| अंगूठी
-Brush| कूंचा
+brush| कूंचा
 bone| हड्डी
 ```
+
 ```
 bell| घंटी
 bird| पक्षी
-conch| शंख 
+conch| शंख
+drums| ढोल
 five| पांच
-Dhol| ढोल
 food| खाना
 fruits| फल
 king| राजा
 ```
+
 ```
 kite, पतंग
 ladder| सीढ़ी
