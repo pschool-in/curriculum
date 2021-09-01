@@ -120,12 +120,12 @@ We use *raincoat* or umbrella when it rains.
 True:
 We get wool from sheep.
 We get silk from silkworm.
-We wear woolen clothes in summer.
 Lawyer wears black coat.
 
 False:
 We wear party wear to school.
 Doctors wear yellow coats.
+We wear woolen clothes in summer.
 
 ```
 ************************************************************************************************************************************************************************
@@ -204,7 +204,7 @@ Jute, fibres
 
 Cap, summer
 
-Raincoat, winter
+Raincoat, rain
 
 ```
 ***************************************************************************************************************************************************************************
