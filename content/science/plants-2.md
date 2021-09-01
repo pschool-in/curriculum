@@ -150,13 +150,23 @@ Aquatic: lotus, water lily, duckweed, watercress, water hyacinth, hydrilla, vall
 
 ```
 
-## Group : Free floating vs Fixed rooted vs Submerged
+## Group : Free floating vs Fixed rooted 
 
 Classify the below plants into their respective type.
 
 ```
 
 Free floating: duckweed, mosquito fern, water hyacinth, pistia.
+
+Fixed rooted: lotus, watershield, water lily.
+ 
+``` 
+
+## Group : Fixed rooted vs Submerged
+
+Classify the below plants into their respective type.
+
+```
 
 Fixed rooted: lotus, watershield, water lily.
 
