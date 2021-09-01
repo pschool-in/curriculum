@@ -335,3 +335,12 @@ wheel| चक्का
 whistle| सीटी
 world| दुनिया
 ```
+
+# More image request
+
+## Vegetables
+
+
+## Fruits
+
+## Others
