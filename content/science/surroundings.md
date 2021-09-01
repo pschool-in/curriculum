@@ -22,7 +22,7 @@ Classify the below things based on the category of Farming Implements and Weavin
 
 Farming implements: Spades, Garden fork, Pickaxe, Mouldboard plows
 
-Weaving implements: Dowels, Shed stick, Shed stick, Warp yarn  
+Weaving implements: Dowels, Shed stick, Tapestry Needle, Warp yarn  
 
 ## Match the following
 
