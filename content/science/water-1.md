@@ -12,6 +12,7 @@ Our body is 70% made of water. It doesn't mean that it has flowing water within.
 1. Water keeps our blood thin.
 2. It helps to digest our food.
 3. Urination of waste materials.
+4. 
 Therefore, we must have sufficient water in our bodies for the easy performance of these functions. In case there's not enough water, we feel thirsty.
 
 ### Fun Fact!
@@ -49,7 +50,7 @@ Rainwater, River, Pond, Lake, Ocean, Sea, Well, Canal, Bay, Delta, Water.
 Plants that grow in water are called *aquatic*.
 Only *3%* of the earth's water is fresh.
 Only *0.5%* of the fresh water is available to us.
-Our body is has *70%* of water in it.
+Our body has *70%* of water in it.
 We should drink *12* glasses of water every day.
 *Whale* is the largest animal.
 *Seahorse* and *starfish* are different types of *aquatic* animals.
