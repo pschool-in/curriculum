@@ -25,7 +25,7 @@ Higher the level above the ground, lesser the oxygen. It includes several other 
 
 ### Water cycle
 
-Water on the earth evaporates continuously due to the heat of the sun.As water vapour is lighter than air, it rises high up into the atmosphere.As it goes higher, cools and condenses to  form clouds.The small droplets join together and formbigger drops which are heavy. Such drops of water fall down as rain. This continuous process of evaporation and condensation is called water cycle.
+Water on the earth evaporates continuously due to the heat of the sun. As water vapour is lighter than air, it rises high up into the atmosphere.As it goes higher, cools and condenses to  form clouds.The small droplets join together and form bigger drops which are heavy. Such drops of water fall down as rain. This continuous process of evaporation and condensation is called water cycle.
 
 ### Food chain
 
