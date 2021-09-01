@@ -125,8 +125,8 @@ beetroot| चुकंदर
 onion| प्याज
 tomato| टमाटर
 potato| आलू
-cabbage| पत्ता गोभी
-cauliflower| फूल गोभी
+cabbage| पत्तागोभी
+cauliflower| फूलगोभी
 corn| भुट्टा
 cucumber| खीरा
 garlic| लहसुन
@@ -148,7 +148,7 @@ coconut| नारियल
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
-drumstikc| सहजन
+drumstick| सहजन
 greenpeas| मटर
 ladies-finger| भिन्डी
 mintleaf| पुदीना
@@ -173,32 +173,32 @@ zinnia
 # vehicles (वाहनों)
 
 ```
-aeroplane| हवाई जहाज
+aeroplane| हवाईजहाज
 boat| नाव
 bus| बस
 car| गाड़ी
-bicycle| साइकिल
-helicopter| हेलीकॉप्टर
-motorbike| मोटरसाइकिल
-ship| समुंद्री जहाज
+cycle|
+helicopter|
+motorbike|
+ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
 ```
 
 ```
 train| रेलगाडी
-ambulance| रोगी वाहन
-auto| ऑटो
-cart| हाथ गाडी
+ambulance| रोगीवाहन
+auto|
+cart| हाथगाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
-lorry| लॉरी
-van|वेन
+lorry|
+van|
 ```
 
 # house
 
 ```
-house| घर
+house| मकान
 table| मेज
 bed| बिस्तर
 candle| मोमबत्ती
@@ -208,12 +208,12 @@ baby| बच्चा
 boy| लड़का
 girl| लड़की
 man| आदमी
-woman| औरत
+woman| स्त्री
 ball| गेंद
-coat| कोट
+coat|
 glasses| ऐनक
 clock| दीवार घड़ी
-watch| हाथ घड़ी
+watch| घडी
 ```
 
 # school
@@ -221,11 +221,11 @@ watch| हाथ घड़ी
 ```
 eraser| रबड़
 pen| कलम
-pencil|पेंसिल
+pencil| पेंसिल
 ruler| पेमाना
 schoolbag| बस्ता
 scissors| कैंची
-sharpener| चोखा करनेवाला
+sharpener| चोखा करने वाला
 waterbottle| पानी की बोतल
 calculator | गणना यंत्र
 book| किताब
@@ -240,8 +240,8 @@ crayons| चित्रांकनी
 stove| चूल्हा
 fork| कांटा
 knife| छुरी
-pan|कड़ाही
-spoon| चम्मच
+pan| कड़ाही
+spoon
 pot| मटका
 butter| मक्खन
 ```
@@ -265,8 +265,8 @@ web-camara
 ```
 ear| कान
 eye| आंख
-foot| पैर
-hair| बाल
+foot| टांग
+hair| केश
 hand|  हाथ
 mouth| मुंह
 nose| नाक
@@ -278,12 +278,13 @@ tooth| दांत
 ```
 axe| कुल्हाडी
 balance| तराज़ू
-black-board | श्यामपट
+blackboard | श्यामपट
 hose | रबर का पाइप
-microscope| सूछ्म दर्शी
+microscope| सूछ्मदर्शी
 needle | सुई
 oven | कुठला
 plier| प्‍लास
+
 plough | हल
 saw| आरा
 spade| कुदाल
@@ -325,12 +326,12 @@ king| राजा
 ```
 
 ```
-kite, पतंग
+kite| पतंग
 ladder| सीढ़ी
 ladoo| लड्डू
 leaf| पत्ता
 rishi| ऋषि मुनि
-wheel| पहिया
+wheel| चक्का
 whistle| सीटी
 world| दुनिया
 ```

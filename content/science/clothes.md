@@ -275,6 +275,8 @@ Sarees from some states of India have special significance and great popularity 
 4.	Clothes are sold to shopkeepers.
 5.	You buy clothes from a shop.
 6.	You wear your new clothes!
+
+Comment by Atish - Sorting can't be done for such big sentence, please think of some other activity
 ```
 
 ### Find the winter clothing. (crossword)

@@ -230,7 +230,7 @@ Strong : neem, banyan, mango, deodar.
 
 ## Match the following
 
-Match the things with their place in the environment
+Match the plant parts with their function.
 
 ```
 Root, Absorption
@@ -291,6 +291,7 @@ Cabbage,  Greens,  *Turmeric*,  Spinach
 *Mango*, Apple, Orange, Papaya.
 Hydrilla, *Opuntia*, Water hyacinth, Vallisneria
 
+comment by Atish - Please mention which type of activity to fit this
 ```
 
 **Drag and drop to match plants to the parts we eat.**
@@ -480,6 +481,7 @@ December, Tuberose, *Tulip*.
 Saffron, Dahlia, *Rose*. 
 *Rose*, Boat lily, Crotons.
 
+Comment by Atish - Please mention the activity type
 ```
 ## Answer in one word. (drag and drop)
 
