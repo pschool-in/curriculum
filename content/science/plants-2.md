@@ -230,7 +230,7 @@ Strong : neem, banyan, mango, deodar.
 
 ## Match the following
 
-Match the things with their place in the environment
+Match the plant parts with their function.
 
 ```
 Root, Absorption
