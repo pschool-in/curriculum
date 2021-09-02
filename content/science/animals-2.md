@@ -23,24 +23,22 @@ in small hollows on high cliffs or live near our houses. They find shelter in ga
 It is believed that a cobra lives in an anthill. But anthills are built by ants, not by a
 cobra. The cobras live in holes.
 
-
-
 ## Group: Build shelter themselves Vs find ready shelters
 
 Classify the below animals based on building habits.
-
+```
 Build shelter themselves: Birds, Honey bees, Rats, Mice
 
 Find ready shelters: Doves, Tiger, Bats, Cobra
-
+```
 ## Group: Domestic Animals Vs Wild Animals
 
 Classify the below animals on the basis of their domestic nature.
-
+```
 Domestic: Cow, Horse, Hens, Cat
 
 Wild: Lion, Hyena, Leopard, Bat
-
+```
 ## Match the Following
 
 ```
@@ -57,7 +55,7 @@ Lion, Den
 Drag and drops the words at the right places:
 
 ```
-Birds use *grass*, *straw*, *twigs* and even *cotton* and *wool*, to build their nests.
+*Birds* use grass, straw, twigs and even cotton and wool, to build their *nests*.
 Weaverbird uses *thorny* trees to build their nest.
 Tailorbird selects a plant with *big* leaves and builds its nest by *stitching* the leaves together.
 Tigers and hyenas live in *caves*.
@@ -146,11 +144,11 @@ The adult stage is called the butterfly. All the butterflies have to go through 
 ## Group: Egg-laying Vs Non-egg laying
 
 Classify the below animals on the basis of whether they lay eggs or not.
-
+```
 Lay eggs: Hen, Spider, Frog, Snake, Crow
 
 Don't lay eggs: Cat, Dog, Horse, Cow, Donkey
-
+```
 ## Match the following:
 
 Match the animals with their babies.
@@ -544,27 +542,27 @@ compound eyes, the antennae (feelers) and the mouth parts. The thorax is the mid
 ## Group: Alone Vs Group
 
 Classify the below animals on whether they live alone or in groups.
-
+```
 Alone: Tiger, Bear, Leopard, Mole, Sloth
 
 Group: Elephants, Wolf, Whale, Sheep, Deer
-
+```
 ## Group: Nocturnal Vs Diurnal
 
 Classify the below animals on the basis of their nocturnal behaviour.
-
+```
 Nocturnal: Cat, Mouse, Firefly, Owl, Bat, Moth
 
 Diurnal: Dog, Cow, Horse, Sheep, Sparrow, Crow
-
+```
 ## Group: Fur Vs No Fur
 
 Classify the below animals based on the presence of fur.
-
+```
 Fur: Fox, Rabbit, Sheep, Polar Bear, Beaver
 
 No Fur: Zebra, Dog, Fish, Frog, Snake
-
+```
 
 ## Match the following
 
@@ -670,29 +668,26 @@ the wild life. The national parks cover an area of 100 – 500 square kilometers
 A sanctuary is a protected area which is reserved for the conservation of animals only. Harvesting of timber, collection of forest products and private
 ownership rights are allowed here.
 
-
 ## Group: Oviparous Vs Viviparous
 
 Classify the below animals on whether they lay eggs or not.
-
+```
 Oviparous: Duck, Frog, Sparrow, Butterfly, Eagle
 
 Viviparous: Human, Deer, Lion, Tiger, Elephant
-
+```
 ## Group: Endangered Vs Not Endangered
-
+```
 Endangered: Umbrella Tree, Malabar Lily, Rafflesia Flower, Indian Mallo, Musli Plant
 
 Not Endangered: Lotus, Rose, Marigold, Jasmine, Water Lily
-
+```
 ## Group: National Parks Vs Wildlife Sanctuaries
-
+```
 National Park: Jim Corbett, Gir Forest, Kaziranga, Sundarban, Periyar
 
 Wildlife Santuary: Kalakkad, Mudumalai, Mundanthrai, Anaimalai, Vedanthangal
-
-
-
+```
 ## Match the following
 
 ```
