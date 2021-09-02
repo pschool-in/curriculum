@@ -92,7 +92,7 @@ For survival, living things will take their necessary things from the *environme
 Sparrows grow by eating *insects and food grains (stone and paper)*.
 Plants and animals will come under *living things (non-living things)*.
 Plants utilize *sunlight (moonlight)* to prepare their food.
-Birds will build their nest using *cotton, twigs and threads (food, water and light)*.
+Birds will build their nest using *twigs (bricks) *.
 Papers, rock and bag will come under *non-living things (Living things)*.
 ```
 
@@ -422,7 +422,7 @@ Alligator
 Drag and drop the words at proper places
 
 ```
-Cow dung is used for * production of biogas*
+Cow dung is used for the *production of biogas*
 Plants in *marshes* called mangroves.
 *Sheep pellets* can be used as manure for plants.
 *Roots*of the plant grow under the soil.
