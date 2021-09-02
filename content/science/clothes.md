@@ -177,17 +177,12 @@ Synthetic: nylon, rayon.
 
 ```
 True:
-
 Detergent is used to wash clothes.
-
 Clothing styles vary according to gender, situation, occasion, season, ethnicity and one’s taste.
-
 Bamboo yarn is also used for making clothes.
 
 False:
-
 A person can wear same clothes forever.
-
 Liquid handwashes are used to clean clothes.
 ```
 
@@ -195,17 +190,11 @@ Liquid handwashes are used to clean clothes.
 
 ```
 Sheep, wool
-
 Sweater, winter
-
 Cotton, cotton yarn
-
 Jute, fibres
-
 Cap, summer
-
 Raincoat, rain
-
 ```
 ***************************************************************************************************************************************************************************
 
