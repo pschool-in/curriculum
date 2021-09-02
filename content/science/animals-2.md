@@ -766,3 +766,36 @@ RAVAL: *LARVA*
 RBMYOM: *EMBRYO*
 DYHAR: *HYDRA*
 ```
+## Steps in Sexual Reproduction (sorting)
+
+```
+Pre-fertilization, fertilization, post-fertilization, embryo formation
+
+```
+## Classify the sentence.
+
+Classify the below sentence as characteristics of oviparous or viviparous.
+
+```
+Oviparous:
+The development of the embryo takes place outside the animal.
+They produce their young ones by laying eggs.
+The embryo receives the nutrients from the egg yolk.
+
+Viviparous:
+The development of the embryo takes place inside the animal.
+They directly give birth to the young ones.
+The embryo receives the nutrients from the mother.
+
+```
+## Match the following 
+
+Match the colour code with their meaning.
+
+```
+Black, confirmed extinct
+Red, endangered species
+White, rare species
+Green, formerly endangered
+
+```
