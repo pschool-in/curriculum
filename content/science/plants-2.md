@@ -713,14 +713,7 @@ The embryo forms into a zygote.
 Androecium is the female reproductive part.
  
 ```
-## Jumbled words
 
-Connect the blocks to form meaningful words.
-
-```
-Androecium, Gynoecium, Anemochory, Hydrochory, Zoochory, Autochory, Anemophily, Hydrophily, Entamophily. 
-
-```
 ## Answer in one word.(drag and drop)
 
 ```
