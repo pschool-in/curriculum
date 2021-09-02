@@ -5,11 +5,11 @@
   ```
   1. Add 10 stories to playlist 'bn-reading-2'- DONE
   2. Add 10 antonyms to playlist 'bn-words-2'
-  3. Add 10 picture based acitivity to the 'bn-picture-2'
+  3. Add 10 picture based acitivity to the 'bn-picture-1' - PRIORITY for Sep 10 Release
   4. Add 10 poems to playlist 'bn-poem-1' - Currently working (5 added)
   5. Add 10 crosswords to the playlist 'bn-crossword'
   6. Add 5 wordsearch to playlist 'bn-wordsearch'
-  7. Add 5 connect word activity to 'bn-words'
+  7. Add 5 connect word activity to 'bn-words' - DONE 2 letter words
   8. Add activity correct spelling to 'bn-words'
   9. Add 10 synonyms to playlist 'bn-words-2'
   10. Add 1 synonyms to playlist 'bn-words' - DONE
@@ -19,11 +19,15 @@
   14. Add 6 adding compound (consonant) words activity to 'bn-grammar' - Currently working
   15. Add 10 season-month activity in 'bn-social' - DONE
   16. Add 10 activities in 'bn-grammar' - Currently working 5 added 
-  17. Add 2 coonect sentence in 'bn-sentence' - DONE
+  17. Add 2 connect sentence in 'bn-sentence' - DONE
   18. Add 2 activity same meaning word in 'bn-sentence' -  DONE
   19. Add 2 season-month activity in 'bn-social'- DONE
   20. Add 50 "volwe + consonant" letter in 'bn-letter-2' - DONE 
   still updating
+  
+  Priority - updated on Sep 2
+  1. Add 20 picture based acitivity to the 'bn-picture'
+  2. Add 10 Sound based activity to the `bn-sound`
   ```
   
   ## Playlists
