@@ -432,7 +432,7 @@ Silk is obtained from the cocoon of the larvae of *silkworm*.
 ## Fill in the blanks (Using options)
 
 ```
-Cattle dung is used in *plastering (constructing)* the mud houses..
+Cattle dung is used in *plastering (constructing)* the mud houses.
 Change in season will affect * living things (non-living things)*.
 Plants prepare their food by *photosynthesis (Absorption)*.
 We depend upon *Agriculture (Weaving)* for our food.
