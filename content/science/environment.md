@@ -92,7 +92,7 @@ For survival, living things will take their necessary things from the *environme
 Sparrows grow by eating *insects and food grains (stone and paper)*.
 Plants and animals will come under *living things (non-living things)*.
 Plants utilize *sunlight (moonlight)* to prepare their food.
-Birds will build their nest using *twigs (bricks) *.
+Birds will build their nest using *twigs (bricks)*.
 Papers, rock and bag will come under *non-living things (Living things)*.
 ```
 
@@ -432,7 +432,7 @@ Silk is obtained from the cocoon of the larvae of *silkworm*.
 ## Fill in the blanks (Using options)
 
 ```
-*Cattle dung (Human dung)* is used in plastering the mud houses.
+Cattle dung is used in *plastering (constructing)* the mud houses..
 Change in season will affect * living things (non-living things)*.
 Plants prepare their food by *photosynthesis (Absorption)*.
 We depend upon *Agriculture (Weaving)* for our food.
