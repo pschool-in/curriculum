@@ -176,7 +176,7 @@ Farming is the activity of growing crops and raising livestock. It is a part of 
 + Poultry farms: In poultry farms avian species are reared and bred for the purpose of egg, meat or both. Poultry birds grown for meat are called broilers. Layers are the female fowls grown for egg production.
 + Apiculture: Rearing of honey bee for honey is known as apiculture. It is also called bee keeping. In this technique honey bees are reared in a specially designed wooden box.
 
-### Uses:
+### Uses of Diary Farming:
 
 + Bullocks are used to plough land, harvest and thrash crops.
 + Cattle are employed in transportation.
@@ -184,14 +184,17 @@ Farming is the activity of growing crops and raising livestock. It is a part of 
 + Panchagavya is an ayurvedic medicine used in agriculture to control pest and fungi.It is a mixer of dung and urine of cows, fresh milk, curd, jaggary and ghee.
 + Leather goods are manufactured from cattle hides.
 
+### Uses of Poultry Farming:
+
 + Poultry birds are good source of nutritive food.
 + Their feathers are used for making pillows and quilts.
 + Dropping of the poultry birds is used as manure. It is highly valuable for crops.
 
+### Uses of Apiculture:
+
 + Honey has an antiseptic and antibacterial property.It builds up haemoglobin content in the blood.
 + Honey is used in Ayurvedic and Unani system of medicines.It prevents cough, cold, fever and relieves sore throat.
 + Honey also enhances digestion and appetite.
-
 + Bee wax is secreted by worker bee to build the combs of bee hive.It is widely used in cosmetics.
 
 ### Manure and Vermiculture
@@ -204,6 +207,8 @@ Manure is an organic matter used as fertilizer. It is mostly derived from animal
 
 Vermiculture or Vermicomposting is a method of transforming organic wastes such as waste papers, leaves, pieces of woods etc., into
 a nutrient rich fertilizer using earth worms. 
+
+### Uses of Vermiculture:
 
 + It is a healthy and clean way to eliminate wastes going into our landfills.
 + It keeps the environment clean.
