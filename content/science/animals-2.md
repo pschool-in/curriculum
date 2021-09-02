@@ -300,29 +300,130 @@ energy between organisms of different energy sources occurs through food web.
 ## Group : Wings Vs No-Wings
 
 Classify the below animals based on the wings.
-
+```
 Wings: Sparrow, Dragonfly, Parrot, Butterfly, Bat
 
 No-Wings: Snail, Tortoise, fish, Penguin, tiger
-
+```
 
 ## Group: Terrestrial Vs Aquatic
 
 Classify the below animals on whether they live on land or water.
-
+```
 Terrestrial: Bison, Tiger, Horse, Cow, Fox, Bear, deer
 
 Aquatic: Fish, Tortoise, Octopus, Seahorse, Jellyfish, Starfish, Mussel
-
+```
 ## Group: Herbivore Vs Carnivore Vs Omnivore
 
 Classify the below animals on the basis of their eating habits.
-
+```
 Herbivore: Cow, Buffalo, Goat, Elephant, Zebra
 
 Carnivore: Lion, Leopard, Cheetah, Seal, Crocodile
 
 Omnivore: Human, Bear, Hen, Fox, Crow
+```
+## Group : Plains Vs Forest
+
+Classify the below animals based on where they live.
+
+```
+Plains: cow, camel, hen, goat, sheep
+
+Forest: fox, bear, bison, deer
+
+```
+
+## Group: Freshwater Vs Marine
+
+Classify the below animals on where they live.
+
+```
+Freshwater: mussel, fish, crab
+
+Marine: seahorse, jellyfish, starfish, shark.
+
+```
+## Group: Arboreal Vs Aerial Vs Amphibian
+
+Classify the below animals on the basis of their eating habits.
+
+```
+Arboreal: monkey, squirrel
+
+Aerial: crow, dove, parrot
+
+Amphibian: toad, frog
+
+```
+
+## Who am I? (drag and drop)
+
+```
+I have 8 arms and I live in the sea. Who am I ? 
+*octopus*
+
+I am a bird but I cannot fly. I can swim very well. Who am I?
+*penguin*
+
+I am the largest animal in the sea. Who am I?
+*whale*
+
+I do not have any legs. I like to crawl. Who am I?
+*snake*
+
+I have wings but I am not a bird. Who am I?
+*butterfly*
+
+I am the king of the forest. I eat animals like deer, zebra and
+giraffe.Who am I?
+*lion*
+
+I suck blood from animals. But males of my family feed on plant juices. Who am I?
+*female mosquito*
+
+ I eat cereals, small insects, earthworms etc. I live on land. Who am I?
+*hen*
+
+I eat small insects that fall in my web. Who am I?
+*spider*
+
+```
+## Match the Following
+
+Match the animal with food they eat.
+
+```
+Honey Bee, honey
+Leopard, flesh
+Hen, grain
+Spider, insect
+Goat, plant
+
+```
+## Birds and Beaks. (drag and drop)
+
+```
+It has strong, sharp, curved beak to catch prey and
+tear its flesh.- *Eagle*
+
+Fish-eating birds have spear-like beaks designed for
+stabbing fish.- *Kingfisher*
+
+The hooked, sharp beak of parrot helps to collect and
+eat the grains.- *Parrot*
+
+Strong chisel beak of woodpecker is used to make hole in
+the trees and catch small insects.- *Woodpecker*
+
+Sparrow has short, conical beak which helps to crack
+open the shells and extract the inner nut or seed.- *Sparrow*
+
+Duck has flat beak that helps to grip plant and insect
+from water.- *Duck*
+
+```
 
 ## Match the Following
 
