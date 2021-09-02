@@ -139,7 +139,7 @@ Some reptiles move at normal speed and some very fast. Most of the reptiles craw
  
 ### Different ways of the Insects
 
-Some fly in the air, as well as they move on land. There are variety of insects with different characteristics. Insects also have wings. Examples are mosquitoes, houseflies, butterflies, etc. Usually, most insects have six legs but some eight. 
+Some fly in the air, as well as they move on land. There are variety of insects with different characteristics. Insects also have wings. Examples are mosquitoes, houseflies, butterflies, etc. Usually, most insects have six legs but some have eight. 
 
 ### Different ways of the Fish
 
