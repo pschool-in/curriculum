@@ -405,20 +405,15 @@ Goat, plant
 ```
 It has strong, sharp, curved beak to catch prey and
 tear its flesh.- *Eagle*
-
 Fish-eating birds have spear-like beaks designed for
 stabbing fish.- *Kingfisher*
-
-The hooked, sharp beak of parrot helps to collect and
+The hooked, sharp beak helps to collect and
 eat the grains.- *Parrot*
-
-Strong chisel beak of woodpecker is used to make hole in
+Strong chisel beak is used to make hole in
 the trees and catch small insects.- *Woodpecker*
-
-Sparrow has short, conical beak which helps to crack
+Short, conical beak which helps to crack
 open the shells and extract the inner nut or seed.- *Sparrow*
-
-Duck has flat beak that helps to grip plant and insect
+Flat beak that helps to grip plant and insect
 from water.- *Duck*
 
 ```
