@@ -80,25 +80,25 @@ Drag and drop the words at proper place
 *Village* is formed by the people who got settled and lived together in a place. 
 In India, some places are famous because of *Historical buildings*.
 *Sun temple* is situated in Konark.
-Rajgad Fort is a hill fort, situated in *Rajgad district* of Maharashtra. 
+Rajgad Fort is a hill fort, situated in Rajgad district of *Maharashtra*. 
 *Golden temple* is situated in Amritsar.
 ```
 
 ## Fill in the blanks (Using options)
 
 ```
-King Chathrapathi Sivaji was the founder of *Maratha Empire (Gupta Empire)*
+King Chathrapathi Sivaji was the founder of *Maratha (Gupta)* Empire.
 * Rajaraja Chola I (Rajendra Chola I)* built the Brihadishvara temple. 
 *Plough (shuttle)* is used in agriculture.
 Lotus temple is one of the famous monuments situated in *Delhi (Amritsar)*.
-*Jaisalmer Fort (Mehrangarh Fort)* is also called a golden fort.
+*Jaisalmer (Mehrangarh)* Fort is also called a golden fort.
 ```
 
 ## True or False
 
 ```
 True:
-In ancient days, man used to hunt the animals and eat raw meat of the animal for his food.
+In ancient days, man used to hunt animals and eat raw meat.
 Ajanta caves are famous for cave paintings, sculptures, and architecture.
 Red fort is built by Shah Jahan, Mughal emperor of India.
 
@@ -178,14 +178,14 @@ Drag and drop the words at proper place
 Aayi Mandapam is also called *Park Monument*.
 *Mandvi Gate* is the north gate of the Royal Enclosure for the state Baroda.
 *Wagah border* is famous for ceremonial closing the gates and lowering of India and Pakistan flags.
-* Sittanavasal Cave* is situated in Tamil Nadu.
+* Sittanavasal* Cave is situated in Tamil Nadu.
 ```
 
 ## Fill in the banks (Using options)
 
 ```
-Mamallapuram was built by *Narasimhavarman (Paramesvaravarman )*.
-Arch of Viceroy is situated in * Goa (Ahmedabad)*
+Mamallapuram was built by *Narasimhavarman (Paramesvaravarman)*.
+Arch of Viceroy is situated in *Goa (Ahmedabad)*
 Vasco Da Gama Memorial is situated in *Kerala (Goa)*.
 Nalanda University was constructed by the *Gupta dynasty (Rajputs)*.
 The Elephant Palace is situated in *Madhya Pradesh (Andhra Pradesh)*
