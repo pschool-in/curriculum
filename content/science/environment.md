@@ -43,7 +43,7 @@ Pollution, Environment
 ## Multiple Choice Questions
 
 ```
-Animals can able to __________
+Animals can __________
 Eat food
 Move one place to another
 Reproduce the little ones
@@ -55,11 +55,11 @@ Steel and glasses
 Wood
 *All the above
 
-Environment has _______ and ________
+Environment is made up of __________
 Living things and non-living things
-Only Animals and plants
-Only human beings and air
-Only Water and land
+animals and plants
+human beings and animals
+earth and sky
 
 Human used to make many things like _____, ______ from the environment.
 Paper, baskets
@@ -80,16 +80,16 @@ Drag and drop the words at proper place
 
 ```
 Living things bring changes in *non-living things* too
-Living things need *food* and it helps them to grow.
+Living things need *food* to grow.
 Humans used to weave *Clothes* using cotton, silk, wool.
 Some animals used to hunt and eat other *animal’s flesh*
-For survival, living things will take their necessary things from the *environment*.
+For survival, living things take their needs from the *environment*.
 ```
 
 ## Fill in the blanks (Using options)
 
 ```
-Sparrows grow by eating *insects and food grains (stone and paper)*.
+`Sparrows grow by eating *insects (stone)* and *food grains (paper)*.
 Plants and animals will come under *living things (non-living things)*.
 Plants utilize *sunlight (moonlight)* to prepare their food.
 Birds will build their nest using *twigs (bricks)*.
@@ -105,8 +105,8 @@ Living things and non-living things depend upon each other in the environment.
 Plants will not move from one place to another place by their own.
 
 False:
-Train can move from one place to another. So, train will come under living things.
-Wooden chairs and tables are made from the trees. Trees will come under living things. So, wooden chairs and tables are also living things.
+Train can move from one place to another. So, train is a living things.
+Wooden chairs and tables are made from the trees. So, they are living things.
 ```
 
 
