@@ -119,7 +119,6 @@ Chapter: maha g3: So many kinds of animals
 Our planet is full of diversity. Moreover, every type has its unique characteristics. Some animals live on land; some in water; some live both in water and land; birds in land and air; some birds in water. 
 Mammals are one of the most important ones. They usually give the milk to their young ones like  cows, goats, pigs, rats, dogs, etc. They have mammary glands and hair on their body.
 
-
 ### Different Sizes
 
 Body size of all the animals vary. For example elephants and giraffes are big size animals; dogs and  goats are medium-sized animals; squirrels and rats are small-sized animals. Insects are the tiny ones with unique characteristics. 
@@ -189,7 +188,7 @@ Seven
 Eight
 Nine
 
-__________ animal has mane in their body.
+__________ has mane in their body.
 Horse
 Cow
 Elephant
@@ -202,8 +201,8 @@ Eagle
 Dove
 
 ____________ grows in stagnant water.
-Mosquitoes
-Houseflies
+Mosquitoe
+Housefly
 Cockroach
 Fruitfly
 ```
@@ -213,7 +212,7 @@ Fruitfly
 Drag and drop the words at proper place
 
 ```
-The crocodile is a *Reptile*.
+Crocodiles are *reptile*.
 *Elephants* have a trunk.
 *Snake* is a cold-blooded animal.
 *Chameleon* can change its skin color.
@@ -236,7 +235,7 @@ Bedbugs will suck *blood (sweat)* from our body
 True:
 Fishes have fins, scales in their body.
 Eagle flies higher than the pigeon.
-Spiders are an insect that has eight legs.
+Spiders are insects with eight legs.
 
 False:
 Dogs will have scales in their body.
