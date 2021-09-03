@@ -94,9 +94,9 @@ Pacific, Atlantic, Indian, Arctic, Southern
 ### Which of these sources of water are natural and which ones are man-made? (Drag and drop)
 
 ```
-Man-made: wells, dams, bore-wells, hand-pumps, canals, taps, reservoirs.
+Man-made: Wells, Dams, Bore-wells, Hand-pumps, Canals, Taps, Reservoirs.
 
-Natural: springs, streams, rivers, lakes, creeks, seas, oceans, ponds.
+Natural: Springs, Streams, Rivers, Lakes, Creeks, Seas, Oceans, Ponds.
 ```
 
 ### Jumbled words:
