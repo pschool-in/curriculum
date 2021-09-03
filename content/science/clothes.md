@@ -28,11 +28,11 @@ In addition to this, we wear clothes of different designs, colors and tradition.
 ### Who wears what? (classify sentence-template)
 
 ```
-Men: Dhoti, pyjama, lungi, trousers, mundase, pheta, pagdi etc.
+Men: Dhoti, , Lungi, Pheta, Pagdi.
 
-Women: Saris, salwar-suit, frocks, skirts, gowns, tops etc.
+Women: Saris, Salwar-suit, Frocks, Skirts, Gowns, Tops.
 
-Common: Shirts, pants, jeans, t-shirts, caps, hats etc.
+Common: Shirts, Jeans, T-shirts, Pyjama, Trousers, Hats.
 
 ```
 
@@ -46,9 +46,9 @@ Pictures of a soldier, policeman, nurse, doctor, fireman, traffic police, studen
 ### Which clothes are suitable for which season? (drag and drop)
 
 ```
-Summer: Skirts, shorts, cotton clothes, kurtas.
+Summer: Skirts, Shorts, Cotton clothes, Kurtas.
 
-Winter: Coats, sweaters, mufflers, gloves, socks.
+Winter: Coats, Sweaters, Mufflers, Gloves, Socks.
 
 ```
 
@@ -59,11 +59,11 @@ Uniforms of soldiers are called ‘camouflage’ because it matches with their e
 #### Guess what would they wear in the following surroundings: (fill up by drag)
 
 ```
-Soldiers wear *Khaki* clothes in deserts.
+Soldiers wear *khaki* clothes in deserts.
 
-Soldiers wear *Green* clothes in jungles.
+Soldiers wear *green* clothes in jungles.
 
-Soldiers wear *White* clothes in The Himalayas.
+Soldiers wear *white* clothes in The Himalayas.
 
 ```
 **********************************************************************************************************************************************************************
@@ -75,32 +75,31 @@ Soldiers wear *White* clothes in The Himalayas.
 ```
 I wear a white coat and examine patients. - *Doctor*
 I wear blue clothes and put out fires. - *Firefighter*
-You always see me in khaki clothes.
-I go wherever there is a fight. - *police*
-I work in a hospital and take care of patients. - *nurse*
-I am always ready to protect the country.- *soldier*
+You always see me in khaki clothes. I go wherever there is a fight. - *Police*
+I work in a hospital and take care of patients. - *Nurse*
+I am always ready to protect the country.- *Soldier*
 
 ```
 ## Match the following
  
 ```
-Summer,cotton clothes
-Winter, woolen clothes
-Rain, raincoat
-Polyester, artificial fiber
-Silk, silkworm
+Summer, Cotton clothes
+Winter, Woolen clothes
+Rain, Raincoat
+Polyester, Artificial fiber
+Silk, Silkworm
 
 ```
 ## What do we wear? (drag and drop)
 
 ```
-What do we wear to protect our feet - *shoes*
-What do we wear to keep ourselves dry in rain - *raincoat*
-What do we wear when we go to bed - *pyjamas*
-What do we wear to protect ourselves from cold - *sweater*
-What do we wear to provide shade from sunlight - *hat*
-What do we wear to go to school - *uniform*
-What do we wear to protect our hands from cold - *gloves*
+What do we wear to protect our feet - *Shoes*
+What do we wear to keep ourselves dry in rain - *Raincoat*
+What do we wear when we go to bed - *Pyjamas*
+What do we wear to protect ourselves from cold - *Sweater*
+What do we wear to provide shade from sunlight - *Hat*
+What do we wear to go to school - *Uniform*
+What do we wear to protect our hands from cold - *Gloves*
 
 ```
 ## Fill in the Blanks (By Drag Drop)
@@ -160,17 +159,18 @@ Eg- paper plates, false flowers, models etc.
 2.	It is unsafe to wear *nylon* clothes while cooking or burning crackers.
 3.	People prefer wearing *cotton* clothes in summer.
 4.	*Raincoats* protect us from rain.
-5.	*Scarfs* protect our skin from the sun and *Mufflers* protect our ears and neck from cold.
+5.	*Scarfs* protect our skin from the sun.
+6.  *Mufflers* protect our ears and neck from cold.
 ```
 
 ### What are the sources of these clothes? (classify template) 
 
 ```
-Animal: wool, silk.
+Animal: Wool, Silk.
 
-Plant: cotton, jute.
+Plant: Cotton, Jute.
 
-Synthetic: nylon, rayon.
+Synthetic: Nylon, Rayon.
 ```
 
 ### True or False?
@@ -189,12 +189,12 @@ Liquid handwashes are used to clean clothes.
 ### Match the following:
 
 ```
-Sheep, wool
-Sweater, winter
-Cotton, cotton yarn
-Jute, fibres
-Cap, summer
-Raincoat, rain
+Sheep, Wool
+Sweater, Winter
+Cotton, Cotton yarn
+Jute, Fibres
+Cap, Summer
+Raincoat, Rain
 ```
 ***************************************************************************************************************************************************************************
 
@@ -217,28 +217,12 @@ We must always have *clean* clothes in order to remain healthy and look neat and
 Arrange the materials based on their source of origin.
 
 ```
-Natural : cotton, wool, silk, jute.
+Natural : Cotton, Wool, Silk, Jute.
 
-Artificial: nylon, rayon.
-
-```
-## Match the following.
-
-Match the traditional dresses to their respective state.
+Artificial: Nylon, Rayon.
 
 ```
-Ikkat saree, Andhra Pradesh
-Mekhela Chador, Assam
-Dhoti-kurta, Bihar
-Kachhora,  Chhattisgarh 
-Nav-vari, Goa
-Kediyu-chorno, Gujrat
-Daaman, Haryana
-Tussar silk saris ,  Jharkhand 
-Mundum Neriyathum, Kerala
-Puan, Mizoram
 
-```
 *************************************************************************************************************************************************************************
 
 # Chapter - maha g5: Clothes - our Necessity
@@ -277,14 +261,11 @@ Sweater, gloves, socks, muffler, coat, blanket.
 ### Guess the speciality of these cities. (fill by drop)
 
 ```
-Paithan and Yeolla are famous for *Paithani*
-
-Aurangabad is famous for *Himroo shawls*
-
-Solapur is known for *Bedsheets*
-
-Ichalkaranji is well known for *Handloom*
-
+Paithan and Yeolla are famous for *paithani*
+Goa is famous for *shell jewellery*.
+Banaras/ Varanasi is famous for * silk sarees*.
+Punjab is famous for *patiala salwars*.
+Kolkata is famous for *tant bengali sarees*.
 ```
 ***************************************************************************************************************************************************************************
 
