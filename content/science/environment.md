@@ -366,9 +366,9 @@ We have four seasons and they are summer, winter, spring, autumn (or) fall. Ever
 
 Classify the below items based on their food habits
 
-Carnivores: Sharks, Hyena, Polar Bear, Snake
+Carnivores: Shark, Hyena, Polar Bear, Snake
 
-Omnivores: Foxes, Dogs, Humans, Bears
+Omnivores: Fox, Dog, Human, Bear
 
 ## Match the following
 
@@ -385,7 +385,7 @@ Monsoon, Overflow of river
 ## Multiple Choice Questions
 
 ```
-Mangoes will available in ________ season
+Mangoes are available in the ________ season.
 Summer
 Winter
 Autumn
@@ -409,7 +409,7 @@ Seals
 Penguins
 Walrus
 
-__________ are reptile
+__________ is a reptile
 Turtles
 Gila monster
 Alligator
@@ -447,7 +447,7 @@ Deer is an herbivore.
 Kangaroo is a wild animal.
 
 False:
-Frogs will be so active during wintertime.
+Frogs will be active during wintertime.
 During the autumn season, fresh buds will bloom, and the new beginning of life starts.
 ```
 
@@ -510,7 +510,7 @@ Farmer, food
 ## Multiple Choice Questions
 
 ```
- ___________ is classified under decomposers.
+ ___________ is classified as decomposers.
 Fungi
 Lotus
 Tomato
@@ -536,9 +536,9 @@ None of the above
 
 Choose a correct food chain sequence from the following orders
 Plant – Deer- Lion
-Lion- Bacteria – Humans
-Humans – plants – Tiger
-Fox – Fungi - Humans
+Lion- Bacteria – Human
+Human – plant – Tiger
+Fox – Fungi - Human
 ```
 
 ## Fill in the blanks (By Drag Drop)
@@ -546,7 +546,7 @@ Fox – Fungi - Humans
 ```
 Amoeba is a *unicellular organism*.
 *Ecology* is the science that deals with the relationship between biotic factors and their physical environment.
-Plants prepare their food on their own and the process is called *photosynthesis*.
+Plants prepare their own food and the process is called *photosynthesis*.
 *Parasitic plants* are dependent on other plants for their food.
 Carnivores are *flesh-eating animals*
 ```
