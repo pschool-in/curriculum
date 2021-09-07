@@ -251,3 +251,93 @@ Virus: measles, mumps, influenza
 2. Stratus cloud: They are grey in colour and are spreadout. They may give small shower. 
 3. Cumulus cloud: It looks like a burst cotton and gives convectional rain fall. These clouds are associated with rainfall lightning and thunder.
 4. Nimbus cloud: It appears as dark or grey in color. It gives heavy rainfall. It is called vertical or rain clouds.
+
+## Choose the best answer.(mcq)
+
+```
+The atmosphere is divided into ___________ layers.
+5, 7, 4
+
+The world weather day is on march ____.
+23, 24, 25
+
+The Indian Standard Meridian passes through the city of ___________.
+Allahabad, Ahmedabad, Hyderabad, Secunderbad
+
+Zone located in between Tropic of cancer and Tropic of Capricorn is ________ zone.
+Torrid, Temperate, Subtropical
+ 
+_______________ is used to measure pressure in the air.
+Barometer, Thermometer, Anemometer, Wind vane
+
+Monsoon is derived from the ____________ word.
+Arabian, English, Latin
+
+Vertical cloud is called ___________.
+Nimbus clouds, Cirrus cloud,  Stratus clouds, Cumulus clouds 
+```
+## Match the following.
+```
+Cirrus clouds, do not give rain
+Stratus clouds, give small shower
+Cumulus clouds, burst cotton
+Nimbus clouds, vertical cloud
+
+```
+## Answer in one word. (drag and drop)
+
+```
+*Lithosphere*: land on Earth.
+*Atmosphere*: air on Earth.
+*Hydrosphere*: water on Earth.
+*Biosphere*: life on Earth.
+*Weather*: day to day conditions of atmosphere.
+*Climate*: average weather for a given period of time.
+*Solar radiation*: heat energy from sun.
+*Meteorology*: study of weather.
+*Latitude*: an imaginary line drawn horizontally on Earth’s surface.
+*Longitude*: semicircle extending from North pole to South pole.
+```
+
+## Name the instrument. (drag and drop)
+
+```
+Used to measure pressure - *Barometer*
+Used to measure direction of wind - *Wind vane*
+Used to measure speed of wind - *Anemometer*
+```
+## Match the following.
+
+```
+Equator, 0 degree
+Tropic of Cancer, 23(1/2) degree N
+Tropic of Capricorn, 23(1/2) degree S
+Arctic circle, 66(1/2) degree N
+Antarctic circle, 66(1/2) degree S
+```
+## True or False
+
+Classify the below sentences as True or False.
+```
+True:
+Condensation of the wind causes rain fall.
+Rain water must be saved and not be wasted.
+The natural materials and living things, including sunlight are called environment.
+Air currents in the upper layers of atmosphere is known as Jet streams.
+
+False:
+Land breeze blows from sea to land during the evening.
+Sea breeze blows from land to sea in the morning.
+Monsoon winds move in the same direction throughout the year with the rotation of the Earth.
+```
+
+## Name the following. (drag and drop)
+
+```
+0 degree  longitude - *Prime meridian*
+Indian Standard Time - *IST*
+Technique of collection and storage of rain water - *Rain water harvesting*
+Zone between Tropic of Cancer and Tropic of Capricorn - *Torrid zone*
+Receives slanting rays of sun - *Temperate zone*
+This zone do not get sun’s rays - *Frigid zone*
+```
