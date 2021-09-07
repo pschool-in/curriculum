@@ -7,21 +7,21 @@
 ### Atmosphere
 
 Atmosphere is the layer of gas that surrounds Earth. Atmosphere is divided into five different layers:
-  1.Troposphere: It is the lowest layer of atmosphere. It extends up to 10km from sea. It is the densest layer.
-  2.Stratosphere: It is the region above troposphere. It extends up to 50km. There is no water vapour in this layer. The temperature is around -500C.
-  3.Mesosphere: It is the region above stratosphere. It extends to a height of about 85km. The temperature is around -1100C. most of the meteors burn in this layer.
-  4.Thermosphere: It is very rare layer of air above mesosphere.
-  5.Exosphere: It is the outermost layer with extremely thin air. It extends up to 400 to 1500km.
+  1. Troposphere: It is the lowest layer of atmosphere. It extends up to 10km from sea. It is the densest layer.
+  2. Stratosphere: It is the region above troposphere. It extends up to 50km. There is no water vapour in this layer. The temperature is around -500C.
+  3. Mesosphere: It is the region above stratosphere. It extends to a height of about 85km. The temperature is around -1100C. most of the meteors burn in this layer.
+  4. Thermosphere: It is very rare layer of air above mesosphere.
+  5. Exosphere: It is the outermost layer with extremely thin air. It extends up to 400 to 1500km.
 
 ### Importance of Air
-  1.All living organisms require air.
-  2.It is required for maintaining the water cycle.
-  3.Air supplies energy.
-  4.Sound travels through air.
-  5.Plants require air to grow.
-  6.Helps in transport.
-  7.Produce wind energy
-  8.Help in movement of parachutes and hot air balloons.
+  1. All living organisms require air.
+  2. It is required for maintaining the water cycle.
+  3. Air supplies energy.
+  4. Sound travels through air.
+  5. Plants require air to grow.
+  6. Helps in transport.
+  7. Produce wind energy
+  8. Help in movement of parachutes and hot air balloons.
 
 ## Choose the correct option.(mcq)
 
@@ -77,27 +77,27 @@ Spacecrafts are seen in thermosphere.
 Presence of harmful substances in air have an  adverse effect on living beings and environment. This is called air pollution.
 
 ### Causes:
-  1.Industries
-  2.Burning of fossil fuels
-  3.Agricultural activities like use of pesticides
-  4.Mining 
-  5.Use of chemical for cleaning
+  1. Industries
+  2. Burning of fossil fuels
+  3. Agricultural activities like use of pesticides
+  4. Mining 
+  5. Use of chemical for cleaning
 
 ### Effects:
-  1.Spread of diseases
-  2.Global warming
-  3.Acid rain
-  4.Depletion of ozone layer
-  5.Adverse effect on marine life
-  6.Adverse effect on wildlife
+  1. Spread of diseases
+  2. Global warming
+  3. Acid rain
+  4. Depletion of ozone layer
+  5. Adverse effect on marine life
+  6. Adverse effect on wildlife
 
 ### Prevention:
-  1.Use public transport
-  2.Reduce usage of fossil fuels
-  3.Use renewable energy sources
-  4.Recycle and reuse
-  5.Switch off appliances after using them
-  6.Plant more trees
+  1. Use public transport
+  2. Reduce usage of fossil fuels
+  3. Use renewable energy sources
+  4. Recycle and reuse
+  5. Switch off appliances after using them
+  6. Plant more trees
 
 ## Cause or Effect(classify sentence)
 
@@ -143,16 +143,16 @@ Man-made: mining, industrial waste, burning coal
 
 Diseases which are caused by microorganisms and communicated through air are called airborne diseases. Air borne disease can be further classified into two.
 
-  1.Bacterial diseases: Diphtheria, Whooping Cough and Tuberclosis are some of the common airborne diseases caused by bacteria.
-  2.Viral diseases: Common cold, influenza, measles, mumps and chickenpox are some of the diseases caused by virus.
+  1. Bacterial diseases: Diphtheria, Whooping Cough and Tuberclosis are some of the common airborne diseases caused by bacteria.
+  2. Viral diseases: Common cold, influenza, measles, mumps and chickenpox are some of the diseases caused by virus.
 
 ### Prevention:
-  1.Avoid close contact with people who have active symptoms of disease.
-  2.Maintain personal hygiene.
+  1. Avoid close contact with people who have active symptoms of disease.
+  2. Maintain personal hygiene.
   3. Keep the patient in complete isolation.Cover nose and mouth while sneezing or coughing.
-  4.Avoid touching the face or other people with unwashed hands.
-  5.Wash your hands thoroughly.
-  6.Timely vaccination can prevent the diseases.
+  4. Avoid touching the face or other people with unwashed hands.
+  5. Wash your hands thoroughly.
+  6. Timely vaccination can prevent the diseases.
 
 ## Find the causative organism. (drag and drop)
 
