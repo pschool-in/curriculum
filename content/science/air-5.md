@@ -174,3 +174,63 @@ Classify the diseases based on causative organism.
 Bacteria: diptheria, tuberculosis
 Virus: measles, mumps, influenza
 ```
+# GRADE 5
+
+## ATMOSPHERE
+
+## Chapter: tn-5-1-social: Atmosphere
+
+### Important terms
+
+1. Lithosphere: land on Earth.
+2. Atmosphere: air on Earth.
+3. Hydrosphere: water on Earth.
+4. Biosphere: life on Earth.
+5. Weather: day to day conditions of atmosphere.
+6. Climate: average weather for a given period of time.
+7. Solar radiation: heat energy from sun.
+8. Meteorology: study of weather.
+9. Latitude: an imaginary line drawn horizontally on Earth’s surface.
+10. Longitude: semicircle extending from North pole to South pole.
+11. Prime meridian: 0 degree  longitude
+12. IST: Indian Standard Time.
+13. Rain water harvesting: technique of collection and storage of rain water.
+
+### Important Dates
+
+1. World Environment Day - June 5
+2. World Ozone Day - September 16
+3. World Weather Day - March 23
+
+### Effects of solar radiation
+
+1. Land - conduction
+2. Water - convection
+3. Atmosphere terrestrial radiation
+
+### Important Latitudes
+
+1. Equator - 0 degree
+2. Tropic of Cancer - 23(1/2) degree North
+3. Tropic of Capricorn -  23(1/2) degree South
+4. Arctic circle - 66(1/2) degree North
+5. Antarctic circle - 66(1/2) degree South
+
+### Heat zones of Earth
+1. Torrid zone: zone between Tropic of Cancer and Tropic of Capricorn.
+2. Temperate zone: Receives slanting rays of sun.
+3. Frigid zone: do not get sun’s rays.
+
+### Important Mountain peaks
+
+1. Mount Everest
+2. K2
+3. Kanchenjunga
+4. Nanga Parbat
+5. Annapurna
+
+### Instrument
+
+1. Barometer: used to measure pressure.
+2. Wind vane: used to measure direction of wind.
+3. Anemometer: used to measure speed of wind.
