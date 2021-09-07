@@ -234,3 +234,20 @@ Virus: measles, mumps, influenza
 1. Barometer: used to measure pressure.
 2. Wind vane: used to measure direction of wind.
 3. Anemometer: used to measure speed of wind.
+
+### Types of wind
+
+1. Planetray wind
+2. Monsoon wind
+3. Sea breeze
+4. Land breeze
+5. Local wind
+6. Jet streams
+7. Hurricane
+
+### Types of clouds:
+
+1. Cirrus cloud: These may not give rain.they are seen at very high altitudes.
+2. Stratus cloud: They are grey in colour and are spreadout. They may give small shower. 
+3. Cumulus cloud: It looks like a burst cotton and gives convectional rain fall. These clouds are associated with rainfall lightning and thunder.
+4. Nimbus cloud: It appears as dark or grey in color. It gives heavy rainfall. It is called vertical or rain clouds.
