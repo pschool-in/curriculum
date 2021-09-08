@@ -278,8 +278,8 @@ Nimbus clouds, Cirrus cloud,  Stratus clouds, Cumulus clouds
 ```
 ## Match the following.
 ```
-Cirrus clouds, do not give rain
-Stratus clouds, give small shower
+Cirrus clouds,  do not rain
+Stratus clouds,  small shower
 Cumulus clouds, burst cotton
 Nimbus clouds, vertical cloud
 
@@ -306,14 +306,16 @@ Used to measure pressure - *Barometer*
 Used to measure direction of wind - *Wind vane*
 Used to measure speed of wind - *Anemometer*
 ```
-## Match the following.
+## Choose the correct option. (fill up - using options)
 
 ```
-Equator, 0 degree
-Tropic of Cancer, 23(1/2) degree N
-Tropic of Capricorn, 23(1/2) degree S
-Arctic circle, 66(1/2) degree N
-Antarctic circle, 66(1/2) degree S
+Equator - *0 (2)* degree
+Tropic of Cancer - 23(1/2) degree *N (S)*
+Tropic of Capricorn - 23(1/2) degree *S (N)*
+*Arctic (Antarctic)* circle - 66(1/2) degree N
+*Antarctic (Artic)* circle - 66(1/2) degree S
+0 degree  longitude - Prime *meridian (median)*
+*Indian (India)* Standard Time - IST
 ```
 ## True or False
 
@@ -334,8 +336,6 @@ Monsoon winds move in the same direction throughout the year with the rotation o
 ## Name the following. (drag and drop)
 
 ```
-0 degree  longitude - *Prime meridian*
-Indian Standard Time - *IST*
 Technique of collection and storage of rain water - *Rain water harvesting*
 Zone between Tropic of Cancer and Tropic of Capricorn - *Torrid zone*
 Receives slanting rays of sun - *Temperate zone*
