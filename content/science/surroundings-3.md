@@ -21,11 +21,11 @@ National Parks: Anamudi Shola National Park, Anshi National Park, Balphakram Nat
 Match the following with its correct one.
 
 ```
-Khangchendzonga National Park, Sikkim
-Sundarbans Biosphere Reserve, West Bengal
-Gulf of Mannar Biosphere Reserve, Tamil Nadu
-Nokrek Biosphere Reserve, Meghalaya
-Simlipal Biosphere Reserve, Odisha
+Vendanthangal Sanctuary, Birds
+Anamudi Reserve, Elephants
+Gir National Park, Lions
+Bandipur Reserve, Tigers
+Botanical Garden, Flora
 ```
 
 ## Multiple Choice Questions
