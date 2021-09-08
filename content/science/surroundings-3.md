@@ -97,4 +97,3 @@ Nilgiri Biosphere Reserve is only for elephants.
 Gulf of Mannar Biosphere Reserve is located in Madhya Pradesh.
 ```
 
-
