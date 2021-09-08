@@ -201,3 +201,66 @@ North America, Australia, Europe
 Penguins are found in __________
 Antarctica, Africa, Asia
 ```
+## Fill in the blanks (drag and drop)
+
+```
+The Great Wall of *China* is the man made structure that can be seen from space.
+Seven continents of the world were joined together as a single huge landmass called *Pangaea*.
+Taj Mahal is situated in Agra on the banks of river *Yamuna*.
+More than *50%* of the world's gold and *diamonds* come from the mineral rich continent of Africa.
+The world's smallest country, the *Vatican City*, is in Europe.
+```
+
+## Name the folllowing. (drag and drop)
+
+```
+Highest volcano - *Mt. Cotopaxi*
+Smallest country - *Vatican City*
+World’s biggest lake - *Caspian sea*
+White continent - *Antarctica*
+World’s largest coffee producer - *Brazil*
+Only continent to have all climatic types - *N.America*
+Largest fresh water lake - *Lake Superior*
+World’s longest river - *Nile*
+World’s largest dessert - *Sahara*
+
+```
+## True or False
+
+Classify the below sentences as True or False.
+```
+True:
+The Amazon rainforest covers most of the South America.
+There are only permanent research stations from different countries in Antarctica.
+Europe and Asia are parts of the same major landmass.
+
+False:
+India is the world largest coffee producer.
+Caspian sea is the largest sea.
+Lake Superior is in Africa.
+
+```
+
+## Continents and Countries.
+Match the continent with the country.
+
+```
+Asia, India
+Africa, Cape Town
+N.America, Mexico
+S.America, Brazil
+Europe, Vatican City
+Australia, Tasmania 
+
+```
+## Wonders of the World
+Match the wonders of the world with the country.
+
+```
+Taj Mahal, India
+The Great Wall of China, China
+Petra, Jordan
+Machu Picchu, Peru
+Colosseum, Rome
+```
+
