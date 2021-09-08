@@ -41,7 +41,7 @@ Fats: Fries, Chocolate
 Singhadas and makhanas are obtained from *freshwater* plants.
 If a machine is not available, *bullocks* do the threshing.
 The tiny peaks on our tongue are called *taste buds*.
-A region’s *climate* and *soil* determine the crops that are grown in that region.
+A region’s climate and *soil* determine the crops that are grown in that region.
 When the soil becomes *hot* and humid the crop is sown.
 
 ```
