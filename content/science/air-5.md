@@ -7,15 +7,16 @@
 ### Atmosphere
 
 Atmosphere is the layer of gas that surrounds Earth. Atmosphere is divided into five different layers:
-  1. Troposphere: It is the lowest layer of atmosphere. It extends up to 10km from sea. It is the densest layer.
+  1. Troposphere: It is the lowest and densest layer. It extends up to 10km from sea. 
   2. Stratosphere: It is the region above troposphere. It extends up to 50km. There is no water vapour in this layer. The temperature is around -500C.
-  3. Mesosphere: It is the region above stratosphere. It extends to a height of about 85km. The temperature is around -1100C. most of the meteors burn in this layer.
+  3. Mesosphere: It is the region above stratosphere. It extends to a height of about 85km. The temperature is around -1100C. Most of the meteors burn in this layer.
   4. Thermosphere: It is very rare layer of air above mesosphere.
   5. Exosphere: It is the outermost layer with extremely thin air. It extends up to 400 to 1500km.
 
 ### Importance of Air
+
   1. All living organisms require air.
-  2. It is required for maintaining the water cycle.
+  2. It regulates the water cycle.
   3. Air supplies energy.
   4. Sound travels through air.
   5. Plants require air to grow.
