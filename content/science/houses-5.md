@@ -24,3 +24,91 @@ Day by day, slowly there is an increase of population in our world. This is the 
 
 It is our responsibility to save and protect natural resources and the environment. So that future generations can use this utility well. It is necessary to construct eco–friendly houses and should increase the use of non-exhaustible sources of energy.  Recycling water, garbage, avoiding plastics, artificial materials, and colors will help in the protection of our environment.
 
+## Group: Exhaustible sources Vs. Non - exhaustible sources
+
+Classify the below things based on the category of exhaustible sources and non - exhaustible sources
+
+Exhaustible sources: Iron, Oil, Coal, Fuel
+
+Non - exhaustible sources: Solar energy, Wind energy, Hydro energy, Biogas
+
+## Match the following
+
+Match the following with its correct one.
+
+```
+Drilling machine, Noise pollution
+Bungalow, Luxury house
+Fuel, Fossil
+Forest, Woodhouse
+Cement, Limestone
+```
+
+## Multiple Choice Questions (MCQ)
+
+```
+________  are  found in the polar region.
+Igloos
+Apartments
+Bamboo houses
+Tents
+
+____________ are made up of silica sand.
+Glasses
+Cements
+Bricks
+Tiles
+
+Stilt houses are found in ___________ 
+marshy region
+dessert region
+mountain region
+plains
+
+__________ help to build the Kutcha house.
+Straw and wood
+Bricks and cement
+Sand and steel
+Cement and wood
+
+Mansion is a example of _________
+pucca house
+kutcha house
+wooden house
+mudhouse
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+Houseboats are commonly seen in *Kerala*.
+*Tents* are lightweight and it is easy to carry along with us on travel.
+*Cottages* are widely seen in hilly areas.
+Prehistoric humans were lived in *caves*.
+*Tiles* are used for covering floors, walls, etc.
+```
+
+## Fill in the blanks (Using options)
+
+```
+*Caravan (wooden house)* is a temporary house, that helps to navigate to all places.
+*Pucca house (Kutcha house)* is made up of stone, concrete, clay tiles, etc.
+Apartments are widely seen in *urban (rural)* areas.
+*Flat roofs (Hip roofs )*are commonly seen on commercial buildings.
+*Eco-friendly houses* requires less energy consumption.
+```
+
+## True or False
+
+```
+True:
+Tents are made up of nylon or canvas.
+House helps us to protect from the anti-social elements.
+Ventilation is a more important factor in the house.
+
+False:
+Quarrying helps to protect natural sources.
+Fuel is a non-exhaustible source.
+```
