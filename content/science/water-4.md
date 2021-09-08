@@ -100,3 +100,129 @@ Reservoirs, Dams, Borewells
 ```
 Dams, Wells, Borewells, Panpoi, Bunds, Forts, Drawwells
 ```
+
+# Chapter maha-g4: Water Safe For Drinking
+
+## Reading
+
+Some substances dissolve in water (salt, sugar, detergent etc.) while some substances don't (salt. turmeric powder, oil etc.). 
+
+The things that float in water are lighter than the water. Similarly, the things that sink are heavier. This process of sinking is called 'settling'. These particles can also be separated from water through 'filtration'.
+
+### New Words!
+
+#### Solution:
+
+The mixture of water and the substance dissolved in it is called a solution. Water retains the taste of the substance dissolved. For example, water with salt dissolved in it will taste salty.
+
+#### ORS:
+
+It stands for Oral Rehydration Solution and is a solution of water, salt and sugar. People with upset stomach can drink this.
+
+#### Saline:
+
+It is usually a solution of salt and water that is given to patients in the hospitals through drips.
+
+#### Micro-organism:
+
+An organism that is not visible with the naked eyes. 'Microscopes' are the instruments used to see them. Some of these are very important and useful for both nature and us humans.
+
+### Do you know?
+
+1. Sea water is unfit for drinking because its saline.
+2. Taste of well-water differs from area to area as the ground water also dissolves different substances present in the soil.
+3. Carbondioxide is dissolved in water (under pressure) to make cold-drinks.
+4. Particles of soil are heavier than water but since they're small in size, they take time to sink. Also, swirling alum in water helps these particles to settle down faster.
+5. Boiling the water kills micro-organisms present in it and makes it safe for drinking.
+
+## Activities
+
+### Classify (classify the sentence template) (label)
+
+(title) Classify which ones dissolve in water and which ones don't.
+```
+Dissolve: Salt, Sugar, Washing soda, Honey, Alum
+Don't dissolve: Sand, Sawdust, Oil, Turmeric powder
+```
+
+### Fill in the blanks (label)
+
+(no title)
+```
+Salt and sugar *dissolve* in water.
+Mixture obtained after dissolving a substance in water is called *solution*.
+Some micro-organisms can cause *diseases* if they enter our body.
+Things that float in water are *lighter*.
+Things that sink in water are *heavier*.
+*Alum* is swirled in muddy water to clean it.
+```
+
+### True or False (classify the sentence template) (label)
+
+(no title)
+```
+True:
+A sediment is formed at the bottom if muddy water is kept still for sometime.
+Tea leaves can be separated from tea by filtratio.
+False:
+Alum powder doesn't dissolve in water.
+Micro-organisms can't live in water.
+An eraser floats in water.
+```
+
+### Crossword (Label)
+
+Solve the crossword. (title)
+```
+Microscope- used to see micro-organisms.
+Salt- dissolved in seawater.
+Boiling- kills micro-organisms present in water.
+Alum- helps particles to settle down in water quickly.
+Filtration- process of separating particles from water.
+```
+
+# Chapter maha g4: Water for every household
+
+## Reading
+
+Earlier, eatrthen pots and brass and copper pots were used to store water at homes. But these days we generally use plastic or steel bottles and containers for the same.
+
+### How to keep water clean:
+
+1. Keep the containers covered to prevent dust and insects.
+2. Keep a dipper to take out water from these containers, else dirt from our hands will contaminate the water. Also, we can have a tap on these containers to avoid contamination.
+3. Wash the container before refilling it.
+
+### Do you know?
+
+People think that we can't drink water from previous day. But the truth is, water remains as clean as it was before if kept safely. So, we can drink the water we stored on previous day.
+
+### New Word!
+
+#### Water tower:
+
+It is basically a huge water tank and water is stored on its top. Electric pumps and motors are used to raise the water to its top. It stores purified water and supplies water to different areas through a large network of pipes.
+
+## Activities
+
+### Right or Wrong (label) (classify the sentence)
+
+(title) Classify the below statements.
+```
+Right:
+Reshma carries drinking water with her when she goes for a picnic.
+Nisha saves the water left in the mug for washing her face later.
+Wrong:
+Sameer drank water from the pot and left the lid besides it.
+Sai empties her pot everyday to fill fresh water in it.
+```
+
+### Match the following (label)
+(no title)
+```
+Pure water, Water tower
+Copper pots, Old way
+Water supply, Pipelines
+Groundwater, Wells
+Potable water, Drinkable
+```
