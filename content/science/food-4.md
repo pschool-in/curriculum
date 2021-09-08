@@ -70,10 +70,10 @@ Sesame, Oil
 ## Odd one out
 
 ```
-Cow, Sheep, Dog, Hen
-Pizza, Donut, Bread, Rice
-Fish, Milk, Butter, Yoghurt
-Tamarind, Jaggery, Honey, Sugar
+Cow, Sheep, *Dog*, Hen
+Pizza, Donut, Bread, *Rice*
+*Fish*, Milk, Butter, Yoghurt
+Jaggery, *Tamarind*, Honey, Sugar
 
 ```
 
