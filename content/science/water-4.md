@@ -21,7 +21,7 @@
 2. Can be used for agriculture.
 3. Increases availability of water.
 
-#### (PS- rest is covered in the website already, under the title 'water cycle')
+#### (PS- rest is covered in the website already, under the title 'water cycle' https://pschool.in/water-4)
 
 # Chapter maha-4: Storage of Water
 
@@ -69,11 +69,11 @@ In some areas, big water jars, made of clay, are kept for road-side thirsty peop
 
 ### Drag and Drop (label)
 
-(title- drag and drop the given options accordingly.)
+(title- drag and drop the water storage techniques accordingly.)
 
 ```
-Old water stores: Wells, Forts, Draw-wells, Bunds, Reservoirs, Tanks
-New water stores: Dams, Borewells
+Old ways: Wells, Forts, Draw-wells, Bunds, Reservoirs, Tanks
+New ways: Dams, Borewells
 ```
 
 ### Multiple Choice Questions (label)
@@ -98,5 +98,5 @@ Reservoirs, Dams, Borewells
 (title- Find the words listed.)
 
 ```
-Dams, Wells, Borewells, Panpoi, Bunds, Forts, Draw-wells
+Dams, Wells, Borewells, Panpoi, Bunds, Forts, Drawwells
 ```
