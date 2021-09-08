@@ -53,7 +53,7 @@ ____________ Percentage of our earth is covered by salt water.
 
 ```
 Mercury and *Venus* lie near the sun.
-Next to Earth is *Mars*, Jupitar, *Saturn*, Uranus and *Neptune*.
+Next to Earth is *Mars*, Jupiter, *Saturn*, Uranus and *Neptune*.
 The planets nearer to the sun are very *hot*. 
 The planets away from the sun are very *cold*. 
 *Mercury* is the smallest planet. 
