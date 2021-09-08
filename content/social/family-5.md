@@ -6,15 +6,11 @@
 
 ### Decision making
 
-We live together in a family. Every person’s likes and dislikes are different. Thoughts and opinions can also differ. We ourselves are different from others.
-
-When everyone has a role in decision making, each person gets the opportunity to say what they think.We feel like a more important part of the family when we see that our opinion is valued.
+We live together in a family. Every person has their own likes and dislikes. Thoughts and opinions can also differ. So, when everyone has a role in decision making, each person gets the opportunity to say what they think. We feel like a more important part of the family when we see that our opinion is valued.
 
 ### Honesty
 
-Everyone makes mistakes.When we realize that we have made a mistake,
-we should talk about it openly with our friends and family. It will help us correct our mistake. It will also teach us to be honest.
-
+Everyone makes mistakes. When we realize that we have made a mistake, we should talk about it openly with our friends and family. It will help us correct our mistake. It will also teach us to be honest.
 It is necessary to be honest and sincere in our work. Because, if we are dishonest, we lose our self-confidence.
 
 ### Co-operation
@@ -40,9 +36,7 @@ Boys and girls or men and women are equal as human beings. Considering boys and 
 
 ### Rules
 
-Our society works according to certain rules. We make the rules ourselves. We follow these rules because they are meant
-for the common good.
-
+Our society works according to certain rules. We make the rules ourselves. We follow these rules because they are meant for the common good.
 Sometimes laws have to be made to abolish unjust customs. In our country, customs such as sati and child marriage were abolished by making laws that banned them.
 
 ### Points to remember
