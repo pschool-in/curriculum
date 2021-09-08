@@ -16,6 +16,15 @@ The grains and other foodstuffs are gathered and sold all over the country. They
 It is the turn of porters and truck-drivers to put in their labour. Transport costs a lot, too. All the processes of purchasing, transporting
 and marketing are expensive.
 
+## Group: Sour vs Sweet
+
+```
+Sour: Tamarind, Vinegar, Lemon
+
+Sweet: Sugar, Candy, Cupcake, Honey, Fruit juice
+
+```
+
 ## Give two examples of each (By drag drop)
 
 ```
