@@ -47,6 +47,25 @@ The process of loosening the edible part of grain. *Threshing*
 
 ```
 
+## Match the following
 
+```
+Wheat, Rabi crop
+Fruits, Horticulture
+Rice, Kharif crop
+Chilly, Spices
+Sesame, Oil
+
+```
+
+## Odd one out
+
+```
+Cow, Sheep, Dog, Hen
+Pizza, Donut, Bread, Rice
+Fish, Milk, Butter, Yoghurt
+Tamarind, Jaggery, Honey, Sugar
+
+```
 
 
