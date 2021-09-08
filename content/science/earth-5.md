@@ -108,3 +108,72 @@ Arrange the continents based on their size. (Start from largest continent)
 ```
 Asia, Africa, N.America, S.America, Antarctica, Europe, Australia
 ```
+# GRADE 5
+
+## EARTH
+
+## Chapter: tn-5-2-social: Continents of the World
+
+### Asia
+
+1. It is the largest continents.
+2. China and India have very high population.
+3. Highest point on earth is in Asia
+4. Asia is the birth point of many great ancient civilization.
+5. Countries in Asia: India, Japan,Singapore, Malaysia, Saudi Arabia, Sri Lanka, Nepal, Pakistan, Maldives,Philippines, Afghanistan, Thailand and Indonesia.
+
+### India
+
+1. Land of unity in diversity.
+2. India has several historical monuments.
+3. It has 29 states and 7 union territories.
+4. Monuments in India:  India Gate in Delhi, Sanchi Stuba near Bhopal, Gateway of India in Mumbai, St George Fort and Taj Mahal in Agra.
+
+### Africa
+
+1. Africa is the second largest continent.
+2. The world's longest river the Nile and the world's largest desert the Sahara, are in Africa.
+3. More than 50% of the world's gold and diamonds come from the mineral rich continent of Africa.
+4. Also called The Dark Continent.
+
+### North America
+
+1. North America is the third largest continent by area.
+2. The largest fresh water lake, Lake Superior is located in this continent.
+3. The Mississippi - Missouri, is one of the longest river located in North America.
+4. The United States of America (USA) is a part of North America.
+5. Countries in North America: Canada, Mexico, Nicaragua, Honduras, Cuba, Guatemala, Panama and Costa Rica.
+
+### South America
+
+1. The world's largest river is in South America.
+2. Brazil a country in South America is one of the largest coffee producer in the world.
+3. The Andes is one of the longest mountain range in South America.
+4. One of the highest volcanoes of the world, Mt. Cotopaxi is found in this continent.
+5. Countries in South America: Argentina, Bolivia, Brazil, Colombia, Ecuador, Paraguay, Peru, Uruguay and Venezuela.
+
+### Antarctica
+
+1. Antarctica is the coldest continent on Earth.
+2. It is also called the White Continent or the Frozen Continent.
+3. Penguins are found in Antarctica.
+
+### Europe
+
+1. Europe is separated from Asia by the Ural mountains and the Caspian Sea.
+2. The world's smallest country, the Vatican City, is in Europe.
+3. The Volga is one of the longest rivers in Europe.
+4. Finland, in Europe, is called the 'Land of Lakes;.
+5. Countries in Europe: France, Spain, United Kingdom, Germany, Norway, Austria, Greece, Spain, Portugal and Italy.
+
+### Australia
+
+1. Australia is an Island continent covered with unique landscapes and natural wonders.
+2. The Great Barrier Reef, the pride and joy of Australia is made up of nearly 2,500 individual reefs and visible from space.
+3. Australia includes the islands of Tasmania and numerous small islands.
+
+### Important terms
+
+1. Civilization : A society in an advanced state of social development.
+2. Island : A piece of land surrounded by water.
+3. Monument : A building that is of historical importance and preserved as public property.
