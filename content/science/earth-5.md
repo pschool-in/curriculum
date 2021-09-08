@@ -177,3 +177,27 @@ Asia, Africa, N.America, S.America, Antarctica, Europe, Australia
 1. Civilization : A society in an advanced state of social development.
 2. Island : A piece of land surrounded by water.
 3. Monument : A building that is of historical importance and preserved as public property.
+
+## Choose the best answer.(mcq)
+```
+The continent which is covered by ice is _____________.
+Antarctica, Australia, Asia
+
+The biggest continent is ______________.
+Asia, Africa, Australia
+
+There are________ continents in the world.
+7, 5, 9
+
+The largest continents is____________.
+Asia, North America, Africa
+
+____________ is the longest river in the world.
+Nile, Kaveri, Ganga 
+
+Lake Superior is located in _________.
+North America, Australia, Europe
+
+Penguins are found in __________
+Antarctica, Africa, Asia
+```
