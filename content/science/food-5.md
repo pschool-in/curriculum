@@ -5,12 +5,12 @@
 ### Agriculture
 60% of land in our country is used for agriculture. For agriculture, there are two main seasons in our country.
 The season from june to october is called the kharif season. The season from october to march is rabi season.
-In the kharif seasoon, the crop are watered by rain. In rabi season, rainwater that has soaked into the soil, the retreating 
+In the kharif seasoon, the crops are watered by rain. In rabi season, rainwater that has soaked into the soil, the retreating 
 monsoons and dew are the sources of water for the crops.
 
-### Methods of irrigation
+### Methods of Irrigation
 Water from rivers, lakes and wells is used for irrigation in addition to rainwater. Drip irrigation and sprinkle irrigation 
-are two of these modern methods. The drip irrigation method makes use of pipes with holes and deliver water directly to the roots of plants.
+are two of these modern methods. The drip irrigation method makes use of pipes with holes and delivers water directly to the roots of plants.
 Sprinkle irrigation makes use of sprinklers of different sizes that spray water directly on plants.
 
 ### Fertilizers and Pesticides
@@ -31,9 +31,9 @@ store the harvested crop safely. Stored grains can get damaged by fungus and ins
 ## Fill in the blanks (By drag and drop)
 
 ```
-*Improved seeds* can resist pest attcaks.
+*Improved seeds* can resist pest attacks.
 Crops were traditionally watered through *canal*.
-*Sprinkle* irrigation is process that spray water directly on plants.
+*Sprinkle* irrigation is a process that sprays water directly on plants.
 Natural and *chemical* are two kinds of fertilizers.
 *Overwatering* makes the land saline and fallow.
 
@@ -42,10 +42,10 @@ Natural and *chemical* are two kinds of fertilizers.
 ## Answer the following in one word. (By drag and drop)
 
 ```
-The process through which the water and nutrients are directly delivered to plant's roots. *Drip irrigation*
-The great increase in production of food grains. *Green revolution*
+The process through which the water and nutrients are directly delivered to the plant's roots. *Drip irrigation*
+The great increase in the production of food grains. *Green revolution*
 Another name for natural fertilizers. *Manures*
-Crops grown from march to june. *Summer crops*
+Crops are grown from march to june. *Summer crops*
 
 ```
 
@@ -72,7 +72,7 @@ Fruit
 Roots
 Stem
 
-Which state id chief producer of tea in India?
+Which state is chief producer of tea in India?
 Assam
 Kerala
 Karnataka
@@ -99,13 +99,13 @@ Mixed farming, Rearing of animals
 
 ```
 True: 
-Thanjavur is known as rice bowl of Tamil Nadu.
-Agriculture led to the development of human civilisation.
-Canal irrigation is most important form of irrigation in India.
+Thanjavur is known as the rice bowl of Tamil Nadu.
+Agriculture led to the development of human civilization.
+Canal irrigation is the most important form of irrigation in India.
 
 False:
-Two third of our national's income comes from agriculture.
-Japan is land of farmers.
+Two third of our nation's income comes from agriculture.
+Japan is the land of farmers.
 
 ```
 
