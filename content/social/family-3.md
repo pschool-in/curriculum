@@ -9,24 +9,24 @@
 We are born in our family and are brought up by our parents. They take care of us.
 In a family, we are secure in every way. Our family provides us with food, clothing and shelter. There is affection among family members.
 
-1.Small Family: Families consisting only of parents and one or two children.
-2.Big Family:  Families consisting of grandparents, aunts, uncles, brothers, sisters and cousins.
-3.Extended Family: Families are  linked with many other relatives. Aunts and uncles from the mother’s and father’s side, their children are all related to our family.
-4.Joint Family: Grandparents, aunts, uncles, parents, siblings and cousins all lived together and formed one big family. This was called a joint family.
-5.Nuclear Family: When members of a family move away and start living separately, forming different families. Such smaller families are called nuclear families.
+1. Small Family: Families consisting only of parents and one or two children.
+2. Big Family:  Families consisting of grandparents, aunts, uncles, brothers, sisters and cousins.
+3. Extended Family: Families are  linked with many other relatives. Aunts and uncles from the mother’s and father’s side, their children are all related to our family.
+4. Joint Family: Grandparents, aunts, uncles, parents, siblings and cousins all lived together and formed one big family. This was called a joint family.
+5. Nuclear Family: When members of a family move away and start living separately, forming different families. Such smaller families are called nuclear families.
 
 ### Festivals
 
 We celebrate many festivals in the family. In the same way, different kinds of festivals are celebrated in different regions of the country.
 
-1.Holi is the festival that marks the end of winter.
-2.In Punjab, Baisakhi is celebrated at harvest time.
-3.In Maharashtra, Bailpola is celebrated when the sowing of the crops is over.
-4.In Tamil Nadu, Pongal is celebrated during the harvest season.
-5.In Kerala, Onam is celebrated during the harvest season.
-6.Dasara, Diwali and Gudi Padwa are celebrated when the farm produce is ready.
-7.Makar Sankranti is a festival celebrated in winter.
-8.Paryushana Parva, Buddha Poornima, Ramzan Eid, Christmas and Pateti are important festivals.
+1. Holi is the festival that marks the end of winter.
+2. In Punjab, Baisakhi is celebrated at harvest time.
+3. In Maharashtra, Bailpola is celebrated when the sowing of the crops is over.
+4. In Tamil Nadu, Pongal is celebrated during the harvest season.
+5. In Kerala, Onam is celebrated during the harvest season.
+6. Dasara, Diwali and Gudi Padwa are celebrated when the farm produce is ready.
+7. Makar Sankranti is a festival celebrated in winter.
+8. Paryushana Parva, Buddha Poornima, Ramzan Eid, Christmas and Pateti are important festivals.
 
 ### National Festivals
 Independence Day and Republic Day are our national festivals. All citizens celebrate them. India gained independence from the British on 15th August, 1947. Hence that day is celebrated as Independence Day. The Indian Constitution came into effect from the 26th of January, 1950. So, this day is known as Republic Day.
