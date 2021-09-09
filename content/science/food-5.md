@@ -19,6 +19,15 @@ are obtained from materials available in nature like green waste and animal dung
 substances in specific proportions, useful for agriculture. Chemical fertilizers came to be used for quicker growth and higher yields.
 Overuse of chemical fertilizers lowers the fertility of the soil and reduces its productivity.
 
+It is important to avoid excessive use of fertilizers to protect the crops as overuse can damage the crops in fields. It is also important to
+store the harvested crop safely. Stored grains can get damaged by fungus and insects. To prevent such damage, neem leaves are mixed with the gains.
+
+### Food storage and conservation of environment
+
+1. Green revolution- The  increase in food grain production (such as rice and wheat) due to the introduction of high-yielding varieties, the use of pesticides, and improved management techniques.
+2. In 2013, India enacted a food security law which made possible to fight against hunger and malnutrition.
+3. Various agriculture assisstance programmes are organised for farmers to inform them about latest technology, irrigation facilities, pesticides, fertilizers etc.
+
 ## Fill in the blanks (By drag and drop)
 
 ```
