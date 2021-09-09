@@ -29,7 +29,7 @@
 
 ### Old water stores
 
-These ways were used by previous generations and are rarely in use these days.
+The following ways were used by previous generations and are rarely in use these days.
 
 #### Wells:
 
@@ -72,8 +72,8 @@ In some areas, big water jars, made of clay, are kept for road-side thirsty peop
 (title- drag and drop the water storage techniques accordingly.)
 
 ```
-Old ways: Wells, Forts, Draw-wells, Bunds, Reservoirs, Tanks
-New ways: Dams, Borewells
+Old ways: Forts, Draw-wells, Bunds, Reservoirs
+New ways: Dams, Borewells, Water tower
 ```
 
 ### Multiple Choice Questions (label)
@@ -101,13 +101,31 @@ Reservoirs, Dams, Borewells
 Dams, Wells, Borewells, Panpoi, Bunds, Forts, Drawwells
 ```
 
+### Complete the words (label)
+
+Identify these techniques of water storage. (title)
+```
+Dam, Reservoir, Fort, Bund, Well, Tower
+```
+
+### Crossword (label)
+(no title)
+```
+Bunds- made on the banks of river to save water.
+Pipes- responsible for water availability across the city.
+Borewell- extracts ground water through motors.
+Panpoi- free drinking water on roadsides.
+Dams- stores water as well as generates energy.
+Tanks- most common storage in big buildings.
+```
+
 # Chapter maha-g4: Water Safe For Drinking
 
 ## Reading
 
 Some substances dissolve in water (salt, sugar, detergent etc.) while some substances don't (salt. turmeric powder, oil etc.). 
 
-The things that float in water are lighter than the water. Similarly, the things that sink are heavier. This process of sinking is called 'settling'. These particles can also be separated from water through 'filtration'.
+The things that float in water are lighter than water. Similarly, the things that sink are heavier. This process of sinking is called 'settling'. These particles can also be separated from water through 'filtration'.
 
 ### New Words!
 
@@ -125,7 +143,7 @@ It is usually a solution of salt and water that is given to patients in the hosp
 
 #### Micro-organism:
 
-An organism that is not visible with the naked eyes. 'Microscopes' are the instruments used to see them. Some of these are very important and useful for both nature and us humans.
+An organism that is not visible with the naked eyes. 'Microscopes' are the instruments used to see them. Some of these are very important and useful for both nature and us, humans.
 
 ### Do you know?
 
@@ -163,7 +181,7 @@ Things that sink in water are *heavier*.
 ```
 True:
 A sediment is formed at the bottom if muddy water is kept still for sometime.
-Tea leaves can be separated from tea by filtratio.
+Tea leaves can be separated from tea by filtration.
 False:
 Alum powder doesn't dissolve in water.
 Micro-organisms can't live in water.
@@ -181,11 +199,18 @@ Alum- helps particles to settle down in water quickly.
 Filtration- process of separating particles from water.
 ```
 
+#### Wordsearch (label)
+
+(title- Find the words listed.)
+```
+Alum, Filtration, Settling, Microbes, Microorganism, Boiling, Saline, Solution
+```
+
 # Chapter maha g4: Water for every household
 
 ## Reading
 
-Earlier, eatrthen pots and brass and copper pots were used to store water at homes. But these days we generally use plastic or steel bottles and containers for the same.
+Earlier, earthen pots and copper pots were used to store water at homes. But these days we generally use plastic or steel bottles and containers for the same.
 
 ### How to keep water clean:
 
@@ -225,4 +250,30 @@ Copper pots, Old way
 Water supply, Pipelines
 Groundwater, Wells
 Potable water, Drinkable
+```
+
+#### How water reaches us? (sorting) (label)
+
+Arrange these steps in the order of occurrence. (title)
+```
+Source of water.
+Purification of water.
+Storage of water in water tower.
+Spread of water through pipelines.
+Reaching homes and industries.
+```
+
+### Jumbled words (label)
+
+Match the jumbled letters to make reveal the word. (title)
+```
+Pipeline, Groundwater, Reservoir, Dams, Borewell, River, Water
+```
+
+### Drag and Drop (label)
+
+Identify what will sink and float in water. (title)
+```
+Sink: Sand, Turmeric powder, Mud, Eraser, Stone
+Float: Leaves, Thin stick, Pencil, Flower, Paper
 ```
