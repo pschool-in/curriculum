@@ -6,15 +6,15 @@
 
 ### Origin of Earth.
 
-Millions of years ago an explosion called the big bang occurred. Numerous stars and celestial bodies came into existence by that massive explosion. These celestial bodies together called the Universe. It is also referred to as cosmos.
+Millions of years ago an explosion called 'The Big Bang' occurred. Numerous stars and celestial bodies came into existence by that massive explosion. These celestial bodies together called the Universe or Cosmos.
 
 1. Universe: The Universe is a vast expanse of space. The Universe consists of billions of galaxies, stars, planets, comets, asteroids, meteoroids and natural satellites.
-2. Galaxy: Galaxy has a huge cluster of stars. Our galaxy is called‘Milky way’. There are billions of galaxies in the Universe.
-3. Solar System : Solar system consists of the sun, the planets, their moons, dwarf planets,asteroids and comets. These objects are  bound by gravitational force.
+2. Galaxy: Galaxy has a huge cluster of stars. Our galaxy is called ‘Milky way’. There are billions of galaxies in the Universe.
+3. Solar System : It consists of the sun, the planets, their moons, dwarf planets,asteroids and comets. These objects are bound by Earth's gravitational force.
 
 ### Movement of Earth
 
-The earth rotates on its axis. It is called rotation of the earth. It also revolves around the Sun. It is called revolution of the earth. Day and night are caused due to the earth’s rotation. Seasons are caused by Earth’s revolution. Life is possible only on earth because of the presence of land, air and water.
+The Earth rotates on its axis and also revolves around the Sun. Day and night are caused due to the Earth’s rotation whereas the Earth's revolution is responsible for seasons. Life is possible on Earth because of the presence of land, air and water.
 
 ### Planets
 
@@ -24,7 +24,7 @@ There are 8 planets in our solar system.
 3. Frozen planets: They are Uranus and Neptune.
 
 ### Earth
-We live on the surface of the Earth. It is called the Blue Planet’. It is made up of 7 continents and 5 oceans.
+We live on the surface of the Earth. It is called the Blue Planet. It is made up of 7 continents and 5 oceans.
 
 1. Continents: The 7 continents are Asia, Africa, North America, South America, Antarctica, Europe,and Australia.The Asian continent where we live is the biggest of all. And Australia is the smallest one. The Antarctica is the continent full of snow.
 2. Oceans: The 5 oceans are Pacific Ocean, Atlantic Ocean, Indian Ocean, Arctic Ocean and Southern Ocean. Around 97 percent of the planet’s water is in the Ocean.Around 71 percent of our Earth is covered by salt water and that is called as Ocean. Only 2.5 percent of water is fresh and 1 percent of it is easily accessible.
@@ -117,10 +117,10 @@ Asia, Africa, N.America, S.America, Antarctica, Europe, Australia
 ### Asia
 
 1. It is the largest continents.
-2. China and India have very high population.
+2. China and India has the highest population both in Asia and the World.
 3. Highest point on earth is in Asia
 4. Asia is the birth point of many great ancient civilization.
-5. Countries in Asia: India, Japan,Singapore, Malaysia, Saudi Arabia, Sri Lanka, Nepal, Pakistan, Maldives,Philippines, Afghanistan, Thailand and Indonesia.
+5. Major countries in Asia: India, Japan,Singapore, Malaysia, Saudi Arabia, Sri Lanka, Nepal, Pakistan, Maldives,Philippines, Afghanistan, Thailand and Indonesia.
 
 ### India
 
@@ -142,7 +142,7 @@ Asia, Africa, N.America, S.America, Antarctica, Europe, Australia
 2. The largest fresh water lake, Lake Superior is located in this continent.
 3. The Mississippi - Missouri, is one of the longest river located in North America.
 4. The United States of America (USA) is a part of North America.
-5. Countries in North America: Canada, Mexico, Nicaragua, Honduras, Cuba, Guatemala, Panama and Costa Rica.
+5. Major countries in North America: Canada, Mexico, Nicaragua, Honduras, Cuba, Guatemala, Panama and Costa Rica.
 
 ### South America
 
@@ -150,7 +150,7 @@ Asia, Africa, N.America, S.America, Antarctica, Europe, Australia
 2. Brazil a country in South America is one of the largest coffee producer in the world.
 3. The Andes is one of the longest mountain range in South America.
 4. One of the highest volcanoes of the world, Mt. Cotopaxi is found in this continent.
-5. Countries in South America: Argentina, Bolivia, Brazil, Colombia, Ecuador, Paraguay, Peru, Uruguay and Venezuela.
+5. Major countries in South America: Argentina, Bolivia, Brazil, Colombia, Ecuador, Paraguay, Peru, Uruguay and Venezuela.
 
 ### Antarctica
 
@@ -164,7 +164,7 @@ Asia, Africa, N.America, S.America, Antarctica, Europe, Australia
 2. The world's smallest country, the Vatican City, is in Europe.
 3. The Volga is one of the longest rivers in Europe.
 4. Finland, in Europe, is called the 'Land of Lakes;.
-5. Countries in Europe: France, Spain, United Kingdom, Germany, Norway, Austria, Greece, Spain, Portugal and Italy.
+5. Major countries in Europe: France, Spain, United Kingdom, Germany, Norway, Austria, Greece, Spain, Portugal and Italy.
 
 ### Australia
 
