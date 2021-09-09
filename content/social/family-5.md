@@ -47,3 +47,79 @@ Sometimes laws have to be made to abolish unjust customs. In our country, custom
 4. Disputes can be solved peacefully.
 5. If there is peace in the family, school and society, everyone benefits.
 6. Peace is a social value.
+
+## Fill in the blanks. (using options)
+
+```
+Honesty is our *strength (weakness)*.
+Everyone needs *honesty (tolerance)* in public life.
+*Tolerance (Diversity)* has a special significance in our country.
+By developing a sense of equality, everyone gets to learn and make *progress (rules)*
+Our society works according to certain *rules (agenda)*.
+The Constitution of Independent India abolished *untouchability (sati)* .
+```
+## Honest vs Dishonest
+
+Classify the actions based on whether they are honest or dishonest.
+
+```
+Honest:
+Arya borrowed a pencil from Mina. After she finished using it, she
+returned it.
+Jerry took the bag she found in a rickshaw to a police station.
+Renu accepted that she had broken her mother’s vase.
+
+Dishonest:
+Sheri fell from her bicycle. However, she told her mother,“Naira pushed me off the bicycle”.
+Anjana found a lost toy and kept it for herself.
+Vignesh broke a plate and blamed it on the cat.
+```
+## What will you do? (mcq)
+
+Choose the most appropriate answer.
+```
+You meet a boy who has lost his way. What will you do?
+Take him to the nearby police station.
+Leave him with a stranger.
+Do not pay attention to the crying boy.
+
+While on a trip, you realize that our friend has forgotten her tiffin at home. What will you do?
+Share your tiffin with her.
+Let her starve.
+Ask her to go back by herself.
+
+Your teacher is punishing your friend for a mistake that you committed. What will you do?
+Accept your mistake.
+Let your friend get punished.
+Blame it on someone you don’t like.
+
+Your friend tripped and fell while you were playing. What will you do?
+Help her get up.
+Laugh at her.
+Keep playing and don’t pay attention to her.
+```
+## Good vs Bad
+
+Classify the activities as good or bad.
+```
+Good:
+Co-operating in community.
+Following rules.
+Treating girls and boys equally.
+
+Bad:
+Cheating on a test paper.
+Not including your friend in your football team as she is a girl.
+Deprive girls of good food or to prevent them from going to school.
+```
+## Rules (drag and drop)
+
+Complete the rules by drag and drop.
+```
+Prohibition against loudspeakers in *public* places after 10 o’clock at night.
+Free primary education for boys and *girls*.
+Prohibition against dumping *garbage* in the river.
+Protection against domestic violence for *women*.
+*Ban* on child labour.
+Ban on felling trees, *hunting* and poaching.
+```
