@@ -24,7 +24,8 @@ store the harvested crop safely. Stored grains can get damaged by fungus and ins
 
 ### Food storage and conservation of environment
 
-1. Green revolution- The  increase in food grain production (such as rice and wheat) due to the introduction of high-yielding varieties, the use of pesticides, and improved management techniques.
+1. Green revolution- The  increase in food grain production (such as rice and wheat) due to the introduction of high-yielding varieties, the use of 
+pesticides, and improved management techniques.
 2. In 2013, India enacted a food security law which made possible to fight against hunger and malnutrition.
 3. Various agriculture assisstance programmes are organised for farmers to inform them about latest technology, irrigation facilities, pesticides, fertilizers etc.
 
@@ -167,4 +168,47 @@ Food stored in airtight container under vacuum. *Vacuum packing*
 Soaking food in salt water, vinegar or oil. *Pickling*
 
 ```
+
+tn-5-2-science: Food
+# Food (g5)
+
+## Reading
+
+Perishible foods get spoiled easily. The change in normal state of food is called spoilage of food.
+
+### Why food gets spoiled?
+
+1. Air, oxygen and moisture can cause spoilage of food.
+2. When foodstuffs are exposed to warmth it leads to the grwoth of micro-organims. Micro-organisms multiply in food and spoil them.
+3. Light produces colour changes and also vitamin loss. 
+4. Enzymes are chemicals which are present in all foodstuffs. They speed up chemical changes that result in loss of flavour, colour and texture.
+
+### Purpose of food preservation
+
+1. To keep the food's colour, flavour, and nutritional value.
+2. To ensure that food is available all year.
+3. In order to prevent the growth of germs such as bacteria and fungi in food.
+4. To reduce the wastage of food.
+5. Food preservation not only protects our health but also ensures that food is available to those in need.
+
+### Causes of diseases
+
+Microorganisms such as bacteria, virus, protozoa, and fungi cause diseases. Insects carry them, and they can also be spread by contaminated air and
+water. When an organ's function is disturbed, it can lead to disease.
+
+### Types of diseases
+
+Infectious disorders are caused by bacteria that enter and multiply within our bodies. Such diseases are passed from one person to the next.
+
+Hereditary disorders are caused by genetic abnormilities. These diseases are passed from one generation to the next.
+
+Physiological disorders are diseases that are caused by the malfunction of body organs.
+
+Maintaining good health requires a diet that provides all important elements in the proper proportions. Deficiencies in one or more nutrients produce a 
+variety of diseases. These are called deficiency diseases.
+
+In marasmus, the child loses weight and the bones appear to be covered by skin. In Kwashiorkor, the child acquires a big belly, swollen face and feet.
+
+
+
 
