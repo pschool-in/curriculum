@@ -196,6 +196,20 @@ Perishible foods get spoiled easily. The change in normal state of food is calle
 Microorganisms such as bacteria, virus, protozoa, and fungi cause diseases. Insects carry them, and they can also be spread by contaminated air and
 water. When an organ's function is disturbed, it can lead to disease.
 
+## Obesity
+
+Obesity and overweight are both described as abnormal or excessive fat in the body that can have a negative impact on one's health. Obesity is caused by an excess of calories consumed, a lack of physical activity, and genetic factors.
+
+To avoid obesity and overweight, you must take the following steps.
+
+1. Limit your intake of fast food, fried foods, and high-fat meat.
+
+2. Include fruits and vegetables, legumes, whole grains, and nuts in your daily diet.
+
+3. Engage in regular physical activity.
+
+4. Make sure you get enough sleep.
+
 ### Types of diseases
 
 Infectious disorders are caused by bacteria that enter and multiply within our bodies. Such diseases are passed from one person to the next.
@@ -209,6 +223,24 @@ variety of diseases. These are called deficiency diseases.
 
 In marasmus, the child loses weight and the bones appear to be covered by skin. In Kwashiorkor, the child acquires a big belly, swollen face and feet.
 
+Vitamin and mineral deficiencies can cause a variety of diseases. We can avoid these diseases by consuming vitamin and mineral-rich foods.
 
+The food pyramid was created to encourage people to eat healthily. The requirements for certain nutrients vary from person to person depending on our work, age, and sex.
 
+### Kitchen safety
+
+1. The kitchen is a necessary part of our houses. The kitchen's equipment and surroundings may be a little dangerous. As a result, we must take precautions and care.
+2. Gas easily catches fire. There could be serious consequences if gas is released. As a result, we must exercise care when handling cylinders.
+3. Wet hands should not be used to operate electrical appliances, as this might produce electric shocks.
+4. Keep flammable materials such as kerosene and gasoline away from stoves.
+5. Cover the victim with a heavy blanket or carpet if the person's clothes catch fire.
+6. If kerosene or oil catches fire, put it out with sand.
+7. If solid items, such as wood, catch fire, put it out with water.
+8. If an electrical appliance catches fire, turn off the power and unplug the appliances.
+9. To put out the fire, use the correct fire extinguishers.
+10. In the event of small burns, the affected area should be held under cool running water for a few minutes before receiving medical attention.
+
+## Fill in the blanks (By drag and drop)
+
+```
 
