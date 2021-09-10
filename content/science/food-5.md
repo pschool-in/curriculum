@@ -216,7 +216,7 @@ Infectious disorders are caused by bacteria that enter and multiply within our b
 
 Hereditary disorders are caused by genetic abnormilities. These diseases are passed from one generation to the next.
 
-Physiological disorders are diseases that are caused by the malfunction of body organs.
+Physiological diseases are diseases that are caused by the malfunction of body organs.
 
 Maintaining good health requires a diet that provides all important elements in the proper proportions. Deficiencies in one or more nutrients produce a 
 variety of diseases. These are called deficiency diseases.
@@ -243,4 +243,33 @@ The food pyramid was created to encourage people to eat healthily. The requireme
 ## Fill in the blanks (By drag and drop)
 
 ```
+Obesity is caused by **excessive fat* in the body.
+Grains are preserved by *drying*.
+In *kwashiorkor*, child develops enlarged belyy.
+*Anaemia* is caused due to lack of iron.
+*Irradiation* is a method by which food is exposed to UV rays to kill bacteria.
+
+```
+
+## Match the following
+
+```
+Carbohydrates, Rice
+Micro-organisms, Bacterial disease
+Milk, Boiling
+Beri Beri, Cereals
+Goitre, Iodine
+
+```
+
+## Determine the diseases (By drag and drop)
+
+```
+Diseases caused due to abnormilities in gene. *Hereditary diseases*
+Diseases caused due to lack of essential nutrients in body. *Deficiency diseases*
+Diseases caused due to micro-organisms. *Infectious diseases*
+Diseases caused due to malfunction of the body organs. *Physiological diseases*
+
+```
+
 
