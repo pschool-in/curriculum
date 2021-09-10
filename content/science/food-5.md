@@ -109,3 +109,62 @@ Japan is the land of farmers.
 
 ```
 
+maha g5- Methods of Preserving food
+# Methods of Preserving Food (g5)
+
+## Reading
+
+### Food Preservation
+
+1. In winter season, to keep food more longer foodstuffs are kept in refrigerator.
+2. Grains should be dried in sun before storing them
+3. We should boil milk, curries and vegetables to prevent them from spoiling.
+4. We should keep the food away from mice, rats and other insects.
+
+Micro-organisms are present all around us. If micro-organisms grow, they spoil the food. The nutrition value of such food is decreased. 
+Such food can cause diseases.
+
+## Methods of Preservation
+
+Drying- It is the process in which foodstuffs are dried to remove the water content.
+Cooling- It is the process in which the foodstuffs are kept in refrigerator. Through this process, micro-organisms does not get any warmth so
+they are unable to grow.
+Boiling- In this process the foodstuffs are boiled to destroy micro-organisms.
+Storing in air tight containers- In this process the foodstuffs are placed in air tight containers to ensure that water or air are not entered the foodstuff.
+
+## Fill in the blanks (By drag and drop)
+
+```
+Micro-organisms grow fast in the presence of air and *moisture*.
+A *fungus* is type of micro-organism.
+Mango pulp and *milk* are foodstuffs that spoil quickly.
+Food spoiled from micro-organisms can cause *diseases*.
+*Airtight cans* ensure that water or air will not enter the foodstuff.
+
+```
+
+## True or False
+
+```
+True: 
+We make efforts ro preserve food to prevent them from getting spoiled.
+Spices have strong taste and are obtained from plants.
+
+False:
+Foodstuffs get warmth when they are stored in refrigerator.
+The process through which water content is lost is cooling.
+Milk products are made and preserved for whole year.
+
+```
+
+## Name the following (By drag and drop)
+
+```
+Food is dried to prevent water content. *Drying*
+Food is rapidly frozen. *Freezing*
+Food is placed in airtight container. *Canning*
+Food stored in airtight container under vacuum. *Vacuum packing*
+Soaking food in salt water, vinegar or oil. *Pickling*
+
+```
+
