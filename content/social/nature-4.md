@@ -64,3 +64,70 @@ Earthquake under sea - *tsunami*
 Rain other than in monsoon - *untimely rain*
 Storm of heavy hail - *hailstorm*
 ```
+# GRADE 4
+
+## Nature
+
+## Chapter: maha g4: Are we endangering the environment?
+
+### How we harm the environment.
+
+1. Vehicles like motor-cars, buses and scooters that run on mineral oil were invented to make transport easier.
+2. We build trains.
+3. We build dams, roads and railways.
+4. We set up factories and build houses.
+5. We release waste water from factories into rivers. 
+6 .Cities became crowded as people left their villages in search for work.
+7. Trees were cut down to build new houses. 
+8. The number of vehicles increased. 
+9. Smoke began to cause breathing disorders.
+10. As trees are felled, birds do not find nesting places.  
+11. Greater is the demand for food grain. 
+12. The demand for water increases.
+13. Previously, the waterwheel was used to draw well water. Now, pumps are used, so groundwater gets used up rapidly.
+
+All these activities harm the environment either directly or indirectly.
+
+## Choose the correct answer(drag and drop)
+```
+In summer, there is a *sortage* of water in many villages and cities.
+A bullock or a male buffalo is used to turn the *waterwheel*.
+*Man* is more intelligent than all other animals.
+A mot is a large *leather* bag.
+People leave their villages for the *cities* in search of better jobs.
+Vehicles that run on *mineral oil* were invented to make transport easier.
+```
+## True or False
+
+Classify sentence as true or false.
+```
+True: 
+Vehicles like that run on mineral oil were invented to make transport easier.
+Smoke pollutes environment.
+Cutting of trees leads to disappearance of birds.
+
+
+False:
+Man is not the most intelligent animal.
+Increase in vehicles do not harm the environment.
+Clearing of fields to construct factories is a good practice.
+```
+## Fill in the blanks. (using options)
+
+```
+*Cities (Villages)* became crowded as people left their villages in search for work.
+Trees were *cut (planted)* down to build new houses.  
+*Smoke (Mist)* began to cause breathing disorders.
+As trees are felled, *birds (insects)* do not find nesting places.  
+Previously, the *waterwheel (hand pump)* was used to draw well water.
+When *pumps (waterwheel)* are used groundwater gets used up rapidly.
+```
+## Match the following.
+```
+Cutting trees, build houses
+Factory waste, pollution
+Smoke, disorders
+Pump, groundwater
+Vehicles, smoke
+```
+
