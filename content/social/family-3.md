@@ -108,3 +108,84 @@ Gandhi Jayanti, Oct 2
 Makar Sankranti, winter
 Holi, colour
 ```
+# GRADE 3
+
+## Family
+
+## Chapter: tn-3-1-social: Family
+
+### Family
+
+Animals also lives together in families like humans.
+1. Lions live together as families in caves.
+2. Birds live in nest build on trees.
+3. Group of elephants are called parade and they stay together.
+
+### Important terms
+
+1. Society: Individuals together make a family and families together make a society.
+2. Maternal relations: People who are related through our mother are called Maternal Relations.
+3. Paternal relations: People who are related through our father are called Paternal Relations.
+4. Neighbour:  Many families live near our home. We call them neighbours.
+
+### Points to remember
+
+1. Basic unit of the society is family.
+2. Basic needs like food, dress and shelter are fulfilled by the family.
+3. Inter dependence of family members help in becoming good citizens and develop harmony.
+4. Family gives us the values of discipline, morals and the habit of sharing.
+5. A family must run according to the budget systems to ensure economical security.
+6. Family helps us to feel safe and secure.
+
+## Choose the correct answer(mcq)
+```
+The basic unit of the society is_____________.
+family, village, town
+
+_____________ is one of our basic needs.
+shelter, car, sofa
+
+If only father mother and children live together is called_________
+small family,  big family, joint family
+
+Running the family by preparing ______________________ is the best way to improve economy.
+Budget, money, wealth
+```
+## True vs False
+
+Classify the activities as True or False.
+```
+True: 
+A family fulfills all our basic needs.
+We must keep our things in their respective places.
+Simplicity is the best policy for every family.
+
+False:
+Our neighbours are our relatives.
+Our economy improves when expenditure exceeds income.
+```
+## Match the following.
+```
+Character, improve relation
+Sharing work, unity
+Maternal relation, uncle
+Outsiders, vendors
+Neighbours,  respect
+```
+## Fill in the blanks. (drag and drop)
+
+```
+Basic unit of the society is *family*.
+Basic needs like food, dress and *shelter* are fulfilled by the family.
+Inter dependence of family members help in becoming good citizens and develop *harmony*.
+Family gives us the values of *discipline*, morals and the habit of *sharing*.
+A family must run according to the *budget* systems to ensure *economical* security.
+Family helps us to feel safe and *secure*.
+```
+## Fill in the blanks. (using options)
+```
+Individuals together make a family and families together make a *society (extended family)*.
+People who are related through our mother are called *Maternal (paternal)* Relations.
+People who are related through our father are called *Paternal (maternal)*Relations.
+Many families live near our home. We call them *neighbour (outsider)*.
+```
