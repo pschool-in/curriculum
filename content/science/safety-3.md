@@ -176,19 +176,19 @@ ICDS, early childhood care
 ## Multiple Choice questions
 
 ```
-Childline was first established in the year __________
+Childline was first established in the year __________.
 1996
 1995
 1994
 1993
 
-Childline number is ____________
+Childline number is ____________.
 1098
 1099
 1097
 1096
 
-Childline was established to help the children under the age _____
+Childline was established to help the children under the age _____.
 eighteen
 nineteen
 twenty
@@ -200,7 +200,7 @@ nineteen
 twenty
 twenty-one
 
-If someone is touching the private part, then immediately you should inform_________
+If someone is touching the private part, then immediately you should inform_________.
 parents
 teachers and nearby police
 family members
