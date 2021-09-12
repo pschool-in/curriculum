@@ -131,3 +131,114 @@ False:
 It is right to cross the road in the red signal.
 Mishandling of sharp items will not cause injuries.
 ```
+
+
+****************************************************************************************************************************************************************************
+
+Chapter: tn-3-3-social: Child Safety
+
+## Reading
+
+### Child Safety
+
+Childline service was established across India and was established under the Ministry of Women and Child Development. It is first established as a project in the year 1996. Child-line was organized to help children under age 18 years. In India, many children under 18-year-old are still working as labour. They are employed in places like construction, cracker workshop, and other small-scale working places. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labor. The National Child Labour Projects (NCLP) was established to rehab child labour. Integrated Child Development Services (ICDS) is a government program for early childhood care & development. The prohibition of the child marriage act is established to prevent child marriage. The Indian penal code 1860 is for punishing the people involved in child trafficking.
+
+### Good touch and Bad touch
+
+1. If parents are touching their children appropriately, then it is a good touch.
+2. If a stranger is secretly touching the child’s private parts then it is bad touch.
+3. If a family member is secretly touching the child’s private part, then it is bad touch.
+4. If a stranger secretly asks a child to touch their body private part, then it is unsafe.
+5. If the doctor is examining the child,in front of their parents and in the same room, then it is safe.
+6. If other children try to touch one another’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
+7. Children shouldn’t accept food, gifts from strangers and should be made aware of the way that, some people bribe kids to perform certain bad touches.
+
+## Group: Stranger’s Good touch Vs Bad touch
+
+Classify the below things based on the category of Stranger’s Good touch and Bad touch
+
+Stranger’s good touch: Handshake, Hug, High-five
+
+Stranger’s bad touch:  Touching chest, Touching private parts, Touching lips
+
+## Match the following
+
+Match the following with its correct one
+
+```
+NCLP, Child Labour
+1098, Childline number
+1820, Indian penal code
+Child marriage act, under 18 years
+ICDS, early childhood care
+```
+
+## Multiple Choice questions
+
+```
+Childline was first established in the year __________
+1996
+1995
+1994
+1993
+
+Childline number is ____________
+1098
+1099
+1097
+1096
+
+Childline was established to help the children under the age _____
+eighteen
+nineteen
+twenty
+twenty-one
+
+If a child is under _________ and working in a shop, then it is child labour.
+eighteen
+nineteen
+twenty
+twenty-one
+
+If someone is touching the private part, then immediately you should inform_________
+parents
+teachers and nearby police
+family members
+*all of the above 
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The National Child Labour Projects (NCLP) was established to rehab the *child labour*. 
+The Indian penal code 1860 is for punishing the people involved in *child trafficking*.
+If a stranger secretly asks you to touch their body part unnecessarily, then it is *unsafe*.
+ICDS is a government program for early *childhood* care and development.
+If a family member secretly touching the children’s private part, then it is a *bad touch*.
+```
+
+## Fill in the blanks (using options)
+
+```
+The prohibition of the child marriage act is established to prevent *child (adult)* marriage.
+The Ministry of Women and Child Development was established to protect *children (adults)*. 
+Physical harm is *legal (illegal)*.
+Childline also helps children who are neglected by their *parents (teachers)*.
+If a stranger secretly touching the children’s private parts then it is *bad (good)*touch.
+```
+
+## True or false
+
+```
+True:
+If parents are touching their children appropriately, then it is a good touch.
+Childline provides safety and protection for children.
+Childline was established as a project in the year 1996.
+
+False:
+If a stranger touches the private part, then it is a good touch.
+Child labour is legal.
+```
+
