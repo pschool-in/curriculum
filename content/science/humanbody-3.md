@@ -64,7 +64,7 @@ The leg, has three parts – thigh, *shank* and foot.
 The thigh and shank are joined at the *knee*. 
 The shank and foot are joined at the *ankle*.
 ```
-## Fill i9n the blanks (using options)
+## Fill in the blanks (using options)
 ```
 A part of the body that is used for a particular purpose is called *organ (body part)*. 
 The neck bends forward as well as *backward (side wards)*. 
