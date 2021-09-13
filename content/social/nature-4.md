@@ -6,15 +6,15 @@
 
 ### Natural Disasters
 
-A natural event such as earthquake or flood that causes great damage and loss of life is termed a Natural Disaster.
+A natural event such as an earthquake or flood that causes great damage and loss of life is termed a Natural Disaster.
 
 1. Untimely rains: When it rains at other times besides the monsoon or pre-monsoon period, such rain is said to be untimely rain.
 2. Flood: An overflow of a large amount of water beyond its normal limits.
-3. Earthquake: a sudden violent shaking of ground causing great damage and destruction.
-4. Tsunami: a long, high sea wave caused by earthquake or other disturbance.
+3. Earthquake: A sudden violent shaking of ground causing great damage and destruction.
+4. Tsunami: A long, high sea wave caused by earthquake or other disturbance.
 
 
-## Choose the correct answer(drag and drop)
+## Choose the correct answer (drag and drop)
 ```
 Rain that falls at times other than in the rainy season is called *untimely* rain.
 *Hailstorms* can injure people as well as animals.
@@ -43,11 +43,11 @@ Collapse of old house.
 ```
 ## True or False
 
-Classify sentence as true or false.
+Classify the sentence as true or false.
 ```
 True: 
 In every city and district headquarters, there is a fixed drill to be followed in case of a natural disaster.
-During an earthquake one should sit under a table or bed or stand under a doorframe.
+During an earthquake, one should sit under a table or bed or stand under a doorframe.
 Fields become waterlogged and crops rot during flood.
 
 False:
