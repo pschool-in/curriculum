@@ -6,11 +6,11 @@ Chapter: tn-3-1-social : Safety
 
 ### What is Safety?
 
-Our life is very important and precious. To avoid unnecessary accidents, we should follow some safety measures or precautionary steps in our daily life. Being cautious always will protect us from danger. 
+Our life is very important and precious. To avoid unnecessary accidents, we should follow some safety measures or precautionary steps in our daily life. Being cautious will always protect us from danger. 
 
 ### Accidents
 
-The following are some common accidents that can be seen in our daily life.  Some of the accidents are caused due to electricity, fire, water, glassware, sharp weapons, poisonous chemicals, pesticides, vehicles, toxic organisms, etc. Moreover, it is very important to learn how to act in accidents. This will help more to prevent further damage. 
+Some of the accidents are caused due to electricity, fire, water, glassware, sharp weapons, poisonous chemicals, pesticides, vehicles, toxic organisms, etc. Moreover, it is very important to learn how to act in accidents. This will help more to prevent further damage. 
 
 ### Common reasons for the accident
 1. Violation of rules
@@ -20,27 +20,32 @@ The following are some common accidents that can be seen in our daily life.  Som
 
 ### Fire Safety
 
-Fire is one of the important elements, which can create and destroy things. In our day-to-day life, fire is used in different ways and always we should handle it very carefully. Examples of fire accidents; electrical short circuits, gas cylinder leakages, explosives, and crackers, mishandling the highly inflammable things, etc. So, following the precautionary steps while handling fire-related things, helps us to prevent fire accidents. Moreover, we should be more aware of how to act during fire accidents.
+Fire is one of the important elements, which can create and destroy things. In our day-to-day life, fire is used in different ways and  we should  always handle fire with care.  Examples of fire accidents:
+1. electrical short circuits
+2. gas cylinder leakages
+3. explosives and crackers, 
+4. mishandling the highly inflammable things.
+So, it is necessary to handle fire with precaution. Moreover, we should be more aware of how to act during fire accidents.
 
 ### Water Safety
 
-Water is one of the important elements in our life. We should follow the precautionary steps while we are visiting and bathing in Lakes, ponds, rivers, and sea. Strictly, we should not swim or take baths in a prohibited area or danger zone in the water bodies.
+Water is one of the most important elements in our life. We should take necessary precautions while visiting or bathing in lakes, ponds, rivers, and sea. Strictly, we should not swim in a prohibited area in the water bodies.
 
 ### Electrical Safety
 
-Electricity is used everywhere and it is difficult to live a life without electricity. While handling electric-related things, we should be more careful and follow all the precautionary steps. This helps us to protect from electrocution. 
+Electricity is used everywhere and it is difficult to live a life without electricity. While handling electric-related things, we should be more careful and handle with precaution. This prevents us from getting electrocuted.
 
 ### Road Safety
 
-Road accidents are one of the most common things that we see in our daily life. It is important to follow the road safety rules while traveling. Violating the rules leads to more road accidents. Following the traffic rules, pedestrian rules help to prevent road accidents.
+Road accidents are one of the most common things that we see in our daily life. It is important to follow the road safety rules while traveling. Violating the rules leads to more road accidents. Following the traffic rules and pedestrian rules help to prevent road accidents.
 
-###  Be safe from Toxic organisms/substances
+###  Stay away from Toxic organisms/substances
 
-There is a certain type of toxic substances/ organisms that will cause more danger. Example; poisonous chemicals, pesticides, etc. Before using these things, we should follow the precautionary steps and that will prevent accidents. Moreover, we are living among toxic organisms like the scorpion, snakes, wasps, etc. These kinds of organisms are more dangerous and we should always be aware of our surroundings. 
+We should stay away from toxic substances like poisonous chemicals, pesticides, etc. We should use these things with precaution to avoid accidents. We are living among toxic organisms like the scorpion, snakes, wasps, etc. These kinds of organisms are more dangerous and we should always be aware of our surroundings. 
 
 ### Sharp items and glasswares
 
-Handling glassware and sharp items are more important because very easily it causes injuries. So we should follow the precautionary steps very carefully to avoid injuries.
+Handling glassware and sharp items are more important because very easily it causes injuries very easily. So we should handle them with precaution.
 
 ## Group: Road Safety Vs. Fire Safety
 
@@ -118,8 +123,7 @@ The Green signal says *go (ready)*.
 When smoke spreads, it is good to *cover (open)* the nose and mouth.
 ```
 
-## 
-True or False:
+## True or False:
 
 ```
 True:
@@ -141,25 +145,37 @@ Chapter: tn-3-3-social: Child Safety
 
 ### Child Safety
 
-Childline service was established across India and was established under the Ministry of Women and Child Development. It is first established as a project in the year 1996. Child-line was organized to help children under age 18 years. In India, many children under 18-year-old are still working as labour. They are employed in places like construction, cracker workshop, and other small-scale working places. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labor. The National Child Labour Projects (NCLP) was established to rehab child labour. Integrated Child Development Services (ICDS) is a government program for early childhood care & development. The prohibition of the child marriage act is established to prevent child marriage. The Indian penal code 1860 is for punishing the people involved in child trafficking.
+Child line service was established across India under the Ministry of Women and Child Development. It is first established as a project in the year 1996. Child-line was organized to help children under age 18 years. In India, many children under 18  are used for child labour. 
 
-### Good touch and Bad touch
+### Child Safety Laws
 
-1. If parents are touching their children appropriately, then it is a good touch.
-2. If a stranger is secretly touching the child’s private parts then it is bad touch.
-3. If a family member is secretly touching the child’s private part, then it is bad touch.
-4. If a stranger secretly asks a child to touch their body private part, then it is unsafe.
-5. If the doctor is examining the child,in front of their parents and in the same room, then it is safe.
-6. If other children try to touch one another’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
-7. Children shouldn’t accept food, gifts from strangers and should be made aware of the way that, some people bribe kids to perform certain bad touches.
+1. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labor. 
+2. The National Child Labour Projects (NCLP) was established to rehab child labour.
+3.  Integrated Child Development Services (ICDS) is a government program for early childhood care & development. 
+4. The prohibition of the child marriage act is established to prevent child marriage. 
+5. The Indian penal code 1860 is for punishing the people involved in child trafficking.
 
-## Group: Stranger’s Good touch Vs Bad touch
+### Good touch
 
-Classify the below things based on the category of Stranger’s Good touch and Bad touch
+1. Parents touching their children appropriately.
+2. Doctor examining the child in presence of parents, in the same room.
+3. Hug, high-five with family and friends.
 
-Stranger’s good touch: Handshake, Hug, High-five
+### Bad touch
 
-Stranger’s bad touch:  Touching chest, Touching private parts, Touching lips
+1. A stranger  secretly touching the child’s private parts .
+2. A family member  secretly touching the child’s private part.
+3. A stranger secretly asks a child to touch their private part.
+4. Children shouldn’t accept food, gifts from strangers and should be made aware of the way that, some people bribe kids to perform certain bad touches.
+5. If other children try to touch one another’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
+
+## Group: Good touch Vs Bad touch
+
+Classify the below actions as good touch or bad touch
+
+Good touch: Handshake, Hug, High-five
+
+Bad touch: Touching chest, Touching private parts, Touching lips
 
 ## Match the following
 
