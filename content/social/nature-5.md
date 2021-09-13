@@ -9,7 +9,7 @@
 The population of the world is now close to six hundred crores. Man is
 developing new technology to meet the needs of all these people, and is using up more and more land and water resources for this purpose.
 
-There are inter-relationships between all living and non-living things in the environment.Different kinds of plants, animals
+There are inter-relationships between all living and non-living things in the environment. Different kinds of plants, animals
 and micro-organisms are found in different regions. The balance between the cycles of the various gases in the atmosphere, the water cycle and food chains has been maintained for thousands of years.
 
 Pollution is a major thread to the environment. We should make efforts to stop the degradation of the environmental balance caused by
