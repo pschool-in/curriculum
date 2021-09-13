@@ -15,15 +15,15 @@ It is necessary to be honest and sincere in our work. Because, if we are dishone
 
 ### Co-operation
 
-In a family, we co-operate with each other. Similarly, in team sports, the players co-operate with each other. We must co-operations in order to arrange rallies and other gatherings.
+Co-operation and teamwork help us communicate with more people, learn together and get work done easily and efficiently. For example, we co-operate in family, team sports, rallies and other gatherings.
 
 ### Tolerance
 
-We all have faults of our own. We may not always agree with everyone. At times like this we must try and understand their point of view.
+Tolerance is when you try to understand another person's point of view even if their opinion doesn't match with yours. It means you respect their ideas and thoughts.
 
 ### Gender Equality
 
-Boys and girls or men and women are equal as human beings. Considering boys and girls to be equal is called gender equality. Boys and girls must respect one another.
+Gender equality means considering boys and girls as equally capable in all aspects, like sports, education, jobs, opportunities, responsibilities, etc. Both genders must respect one another.
 
 ### Points to remember
 
@@ -31,8 +31,7 @@ Boys and girls or men and women are equal as human beings. Considering boys and 
 2. We must be honest in our private and public life.
 3. Tolerance and co-operation make our life peaceful.
 4. A tolerant attitude makes it easy to preserve diversity.
-5. Men and women are equal.
-6. It is not right to discriminate between them.
+5. Men and women are equal. It is not right to discriminate between them.
 
 ### Rules
 
