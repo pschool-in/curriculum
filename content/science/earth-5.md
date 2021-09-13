@@ -66,19 +66,19 @@ Saturn is the *Ringed* planet.
 ## Name the Planet. (drag and drop)
 
 ```
-Red planet - Mars
-Blue planet - Earth
-Ringed planet - Saturn
-Smallest planet - Mercury
-Largest planet - Neptune
+Red planet - *Mars*
+Blue planet - *Earth*
+Ringed planet - *Saturn*
+Smallest planet - *Mercury*
+Largest planet - *Neptune*
 ```
 ## Name the continent.(drag and drop)
 
 ```
-Smallest continent - Australia
-Largest continent - Asia
-Snow covered continent - Antarctica
-Second largest continent - Africa
+Smallest continent - *Australia*
+Largest continent - *Asia*
+Snow covered continent - *Antarctica*
+Second largest continent - *Africa*
 ```
 ## True or False
 
