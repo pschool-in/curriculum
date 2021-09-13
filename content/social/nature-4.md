@@ -51,9 +51,9 @@ During an earthquake, one should sit under a table or bed or stand under a doorf
 Fields become waterlogged and crops rot during flood.
 
 False:
-During earthquake move to an open space.
+During an earthquake move to an open space.
 During flood sit under a table.
-Hailstrom is a man-made disaster.
+Hailstorm is a man-made disaster.
 ```
 ## Answer in one word. (drag and drop)
 
@@ -70,14 +70,14 @@ Storm of heavy hail - *hailstorm*
 
 ## Chapter: maha g4: Are we endangering the environment?
 
-### How we harm the environment.
+### How we harm our environment?
 
 1. Vehicles like motor-cars, buses and scooters that run on mineral oil were invented to make transport easier.
 2. We build trains.
 3. We build dams, roads and railways.
 4. We set up factories and build houses.
 5. We release waste water from factories into rivers. 
-6 .Cities became crowded as people left their villages in search for work.
+6. Cities became crowded as people left their villages in search for work.
 7. Trees were cut down to build new houses. 
 8. The number of vehicles increased. 
 9. Smoke began to cause breathing disorders.
@@ -90,7 +90,7 @@ All these activities harm the environment either directly or indirectly.
 
 ## Choose the correct answer(drag and drop)
 ```
-In summer, there is a *sortage* of water in many villages and cities.
+In summer, there is a *shortage* of water in many villages and cities.
 A bullock or a male buffalo is used to turn the *waterwheel*.
 *Man* is more intelligent than all other animals.
 A mot is a large *leather* bag.
@@ -99,23 +99,23 @@ Vehicles that run on *mineral oil* were invented to make transport easier.
 ```
 ## True or False
 
-Classify sentence as true or false.
+Classify the sentence as true or false.
 ```
 True: 
-Vehicles like that run on mineral oil were invented to make transport easier.
-Smoke pollutes environment.
+Vehicles that run on mineral oil were invented to make transport easier.
+Smoke pollutes the environment.
 Cutting of trees leads to disappearance of birds.
 
 
 False:
 Man is not the most intelligent animal.
-Increase in vehicles do not harm the environment.
+An increase in vehicles does not harm the environment.
 Clearing of fields to construct factories is a good practice.
 ```
 ## Fill in the blanks. (using options)
 
 ```
-*Cities (Villages)* became crowded as people left their villages in search for work.
+*Cities (Villages)* became crowded as people left their villages in search of work.
 Trees were *cut (planted)* down to build new houses.  
 *Smoke (Mist)* began to cause breathing disorders.
 As trees are felled, *birds (insects)* do not find nesting places.  
