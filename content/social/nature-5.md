@@ -6,14 +6,13 @@
 
 ### Environment and us
 
-The population of the world is now close to six hundred crore. Man is
+The population of the world is now close to six hundred crores. Man is
 developing new technology to meet the needs of all these people, and is using up more and more land and water resources for this purpose.
 
 There are inter-relationships between all living and non-living things in the environment.Different kinds of plants, animals
-and micro-organisms are found in different regions.The balance between the cycles of the various gases in the atmosphere, the water cycle and food chains has been maintained for thousands of
-years.
+and micro-organisms are found in different regions. The balance between the cycles of the various gases in the atmosphere, the water cycle and food chains has been maintained for thousands of years.
 
-Pollution is a major thread to the environment.We should make efforts to stop the degradation of the environmental balance caused by
+Pollution is a major thread to the environment. We should make efforts to stop the degradation of the environmental balance caused by
 human intervention.
 
 Eg: Devrais, National Parks and Sanctuaries are created for the
@@ -30,7 +29,7 @@ Jungle reserved for God - *Devrais*
 ```
 ## Yes or No
 
-Classify the activities based on if the cause pollution or not.
+Classify the activities based on if they cause pollution or not.
 ```
 Yes: 
 Factory waste released into water bodies.
@@ -43,7 +42,7 @@ No:
 Planting of trees.
 Rain water harvesting.
 Use of natural fertilizer.
-Using alternate energy source.
+Using alternate energy sources.
 ```
 ## Fill in the blanks. (using options)
 
