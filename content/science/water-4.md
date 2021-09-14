@@ -105,7 +105,7 @@ Dams, Wells, Borewells, Panpoi, Bunds, Forts, Drawwells
 
 Identify these techniques of water storage. (title)
 ```
-Dam, Reservoir, Fort, Bund, Well, Tower
+Dam, Tank, Fort, Bund, Well, Tower
 ```
 
 ### Crossword (label)
