@@ -69,7 +69,7 @@ In some areas, big water jars, made of clay, are kept for road-side thirsty peop
 
 ### Drag and Drop (label)
 
-(title- drag and drop the water storage techniques accordingly.)
+Drag and drop the water storage techniques accordingly. (title)
 
 ```
 Old ways: Forts, Draw-wells, Bunds, Reservoirs
@@ -78,7 +78,7 @@ New ways: Dams, Borewells, Water tower
 
 ### Multiple Choice Questions (label)
 
-(title- Choose the correct option.)
+Choose the correct option. (title)
 
 ```
 Old water stores were made of __________.
@@ -95,7 +95,7 @@ Reservoirs, Dams, Borewells
 
 ### Wordsearch (label)
 
-(title- Find the words listed.)
+Find the words listed. (title)
 
 ```
 Dams, Wells, Borewells, Panpoi, Bunds, Forts, Drawwells
@@ -105,11 +105,11 @@ Dams, Wells, Borewells, Panpoi, Bunds, Forts, Drawwells
 
 Identify these techniques of water storage. (title)
 ```
-Dam, Reservoir, Fort, Bund, Well, Tower
+Dam, Tank, Fort, Bund, Well, Tower
 ```
 
 ### Crossword (label)
-(no title)
+Fill the crossword using hints. (title)
 ```
 Bunds- made on the banks of river to save water.
 Pipes- responsible for water availability across the city.
@@ -148,7 +148,7 @@ An organism that is not visible with the naked eyes. 'Microscopes' are the instr
 ### Do you know?
 
 1. Sea water is unfit for drinking because its saline.
-2. Taste of well-water differs from area to area as the ground water also dissolves different substances present in the soil.
+2. Taste of well-water differs from area to area. It is because the ground water also dissolves different substances present in the soil.
 3. Carbondioxide is dissolved in water (under pressure) to make cold-drinks.
 4. Particles of soil are heavier than water but since they're small in size, they take time to sink. Also, swirling alum in water helps these particles to settle down faster.
 5. Boiling the water kills micro-organisms present in it and makes it safe for drinking.
@@ -157,7 +157,7 @@ An organism that is not visible with the naked eyes. 'Microscopes' are the instr
 
 ### Classify (classify the sentence template) (label)
 
-(title) Classify which ones dissolve in water and which ones don't.
+Classify which ones dissolve in water and which ones don't. (title)
 ```
 Dissolve: Salt, Sugar, Washing soda, Honey, Alum
 Don't dissolve: Sand, Sawdust, Oil, Turmeric powder
@@ -165,7 +165,7 @@ Don't dissolve: Sand, Sawdust, Oil, Turmeric powder
 
 ### Fill in the blanks (label)
 
-(no title)
+Fill up by dragging the correct option. (title)
 ```
 Salt and sugar *dissolve* in water.
 Mixture obtained after dissolving a substance in water is called *solution*.
@@ -177,7 +177,7 @@ Things that sink in water are *heavier*.
 
 ### True or False (classify the sentence template) (label)
 
-(no title)
+State whether the statements are True or False. (title)
 ```
 True:
 A sediment is formed at the bottom if muddy water is kept still for sometime.
@@ -201,7 +201,7 @@ Filtration- process of separating particles from water.
 
 #### Wordsearch (label)
 
-(title- Find the words listed.)
+Find the words listed. (title)
 ```
 Alum, Filtration, Settling, Microbes, Microorganism, Boiling, Saline, Solution
 ```
@@ -238,12 +238,12 @@ Right:
 Reshma carries drinking water with her when she goes for a picnic.
 Nisha saves the water left in the mug for washing her face later.
 Wrong:
-Sameer drank water from the pot and left the lid besides it.
+Sameer drank water from the pot and left the lid beside it.
 Sai empties her pot everyday to fill fresh water in it.
 ```
 
 ### Match the following (label)
-(no title)
+Match the pairs. (title)
 ```
 Pure water, Water tower
 Copper pots, Old way
@@ -267,7 +267,7 @@ Reaching homes and industries.
 
 Match the jumbled letters to make reveal the word. (title)
 ```
-Pipeline, Groundwater, Reservoir, Dams, Borewell, River, Water
+Bunds, Forts, Pots, Dams, Borewell, River, Water
 ```
 
 ### Drag and Drop (label)

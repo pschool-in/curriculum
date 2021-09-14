@@ -31,7 +31,7 @@ Water on the earth evaporates continuously due to the heat of the sun. As water 
 
 A worm eats grass and leaves.
 A grasshopper eats worms. 
-Birds eat Grasshoppers.They are all connected.
+Birds eat grasshoppers.They are all connected.
 One component is food for the next one. That is why we say that they form a chain. Such a chain is called a food
 chain. Each of these components is a link in a food chain.
 
@@ -292,9 +292,13 @@ Chicken occupy *90% (80%)* of the total poultry.
 India ranks *fifth (fourth)*in poultry production in the world.
 Whitelegon is the most *egg (milk)* yielding breed in the world.
 An area of land with fields and buildings that is devoted primarily to growing crops or raising domestic animals or both as a business is called *farm (field)*.
+```
+## Fill in the blanks (using options)
+```
 *Dairy farming (poultry farming)* is a type of agriculture that focuses on extraction of milk and preparation of various milk products.
 *Buffaloes (sheeps)* produce more amount of milk than cows.
 Dr.Verghese Kurien is called the Father of *White (blue)* Revolution.
+Honey also enhances digestion and *appetite*.
 ```
 
 ## True or False

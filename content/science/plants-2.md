@@ -138,15 +138,26 @@ The fruit is a fleshy or dry ripened part of a plant, enclosing the seed or seed
 
 The hard part inside the fruit is called seed. Most plants grow from seeds.
 
-## Group : Terrestrial vs Aquatic
+## Group : Terrestrial vs Aquatic-1
 
 Classify the below plants based on the habitat they belong.
 
 ``` 
 
-Terrestrial: sunflower, rose, daffodils, poison ivy, tulip, cactus, papaya, pineapple, apricot. 
+Terrestrial: sunflower, rose, daffodils, poison ivy 
 
-Aquatic: lotus, water lily, duckweed, watercress, water hyacinth, hydrilla, vallisneria
+Aquatic: lotus, water lily, duckweed, watercress
+
+```
+## Group : Terrestrial vs Aquatic-2
+
+Classify the below plants based on the habitat they belong.
+
+``` 
+
+Terrestrial: tulip, cactus, papaya, pineapple, apricot 
+
+Aquatic:  water hyacinth, hydrilla, vallisneria
 
 ```
 

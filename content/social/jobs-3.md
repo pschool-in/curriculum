@@ -15,7 +15,7 @@ People work to fulfill their needs; some people's work tends to fulfill the need
 
 1. Food is available to us because many people are farmers by occupation.
 2. Many of the nutritious food items like bhakri, sugar, fruits, chapati, jowar, bajra, wheat, rice, dals, vegetables, etc. are produced by agriculture.
-3. Not just food, Cotton yarn is used in textiles and many plants are medicinal; fodder for cattle; grains for chickens. All these raw materials are obtained through agriculture.
+3. Not just food, Cotton yarn for textiles; plants are medicines; fodder for cattle; grains for chickens; are obtained through agriculture.
 4. Occupations like sheep rearing, poultry, animal husbandry and fruit processing are dependent on agriculture.
 
 ### Industry
@@ -40,7 +40,7 @@ Although human beings have developed many occupations, we rely on nature to prov
 
 ## Activities
 
-### Fill by Drag (label)
+### Occupation (label) (fill by drag)
 
 Guess the occupation. (title)
 ```
@@ -53,7 +53,7 @@ Helps us gain knowledge- *Teacher*
 Provides justice- *Judge*
 ```
 
-### Multiple Choice Questions (label)
+### Group: raw materials vs finished products (label) (mcq)
 
 Which industry do these raw materials belong to? (title)
 ```
@@ -98,7 +98,7 @@ Providing service: Farmer, Teacher, Doctor
 
 ### Firefighters
 
-They are trained to save people when there's a fire accident. They wear protective jackets and extinguish the fire with water and foam. They also move people and property to a safer place.
+They are trained to save people when there's a fire accident. They wear protective jackets and extinguish fire with water and foam. They also move people and property to a safer place.
 
 ### Ambulance
 
@@ -106,7 +106,7 @@ It is an emergency vehicle that has a facility for first aid. It helps to treat 
 
 #### Good Samaritan Law
 
-It states that any person can help the victim to reach the hospital, without revealing their name or pay for the treatment. This law was regulated so people can help the victims without fearing the police, law, rules etc.
+It states that any person can help the victim to reach the hospital, without revealing their name or pay for the treatment. This law was introduced so people can help the victims without fearing the police, law, rules etc.
 
 ### Engineers
 
@@ -126,7 +126,7 @@ They're usually seen in huge and heavy vehicles like buses and trucks. A driver 
 
 ### Police
 
-They take charge of maintaining law and order. They help us whenever we are in trouble, like robbery, public disputes, accidents etc.
+They take charge of maintaining law and order. They help us whenever we are in trouble (robbery, public disputes, accidents etc.).
 
 ### Soldiers
 
@@ -148,7 +148,7 @@ It resolves all the issues and problems as per the laws of our country. It prote
 
 ### Fill by drag (label)
 
-(no title)
+Drag and drop the words into correct places. (title)
 ```
 *First aid* is a lifesaving treatment that is given before the actual treatment to a victim.
 Nurse assists the *doctor*.
@@ -159,7 +159,7 @@ Road workers lay *roads*.
 
 ### True or False (label) (MCQ)
 
-(no title)
+Classify the sentence as true or false. (title)
 ```
 True:
 A tailor stitches the clothes.
@@ -172,7 +172,7 @@ Doctors protect people and properties.
 
 ### Match (label)
 
-(no title)
+Match the following. (title)
 ```
 Doctor, Hospital
 Teacher, School
@@ -189,7 +189,7 @@ Find our friends. (title)
 Postman, Milkman, Lawyer, Driver, Conductor, Farmer, Doctor, Teacher
 ```
 
-### Fill in the blanks (label)
+### Who Am I? (label)
 
 Choose the correct option. (title)
 ```
