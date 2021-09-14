@@ -60,5 +60,5 @@ We cannot consume polluted water.
 False:
 Wasterwater is directly disposed into rivers and seas.
 Water pollution refers to the purification of water.
-Floods bring joy and happiness.
+We should ignore the manufcture and expiry date in mineral water bottles.
 ```
