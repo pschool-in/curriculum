@@ -121,3 +121,43 @@ An organ that helps in circulation of blood - *heart*
 An organ that helps in digestion of food - *stomach* 
 An organ that helps to remove waste from our body - *kidney* 
 ```
+# GRADE 5
+
+## Human Body
+
+## Chapter: tn-5-1-science: Organ Systems
+
+### Digestive system
+
+The process of conversion of complex food molecules into simpler molecules is called digestion. The digestive system can be divided into two.
+1. Digestive tract 
+2. Digestive glands
+
+### Respiratory system
+
+The respiratory system provides oxygen to the tissues of the body and
+removes carbon dioxide from the tissues. There are three major parts forming the respiratory system.
+
+1. Airway 
+2. Lungs 
+3. Muscles of respiration
+
+### Circulatory system
+
+In this system blood is circulated to transport oxygen and nutrients to every part of the body. Circulatory system consists of the following:
+1. Heart 
+2. Blood vessels 
+3. Blood
+
+### Excretory system
+
+Excretory system removes the waste products from the body. It also
+regulates water and electrolyte balance. Kidneys, lungs, liver and skin together function as excretory organs. Excretory system consists of the following.
+1. Kidneys 
+2. Ureters 
+3. Urinary bladder
+
+### Nervous system
+Nervous system is an integration of nerves and they are composed of specialized cells called Neurons. The human nervous system is divided into the following.
+1. Central Nervous System (CNS)
+2. Peripheral Nervous System (PNS)
