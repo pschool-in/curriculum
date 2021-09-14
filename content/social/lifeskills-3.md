@@ -14,7 +14,7 @@ Time is a infinity continuous progress of events from the past through the prese
 
 3. Future- Event is going to happen. 
 
-To calculate and understand time, we used a clock to measure time with certain units like clock, calnders, etc. Clock contains seconds, minutes and hours. Calendars is there to make a log of time. Calendar contains days, months and years. These are all units of time, that help us to measure and calculate the time. In ancient days, people were using a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects were and are used, to help us understand the history of things. 
+To calculate and understand time, we used a clock to measure time with certain units like a clock, calendars, etc. The clock contains seconds, minutes, and hours. Calendars are there to make a log of time. The calendar contains days, months, and years. These are all units of time, that help us to measure and calculate the time. In ancient days, people were using a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects were and are used, to help us understand the history of things.
 
 ## Group: Past tense Vs Future tense
 
