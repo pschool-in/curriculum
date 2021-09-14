@@ -24,7 +24,7 @@ Thus, all living things and non-living things are dependent upon each other.
 
 Classify the below things based on the category of living and non-living thing
 
-Living thing: Mango tree, squirrel, fox, Lotus, 
+Living thing: Tree, Squirrel, Fox, Plant 
 
 Non-living thing: Stone, Water, Wooden chair, Bread
 
