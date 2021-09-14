@@ -17,7 +17,6 @@ The below pages talks more about the product and process.
   or a class.
 - There are a set of [General Instructions](instructions.md) we should always
   keep in mind.
-- For [English](english.md) content developers.
 
 ## Playlist Developer
 
@@ -31,6 +30,8 @@ Content developers can slowly learn some of the semi-technical stuff.
 - [Dev Notes](dev-notes.md)
 
 # Subject-wise
+
+- For [English](english.md) content developers.
 
 # Content Team
 
