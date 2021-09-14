@@ -12,8 +12,8 @@ In a family, we are secure in every way. Our family provides us with food, cloth
 1. Small Family: Families consisting only of parents and one or two children.
 2. Big Family:  Families consisting of grandparents, aunts, uncles, brothers, sisters and cousins.
 3. Extended Family: Families are  linked with many other relatives. Aunts and uncles from the mother’s and father’s side, their children are all related to our family.
-4. Joint Family: Grandparents, aunts, uncles, parents, siblings and cousins all lived together and formed one big family. This was called a joint family.
-5. Nuclear Family: When members of a family move away and start living separately, forming different families. Such smaller families are called nuclear families.
+4. Joint Family: Grandparents, aunts, uncles, parents, siblings and cousins all lived together and formed one big family. 
+5. Nuclear Family: Members of a family start living separately, forming different families.
 
 ### Festivals
 
