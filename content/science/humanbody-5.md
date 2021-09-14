@@ -161,3 +161,134 @@ regulates water and electrolyte balance. Kidneys, lungs, liver and skin together
 Nervous system is an integration of nerves and they are composed of specialized cells called Neurons. The human nervous system is divided into the following.
 1. Central Nervous System (CNS)
 2. Peripheral Nervous System (PNS)
+
+## Digestion (sorting)
+
+Arrange the organs in the sequence they occur.
+```
+Mouth, Buccal cavity, Pharynx, Esophagus, Stomach, Small intestine, Large intestine, Anus
+```
+## Digestive glands (drag and drop)
+```
+Salivary glands secrete *saliva* which moistens food. 
+Saliva contains enzymes which break down complex molecules into *simple* molecules. 
+Pancreas produces *pancreatic* juice which contains digestive enzymes for digesting *fats*, proteins and carbohydrates.
+Liver produces *bile* for the digestion of fat.
+There are some organisms which *live* in the digestive systems of animals.  
+*Tape worm* lives in the human intestine.
+The three pairs of salivary glands parotid,*sublingual* and submandibular gland secrete *1.5* litres of saliva every day.
+```
+## Respiration
+
+Arrange the organs in the sequence they occur.
+```
+Nostrils, Nasal cavity, Pharynx, Larynx, Trachea, Bronchi, Bronchioles, Alveoli 
+```
+## Heart (drag and drop)
+
+```
+The heart is a *hollow*, muscular organ.
+Heart is covered with double walled membrane called *pericardium*. 
+The space between the membranes is filled with *pericardial* fluid.
+The pericardial fluid protects the heart from *shock*. 
+The heart is divided into *four* chambers. 
+Two upper chambers are called *atria*. 
+Two lower chambers are called *ventricles*. 
+The upper and lower chambers of the heart are separated by a muscular wall or tissue known as the *auriculo-ventricular* septum of the heart. 
+The right side of the heart receives *deoxygenated* blood.
+The left side of the heart receives *oxygenated* blood. 
+```
+## Kidney (drag and drop)
+```
+The kidneys filter the *blood* to remove waste and produce *urine*. 
+The kidneys are a pair of dark red, *bean* shaped organs. 
+*Right* kidney is slightly *lower* than the left kidney. 
+Each kidney is covered by a fibrous membrane called *capsule*.
+The kidneys are made up of millions of excretory units, called *Nephrons*.
+Nephrons are the structural and *functional* units of the kidneys.
+```
+## Urinary bladder (drag and drop)
+```
+It is sac-like in shape and acts as a temporary storage organ of *urine*. 
+Urine entering the urinary bladder from the ureters fill the *bladder*.
+Urine is expelled from the body through the *urethra*.
+Every minute, kidneys receive approximately *1.250* litre of blood.
+```
+## Brain (drag and drop)
+```
+The *fore brain* consists of cerebrum, thalamus and hypothalamus.
+Fore brain is the centre of human *memory*.
+Fore brain is responsible for intelligence, *imagination* and reasoning.
+*Mid brain* co-ordinates the movements of the muscles of the body.
+*Hind brain* connects the brain to the spinal cord.
+```
+## PNS (drag and drop)
+```
+Peripheral nervous system consists of nerves extending from the *spinal cord* to all parts of the body. 
+Somatic nervous system carries *sensations* from the organs to the brain. 
+Somatic nervous system take *messages* from the brain to the organs for movements. 
+Autonomous nervous system controls the *nerves* of the inner organs of the body.
+```
+## Choose the correct answer.
+```
+What is the length of the alimentary canal?
+9-11 m, 3-5 m, 5-6 m,  6-9 m
+
+Which organ is involved in respiration?
+Lungs,  Heart,  Brain
+
+How many kidneys do we have?
+2, 3, 1, 4
+
+Functional unit of brain is
+Neuron, Nephron, Brain stem, Nerves
+
+Blood is pumped by
+Heart, Kidneys,  Bones
+```
+## True or False
+
+Classify the sentence as true or false.
+```
+True:
+The circulatory system is made up of the heart, blood and blood vessels.
+Important function of the heart is to transport blood with nutrients, oxygen, waste
+and hormones.
+We have 2 kidneys.
+
+False:
+The brain is protected by the rib cage.
+The functional unit of kidney is neuron.
+Heart has 5 chambers.
+```
+## Odd one out
+
+Pick the odd one
+```
+ Mouth,  Buccal cavity,  Pharynx,  *Lung*
+ Nostrils, Nasal cavity,  Pharynx,  *Stomach*
+ Mouth,  Esophagus,  Stomach, *Kidney*
+ Taste, Hear,  *Think*,  Smell
+ Cerebrum , Cerebellum, Medulla Oblongata, *Nephron*
+```
+## Fill in the blanks (using options)
+```
+Smoke contains large amount of carbon *monoxide (dioxide) a toxic gas.
+People when engulfed in smoke on fire die due to *suffocation (allergy).
+Muscles of respiration include diaphram and *intercostal (inrtravein)* muscles. 
+Blood vessels consist of arteries, veins and *capillaries (lymph)*. .
+The volume of blood in human adults is *4-5 (6-7)*litres.
+*Spinal cord (vertebra)* is along a tube like structure which extends from the brain.
+The brain loses the ability to function when it does not get oxygen for more than *4 (5)* minutes.
+Enough sleep and healthy food increases the efficiency of our *brain (kidney)*.
+```
+## Name the following. (drag and drop)
+```
+An animal with blue blood - *lobster*
+An animal with colourless blood - *cockroach*
+Only artery that carries deoxygenated blood - *pulmonary artery*
+Only vein that carries oxygenated blood - *pulmonary vein*
+Largest part of brain - *fore brain*
+Part of brain controlling temperature - *mid brain*
+Part of brain also known as vital knot - *hind brain*
+```
