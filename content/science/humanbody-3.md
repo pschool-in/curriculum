@@ -59,7 +59,7 @@ The forearm and hand are joined at the *wrist*.
 ```
 ## Leg - fill up (drag and drop)
 ```
-The leg, has three parts – thigh, *shank* and foot.
+The leg has three parts – thigh, *shank* and foot.
 *Toes* are part of the foot. 
 The thigh and shank are joined at the *knee*. 
 The shank and foot are joined at the *ankle*.
@@ -67,7 +67,7 @@ The shank and foot are joined at the *ankle*.
 ## Fill in the blanks (using options)
 ```
 A part of the body that is used for a particular purpose is called *organ (body part)*. 
-The neck bends forward as well as *backward (side wards)*. 
+The neck bends forward as well as *backward (sidewards)*. 
 We can bend our arm at the shoulder, *elbow (knee)* and wrist.
 The *fingers (toes)* of our hands can bend.
 We can bend our torso only at the *waist (hips)*. 
@@ -77,7 +77,7 @@ Our toes *can (cannot)* bend, but not as much as our fingers.
 ```
 ## True or False.
 
-Classify sentence as true or false.
+Classify the sentence as true or false.
 ```
 True:
 We use our legs too for several purposes.
@@ -86,15 +86,15 @@ We can bend our arm at the shoulder, elbow and wrist.
 
 False:
 We can move our toes more than our fingers.
-Neck cannot bend backwards.
-Ankle is a part of hand.
+Neck cannot bend backward.
+Ankle is a part of our hand.
 ```
 ## Choose the correct answer. (mcq)
 ```
 The leg is joined to the torso at the ______________.
 hip-joint, waist, shoulder
 
-The part that joins the foot and the ___________ is the ankle .
+The part that joins the foot and the ___________ is the ankle.
 shank, thigh, knee
 
 Some of our body parts can bend. That is why we are able to make ________________ .
