@@ -215,3 +215,76 @@ skin, tongue, touch
 Our tongue feels as if it is burning when we eat a __________ .
 chilli, ice cream, mango
 ```
+# GRADE 3
+
+## Human Body
+
+## Chapter: maha g3: Pearly Teeth, Healthy Body
+
+### Teeth
+
+The teeth we get when we are small are called milk teeth. They start falling at seven or eight years of age.Then we get new teeth once again. These are called permanent teeth.If permanent teeth fall, we do not get new teeth in their place. So, we must take care of our teeth.
+
+If our teeth are dirty, foul substances go into our stomach. We can fall ill.
+
+We must wash our hands before we eat.
+We must keep our hair, our nails, our sense organs and the entire
+body clean.
+
+## Sensory Organs- fill up (drag and drop)
+```
+The teeth we get when we are small are called *milk* teeth. 
+If *permanent* teeth fall, we do not get new teeth in their place. 
+We must take care of our *teeth*.
+If our teeth are *dirty*, foul substances go into our *stomach*. 
+We must wash our *hands* before we eat.
+We must keep our hair, our nails, our sense organs and the entire
+body *clean*.
+```
+## Fill in the blanks (using options)
+```
+Because of the rotting particles in the mouth, our teeth *decay (rot)*.
+We must brush our teeth in the *morning (evening)* and before going to bed at night.
+We must clean our *gums (mouth)* and tongue.
+*Neem (tulsi)* or babul sticks are sometimes used for cleaning teeth.
+Infected cut or wound may start oozing *pus (blood)*.
+```
+## True or False.
+
+Classify sentence as true or false.
+```
+True:
+Infected wound ooze pus.
+We must rinse our mouth repeatedly with water after eating something.
+First set of teeth is milk teeth.
+
+False:
+Last set of teeth is milk teeth.
+We start loosing milk teeth at 12 years of age.
+Clean gums may make us ill. 
+```
+## Choose the correct answer. (mcq)
+```
+____________ start falling at the age of seven or eight.
+milk teeth, permanent teeth, teeth
+
+If rotting _________ remain in the mouth, they cause teeth to fall.
+particles, teeth, food
+
+If we use a brush and ____________ we can clean the gaps between our teeth properly.
+toothpaste, neem stick, powder
+
+We must clean our ________ and gums while brushing.
+teeth, tongue, mouth
+ 
+We must keep our five _______ clean.
+sense organs, teeth , nails
+```
+Match the following.
+```
+First teeth, milk teeth
+Last teeth, permanent teeth
+Toothbrush, toothpaste
+Rotting, loose teeth
+Infection, pus
+```
