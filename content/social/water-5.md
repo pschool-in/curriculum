@@ -30,4 +30,35 @@ Flood- when excess water from rivers comes to people's property.
 Pollution- when water is contaminated by other substances.
 Sewage- carries waterwater.
 ```
-
+### Fill by drag (label)
+Drag and drop the correct answers. (title)
+```
+*Mineral* water is available as in sealed bottles.
+*Sewage* water is *polluted* water.
+*Wastewater* should be treated before merging with rivers.
+*Oxygenation* means mixing oxygen and water through pumps.
+*Famine* is when there's no water left.
+*Flood* is the excess flow of water.
+```
+### Match the following (label)
+Match the pairs. (title)
+```
+Mineral water, General store
+Sewage, Wastewater
+Famine, Scarcity
+Flood, Excess water
+Pollution, Impure water
+```
+### True or False (label) (classify the sentence template)
+Claasify the sentences as true or false. (title)
+```
+True:
+We must not waste water at any cost.
+Droughts lead to scarcity of water.
+Famine is a natural disaster.
+We cannot consume polluted water.
+False:
+Wasterwater is directly disposed into rivers and seas.
+Water pollution refers to the purification of water.
+Floods bring joy and happiness.
+```
