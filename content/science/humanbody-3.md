@@ -231,7 +231,7 @@ We must wash our hands before we eat.
 We must keep our hair, our nails, our sense organs and the entire
 body clean.
 
-## Sensory Organs- fill up (drag and drop)
+## Teeth- fill up (drag and drop)
 ```
 The teeth we get when we are small are called *milk* teeth. 
 If *permanent* teeth fall, we do not get new teeth in their place. 
