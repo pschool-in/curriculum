@@ -31,7 +31,7 @@ Water on the earth evaporates continuously due to the heat of the sun. As water 
 
 A worm eats grass and leaves.
 A grasshopper eats worms. 
-Birds eat Grasshoppers.They are all connected.
+Birds eat grasshoppers.They are all connected.
 One component is food for the next one. That is why we say that they form a chain. Such a chain is called a food
 chain. Each of these components is a link in a food chain.
 
