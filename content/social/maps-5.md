@@ -30,3 +30,9 @@ Sign: Post office, Railway, Well, Spring
 
 Symbol: Lighthouse, Fort, Battlefield
 
+```
+
+## Fill in the blanks
+
+```
+
