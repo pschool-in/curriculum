@@ -36,7 +36,7 @@ Match the following with its correct one.
 Birds, nest
 Silk, Clothes
 Wooden chair, Tree
-Soil fertile, decay of dead animals and plants
+Soil fertile, humus
 Pollution, Environment
 ```
 
