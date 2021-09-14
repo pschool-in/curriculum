@@ -292,9 +292,13 @@ Chicken occupy *90% (80%)* of the total poultry.
 India ranks *fifth (fourth)*in poultry production in the world.
 Whitelegon is the most *egg (milk)* yielding breed in the world.
 An area of land with fields and buildings that is devoted primarily to growing crops or raising domestic animals or both as a business is called *farm (field)*.
+```
+## Fill in the blanks (using options)
+```
 *Dairy farming (poultry farming)* is a type of agriculture that focuses on extraction of milk and preparation of various milk products.
 *Buffaloes (sheeps)* produce more amount of milk than cows.
 Dr.Verghese Kurien is called the Father of *White (blue)* Revolution.
+Honey also enhances digestion and *appetite*.
 ```
 
 ## True or False
