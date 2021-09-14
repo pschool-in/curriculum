@@ -360,7 +360,7 @@ Animals and plants give us abundantly and they are satisfying our needs. Humans 
 
 ### Seasons
 
-We have four seasons and they are summer, winter, spring, autumn (or) fall. Every season we will bring changes in the environment. For example, in the summer season, there will be sunny and we used to wear cotton clothes. In the winter season, there will be cold and we wear woolen clothes. It will give changes to other living things too. For eg; the animals which have fur will become much thicker during the winter season. During the spring seasons, fresh buds will start to bloom and it is the season of new beginnings. During the autumn (fall) seasons, trees leave changing color and some trees will lose their leaves. Not only trees, change in seasons will affect all living things.
+We have four seasons and they are summer, winter, spring, autumn (or) fall. Every season we will bring changes in the environment. For example, Cotton clothes are comfortable to wear during the summer season. Woolen clothes are comfortable to wear during winter season. Seasons give changes to other living things too. For eg; the animals which have fur will become much thicker during the winter season. During the spring seasons, fresh buds will start to bloom and it is the season of new beginnings. During the autumn (fall) seasons, trees leave changing color and some trees will lose their leaves. Not only trees, change in seasons will affect all living things.
 
 ## Group: Carnivores Vs. Omnivores
 
