@@ -12,7 +12,8 @@ Parts Of The Body
 
 # Checklist
 
-- Proper spacing and puntuations.
+- Proper spacing and punctuation.
+- Always ensure there is no spelling mistake.
 - Proper title case for headings and labels.
 
 Which of the following is right?
@@ -31,3 +32,4 @@ PARTS OF THE BODY
 - Play it safe. We may not be a real expert and we may not be 100% sure. In that
   case, try to avoid the content where we may get into trouble. Be it either
   factual issue or grammatical issue.
+- Spend enough time in doing self review.
