@@ -62,3 +62,12 @@ Wasterwater is directly disposed into rivers and seas.
 Water pollution refers to the purification of water.
 We should ignore the manufcture and expiry date in mineral water bottles.
 ```
+
+##### Chapter tn-5-2-science: Water is already covered
+link to js: https://github.com/pschool-in/content/blob/main/kg-5/playlists/science/water-5.js 
+
+link to playlist: https://pschool.in/water-5/100
+
+##### Chapter tn-5-2-social: Hydrosphere is already covered
+link to js: https://github.com/pschool-in/content/blob/main/kg-5/playlists/social/hydrosphere.js  
+link to playlist https://pschool.in/hydrosphere
