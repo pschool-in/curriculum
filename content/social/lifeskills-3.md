@@ -14,7 +14,7 @@ Time is a infinity continuous progress of events from the past through the prese
 
 3. Future- Event is going to happen. 
 
-To calculate and understand time, we used a clock to measure time with certai units (seconds - minutes - hours); calendars to make a log of time (day and night -months -years). These are all units of time, that help us to measure and calculate the time. In ancient days, people were using a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects were and are used, to help us understand the history of things. 
+To calculate and understand time, we used a clock to measure time with certain units like clock, calnders, etc. Clock contains seconds, minutes and hours. Calendars is there to make a log of time. Calendar contains days, months and years. These are all units of time, that help us to measure and calculate the time. In ancient days, people were using a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects were and are used, to help us understand the history of things. 
 
 ## Group: Past tense Vs Future tense
 
@@ -29,17 +29,17 @@ Future tense: Later, yet to come, Going to reach
 Match the following with 12-hour format and 24-hour format
 
 ```
-9 A.M, 9:00 hours
-3 P.M, 15:00 hours
-8 P.M, 20:00 hours 
-6 A.M, 6:00 hours
-11 P.M, 23:00 hours
+9.00 A.M, 9:00 hours
+3.00 P.M, 15:00 hours
+8.00 P.M, 20:00 hours 
+6.00 A.M, 6:00 hours
+11.00 P.M, 23:00 hours
 ```
 
 ## Multiple Choice Questions
 
 ```
-Choose the right sequence order.
+Choose the right sequence in ascending order.
 Seconds; Minutes; Hours
 Minutes; Seconds; Hours
 Hours; Seconds; Minutes 
@@ -86,7 +86,7 @@ P.M stands for *post meridiem*.
 ## Fill in the blanks (using options)
 
 ```
-The time difference between India and the USA is *9 (8)*hours behind.
+The time difference between India and the Washington D.C is *9 (8)*hours behind.
 The time difference between India and Japan is *3(2)* hours ahead.
 The time difference between India and Sweden is *3 (4)* hours behind. 
 The time difference between India and Australia is *4(5)* hours ahead.
