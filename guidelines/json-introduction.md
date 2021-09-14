@@ -7,12 +7,13 @@ JSON stands for Javascript Object Notation.
 
 There are two kinds of brackets we use.
 
-1. angular bracket {} : It contains a collection of "name:value" pairs. It is
-   used to group unreleated properties. Here "name" is also known as "property
-   name". We usually wont have 'space' in name. eg. "no of sales" is written as
-   "noOfSales" (camel case) or "no-of-sales".
+1. curly brace {} : It contains a collection of "name:value" pairs. It is used
+   to group unreleated properties. Here "name" is also known as "property". We
+   usually wont have 'space' in name. eg. "no of sales" is written as
+   "noOfSales" (camel case) or "no-of-sales". Curly braces are technically known
+   as 'object'.
 
-2. square bracket []: It contains a list (array) of similar items.
+2. square bracket []: It contains an array (list) of similar items.
 
 Same data can be represented in different formats. For example if you want to
 mention the number of sales for the last three years.
@@ -122,8 +123,7 @@ We use Javascript object instead of JSON as it has some advantange.
 | the string values should be within double quotes | it can be single, or double or back tick (multiline string) |
 | comments not allowed                             | comments allowed                                            |
 
-# PSchool Playlist structure
+# Visualizing JSON
 
-{ id: 'playlist-id'
-
-}
+We can imagine a JSON as an online form. In fact, we have PSchool Authoring
+Tools in a Form format.
