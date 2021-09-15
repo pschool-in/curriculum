@@ -32,7 +32,40 @@ Symbol: Lighthouse, Fort, Battlefield
 
 ```
 
-## Fill in the blanks
+## Fill in the blanks (By drag and drop)
+
+```
+*Contour line* method shows the unevenness of landfroms.
+Conventional symbols are *miniature* signs of temples, mosques etc.
+In modern method, *computers* are used to convey data from man-made satellites.
+*Conventional symbols* can be letters or geometricals shapes such as lines, circle, etc.
+The spaces between contour lines are *coloured* in layer tinting method.
 
 ```
 
+## Match the following
+
+On the basis of heights and their colours
+
+```
+1380-3660, Orange
+Less than 150, Light blue
+More than 4880, White
+0-75, Green
+3660-4880, Red
+
+```
+
+## True or false
+
+```
+True: 
+Previously, relief was shown using the ‘hill shading’ technique.
+The ‘Survey of India’ is the foremost mapmaking institute in India.
+standard signs and symbols are used to make the map easy to read.
+
+False:
+The height and depth of landforms can be shown easily.
+Political maps are used in military operation.
+
+```
