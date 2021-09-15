@@ -33,7 +33,8 @@ The remaining substances pass into the *large* intestine.
 ```
 ## Large intestine (drag and drop)
 ```
-The large intestine of an adult is about *one* and a half metres long. Here,much of the *water* in the remaining substances is absorbed into the body.
+The large intestine of an adult is about *one* and a half metres long. 
+Here, much of the *water* in the remaining substances is absorbed into the body.
 The *faeces* collect in the rectum for some time. 
 Later, they are expelled from the body through the *anus*. 
 ```
@@ -96,7 +97,7 @@ system, organ, function
  
 The nose, trachea, lungs and diaphragm are organs of the ___________ system.
 respiratory, nervous, digestive
-The mouth, oesophagus, stomach, small intestine, large intestine, rectum and anus and alimentary canal are the organs of the _____________ system.
+The mouth, oesophagus, stomach etc are the organs of the _____________ system.
 digestive, excretory, nervous
 The _________ system co-ordinates all the functions of the body.
 nervous, respiratory, excretory
@@ -194,7 +195,7 @@ The pericardial fluid protects the heart from *shock*.
 The heart is divided into *four* chambers. 
 Two upper chambers are called *atria*. 
 Two lower chambers are called *ventricles*. 
-The upper and lower chambers of the heart are separated by a muscular wall or tissue known as the *auriculo-ventricular* septum of the heart. 
+The chambers of the heart are separated by *auriculo-ventricular* septum of the heart. 
 The right side of the heart receives *deoxygenated* blood.
 The left side of the heart receives *oxygenated* blood. 
 ```
@@ -273,8 +274,8 @@ Pick the odd one
 ```
 ## Fill in the blanks (using options)
 ```
-Smoke contains large amount of carbon *monoxide (dioxide) a toxic gas.
-People when engulfed in smoke on fire die due to *suffocation (allergy).
+Smoke contains large amount of carbon *monoxide (dioxide)* a toxic gas.
+People when engulfed in smoke on fire die due to *suffocation (allergy)*.
 Muscles of respiration include diaphram and *intercostal (inrtravein)* muscles. 
 Blood vessels consist of arteries, veins and *capillaries (lymph)*. .
 The volume of blood in human adults is *4-5 (6-7)*litres.
