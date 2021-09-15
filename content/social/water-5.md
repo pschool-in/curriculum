@@ -34,7 +34,7 @@ Sewage- carries waterwater.
 Drag and drop the correct answers. (title)
 ```
 *Mineral* water is available as in sealed bottles.
-*Sewage* water is *polluted* water.
+*Sewage* water is polluted water.
 *Wastewater* should be treated before merging with rivers.
 *Oxygenation* means mixing oxygen and water through pumps.
 *Famine* is when there's no water left.
