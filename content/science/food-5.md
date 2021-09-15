@@ -85,14 +85,14 @@ Teacher
 
 ```
 
-## Match the following
+## Name the following (By drag and drop)
 
 ```
-Maize, Beverage crop
-Wheat, Temperate zone
-Cotton, Coimbatore
-Well irrigation, Oldest method
-Mixed farming, Rearing of animals
+A Beverage crop- *MAIZE*
+A crop that grows in temperate zone- *WHEAT*
+A crop grown extensively in Coimbatore- *Cotton*
+Oldest method of irrigation- *WELL*
+Rearing of animals- *MIXED FARMING*
 
 ```
 
@@ -273,6 +273,32 @@ Diseases caused due to micro-organisms. *Infectious diseases*
 Diseases caused due to malfunction of the body organs. *Physiological diseases*
 
 ```
+
+## Multiple choice questions
+
+```
+In case of minor burn what will you do?
+Expose burnt area to cool running water
+Apply warmth
+Rub on the burnt skin
+
+Which of the statement is false?
+Use low quality gas stoves, tubes and regulators.
+Always use I.S.I standard gas
+Keep the doors open to ensure ventilation
+
+In which position we should keep the cylinder?
+Vertical position
+Inverted position
+Horizontal position
+
+Which of the following statement is true?
+Turn the knob after lighting the lighter
+Turn on the electrical appliances in kitchen
+Keep the cylinder in inverted position
+
+```
+
 
 
 
