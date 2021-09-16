@@ -149,7 +149,7 @@ Child line service was established across India under the Ministry of Women and 
 
 ### Child Safety Laws
 
-1. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labor. 
+1. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labour. 
 2. The National Child Labour Projects (NCLP) was established to rehab child labour.
 3.  Integrated Child Development Services (ICDS) is a government program for early childhood care & development. 
 4. The prohibition of the child marriage act is established to prevent child marriage. 
