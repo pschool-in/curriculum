@@ -10,9 +10,9 @@ Emotions are also called as feelings that one experiences and processes in thems
 
 ### Emotional balance is good to life
 
-1. One should try to cope up with all the emotions, because it will help in balancing and shape the personality. Besides, coping up with emotions will help to increase the ability of understanding others. Handling emotions in a right way, help us to lead a better life. 
+1. Coping up with emotions helps in balancing and shape the personality. It also increases the ability to understand others. Handling emotions in the right way helps us to lead a better life.
 
-2. If we know our flaws in the construct of our nature, then we should try to correct ourselves. Moreover, we should help each other to get rid of the flaws. We must always think first about our friends and their good qualities. We should stop identifying people and friends with the negative qualities that may have.
+2. If we are aware of the flaws in the construct of our nature, then we should try to correct ourselves. Moreover, we should help each other to get rid of the flaws. We should stop identifying negative qualities people have and rather seek positive ones.
 
 3. Too much of anger will lead to adverse effects on mental and physical health. Sometimes, it also leads to violence. Being stubborn is a sign of ego and pride and it will lead to many problems.So, we should try to tolerate things and must not lose the temper. One can have desire in their life, but should not be greedy about it. 
 
