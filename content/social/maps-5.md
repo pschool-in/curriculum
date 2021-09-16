@@ -117,5 +117,11 @@ Union territories, Eight
 ## Name the following (By drag and drop)
 
 ```
+Largest state. *Rajasthan*
+State born in 2014. *Telangana*
+The state in which apples are grown. *Jammu and Kashmir*
+The part which is surrounded by the water on three sides. *Indian Peninsula*
+Fifth largest state. *Gujarat*
 
+```
 
