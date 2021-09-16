@@ -108,3 +108,114 @@ During festival, people are lethargic.
 Not having a sense of lack-luster is a good quality.
 ```
 
+
+******************************************************************************************************************************************************************************
+
+# Growth and personality development
+
+Chapter : maha g5: Growth and Personality Development
+
+## Reading
+
+### Growth and development
+
+All living things have the ability to grow. Humans have slow growth development from birth to adulthood. Infants cannot do any activities by themselves. Slowly they get the coordination of controlling of the movement. They grow in weight and height slowly according to the age till adulthood. A balanced diet, regular exercise are the major factors that support growth and development for humans.
+
+### Skills development
+
+When we grow, our physical strength also get increases. At the same time, learning and practicing new skills rapidly leads to personality development. Animals learn from their mother how to protect themselves from their enemies, weather, etc. They learn and begin to live independently. Animals learn only a limited number of skills in their life. However, humans learn more things throughout their life. Developing skills helps one to live independently and enriching life. 
+
+### Heredity
+
+The characteristics and features of the parents or ancestors that are being passed to their children are called heredity. This is the reason, where many family members look similar to each other, but even then every person is unique. Everyone has a unique character trait and personality. Talents and inherent quality differ from person to person.
+
+## Group: Animal activities Vs Human activities
+
+Classify the below things based on the category of Animal and Human activities.
+
+Animal activities: Hunting, Sixth sense, climbing the tree
+
+Human activities: Skipping, cycling, playing games
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Heredity, Family
+Physical growth, Development
+Imbalanced diet, Malnutrition
+Good Values, Good character
+Infants, slow co-ordination
+```
+
+## Multiple Choice Questions
+
+```
+______ learn only a limited number of skills in their life.
+Animals
+Human
+Alien
+Trees
+
+__________ learn more things throughout their life.
+Human
+Alien
+Animals
+Trees 
+
+Physical and mental strength are good enough for ________.
+adults
+children
+Old people
+
+Due to heredity, __________ looks more similar to each other.
+family members
+friends
+students
+teachers
+
+______________ has slow development and controlling the co-ordination movement.
+Infants
+Adults
+Plants
+None of the above
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+Learning more *skills*, gives you better advantages.
+*Infants* learn the various skills day by day.
+We learn many skills from our parents and *teachers*.
+Our *personality* develops through our efforts and interests.
+Heredity mainly passes through the characters from *ancestors* to the younger generation in the family.
+```
+
+## Fill in the blanks (Using Options)
+
+```
+We have physical body growth until we reach *18 (25)* years.
+Learning many skills will help one to be less *dependent (independent)* on others.
+Doing *regular (irregular)* exercises helps to keep the body fit.
+`Each one has a *unique (similar)* personality.
+It is more important to reflect the *good (bad)* values in our behavior.
+```
+
+## True or False
+
+```
+True:
+Intake of proper nutritious food is necessary for growth and development.
+Animals learn from their mother how to protect themselves from their enemies.
+Lack of physical activity and exercise affect the overall growth adversely.
+
+False:
+Food is not required for physical and mental growth.
+Infants feed themselves.
+```
+
+
+
