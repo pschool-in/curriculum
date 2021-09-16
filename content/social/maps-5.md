@@ -125,3 +125,16 @@ Fifth largest state. *Gujarat*
 
 ```
 
+### Links to the activities relatable to the above content
+
+https://pschool.in/social/4-south-state-mcq
+
+https://pschool.in/social/4-south-state-language
+
+https://pschool.in/social/4-map-south-rivers
+
+https://pschool.in/social/4-map-south-states
+
+https://pschool.in/social/4-india-cities
+
+https://pschool.in/social/4-south-states-capital
