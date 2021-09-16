@@ -14,7 +14,7 @@ Time is an infinity continuous progress of events from the past through the pres
 
 3. Future- Event is going to happen. 
 
-To calculate and understand time, we are using certain units like a clock, calendars, etc. The clock contains seconds, minutes, and hours. Calendars are there to make a log of time. The calendar contains days, months, and years. These are all units of time, that help us to measure and calculate the time. In ancient days, people used a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects, etc. So this help us to understand the history of those things.
+To calculate and understand time, we are using certain units like a clock, calendars, etc. The clock contains seconds, minutes, and hours. Calendars are there to make a log of time. The calendar contains days, months, and years. These are all units of time, that help us to measure and calculate the time. In ancient days, people used a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects, etc. So this helps us to understand the history of those things.
 
 ## Group: Past tense Vs Future tense
 
@@ -99,7 +99,7 @@ The time difference between India and London is *4(6)* hours behind.
 True:
 Time is majorly divided into past, present, and future.
 Historical buildings help us to understand the history, that has happened in the past.
-“The train may come late” is a future tense.
+“The train may come late” is future tense.
 
 False:
 Time is not measured by any instruments.
