@@ -69,3 +69,53 @@ The height and depth of landforms can be shown easily.
 Political maps are used in military operation.
 
 ```
+
+maha g5: Getting to know India
+
+# Getting to know India
+
+## Reading
+
+Rivers, mountains, plateaus, plains, islands, and other features can be found across our country. On three sides, the Indian subcontinent is surrounded by water, which narrows as it moves south. This area is known as Indian Peninsula.
+
+The majestic Himalayan mountains form our northern border.
+
+Forests, plains, and deserts can be found across our land.
+
+Our country has a big area to cover. The height above sea level varies and can reach 8000 metres or more.
+
+In our country, there are people from many classes, tribes, and religions.
+
+It is possible to hear a variety of languages. In addition, different regions have diverse food, clothes, festivals, and celebrations.
+
+Wheat is a major crop in the northern states. In the south and along the coast, rice is a major crop. In central India, jowar is grown on a big scale.
+
+New Delhi is India's capital. Rajasthan is India's largest state in terms of land area. Madhya Pradesh comes in second. The state of Maharashtra is ranked third. Goa is the smallest state in India.
+
+## Fill in the blanks (By drag and drop)
+
+```
+*Diversity* has a significant effect on our lifestyle, traditions and culture.
+Historical forts are also known as *sea forts*.
+Landforms, water bodies, forests are *geographical* features.
+The *Lakshadweep* islands are situated in Arabian sea.
+There are *twenty eight* states in India.
+
+```
+
+## Match the following
+
+```
+Northern region, Wheat
+Southern region, Rice
+Central region, Jowar
+India's capital, New Delhi
+Union territories, Eight
+
+```
+
+## Name the following (By drag and drop)
+
+```
+
+
