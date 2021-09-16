@@ -6,11 +6,11 @@ Chapter : maha g4: My Upbringing
 
 ### Upbringing
 
-1. Our parents, teachers, relatives, friends, neighbors play an important role in our upbringing. Our elders teach us moral values in childhood, which help to shape our character. Upbringing includes our basic disciplines, economic values, moral codes, entertainment, social behavior, respecting elders, doing good for the environment, etc.
+1. Our parents, teachers, relatives, friends, neighbors play an important role in our upbringing. They teach us moral values in childhood, which help to shape our character. Upbringing includes our basic disciplines, economic values, moral codes, entertainment, social behavior, respecting elders, doing good for the environment, etc.
 
-2. We learn many things in our childhood and also we learn as we grow up. These together make up our upbringing in the later stages of life. Moreover, we also learn through many observations and exposures in our day-to-day life. Quite often, we learn from our conscious efforts too. Upbringing in our society teaches us everything that we need in our life. 
+2. Upbringing includes many things we learn in childhood as well as while growing up. These together make up our upbringing in the later stages of life. Moreover, we also learn through many observations and exposures in our day-to-day life. Quite often, we learn from our conscious efforts too. Upbringing in our society teaches us everything that we need in our life. 
 
-3. Most of the time, people get influenced very easily. Hence, many people take up good qualities from those good sources that influence them. Sometimes we learn multiple things through various experiences in our life. This multitude of things is often contributed by the rich diversity, that sustains in our environment.
+3. Mostly  people get influenced very easily. Hence, many people adapt good qualities. Sometimes we learn multiple things through various experiences in our life. This multitude of things is often contributed by the rich diversity, that sustains in our environment.
 
 ## Group: Good habits Vs Bad habits
 
