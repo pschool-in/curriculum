@@ -6,7 +6,7 @@ They cultivate crops and rear animals. Our country is a land of farmers and they
 ### Subsistence farming
 In this, crops are cultivated and are only used by the farmer's family. Small and marginal farmers practice this on small pieces of land they own. The method of farming is generally archaic.
 ### Commercial farming
-In this type of farming, crops are cultivated and are used for commercial use. This is done using modern techniques, tools, and machines.
+In this type of farming, crops are cultivated and are used for commercial purposes. This is done using modern techniques, tools, and machines.
 ### Plantation farming
 It is practiced on lands where single cash crops are cultivated on a large scale. For example, tea, coffee, rubber, etc.
 ### Mixed farming
