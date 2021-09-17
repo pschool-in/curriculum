@@ -12,9 +12,9 @@ Sanctuary is a place, where animals and birds are brought together. It is protec
 
 Classify the below things based on the category of Wildlife Sanctuaries and National Parks in India.
 
-Wildlife Sanctuaries: Govind Sanctuary, Mudumalai Sanctuary, Periyar Sanctuary, Bharatpur Sanctuary
+Wildlife Sanctuaries: Govind, Mudumalai, Periyar, Bharatpur
 
-National Parks: Anamudi Shola Park, Anshi Park, Balphakram Park, Betla Park
+National Parks: Anamudi, Anshi, Balphakram, Betla
 
 ## Match the following
 
