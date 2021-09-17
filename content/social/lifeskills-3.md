@@ -6,13 +6,13 @@ Content : maha g3: Understanding Time
 
 ### What is Time?
 
-Time is an infinity continuous progress of events from the past through the present to the future. It is majorly divided into three parts.
+Time is an infinite continuous progress of events from the past, through the present, to the future. It is majorly divided into three parts.
 
-1. Past - Event has happened.
+1. Past - Event that has happened.
 
-2. Present - Event is happening.
+2. Present - Event that is happening.
 
-3. Future- Event is going to happen. 
+3. Future- Event that is going to happen. 
 
 To calculate and understand time, we are using certain units like a clock, calendars, etc. The clock contains seconds, minutes, and hours. Calendars are there to make a log of time. The calendar contains days, months, and years. These are all units of time, that help us to measure and calculate the time. In ancient days, people used a water clock, an hourglass, etc. Statues, historical places, monuments, coins, shards of pottery, old objects, etc. So this helps us to understand the history of those things.
 
