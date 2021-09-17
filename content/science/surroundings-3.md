@@ -21,9 +21,9 @@ National Parks: Anamudi Shola Park, Anshi Park, Balphakram Park, Betla Park
 Match the following with its correct one.
 
 ```
-Vendanthangal Sanctuary, Birds
-Anamudi Reserve, Elephants
-Gir National Park, Lions
+Vendanthangal, Birds
+Anamudi, Elephants
+Gir Park, Lions
 Bandipur Reserve, Tigers
 Botanical Garden, Flora
 ```
