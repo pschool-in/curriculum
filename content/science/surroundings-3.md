@@ -24,7 +24,7 @@ Match the following with its correct one.
 Vendanthangal, Birds
 Anamudi, Elephants
 Gir Park, Lions
-Bandipur Reserve, Tigers
+Bandipur, Tigers
 Botanical Garden, Flora
 ```
 
