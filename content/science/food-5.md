@@ -5,7 +5,7 @@
 ### Agriculture
 60% of land in our country is used for agriculture. For agriculture, there are two main seasons in our country.
 The season from June to October is called the kharif season. The season from October to March is rabi season.
-In the kharif season, the crops are watered by rain. In rabi season, rainwater has soaked into the soil, the retreating 
+In the kharif season, the crops are watered by rain. In rabi season, rainwater that has soaked into the soil, the retreating 
 monsoons and dew are the sources of water for the crops.
 
 ### Methods of Irrigation
