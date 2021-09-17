@@ -5,7 +5,7 @@
 ### Agriculture
 60% of land in our country is used for agriculture. For agriculture, there are two main seasons in our country.
 The season from June to October is called the kharif season. The season from October to March is rabi season.
-In the kharif season, the crops are watered by rain. In rabi season, rainwater that has soaked into the soil, the retreating 
+In the kharif season, the crops are watered by rain. In rabi season, rainwater has soaked into the soil, the retreating 
 monsoons and dew are the sources of water for the crops.
 
 ### Methods of Irrigation
@@ -128,9 +128,12 @@ Such food can cause diseases.
 ## Methods of Preservation
 
 Drying- It is the process in which foodstuffs are dried to remove the water content.
+
 Cooling- It is the process in which the foodstuffs are kept in the refrigerator. Through this process, micro-organisms do not get any warmth so
 they are unable to grow.
+
 Boiling- In this process the foodstuffs are boiled to destroy microorganisms.
+
 Storing in airtight containers- In this process the foodstuffs are placed in airtight containers to ensure that water or air are not entered the foodstuff.
 
 ## Fill in the blanks (By drag and drop)
