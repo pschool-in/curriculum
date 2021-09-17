@@ -69,6 +69,8 @@ Burning, Fire accident
 
 ## Multiple Choice Questions
 
+Choose the Correct Option.
+
 ```
 If your clothes catch fire, then you_______.
 shouldn’t run
@@ -115,6 +117,8 @@ If there is any burn in your skin, then you shouldn’t prick with any *object*.
 
 ## Fill in the blanks (using options)
 
+Choose the correct option.
+
 ```
 Do not touch the electrical appliances like an iron box when they are switched *on (off)*.
 After cooking, we should *close (open)* the valve of the cylinder.
@@ -124,6 +128,8 @@ When smoke spreads, it is good to *cover (open)* the nose and mouth.
 ```
 
 ## True or False:
+
+Classify the sentences as true or false.
 
 ```
 True:
