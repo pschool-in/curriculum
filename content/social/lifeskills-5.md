@@ -119,15 +119,15 @@ Chapter : maha g5: Growth and Personality Development
 
 ### Growth and development
 
-All living things have the ability to grow. Humans have slow growth development from birth to adulthood. Infants cannot do any activities by themselves. Slowly they get the coordination of controlling of the movement. They grow in weight and height slowly according to the age till adulthood. A balanced diet, regular exercise are the major factors that support growth and development for humans.
+All living things have the ability to grow. Humans have slow growth and development from birth to adulthood. Infants cannot do any activity by themselves. Slowly they get the coordination and control of the movements. They grow in weight and height slowly according till adulthood. A balanced diet and regular exercise are the major factors that support growth and development for humans.
 
 ### Skills development
 
-When we grow, our physical strength also get increases. At the same time, learning and practicing new skills rapidly leads to personality development. Animals learn from their mother how to protect themselves from their enemies, weather, etc. They learn and begin to live independently. Animals learn only a limited number of skills in their life. However, humans learn more things throughout their life. Developing skills helps one to live independently and enriching life. 
+When we grow, our physical strength increases. At the same time, learning and practicing new skills rapidly leads to personality development. Animals learn from their mother how to protect themselves from their enemies, weather, etc. They learn and begin to live independently. Animals learn only a limited number of skills in their life, however, humans learn more things throughout their life. Developing skills helps one to live independently and enrich life. 
 
 ### Heredity
 
-The characteristics and features of the parents or ancestors that are being passed to their children are called heredity. This is the reason, where many family members look similar to each other, but even then every person is unique. Everyone has a unique character trait and personality. Talents and inherent quality differ from person to person.
+The characteristics and features of parents or ancestors that are being passed to their children is called heredity. This is the reason, where many family members look similar to each other, but even then every person is unique. Everyone has their unique character traits and personality. Talents and inherent qualities differ from person to person.
 
 ## Group: Animal activities Vs Human activities
 
