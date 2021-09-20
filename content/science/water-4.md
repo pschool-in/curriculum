@@ -7,7 +7,7 @@
 1. Increases the availability of ground water.
 2. Control earth‛s temperature.
 3. Provides water to plants, animals and humans.
-4. Recycles Earth‛s supply of water constantly.
+4. Recycles earth‛s supply of water constantly.
 
 ### Did you know?
 
