@@ -59,14 +59,14 @@ blue
 curious
 furious
 
-One can have desire in their life, but not ________ about it.
+one can have desire in their life, but should not be____ about it.
 greedy
 unsatisfied
 discontent
 ascetic
 
 Undestand and act according to other’s ____________.
-emotion
+emotions
 hunger
 tiredness
 money
