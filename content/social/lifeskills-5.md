@@ -35,7 +35,7 @@ Happy, Glad
 Angry, Irritated
 Sad, Blue
 Jumbled, Confused
-Excited, enthusiatic
+Excited, Enthusiatic
 ```
 
 ## Mutiple Choice Questions
