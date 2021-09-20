@@ -46,7 +46,7 @@ emotions
 tears
 Sweat
 
-We should always think about our friend's _____ first.
+We should always think about our friends _____ first.
 virtues
 iniquity
 sin
@@ -57,7 +57,7 @@ Too much of _______, will lead to adverse effects on mental health.
 anger
 blue
 curious
-Furious
+furious
 
 One can have desire in their life, but not ________ about it.
 greedy
