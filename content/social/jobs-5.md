@@ -78,6 +78,6 @@ The government has established *FCI*for purchasing farm products.
 ### Wordsearch (label)
 Find the words listed below. (title)
 ```
-Plantation, Substinence, Farmer, Irrigation, Horticulture, Commercial, Agriculture, Crops
+Plantation, Farmer, Commercial, Crops, Drip, Revolution, Wells, Cash
 ```
 
