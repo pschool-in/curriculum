@@ -253,8 +253,7 @@ Classify the sentence as true or false.
 ```
 True:
 The circulatory system is made up of the heart, blood and blood vessels.
-Important function of the heart is to transport blood with nutrients, oxygen, waste
-and hormones.
+Important function of the heart is to transport blood with nutrients, oxygen, waste and hormones.
 We have 2 kidneys.
 
 False:
