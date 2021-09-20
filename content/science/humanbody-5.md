@@ -41,7 +41,7 @@ Later, they are expelled from the body through the *anus*.
 ## Alimentary canal (drag and drop)
 ```
 *Digestion* takes place in different parts of a long and flexible tube called the *alimentary* canal. 
-The upper end of this tube is the *mouth8 and the lower end is called the *anus*.
+The upper end of this tube is the *mouth* and the lower end is called the *anus*.
 The *shape* of this tube is not the same in all its parts.
 ```
 ## Respiration (drag and drop)
