@@ -203,7 +203,7 @@ Filtration- process of separating particles from water.
 
 Find the words listed. (title)
 ```
-Alum, Filtration, Settling, Microbes, Microorganism, Boiling, Saline, Solution
+Alum, Filtration, Settling, Microbes, Boiling, Saline, Solution
 ```
 
 # Chapter maha g4: Water for every household
