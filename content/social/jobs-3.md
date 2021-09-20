@@ -73,8 +73,8 @@ Food industry, Sugar industry, Basket-weaving
 
 Classify the given items as follows. (title)
 ```
-Raw materials: Sugarcane, Cotton, Bamboo, Wheat, Fruits, Iron, Clay
-Finished products: Cars, Clothes, Tyres, Pots, Omelet, Chairs, Fans
+Raw materials: Sugarcane, Cotton, Bamboo, Wheat, Clay
+Finished products: Clothes, Tyres, Pots, Omelet, Chairs
 ```
 
 ### Wordsearch (label)
