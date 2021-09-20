@@ -3,14 +3,17 @@ maha g5: Maps- Our companions
 
 ## Reading
 
-### Methods of showing landforms on a map
+## Methods of showing landforms on a map
 
-Contour line method- On a map, this method shows the unevenness of landforms. Land height is measured from sea level. Then we find spots of the same height. Their location is
+### Contour line method
+On a map, this method shows the unevenness of landforms. Land height is measured from sea level. Then we find spots of the same height. Their location is
 pinpointed on the map. A line connects these points. Such lines are called contour lines. It helps us to understand the land's slope and height.
 
-Layer tinting method- The spaces between contour lines are coloured in this method. Each colour represents a height. 
+### Layer tinting method
+The spaces between contour lines are coloured in this method. Each colour represents a height. 
 
-Digital elevation method- In this way, we use computers to convey data from man-made satellites to show on a map.
+### Digital elevation method
+In this way, we use computers to convey data from man-made satellites to show on a map.
 
 Physical maps can be utilised in military operations, tourism, mountaineering route planning, and regional development planning, among other things.
 
@@ -23,7 +26,7 @@ The symbols which are used to depict various objects as per convention are calle
 
 ## Group: Sign vs symbol
 
-Classify the following on basis of signs and symbols
+Classify the following on basis of conventional signs and conventional symbols
 
 ```
 Sign: Post office, Railway, Well, Spring
@@ -62,7 +65,7 @@ More than 4880, White
 True: 
 Previously, relief was shown using the ‘hill shading’ technique.
 The ‘Survey of India’ is the foremost mapmaking institute in India.
-standard signs and symbols are used to make the map easy to read.
+Standard signs and symbols are used to make the map easy to read.
 
 False:
 The height and depth of landforms can be shown easily.
