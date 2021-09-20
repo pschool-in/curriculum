@@ -186,7 +186,7 @@ Engineer, Buildings
 Find our friends. (title)
 
 ```
-Postman, Milkman, Lawyer, Driver, Conductor, Farmer, Doctor, Teacher
+Postman, Milkman, Lawyer, Driver, Conductor, Court, Police, Soldier
 ```
 
 ### Who Am I? (label)
