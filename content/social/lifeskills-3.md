@@ -18,7 +18,7 @@ To calculate and understand time, we are using certain units like a clock, calen
 
 ## Group: Past tense Vs Future tense
 
-Classify the below things based on the category of past tense and future tense.
+Classify the below options based on the category of past tense and future tense.
 
 Past tense: Gone, Came late, Reached
 
@@ -97,7 +97,7 @@ The time difference between India and London is *4(6)* hours behind.
 
 ```
 True:
-Time is majorly divided into past, present, and future.
+Time is majorly divided into past, present and future.
 Historical buildings help us to understand the history, that has happened in the past.
 “The train may come late” is future tense.
 
