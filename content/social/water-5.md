@@ -20,7 +20,7 @@ The government moves people from the affected areas to a safer place, temporaril
 ### Wordsearch (label)
 Find the answers with the help of hints. (title)
 ```
-Chlorination, Oxygenation, Pollution, Sewage, Famine, Drought, Rain, Hydrosphere
+Bottle, Pollution, Sewage, Famine, Drought, Rain, Bottle
 ```
 ### Crossword (label)
 Find the answers with the help of hints. (title)
