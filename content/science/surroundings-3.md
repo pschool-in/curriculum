@@ -14,7 +14,7 @@ Classify the below things based on the category of Wildlife Sanctuaries and Nati
 
 Wildlife Sanctuaries: Govind, Mudumalai, Periyar, Bharatpur
 
-National Parks: Anamudi, Anshi, Balphakram, Betla
+National Parks: Anamudi Shola, Anshi, Balphakram, Betla
 
 ## Match the following
 
