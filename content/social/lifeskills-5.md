@@ -6,7 +6,7 @@ Chapter : maha g5: Our Emotional World
 
 ### Emotions
 
-Emotions are also called as feelings that one experiences and processes in themselves. It should be expressed, but we should handle the emotions accordingly to the situation. Angry, sadness, excitment, fear, confused are the examples of the emotions.
+Emotions are also called as feelings that one experiences and processes in themselves. It should be expressed, but we should handle the emotions accordingly to the situation. Anger, sadness, excitment, fear, confused are the examples of the emotions.
 
 ### Emotional balance is good to life
 
