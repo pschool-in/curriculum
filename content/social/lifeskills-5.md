@@ -46,8 +46,8 @@ emotions
 tears
 Sweat
 
-Always we must think first about our friends _________.
-Virtues
+We should always think about our friend's _____ first.
+virtues
 iniquity
 sin
 dream
