@@ -97,7 +97,7 @@ Prehistoric humans were lived in *caves*.
 *Pucca house (Kutcha house)* is made up of stone, concrete, clay tiles, etc.
 Apartments are widely seen in *urban (rural)* areas.
 *Flat roofs (Hip roofs )*are commonly seen on commercial buildings.
-*Eco-friendly houses* requires less energy consumption.
+*Eco-friendly houses (Cottages)* requires less energy consumption.
 ```
 
 ## True or False
