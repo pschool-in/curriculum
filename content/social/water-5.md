@@ -29,7 +29,7 @@ Famine- when there's no water available for anything.
 Drought- when there's a scarcity of water.
 Flood- when excess water from rivers comes to people's property.
 Pollution- when water is contaminated by other substances.
-Sewage- carries waterwater.
+Sewage- carries waste water.
 ```
 ### Fill by drag (label)
 Drag and drop the correct answers. (title)
