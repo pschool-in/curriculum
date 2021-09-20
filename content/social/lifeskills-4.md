@@ -93,7 +93,7 @@ Making others *smile (cry)* is a good conduct.
 ```
 True:
 Using a mobile phone for a long time is a bad habit.
-Learning ‘how not to be’, is as important as ‘learning how to be’.
+Learning ‘how not to be’, is as important as learning ‘how to be’.
 We learn more things through exposure.
 
 False:
