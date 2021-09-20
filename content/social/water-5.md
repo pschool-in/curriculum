@@ -7,7 +7,7 @@ Waste water is impure water and thus is polluted. Sewage water carries microbes 
 This is why all industries must treat the waste water before releasing it. Similarly, sewage is also purified before releasing the water into a water body. Likewise, water is purified before being supplied across the town.
 ### Mineral water
 It is conveniently available in general stores and stations. The bottles are packed and sealed. We should always check the date of sealing and the date of expiry printed on the neck of the bottle before buying it.
-Checking for dates is important for not just mineral water bottles but other packed edibles like food and medicines.
+Checking for dates is important for not just mineral water bottles but for other packed edibles like food and medicines as well.
 ### Famine
 Places with least or no rainfall face scarcity of water, which further leads to drought. 
 When there is no water to drink, bathe, cook and for agriculture, this condition is called famine.
@@ -34,7 +34,7 @@ Sewage- carries waste water.
 ### Fill by drag (label)
 Drag and drop the correct answers. (title)
 ```
-*Mineral* water is available as in sealed bottles.
+*Mineral* water is available in sealed bottles.
 *Sewage* water is polluted water.
 *Waste water* should be treated before merging with rivers.
 *Oxygenation* means mixing oxygen and water through pumps.
@@ -59,7 +59,7 @@ Droughts lead to scarcity of water.
 Famine is a natural disaster.
 We cannot consume polluted water.
 False:
-Waster water is directly disposed into rivers and seas.
+Waste water is directly disposed into rivers and seas.
 Water pollution refers to the purification of water.
 We should ignore the manufcture and expiry date in mineral water bottles.
 ```
