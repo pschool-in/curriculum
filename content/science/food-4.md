@@ -14,7 +14,7 @@ we obtain the grains from the ears of bajra.
 Do you know?
 Birds come to eat the tender grains as the grains grow. Scarecrows must be placed and slung shots must be fired to scare the birds away.
 
-We get different types of food from different places. We get fish from water. Fruits like amla, jamun, karvanda,bor grow in forests.
+We get different types of food from different places. Fruits like amla, jamun, karvanda,bor grow in forests.
 The grains and other foodstuffs are gathered and sold all over the country. They are transported by means of trucks or goods trains. 
 It is the turn of porters and truck-drivers to put in their labour. Transport costs a lot, too. All the processes of purchasing, transporting
 and marketing are expensive.
