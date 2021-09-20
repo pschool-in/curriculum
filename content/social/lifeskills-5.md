@@ -88,8 +88,8 @@ We should able to do *balance* between the thoughts and emotions.
 
 ```
 If you get angry, then you should not revert in a *bad (good)* way to others.
-We should help each other, to get rid of the *flaws(talent)*.
-Sometimes being *patient (impatient)* in life, is the best emotional intelligence.
+We should help each other to get rid of the *flaws(talent)*.
+Sometimes being *patient (impatient)* in life is the best emotional intelligence.
 *Society (Food)*influences one’s emotion.
 *Hunger (Anger)* is not a type of emotion.
 ```
@@ -98,9 +98,9 @@ Sometimes being *patient (impatient)* in life, is the best emotional intelligenc
 
 ```
 Correct:
-Ram used to sing a song, whenever he feels happy.
+Ram used to sing a song, whenever he felt happy.
 Rahim’s parents were so happy, because she won the swimming race.
-Robert was so happy yesterday, because he cent percent in all subjects. 
+Robert was so happy yesterday, because he scored cent percent in all subjects. 
 
 Wrong:
 Alex is a chess champion, but chess is a boring game for him.
@@ -119,7 +119,7 @@ Chapter : maha g5: Growth and Personality Development
 
 ### Growth and development
 
-All living things have the ability to grow. Humans have slow growth and development from birth to adulthood. Infants cannot do any activity by themselves. Slowly they get the coordination and control of the movements. They grow in weight and height slowly according till adulthood. A balanced diet and regular exercise are the major factors that support growth and development for humans.
+All living things have the ability to grow. Humans have slow growth and development from birth to adulthood. Infants cannot do any activity by themselves. Slowly they get the coordination and control of the movements. They grow in weight and height slowly till adulthood. A balanced diet and regular exercise are the major factors that support growth and development for humans.
 
 ### Skills development
 
