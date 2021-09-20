@@ -133,9 +133,9 @@ The characteristics and features of parents or ancestors that are being passed t
 
 Classify the below things based on the category of Animal and Human activities.
 
-Animal activities: Hunting, Sixth sense, climbing the tree
+Animal activities: Hunting, Sixth sense, Climbing the tree
 
-Human activities: Skipping, cycling, playing games
+Human activities: Skipping, Cycling, Playing games
 
 ## Match the following
 
