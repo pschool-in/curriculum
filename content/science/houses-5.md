@@ -18,7 +18,7 @@ Food, water, clothing, and shelter are more important basic things for human bei
 
 ### Depletion of natural resources
 
-The world population is increasing day by day. As a result, the number of houses is increasing. Natural resources are used in large amounts to fulfill mankind’s needs. For example, extracting sand from riverbeds, cutting down trees to clear the land, digging more hills for quarrying, and using exhaustible sources of energy. Using plenty of natural resources for a long time will put our world in danger. For urbanization development, many agricultural lands, forests are destroyed and natural resources are getting wasted. Usually, to form the exhaustible sources in nature, it will lakhs of time. So, it is in our hands, to protect our environment and natural resources.
+The world population is increasing day by day. As a result, the number of houses are increasing. Natural resources are used in large amounts to fulfill mankind’s needs. For example, extracting sand from riverbeds, cutting down trees to clear the land, digging more hills for quarrying, and using exhaustible sources of energy. Using plenty of natural resources for a long time will put our world in danger. For urbanization development, many agricultural lands, forests are destroyed and natural resources are getting wasted. Usually, to form the exhaustible sources in nature, it will lakhs of time. So, it is in our hands, to protect our environment and natural resources.
 
 ### Home Sweet Home
 
@@ -86,7 +86,7 @@ Drag and drop the words at proper place
 Houseboats are commonly seen in *Kerala*.
 *Tents* are lightweight and it is easy to carry along with us on travel.
 *Cottages* are widely seen in hilly areas.
-Prehistoric humans were lived in *caves*.
+Prehistoric humans lived in *caves*.
 *Tiles* are used for covering floors, walls, etc.
 ```
 
@@ -106,7 +106,7 @@ Apartments are widely seen in *urban (rural)* areas.
 True:
 Tents are made up of nylon or canvas.
 House helps us to protect from the anti-social elements.
-Ventilation is a more important factor in the house.
+Ventilation is more important in a house.
 
 False:
 Quarrying helps to protect natural sources.
