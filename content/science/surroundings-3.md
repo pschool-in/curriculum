@@ -6,7 +6,9 @@ Chapter: tn-3-2-social: Sanctuaries
 
 ### What are Sanctuaries?
 
-Sanctuary is a place, where animals and birds are kept together. They are protected from hunting and other harmful human activities. They can lead a peaceful life with a good ecosystem. Sanctuaries are run by the government. Our government also runs the biosphere reserves, national parks, sanctuaries. They conserve plants, wild animals, birds, rare and diverse species. For example, Jim Corbett National Park is known for Bengal tigers. The conservation efforts created a huge impact in saving wild animals. Many wild animal populations which had once decreased have once again started to increase in India.
+Sanctuary is a place, where animals and birds are kept together. They are protected from hunting and other harmful human activities. They can lead a peaceful life with a good ecosystem. Sanctuaries are run by the government. Our government also runs the biosphere reserves, national parks, sanctuaries. They conserve plants, wild animals, birds, rare and diverse species. 
+
+For example, Jim Corbett National Park is known for Bengal tigers. The conservation efforts created a huge impact in saving wild animals. Many wild animal populations which had once decreased have once again started to increase in India.
 
 ## Group: Wildlife Sanctuaries Vs. National Parks
 
