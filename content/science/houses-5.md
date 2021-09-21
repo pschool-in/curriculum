@@ -10,11 +10,11 @@ It shelters us, protects us from almost all threats, gives us protection against
 
 ### Different types of houses
 
-Different types of houses are built according to the climate and region. For example, house structure varies in plains, marshy areas, heavy rainfall regions, mountains, deserts, etc.  The structure of the houses varies from the region to region. So, people build houses that are suitable for the climate and natural resources. Building materials to construction differs for every type of house.  Moreover, one can see the different types of houses in cities and villages.  For example, you can see houses like mud houses, huts, bungalows, apartments, independent houses, etc. 
+Different types of houses are built according to the climate and region. For example, house structure varies in plains, marshy areas, heavy rainfall regions, mountains, deserts, etc. The structure of the houses varies from the region to region. So, people build houses that are suitable for the climate and natural resources. Building materials for construction differ for each type of house.  Moreover, one can see the different types of houses in cities and villages. For example, you can see houses like mud houses, huts, bungalows, apartments, independent houses, etc. 
 
 ### People and their houses
 
-Food, water, clothing, and shelter are more important basic things for human beings. The shelter is needed for every living thing. Due to some reason, some people lack their basic needs. These people live the homeless life. They are seeking shelter in subways, roadside pathways, under bridges, open grounds, etc. It is a serious social problem, that these kinds of people leading their life with insufficient livelihood. To eradicate this problem, our government introduces many schemes and taking huge steps to fulfill the basic needs of these people. 
+Food, water, clothing, and shelter are more important basic things for human beings. The shelter is needed for every living thing. Due to some reason, some people lack their basic needs. These people live the homeless life. They are seeking shelter in subways, roadside pathways, under bridges, open grounds, etc. It is a serious social problem, that these kinds of people leading their life with insufficient livelihood. To eradicate this problem, our government is introducing many schemes and taking huge steps to fulfill the basic needs of these people. 
 
 ### Depletion of natural resources
 
@@ -22,7 +22,7 @@ The world population is increasing day by day. As a result, the number of houses
 
 ### Home Sweet Home
 
-It is our responsibility to save and protect natural resources and the environment. So that future generations can use this utility well. It is necessary to construct eco–friendly houses and should increase the use of non-exhaustible sources of energy.  Recycling water, garbage, avoiding plastics, artificial materials, and colors will help in the protection of our environment.
+It is our responsibility to save and protect natural resources and the environment. So that future generations can use this utility well. It is necessary to construct eco–friendly houses and should increase the use of non-exhaustible sources of energy. Recycling water, garbage, avoiding plastics, artificial materials, and colors will help in the protection of our environment.
 
 ## Group: Exhaustible sources Vs. Non - exhaustible sources
 
