@@ -8,7 +8,9 @@
 ### Indian States and its offical languages
 
 Andhra Pradesh       -   Telugu
+
 Arunachal Pradesh    -   English
+
 Assam                -   Assamese
 Bihar                -   Hindi
 Chhattisgarh         -   Hindi
