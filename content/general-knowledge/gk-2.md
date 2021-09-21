@@ -12,31 +12,57 @@ Andhra Pradesh       -   Telugu
 Arunachal Pradesh    -   English
 
 Assam                -   Assamese
+
 Bihar                -   Hindi
+
 Chhattisgarh         -   Hindi
+
 Goa                  -   Konkani
+
 Gujarat              -   Gujarati
+
 Haryana              -   Hindi
+
 Himachal Pradesh     -   Hindi
+
 Jammu & Kashmir      -   Urdu
+
 Jharkhand            -   Hindi
+
 Karnataka            -   Kannada
+
 Kerala               -   Malayalam
+
 Madhya Pradesh       -   Hindi
+
 Maharashtra          -   Marathi
+
 Manipur              -   Meitei (Manipuri)
+
 Meghalaya            -   English
+\
 Mizoram              -   Mizo, English & Hindi
+
 Nagaland             -   English
+
 Odisha               -   Odia
+
 Punjab               -   Punjabi
+
 Rajasthan            -   Hindi
+
 Sikkim               -   English
+
 Tamil Nadu           -   Tamil
+
 Telangana            -   Telugu 
+
 Tripura              -   Bengali, English & Kokborok
+
 Uttar Pradesh        -   Hindi
+
 Uttarakhand          -   Hindi
+
 West Bengal          -   Bengali
 
 ## Match the following
@@ -111,32 +137,59 @@ Bengali is the official language used in Jammu and kashmir.
 ### Indian States and state animal
 
 Andhra pradesh        - 	Blackbuck
+
 Arunachal Pradesh     -   Mithun
+
 Assam                 -   One-horned Rhino
+
 Bihar                 -   Gaur
+
 Chhattisgarh          -   Wild Buffalo
+
 Goa                   -   Gaur
+
 Gujarat               -   Asiatic Lion
+
 Haryana               -   Blackbuck
+
 Himachal Pradesh      -   Snow Leopard
+
 Jharkhand             -   Elephant
+
 Karnataka             -   Elephant
+
 Kerala                -   Elephant
+
 Madhya Pradesh        -   Swamp Deer
+
 Maharashtra           -   Giant Squirrel
+
 Manipur               -   Sangai
+
 Meghalaya             -   Clouded Leopard
+
 Mizoram               -   Serow
+
 Nagaland              -   Mithun
-Odisha                -   Sambhar deer
+
+Odisha                -   Sambhar deer 
+
 Punjab                -   Blackbuck
+
 Rajasthan             -   Chinkara
+
 Sikkim                -   Red Panda
+
 Tamil Nadu            -   Nilgiri Tahr
+
 Telangana             -   Spotted Deer
+
 Tripura               -   Phayre’sLangur
+
 Uttarakhand           -   Musk Deer
+
 Uttar Pradesh         -   Swamp Deer
+
 West Bengal           -   Fishing cat
 
 
