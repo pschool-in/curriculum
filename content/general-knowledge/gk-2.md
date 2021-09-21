@@ -40,7 +40,7 @@ Maharashtra          -   Marathi
 Manipur              -   Meitei (Manipuri)
 
 Meghalaya            -   English
-\
+
 Mizoram              -   Mizo, English & Hindi
 
 Nagaland             -   English
