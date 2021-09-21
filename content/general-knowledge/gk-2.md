@@ -142,7 +142,7 @@ Andhra pradesh        - 	Blackbuck
 
 Arunachal Pradesh     -   Mithun
 
-Assam                 -   One-horned Rhino
+Assam                 -   Indian One-horned Rhino
 
 Bihar                 -   Gaur
 
