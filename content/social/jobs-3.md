@@ -6,10 +6,10 @@ People work to fulfill their needs; some people's work tends to fulfill the need
 
 ### Types of occupations
 
-1. Nature-based: agriculture, fishing, etc.
-2. Manufacture: clothes, automobiles, etc.
-3. Trade: shopkeeping, selling products, etc.
-4. Providing services: teacher, doctor, etc.
+1. Nature-based: Agriculture, Fishing, etc.
+2. Manufacture: Clothes, Automobiles, etc.
+3. Trade: Shopkeeping, Selling products, etc.
+4. Providing services: Teacher, Doctor, etc.
 
 ### Importance of agriculture
 
@@ -62,11 +62,11 @@ Sugar industry, Cloth industry, Poultry industry
 Cotton.
 Garment industry, Sugar industry, Food industry
 Bamboo.
-Basket-weaving, Garment industry, Food industry
+Basket-weaving industry, Garment industry, Food industry
 Maida.
 Bakery industry, Garment industry, Poultry industry
 Wheat.
-Food industry, Sugar industry, Basket-weaving
+Food industry, Sugar industry, Basket-weaving industry
 ```
 
 ### Drag and Drop (label)
