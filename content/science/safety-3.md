@@ -45,7 +45,7 @@ We should stay away from toxic substances like poisonous chemicals, pesticides, 
 
 ### Sharp items and glasswares
 
-Handling glassware and sharp items are more important because very easily it causes injuries very easily. So we should handle them with precaution.
+Handling glassware and sharp items is more important because it causes injuries very easily. So we should handle them with precaution.
 
 ## Group: Road Safety Vs. Fire Safety
 
@@ -167,7 +167,7 @@ Child line service was established across India under the Ministry of Women and 
 2. A family member secretly touching the child’s private part.
 3. A stranger secretly asks a child to touch their private part.
 4. Children shouldn’t accept food, gifts from strangers and should be made aware of the way that, some people bribe kids to perform certain bad touches.
-5. If other children try to touch one another’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
+5. If other children try to touch each other’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
 
 ## Group: Good touch Vs Bad touch
 
