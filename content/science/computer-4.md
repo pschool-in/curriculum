@@ -23,4 +23,4 @@ There are five generations of computers.
 2. Second-generation (1959 - 1964): Transistors replaced vacuum tubes. It allowed computers to become smaller, faster, cheaper, more energy-efficient, and more reliable. Second-generation computers used assembly, languages. These were also the first computers that stored their instructions in their memory. Examples: IBM 1920, 1BM 1401, etc
 3. Third-generation (1965 - 1970): The development of the integrated circuit increased the speed and efficiency of computers. Computers for the first time became accessible to a mass audience.
 4. Fourth-generation (1971 - today): The microprocessor brought the fourth generation of computers. These small computers became more powerful. The concept of the Internet was introduced. 
-5.Fifth-generation (Today to future): Based on Artificial Intelligence (AI). It is still in development. 
+5. Fifth-generation (Today to future): Based on Artificial Intelligence (AI). It is still in development. 
