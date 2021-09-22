@@ -342,7 +342,7 @@ Chhattisgarh, Hill Myna
 Goa, Flame Throated Bulbul
 ```
 
-## Multiple Choice Questions,
+## Multiple Choice Questions
 
 ```
 ____________ is the state bird of Gujarat.
