@@ -24,3 +24,35 @@ There are five generations of computers.
 3. Third-generation (1965 - 1970): The development of the integrated circuit increased the speed and efficiency of computers. Computers for the first time became accessible to a mass audience.
 4. Fourth-generation (1971 - today): The microprocessor brought the fourth generation of computers. These small computers became more powerful. The concept of the Internet was introduced. 
 5. Fifth-generation (Today to future): Based on Artificial Intelligence (AI). It is still in development. 
+
+## Match the following
+
+```
+UNIVAC, first-generation
+IBM 1920, second-generation
+Internet, fourth-generation
+AI, fifth-generation
+```
+
+## Fill in the Blanks (using options)
+
+```
+The *first (second)* computers used vacuum tubes and were very expensive.
+*Transistors (Capacitors)*replaced vacuum tubes.
+The development of the integrated circuit increased the *speed (time)* and efficiency of computers. 
+The microprocessor brought the *fourth (fifth)* generation of computers. 
+Second-generation computers used *assembly (operating)* languages. 
+```
+
+## True or False
+
+```
+True:
+A tally stick was an ancient memory aid device.
+An abacus is a mechanical device used to aid an individual in performing mathematical calculations.
+The Jacquard loom is a mechanical loom.
+
+False:
+We use first-generation computers nowadays.
+AI is used in fourth-generation computers.
+```
