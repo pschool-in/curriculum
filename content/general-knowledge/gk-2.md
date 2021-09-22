@@ -321,8 +321,86 @@ Tamil Nadu            -     Emerald Dove
 
 Telangana	            -     Indian Roller (Palapitta)
 
+Tripura               -     Green Imperial Pigeon
 
+Uttarakhand           -     Himalayan Monal
 
+Uttar Pradesh         -     Sarus Crane
+
+West Bengal           -     White-throated King Fisher
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Andhra Pradesh, Indian Roller
+Arunachal Pradesh, Great Hornbill
+Assam, White-winged Wood Duck
+Bihar, Indian Roller
+Chhattisgarh, Hill Myna
+Goa, Flame Throated Bulbul
+```
+
+## Multiple Choice Questions,
+
+```
+____________ is the state bird of Gujarat.
+Greater Flamingo, Koel, Indian Roller
+
+____________ is the state bird of Haryana.
+Black Francolin, Hill Myna, Great Hornbill
+
+____________ is the state animal of Himachal Pradesh.
+Western Tragopan, Flame Throated Bulbul, Paradise Fly catcher
+
+____________ is the state animal of Jharkhand.
+Koel, Western Tragopan, Greater Flamingo,
+
+____________ is the state animal of Jammu & Kashmir.
+Black-necked Crane, Emerald Dove, Blood Pheasant
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The state bird of Karnataka is *Indian Roller*.
+The state bird of Kerala is *Great Hornbill*.
+The state bird of Madhya Pradesh is *Paradise Fly catcher*.
+The state bird of Maharashtra is *Green Imperial Pigeon*.
+The state bird of Manipur is *Mrs. Hume’s Pheasant*.
+The state bird of Meghalaya is *Hill Myna*.
+```
+
+## Fill in the blanks (Using Options)
+
+```
+In Tamil Nadu, the state bird is *Emerald Dove (Asian Koel)*.
+In Mizoram, the state bird is *Mrs. Hume’s Pheasant (Peacock)*.
+In Nagaland, the state bird is *Blyth’s Tragopan (Hill Myna)*.
+In Orissa, the state bird is *Peacock (Sarus Crane)*.
+In Punjab, the state bird is *Northern Goshawk (Great Hornbill)*.
+In Rajasthan, the state bird is *Indian Bustard (White-throated King Fisher)*.
+```
+
+## True or False
+
+```
+True:
+Blood Pheasant is the state bird of Sikkim.
+Indian Roller is the state bird of Telangana.
+Green Imperial Pigeon is the state bird of Tripura.
+White-throated King Fisher is the state bird of West Bengal.
+
+False:
+Himalayan Monal is not the state bird of Uttarakhand.
+Sarus Crane is not the state bird of Uttar Pradesh.
+Andaman Wood Pigeon is the state bird of 	Ladakh.
+```
+
+******************************************************************************************************************************************************************************
 
 
 
