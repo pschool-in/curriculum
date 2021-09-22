@@ -239,6 +239,34 @@ The state animal for Jammu and Kashmir is *Hangul*.
 The state animal for Jharkhand is *Elephant*.
 ```
 
+## Fill in the blanks (Using Options)
+
+```
+In Meghalaya, the state animal is * Clouded Leopard (Elephant)*.
+In Mizoram, the state animal is * Serow (Lion)*.
+In Nagaland, the state animal is *Mithun (Giraffee)*.
+In Odisha, the state animal is * Sambhar deer (Serow)*.
+In Tamil Nadu, the state animal is *Nilgiri Tahr (Blackbuck)*.
+In Punjab, the state animal is *Blackbuck (Nilgiri Tahr)*.
+```
+
+## True or False
+
+```
+True: 
+Red Panda is the state animal for Sikkim.
+Chinkara is the state animal for Rajasthan.
+Spotted Deer is the state animal for Telangana.
+Fishing Cat is the state animal for West Bengal.
+
+False:
+Phayre’sLangur is not the state animal for Tripura.
+Swamp Deer is not the state animal for Uttar Pradesh.
+Elephant is the state animal for Uttarakhand.
+```
+
+******************************************************************************************************************************************************************************
+
 
 
 
