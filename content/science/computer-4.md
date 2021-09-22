@@ -56,3 +56,51 @@ False:
 We use first-generation computers nowadays.
 AI is used in fourth-generation computers.
 ```
+## Multiple Choice Question
+
+```
+Vacuum tubes are used in _____________ generation computers.
+first, second, third, fourth
+
+First-generation computer uses ______________ language.
+machine, assembly, java
+
+The concept of IC increased computer's ________________.
+*speed, *accuracy, size, all
+
+Primitive language is used to command __________________.
+ENIVAC, EDAC, EDVAC
+```
+## Name the following (drag and drop)
+```
+An ancient memory aid device to record and document numbers, quantities, or even messages - *tally stick*
+A mechanical device used to aid an individual in performing mathematical calculations - *abacus*
+An automatic loom controlled by punched cards - *jacquard loom*
+A mechanical calculator - *arithmometer*
+```
+## What does it stand for? (fill by options)
+```
+AI - *Artificial (Automatic)* Intelligence
+IC - *Integrated (Internet)* Circuit
+CPU - Central *Processing (Programing)* Unit
+```
+## Match the following 
+
+Match the generation of the computer with the appropriate year.
+```
+first, 1946
+second, 1959
+third, 1965
+fourth, 1971
+fifth, today
+```
+## Who invented it? (drag and drop)
+```
+Napier's bones - *John Napier*
+Slide rule - *William Oughtred*
+Difference engine - *Charles Babbage*
+Pascaline - *Blaise Pascal*
+Stepped Reckoner - *Gottfried Wilhelm Leibniz*
+Jacquard loom - *Joseph-Marie Jacquard*
+Arithmometer - *Thomas de Colmar*
+```
