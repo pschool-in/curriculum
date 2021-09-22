@@ -126,7 +126,7 @@ In West Bengal, *Bengali (Kashmiri)* is the official language.
 ```
 True: 
 Hindi is the official language of Chhattisgarh.
-Hindi is the official language ofHaryana.
+Hindi is the official language of Haryana.
 Hindi is the official language of Himachal pradesh.
 
 False:
@@ -232,11 +232,11 @@ Sangai, Panda, Gorilla.
 Drag and drop the words at proper place
 
 ```
-The state animal for Gujarat is *Asiatic Lion*
-The state animal for Haryana is *Blackbuck*.
-The state animal for Himachal Pradesh is * Snow Leopard*.
-The state animal for Jammu and Kashmir is *Hangul*.
-The state animal for Jharkhand is *Elephant*.
+The state animal of Gujarat is *Asiatic Lion*
+The state animal of Haryana is *Blackbuck*.
+The state animal of Himachal Pradesh is * Snow Leopard*.
+The state animal of Jammu and Kashmir is *Hangul*.
+The state animal of Jharkhand is *Elephant*.
 ```
 
 ## Fill in the blanks (Using Options)
