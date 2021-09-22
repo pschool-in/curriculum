@@ -114,8 +114,8 @@ People in Maharastra speak *Marathi*.
 ## Fill in the blanks (Using Options)
 
 ```
-In Tamil Nadu, * Tamil (Malayalam)*is used as the official language.
-In Punjab, * Punjabi (Odia)* is used as the official language.
+In Tamil Nadu, *Tamil (Malayalam)*is used as the official language.
+In Punjab, *Punjabi (Odia)* is used as the official language.
 In Rajasthan, *Hindi (Punjabi)* is used as the official lamguage.
 In Telangana, *Telugu (Tamil)* is used as the official language.
 In West Bengal, *Bengali (Kashmiri)* is used as the official language.
@@ -209,6 +209,37 @@ Chhattisgarh, Wild Buffalo
 Gujarat,  Asiatic Lion
 ```
 ## Multiple Choice Questions
+
+```
+________  is the state animal for Karnataka.
+Elephant, Tiger, Giraffe
+
+___________ is the state animal for Madhya Pradesh.
+Swamp Deer, Sangai, Lion
+
+____________ is the state animal for Kerala.
+Elephant, Monkey, Fox
+
+___________ is the state animal for Maharashtra.
+Giant Squirrel, Snake, Crocodile
+
+____________ is the state animal for Manipur.
+Sangai, Panda, Gorilla.
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The state animal for Gujarat is *Asiatic Lion*
+The state animal for Haryana is *Blackbuck*.
+The state animal for Himachal Pradesh is * Snow Leopard*.
+The state animal for Jammu and Kashmir is *Hangul*.
+The state animal for Jharkhand is *Elephant*.
+```
+
+
 
 
 
