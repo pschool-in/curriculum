@@ -158,6 +158,8 @@ Himachal Pradesh      -   Snow Leopard
 
 Jharkhand             -   Elephant
 
+Jammu and Kashmir     - 	Hangul
+
 Karnataka             -   Elephant
 
 Kerala                -   Elephant
