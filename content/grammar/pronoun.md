@@ -132,9 +132,9 @@ I know where *we* can go.
 Dad is coming with *us* to buy the school supplies. 
 After *we* eat, let’s watch a movie.
 Let *us* all go for a long drive.
+*We* went for hiking today.
+The dog is chasing*us*.
 ```
-
-
 
 ## She vs Her
 
