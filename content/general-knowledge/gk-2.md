@@ -83,19 +83,19 @@ Gujarat, Gujarati
 ## Multiple Choice Questions
 
 ```
-__________ is the official language used in Madhya Pradesh.
+__________ is the official language of Madhya Pradesh.
 Hindi, Tamil, Malayalam
 
-_________ is the official language used in Maharastra.
+_________ is the official language of Maharastra.
 Marathi, Odia, Kannada
 
-_________ is the official language used in Manipur.
+_________ is the official language of Manipur.
 Meitei, Urdu, Malayalam
 
-_________ is the official language used in Meghalaya.
+_________ is the official language of Meghalaya.
 English, Tamil, Telugu
 
-________ is the official language used in Odisha.
+________ is the official language of Odisha.
 Odia, Malayalam, Kannada
 ```
 
@@ -114,24 +114,24 @@ People in Maharastra speak *Marathi*.
 ## Fill in the blanks (Using Options)
 
 ```
-In Tamil Nadu, *Tamil (Malayalam)*is used as the official language.
-In Punjab, *Punjabi (Odia)* is used as the official language.
-In Rajasthan, *Hindi (Punjabi)* is used as the official lamguage.
-In Telangana, *Telugu (Tamil)* is used as the official language.
-In West Bengal, *Bengali (Kashmiri)* is used as the official language.
+In Tamil Nadu, *Tamil (Malayalam)*is the official language.
+In Punjab, *Punjabi (Odia)* is the official language.
+In Rajasthan, *Hindi (Punjabi)* is the official lamguage.
+In Telangana, *Telugu (Tamil)* is the official language.
+In West Bengal, *Bengali (Kashmiri)* is the official language.
 ```
 
 ## True or False
 
 ```
 True: 
-Hindi is the official language used in Chhattisgarh.
-Hindi is the official language used in Haryana.
-Hindi is the official language used in  Himachal pradesh.
+Hindi is the official language of Chhattisgarh.
+Hindi is the official language ofHaryana.
+Hindi is the official language of Himachal pradesh.
 
 False:
-Hindi is the official language used in Karnataka.
-Bengali is the official language used in Jammu and kashmir.
+Hindi is the official language of Karnataka.
+Bengali is the official language of Jammu and kashmir.
 ```
 
 ******************************************************************************************************************************************************************************
