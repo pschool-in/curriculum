@@ -2,7 +2,9 @@
 
 1. Indian States and its offical languages
 
-2. Indian States and state animal
+2. Indian States and state animals
+
+3. Indian states and state birds
 
 
 ## Content
@@ -136,7 +138,7 @@ Bengali is the official language of Jammu and kashmir.
 
 ******************************************************************************************************************************************************************************
 
-### Indian States and state animal
+### Indian States and state animals
 
 Andhra pradesh        - 	Blackbuck
 
@@ -266,6 +268,76 @@ Elephant is the state animal of Uttarakhand.
 ```
 
 ******************************************************************************************************************************************************************************
+
+### Indian states and state birds
+
+Andhra Pradesh        -   	Indian Roller
+
+Arunachal Pradesh     -     Great Hornbill
+
+Assam                 -     White-winged Wood Duck
+
+Bihar                 -     Indian Roller
+
+Chhattisgarh          -     Hill Myna
+
+Goa                   -     Flame Throated Bulbul
+
+Gujarat               -     Greater Flamingo
+
+Haryana               -     Black Francolin
+
+Himachal Pradesh      -     Western Tragopan
+
+Jammu & Kashmir       -     Black-necked Crane
+
+Jharkhand             -     Koel
+
+Karnataka             -     Indian Roller
+
+Kerala                -     Great Hornbill
+
+Madhya Pradesh        -     Paradise Fly catcher
+
+Maharashtra           -     Green Imperial Pigeon
+
+Manipur               -     Mrs. Hume’s Pheasant
+
+Meghalaya             -     Hill Myna
+
+Mizoram               -     Mrs. Hume’s Pheasant
+
+Nagaland              -     Blyth’s Tragopan
+
+Orissa                -     Peacock
+
+Punjab                -     Northern Goshawk
+
+Rajasthan             -     Indian Bustard
+
+Sikkim                -     Blood Pheasant
+
+Tamil Nadu            -     Emerald Dove
+
+Telangana	            -     Indian Roller (Palapitta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
