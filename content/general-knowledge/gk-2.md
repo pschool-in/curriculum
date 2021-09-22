@@ -483,7 +483,7 @@ Gujarat, Marigold
 _______________ is the state flower of Assam.
 Foxtail orchid, Bluewater lily, Kachnar
 
-_______________ is the state flwer of Haryana.
+_______________ is the state flower of Haryana.
 Lotus, Jarul, Palash
 
 ______________ is the state flower of Himachal Pradesh.
