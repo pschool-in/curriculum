@@ -97,9 +97,11 @@ Aarav: Because they have no-body to play with.
 Arin: Aaravvv!
 ```
 
-## Passage-3
+## Passage-3 (g4)
+
+Choose the correct option for each blank.
 ```
-Sakshi *is (was)* six years old, and she lives *on (at)* a farm. 
+Sakshi *is (was)* six years old, and she lives *in (at)* a farm. 
 They have a big cornfield and *a (an)* small vegetable garden. Sakshi likes *to (in)* help her mother work in the garden. 
 They have *a (the)* small house, a big red barn, two horses, three pigs, one dog, *and (or)* one cow. 
 Sakshi thinks that the pigs *are (is)* funny when they roll around in the mud. 
@@ -108,15 +110,101 @@ The cow *is (was)* the biggest of all of their animals, and it makes the loudest
 Sakshi always runs *to (at)* her papa when the cow lifts its head to MOOOO!
 ```
 
-## Passage-4
+## Passage-4 (g4)
+
+Choose the correct verbs.
 ```
 Raj *lives (live)* in a small town in India. 
 The *closest (close)* big city is an hour’s drive away. 
-Raj *looks (look)* forward to going to the city because when they drive through the countryside they almost always see cattles. 
-Raj *loves (love)* cattles. 
+Raj *looks (look)* forward to going to the city because when they drive through the countryside they almost always see cattle. 
+Raj *loves (love)* cattle. 
 A baby is called a calf, female is called a cow, and male is called an ox. 
-A group of *cattles (cattle)* is called a herd. 
+A group of cattle is called a herd. 
 It is an amazing sight for Raj! 
-He knows that cattles are sound and quiet animals and *graze (grazes)* on grass.
+He knows that cattle are sound and quiet animals and *graze (grazes)* on grass.
 Raj also *knows (know)* that cows are sacred animals in India.
+```
+
+## Passage-5
+
+Choose the correct tense.
+```
+Atika’s teacher, Mr. Khan, gave an assignment to the class. 
+The assignment *was (is)* to watch the weather report every night for a week. 
+He also *gave (give)* them a worksheet to fill out while they watched. 
+Mr. Khan *said (says)* to look at the large weather map that they *would (will)* see behind the weather reporter. 
+He *told (tells)* them that they might see a large blue line or a large red line on the map.
+He *said (says)* that a blue line is a high pressure area that usually brings dry weather. 
+A red line is a low pressure area that usually brings wet weather. 
+When blue and red lines meet, there usually *is (was)* stormy weather on the way. 
+On the worksheet, there was a box to fill in with the expected high temperature for the next day. 
+There *were (are)* other boxes to check if it was expected to rain, or to be cloudy, or to be windy.
+Atika watched the weather report and filled in the worksheet each night. 
+She *noticed (notices)* that the next day was usually a lot like the report said it would be. 
+One day’s weather map *showed (shows)* a blue line right next to a red line, and the next day there was a rainstorm. 
+Atika decided that she *liked (like)* this kind of homework assignment.
+```
+
+## Passage-6
+
+Choose the right words.
+```
+Whales are the *biggest (bigger)* creatures that have ever lived on the earth. 
+They are even bigger *than (then)* the dinosaurs. 
+Scientists think that whales *once (one)* walked on land. 
+They believe this because whales are not *fish (fishes)*—they are mammals.
+They communicate with each other, and hunt for food in groups. 
+Female whales keep *their (there)* babies close by.
+Sometimes a whale will lift *its (it's)* head out of the water because whales are mammals, they must breathe air. 
+They breathe through a *hole (whole)* on their back. 
+However, they can hold their *breath (breathe)* for a very long time. 
+Whales never really sleep. 
+Instead, they swim along with *their (there)* blowhole above the water.
+```
+
+## Passage-7
+
+Choose the correct option for each blank.
+```
+Patty *the (a)* Milkmaid was going to market, carrying *her (his)* milk on *her (his)* head. 
+As she walked *along (by)* she began to plan what to do with the money she would *get (have)* for the milk. 
+"I'll buy *some (few)* chickens from Farmer Malik," she said to herself. 
+"They will lay eggs each *morning (mornings)*. 
+Then I will *sell (cell)* the eggs to the bakery.
+With the money that I get from the sale of the eggs, I'll buy myself a pretty new dress and a ribbon for my hair."
+
+Patty walked along, thinking about all *these (this)* things. 
+She forgot all about the milk she *was (were)* carrying on her head. 
+She tossed her head back and all the milk *spilled (spoiled)* out onto the road. 
+So Patty had to *go (goes)* home and tell her mother what had happened. 
+"Ah, my child," *said (says)* her mother, *don’t (can't)* count your chickens before they hatch.”
+```
+
+## Passage-8
+
+Choose the correct option for each blank.
+```
+Arin took her new bike out in the street.
+His dad was going to *teach (taught)* him how to ride it.
+He said it was easy and not to *worry (worried)*, but he wasn’t so sure.
+He *got (get)* on the bike, and his dad *ran (run)* beside him, holding on to keep him steady.
+The bike wiggled a little, but Arin *rode (ride)* to the end of the street.
+He *put (pat)* on the brakes and looked around.
+His dad was very far from him—he had been *riding (rode)* all by himself!
+After that, Arin never *worried (worrying)* about riding a bike.
+He knew that she could do it.
+```
+
+## Passage-9
+
+Choose the correct option for each blank.
+```
+*The (A)* eye doctor said Mona needed glasses. 
+Mona *picked (pick)* out a pair of cute pink glasses. 
+But when the glasses *were (was)* ready, Mona wasn’t so sure. 
+When she went to school the next day, she *kept (keeps)* her new glasses in her backpack. 
+She went into her classroom, and saw her teacher, Mrs. Sharma. 
+Mrs. Sharma *was (is)* wearing new pink glasses! 
+Now Mona wasn’t worried about wearing her new glasses. 
+Now she *thought (thinks)* her new glasses were wonderful!
 ```
