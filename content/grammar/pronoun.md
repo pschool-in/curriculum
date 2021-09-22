@@ -76,6 +76,30 @@ Am *I* invited?
 She gave *me* some coins.
 ```
 
+```
+*I* went to the library to get some books.
+Preeti and *I* are going to a movie tomorrow.
+My mother told *me* to focus on my studies.
+Will you help *me* clean the kitchen.
+*I* need to clean up my room.
+```
+
+```
+Everyone is happy for *me*.
+Dad dropped *me* to school today.
+*I* really want that ice-cream.
+You and *I* are good friends.
+Can *I* stay at your home? 
+```
+
+```
+Is that present for *me*?
+*I* have a surprise gift for john.
+Will you play with *me* tomorrow?
+Can *I* have the box of chocolates?
+*I* bought a new pair of shoes for vihaan.
+```
+
 ## We vs Us
 
 Fill in the blanks with 'we' and 'us'.
@@ -88,6 +112,30 @@ Thank you for driving *us* to the market.
 The teacher asked *us* to form a circle.
 ```
 
+```
+*We* aren’t interested in this program.
+This is what *we* wanted for a birthday party.
+*We* are going to Delhi on friday.
+They don’t believe *us*. 
+Can*we* visit the temple tomorrow?
+```
+
+```
+What shall *we* do after completing the homework? 
+She doesn’t like *us* anymore.
+Tell *us* what happened in your school.
+The film really scared *us*. 
+I know where *we* can go. 
+```
+
+```
+Dad is coming with *us* to buy the school supplies. 
+After *we* eat, let’s watch a movie.
+Let *us* all go for a long drive.
+```
+
+
+
 ## She vs Her
 
 Fill in the blanks with 'she' and 'her'.
@@ -98,6 +146,29 @@ I gave *her* the books.
 *She* is so clever.
 If I tell Roshima, *she* might tell Sunitha.
 I will talk to *her* about this issue.
+```
+
+```
+*She* thought he was joking.
+*She* has got long and beautiful hair.
+That bag belongs to *her*.
+Neha’s sister gave *her* a new barbie.
+*She* is a very brave girl.
+```
+
+```
+Is *she* coming to dinner with us tonight?
+Can you help *her* carry those groceries?
+Its not *her* fault the shirt is stained.
+I am *her* best friend.
+Do you know where *she* bought those shoes?
+```
+
+```
+Nihaal wrote a poem for *her*.
+*She* went to the movies with Rohan.
+Have you told *her* the good news?
+The food was very enjoyable to *her*.
 ```
 
 ## They vs Them
@@ -122,6 +193,23 @@ Does *he* want some coffee?
 *He* is a wise man.
 Did Mohan get the promotion *he* wanted?
 I didn't recognize *him*.
+```
+
+## Right Pronoun
+
+Click on the blank and choose the appropriate personal pronoun.
+
+```
+*I (They, You) * am sitting on the sofa. 
+*We (He, It) * are watching TV.
+Are *you (he, she) * from India?
+*He (I, We)* is going home. 
+*They (I, She) * are playing Cricket.
+*It (We, He) * is a wonderful day today.
+*We (she, I) * are speaking English. 
+Is *she (he, you)* Karan's sister?
+*You (I, She)* are playing on the ground.
+Are *they (I, she) * in the Museum? 
 ```
 
 ## Fill up
