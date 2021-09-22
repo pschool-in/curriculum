@@ -96,3 +96,28 @@ Arin: *Why's that (Why that)*?
 Aarav: Because they have no-body to play with.
 Arin: Aaravvv!
 ```
+
+## Passage-3
+```
+Sakshi *is (was)* six years old, and she lives *on (at)* a farm. 
+They have a big cornfield and *a (an)* small vegetable garden. Sakshi likes *to (in)* help her mother work in the garden. 
+They have *a (the)* small house, a big red barn, two horses, three pigs, one dog, *and (or)* one cow. 
+Sakshi thinks that the pigs *are (is)* funny when they roll around in the mud. 
+*The (A)* dog is her favorite. But she is not sure what she thinks about the cow. 
+The cow *is (was)* the biggest of all of their animals, and it makes the loudest sound. 
+Sakshi always runs *to (at)* her papa when the cow lifts its head to MOOOO!
+```
+
+## Passage-4
+```
+Raj *lives (live)* in a small town in India. 
+The *closest (close)* big city is an hour’s drive away. 
+Raj *looks (look)* forward to going to the city because when they drive through the countryside they almost always see cattles. 
+Raj *loves (love)* cattles. 
+A baby is called a calf, a mother is called a cow, and a father is called a bull. 
+A group of *cattles (cattle)* is called a herd. 
+It is an amazing sight for Raj! 
+He knows that cattles are sound and quiet animals and *graze (grazes)* on grass.
+Raj also *knows (know)* that cows are sacred animals as per Hinduism. 
+The religion raises the status of Mother to the level of Goddess by accepting *cows (cow)* as mothers.
+```
