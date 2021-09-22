@@ -211,19 +211,19 @@ Gujarat,  Asiatic Lion
 ## Multiple Choice Questions
 
 ```
-________  is the state animal for Karnataka.
+________  is the state animal of Karnataka.
 Elephant, Tiger, Giraffe
 
-___________ is the state animal for Madhya Pradesh.
+___________ is the state animal of Madhya Pradesh.
 Swamp Deer, Sangai, Lion
 
-____________ is the state animal for Kerala.
+____________ is the state animal of Kerala.
 Elephant, Monkey, Fox
 
-___________ is the state animal for Maharashtra.
+___________ is the state animal of Maharashtra.
 Giant Squirrel, Snake, Crocodile
 
-____________ is the state animal for Manipur.
+____________ is the state animal of Manipur.
 Sangai, Panda, Gorilla.
 ```
 
@@ -254,15 +254,15 @@ In Punjab, the state animal is *Blackbuck (Nilgiri Tahr)*.
 
 ```
 True: 
-Red Panda is the state animal for Sikkim.
-Chinkara is the state animal for Rajasthan.
-Spotted Deer is the state animal for Telangana.
-Fishing Cat is the state animal for West Bengal.
+Red Panda is the state animal of Sikkim.
+Chinkara is the state animal of Rajasthan.
+Spotted Deer is the state animal of Telangana.
+Fishing Cat is the state animal of West Bengal.
 
 False:
-Phayre’sLangur is not the state animal for Tripura.
-Swamp Deer is not the state animal for Uttar Pradesh.
-Elephant is the state animal for Uttarakhand.
+Phayre’sLangur is not the state animal of Tripura.
+Swamp Deer is not the state animal of Uttar Pradesh.
+Elephant is the state animal of Uttarakhand.
 ```
 
 ******************************************************************************************************************************************************************************
