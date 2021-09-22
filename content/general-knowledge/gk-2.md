@@ -397,7 +397,7 @@ White-throated King Fisher is the state bird of West Bengal.
 False:
 Himalayan Monal is not the state bird of Uttarakhand.
 Sarus Crane is not the state bird of Uttar Pradesh.
-Andaman Wood Pigeon is the state bird of 	Ladakh.
+Andaman Wood Pigeon is the state bird of Ladakh.
 ```
 
 ******************************************************************************************************************************************************************************
