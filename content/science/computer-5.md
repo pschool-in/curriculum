@@ -26,24 +26,10 @@ A computer accepts raw data as input and processes it with help of programs and 
 4. Store result (Storage): computer stores data in storage devices for later use.
 
 ### Input devices
-They are used to provide data and instruction to the computer. Commonly used input devices are:
-1. Keyboard
-2. Microphone
-3. Scanner
-4. Barcode reader
-5. Webcam
-6. Light pen
-7. Joystick
-8. Touchpad
-9. Light pen
-10. Digital camera
+They are used to provide data and instruction to the computer. Commonly used input devices are: Keyboard, Microphone, Scanner, Barcode reader, Webcam, Light pen, Joystick, Touchpad, Light pen, Digital camera, etc
 
 ### Output Devices 
-They provide output. Output can be of two formats. The output we see on the monitor is softcopy. The printed copy of the output is the hard copy. Commonly used output devices are:
-1. Monitor
-2. Printer
-3. Speakers
-4. Headphone
+They provide output. Output can be of two formats. The output we see on the monitor is softcopy. The printed copy of the output is the hard copy. Commonly used output devices are: Monitor, Printer, Speakers, Headphone, etc
 
 ### Central Processing Unit (CPU)
 It is the brain of the computer. It is made of three components.
@@ -52,13 +38,7 @@ It is the brain of the computer. It is made of three components.
 3. Memory unit
 
 ### Storage devices
-It is used to store data. The most common storage devices are:
-1. Hard disc
-2. Compact disc
-3. Digital versatile disc 
-4. Blu-ray disc
-5. USB flash drive
-6. Memory card
+It is used to store data. The most common storage devices are: Hard disc, Compact disc, Digital versatile disc , Blu-ray disc, USB flash drive, Memory card, etc
 
 ## Group: External vs Internal 
 
