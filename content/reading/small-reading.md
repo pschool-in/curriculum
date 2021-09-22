@@ -114,10 +114,9 @@ Raj *lives (live)* in a small town in India.
 The *closest (close)* big city is an hour’s drive away. 
 Raj *looks (look)* forward to going to the city because when they drive through the countryside they almost always see cattles. 
 Raj *loves (love)* cattles. 
-A baby is called a calf, a mother is called a cow, and a father is called a bull. 
+A baby is called a calf, female is called a cow, and male is called an ox. 
 A group of *cattles (cattle)* is called a herd. 
 It is an amazing sight for Raj! 
 He knows that cattles are sound and quiet animals and *graze (grazes)* on grass.
-Raj also *knows (know)* that cows are sacred animals as per Hinduism. 
-The religion raises the status of Mother to the level of Goddess by accepting *cows (cow)* as mothers.
+Raj also *knows (know)* that cows are sacred animals in India.
 ```
