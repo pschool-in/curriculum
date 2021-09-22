@@ -6,6 +6,8 @@
 
 3. Indian states and state birds
 
+4. Indian States and state flowers
+
 
 ## Content
 
@@ -245,9 +247,9 @@ The state animal of Jharkhand is *Elephant*.
 
 ```
 In Meghalaya, the state animal is * Clouded Leopard (Elephant)*.
-In Mizoram, the state animal is * Serow (Lion)*.
+In Mizoram, the state animal is *Serow (Lion)*.
 In Nagaland, the state animal is *Mithun (Giraffee)*.
-In Odisha, the state animal is * Sambhar deer (Serow)*.
+In Odisha, the state animal is *Sambhar deer (Serow)*.
 In Tamil Nadu, the state animal is *Nilgiri Tahr (Blackbuck)*.
 In Punjab, the state animal is *Blackbuck (Nilgiri Tahr)*.
 ```
@@ -401,6 +403,152 @@ Andaman Wood Pigeon is the state bird of Ladakh.
 ```
 
 ******************************************************************************************************************************************************************************
+
+### Indian States and state flowers
+
+Andhra Pradesh       -   Bluewater lily
+
+Arunachal Pradesh    -   Foxtail orchid
+
+Assam                -   Foxtail orchid
+
+Bihar                -   Kachnar
+
+Chhattisgarh         -   Rhynchostylis gigantea
+
+Goa                  -   Plumeria Rubra
+
+Gujarat              -   Marigold
+
+Haryana              -   Lotus
+
+Himachal Pradesh     -   	Pink Rhododendron
+
+Jammu and Kashmir    -    Rhododendron ponticum
+
+Jharkhand            -    Palash
+
+Karnataka            -    Lotus
+
+Kerala               -    Indian Laburnum
+
+Madhya Pradesh       -    Madonna lily
+
+Maharashtra          -    Jarul
+
+Manipur              -    Siroi lily
+
+Meghalaya            -    Lady’s Slipper Orchid
+
+Mizoram              -    Aiting
+
+Nagaland             -    Tree rhododendron
+
+Odisha               -    Asoka
+
+Punjab               -    Gladiolus
+
+Rajasthan            -    Rohida
+
+Sikkim               -    Dendrobium Nobile
+
+Tamil nadu           -    Kandhal / Gloriosa lily
+
+Telegana             -    Tangidi Puvvu
+
+Tripura              -    Mesua Ferrea
+
+Uttar Pradesh        -    Palash
+
+Uttarakhand          -    Brahm Kamal
+
+West Bengal          _    Night-flowering jasmine
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Andhra Pradesh, Bluewater lily
+Arunachal Pradesh, Foxtail orchid
+Bihar, Kachnar
+Chhattisgarh, Rhynchostylis gigantea
+Goa, Plumeria Rubra
+Gujarat, Marigold
+```
+
+## Multiple Choice Questions
+
+```
+_______________ is the state flower of Assam.
+Foxtail orchid, Bluewater lily, Kachnar
+
+_______________ is the state flwer of Haryana.
+Lotus, Jarul, Palash
+
+______________ is the state flower of Himachal Pradesh.
+Pink Rhododendron, Palash, Kachnar
+
+______________ is the state flower of Jharkhand.
+Palash, Aiting, Gladiolus
+
+______________ is the state flower of Jammu and Kashmir.
+Rhododendron ponticum, Alfalfa, Andaman Pyinma
+
+______________ is the state flower of Karnataka.
+Lotus, Kandhal, Rohida
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The state flower of Kerala is *Indian Laburnum*.
+The state flower of Madhya Pradesh is *Madonna lily*.
+The state flower of Maharashtra is *Jarul*.
+The state flower of Manipur is *Siroi lily*.
+The state flower of Meghalaya is *Lady’s Slipper Orchid*.
+The state flower of Mizoram is *Aiting*.
+```
+
+## Fill in the blanks (Using Options)
+
+```
+In Nagaland, the state flower is *Tree rhododendron (Cannonball)*.
+In Odisha, the state flower is *Asoka (Alfalfa)*.
+In Punjab, the state flower is *Gladiolus (	Mesua Ferrea)*.
+In Rajasthan, the state flower is *Rohida (Jarul)*.
+In Sikkim, the state flower is *Dendrobium Nobile (Gladiolus)*.
+In Tamil Nadu, the state flower is *Kandhal (Lotus)*.
+```
+
+## True or False
+
+```
+True:
+Tangidi Puvvu is the state flower of Telegana.
+Mesua Ferrea is the state flower of Tripura.
+Palash is the state flower of Uttar Pradesh.
+
+False:
+Night-flowering jasmine is not state flower of West Bengal.
+Brahm Kamal is the not the state flower of Uttarakhand.
+```
+
+******************************************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
