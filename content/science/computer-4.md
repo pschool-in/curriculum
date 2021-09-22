@@ -20,7 +20,7 @@ The first use of the word "computer" was recorded in 1613, referring to a person
 There are five generations of computers.
 
 1. First-generation (1946 - 1958): The first computers used vacuum tubes and were very expensive. They relied on machine language and they could only solve one problem at a time.  The input was based on punched cards and paper tape, and the output was in form of printouts. Examples: ENIVAC and UNIVAC-1
-2. Second-generation (1959 - 1964): Transistors replaced vacuum tubes. It allowed computers to become smaller, faster, cheaper, more energy-efficient, and more reliable. Second-generation computers used assembly, languages. These were also the first computers that stored their instructions in their memory. Examples: IBM 1920, 1BM 1401, etc
+2. Second-generation (1959 - 1964): Transistors replaced vacuum tubes. It allowed computers to become smaller, faster, cheaper, more energy-efficient, and more reliable. Second-generation computers used assembly languages. These were also the first computers that stored their instructions in their memory. Examples: IBM 1920, 1BM 1401, etc
 3. Third-generation (1965 - 1970): The development of the integrated circuit increased the speed and efficiency of computers. Computers for the first time became accessible to a mass audience.
 4. Fourth-generation (1971 - today): The microprocessor brought the fourth generation of computers. These small computers became more powerful. The concept of the Internet was introduced. 
 5. Fifth-generation (Today to future): Based on Artificial Intelligence (AI). It is still in development. 
