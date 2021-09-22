@@ -183,6 +183,30 @@ What do *they* want?
 I have lost my keys. I can't find *them* anywhere.
 ```
 
+```
+I don't know *them* at all. 
+*They* can’t hear you.
+*They* are at the football match.
+I have bought some apples. I’ll put *them* on the table.
+Jack gave presents to *them*.
+```
+
+```
+I am angry with both of *them*.
+It took *them* an hour to get to the theatre.
+Did *they* speak to you?
+Are *they* coming to the party?
+Take off your shoes and put *them* in the closet.
+```
+
+```
+If the mangoes are not ripe, don’t buy *them*.
+*They* are the best of friends.
+Mohit and Roy wish *they* could drive a car one day.
+I have never heard of *them*.
+What color curtains do *they* want?
+```
+
 ## He vs Him
 
 Fill in the blanks with 'he' and 'him'.
@@ -195,6 +219,30 @@ Did Mohan get the promotion *he* wanted?
 I didn't recognize *him*.
 ```
 
+```
+*He* is my best friend.
+I asked *him* for some help. 
+This book belongs to *him*.
+Do you want to see *him* now?
+I think that *he* is really hard working.
+```
+
+```
+Everyone told *him* to be quiet. 
+*He* loves to play video games.
+I showed *him* my new smartphone.
+*He* put on his coat and went out. 
+*He* asked, what’s the problem?
+```
+
+```
+All my friends like *him* very much.
+*He* is a very strong man!
+I don’t trust *him* at all. 
+George is a waiter. The customers appreciate *him* a lot. 
+My brother is studying because *he* has a test tomorrow.
+```
+
 ## Right Pronoun
 
 Click on the blank and choose the appropriate personal pronoun.
@@ -202,14 +250,14 @@ Click on the blank and choose the appropriate personal pronoun.
 ```
 *I (They, You) * am sitting on the sofa. 
 *We (He, It) * are watching TV.
-Are *you (he, she) * from India?
+Are *you (He, She) * from India?
 *He (I, We)* is going home. 
 *They (I, She) * are playing Cricket.
 *It (We, He) * is a wonderful day today.
-*We (she, I) * are speaking English. 
-Is *she (he, you)* Karan's sister?
+*We (She, I) * are speaking English. 
+Is *she (He, You)* Karan's sister?
 *You (I, She)* are playing on the ground.
-Are *they (I, she) * in the Museum? 
+Are *they (I, She) * in the Museum? 
 ```
 
 ## Fill up
