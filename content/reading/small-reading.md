@@ -4,7 +4,7 @@
 
 ### Barbie Doll Role Models
 
-Choose the correct prepositions.
+Choose the correct option for each blank.
 ```
 Mattel, the toys company, *has (was)* recently honored the frontline workers 
 of the pandemic by releasing "Mattel's Barbie Roll Model" series. This series 
@@ -20,7 +20,7 @@ it looks forward to building confidence *among (for)* young girls and make them 
 
 ### The Little Sister
 
-Choose the correct prepositions.
+Choose the correct option for each blank.
 ```
 We know very well that *the (a)* Statue of Liberty was a gift to the US from the French. 
 After all *these (those)* years, this US independence day, France gifted the country a 
@@ -120,7 +120,7 @@ Sakshi always runs *to (at)* her papa when the cow lifts its head to MOOOO!
 
 ### Trip to the city
 
-Choose the correct verbs.
+Choose the correct option for each blank.
 ```
 Raj *lives (live)* in a small town in India. 
 The *closest (close)* big city is an hour’s drive away. 
@@ -137,7 +137,7 @@ Raj also *knows (know)* that cows are sacred animals in India.
 
 ### The Assignment
 
-Choose the correct tense.
+Choose the correct option for each blank.
 ```
 Atika’s teacher, Mr. Khan, gave an assignment to the class. 
 The assignment *was (is)* to watch the weather report every night for a week. 
@@ -159,7 +159,7 @@ Atika decided that she *liked (like)* this kind of homework assignment.
 
 ### Whales
 
-Choose the right words.
+Choose the correct option for each blank.
 ```
 Whales are the *biggest (bigger)* creatures that have ever lived on the earth. 
 They are even bigger *than (then)* the dinosaurs. 
@@ -371,4 +371,93 @@ I also have friends from my cricket team, Raj and Aarav.
 Sometimes I get to see my cousins Aman and Kavita.
 They are my friends too. 
 I like all of my friends.
+```
+
+## Passage-21 (kg)
+
+### Classroom
+
+```
+My teacher is Mrs. Stuti. 
+We have twenty desks for twenty students. 
+At the back of the classroom is our art work. 
+We have made family trees and best of out waste models. 
+During recess we play on the monkey bars. 
+In the afternoon, Mrs. Stuti reads us a story. 
+Then it is time to go home.
+```
+
+## Passage-22 (kg)
+
+### Bunny and The Crow
+
+```
+Bunny and Crow live in the forest. 
+Bunny has soft white fur and long floppy ears. 
+She lives in a nice little burrow under a rock. 
+She likes to hop through the bushes and visit her animal friends. 
+But she always wondered what the world outside the forest was like. 
+
+Crow has shiny black feathers. 
+His house is a nice nest at the top of a tree. 
+He likes to fly high above the forest, over rivers and towns outside the forest. 
+
+One day, Bunny saw Crow sitting on a tree. 
+“Hello Crow!” she called. “Can you tell me what the world is like outside the forest?” 
+So Crow told Bunny all about the rivers and towns outside the forest. 
+Bunny and Crow became good friends.
+```
+
+## Passage-23
+
+### Bobby Goes To Fair
+
+Bobby’s family went to the fair. There were all kinds of swings, and fun things. When it was time to leave, Bobby’s dad bought him a gas-filled balloon. Bobby held onto the string carefully so that his balloon wouldn’t float away. His mom warned him that hot-air balloons only last for a day. The gas leaks out slowly, until it is all gone. When they got home, Bobby took his balloon to his room. He let it float up to the ceiling. He thought about his balloon flying up into the sky. He thought that would be a fun thing to watch.Bobby and his parents went out in the garden. Bobby let go of the balloon string. They watched the yellow balloon float up, up, and up. It looked smaller and smaller as it went higher and higher, and it finally disappeared. Everyone agreed that watching the balloon float up into the sky was better than having a plain old balloon the next day.
+
+## Activity
+
+Choose the more appropriate words.
+```
+Bobby’s family went to the *carnival (fare)*. 
+There were all kinds of *rides (swing)*, and fun things. 
+When it was time to leave, Bobby’s dad bought him a gas-filled balloon. 
+Bobby held onto the string *attentively (carelessly)* so that his balloon wouldn’t float away. 
+His mom *informed (advised)* him that hot-air balloons only last for a day. 
+The gas leaks out *steadily (hurriedly)*, until it is all gone. 
+When they *reached (drove)* home, Bobby took his balloon to his room. 
+He let it float up to the ceiling. 
+He thought about his balloon flying *high (long)* into the sky. 
+He thought that would be a fun thing to watch.
+Bobby and his parents went out in the garden. 
+Bobby *released (threw)* the balloon string. 
+They watched the yellow balloon float up, up, and up. 
+It looked smaller and smaller as it went higher and higher, and it finally disappeared. 
+Everyone agreed that watching the balloon float *high (long)* into the sky was better than having a plain old balloon the next day.
+```
+
+## Passage-24
+
+### The Circus
+
+Choose the correct option for each blank.
+```
+Arush’s dad *bought (bring)* popcorn for everyone before they went in to watch the show. 
+First, there *were (are)* clowns, perdorming tricks and beeping little horns. 
+Then there *was (is)* a parade of elephants, horses, and, of course, the clowns. 
+Then there *were (are)* men and women walking on wires far up above the ground. 
+Then *came (comes)* the event that Arush had been waiting for—the lion tamers!
+```
+
+## Passage-25
+
+### Penguins
+
+Choose the correct option for each blank.
+
+```
+Penguins are *found (lost)* in Antarctica and other countries in the Southern Hemisphere. They *cannot (can)* fly. But in the water, they flap their wings and ‘fly’ along very fast. They can *dive (drive)* down and can stay underwater for up to 20 minutes. Penguins can even *drink (sip)* sea water. They have a special gland that *takes (gives)* out the salt. 
+
+Penguins are well prepared for *living (leaving)* in cold environment. They have a thick layer of fat and two layers of feathers to keep them warm. They *huddle (hurdle)* together in huge groups to keep each other warm. These *lovable (annoying)* birds can often be seen diving off a cliff into the water. It looks like a game, but it is also an easy way to *catch (snatch)* fish.
+
+To locate family members, they use a complex set of calls. When a female *lays (clays)* her eggs, the male watches over it until it hatches, without eating a single meal. Once the eggs have *hatched (snatched)*, the females come back and take *care (hair)* of the chicks. They do not seem to be afraid of humans.
 ```
