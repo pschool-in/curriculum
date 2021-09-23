@@ -10,7 +10,7 @@
 
 5. Indian States and state trees
 
-6. Classical Indian Dance forms and state of origins
+6. Indian Dance forms and state of origins
 
 
 ## Content
@@ -676,8 +676,31 @@ Chatim tree is not the state tree of West Bengal.
 
 ******************************************************************************************************************************************************************************
 
+### Indian Dance forms and state of origins
 
+Andhra Pradesh  -    Kuchipudi
 
+Assam           -    Sattriya
+
+Odisha          -    Odissi
+
+Punjab          -    Gidda, Bhangra
+
+Gujarat         -    Garba
+
+Kashmir         -    Rouf
+
+Rajasthan       -    Ghoomar
+
+Maharashtra     -    Lavani
+
+Manipur         -    Manipuri
+
+Kerala          -    Mohiniyattam, Kathakali
+
+Tamil Nadu      -    Bharatnatyam
+
+Uttar Pradesh   -    Kathak
 
 
 
