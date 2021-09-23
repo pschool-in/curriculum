@@ -190,3 +190,33 @@ Basic requirement to access  internet include a computer, a web browser, a modem
 9. Instant messaging: it is used for online chat. It allows an instant response. Examples: Whatsapp, Viber, Line
 10. Video conferencing: it is a face to face communication among people at distant locations through the internet. Examples: Skype, Google meet, Facetime, Zoom
 11. Social networking: these are websites used to connect to friends and relatives. It allows you to share ideas, information, pictures, events, etc online. Examples: Facebook, Orkut, Twitter, Youtube 
+
+## Fill in the blanks. (drag and drop)
+
+``` 
+ 
+*World Wide Web* is a collection of websites or web-pages stored in web servers.
+*Web page* is a document which can be displayed in a web browser.
+*Website* is a collection of web pages.
+*Home page* is the first page of a website.
+*Web browser* is a software application that helps you to access websites on internet
+
+```
+## Answer in one word. (drag and drop)
+
+``` 
+ 
+*Search engine* is a website used to search information on the internet.
+*Instant messaging* is used for online chat
+*Video conferencing* is a face to face communication among people at distant locations through the internet.
+*Social networking* sites are websites used to connect to friends and relatives. 
+```
+
+
+## What does it stand for? (drag and drop)
+```
+*Internet* stands for International Network.
+*URL* stands for Uniform Recourse Locator. 
+*E-mail* stands for Electronic mail
+
+```
