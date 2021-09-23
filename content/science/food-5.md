@@ -24,8 +24,7 @@ store the harvested crop safely. Stored grains can get damaged by fungi and inse
 
 ### Food storage and conservation of environment
 
-1. Green revolution- The  increase in food grain production (such as rice and wheat) due to the introduction of high-yielding varieties, the use of 
-pesticides, and improved management techniques.
+1. Green revolution- The  increase in food grain production (such as rice and wheat) due to the introduction of high-yielding varieties, the use of pesticides, and improved management techniques.
 2. In 2013, India enacted a food security law that made it possible to fight against hunger and malnutrition.
 3. Various agriculture assistance programmes are organised for farmers to inform them about the latest technology, irrigation facilities, pesticides, fertilizers etc.
 
@@ -248,7 +247,7 @@ The food pyramid was created to encourage people to eat healthily. The requireme
 ## Fill in the blanks (By drag and drop)
 
 ```
-Obesity is caused by **excessive fat* in the body.
+Obesity is caused by *excessive fat* in the body.
 Grains are preserved by *drying*.
 In *kwashiorkor*, the child develops an enlarged belly.
 *Anaemia* is caused due to lack of iron.
