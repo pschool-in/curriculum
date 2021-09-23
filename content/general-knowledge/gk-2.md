@@ -8,6 +8,8 @@
 
 4. Indian States and state flowers
 
+5. Indian States and state trees
+
 
 ## Content
 
@@ -538,6 +540,11 @@ Brahm Kamal is the not the state flower of Uttarakhand.
 
 ******************************************************************************************************************************************************************************
 
+## Indian States and state trees
+
+Andhra Pradesh        -      Neem
+
+Arunachal Pradesh     -      
 
 
 
