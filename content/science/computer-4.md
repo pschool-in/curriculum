@@ -137,3 +137,13 @@ Ctrl + X , Cut
 Ctrl + C, Copy
 Ctrl + V, Paste
 ```
+## Answer in one word. (drag and drop)
+
+```
+*Alt + F* - File menu options in the current program.
+*Alt + E* - Edits options in the current program.
+*Home*  - Takes the user to the beginning of the current line.
+*End* - Go to the end of the current line.
+*Ctrl + End* - Go to the end of a document.
+
+```
