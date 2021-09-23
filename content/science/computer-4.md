@@ -127,3 +127,13 @@ Arithmometer - *Thomas de Colmar*
 16. Shift + End - Highlight from current position to end of the line.
 17. Ctrl + (Left arrow) - Move one word to the left at a time.
 18. Ctrl + (Right arrow) - Move one word to the right at a time.
+
+## Match the following
+
+```
+F1,  help 
+Ctrl + A , Select all 
+Ctrl + X , Cut
+Ctrl + C, Copy
+Ctrl + V, Paste
+```
