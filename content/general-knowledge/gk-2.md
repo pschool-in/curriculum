@@ -678,59 +678,59 @@ Chatim tree is not the state tree of West Bengal.
 
 ### Indian Dance forms and state of origins
 
-Andhra Pradesh      -     Kuchipudi, Vilasini Natyam, Bhamakalpam, Veeranatyam, Dappu, Tappeta Gullu, Lambadi, Dhimsa, Kolattam
+Andhra Pradesh         -     Kuchipudi, Vilasini Natyam, Bhamakalpam, Veeranatyam, Dappu, Tappeta Gullu, Lambadi, Dhimsa, Kolattam
 
-Arunachal Pradesh   -     Buiya, Chalo, Wancho, Pasi Kongki, Ponung, Popir
+Arunachal Pradesh      -     Buiya, Chalo, Wancho, Pasi Kongki, Ponung, Popir
 
-Assam               -     Sattriya, Bihu, Bichhua, Natpuja, Maharas, Kaligopal, Bagurumba, Naga dance, Khel Gopal
+Assam                  -     Sattriya, Bihu, Bichhua, Natpuja, Maharas, Kaligopal, Bagurumba, Naga dance, Khel Gopal
 
-Bihar               -     Jata-Jatin, Bakho-Bakhain, Panwariya
+Bihar                  -     Jata-Jatin, Bakho-Bakhain, Panwariya
 
-Chhattisgarh        -     Gaur Maria, Panthi, Raut Nacha, Pandwani, Vedamati, Kapalik
+Chhattisgarh           -     Gaur Maria, Panthi, Raut Nacha, Pandwani, Vedamati, Kapalik
 
-Gujarat             -     Garba, Dandiya Raas, Tippani Juriun, Bhavai
+Gujarat                -     Garba, Dandiya Raas, Tippani Juriun, Bhavai
 
-Goa                 -    	Tarangamel, Koli, Dekhni, Fugdi, Shigmo, Ghode, Modni, Samayi nrutya, Jagar, Ranmale
+Goa                    -    	Tarangamel, Koli, Dekhni, Fugdi, Shigmo, Ghode, Modni, Samayi nrutya, Jagar, Ranmale
 
-Haryana             -     Jhumar, Phag, Daph, Dhamal, Loor, Gugga, Khor
+Haryana                -     Jhumar, Phag, Daph, Dhamal, Loor, Gugga, Khor
 
-Himachal Pradesh    -     Jhora, Jhali, Chharhi, Dhaman, Chhapeli, Mahasu
+Himachal Pradesh       -     Jhora, Jhali, Chharhi, Dhaman, Chhapeli, Mahasu
 
-Jammu & Kashmir     -     Rauf, Hikat, Mandjas, Kud Dandi Nach
+Jammu & Kashmir        -     Rauf, Hikat, Mandjas, Kud Dandi Nach
 
-Jharkhand           -     Alkap, Karma Munda, Agni, Jhumar, Janani Jhumar, Mardana Jhumar, Paika, Phagua
+Jharkhand              -     Alkap, Karma Munda, Agni, Jhumar, Janani Jhumar, Mardana Jhumar, Paika, Phagua
 
-Karnataka           -     Yakshagana, Huttari, Suggi, Kunitha, Karga
+Karnataka              -     Yakshagana, Huttari, Suggi, Kunitha, Karga
 
-Kerala              -    Mohiniyattam, Kathakali, Ottam Thullal, Kaikottikali
+Kerala                 -     Mohiniyattam, Kathakali, Ottam Thullal, Kaikottikali
 
-Maharashtra         -    Lavani, Nakata, Koli, Lezim, Gafa, Dahikala Dasavtar
+Maharashtra            -     Lavani, Nakata, Koli, Lezim, Gafa, Dahikala Dasavtar
 
-Madhya Pradesh      -    Jawara, Matki, Aada, Khada Nach, Phulpati, Grida Dance, Selalarki, Selabhadoni
+Madhya Pradesh         -     Jawara, Matki, Aada, Khada Nach, Phulpati, Grida Dance, Selalarki, Selabhadoni
 
-Manipur             -    Manipuri, Dol Cholam, Thang Ta, Lai Haraoba, Pung Cholom
+Manipur                -     Manipuri, Dol Cholam, Thang Ta, Lai Haraoba, Pung Cholom
 
-Meghalaya           -    Ka Shad Suk Mynsiem, Nongkrem, Laho
+Meghalaya              -     Ka Shad Suk Mynsiem, Nongkrem, Laho
 
-Mizoram             -    Cheraw Dance, Khuallam, Chailam, Sawlakin, Chawnglaizawn, Zangtalam
+Mizoram                -     Cheraw Dance, Khuallam, Chailam, Sawlakin, Chawnglaizawn, Zangtalam
 
-Nagaland            -    Rangma, Zeliang, Nsuirolians, Gethinglim
+Nagaland               -     Rangma, Zeliang, Nsuirolians, Gethinglim
 
-Odisha              -    Odissi, Savari, Ghumara, Painka, Munari
+Odisha                 -     Odissi, Savari, Ghumara, Painka, Munari
 
-Punjab              -    Gidda, Bhangra, Daff, Dhaman, Bhand
+Punjab                 -     Gidda, Bhangra, Daff, Dhaman, Bhand
 
-Rajasthan           -    Ghumar, Chakri, Ganagor, Jhulan Leela, Jhuma, Suisini, Ghapal
+Rajasthan              -     Ghumar, Chakri, Ganagor, Jhulan Leela, Jhuma, Suisini, Ghapal
 
-Sikkim              -    Chu Faat, Sikmari, Singhi Chaam or the Snow Lion, Yak Chaam, Denzong Gnenha, Tashi Yangku
+Sikkim                 -     Chu Faat, Sikmari, Singhi Chaam or the Snow Lion, Yak Chaam, Denzong Gnenha, Tashi Yangku
 
-Tamil Nadu          -    Bharatnatyam, Kumi, Kolattam, Kavadi
+Tamil Nadu             -     Bharatnatyam, Kumi, Kolattam, Kavadi
 
-Tripura             -    Hojagiri
+Tripura                -     Hojagiri
 
-Uttar Pradesh       -    Kathak, Nautanki, Raslila, Kajri, Jhora, Chappeli
+Uttar Pradesh          -      Kathak, Nautanki, Raslila, Kajri, Jhora, Chappeli
 
-Uttarakhand         -    Garhwali, Kumayuni, Kajari, Jhora, Raslila
+Uttarakhand            -      Garhwali, Kumayuni, Kajari, Jhora, Raslila
 
 
 
