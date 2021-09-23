@@ -105,24 +105,25 @@ Jacquard loom - *Joseph-Marie Jacquard*
 Arithmometer - *Thomas de Colmar*
 ```
 # Grade - 4
-## Common shortcuts-Reading
+## Common shortcuts - Reading
 
 ### Shortcuts
-Alt + F - File menu options in the current program.
-Alt + E - Edits options in the current program.
-F1 - Universal help 
-Ctrl + A - Selects all text.
-Ctrl + X - Cuts the selected item.
-Ctrl + Del - Cut selected item.
-Ctrl + C- Copy the selected item.
-Ctrl + Ins -  Copy the selected item.
-Ctrl + V - Paste the selected item.
-Shift + Ins - Paste the selected item.
-Home  - Takes the user to the beginning of the current line.
-Ctrl + Home - Go to the beginning of the document.
-End - Go to the end of the current line.
-Ctrl + End - Go to the end of a document.
-Shift + Home - Highlight from current position to beginning of the line.
-Shift + End - Highlight from current position to end of the line.
-Ctrl + (Left arrow) - Move one word to the left at a time.
-Ctrl + (Right arrow) - Move one word to the right at a time.
+
+1. Alt + F - File menu options in the current program.
+2. Alt + E - Edits options in the current program.
+3. F1 - Universal help 
+4. Ctrl + A - Selects all text.
+5. Ctrl + X - Cuts the selected item.
+6. Ctrl + Del - Cut selected item.
+7. Ctrl + C- Copy the selected item.
+8. Ctrl + Ins -  Copy the selected item.
+9. Ctrl + V - Paste the selected item.
+10. Shift + Ins - Paste the selected item.
+11. Home  - Takes the user to the beginning of the current line.
+12. Ctrl + Home - Go to the beginning of the document.
+13. End - Go to the end of the current line.
+14. Ctrl + End - Go to the end of a document.
+15. Shift + Home - Highlight from current position to beginning of the line.
+16. Shift + End - Highlight from current position to end of the line.
+17. Ctrl + (Left arrow) - Move one word to the left at a time.
+18. Ctrl + (Right arrow) - Move one word to the right at a time.
