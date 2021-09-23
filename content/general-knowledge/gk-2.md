@@ -542,21 +542,135 @@ Brahm Kamal is the not the state flower of Uttarakhand.
 
 ## Indian States and state trees
 
-Andhra Pradesh        -      Neem
+Andhra Pradesh        -     Neem
 
-Arunachal Pradesh     -      
+Arunachal Pradesh     -     Hollang
 
+Assam                 -     Hollang
 
+Bihar                 -     Peepal
 
+Chhattisgarh          -     Sal
 
+Goa                   -     Terninalia crenulate
 
+Gujarat               -     Mango tree
 
+Haryana               -     Pipal
 
+Himachal Pradesh      -     Himalaya Cedar
 
+Jammu and Kashmir     -     Chinar tree
 
+Jharkhand             -     Sal
 
+Karnataka             -     Sandalwood
 
+Kerala                -     Coconut tree
 
+Madhya Pradesh        -     Shala tree
+
+Maharashtra	          -     Mango tree
+
+Manipur               -     Uningthou
+
+Meghalaya             -     Gamhar
+
+Mizoram               -     Mesual Ferrea
+
+Nagaland	            -     Alder
+
+Odisha                -     Aswattha
+
+Punjab                -     Shisham
+
+Rajasthan             -     Khejari
+
+Sikkim                -     Rhododendron Niveum
+
+Tamil nadu            -     Palmrah
+
+Telegana              -     Jammi Chettu
+
+Tripura               -     Agar
+
+Uttar Pradesh         -     Sita Ashok
+
+Uttarakhand           -     Buransh
+
+West Bengal           -     Chatim tree
+
+## Match the following
+
+```
+Andhra Pradesh, Neem
+Arunachal Pradesh, Hollang
+Assam, Hollang
+Bihar, Peepal
+Chhattisgarh, Sal
+Goa, Terninalia crenulate
+```
+
+## Multiple Choice Questions
+
+```
+_______________ is the state tree of Gujarat.
+Mango tree, Sal, Shala tree
+
+_______________ is the state tree of Haryana.
+Pipal, Alder, Khejari
+
+_______________ is the state tree of Himachal Pradesh.
+Himalaya Cedar, Neem, Hollang
+
+_______________ is the state tree of Jharkhand.
+Sal, Gamhar, Palmrah
+
+_______________ is the state tree of Jammu and Kashmir.
+Chinar tree, Vilva tree, Flamboyant
+
+_______________ is the state tree of Karnataka.
+Sandalwood, Shala tree, Shisham
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The state tree of Kerala is *Coconut tree*.
+The state tree of Madhya Pradesh is *Shala tree*.
+The state tree of Maharashtra is *Mango tree*.
+The state tree of Manipur is *Uningthou*.
+The state tree of Meghalaya is *Gamhar*.
+The state tree of Mizoram is *Mesual Ferrea*.
+```
+
+## Fill in the blanks (Using Options)
+
+```
+In Nagaland, the state tree is *Alder (Mango tree)*.
+In Odisha, the state tree is *Aswattha (Gamhar)*.
+In Punjab, the state tree is *Shisham (Buransh)*.
+In Rajasthan, the state tree is *Khejari (Shisham)*.
+In Sikkim, the state tree is *Rhododendron Niveum (Sal)*.
+In Tamil Nadu, the state tree is *Palmrah (Buransh)*.
+```
+
+## True or False
+
+```
+True:
+Jammi Chettu is the state tree of Telegana.
+Agar is the state tree of Tripura.
+Sita Ashok is the state tree of Uttar Pradesh.
+
+False:
+Buransh is not the state tree of Uttarakhand.
+Chatim tree is not the state tree of West Bengal.
+```
+
+******************************************************************************************************************************************************************************
 
 
 
