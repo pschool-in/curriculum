@@ -167,3 +167,26 @@ Arrange processes in the sequence they occur.
 ```
 Accepts data, Processes data, Produces result, Stores results.
 ```
+# Grade- 5
+
+## Internet - Reading
+### Internet
+
+Internet stands for International Network. It is a vast network that connects computers all over the world. Internet can be used in various ways.
+Uses: searching information, communication, shopping, entertainment, education, airline and railway ticketing, etc
+
+### Connecting to Internet
+Basic requirement to access  internet include a computer, a web browser, a modem and a telephone line.
+
+### Important terms
+1. World Wide Web(www): it is a collection of websites or web-pages stored in web servers. It can be accessed through internet.
+2. Web page: a document which can be displayed in a web browser.
+3. Website: it is a collection of web pages. Examples: Wikipedia.org, Google.com, Amazon.com
+4. Home page: the first page of a website.
+5. Web browser: it is a software application that helps you to access websites on internet. Examples: Google Chrome, Internet Explorer, Mozilla Firefox, Opera, Safari
+6. URL: it stands for Uniform Recourse Locator. It refers to the web address.
+7. Search engine: it is a website used to search information on the internet. Examples: Google, Yahoo, Bing, Ask
+8. E-mail: it stands for Electronic mail. It is used to send and receive messages in electronic form. Examples: Gmail.com, Yahoo.com, Rediffmail.com
+9. Instant messaging: it is used for online chat. It allows an instant response. Examples: Whatsapp, Viber, Line
+10. Video conferencing: it is a face to face communication among people at distant locations through the internet. Examples: Skype, Google meet, Facetime, Zoom
+11. Social networking: these are websites used to connect to friends and relatives. It allows you to share ideas, information, pictures, events, etc online. Examples: Facebook, Orkut, Twitter, Youtube 
