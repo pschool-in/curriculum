@@ -466,7 +466,7 @@ Uttar Pradesh        -    Palash
 
 Uttarakhand          -    Brahm Kamal
 
-West Bengal          _    Night-flowering jasmine
+West Bengal          -   Night-flowering jasmine
 
 ## Match the following
 
@@ -678,25 +678,79 @@ Chatim tree is not the state tree of West Bengal.
 
 ### Indian Dance forms and state of origins
 
-Andhra Pradesh  -    Kuchipudi
+Andhra Pradesh      -     Kuchipudi, Vilasini Natyam, Bhamakalpam, Veeranatyam, Dappu, Tappeta Gullu, Lambadi, Dhimsa, Kolattam
 
-Assam           -    Sattriya
+Arunachal Pradesh   -     Buiya, Chalo, Wancho, Pasi Kongki, Ponung, Popir
 
-Odisha          -    Odissi
+Assam               -     Sattriya, Bihu, Bichhua, Natpuja, Maharas, Kaligopal, Bagurumba, Naga dance, Khel Gopal
 
-Punjab          -    Gidda, Bhangra
+Bihar               -     Jata-Jatin, Bakho-Bakhain, Panwariya
 
-Gujarat         -    Garba
+Chhattisgarh        -     Gaur Maria, Panthi, Raut Nacha, Pandwani, Vedamati, Kapalik
 
-Kashmir         -    Rouf
+Gujarat             -     Garba, Dandiya Raas, Tippani Juriun, Bhavai
 
-Rajasthan       -    Ghoomar
+Goa                 -    	Tarangamel, Koli, Dekhni, Fugdi, Shigmo, Ghode, Modni, Samayi nrutya, Jagar, Ranmale
 
-Maharashtra     -    Lavani
+Haryana             -     Jhumar, Phag, Daph, Dhamal, Loor, Gugga, Khor
 
-Manipur         -    Manipuri
+Himachal Pradesh    -     Jhora, Jhali, Chharhi, Dhaman, Chhapeli, Mahasu
 
-Kerala          -    Mohiniyattam, Kathakali
+Jammu & Kashmir     -     Rauf, Hikat, Mandjas, Kud Dandi Nach
+
+Jharkhand           -     Alkap, Karma Munda, Agni, Jhumar, Janani Jhumar, Mardana Jhumar, Paika, Phagua
+
+Karnataka           -     Yakshagana, Huttari, Suggi, Kunitha, Karga
+
+Kerala              -    Mohiniyattam, Kathakali, Ottam Thullal, Kaikottikali
+
+Maharashtra         -    Lavani, Nakata, Koli, Lezim, Gafa, Dahikala Dasavtar
+
+Madhya Pradesh      -    Jawara, Matki, Aada, Khada Nach, Phulpati, Grida Dance, Selalarki, Selabhadoni
+
+Manipur             -    Manipuri, Dol Cholam, Thang Ta, Lai Haraoba, Pung Cholom
+
+Meghalaya           -    Ka Shad Suk Mynsiem, Nongkrem, Laho
+
+Mizoram             -    Cheraw Dance, Khuallam, Chailam, Sawlakin, Chawnglaizawn, Zangtalam
+
+Nagaland            -    Rangma, Zeliang, Nsuirolians, Gethinglim
+
+Odisha              -    Odissi, Savari, Ghumara, Painka, Munari
+
+Punjab              -    Gidda, Bhangra, Daff, Dhaman, Bhand
+
+Rajasthan           -    Ghumar, Chakri, Ganagor, Jhulan Leela, Jhuma, Suisini, Ghapal
+
+Sikkim              -    Chu Faat, Sikmari, Singhi Chaam or the Snow Lion, Yak Chaam, Denzong Gnenha, Tashi Yangku
+
+Tamil Nadu          -    Bharatnatyam, Kumi, Kolattam, Kavadi
+
+Tripura             -    Hojagiri
+
+Uttar Pradesh       -    Kathak, Nautanki, Raslila, Kajri, Jhora, Chappeli
+
+Uttarakhand         -    Garhwali, Kumayuni, Kajari, Jhora, Raslila
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Tamil Nadu      -    Bharatnatyam
 
