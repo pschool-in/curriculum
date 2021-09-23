@@ -31,6 +31,8 @@ Before being shipped to the US, 'The Little Sister' spent ten years welcoming
 visitors *at (in)* the Conservatoire National des Arts et Métiers (CNAM) in Paris.
 ```
 
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
 # Little Puns By Little Ones
 
 # Conversation-1
@@ -97,7 +99,11 @@ Aarav: Because they have no-body to play with.
 Arin: Aaravvv!
 ```
 
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
 ## Passage-3 (g4)
+
+### Sakshi's Farm
 
 Choose the correct option for each blank.
 ```
@@ -111,6 +117,8 @@ Sakshi always runs *to (at)* her papa when the cow lifts its head to MOOOO!
 ```
 
 ## Passage-4 (g4)
+
+### Trip to the city
 
 Choose the correct verbs.
 ```
@@ -126,6 +134,8 @@ Raj also *knows (know)* that cows are sacred animals in India.
 ```
 
 ## Passage-5
+
+### The Assignment
 
 Choose the correct tense.
 ```
@@ -147,6 +157,8 @@ Atika decided that she *liked (like)* this kind of homework assignment.
 
 ## Passage-6
 
+### Whales
+
 Choose the right words.
 ```
 Whales are the *biggest (bigger)* creatures that have ever lived on the earth. 
@@ -163,6 +175,8 @@ Instead, they swim along with *their (there)* blowhole above the water.
 ```
 
 ## Passage-7
+
+### Patty The Milkmaid
 
 Choose the correct option for each blank.
 ```
@@ -182,6 +196,8 @@ So Patty had to *go (goes)* home and tell her mother what had happened.
 
 ## Passage-8
 
+### Riding a Bicycle
+
 Choose the correct option for each blank.
 ```
 Arin took her new bike out in the street.
@@ -197,6 +213,8 @@ He knew that she could do it.
 
 ## Passage-9
 
+### Pink Glasses
+
 Choose the correct option for each blank.
 ```
 *The (A)* eye doctor said Mona needed glasses. 
@@ -207,4 +225,150 @@ She went into her classroom, and saw her teacher, Mrs. Sharma.
 Mrs. Sharma *was (is)* wearing new pink glasses! 
 Now Mona wasn’t worried about wearing her new glasses. 
 Now she *thought (thinks)* her new glasses were wonderful!
+```
+
+## Passage-10 (kg)
+
+### Dog-Walk
+
+```
+When I walk my dog, the first thing I do is put on his leash. 
+Then I walk out of the door. 
+Next I lead him to the park. 
+Then we walk around in pathway. 
+After our walk, I take off his leash.
+```
+
+## Passage-11 (kg)
+
+### Gardening
+
+```
+To plant a flower, we prepare the flower bed first. 
+Then we scratch the soil to loosen it. 
+Next we dig little holes for the bulbs. 
+Then we put the bulbs in the holes and cover them with soil. 
+When we are finished planting the bulbs, we water the garden so the flowers will grow.
+```
+
+## Passage-12 (kg)
+
+### Library
+
+```
+The first thing I do when we go to the library is gather the books that need to be returned. 
+Then I ride to the library in the car with my mom.
+When we get to the library, we place my books in the return bin. 
+Next we pick out new books to read. 
+Then we check the books out and head home. 
+Reading the new books is my favorite part of the weekend.
+```
+
+## Passage-13 (kg)
+
+### Bed Time Habits
+
+```
+It is bed time. 
+First I have a bath.
+Then I put on my pyjamas. 
+Next I wash my face. 
+After I brush my teeth. 
+Then mom reads me a bed time story. 
+Now, it’s lights out.
+```
+
+## Passage-14 (kg)
+
+### Washing Hands
+
+```
+First turn on the water. 
+Then make sure it is not too hot or too cold. 
+Take some soap on one palm. 
+Next rub your hands together until there are bubbles all over them. 
+Then rinse your hands. 
+Now dry them with a towel.
+```
+
+## Passsage-15 (kg)
+
+### Going on a Vacation
+
+```
+First we pack our bags. 
+Next we load the car with our bags and goodies. 
+Then we get in the car and get ready to go. 
+While driving on our trip, we share goodies on the ride. 
+When we get to our hotel, we unload the car. 
+Then we relax and have fun.
+```
+
+## Passage-16 (kg)
+
+### Swimming
+
+```
+Saanvi got ready to go for a swim in the lake. 
+First she put on her swim shorts. 
+Then she took a towel out of the closet. 
+Next she walked out to the dock. 
+She put her hand in the water to see how cold it is. 
+Then she jumped off the end of the dock into the cool, refreshing water. 
+Once she was in the water, she swimmed to the raft. 
+Saanvi loves swimming in the lake.
+```
+
+## Passage-17 (kg)
+
+### Haircut
+
+```
+First I walk to the barbershop. 
+Then the barber washes my hair. 
+He puts a towel around my neck. 
+Next he cuts my hair. 
+Then he dries my hair.
+Next I pay the barber for cutting my hair.
+```
+
+## Passage-18 (kg)
+
+### The Birthday Party
+
+```
+Alia went to a birthday party on Sunday. 
+There were many girls there. 
+They played a lot of games at the party. 
+Then they had snacks. 
+All of the girls got balloons as return gifts. 
+Alia loved her red balloon.
+```
+
+## Passsage-19 (kg)
+
+### The Ocean
+
+```
+The ocean has blue water filled with waves. 
+Many types of fish live in the ocean. 
+Seagulls love flying over the ocean to look for fish. 
+There is soft sand along the shore, and there are pretty seashells in the sand. 
+The beach is a great place to visit and experience all the nature's beauty.
+```
+
+## Passage-20 (kg)
+
+### My Friends
+
+```
+I have very good friends. 
+I go to school with my friends Rahul and Joy.
+They live on my street. 
+At school, Ram, Ayush and I play with Rina and Vani on the playground. 
+We all eat lunch together too. 
+I also have friends from my cricket team, Raj and Aarav.
+Sometimes I get to see my cousins Aman and Kavita.
+They are my friends too. 
+I like all of my friends.
 ```
