@@ -104,3 +104,25 @@ Stepped Reckoner - *Gottfried Wilhelm Leibniz*
 Jacquard loom - *Joseph-Marie Jacquard*
 Arithmometer - *Thomas de Colmar*
 ```
+# Grade - 4
+## Common shortcuts-Reading
+
+### Shortcuts
+Alt + F - File menu options in the current program.
+Alt + E - Edits options in the current program.
+F1 - Universal help 
+Ctrl + A - Selects all text.
+Ctrl + X - Cuts the selected item.
+Ctrl + Del - Cut selected item.
+Ctrl + C- Copy the selected item.
+Ctrl + Ins -  Copy the selected item.
+Ctrl + V - Paste the selected item.
+Shift + Ins - Paste the selected item.
+Home  - Takes the user to the beginning of the current line.
+Ctrl + Home - Go to the beginning of the document.
+End - Go to the end of the current line.
+Ctrl + End - Go to the end of a document.
+Shift + Home - Highlight from current position to beginning of the line.
+Shift + End - Highlight from current position to end of the line.
+Ctrl + (Left arrow) - Move one word to the left at a time.
+Ctrl + (Right arrow) - Move one word to the right at a time.
