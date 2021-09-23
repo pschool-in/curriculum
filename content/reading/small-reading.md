@@ -455,9 +455,21 @@ Then *came (comes)* the event that Arush had been waiting for—the lion tamers!
 Choose the correct option for each blank.
 
 ```
-Penguins are *found (lost)* in Antarctica and other countries in the Southern Hemisphere. They *cannot (can)* fly. But in the water, they flap their wings and ‘fly’ along very fast. They can *dive (drive)* down and can stay underwater for up to 20 minutes. Penguins can even *drink (sip)* sea water. They have a special gland that *takes (gives)* out the salt. 
+Penguins are *found (lost)* in Antarctica and other countries in the Southern Hemisphere. 
+They *cannot (can)* fly. 
+But in the water, they flap their wings and ‘fly’ along very fast. 
+They can *dive (drive)* down and can stay underwater for up to 20 minutes. 
+Penguins can even *drink (sip)* sea water. 
+They have a special gland that *takes (gives)* out the salt. 
 
-Penguins are well prepared for *living (leaving)* in cold environment. They have a thick layer of fat and two layers of feathers to keep them warm. They *huddle (hurdle)* together in huge groups to keep each other warm. These *lovable (annoying)* birds can often be seen diving off a cliff into the water. It looks like a game, but it is also an easy way to *catch (snatch)* fish.
+Penguins are well prepared for *living (leaving)* in cold environment. 
+They have a thick layer of fat and two layers of feathers to keep them warm. 
+They *huddle (hurdle)* together in huge groups to keep each other warm. 
+These *lovable (annoying)* birds can often be seen diving off a cliff into the water. 
+It looks like a game, but it is also an easy way to *catch (snatch)* fish.
 
-To locate family members, they use a complex set of calls. When a female *lays (clays)* her eggs, the male watches over it until it hatches, without eating a single meal. Once the eggs have *hatched (snatched)*, the females come back and take *care (hair)* of the chicks. They do not seem to be afraid of humans.
+To locate family members, they use a complex set of calls. 
+When a female *lays (clays)* her eggs, the male watches over it until it hatches, without eating a single meal. 
+Once the eggs have *hatched (snatched)*, the females come back and take *care (hair)* of the chicks. 
+They do not seem to be afraid of humans.
 ```
