@@ -1028,33 +1028,33 @@ Drag and drop the words at proper place
 
 ```
 Jama masjid is sitauted at *New Delhi*.
-Konark Sun temple is situated at *Odisha*.
-*Vailankanni church* is located at Tamil Nadu.
-*Vaishno Devi Temple* is situated at Jammu & Kashmir.
-*Mecca Masjid* is located at Telangana.
+Konark Sun temple is situated in *Odisha*.
+*Vailankanni church* is located in Tamil Nadu.
+*Vaishno Devi Temple* is situated in Jammu & Kashmir.
+*Mecca Masjid* is located in Telangana.
 ```
 
 ## Fill in the blanks (Using Options)
 
 ```
-St. Francis Xavier is sitauted at *Goa (Odisha)*.
-Dwarkadhish Temple is dedicated to Lord *Shri krishna (Shri Ram)* deity.
-*Bodh Gaya (Mahabodhi Temple)* is located at Bihar.
-*Golden temple (Ramanathaswamy Temple)* is situated at Punjab.
-*Amarnath Temple (Yamunotri Temple) is located at Jammu & Kashmir.
+St. Francis Xavier is situated in *Goa (Odisha)*.
+Dwarkadhish Temple is dedicated to Lord *Shri Krishna (Shri Ram)* deity.
+*Bodh Gaya (Mahabodhi Temple)* is located in Bihar.
+*Golden Temple (Ramanathaswamy Temple)* is situated in Punjab.
+*Amarnath Temple (Yamunotri Temple) is located in Jammu & Kashmir.
 ```
 
 ##  True or False
 
 ```
 True:
-Statue of Lord Shiva can be seen at Murudeshwara temple.
-Lord Venkateswara Temple is located at Tirumala hills.
-Dakshineswar Kali Temple is situated at West Bengal.
+The statue of Lord Shiva can be seen at Murudeshwara temple.
+Lord Venkateswara Temple is located in Tirumala hills.
+Dakshineswar Kali Temple is situated in West Bengal.
 
 False:
-Golden temple is located at Andaman Islands.
-Badrinath Temple is situated at Kerala.
+Golden temple is located in the Andaman Islands.
+Badrinath Temple is situated in Kerala.
 ```
 
 *****************************************************************************************************************************************************************************
