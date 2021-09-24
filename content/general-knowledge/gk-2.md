@@ -14,6 +14,8 @@
 
 7. Indian famous state festivals 
 
+8. Famous pilgrimages in India
+
 
 ## Content
 
@@ -919,7 +921,163 @@ Ganga Mahotsav is  not the famous festival celebrated at Uttar Pradesh.
 Saga Dawa is famous festival celebrated at Kerala.
 ```
 
-******************************************************************************************************************************************************************************
+*****************************************************************************************************************************************************************************
+
+### Famous pilgrimages in India
+
+Dwarkadhish Temple        -   Gujarat
+
+Brihadeeswara Temple      -  Tamil Nadu
+
+Badrinath Temple          -  Uttarakhand
+
+Bodh Gaya                 -  Bihar
+
+Kedarnath Temple          -  Uttarakhand
+
+Kashi Vishwanath Temple   -  Uttar Pradesh
+
+Golden Temple             -  Punjab       
+
+Jagannath Temple          -  Odisha
+
+Nataraja Temple           -  Tamil Nadu
+
+Siddhivinayak Temple      -  Maharashtra
+
+Khajuraho Temple          -  Madhya Pradesh
+
+Meenakshi Temple          -  Tamil Nadu
+
+Padmanabhaswamy Temple    -  Kerala
+
+Gomateshwara Temple       -  Karnataka
+
+Amarnath Temple           -  Jammu & Kashmir
+
+Ranganathaswamy Temple    -  Tamil Nadu
+
+Murudeshwara temple       -  Karnataka
+
+Shridi Saibaba Temple     -  Maharashtra
+
+Jama Masjid               -  New Delhi
+
+Somnath Temple            -   Gujarat
+
+Mahabodhi Temple          -   Bihar
+
+Lord Venkateswara Temple  -   Andhra Pradesh
+
+Vaishno Devi Temple       -   Jammu & Kashmir
+
+Rajagopalaswamy Temple    -   Tamil Nadu
+
+St. Francis Xavier        -   Goa
+
+Virupaksha Temple         -   Karnataka
+
+Konark Sun Temple         -   Odisha
+
+Ramanathaswamy Temple     -   Tamil Nadu
+
+Dakshineswar Kali Temple  -   West Bengal
+
+Mecca Masjid              -   Telangana
+
+Vailankanni church        -   Tamil Nadu
+
+Gangotri Temple           -   Uttarakhand
+
+Yamunotri Temple          -   Uttarakhand
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Dwarkadhish Temple, Gujarat
+Brihadeeswara Temple, Tamil Nadu
+Badrinath Temple, Uttarakhand
+Bodh Gaya, Bihar
+Kedarnath Temple, Uttarakhand
+```
+
+## Multiple Choice Questions
+
+```
+Tirupathi has how many hills?
+7, 8, 9
+
+Dwarkadhish Temple is located at___________
+Gujarat, Tamil Nadu, Kerala
+
+Ranganathaswamy Temple is dedicated to which deity?
+Lord Vishnu, Lord Shiva, Lord Brahma
+
+Mahabodhi Temple  is situated at ___________
+Bihar, West Bengal, Sikkim
+
+____________________ is famous temple in Odisha.
+Jagannath Temple, Gangotri Temple, Vaishno Devi Temple
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+Jama masjid is sitauted at *New Delhi*.
+Konark Sun temple is situated at *Odisha*.
+*Vailankanni church* is located at Tamil Nadu.
+*Vaishno Devi Temple* is situated at Jammu & Kashmir.
+*Mecca Masjid* is located at Telangana.
+```
+
+## Fill in the blanks (Using Options)
+
+```
+St. Francis Xavier is sitauted at *Goa (Odisha)*.
+Dwarkadhish Temple is dedicated to Lord *Shri krishna (Shri Ram)* deity.
+*Bodh Gaya (Mahabodhi Temple)* is located at Bihar.
+*Golden temple (Ramanathaswamy Temple)* is situated at Punjab.
+*Amarnath Temple (Yamunotri Temple) is located at Jammu & Kashmir.
+```
+
+##  True or False
+
+```
+True:
+Statue of Lord Shiva can be seen at Murudeshwara temple.
+Lord Venkateswara Temple is located at Tirumala hills.
+Dakshineswar Kali Temple is situated at West Bengal.
+
+False:
+Golden temple is located at Andaman Islands.
+Badrinath Temple is situated at Kerala.
+```
+
+*****************************************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
