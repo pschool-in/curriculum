@@ -678,59 +678,124 @@ Chatim tree is not the state tree of West Bengal.
 
 ### Indian Dance forms and state of origins
 
-Andhra Pradesh         -     Kuchipudi, Vilasini Natyam, Bhamakalpam, Veeranatyam, Dappu, Tappeta Gullu, Lambadi, Dhimsa, Kolattam
+Andhra Pradesh         -     Kuchipudi
 
-Arunachal Pradesh      -     Buiya, Chalo, Wancho, Pasi Kongki, Ponung, Popir
+Arunachal Pradesh      -     Wancho
 
-Assam                  -     Sattriya, Bihu, Bichhua, Natpuja, Maharas, Kaligopal, Bagurumba, Naga dance, Khel Gopal
+Assam                  -    Kaligopal
 
-Bihar                  -     Jata-Jatin, Bakho-Bakhain, Panwariya
+Bihar                  -     Jata-Jatin
 
-Chhattisgarh           -     Gaur Maria, Panthi, Raut Nacha, Pandwani, Vedamati, Kapalik
+Chhattisgarh           -     Gaur Maria
 
-Gujarat                -     Garba, Dandiya Raas, Tippani Juriun, Bhavai
+Gujarat                -     Dandiya Raas
 
-Goa                    -    	Tarangamel, Koli, Dekhni, Fugdi, Shigmo, Ghode, Modni, Samayi nrutya, Jagar, Ranmale
+Goa                    -    	Dekhni
 
-Haryana                -     Jhumar, Phag, Daph, Dhamal, Loor, Gugga, Khor
+Haryana                -     Jhumar
 
-Himachal Pradesh       -     Jhora, Jhali, Chharhi, Dhaman, Chhapeli, Mahasu
+Himachal Pradesh       -     Nati
 
-Jammu & Kashmir        -     Rauf, Hikat, Mandjas, Kud Dandi Nach
+Jammu & Kashmir        -     Rouf
 
-Jharkhand              -     Alkap, Karma Munda, Agni, Jhumar, Janani Jhumar, Mardana Jhumar, Paika, Phagua
+Jharkhand              -     Mardana 
 
-Karnataka              -     Yakshagana, Huttari, Suggi, Kunitha, Karga
+Karnataka              -     Yakshagana
 
-Kerala                 -     Mohiniyattam, Kathakali, Ottam Thullal, Kaikottikali
+Kerala                 -     Kathakali
 
-Maharashtra            -     Lavani, Nakata, Koli, Lezim, Gafa, Dahikala Dasavtar
+Maharashtra            -     Lavani
 
-Madhya Pradesh         -     Jawara, Matki, Aada, Khada Nach, Phulpati, Grida Dance, Selalarki, Selabhadoni
+Madhya Pradesh         -     Jawara
 
-Manipur                -     Manipuri, Dol Cholam, Thang Ta, Lai Haraoba, Pung Cholom
+Manipur                -     Manipuri
 
-Meghalaya              -     Ka Shad Suk Mynsiem, Nongkrem, Laho
+Meghalaya              -     Nongkrem
 
-Mizoram                -     Cheraw Dance, Khuallam, Chailam, Sawlakin, Chawnglaizawn, Zangtalam
+Nagaland               -     Zeliang
 
-Nagaland               -     Rangma, Zeliang, Nsuirolians, Gethinglim
+Odisha                 -     Odissi
 
-Odisha                 -     Odissi, Savari, Ghumara, Painka, Munari
+Punjab                 -     Bhangra
 
-Punjab                 -     Gidda, Bhangra, Daff, Dhaman, Bhand
+Rajasthan              -     Ghumar
 
-Rajasthan              -     Ghumar, Chakri, Ganagor, Jhulan Leela, Jhuma, Suisini, Ghapal
+Tamil Nadu             -     Bharatnatyam
 
-Sikkim                 -     Chu Faat, Sikmari, Singhi Chaam or the Snow Lion, Yak Chaam, Denzong Gnenha, Tashi Yangku
+west bangal            -     Kirtan dance 
 
-Tamil Nadu             -     Bharatnatyam, Kumi, Kolattam, Kavadi
+Uttar Pradesh          -     Chappeli
 
-Tripura                -     Hojagiri
+Uttarakhand            -     Garhwali
 
-Uttar Pradesh          -      Kathak, Nautanki, Raslila, Kajri, Jhora, Chappeli
+## Match the following
 
-Uttarakhand            -      Garhwali, Kumayuni, Kajari, Jhora, Raslila
+Match the following with its correct one
+
+```
+Andhra Pradesh, Kuchipudi
+Arunachal Pradesh, Wancho
+Assam,  kaligopal 
+Bihar, Jata-Jatin
+Chhattisgarh, Gaur Maria
+Gujarat, Dandiya Raas
+```
+
+## Multiple Choice Questions
+
+```
+________________ is the famous state dance of Goa.
+Dekhni,  kaligopal , Gaur Maria
+
+________________ is the famous state dance of Haryana .
+Jhumar, Panwariya, Popir
+
+________________ is the famous state dance of Himachal Pradesh.
+Nati, Chalo, Wancho
+
+____________________ is the famous state dance of Jammu & Kashmir .
+Rouf, Dandiya Raas, Jata-Jatin
+
+______________________ is the famous state dance of Jharkhand . 
+ Mardana Jhumar, Kavadi, Hojagiri
+ ```
+ 
+ ## Fill in the blanks (By Drag Drop)
+ 
+ Drag and drop the words at proper place
+ 
+ ```
+The famous state dance of Karnataka is *Yakshagana*.
+The famous state dance of Kerala is *Kathakali*.
+The famous state dance of Maharashtra is *Lavani*.
+The famous state dance of Madhya Pradesh is *Jawara*
+The famous state dance of Manipur is *Manipuri Raas Leela*.
+```
+
+## Fill in the blanks (Using Options)
+
+```
+In Tamil Nadu , the famous state dance is * Bharatnatyam (Hojagiri)*.
+In  Punjab, the famous state dance is * Bhangra (Kathak)*.
+In Odisha , the famous state dance is *Odissi (Laho)*.
+In Meghalaya , the famous state dance is * Nongkrem (Bharatnatyam )*.
+In west bangal, the famous dance is * Kirtan dance (Odissi )*
+```
+
+## True or False
+
+```
+True:
+Ghumar is the famous state dance of Rajasthan .
+Zeliang is the famous state dance of Nagaland.
+Kumi is the famous dance of Tamil Nadu.
+
+False:
+Bhangra is not the famous dance of punjab.
+Kuchipudi is famous dance of Goa.
+```
+
+******************************************************************************************************************************************************************************
 
 
 
@@ -752,9 +817,6 @@ Uttarakhand            -      Garhwali, Kumayuni, Kajari, Jhora, Raslila
 
 
 
-Tamil Nadu      -    Bharatnatyam
-
-Uttar Pradesh   -    Kathak
 
 
 
