@@ -12,6 +12,8 @@
 
 6. Indian Dance forms and state of origins
 
+7. Indian famous state festivals 
+
 
 ## Content
 
@@ -797,10 +799,76 @@ Kuchipudi is famous dance of Goa.
 
 ******************************************************************************************************************************************************************************
 
+### Indian famous state festivals
 
+Andhra Pradesh        -     Ugadi
 
+Arunachal Pradesh     -     Reh
 
- 
+Assam                 -     Ambubachi
+
+Bihar                 -     Chhath Puja
+
+Chhattisgarh          -     Bastar Dussehra
+
+Goa                   -     Sunburn festival
+
+Gujarat               -     Kutch Utsav
+
+Himachal Pradesh      -     Gochi Festival
+
+Jammu and Kashmir     -     Bahu Mela
+
+Karnataka             -     Mysore Dasara,
+
+Kerala                -     Onam
+
+Madhya Pradesh        -     Lok-rang Utsav
+
+Maharashtra           -     Ganesh Utsav
+
+Meghalaya             -     Wangla
+
+Manipur               -     Yaoshang
+
+Nagaland              -     Hornbill festival
+
+Odisha                -     Rath Yatra
+
+Punjab                -     Baisakhi
+
+Rajasthan             -     Bundi
+
+Sikkim                -     Saga Dawa
+
+Tamil Nadu            -     Pongal
+
+Telangana             -     Bonalu
+
+Tripura               -     Kharchi Puja
+
+West Bengal           -     Durga Puja
+
+Uttaranchal           -     Ganga Dussehra
+
+Uttar Pradesh         -     Ganga Mahotsav
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Andhra Pradesh, Ugadi
+Arunachal Pradesh, Reh
+Assam, Ambubachi
+Bihar, Chhath Puja
+Chhattisgarh, Bastar Dussehra
+```
+
+## Multiple Choice Questions
+
+```
+
 
 
 
