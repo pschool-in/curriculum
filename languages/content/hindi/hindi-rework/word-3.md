@@ -1,2 +1,4 @@
+```
 antonym - simple
 synonym - simple
+```
