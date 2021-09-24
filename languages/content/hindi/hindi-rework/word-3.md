@@ -1,1 +1,2 @@
-
+antonym - simple
+synonym - simple
