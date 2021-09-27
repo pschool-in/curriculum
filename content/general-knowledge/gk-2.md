@@ -525,7 +525,7 @@ The state flower of Mizoram is *Aiting*.
 ```
 In Nagaland, the state flower is *Tree rhododendron (Cannonball)*.
 In Odisha, the state flower is *Asoka (Alfalfa)*.
-In Punjab, the state flower is *Gladiolus (	Mesua Ferrea)*.
+In Punjab, the state flower is *Gladiolus (Mesua Ferrea)*.
 In Rajasthan, the state flower is *Rohida (Jarul)*.
 In Sikkim, the state flower is *Dendrobium Nobile (Gladiolus)*.
 In Tamil Nadu, the state flower is *Kandhal (Lotus)*.
