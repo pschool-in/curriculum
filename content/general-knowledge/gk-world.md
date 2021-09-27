@@ -65,7 +65,7 @@ Virat Kohli            -    Cricket
 
 Dhyan Chand            -    Hockey
 
-Bruce Lee              -    Martial arts
+Pete Sampras           -    Tennis
 
 Steffi Graf            -    Tennis
 
@@ -73,7 +73,7 @@ Andy Murray            -    Tennis
 
 Maria Sharapova        -    Tennis
 
-John Cena              -    WWE
+Magnus Carlsen         -    Chess
 
 Diego Armando Maradona -   Football 
 
@@ -146,6 +146,57 @@ Viswanathan Anand, Chess
 ## Multiple Choice Questions
 
 ```
+Dipika Pallikal  belongs to ________________ sport.
+Squash, Athletics, Hockey
+
+Anthony Maria Irudayam  belongs to ___________ sport.
+Carrom, Tennis, Rugby
+
+Narain Karthikeyan belongs to _________________ sport.
+F1 Car Racing, Gymnastics, Wrestling
+
+Mirabai Chanu belongs to _______________ sport.
+Weight Lifting, Gymnastics, Tennis
+
+Leander Paes  belongs to ___________________ sport.
+Tennis, Squash, Rugby
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+*Dipa Karmakar*  is associated with Gymnastics sport.
+*Deepika Kumari* is associated with Archery sport.
+*Sushil Kumar * is associated with Wrestling sport.
+*CA Bhavani Devi* is associated with Fencing sport.
+*Rafael Nadal * is associated with Tennis sport.
+```
+
+## Fill in the blanks (Using options)
+
+```
+Roger Federer is a famous * Tennis (Basketbal)* player.
+Muhammad Ali  is a famous *Boxing (Tennis) * player.
+PV Sindhu  is a famous *Badminton (Cricket)* player.
+Mary Kom is a famous *Boxing (Golf)* player.
+Magnus Carlsen is a famous *Chess (Athletics)* player.
+```
+
+## True or false
+
+```
+True:
+Kapil Dev  is a prominent player in cricket.
+Abhinav Bindra  is a prominent clay shooter.
+Neeraj Chopra  is a prominent Athelete.
+
+False:
+Lionel Messi is a professional Swimmer.
+Tiger Woods is a Chess master.
+```
+******************************************************************************************************************************************************************************
 
 
 
