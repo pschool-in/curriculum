@@ -169,17 +169,17 @@ Drag and drop the words at proper place
 ```
 *Dipa Karmakar*  is associated with Gymnastics sport.
 *Deepika Kumari* is associated with Archery sport.
-*Sushil Kumar * is associated with Wrestling sport.
+*Sushil Kumar* is associated with Wrestling sport.
 *CA Bhavani Devi* is associated with Fencing sport.
-*Rafael Nadal * is associated with Tennis sport.
+*Rafael Nadal* is associated with Tennis sport.
 ```
 
 ## Fill in the blanks (Using options)
 
 ```
 Roger Federer is a famous * Tennis (Basketbal)* player.
-Muhammad Ali  is a famous *Boxing (Tennis) * player.
-PV Sindhu  is a famous *Badminton (Cricket)* player.
+Muhammad Ali is a famous *Boxing (Tennis) * player.
+PV Sindhu is a famous *Badminton (Cricket)* player.
 Mary Kom is a famous *Boxing (Golf)* player.
 Magnus Carlsen is a famous *Chess (Athletics)* player.
 ```
@@ -188,9 +188,9 @@ Magnus Carlsen is a famous *Chess (Athletics)* player.
 
 ```
 True:
-Kapil Dev  is a prominent player in cricket.
-Abhinav Bindra  is a prominent clay shooter.
-Neeraj Chopra  is a prominent Athelete.
+Kapil Dev is a prominent player in cricket.
+Abhinav Bindra is a prominent clay shooter.
+Neeraj Chopra is a prominent Athelete.
 
 False:
 Lionel Messi is a professional Swimmer.
@@ -315,9 +315,9 @@ Pakistan           -      Pakistani rupee
 
 Palestine          -      Palestine Pound
  
-Philippines       -      Peso
+Philippines        -      Peso
 
-Portugal	        -      Euro
+Portugal	          -      Euro
 
 Qatar             -      Qatari riyal
 
@@ -379,7 +379,58 @@ Zimbabwe, United States dollar
 
 ## Multiple Choice Questions
 
+```
+ ____________ is the national currency of Bangladesh.
+Taka, Bahrain dinar, Peso
 
+______________ is the national currency of Canada.
+Canadian dollar, Euro, Dinar
+
+_____________ is the national currency of Finland.
+Euro, Lari, Rial
+
+_____________ is the national currency of Iran.
+Rial, Shekel, Euro
+
+_____________ is the national currency of Japan.
+Yen, Dollar, Euro
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The national currency of *India* is Indian Rupee.
+The national currency of *Malaysia*  is Ringgit.
+The national currency of *Qatar*  is Qatari riyal.
+The national currency of *Portugal * is Euro.
+The national currency of *Indonesia*  is Rupiah.
+```
+
+## Fill in the blanks (Using options)
+
+```
+*Ruble (Euro)* is the national currency of Russia.
+*Euro (Krona)* is the national currency of Spain.
+*U.A.E. Dirham (Hryvnia)* is the national currency of United Arab Emirates.
+*Swiss franc (Rand)* is the national currency of Switzerland.
+*Rand (Baht)* is the national currency of South Africa.
+```
+
+## True or false:
+
+```
+True:
+Vatican City’s national currency is Euro.
+Thailand’s  national currency is Baht.
+Ukraine’s  national currency is Hryvnia.
+
+False:
+Indian national currency is Euro.
+Pakistan national currency is Peso.
+```
+******************************************************************************************************************************************************************************
 
 
   
