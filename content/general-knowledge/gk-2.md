@@ -1009,13 +1009,13 @@ Kedarnath Temple, Uttarakhand
 Tirupathi has how many hills?
 7, 8, 9
 
-Dwarkadhish Temple is located at___________
+Dwarkadhish Temple is located at___________.
 Gujarat, Tamil Nadu, Kerala
 
 Ranganathaswamy Temple is dedicated to which deity?
 Lord Vishnu, Lord Shiva, Lord Brahma
 
-Mahabodhi Temple  is situated at ___________
+Mahabodhi Temple  is situated at ___________.
 Bihar, West Bengal, Sikkim
 
 ____________________ is famous temple in Odisha.
