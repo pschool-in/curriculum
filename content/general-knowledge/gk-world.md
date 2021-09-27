@@ -109,23 +109,43 @@ Neeraj Chopra          -   Athletics
 
 Muhammad Ali           -   Boxing
 
-Sachin tendulakr       -    Cricket
+Sachin tendulakr       -   Cricket
 
-Cristiano Ronaldo  - Football
+Cristiano Ronaldo      -   Football
 
-Lionel Messi   - Football
+Lionel Messi           -   Football
 
-Michael Phelps    -  Swimming
+Michael Phelps         -   Swimming
 
-Billie Jean King  - Tennis
+Billie Jean King       -   Tennis
 
-Michael Jordan - Basketbal
+Michael Jordan         -   Basketbal
 
-Usain Bolt    - Sprinting
+Usain Bolt             -   Sprinting
 
-Roger Federer  - Tennis
+Roger Federer          -   Tennis
 
-Tiger Woods   - Golf
+Tiger Woods            -    Golf
+
+## Match the following
+
+Match the following with its correct one
+
+```
+M.S. Dhoni, Cricket
+
+Vasudevan Baskaran, Hockey
+
+David Campese, Rugby 
+
+Mariyappan Thangavelu, Athletics
+
+Viswanathan Anand, Chess
+```
+
+## Multiple Choice Questions
+
+```
 
 
 
