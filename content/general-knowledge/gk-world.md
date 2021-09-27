@@ -95,21 +95,21 @@ Milkha Singh           - 	 Athletics
 
 PV Sindhu              -   Badminton
 
-Sunil Chhetri - Football
+Sunil Chhetri          -   Football
 
-Kapil Dev - Cricket
+Kapil Dev              -   Cricket
 
-Mithali Raj - Cricket
+Mithali Raj            -   Cricket
 
-Abhinav Bindra - Shooting
+Abhinav Bindra         -   Shooting
 
-Mary Kom - Boxing
+Mary Kom               -   Boxing
 
-Neeraj Chopra - Athletics
+Neeraj Chopra          -   Athletics
 
-Muhammad Ali   -  Boxing
+Muhammad Ali           -   Boxing
 
-Sachin tendulakr  - Cricket
+Sachin tendulakr       -    Cricket
 
 Cristiano Ronaldo  - Football
 
