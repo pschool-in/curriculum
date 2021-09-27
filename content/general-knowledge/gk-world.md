@@ -2,7 +2,7 @@
 
 World Iconic Sports Stars
 
-Famous countries and their Currencies
+Countries and their Currencies
 
 
 
@@ -197,6 +197,212 @@ Lionel Messi is a professional Swimmer.
 Tiger Woods is a Chess master.
 ```
 ******************************************************************************************************************************************************************************
+### Countries and their Currencies
+
+Afghanistan         -   Afghani
+
+Algeria             -    Dinar
+
+Albania             -    Lek
+
+Angola              -    New Kwanza
+
+Argentina           -    Peso
+
+Australia           -    Australian dollar
+
+Austria             -    Euro 
+
+Bahrain             -    Bahrain dinar
+
+Bangladesh          -    Taka
+
+Belgium             -     Euro 
+
+Bhutan              -     Ngultrum
+
+Bolivia             -     Boliviano
+
+Brazil              -     Brazilian real
+
+Bulgaria            -      Lev
+
+Cambodia            -     Riel
+
+Canada              -     Canadian dollar
+
+Chile               -     Chilean Peso
+
+China               -     Chinese Yuan
+
+Colombia            -     Colombian Peso
+
+Cuba                -     Cuban Peso
+
+Denmark             -     Danish Krone
+
+Egypt               -     Egyptian pound
+
+Ethiopia            -     Birr
+
+Fiji                -     Fiji dollar
+
+Finland             -     Euro 
+
+France              -     Euro 
+
+Georgia             -     Lari
+
+Germany             -     Euro 
+
+Greece              -     Euro 
+
+Hungary             -     Forint
+
+Iceland             -     Icelandic króna
+
+India               -     Indian Rupee
+
+Indonesia           -     Rupiah
+
+Iran                -     Rial
+
+Iraq                -     Iraqi Dinar
+
+Ireland             -     Euro 
+
+Israel              -     Shekel
+
+Italy               -      Euro 
+ 
+Japan               -      Yen
+
+Kenya               -      Kenya shilling
+
+North Korea         -      Won
+
+South Korea         -      Won
+
+Kuwait              -      Kuwaiti Dinar
+
+Liberia             -      	Liberian dollar
+
+Libya               -      Libyan dinar
+
+Madagascar         -      Malagasy Ariary
+
+Malaysia           -      Ringgit
+
+Maldives           -      Rufiyaa
+
+Mauritius          -      Mauritian rupee
+
+Mexico             -      Mexican peso
+
+Myanmar            -      Kyat
+
+Nepal              -      Nepalese rupee
+
+Netherlands        -      Euro 
+
+New Zealand        -      New Zealand dollar
+
+Nigeria            -      Naira
+
+Norway             -      Norwegian krone
+
+Pakistan           -      Pakistani rupee
+
+Palestine          -      Palestine Pound
+ 
+Philippines       -      Peso
+
+Portugal	        -      Euro
+
+Qatar             -      Qatari riyal
+
+Russia            -      Ruble
+ 
+Saudi Arabia      -      Riyal
+
+Serbia            -      Serbian Dinar
+
+Singapore         -      Singapore dollar
+
+Slovakia          -      Euro
+
+South Africa      -      Rand
+
+Spain             -      Euro
+
+Sri Lanka         -      Sri Lankan rupee
+
+Sweden            -      Krona
+
+Switzerland       -      Swiss franc
+
+Syria             -      	Syrian pound
+
+Taiwan            -      	Taiwan dollar
+
+Thailand          -       Baht
+
+Turkey            -     	Turkish lira (YTL)
+
+Ukraine           -      Hryvnia
+
+United Arab Emirates  -  U.A.E. Dirham
+
+United Kingdom    -      Pound sterling
+
+United States of America  -  Dollar
+
+Vatican City      -       Euro
+
+Vietnam           -       Dong
+
+Zambia            -       Kwacha
+
+Zimbabwe          -       United States dollar
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Afghanistan, Afghani
+Algeria, Dinar
+Vietnam, Dong
+Vatican City, Euro
+Zimbabwe, United States dollar
+```
+
+## Multiple Choice Questions
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
