@@ -45,35 +45,35 @@ Novak Djokovic         -    Tennis
 
 Bajrang Punia          -    wrestler
 
-Karnam Malleswari      -   Weight Lifting
+Karnam Malleswari      -    Weight Lifting
 
-Vijender Singh         -   Boxer
+Vijender Singh         -    Boxer
 
-K. D. Jadhav           -   wrestler 
+K. D. Jadhav           -    wrestler 
 
-Dipa Karmakar          -   Gymnastics
+Dipa Karmakar          -    Gymnastics
 
-Geeta Phogat           -   Wrestler
+Geeta Phogat           -    Wrestler
 
-Anju Bobby George      -   Athletics
+Anju Bobby George      -    Athletics
 
-Kunjarani Devi         -   Weight Lifting
+Kunjarani Devi         -    Weight Lifting
 
-Dhanraj Pillay Yadav   -   Hockey
+Dhanraj Pillay Yadav   -    Hockey
 
-Virat Kohli            -   Cricket
+Virat Kohli            -    Cricket
 
-Dhyan Chand            -   Hockey
+Dhyan Chand            -    Hockey
 
-Bruce Lee              -   Martial arts
+Bruce Lee              -    Martial arts
 
-Steffi Graf            -   Tennis
+Steffi Graf            -    Tennis
 
-Andy Murray            -   Tennis
+Andy Murray            -    Tennis
 
-Maria Sharapova        -   Tennis
+Maria Sharapova        -    Tennis
 
-John Cena              -   WWE
+John Cena              -    WWE
 
 Diego Armando Maradona -   Football 
 
@@ -109,7 +109,7 @@ Neeraj Chopra          -   Athletics
 
 Muhammad Ali           -   Boxing
 
-Sachin tendulakr       -   Cricket
+Sachin Tendulkar       -   Cricket
 
 Cristiano Ronaldo      -   Football
 
