@@ -546,7 +546,38 @@ Brazil, Belgium, Bhutan
 Drag and drop the words at proper place
 
 ```
-The native people of Grrec
+The native people of Greece are called as *Greek*.
+The native people of Britain are called as *British*.
+The native people of China are called as *Chinese*.
+The native people of Oman are called as *Omani*.
+The native peope of Burma are called as *Burmese*.
+```
+
+## Fill in the blanks (Using options)
+
+```
+*Scottish (Spanish)* people belongs to Scotland.
+*Emirati (Portuguese)* people belongs to United Arab Emirates (UAE).
+Thai people belongs to *Thailand (Turkey)*.
+The native people of United States of America (USA) are called as *American (English)*.
+Indian people belongs to *India (Italy)*
+```
+
+## True or False
+
+```
+True:
+Canadian people belongs to Canada.
+Irish people belongs to Ireland.
+Danish people belongs to Denmark.
+
+False:
+Germany native people are called as Greek.
+Holland native people are called as Omani.
+```
+
+******************************************************************************************************************************************************************************
+
 
 
 
