@@ -4,6 +4,8 @@ World Iconic Sports Stars
 
 Countries and their Currencies
 
+Countries and their people
+
 
 
 
@@ -432,13 +434,119 @@ Pakistan national currency is Peso.
 ```
 ******************************************************************************************************************************************************************************
 
+### Countries and their people
 
-  
+Afghanistan - Afghan
 
+Australia - Australian
 
+Austria - 	Austrian
 
+Bangladesh - Bangladeshi
 
+Bhutan - Bhutanese
 
+Brazil - Brazilian
+
+Britain - British
+
+Burma  - Burmese
+
+Canada - Canadian
+
+China - Chinese
+
+Cuba - Cuban
+
+Denmark - Danish
+
+Egypt - Egyptian
+
+England - English
+
+Ethiopia - Ethiopian
+
+Germany - German
+
+Greece - Greek
+
+Holland  - Dutch
+
+India - Indian
+
+Ireland - Irish
+
+Japan - Japanese
+
+Malaysia - Malaysian
+
+Mexico - Mexican
+
+Nepal - Nepalese
+
+North Korea - North Korean
+
+Oman - Omani
+
+Pakistan - Pakistani
+
+Portugal - Portuguese
+
+Russia - Russian
+
+Saudi Arabia - Saudi Arabian
+
+Scotland - Scottish
+
+Spain - Spanish
+
+Sri Lanka- Sri Lankan
+
+Thailand - Thai
+
+Turkey - Turkish
+
+United Arab Emirates (UAE) - Emirati
+
+United Kingdom (UK) - British
+
+United States of America (USA) - American
+
+## Match the following
+
+Match the following with its correct one
+
+```
+Afghanistan, Afghan
+Australia, Australian
+Austria, Austrian
+Bangladesh, Bangladeshi
+Bhutan, Bhutanese
+Brazil, Brazilian
+```
+
+## Multiple Choice Questions
+
+```
+Malaysian people belongs to ____________.
+Malaysia, Mexico, Ethiopia 
+
+The native people of Ireland are called as ___________.
+Irish, Dutch, Danish
+
+The native people of  England are called as ____________.
+British, American, Australian
+
+Brazilian people belongs to ______________.
+Brazil, Belgium, Bhutan
+```
+
+## Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+The native people of Grrec
 
 
 
