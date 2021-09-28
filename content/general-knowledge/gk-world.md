@@ -425,8 +425,8 @@ The national currency of *Indonesia*  is Rupiah.
 ```
 True:
 Vatican City’s national currency is Euro.
-Thailand’s  national currency is Baht.
-Ukraine’s  national currency is Hryvnia.
+Thailand’s national currency is Baht.
+Ukraine’s national currency is Hryvnia.
 
 False:
 Indian national currency is Euro.
