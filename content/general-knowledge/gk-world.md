@@ -530,7 +530,7 @@ Brazil, Brazilian
 ## Multiple Choice Questions
 
 ```
-Malaysian people belongs to ____________.
+Malaysian people belong to ____________.
 Malaysia, Mexico, Ethiopia 
 
 The native people of Ireland are called as ___________.
@@ -539,7 +539,7 @@ Irish, Dutch, Danish
 The native people of England are called as ____________.
 British, American, Australian
 
-Brazilian people belongs to ______________.
+Brazilian people belong to ______________.
 Brazil, Belgium, Bhutan
 
 The native people of Italy are called as ___________.
@@ -561,24 +561,24 @@ The native peope of Burma are called as *Burmese*.
 ## Fill in the blanks (Using options)
 
 ```
-*Scottish (Spanish)* people belongs to Scotland.
-*Emirati (Portuguese)* people belongs to United Arab Emirates (UAE).
-Thai people belongs to *Thailand (Turkey)*.
+*Scottish (Spanish)* people belong to Scotland.
+*Emirati (Portuguese)* people belong to United Arab Emirates (UAE).
+Thai people belong to *Thailand (Turkey)*.
 The native people of United States of America (USA) are called as *American (English)*.
-Indian people belongs to *India (Italy)*
+Indian people belong to *India (Italy)*
 ```
 
 ## True or False
 
 ```
 True:
-Canadian people belongs to Canada.
-Irish people belongs to Ireland.
-Danish people belongs to Denmark.
+Canadian people belong to Canada.
+Irish people belong to Ireland.
+Danish people belong to Denmark.
 
 False:
-Germany native people are called as Greek.
-Holland native people are called as Omani.
+The native people of Germany are called as Greek.
+The native people of Holland are called as Omani.
 ```
 
 ******************************************************************************************************************************************************************************
