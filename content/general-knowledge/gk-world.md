@@ -13,25 +13,25 @@ Countries and their people
 
 ### World Iconic Sports Stars
 
-M.S. Dhoni             -    Cricket
+* M.S. Dhoni             -    Cricket
 
-Vasudevan Baskaran     -    Hockey
+* Vasudevan Baskaran     -    Hockey
 
-David Campese          -    Rugby 
+* David Campese          -    Rugby 
 
-Mariyappan Thangavelu  -    Athletics
+* Mariyappan Thangavelu  -    Athletics
 
-Viswanathan Anand      -    Chess
+* Viswanathan Anand      -    Chess
 
 Dipika Pallikal        -    Squash
 
-Anthony Maria Irudayam -    Carrom
+* Anthony Maria Irudayam -    Carrom
 
 Narain Karthikeyan     -    F1 Car Racing
 
-Mirabai Chanu          -    Weight Lifting
+* Mirabai Chanu          -    Weight Lifting
 
-Leander Paes           -    Tennis
+* Leander Paes           -    Tennis
 
 Dipa Karmakar          -    Gymnastics
 
