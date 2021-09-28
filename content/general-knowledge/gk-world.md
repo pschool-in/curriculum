@@ -474,6 +474,8 @@ Holland  - Dutch
 
 India - Indian
 
+Italy - Italians
+
 Ireland - Irish
 
 Japan - Japanese
@@ -534,11 +536,14 @@ Malaysia, Mexico, Ethiopia
 The native people of Ireland are called as ___________.
 Irish, Dutch, Danish
 
-The native people of  England are called as ____________.
+The native people of England are called as ____________.
 British, American, Australian
 
 Brazilian people belongs to ______________.
 Brazil, Belgium, Bhutan
+
+The native people of Italy are called as ___________.
+Italians, Indian, Irish
 ```
 
 ## Fill in the blanks (By Drag Drop)
