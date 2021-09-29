@@ -1,36 +1,11 @@
-
-# अनेकार्थक शब्द/ Anekarthak Shabd
-
 # CLASS 4
+create mcq activity for class 4
+(identify the meaning of the word based on its usage in the sentence)
 
 
 
 
-# CLASS 5
 
 
 
-# Multiple choice questions
-
-```
-पत्र के अनेकार्थक शब्द 
-पत्र 
-चिट्ठी
-अमृत 
-
-पय के अनेकार्थक शब्द 
-बादल
-दूध
-दशा 
-
-पतंग	के अनेकार्थक शब्द 
-उड़ाई जाने वाली पतंग
-राय
-सिक्का 
-
-मुद्रा के अनेकार्थक शब्द 
-मुख का भाव
-सिक्का
-गति 
-``` 
 
