@@ -1,6 +1,15 @@
 # CLASS 4
-create mcq activity for class 4
+
+# Fill in the options.
 (identify the meaning of the word based on its usage in the sentence)
+
+```
+मैं एक आम आदमी हूँ। - साधारण (फल)
+मुझे मेरे सवाल का उत्तर चाहिए। - जवाब (दिशा)
+मेरे पिता मेरे गुरु हैं। - शिक्षक (भारी)
+इन रोगियों का उपचार होगा। - इलाज (सेवा)
+यह दुनिया गोल है। - आकृति (खेल में गोल)     
+```
 
 # class -5 
 
