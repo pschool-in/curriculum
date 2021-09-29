@@ -6,6 +6,8 @@ Countries and their Currencies
 
 Countries and their people
 
+Seven Wonders of the World
+
 
 
 
@@ -582,6 +584,86 @@ The native people of Holland are called as Omani.
 ```
 
 ******************************************************************************************************************************************************************************
+
+### Seven Wonders of the World
+
+Taj Mahal - Agra, India
+The Colosseum - Rome, Italy
+Machu Picchu - Cuzco Region, Peru
+Petra - Ma’an, Jordan
+Christ the Redeemer Statue - Rio de Janeiro, Brazil
+Great Wall of China -China
+Chichén Itzá - Yucatán, Mexico
+
+## Match the following:
+
+Match the following with its correct one
+
+```
+Taj Mahal, India
+The Colosseum, Italy
+Machu Picchu,  Peru
+Petra, Jordan
+Christ the Redeemer Statue, Brazil
+Great Wall of China, China
+Chichén Itzá, Mexico
+```
+
+## Multiple Choice Questions
+
+```
+Taj Mahal is located in which place?
+Agra, Rome, Yucatán
+
+Machu Picchu is located in which place?
+Cuzco Region, Rome, Agra
+
+The Colosseum is located in which place?
+Rome, Cuzco Region, Ma’an
+
+Christ the Redeemer Statue is located in which place?
+Rio de Janeiro, Rome, Yucatán
+
+Chichén Itzá is located in which place?
+Yucatán, Ma’an, Cuzco Region
+```
+## Fill in the blanks (Using options)
+
+```
+Christ the Redeemer Statue is located in *Brazil (Mexico)*.
+*Great Wall of China (Taj Mahal)* is located in China.
+Taj Mahal is located in *India (Italy)*.
+*Petra (Machu Picchu)* is located in Jordan.
+*Chichén Itzá (Petra)* is located in Mexico.
+```
+
+## True or False
+
+```
+True:
+Taj Mahal is made up of ivory white marbles.
+Colosseum is an Oval amphitheatre.
+Chichen Itza was built by the Maya people.
+
+False:
+Machu Picchu is located in Mexico.
+Taj Mahal was built by king Akbar.
+```
+
+******************************************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
