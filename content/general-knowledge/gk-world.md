@@ -15,121 +15,121 @@ Seven Wonders of the World
 
 ### World Iconic Sports Stars
 
-M.S. Dhoni             -    Cricket
+M.S. Dhoni*             -    Cricket
 
-Vasudevan Baskaran     -    Hockey
+Vasudevan Baskaran*     -    Hockey
 
-David Campese          -    Rugby 
+David Campese*          -    Rugby 
 
-Mariyappan Thangavelu  -    Athletics
+Mariyappan Thangavelu*  -    Athletics
 
-Viswanathan Anand      -    Chess
+Viswanathan Anand*      -    Chess
 
-Dipika Pallikal        -    Squash
+Dipika Pallikal*        -    Squash
 
-Anthony Maria Irudayam -    Carrom
+Anthony Maria Irudayam* -    Carrom
 
 Narain Karthikeyan     -    F1 Car Racing
 
 Mirabai Chanu          -    Weight Lifting
 
-Leander Paes           -    Tennis
+Leander Paes*           -    Tennis
 
 Dipa Karmakar          -    Gymnastics
 
-Deepika Kumari         -    Archery
+Deepika Kumari*         -    Archery
 
-Sushil Kumar           - 	  Wrestling
+Sushil Kumar*           - 	  Wrestling
 
-CA Bhavani Devi        -    Fencing
+CA Bhavani Devi*        -    Fencing
 
-Rafael Nadal           -    Tennis
+Rafael Nadal*          -    Tennis
 
-Novak Djokovic         -    Tennis
+Novak Djokovic*         -    Tennis
 
-Bajrang Punia          -    wrestler
+Bajrang Punia          -    Wrestling
 
-Karnam Malleswari      -    Weight Lifting
+Karnam Malleswari*      -    Weight Lifting
 
-Vijender Singh         -    Boxer
+Vijender Singh*         -    Boxer
 
-K. D. Jadhav           -    wrestler 
+K. D. Jadhav*           -    wrestler 
 
 Dipa Karmakar          -    Gymnastics
 
 Geeta Phogat           -    Wrestler
 
-Anju Bobby George      -    Athletics
+Anju Bobby George*      -    Athletics
 
-Kunjarani Devi         -    Weight Lifting
+Kunjarani Devi*         -    Weight Lifting
 
-Dhanraj Pillay Yadav   -    Hockey
+Dhanraj Pillay Yadav*   -    Hockey
 
-Virat Kohli            -    Cricket
+Virat Kohli*            -    Cricket
 
-Dhyan Chand            -    Hockey
+Dhyan Chand*            -    Hockey
 
-Pete Sampras           -    Tennis
+Pete Sampras*           -    Tennis
 
-Steffi Graf            -    Tennis
+Steffi Graf*            -    Tennis
 
-Andy Murray            -    Tennis
+Andy Murray*            -    Tennis
 
-Maria Sharapova        -    Tennis
+Maria Sharapova*        -    Tennis
 
-Magnus Carlsen         -    Chess
+Magnus Carlsen*         -    Chess
 
-Diego Armando Maradona -   Football 
+Diego Armando Maradona* -   Football 
 
-Serena Williams        -   Tennis
+Serena Williams*        -   Tennis
 
-Venus Williams         -   Tennis
+Venus Williams*         -   Tennis
 
-Mike Tyson             -   Boxing
+Mike Tyson*             -   Boxing
 
-Sunil Gavaskar         -   Cricket
+Sunil Gavaskar*         -   Cricket
 
-Sania Mirza            -   Tennis
+Sania Mirza*            -   Tennis
 
-PT Usha                -   Athletics
+PT Usha*                -   Athletics
 
-Saina Nehwal           -   Badminton
+Saina Nehwal*           -   Badminton
 
-Milkha Singh           - 	 Athletics
+Milkha Singh*           - 	 Athletics
 
-PV Sindhu              -   Badminton
+PV Sindhu*              -   Badminton
 
 Sunil Chhetri          -   Football
 
-Kapil Dev              -   Cricket
+Kapil Dev*              -   Cricket
 
-Mithali Raj            -   Cricket
+ Mithali Raj*            -   Cricket
 
-Abhinav Bindra         -   Shooting
+Abhinav Bindra*         -   Shooting
 
-Mary Kom               -   Boxing
+Mary Kom*               -   Boxing
 
-Neeraj Chopra          -   Athletics
+Neeraj Chopra*          -   Athletics
 
-Muhammad Ali           -   Boxing
+Muhammad Ali*           -   Boxing
 
-Sachin Tendulkar       -   Cricket
+Sachin Tendulkar*       -   Cricket
 
-Cristiano Ronaldo      -   Football
+Cristiano Ronaldo*      -   Football
 
-Lionel Messi           -   Football
+Lionel Messi*           -   Football
 
-Michael Phelps         -   Swimming
+Michael Phelps*         -   Swimming
 
-Billie Jean King       -   Tennis
+Billie Jean King*       -   Tennis
 
-Michael Jordan         -   Basketbal
+Michael Jordan*         -   Basketbal
 
-Usain Bolt             -   Sprinting
+Usain Bolt*             -   Sprinting
 
-Roger Federer          -   Tennis
+Roger Federer*          -   Tennis
 
-Tiger Woods            -    Golf
+Tiger Woods*            -    Golf
 
 ## Match the following
 
