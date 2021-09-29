@@ -55,7 +55,7 @@ leopard| तेंदुआ
 mongoose| नेवला
 mosquito| मच्छर
 octopus
-wolf
+wolf|भेड़िया
 cockroach
 garden-lizard
 lizard| छिपकली
