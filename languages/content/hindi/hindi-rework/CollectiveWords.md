@@ -45,7 +45,7 @@ sentence based drag and drop activity for class 4 need to be created
 बालों / चाबियों का - *गुच्छा (झुंड)*
 
 ```
-(to be added to grammer-4)
+
 # सही उत्तर का चयन करें।
 नीचे दिए गए विकल्पों में से सही उत्तर चुनिए।
 ```
