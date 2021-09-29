@@ -29,7 +29,7 @@ dolphin
 dragonfly
 fish| मछली
 frog| मेंडक
-crab
+crab| केकड़ा
 snake| साँप
 squirrel| गिलहरी
 tortoise| कछुआ,
