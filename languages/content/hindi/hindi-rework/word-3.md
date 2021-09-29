@@ -1,5 +1,5 @@
 
-
+पर्यायवाची शब्द / Synonyms Words
 # Match the following (निम्नलिखित का मिलान करें)
 ```
 महिला, औरत 
@@ -51,6 +51,7 @@
 मीठा, कड़वा 
 लाभ, हानि 
 ```
+अनेक शब्दों के लिए एक शब्द / One Word Substitution
 # Fill in the blanks (by drag and drop)रिक्त स्थान भरें।
 सही उत्तर का चयन करें।
 
