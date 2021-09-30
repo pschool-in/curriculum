@@ -152,17 +152,17 @@ Bengali is the official language of Jammu and kashmir.
 
 ### Indian States and state animals
 
-Andhra pradesh*        - 	Blackbuck
+Andhra pradesh        - 	Blackbuck
 
-Arunachal Pradesh*     -   Mithun
+Arunachal Pradesh     -   Mithun
 
-Assam*                 -   Indian One-horned Rhino
+Assam*                 -  Indian One-horned Rhino
 
 Bihar                 -   Gaur
 
-Chhattisgarh*          -   Wild Buffalo
+Chhattisgarh          -   Wild Buffalo
 
-Goa*                   -   Gaur
+Goa                   -   Gaur
 
 Gujarat*               -   Asiatic Lion
 
@@ -172,9 +172,9 @@ Himachal Pradesh*      -   Snow Leopard
 
 Jharkhand             -   Elephant
 
-Jammu and Kashmir*     - 	Hangul
+Jammu and Kashmir     - 	Hangul
 
-Karnataka*             -   Elephant
+Karnataka             -   Elephant
 
 Kerala*                -   Elephant
 
@@ -192,9 +192,9 @@ Nagaland              -   Mithun
 
 Odisha*                -   Sambhar deer 
 
-Punjab*                -   Blackbuck
+Punjab                -   Blackbuck
 
-Rajasthan*             -   Chinkara
+Rajasthan             -   Chinkara
 
 Sikkim*                -   Red Panda
 
@@ -206,7 +206,7 @@ Tripura               -   Phayre’sLangur
 
 Uttarakhand*           -   Musk Deer
 
-Uttar Pradesh*         -   Swamp Deer
+Uttar Pradesh         -   Swamp Deer
 
 West Bengal*           -   Fishing cat
 
