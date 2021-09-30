@@ -152,35 +152,35 @@ Bengali is the official language of Jammu and kashmir.
 
 ### Indian States and state animals
 
-Andhra pradesh        - 	Blackbuck
+Andhra pradesh*        - 	Blackbuck
 
-Arunachal Pradesh     -   Mithun
+Arunachal Pradesh*     -   Mithun
 
-Assam                 -   Indian One-horned Rhino
+Assam*                 -   Indian One-horned Rhino
 
 Bihar                 -   Gaur
 
-Chhattisgarh          -   Wild Buffalo
+Chhattisgarh*          -   Wild Buffalo
 
-Goa                   -   Gaur
+Goa*                   -   Gaur
 
-Gujarat               -   Asiatic Lion
+Gujarat*               -   Asiatic Lion
 
 Haryana               -   Blackbuck
 
-Himachal Pradesh      -   Snow Leopard
+Himachal Pradesh*      -   Snow Leopard
 
 Jharkhand             -   Elephant
 
-Jammu and Kashmir     - 	Hangul
+Jammu and Kashmir*     - 	Hangul
 
-Karnataka             -   Elephant
+Karnataka*             -   Elephant
 
-Kerala                -   Elephant
+Kerala*                -   Elephant
 
-Madhya Pradesh        -   Swamp Deer
+Madhya Pradesh*        -   Swamp Deer
 
-Maharashtra           -   Giant Squirrel
+Maharashtra*           -   Giant Squirrel
 
 Manipur               -   Sangai
 
@@ -190,25 +190,25 @@ Mizoram               -   Serow
 
 Nagaland              -   Mithun
 
-Odisha                -   Sambhar deer 
+Odisha*                -   Sambhar deer 
 
-Punjab                -   Blackbuck
+Punjab*                -   Blackbuck
 
-Rajasthan             -   Chinkara
+Rajasthan*             -   Chinkara
 
-Sikkim                -   Red Panda
+Sikkim*                -   Red Panda
 
-Tamil Nadu            -   Nilgiri Tahr
+Tamil Nadu*            -   Nilgiri Tahr
 
 Telangana             -   Spotted Deer
 
 Tripura               -   Phayre’sLangur
 
-Uttarakhand           -   Musk Deer
+Uttarakhand*           -   Musk Deer
 
-Uttar Pradesh         -   Swamp Deer
+Uttar Pradesh*         -   Swamp Deer
 
-West Bengal           -   Fishing cat
+West Bengal*           -   Fishing cat
 
 ## Match the following
 
@@ -283,19 +283,19 @@ Elephant is the state animal of Uttarakhand.
 
 ### Indian states and state birds
 
-Andhra Pradesh        -   	Indian Roller
+Andhra Pradesh*        -   	Indian Roller
 
-Arunachal Pradesh     -     Great Hornbill
+Arunachal Pradesh*     -     Great Hornbill
 
-Assam                 -     White-winged Wood Duck
+Assam*                 -     White-winged Wood Duck
 
 Bihar                 -     Indian Roller
 
 Chhattisgarh          -     Hill Myna
 
-Goa                   -     Flame Throated Bulbul
+Goa*                   -     Flame Throated Bulbul
 
-Gujarat               -     Greater Flamingo
+Gujarat*               -     Greater Flamingo
 
 Haryana               -     Black Francolin
 
@@ -305,13 +305,13 @@ Jammu & Kashmir       -     Black-necked Crane
 
 Jharkhand             -     Koel
 
-Karnataka             -     Indian Roller
+Karnataka*             -     Indian Roller
 
-Kerala                -     Great Hornbill
+Kerala*                -     Great Hornbill
 
-Madhya Pradesh        -     Paradise Fly catcher
+Madhya Pradesh*        -     Paradise Fly catcher
 
-Maharashtra           -     Green Imperial Pigeon
+Maharashtra*           -     Green Imperial Pigeon
 
 Manipur               -     Mrs. Hume’s Pheasant
 
@@ -321,25 +321,25 @@ Mizoram               -     Mrs. Hume’s Pheasant
 
 Nagaland              -     Blyth’s Tragopan
 
-Orissa                -     Peacock
+Orissa*                -     Peacock
 
-Punjab                -     Northern Goshawk
+Punjab*                -     Northern Goshawk
 
-Rajasthan             -     Indian Bustard
+Rajasthan*             -     Indian Bustard
 
 Sikkim                -     Blood Pheasant
 
-Tamil Nadu            -     Emerald Dove
+Tamil Nadu*            -     Emerald Dove
 
-Telangana	            -     Indian Roller (Palapitta)
+Telangana*	            -     Indian Roller (Palapitta)
 
 Tripura               -     Green Imperial Pigeon
 
-Uttarakhand           -     Himalayan Monal
+Uttarakhand*           -     Himalayan Monal
 
-Uttar Pradesh         -     Sarus Crane
+Uttar Pradesh*         -     Sarus Crane
 
-West Bengal           -     White-throated King Fisher
+West Bengal*           -     White-throated King Fisher
 
 ## Match the following
 
@@ -416,9 +416,9 @@ Andaman Wood Pigeon is the state bird of Ladakh.
 
 ### Indian States and state flowers
 
-Andhra Pradesh       -   Bluewater lily
+Andhra Pradesh*       -   Bluewater lily
 
-Arunachal Pradesh    -   Foxtail orchid
+Arunachal Pradesh*    -   Foxtail orchid
 
 Assam                -   Foxtail orchid
 
@@ -426,25 +426,25 @@ Bihar                -   Kachnar
 
 Chhattisgarh         -   Rhynchostylis gigantea
 
-Goa                  -   Plumeria Rubra
+Goa*                  -   Plumeria Rubra
 
 Gujarat              -   Marigold
 
 Haryana              -   Lotus
 
-Himachal Pradesh     -   	Pink Rhododendron
+Himachal Pradesh*     -   	Pink Rhododendron
 
-Jammu and Kashmir    -    Rhododendron ponticum
+Jammu and Kashmir*    -    Rhododendron ponticum
 
 Jharkhand            -    Palash
 
-Karnataka            -    Lotus
+Karnataka*            -    Lotus
 
-Kerala               -    Indian Laburnum
+Kerala*               -    Indian Laburnum
 
-Madhya Pradesh       -    Madonna lily
+Madhya Pradesh*       -    Madonna lily
 
-Maharashtra          -    Jarul
+Maharashtra*          -    Jarul
 
 Manipur              -    Siroi lily
 
@@ -454,25 +454,25 @@ Mizoram              -    Aiting
 
 Nagaland             -    Tree rhododendron
 
-Odisha               -    Asoka
+Odisha*               -    Asoka
 
-Punjab               -    Gladiolus
+Punjab*               -    Gladiolus
 
-Rajasthan            -    Rohida
+Rajasthan*            -    Rohida
 
 Sikkim               -    Dendrobium Nobile
 
-Tamil nadu           -    Kandhal / Gloriosa lily
+Tamil nadu*           -   Gloriosa lily
 
-Telegana             -    Tangidi Puvvu
+Telegana*             -    Tangidi Puvvu
 
 Tripura              -    Mesua Ferrea
 
-Uttar Pradesh        -    Palash
+Uttar Pradesh*        -    Palash
 
-Uttarakhand          -    Brahm Kamal
+Uttarakhand*          -    Brahm Kamal
 
-West Bengal          -   Night-flowering jasmine
+West Bengal*          -   Night-flowering jasmine
 
 ## Match the following
 
@@ -550,9 +550,9 @@ Brahm Kamal is the not the state flower of Uttarakhand.
 
 ## Indian States and state trees
 
-Andhra Pradesh        -     Neem
+Andhra Pradesh*        -     Neem
 
-Arunachal Pradesh     -     Hollang
+Arunachal Pradesh*     -     Hollang
 
 Assam                 -     Hollang
 
@@ -562,23 +562,23 @@ Chhattisgarh          -     Sal
 
 Goa                   -     Terninalia crenulate
 
-Gujarat               -     Mango tree
+Gujarat*               -     Mango tree
 
 Haryana               -     Pipal
 
-Himachal Pradesh      -     Himalaya Cedar
+Himachal Pradesh*      -     Himalaya Cedar
 
-Jammu and Kashmir     -     Chinar tree
+Jammu and Kashmir*     -     Chinar tree
 
 Jharkhand             -     Sal
 
-Karnataka             -     Sandalwood
+Karnataka*             -     Sandalwood
 
-Kerala                -     Coconut tree
+Kerala*                -     Coconut tree
 
-Madhya Pradesh        -     Shala tree
+Madhya Pradesh*        -     Shala tree
 
-Maharashtra	          -     Mango tree
+Maharashtra*	          -     Mango tree
 
 Manipur               -     Uningthou
 
@@ -588,25 +588,25 @@ Mizoram               -     Mesual Ferrea
 
 Nagaland	            -     Alder
 
-Odisha                -     Aswattha
+Odisha*                -     Aswattha
 
-Punjab                -     Shisham
+Punjab*                -     Shisham
 
-Rajasthan             -     Khejari
+Rajasthan*             -     Khejari
 
 Sikkim                -     Rhododendron Niveum
 
-Tamil nadu            -     Palmrah
+Tamil nadu*            -     Palmrah
 
-Telegana              -     Jammi Chettu
+Telegana*              -     Jammi Chettu
 
 Tripura               -     Agar
 
-Uttar Pradesh         -     Sita Ashok
+Uttar Pradesh*         -     Sita Ashok
 
-Uttarakhand           -     Buransh
+Uttarakhand*           -     Buransh
 
-West Bengal           -     Chatim tree
+West Bengal*           -     Chatim tree
 
 ## Match the following
 
@@ -684,9 +684,9 @@ Chatim tree is not the state tree of West Bengal.
 
 ### Indian Dance forms and state of origins
 
-Andhra Pradesh         -     Kuchipudi
+Andhra Pradesh*         -     Kuchipudi
 
-Arunachal Pradesh      -     Wancho
+Arunachal Pradesh*      -     Wancho
 
 Assam                  -    Kaligopal
 
@@ -694,9 +694,9 @@ Bihar                  -     Jata-Jatin
 
 Chhattisgarh           -     Gaur Maria
 
-Gujarat                -     Dandiya Raas
+Gujarat*                -     Dandiya Raas
 
-Goa                    -    	Dekhni
+Goa*                    -    	Dekhni
 
 Haryana                -     Jhumar
 
@@ -706,33 +706,33 @@ Jammu & Kashmir        -     Rouf
 
 Jharkhand              -     Mardana 
 
-Karnataka              -     Yakshagana
+Karnataka*              -     Yakshagana
 
-Kerala                 -     Kathakali
+Kerala*                 -     Kathakali
 
-Maharashtra            -     Lavani
+Maharashtra*            -     Lavani
 
-Madhya Pradesh         -     Jawara
+Madhya Pradesh*         -     Jawara
 
-Manipur                -     Manipuri
+Manipur*                -     Manipuri
 
 Meghalaya              -     Nongkrem
 
 Nagaland               -     Zeliang
 
-Odisha                 -     Odissi
+Odisha*                 -     Odissi
 
-Punjab                 -     Bhangra
+Punjab*                 -     Bhangra
 
-Rajasthan              -     Ghumar
+Rajasthan*              -     Ghumar
 
-Tamil Nadu             -     Bharatnatyam
+Tamil Nadu*             -     Bharatnatyam
 
-west bangal            -     Kirtan dance 
+West bangal*            -     Gaudiya Nritya
 
-Uttar Pradesh          -     Chappeli
+Uttar Pradesh*          -     Chappeli
 
-Uttarakhand            -     Garhwali
+Uttarakhand*            -     Garhwali
 
 ## Match the following
 
@@ -785,7 +785,7 @@ In Tamil Nadu , the famous state dance is * Bharatnatyam (Hojagiri)*.
 In  Punjab, the famous state dance is * Bhangra (Kathak)*.
 In Odisha , the famous state dance is *Odissi (Laho)*.
 In Meghalaya , the famous state dance is * Nongkrem (Bharatnatyam )*.
-In west bangal, the famous dance is * Kirtan dance (Odissi )*
+In West bangal, the famous dance is *Gaudiya Nritya (Odissi)*
 ```
 
 ## True or False
@@ -805,9 +805,9 @@ Kuchipudi is famous dance of Goa.
 
 ### Indian famous state festivals
 
-Andhra Pradesh        -     Ugadi
+Andhra Pradesh*        -     Ugadi
 
-Arunachal Pradesh     -     Reh
+Arunachal Pradesh*     -     Reh
 
 Assam                 -     Ambubachi
 
@@ -817,45 +817,45 @@ Chhattisgarh          -     Bastar Dussehra
 
 Goa                   -     Sunburn festival
 
-Gujarat               -     Kutch Utsav
+Gujarat*               -     Kutch Utsav
 
-Himachal Pradesh      -     Gochi Festival
+Himachal Pradesh*      -     Gochi Festival
 
-Jammu and Kashmir     -     Bahu Mela
+Jammu and Kashmir*     -     Bahu Mela
 
-Karnataka             -     Mysore Dasara,
+Karnataka*             -     Mysore Dasara
 
-Kerala                -     Onam
+Kerala*                -     Onam
 
-Madhya Pradesh        -     Lok-rang Utsav
+Madhya Pradesh*        -     Lok-rang Utsav
 
-Maharashtra           -     Ganesh Utsav
+Maharashtra*           -     Ganesh Utsav
 
 Meghalaya             -     Wangla
 
 Manipur               -     Yaoshang
 
-Nagaland              -     Hornbill festival
+Nagaland*              -     Hornbill festival
 
-Odisha                -     Rath Yatra
+Odisha*                -     Rath Yatra
 
-Punjab                -     Baisakhi
+Punjab*                -     Baisakhi
 
-Rajasthan             -     Bundi
+Rajasthan*             -     Bundi
 
 Sikkim                -     Saga Dawa
 
-Tamil Nadu            -     Pongal
+Tamil Nadu*            -     Pongal
 
-Telangana             -     Bonalu
+Telangana*             -     Bonalu
 
 Tripura               -     Kharchi Puja
 
-West Bengal           -     Durga Puja
+West Bengal*           -     Durga Puja
 
-Uttaranchal           -     Ganga Dussehra
+Uttaranchal*           -     Ganga Dussehra
 
-Uttar Pradesh         -     Ganga Mahotsav
+Uttar Pradesh*         -     Ganga Mahotsav
 
 ## Match the following
 
