@@ -1063,27 +1063,27 @@ Badrinath Temple is situated in Kerala.
 
 ### Nick names of India Cities
 
-Kanchipuram  - The City of Thousand Temples
+Kanchipuram*  - The City of Thousand Temples
 
-Jaipur - Pink city
+Jaipur* - Pink city
 
-Jaisalmer - Golden city
+Jaisalmer* - Golden city
 
-Agra- City of Taj
+Agra* - City of Taj
 
-Varanasi - City of light
+Varanasi* - City of light
 
 Pochampalle - Silk city
 
-Chennai - Detroit city
+Chennai* - Detroit city
 
-New Delhi - City of Rallies
+New Delhi* - City of Rallies
 
 Patiala - Royal City of India
 
-Jodhpur - Blue city
+Jodhpur* - Blue city
 
-Bhilwara - Textile city of India
+Bhilwara* - Textile city of India
 
 Coimbatore  - Manchester of South India
 
@@ -1091,23 +1091,23 @@ Ahmedabad - Manchester Of India
 
 Pondicherry - Paris of east in India
 
-Madurai - City of festivals
+Madurai* - City of festivals
 
-Kollam- Cashew capital of world
+Kollam*  - Cashew capital of world
 
-Kochi - Queen of Arabian sea
+Kochi* - Queen of Arabian sea
 
-Calicut - City of spices
+Calicut* - City of spices
 
-Hyderabad - City of Pearls 
+Hyderabad* - City of Pearls 
 
-Asansol - Land of Black Diamond
+Asansol* - Land of Black Diamond
 
-Bengaluru - Garden City of India 
+Bengaluru* - Garden City of India 
 
 Visakhapatnam  - City of Destiny
 
-Kolkata  - City of palaces 
+Kolkata*  - City of palaces 
 
 Nashik - Wine capital of India
 
@@ -1115,39 +1115,39 @@ Surat - Diamond city of India
 
 Pune - Deccan queen city
 
-Nagpur - Orange city
+Nagpur* - Orange city
 
 Jalgaon - Banana City
 
-Lucknow - City of Nawabs
+Lucknow* - City of Nawabs
 
-Mumbai  - City of Seven Islands
+Mumbai*  - City of Seven Islands
 
 Muzaffarpur - The Land of Litchi Sweet City
 
 Gurgaon - Millennium city of India
 
-Mysore - Sandalwood city
+Mysore* - Sandalwood city
 
-Bhubaneswar - Temple city of India
+Bhubaneswar* - Temple city of India
 
 Shillong  - Scotland of the East
 
 Cuttack - Silver city
 
-Jamshedpur - The city of steel
+Jamshedpur* - The city of steel
 
 Coorg - Scotland of India
 
-Kanpur - Leather city of the world
+Kanpur* - Leather city of the world
 
-Dibrugarh - Tea city of India
+Dibrugarh* - Tea city of India
 
-Udaipur - City of Lakes
+Udaipur* - City of Lakes
 
-Thrissur  - Gold Capital of India
+Thrissur*  - Gold Capital of India
 
-Panipat  - City of weavers
+Panipat*  - City of weavers
 
 ## Match the following
 
