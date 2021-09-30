@@ -712,7 +712,7 @@ Kerala*                 -     Kathakali
 
 Maharashtra            -     Lavani
 
-Madhya Pradesh*         -     Jawara
+Madhya Pradesh         -     Jawara
 
 Manipur*                -     Manipuri
 
