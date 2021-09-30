@@ -807,7 +807,7 @@ Kuchipudi is famous dance of Goa.
 
 Andhra Pradesh*        -     Ugadi
 
-Arunachal Pradesh*     -     Reh
+Arunachal Pradesh     -     Reh
 
 Assam                 -     Ambubachi
 
@@ -817,13 +817,13 @@ Chhattisgarh          -     Bastar Dussehra
 
 Goa                   -     Sunburn festival
 
-Gujarat*               -     Kutch Utsav
+Gujarat*               -     Makar Sankranti
 
-Himachal Pradesh*      -     Gochi Festival
+Himachal Pradesh      -     Gochi Festival
 
 Jammu and Kashmir*     -     Bahu Mela
 
-Karnataka*             -     Mysore Dasara
+Karnataka*             -     Dasara
 
 Kerala*                -     Onam
 
@@ -837,9 +837,9 @@ Manipur               -     Yaoshang
 
 Nagaland*              -     Hornbill festival
 
-Odisha*                -     Rath Yatra
+Odisha                -     Rath Yatra
 
-Punjab*                -     Baisakhi
+Punjab*                -     Lohri
 
 Rajasthan*             -     Bundi
 
@@ -876,12 +876,12 @@ _____________ is the famous festival celebrated at Goa.
 Sunburn festival, Onam, Ambubachi
 
 ___________________ is the famous festival celebrated at Gujarat.
-Kutch Utsav, Mysore Dasara, Hornbill festival
+Makar Sankranti, Mysore Dasara, Hornbill festival
 
 ___________________ is the famous festival celebrated at Himachal Pradesh.
 Gochi Festival, Ganesh Utsav, Rath Yatra
 
-___________________ is the famous festival celebrated  at Jammu and Kashmir.
+___________________ is the famous festival celebrated at Jammu and Kashmir.
 Bahu Mela, Ambubachi, Reh 
 
 ________________ is the famous festival celebrated at Karnataka.
@@ -905,7 +905,7 @@ The  famous festival of Manipur is *Yaoshang*.
 ```
 Hornbill festival is the famous festival celebrated at * Nagaland (Kerala)*.
 *Rath Yatra  (Pongal)* is the famous festival celebrated at Odisha.
-* Baisakhi (Vishu)* is the famous festival celebrated at Punjab.
+*Lohri (Vishu)* is the famous festival celebrated at Punjab.
 *Bundi (Bonalu)* is the famous festival celebrated at Rajasthan .
 *Pongal (Kharchi Puja)* is the famous festival celebrated at Tamil Nadu.
 ```
