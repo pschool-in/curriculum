@@ -21,6 +21,12 @@ Vasudevan Baskaran*     -    Hockey
 
 David Campese*          -    Rugby 
 
+Shane Warne*            -    Cricket
+
+Aryton Senna*           -    Motor Racing
+
+Brian Lara*             -    Cricket
+
 Mariyappan Thangavelu*  -    Athletics
 
 Viswanathan Anand*      -    Chess
