@@ -1,22 +1,22 @@
 ## Planned topics
 
-1. Indian States and Languages
+1. Indian States and Languages*
 
-2. Indian States and state animals
+2. Indian States and state animals*
 
 3. Indian states and state birds
 
 4. Indian States and state flowers
 
-5. Indian States and state trees
+5. Indian States and state trees*
 
-6. Indian Dance forms and state of origins
+6. Indian Dance forms and state of origins*
 
-7. Indian famous state festivals 
+7. Indian famous state festivals* 
 
 8. Famous pilgrimages in India
 
-9. Nick names of India Cities
+9. Nick names of India Cities*
 
 
 ## Content
@@ -556,7 +556,7 @@ Arunachal Pradesh     -     Hollang
 
 Assam                 -     Hollang
 
-Bihar*                 -     Peepal
+Bihar                 -     Peepal
 
 Chhattisgarh          -     Sal
 
@@ -606,7 +606,7 @@ Uttar Pradesh*         -     Sita Ashok
 
 Uttarakhand           -     Buransh
 
-West Bengal*           -     Chatim tree
+West Bengal           -     Chatim tree
 
 ## Match the following
 
