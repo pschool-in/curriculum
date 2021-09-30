@@ -805,7 +805,7 @@ Kuchipudi is famous dance of Goa.
 
 ### Indian famous state festivals
 
-Andhra Pradesh*        -     Ugadi
+Andhra Pradesh*        -    Ugadi
 
 Arunachal Pradesh     -     Reh
 
@@ -821,7 +821,7 @@ Gujarat*               -     Makar Sankranti
 
 Himachal Pradesh      -     Gochi Festival
 
-Jammu and Kashmir*     -     Bahu Mela
+Jammu and Kashmir     -     Bahu Mela
 
 Karnataka*             -     Dasara
 
@@ -835,19 +835,19 @@ Meghalaya             -     Wangla
 
 Manipur               -     Yaoshang
 
-Nagaland*              -     Hornbill festival
+Nagaland              -     Hornbill festival
 
 Odisha                -     Rath Yatra
 
 Punjab*                -     Lohri
 
-Rajasthan*             -     Bundi
+Rajasthan            -       Bundi
 
-Sikkim                -     Saga Dawa
+Sikkim                -      Saga Dawa
 
 Tamil Nadu*            -     Pongal
 
-Telangana*             -     Bonalu
+Telangana*             -    Sankranti
 
 Tripura               -     Kharchi Puja
 
@@ -855,7 +855,7 @@ West Bengal*           -     Durga Puja
 
 Uttaranchal*           -     Ganga Dussehra
 
-Uttar Pradesh*         -     Ganga Mahotsav
+Uttar Pradesh         -     Ganga Mahotsav
 
 ## Match the following
 
@@ -894,7 +894,7 @@ Drag and drop the words at proper place
 
 ```
 The  famous festival of Kerala is *Onam*.
-The  famous festival of  Madhya Pradesh  is *Lok-rang Utsav*.
+The  famous festival of  Madhya Pradesh is *Lok-rang Utsav*.
 The  famous festival of Maharashtra  is *Ganesh Utsav*.
 The  famous festival of Meghalaya is *Wangla*.
 The  famous festival of Manipur is *Yaoshang*.
@@ -903,7 +903,7 @@ The  famous festival of Manipur is *Yaoshang*.
 ## Fill in the blanks (Using Options)
 
 ```
-Hornbill festival is the famous festival celebrated at * Nagaland (Kerala)*.
+Hornbill festival is the famous festival celebrated at *Nagaland (Kerala)*.
 *Rath Yatra  (Pongal)* is the famous festival celebrated at Odisha.
 *Lohri (Vishu)* is the famous festival celebrated at Punjab.
 *Bundi (Bonalu)* is the famous festival celebrated at Rajasthan .
