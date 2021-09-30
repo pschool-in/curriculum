@@ -162,8 +162,8 @@ Squash, Athletics, Hockey
 Anthony Maria Irudayam  belongs to ___________ sport.
 Carrom, Tennis, Rugby
 
-Narain Karthikeyan belongs to _________________ sport.
-F1 Car Racing, Gymnastics, Wrestling
+Shane Warne belongs to _________________ sport.
+Cricket, Gymnastics, Wrestling
 
 Mirabai Chanu belongs to _______________ sport.
 Weight Lifting, Gymnastics, Tennis
