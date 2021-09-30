@@ -552,17 +552,17 @@ Brahm Kamal is the not the state flower of Uttarakhand.
 
 Andhra Pradesh*        -     Neem
 
-Arunachal Pradesh*     -     Hollang
+Arunachal Pradesh     -     Hollang
 
 Assam                 -     Hollang
 
-Bihar                 -     Peepal
+Bihar*                 -     Peepal
 
 Chhattisgarh          -     Sal
 
 Goa                   -     Terninalia crenulate
 
-Gujarat*               -     Mango tree
+Gujarat*               -     Banyan
 
 Haryana               -     Pipal
 
@@ -576,7 +576,7 @@ Karnataka*             -     Sandalwood
 
 Kerala*                -     Coconut tree
 
-Madhya Pradesh*        -     Shala tree
+Madhya Pradesh        -     Shala tree
 
 Maharashtra*	          -     Mango tree
 
@@ -586,17 +586,17 @@ Meghalaya             -     Gamhar
 
 Mizoram               -     Mesual Ferrea
 
-Nagaland	            -     Alder
+Nagaland	            -       Alder
 
-Odisha*                -     Aswattha
+Odisha                -     Aswattha
 
-Punjab*                -     Shisham
+Punjab                -     Shisham
 
-Rajasthan*             -     Khejari
+Rajasthan             -     Khejari
 
 Sikkim                -     Rhododendron Niveum
 
-Tamil nadu*            -     Palmrah
+Tamil nadu*            -     palmyra palm
 
 Telegana*              -     Jammi Chettu
 
@@ -604,7 +604,7 @@ Tripura               -     Agar
 
 Uttar Pradesh*         -     Sita Ashok
 
-Uttarakhand*           -     Buransh
+Uttarakhand           -     Buransh
 
 West Bengal*           -     Chatim tree
 
@@ -625,7 +625,7 @@ Goa, Terninalia crenulate
 
 ```
 _______________ is the state tree of Gujarat.
-Mango tree, Sal, Shala tree
+Banyan, Sal, Shala tree
 
 _______________ is the state tree of Haryana.
 Pipal, Alder, Khejari
@@ -664,7 +664,7 @@ In Odisha, the state tree is *Aswattha (Gamhar)*.
 In Punjab, the state tree is *Shisham (Buransh)*.
 In Rajasthan, the state tree is *Khejari (Shisham)*.
 In Sikkim, the state tree is *Rhododendron Niveum (Sal)*.
-In Tamil Nadu, the state tree is *Palmrah (Buransh)*.
+In Tamil Nadu, the state tree is *palmyra palm (Buransh)*.
 ```
 
 ## True or False
