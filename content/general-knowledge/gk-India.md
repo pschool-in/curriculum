@@ -1,6 +1,6 @@
 ## Planned topics
 
-1. Indian States and its offical languages
+1. Indian States and Languages
 
 2. Indian States and state animals
 
@@ -21,65 +21,65 @@
 
 ## Content
 
-### Indian States and its offical languages
+### Indian States and Languages
 
-Andhra Pradesh       -   Telugu
+Andhra Pradesh*       -   Telugu
 
 Arunachal Pradesh    -   English
 
-Assam                -   Assamese
+Assam*                -   Assamese
 
-Bihar                -   Hindi
+Bihar*                -   Hindi
 
-Chhattisgarh         -   Hindi
+Chhattisgarh*         -   Hindi
 
-Goa                  -   Konkani
+Goa*                  -   Konkani
 
-Gujarat              -   Gujarati
+Gujarat*              -   Gujarati
 
-Haryana              -   Hindi
+Haryana*              -   Hindi
 
-Himachal Pradesh     -   Hindi
+Himachal Pradesh*     -   Hindi
 
-Jammu & Kashmir      -   Urdu
+Jammu & Kashmir*      -   Urdu
 
-Jharkhand            -   Hindi
+Jharkhand*            -   Hindi
 
-Karnataka            -   Kannada
+Karnataka*            -   Kannada
 
-Kerala               -   Malayalam
+Kerala*               -   Malayalam
 
-Madhya Pradesh       -   Hindi
+Madhya Pradesh*       -   Hindi
 
-Maharashtra          -   Marathi
+Maharashtra*          -   Marathi
 
-Manipur              -   Meitei (Manipuri)
+Manipur*              -   Meitei (Manipuri)
 
 Meghalaya            -   English
 
-Mizoram              -   Mizo, English & Hindi
+Mizoram*              -   Mizo
 
 Nagaland             -   English
 
-Odisha               -   Odia
+Odisha*               -   Odia
 
-Punjab               -   Punjabi
+Punjab*               -   Punjabi
 
-Rajasthan            -   Hindi
+Rajasthan*            -   Hindi
 
 Sikkim               -   English
 
-Tamil Nadu           -   Tamil
+Tamil Nadu*           -   Tamil
 
-Telangana            -   Telugu 
+Telangana*            -   Telugu 
 
-Tripura              -   Bengali, English & Kokborok
+Tripura              -   Bengali
 
-Uttar Pradesh        -   Hindi
+Uttar Pradesh*        -   Hindi
 
-Uttarakhand          -   Hindi
+Uttarakhand*          -   Hindi
 
-West Bengal          -   Bengali
+West Bengal*          -   Bengali
 
 ## Match the following
 
@@ -87,7 +87,7 @@ Match the following with its correct one
 
 ```
 Andhra Pradesh, Telugu
-Arunachal Pradesh, English
+West Bengal, Bengali
 Assam, Assamese
 Bihar, Hindi
 Goa, Konkani
@@ -106,8 +106,8 @@ Marathi, Odia, Kannada
 _________ is the official language of Manipur.
 Meitei, Urdu, Malayalam
 
-_________ is the official language of Meghalaya.
-English, Tamil, Telugu
+_________ is the official language of Andhra Pradesh.
+Telugu, Tamil, English
 
 ________ is the official language of Odisha.
 Odia, Malayalam, Kannada
@@ -148,7 +148,7 @@ Hindi is the official language of Karnataka.
 Bengali is the official language of Jammu and kashmir.
 ```
 
-******************************************************************************************************************************************************************************
+*****************************************************************************************************************************************************************************
 
 ### Indian States and state animals
 
