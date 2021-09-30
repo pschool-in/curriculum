@@ -686,7 +686,7 @@ Chatim tree is not the state tree of West Bengal.
 
 Andhra Pradesh*         -     Kuchipudi
 
-Arunachal Pradesh*      -     Wancho
+Arunachal Pradesh      -     Wancho
 
 Assam                  -    Kaligopal
 
@@ -696,7 +696,7 @@ Chhattisgarh           -     Gaur Maria
 
 Gujarat*                -     Dandiya Raas
 
-Goa*                    -    	Dekhni
+Goa                    -    	Dekhni
 
 Haryana                -     Jhumar
 
@@ -710,7 +710,7 @@ Karnataka*              -     Yakshagana
 
 Kerala*                 -     Kathakali
 
-Maharashtra*            -     Lavani
+Maharashtra            -     Lavani
 
 Madhya Pradesh*         -     Jawara
 
@@ -730,9 +730,9 @@ Tamil Nadu*             -     Bharatnatyam
 
 West bangal*            -     Gaudiya Nritya
 
-Uttar Pradesh*          -     Chappeli
+Uttar Pradesh          -     Chappeli
 
-Uttarakhand*            -     Garhwali
+Uttarakhand            -     Garhwali
 
 ## Match the following
 
