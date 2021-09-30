@@ -853,7 +853,7 @@ Tripura               -     Kharchi Puja
 
 West Bengal*           -     Durga Puja
 
-Uttaranchal*           -     Ganga Dussehra
+Uttaranchal           -     Ganga Dussehra
 
 Uttar Pradesh         -     Ganga Mahotsav
 
