@@ -203,119 +203,119 @@ Tiger Woods is a Chess master.
 ******************************************************************************************************************************************************************************
 ### Countries and their Currencies
 
-Afghanistan         -   Afghani
+Afghanistan*         -   Afghani
 
-Algeria             -    Dinar
+Algeria*             -    Dinar
 
-Albania             -    Lek
+Albania*             -    Lek
 
-Angola              -    New Kwanza
+Angola*              -    New Kwanza
 
-Argentina           -    Peso
+Argentina*           -    Peso
 
-Australia           -    Australian dollar
+Australia*           -    Australian dollar
 
-Austria             -    Euro 
+Austria*             -    Euro 
 
-Bahrain             -    Bahrain dinar
+Bahrain*             -    Bahrain dinar
 
-Bangladesh          -    Taka
+Bangladesh*          -    Taka
 
-Belgium             -     Euro 
+Belgium*             -     Euro 
 
-Bhutan              -     Ngultrum
+Bhutan*              -     Ngultrum
 
 Bolivia             -     Boliviano
 
-Brazil              -     Brazilian real
+Brazil*              -     Brazilian real
 
 Bulgaria            -      Lev
 
-Cambodia            -     Riel
+Cambodia*            -     Riel
 
-Canada              -     Canadian dollar
+Canada*              -     Canadian dollar
 
 Chile               -     Chilean Peso
 
-China               -     Chinese Yuan
+China*               -     Chinese Yuan
 
-Colombia            -     Colombian Peso
+Colombia*            -     Colombian Peso
 
-Cuba                -     Cuban Peso
+Cuba*                -     Cuban Peso
 
-Denmark             -     Danish Krone
+Denmark*             -     Danish Krone
 
-Egypt               -     Egyptian pound
+Egypt*               -     Egyptian pound
 
-Ethiopia            -     Birr
+Ethiopia*            -     Birr
 
 Fiji                -     Fiji dollar
 
 Finland             -     Euro 
 
-France              -     Euro 
+France*              -     Euro 
 
-Georgia             -     Lari
+Georgia*             -     Lari
 
-Germany             -     Euro 
+Germany*             -     Euro 
 
-Greece              -     Euro 
+Greece*              -     Euro 
 
 Hungary             -     Forint
 
 Iceland             -     Icelandic króna
 
-India               -     Indian Rupee
+India*               -     Indian Rupee
 
-Indonesia           -     Rupiah
+Indonesia*           -     Rupiah
 
-Iran                -     Rial
+Iran*                -     Rial
 
-Iraq                -     Iraqi Dinar
+Iraq*                -     Iraqi Dinar
 
 Ireland             -     Euro 
 
-Israel              -     Shekel
+Israel*              -     Shekel
 
-Italy               -      Euro 
+Italy*               -      Euro 
  
-Japan               -      Yen
+Japan*               -      Yen
 
 Kenya               -      Kenya shilling
 
-North Korea         -      Won
+North Korea*         -      Won
 
-South Korea         -      Won
+South Korea*         -      Won
 
-Kuwait              -      Kuwaiti Dinar
+Kuwait*              -      Kuwaiti Dinar
 
 Liberia             -      	Liberian dollar
 
-Libya               -      Libyan dinar
+Libya*               -      Libyan dinar
 
 Madagascar         -      Malagasy Ariary
 
-Malaysia           -      Ringgit
+Malaysia*           -      Ringgit
 
-Maldives           -      Rufiyaa
+Maldives*           -      Rufiyaa
 
 Mauritius          -      Mauritian rupee
 
-Mexico             -      Mexican peso
+Mexico*             -      Mexican peso
 
-Myanmar            -      Kyat
+Myanmar*            -      Kyat
 
-Nepal              -      Nepalese rupee
+Nepal*              -      Nepalese rupee
 
-Netherlands        -      Euro 
+Netherlands*        -      Euro 
 
-New Zealand        -      New Zealand dollar
+New Zealand*        -      New Zealand dollar
 
 Nigeria            -      Naira
 
 Norway             -      Norwegian krone
 
-Pakistan           -      Pakistani rupee
+Pakistan*           -      Pakistani rupee
 
 Palestine          -      Palestine Pound
  
@@ -323,45 +323,45 @@ Philippines        -      Peso
 
 Portugal	          -      Euro
 
-Qatar             -      Qatari riyal
+Qatar*             -      Qatari riyal
 
-Russia            -      Ruble
+Russia*            -      Ruble
  
-Saudi Arabia      -      Riyal
+Saudi Arabia*      -      Riyal
 
 Serbia            -      Serbian Dinar
 
-Singapore         -      Singapore dollar
+Singapore*         -      Singapore dollar
 
 Slovakia          -      Euro
 
-South Africa      -      Rand
+South Africa*      -      Rand
 
-Spain             -      Euro
+Spain*             -      Euro
 
-Sri Lanka         -      Sri Lankan rupee
+Sri Lanka*         -      Sri Lankan rupee
 
-Sweden            -      Krona
+Sweden*            -      Krona
 
-Switzerland       -      Swiss franc
+Switzerland*       -      Swiss franc
 
 Syria             -      	Syrian pound
 
 Taiwan            -      	Taiwan dollar
 
-Thailand          -       Baht
+Thailand*          -       Baht
 
 Turkey            -     	Turkish lira (YTL)
 
 Ukraine           -      Hryvnia
 
-United Arab Emirates  -  U.A.E. Dirham
+United Arab Emirates*  -  U.A.E. Dirham
 
-United Kingdom    -      Pound sterling
+United Kingdom*    -      Pound sterling
 
-United States of America  -  Dollar
+United States of America*  -  Dollar
 
-Vatican City      -       Euro
+Vatican City*      -       Euro
 
 Vietnam           -       Dong
 
@@ -406,10 +406,10 @@ Drag and drop the words at proper place
 
 ```
 The national currency of *India* is Indian Rupee.
-The national currency of *Malaysia*  is Ringgit.
-The national currency of *Qatar*  is Qatari riyal.
-The national currency of *Portugal * is Euro.
-The national currency of *Indonesia*  is Rupiah.
+The national currency of *Malaysia* is Ringgit.
+The national currency of *Qatar* is Qatari riyal.
+The national currency of *Portugal* is Euro.
+The national currency of *Indonesia* is Rupiah.
 ```
 
 ## Fill in the blanks (Using options)
