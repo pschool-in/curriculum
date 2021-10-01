@@ -23,6 +23,8 @@ Force can change the *shape* of an object.
 Friction slows down *movements*. A wet floor is slippery because there is very little *friction*.
 ```
 
+
+
 ## Force - MCQ
 
 Multiple Choice Questions
