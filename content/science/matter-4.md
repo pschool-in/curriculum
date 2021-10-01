@@ -39,3 +39,260 @@ Materials which cannot be bent or stretched easily are known as rigid materials.
 ### Waterproof Materials
 
 Materials that do not allow water to pass through them are called Waterproof Materials. eg : raincoat and aluminium foil of tablet strip.
+
+## Hard vs Soft
+
+Classify the below as hard and soft materials.
+
+Hard - wood, brick, bone, steel
+
+Soft - eraser, cotton, foam, clay, skin
+
+## Shiny vs Dull
+
+Classify the below as shiny and dull materials.
+
+Shiny - stainless steel, gold, diamond, mirror
+
+Dull - candle, paper, jute bag, wood
+
+## Rough vs Smooth
+
+Classify the below as rough and smooth materials.
+
+Rough - brick, rock, tyre
+
+Smooth - mirror, silk cloth, tiles, plate
+
+## Flexible vs Rigid
+
+Classify the below as flexible and rigid materials.
+
+Flexible - rubber band, electric wire, cycle tube
+
+Rigid - stone, wooden scale, steel pipe
+
+## Match
+
+Match the related ones.
+
+```
+rough, rock
+smooth, tiles
+shiny, gold
+soft, cotton
+hard, steel
+```
+
+## Match
+
+Match the related ones.
+
+```
+wood, chair
+paper, book
+stainless steel, spoon
+mud, bricks
+glass, jar
+```
+
+## Match
+
+Match the related ones.
+
+```
+leather, shoe
+wood, table
+rubber, tyre
+wax, candle
+cotton, dress
+```
+
+## Multiple Choice Questions
+
+```
+Materials that can be bent are called _____.
+flexible, soft, hard, rigid
+
+Which of the following is not a soft material?
+mirror, clay, skin, cotton
+
+The materials that does not allow water to pass through are called _________ materials.
+waterproof, dry, wet, hard
+
+Which of the following is called the natural source of light?
+The Sun, The Moon, Electric light, Torch light
+
+Which of the following is not made of rubber?
+candle, tyre, eraser
+```
+
+## True or False
+
+```
+True:
+Gold and diamond are examples of shiny material.
+Aluminium foil of tablet strips are waterproof.
+Plastic scale is flexible but wooden scale is not flexible.
+
+False:
+Car tyres are smooth.
+Cycle tube is not flexible.
+```
+
+## Odd One Out
+
+Pick the odd one out.
+
+```
+silk cloth, brick, coir, pine apple
+stone, rubber band, cycle tube, electric wire
+pen, sun, candle, torch
+sponge, umbrella, rain coat, jerkin
+glass bottle, paper plate, wooden board
+```
+
+### Light
+
+We see the world around us with the help of light. Where do we get light from? Light may come either from the Sun or from other sources like an electric lamp or a bulb. The objects that give off light are called light sources.
+
+### Transparent,Translucent and Opaque objects
+
+Transparent objects allow the light to pass through them. So, we can see things on the other side of the object. eg: air, glass and pure water.
+
+Translucent objects allow some light to pass through them. So, we cannot see objects clearly, but we see them as blurred images through them. eg: paper soaked in oil, snow and vegetable oil.
+
+Opaque objects do not allow light to pass through them. So, we cannot see through these objects. eg : wood, stone and metals.
+
+### Experiment
+
+Material Required: torch light, mirror, dark room
+
+Direct the torch light on the mirror. You can observe the light getting reflected and falling on some other part of the room. If we tilt the mirror, the position of the reflected light changes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
