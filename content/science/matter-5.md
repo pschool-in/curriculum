@@ -111,7 +111,7 @@ pen, manmade
 ```
 
 
-### Fibres
+## Fibres
 
 Fibre is a thin thread of natural or artificial substances. It is used to make cloths with the help of powerlooms or weaving machines. 
 
@@ -231,7 +231,7 @@ Polyester, PET bottles
 Nylon, Parachutes
 ```
 
-### Grains
+## Grains
 
 Grain is a small, hard, dry seed. Each grain is protected by a husk. Two main types of commercial grain crops are cereals and legumes. Wheat, maize, rice, beans, peas, barely and millets are some of the whole grains.
 
