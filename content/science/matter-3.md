@@ -88,7 +88,9 @@ Drag and drop the words at proper place.
 *Gas* has no fixed shape and no fixed volume.
 ```
 
-### Change in States of Matter
+
+
+## Change in States of Matter
 
 Matters change their state as the temparature changes. Solid changes to liquid and liquid changes into gas on heating. Gas becomes liquid and liquid becomes solid on cooling.
 
@@ -155,7 +157,8 @@ Water is commonly avaiable in gas form.
 Metals like gold, iron cannot be melted.
 ```
 
-### Fuel
+
+## Fuel
 
 Paper, firewood, dried leaves and charcoal can be burnt. Liquids like kerosene, petrol and diesel also burn on heating. Domestic gas burns and helps in cooking.
 
