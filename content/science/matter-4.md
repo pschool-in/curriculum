@@ -1,7 +1,5 @@
 # matter-4
 
-## Reading
-
 ## Matter and Materials
 
 ### Materials
