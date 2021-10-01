@@ -2,7 +2,7 @@
 
 ## Reading
 
-### States of Matter
+## States of Matter
 
 We can see a number of things around you. Everything we can see and touch is made up of matter. Anything that occupies space and has mass is called matter.
 
