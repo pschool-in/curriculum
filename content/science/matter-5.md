@@ -157,9 +157,7 @@ Coir fibre is obtained from the outer covering of coconut. It is used to make fl
 
 ### Synthetic Fibres
 
-These fibres are made by human
-beings with the help of chemical process. They are also called as manmade fibre. These fibres are obtained
-from coal, petroleum and natural gas.
+These fibres are made by human beings with the help of chemical process. They are also called as manmade fibre. These fibres are obtained from coal, petroleum and natural gas.
 
 ### Uses of synthetic fibres
 
