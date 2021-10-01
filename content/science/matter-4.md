@@ -171,6 +171,63 @@ Material Required: torch light, mirror, dark room
 
 Direct the torch light on the mirror. You can observe the light getting reflected and falling on some other part of the room. If we tilt the mirror, the position of the reflected light changes.
 
+## True or False
+
+Classify the below sentences as true and false
+
+```
+True:
+We see the world around us with the help of light.
+Paper soaked in oil is translucent.
+
+False:
+All solids are opaque.
+Transparent objects are invisible to human eyes.
+If we tilt the mirror, the direction of reflection does not change.
+```
+
+## Multiple Choice Questions
+
+```
+Which is not a source of light?
+mirror, bulb, sun
+
+The material that does not allow light to pass through are called ______.
+opaque, transparent, translucent
+
+Which of the following is not a transparent object?
+paper, glass, pure water, air
+
+Which of the following is not an opaque object?
+oil, metal, wood, stone
+
+Which of the following reflect light?
+mirror, glass, air, wood
+```
+
+## Match
+
+Match the related ones.
+
+```
+light source, Sun
+waterproof, rain coat
+transparent, glass
+translucent, vegetable oil
+opaque, metal
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+We see the world around us with the help of *light*.
+The objects that give off light are called light *sources*.
+Light usually get *reflected* from mirror. 
+Wood is *opaque*, but glass is *transparent*.
+```
+
 
 
 
