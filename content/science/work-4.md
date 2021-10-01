@@ -135,7 +135,91 @@ When the load is between the effort and the fulcrum, it is known as Class II lev
 
 ### Class III lever
 
-In this lever, the effort is between the load and the fulcrum. eg: stapler, tongs, broom stick, hockey stick.`
+In this lever, the effort is between the load and the fulcrum. eg: stapler, tongs, broom stick, hockey stick.
+
+## Multiple Choice Questions - MCQ
+
+Multiple Choice Questions
+
+```
+We draw water from the well with the help of ______.
+pully, wedge, inclined plane
+
+Which of the following can be considered as an example for wedge?
+Axe, Screw, Wheel
+
+Which of the following is not an inclined plane?
+Wheel, Ramp, Slide, Slope
+
+A lever is used to ______ the force we give on an object.
+multiply, add, subtract, divide
+
+Which of the following is not a function of a screw?
+To move up the slope, To raise weight, To hold objects together
+
+How many types of lever are there?
+Three, Four, Five, Two
+
+Which is not a part of lever?
+Axle, Load, Effort, Fulcrum
+```
+
+## Lever - classify
+
+Classify the below as Class I or II lever.
+
+Class I Lever - scissors, pliers, seesaw
+
+Class II Lever - leman squeezer, nut cracker, bottle opener
+
+## Match
+
+Match the related ones
+
+```
+Class 1, Seesaw
+Class 2, Nut cracker
+Class 3, Stapler
+Inclined plane, Ramp
+Wedge, Axe
+```
+
+## Match 2
+
+Match the related ones.
+
+```
+Class 1, Scissors
+Class 2, Lemon squeezer
+Class 3, Hockey stick
+Inclined plane, Slide
+Wedge, Knife
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+Lever* is cassified into three types.
+*Load* is the object on which the force is applied.
+*Effort* is the force we apply on the lever.
+*Fulcrum* is the point on which the lever rotates.
+*Simple* machines usually exchange a smaller force to move a heavy object.
+```
+
+## True or False
+
+```
+True:
+Stapler is an example of Class III lever.
+Scissors is an example of Class I lever.
+Nut Cracker is an example of Class II lever.
+
+False:
+Broom stick is an example of Class II lever.
+Seesaw is an example of Class III lever.
+```
 
 
 
