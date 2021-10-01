@@ -101,6 +101,88 @@ Friction is a force between two surfaces in contact or when they slide over one 
 Early man accidentally discovered fire by rubbing two flint stones together. The frictional force between two stones created a spark.
 
 If you put your palm together and rub them against each other. You can feel the heat on your palm.
+
+## MCQ - 2
+
+Multiple Choice Questions
+
+```
+Lighting a match is an example of
+frictional force, magnetic force, gravitational force
+
+Dried leaves from the tree fall to the ground because of
+gravitational force, frictional force, mechanical force
+
+The electric fan rotates because of 
+mechanical force, muscular force, gravitational force
+
+We travel on a bicycle using 
+muscular force, mechanical force, a force
+
+The shape of the eraser changes because of
+frictional force, gravitational force, mechanical force
+```
+
+## True or False
+
+```
+True:
+Gravitation is a pull force.
+Magnetic force is a non-contact force.
+To ride a bicycle, we use muscular force.
+
+False:
+Magnetic force is always a push force.
+We don't need force to stop a moving body.
+Gravitation is a contact force.
+Magnet attracts things that are made up of iron and plastic.
+```
+
+## Contact Force
+
+Drag and drop in the right boxes.
+
+Contact Force - mechanical, muscular, frictional, kicking a ball
+
+Non-Contact Force - gravitation, magnet, vaccum cleaner
+
+## Right Spelling
+
+Select the word with the correct spelling.
+
+```
+accident, accidant, acidant
+surface, sarface, surfase, sarfase
+different, differant, diferant, diferent
+movement, movment
+slippery, slipery, slipary, slippary
+classified, clasified, classifeid
+gravitation, gravetation, gravitetion
+muscular, mascular, musculer, masculer
+mechanical, machanical, mechanicel, machanicel 
+eraser, erasor, erasar
+```
+
+## Fillup - 2
+
+Drag and drop the words at proper places.
+
+```
+A *force* is needed to make a stationary object move. 
+The force applied with the help of muscle is called *muscular* force.
+The reason for the fruits to fall from the tree is *gravitation*.
+Force changes the speed and *direction*.
+Magnets attracts things made of *iron*.
+Early humans discovered fire by rubbing *flint* stones.
+```
+
+
+
+
+
+
+
+
       
 
 
