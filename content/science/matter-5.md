@@ -166,11 +166,135 @@ These fibres are made by human beings with the help of chemical process. They ar
 3. Polyester is used to make fabric for suits and shirts, hoses, conveyer belts, films, PET bottles and wires. 
 4. Acrylic is used to make sweaters, shawls and blankets.
 
+## Multiple Choice Questions
 
+```
+Ginning is the process of _______.
+separating seeds from cotton, making yarn, removing impurities
 
+Floor mats are usually made up of _____.
+coir, jute, cotton
 
+Jute is extracted from the _____ of the plant.
+stem, fruit,root, flower
 
+Coir is extracted from _____.
+coconut, cashewnut, banana tree, baniyan tree
 
+Fishing nets are usually made up of _____.
+nylon, cotton, polyester, coir
+
+Pick the correct order in the manufaturing process of cotton fabric.
+Ginning, Combing, Spinning, Weaving
+Combing, Spinning, Weaving, Ginning
+Spinning, Combing, Ginning, Weaving
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+Cotton grows well in *black* soil. The process of separating seeds is called *ginning*. Short fibres and other impurities are removed by the process of *combing*. The process of making yarn is called *spinning*. Two sets of yarns are linked together through the process of *weaving*.
+```
+
+## Natural vs Artificial
+
+Classify the below.
+
+Natural - cotton, coir, jute, wool, silk
+
+Artificial - polyester, nylon, rayon, acrylic
+
+## True or False
+
+```
+True:
+Water bottles are made from polyester.
+Sacks used to store grains are made from jute.
+Wool and silk are examples of animal fibres.
+
+False:
+Nylon is used in making shirts.
+Coir is used in preparing surgical bandages.
+```
+
+## Match
+
+Match the related ones.
+
+```
+Coir, Brushes
+Jute, Bags
+Cotton, Sarees
+Polyester, PET bottles
+Nylon, Parachutes
+```
+
+### Grains
+
+Grain is a small, hard, dry seed. Each grain is protected by a husk. Two main types of commercial grain crops are cereals and legumes. Wheat, maize, rice, beans, peas, barely and millets are some of the whole grains.
+
+# Wheat
+
+This is the most important crop in the world. Whole wheat is rich in fibre, vitamins and minerals. Some of the common wheat products are bread, cake and pasta.
+
+# Maize
+
+In many tropical and sub tropical countries (Mexico and America) maize is the main food that people eat. It is also rich source of many vitamins and minerals. Corn syrup is used as a sweetener instead of sugar in many products.
+
+# Rice
+
+Rice is a type of grass. Ninety percent of the world's rice production is in Asia. White rice contains few essential nutrients. Brown rice is a whole grain that contains the fibrous bran. Brown rice is usually considered much healthier than white rice.
+
+# Millets
+
+Millets are a group of small seeded grasses. They are widely grown around the world as cereal crops for fodder and human food. It helps in weight loss. It is rich in fibre. Some of the millet products are sorghum, fox tail millet, finger millet, pearl millet, Barnyard millet.
+
+## Multiple Choice Questions - MCQ
+
+```
+Bread and cake are usually made from ______.
+wheat, maize, rice, millets
+
+The common grain that grows in Mexico is ______.
+maize, rice, barely, wheat
+
+______ syrup is used as a sweetener.
+Corn, Rice, Millet, Wheat
+
+_______ are commonly used as fodder for cattles.
+Millets, Rice, Wheat, Corn
+
+Rice is majorly produced in ______.
+Asia, Africa, Australia, Europe
+
+Another name for maize is ______.
+corn, fibre, brown rice
+```
+
+## True or False
+
+```
+True:
+Grains are protected by husk.
+Millets are a group of small seeded grasses.
+Rice is grown a type of grass.
+
+False:
+White rice is healthier than brown rice.
+Maize is commonly used as fodder for cattles.
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+Grain is a small, hard, dry *seed* and they are protected by a *husk*. Two main types of commercial grain crops are cereals and *legumes*. 
+Some of the common wheat products are bread, *cake* and pasta.
+In many *tropical* countries, maize is the main food that people eat.
+```
 
 
 
