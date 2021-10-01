@@ -87,6 +87,64 @@ A solar panel uses *light(heat,electrical)* energy to produce electricity.
 A battery gives energy in the form of *electrical (light, heat)* energy.
 ```
 
+## Energy or Not'
+
+Classify the below items as a type of energy or not.
+
+Energy - wind, light, chemical, heat, potential
+
+Not an Energy - time, weight, tree, bridge, pollution
+
+## Multiple Choice Questions - MCQ
+
+Multiple Choice Questions
+
+```
+We need energy to do our work. We get energy from
+the food we eat
+the music we hear
+the games we play
+
+Moving object has _______.
+kinetic energy, potential energy, electrical energy
+
+Which of the following is not a mechanical energy?
+chemical energy, potential energy, kinetic energy
+
+Windmills are usually build in the places where there is _______.
+lot of wind blowing,
+lot of rain,
+no wind, as windmill may fall down due to the wind.
+
+A stone in a stretched catapult has _______.
+potential energy, kinetic energy, wind energy
+
+Which of the following are true statements?
+* Energy can neither be created not be destroyed.
+* We can convert one form of energy into another.
+* Petrol has chemical energy which is used to run vehicles.
+```
+
+## True or False
+
+```
+True:
+Water stored in dams possesses potential energy.
+Energy can neither be created nor be destroyed.
+Ceiling fan converts electrical energy into mechanical energy.
+
+False:
+We can produce energy without the help of any objects.
+Electric lamp converts electrical energy into heat energy.
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+Mobiles and laptops run on *electrical* energy. Wind mills convert *kinetic* energy of winds into electrical energy. Moving body can be brought to rest using *mechanical* energy. Photosynthesis changes solar energy into *chemical* energy. Iron box converts electrical energy into *heat* energy.
+```
 
 
 
