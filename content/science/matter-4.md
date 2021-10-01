@@ -152,6 +152,7 @@ sponge, umbrella, rain coat, jerkin
 glass bottle, paper plate, wooden board
 ```
 
+
 ### Light
 
 We see the world around us with the help of light. Where do we get light from? Light may come either from the Sun or from other sources like an electric lamp or a bulb. The objects that give off light are called light sources.
