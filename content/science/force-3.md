@@ -11,9 +11,7 @@ It can change the shape of an object, change the speed of the moving object and 
   
 When you throw a ball up, no matter how high it goes, it is sure to come down. This is because of gravitational force. This force attracts objects to the center of the earth. 
  
-When two objects touch each other, a special type of force develops between them. This special force is called friction. Friction slows down movements. When friction is very less, things move easily.
-When friction is more, it becomes difficult to move things. A wet floor is slippery because there is very little friction. Friction makes it possible for you to write. You cannot hold a pencil in your hand without friction. 
-It would slip out from your hands. The pencil cannot make a mark on the paper without friction.
+When two objects touch each other, a special type of force develops between them. This special force is called friction. Friction slows down movements. When friction is very less, things move easily. When friction is more, it becomes difficult to move things. A wet floor is slippery because there is very little friction. Friction makes it possible for you to write. You cannot hold a pencil in your hand without friction. It would slip out from your hands. The pencil cannot make a mark on the paper without friction.
 
 ## Fill Up
 
@@ -76,6 +74,7 @@ Eg. Vaccum cleaner, magnet, gravitation
 ### Muscular Force
 
 The force applied by using parts of our body is called muscular force.
+
 We use our legs to pedal our bicycle. We use our hands to make some model from clay.
 
 ### Mechanical Force
@@ -96,6 +95,7 @@ A magnet is a material that attracts things made of iron. The force that attract
 When we roll down a ball on grass ground, it slows down and finally stops. We know that an object cannot stop without force. The force that stopped the ball is frictional force. Force exerted by the surface when an object moves over it is called Frictional force.
 
 When we use eraser on a paper, the shape of the eraser changes. It is because of the friction between the erasor and the paper.
+
 Friction is a force between two surfaces in contact or when they slide over one another.
 
 Early man accidentally discovered fire by rubbing two flint stones together. The frictional force between two stones created a spark.
