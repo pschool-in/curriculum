@@ -169,6 +169,7 @@ Electrical energy is also used as fuel for cooking and transporting.
 
 ## Multiple Choice Questions
 
+```
 Gas has ______.
 mass, shape, volume
 
@@ -189,6 +190,52 @@ Liquid Petroleum Gas, Light Petrol Gas, Liquid Petrol Gas
 ```
 
 ## True or False
+
+```
+True:
+Domestic gas (LPG) helps in cooking.
+Water does not catch fire.
+Fuels are mainly used for cooking and transportation.
+
+False:
+Electrical energy cannot be used as fuel.
+All solid matters can be used as a fuel.
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+Cars run on *petrol*.
+*LPG* is used for cooking.
+Oven uses *electrical* energy.
+Substances that give lot of heat on burning is called *fuel*.
+*Kerosene* is the liquid fuel commonly used for cooking.
+```
+
+## Drag and Drop
+
+Drag and drop the words at proper place.
+
+```
+Fuel gives *heat* energy on burning.
+An example for solid is *stone*.
+An example for liquid is *water*.
+Moving air in the atmosphere is called *wind*.
+The measure of matter in an object is called *mass*.
+```
+## Match
+
+Match the related ones.
+
+```
+solid to liquid, melting
+water to vapour, evaporation
+vapour to liquid, condensation
+liquid to solid, freezing
+```
+
 
 
 
