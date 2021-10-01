@@ -93,6 +93,50 @@ The escalator moves by using *electricity* as energy.
 
 ## Simple Machine
 
+In our daily life our effort is saved with the help of some simple machines.
+
+We draw water from the well with the help of a wheel and a rope.
+
+Simple machines are tools which are used to make our work easier. Some examples for simple machines are pulley, wedge, inclined plane, screw, lever, wheel and axle.
+
+A pulley is a machine made up of a wheel with a cut around it. A rope or chain passes around the pulley. It rotates in the direction with more force. eg: crane, well
+
+An inclined plane is a flat sloping surface with one end higher than another. eg: ramp, slide and slope for wheel chair.
+
+A wedge is a tool with a sharp edge which can be used to split materials. It is used to break wooden logs into two pieces. eg: knife, scissors and axe.
+
+The screw is used to raise weights and to hold objects together. eg: pencil sharpener, screw-jack, bottle cap and windmill.
+
+The screw in the bottle cap holds the cap and the bottle together. The blade and sharpner are held together by screw.
+
+Wheel and axle consist of a wheel attached to a small rod so that these two parts rotate together. eg: bicycle wheel, door knob, grinder, axle wheel.
+
+Simple machines usually exchange a smaller force to move a heavy object. The work required is the same, but the force required is less. 
+
+### Lever
+
+A lever is used to multiply the force we give on an object. eg: see saw, nut cracker and plier.
+
+To understand the lever, we must know the following terms.
+
+1. Load is the object on which the force is applied.
+2. Effort is the force we apply on the lever.
+3. Fulcrum is the point on which the lever rotates.
+
+Lever is classified into three types according to where the load and effort are located with respect to fulcrum.
+
+### Class I lever
+
+When the fulcrum is between the effort and the load, it is known as Class I lever.eg: scissors, pliers, seesaw.
+
+### Class II lever
+
+When the load is between the effort and the fulcrum, it is known as Class II lever. eg: wheel barrow, lemon squeezer, nut cracker
+
+### Class III lever
+
+In this lever, the effort is between the load and the fulcrum. eg: stapler, tongs, broom stick, hockey stick.`
+
 
 
 
