@@ -235,19 +235,19 @@ Nylon, Parachutes
 
 Grain is a small, hard, dry seed. Each grain is protected by a husk. Two main types of commercial grain crops are cereals and legumes. Wheat, maize, rice, beans, peas, barely and millets are some of the whole grains.
 
-# Wheat
+### Wheat
 
 This is the most important crop in the world. Whole wheat is rich in fibre, vitamins and minerals. Some of the common wheat products are bread, cake and pasta.
 
-# Maize
+### Maize
 
 In many tropical and sub tropical countries (Mexico and America) maize is the main food that people eat. It is also rich source of many vitamins and minerals. Corn syrup is used as a sweetener instead of sugar in many products.
 
-# Rice
+### Rice
 
 Rice is a type of grass. Ninety percent of the world's rice production is in Asia. White rice contains few essential nutrients. Brown rice is a whole grain that contains the fibrous bran. Brown rice is usually considered much healthier than white rice.
 
-# Millets
+### Millets
 
 Millets are a group of small seeded grasses. They are widely grown around the world as cereal crops for fodder and human food. It helps in weight loss. It is rich in fibre. Some of the millet products are sorghum, fox tail millet, finger millet, pearl millet, Barnyard millet.
 
