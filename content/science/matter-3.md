@@ -157,6 +157,44 @@ Metals like gold, iron cannot be melted.
 
 ### Fuel
 
+Paper, firewood, dried leaves and charcoal can be burnt. Liquids like kerosene, petrol and diesel also burn on heating. Domestic gas burns and helps in cooking.
+
+Substances when burnt give out heat. But in some substances, the heat released is very low. Thus, these are not used for heating purpose.
+
+Substances that give out more heat while burning are used for heating purpose.
+
+These substances are called fuels.
+
+Electrical energy is also used as fuel for cooking and transporting.
+
+## Multiple Choice Questions
+
+Gas has ______.
+mass, shape, volume
+
+_____ is used for heating and preparing food.
+Fuel,  Paper, Gas
+
+______ energy is also used as fuel.
+Electrical, Magnetic, Glucose
+
+______ is the common fuel used in cars.
+Petrol, Charcoal, Firewood, LPG
+
+______ is the common fuel used in cooking.
+LPG, Petrol, Paper
+
+LPG stands for _____
+Liquid Petroleum Gas, Light Petrol Gas, Liquid Petrol Gas
+```
+
+## True or False
+
+
+
+
+
+
 
 
 
