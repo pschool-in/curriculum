@@ -29,7 +29,7 @@ dolphin
 dragonfly
 fish| मछली
 frog| मेंडक
-crab
+crab| केकड़ा
 snake| साँप
 squirrel| गिलहरी
 tortoise| कछुआ,
@@ -55,7 +55,7 @@ leopard| तेंदुआ
 mongoose| नेवला
 mosquito| मच्छर
 octopus
-wolf
+wolf|भेड़िया
 cockroach
 garden-lizard
 lizard| छिपकली

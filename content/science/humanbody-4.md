@@ -43,14 +43,14 @@ Controlling movements, becoming aware of *emotions (movements)* and interpreting
 Classify sentence as true or false.
 ```
 True:
-Brain controls the entire body.
-Heart pumps blood.
-Food pipe is in thoracic cavity.
+The brain controls the entire body.
+The heart pumps blood.
+Food pipe is in the thoracic cavity.
 
 False:
 Oxygenated blood flows through veins.
-Beating of heart is voluntary action.
-Lungs pumps blood.
+Beating of heart is a voluntary action.
+Lungs pump blood.
 ```
 ## Choose the correct answer. (mcq)
 ```
@@ -74,22 +74,22 @@ complex, simple, compound
 ```
 Supply blood, heart
 Breathing, lungs
-Carry food , alimentary canal
+Carry food, alimentary canal
 Control center, brain
 
 ```
 ## Name the following. (drag and drop)
 ```
-Cavity inside head - *cranial* cavity
-Cavity in chest - *thoracic* cavity
-Cavity in upper abdomen - *abdominal* cavity
-Cavity in lower abdomen - *pelvic* cavity
+The cavity inside the head - *cranial* cavity
+The cavity in the chest - *thoracic* cavity
+The cavity in  the upper abdomen - *abdominal* cavity
+The cavity in the lower abdomen - *pelvic* cavity
 ```
 ## Journey of food. (drag and drop)
 ```
 The journey of food in our body begins in the *mouth*. 
 The internal organs in the *abdomen* help to digest it. 
-The undigested, unwanted part is passed out through the *anus* in the form of *faeces*.That is where the journey *ends*.
+The undigested, unwanted part is passed out through the *anus* in the form of *faeces*. That is where the journey *ends*.
 *Food* travels through a pipe-like pathway from the mouth to the anus. It is called the *alimentary* canal. It is about *9* metres long. 
 The *oesophagus* is a part of the alimentary canal.
 ```

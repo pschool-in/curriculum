@@ -6,25 +6,27 @@ Chapter: tn-3-2-social: Sanctuaries
 
 ### What are Sanctuaries?
 
-Sanctuary is a place, where animals and birds are brought together and protected from hunting and other harmful human activities. They can lead a peaceful life with a good ecosystem. Sanctuaries are run by the government. Our government also runs the biosphere reserve, where they conserve plants, wild animals, and birds. The flora and fauna are maintained in the biosphere reserves, national parks, sanctuaries, etc. Moreover, there are many national parks, where our government is taking care of rare and many diverse species. For example, Jim Corbett National Park is known for Bengal tigers. Due to these conservation efforts, many wild animal populations which had once decreased have once again started to increase in India. 
+Sanctuary is a place, where animals and birds are kept together. They are protected from hunting and other harmful human activities. They can lead a peaceful life with a good ecosystem. Sanctuaries are run by the government. Our government also runs the biosphere reserves, national parks, sanctuaries. They conserve plants, wild animals, birds, rare and diverse species. 
+
+For example, Jim Corbett National Park is known for Bengal tigers. The conservation efforts created a huge impact in saving wild animals. Many wild animal populations which had once decreased have once again started to increase in India.
 
 ## Group: Wildlife Sanctuaries Vs. National Parks
 
 Classify the below things based on the category of Wildlife Sanctuaries and National Parks in India.
 
-Wildlife Sanctuaries: Govind Sanctuary, Mudumalai Sanctuary, Periyar Sanctuary, Bharatpur Sanctuary
+Wildlife Sanctuaries: Govind, Mudumalai, Periyar, Bharatpur
 
-National Parks: Anamudi Shola Park, Anshi Park, Balphakram Park, Betla Park
+National Parks: Anamudi Shola, Anshi, Balphakram, Betla
 
 ## Match the following
 
 Match the following with its correct one.
 
 ```
-Vendanthangal Sanctuary, Birds
-Anamudi Reserve, Elephants
-Gir National Park, Lions
-Bandipur Reserve, Tigers
+Vendanthangal, Birds
+Anamudi, Elephants
+Gir Park, Lions
+Bandipur, Tigers
 Botanical Garden, Flora
 ```
 

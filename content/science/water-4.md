@@ -5,9 +5,9 @@
 ### Importance of Water Cycle
 
 1. Increases the availability of ground water.
-2. Control Earth‛s temperature.
+2. Control earth‛s temperature.
 3. Provides water to plants, animals and humans.
-4. Recycles Earth‛s supply of water constantly.
+4. Recycles earth‛s supply of water constantly.
 
 ### Did you know?
 
@@ -63,7 +63,7 @@ These wells are very deep and narrow. So, the groundwater is extracted with the 
 
 ### Do you know?
 
-In some areas, big water jars, made of clay, are kept for road-side thirsty people. No charges are taken for drinking this water. These are known as Panpoi or Drinking Water Strands.
+In some areas, big water jars, made of clay, are kept for road-side thirsty people. No charges are taken for drinking this water. These are known as Panpoi or Drinking Water Stands.
 
 ## Activities
 
@@ -203,7 +203,7 @@ Filtration- process of separating particles from water.
 
 Find the words listed. (title)
 ```
-Alum, Filtration, Settling, Microbes, Microorganism, Boiling, Saline, Solution
+Alum, Filtration, Settling, Microbes, Boiling, Saline, Solution
 ```
 
 # Chapter maha g4: Water for every household

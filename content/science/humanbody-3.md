@@ -127,14 +127,14 @@ Difficulties may arise due to lack of co-ordination.
 ### Disability
 
 If any organ does not function well, we may face difficulties in
-doing our work.We must not give up in the face of difficulties. They can be overcome.
+doing our work. We must not give up in the face of difficulties. They can be overcome.
 
 ### Overcoming Disability
 
 Some disabilities can be corrected by medical treatment. In some matters, we can take the help of other people. Often, some special devices can be used to overcome the disability.
 
 1. If we cannot see well, we can use spectacles.
-2. If we cannot see at all, we can make use of sounds, or feel with the hands to get things done.
+2. If we cannot see at all, we can make use of sounds, or feel with our hands to get things done.
 3. A person who cannot hear well, can use a hearing aid.
 4. Those who cannot hear at all, can use sign language.
 5. If there is a defect in the leg, a special wheelchair can be used.
@@ -145,8 +145,8 @@ Classify the sentence based on the sensory organ that gives you the information.
 ```
 Eyes:
 See the sunrise.
-There is a bump in the road
-There is a rock in your path
+There is a bump in the road.
+There is a rock in your path.
 
 Ears:
 Cuckoo is singing
@@ -158,14 +158,14 @@ Music is loud
 Classify the sentence based on the sensory organ that gives you the information.
 ```
 Nose:
-Rose has a sweet smell
-Incense stick has a nice fragrance
-My socks are stinking
+Rose has a sweet smell.
+Incense stick has a nice fragrance.
+My socks are stinking.
 
 Tongue:
-Apple is sweet
-The medicine is bitter
-The curry is too salty
+Apple is sweet.
+The medicine is bitter.
+The curry is too salty.
 ```
 ## Sensory Organs- fill up (drag and drop)
 ```
@@ -186,7 +186,7 @@ If there is a defect in the leg, a special *wheelchair (prosthetic leg)* can be 
 ```
 ## True or False.
 
-Classify sentence as true or false.
+Classify the sentence as true or false.
 ```
 True:
 Some disabilities can be corrected by medical treatment.
@@ -223,7 +223,7 @@ chilli, ice cream, mango
 
 ### Teeth
 
-The teeth we get when we are small are called milk teeth. They start falling at seven or eight years of age.Then we get new teeth once again. These are called permanent teeth.If permanent teeth fall, we do not get new teeth in their place. So, we must take care of our teeth.
+The teeth that grow when we are infants are called milk teeth. They start falling at seven or eight years of age. Then we get new teeth once again. These are called permanent teeth. If permanent teeth fall, we do not get new teeth in their place. So, we must take care of our teeth.
 
 If our teeth are dirty, foul substances go into our stomach. We can fall ill.
 
@@ -243,7 +243,7 @@ body *clean*.
 ```
 ## Fill in the blanks (using options)
 ```
-Because of the rotting particles in the mouth, our teeth *decay (rot)*.
+Because of the rotting particles in the mouth, our teeth *decay (cracks)*.
 We must brush our teeth in the *morning (evening)* and before going to bed at night.
 We must clean our *gums (mouth)* and tongue.
 *Neem (tulsi)* or babul sticks are sometimes used for cleaning teeth.
@@ -251,7 +251,7 @@ Infected cut or wound may start oozing *pus (blood)*.
 ```
 ## True or False.
 
-Classify sentence as true or false.
+Classify the sentence as true or false.
 ```
 True:
 Infected wound ooze pus.
@@ -260,7 +260,7 @@ First set of teeth is milk teeth.
 
 False:
 Last set of teeth is milk teeth.
-We start loosing milk teeth at 12 years of age.
+We start losing milk teeth at 12 years of age.
 Clean gums may make us ill. 
 ```
 ## Choose the correct answer. (mcq)
@@ -278,7 +278,7 @@ We must clean our ________ and gums while brushing.
 teeth, tongue, mouth
  
 We must keep our five _______ clean.
-sense organs, teeth , nails
+sense organs, teeth, nails
 ```
 ## Match the following.
 ```

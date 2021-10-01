@@ -45,7 +45,7 @@ We should stay away from toxic substances like poisonous chemicals, pesticides, 
 
 ### Sharp items and glasswares
 
-Handling glassware and sharp items are more important because very easily it causes injuries very easily. So we should handle them with precaution.
+Handling glassware and sharp items is more important because it causes injuries very easily. So we should handle them with precaution.
 
 ## Group: Road Safety Vs. Fire Safety
 
@@ -149,9 +149,9 @@ Child line service was established across India under the Ministry of Women and 
 
 ### Child Safety Laws
 
-1. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labor. 
+1. Teaching a child about a certain profession isn’t bad, but making the child work for money and outsourcing their labour to someone else for money is called child-labour. 
 2. The National Child Labour Projects (NCLP) was established to rehab child labour.
-3.  Integrated Child Development Services (ICDS) is a government program for early childhood care & development. 
+3. Integrated Child Development Services (ICDS) is a government program for early childhood care & development. 
 4. The prohibition of the child marriage act is established to prevent child marriage. 
 5. The Indian penal code 1860 is for punishing the people involved in child trafficking.
 
@@ -163,11 +163,11 @@ Child line service was established across India under the Ministry of Women and 
 
 ### Bad touch
 
-1. A stranger  secretly touching the child’s private parts .
-2. A family member  secretly touching the child’s private part.
+1. A stranger secretly touching the child’s private parts.
+2. A family member secretly touching the child’s private part.
 3. A stranger secretly asks a child to touch their private part.
 4. Children shouldn’t accept food, gifts from strangers and should be made aware of the way that, some people bribe kids to perform certain bad touches.
-5. If other children try to touch one another’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
+5. If other children try to touch each other’s body in an uncomfortable way, then the child must be educated on good touch and bad touch.
 
 ## Group: Good touch Vs Bad touch
 
@@ -240,7 +240,7 @@ If a family member secretly touching the children’s private part, then it is a
 ```
 The prohibition of the child marriage act is established to prevent *child (adult)* marriage.
 The Ministry of Women and Child Development was established to protect *children (adults)*. 
-Physical harm is *legal (illegal)*.
+Physical harm is *illegal (legal)*.
 Childline also helps children who are neglected by their *parents (teachers)*.
 If a stranger secretly touching the children’s private parts then it is *bad (good)*touch.
 ```
