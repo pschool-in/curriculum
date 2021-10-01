@@ -4,7 +4,7 @@
 
 ## Reading
 
-### Materials
+## Materials
 
 We can see lot of things around us. The matter from which a thing is made of is called Material. For example: Chair is made of wood, Eraser is made of rubber, Candle is made of wax.
 
@@ -153,7 +153,7 @@ glass bottle, paper plate, wooden board
 ```
 
 
-### Light
+## Light
 
 We see the world around us with the help of light. Where do we get light from? Light may come either from the Sun or from other sources like an electric lamp or a bulb. The objects that give off light are called light sources.
 
