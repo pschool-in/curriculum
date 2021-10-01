@@ -87,7 +87,7 @@ A solar panel uses *light(heat,electrical)* energy to produce electricity.
 A battery gives energy in the form of *electrical (light, heat)* energy.
 ```
 
-## Energy or Not'
+## Energy or Not
 
 Classify the below items as a type of energy or not.
 
