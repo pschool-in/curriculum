@@ -8,6 +8,8 @@ Countries and their people
 
 Seven Wonders of the World
 
+World Famous Places
+
 
 
 
@@ -657,9 +659,109 @@ Taj Mahal was built by king Akbar.
 ```
 
 ******************************************************************************************************************************************************************************
+ 
+ ### World Famous Places
+ 
+Taj Mahal - Agra
+Statue of Liberty -  New York
+The Colosseum - Rome
+Forbidden City- China
+Eiffel Tower - Paris
+Leaning Tower of Pisa - Italy
+Machu Picchu - Peru
+Golden Gate Bridge - San Francisco
+Mount Fuji - Japan
+Sydney Opera House - Sydney
+Great Wall of China - China
+Angkor Wat - Cambodia
+Burj Khalifa - Dubai
+Niagara Falls - Canada & USA
+The Acropolis - Athens
+Great Sphinx of Giza - Egypt
+Christ The Redeemer - Brazil
+Petra - Jordan
+Stonehenge - England
+Chichén Itzá - Mexico
+Blue Domes of Oia - Greece
+
+Match the following
+
+Match the following with its correct one
+
+```
+Taj Mahal,  India
+Statue of Liberty,  USA
+The Colosseum, Italy.
+Forbidden City, China
+Eiffel Tower, France
+```
+
+Multiple Choice Questions
+
+```
+Petra is located at ____________
+Jordan
+China
+India
 
 
+Chichén Itzá is located at __________
+Mexico
+Canada
+Australia
 
+Mount Fuji is located at __________
+Japan
+China
+India
+
+Opera House is located at ____________
+Sydney
+Tokoyo
+Berlin
+
+Stonehenge is located at _________________
+England
+Mexico
+SriLanka
+```
+
+Fill in the blanks (By Drag Drop)
+
+Drag and drop the words at proper place
+
+```
+*Eiffel Tower* is situated in Paris.
+*Taj Mahal* is situated in Agra.
+*Statue of Liberty* is situated in New York.
+*Angkor Wat* is situated in Cambodia.
+*Golden Gate Bridge* is situated in  San Francisco.
+```
+
+Fill in the blanks (Using options)
+
+```
+Christ The Redeemer is found in *Brazil (Australia)*.
+Niagara Falls is found in *USA (Dubai)*.
+The Great Sphinx of Giza is found in *Egypt (Japan)*.
+Machu Picchu is found in *Peru (India)*.
+The Leaning Tower of Pisa is found in *Italy (Egypt)*.
+```
+ 
+True or False:
+
+```
+True:
+Burj Khalifa is located in Dubai.
+Blue Domes of Oia is located in Greece.
+Eiffel Tower is located in France.
+ 
+False:
+Taj Mahal is located in Nepal.
+Blue Domes of Oia is located in Africa.
+```
+
+******************************************************************************************************************************************************************************
 
 
 
