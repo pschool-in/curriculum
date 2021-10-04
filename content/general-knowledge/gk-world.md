@@ -608,7 +608,7 @@ Chichén Itzá - Yucatán, Mexico
 Match the following with its correct one
 
 ```
-Taj Mahal, India
+Taj Mahal,India
 The Colosseum, Italy
 Machu Picchu,  Peru
 Petra, Jordan
@@ -663,25 +663,45 @@ Taj Mahal was built by king Akbar.
  ### World Famous Places
  
 Taj Mahal - Agra
+
 Statue of Liberty -  New York
+
 The Colosseum - Rome
+
 Forbidden City- China
+
 Eiffel Tower - Paris
+
 Leaning Tower of Pisa - Italy
+
 Machu Picchu - Peru
+
 Golden Gate Bridge - San Francisco
+
 Mount Fuji - Japan
+
 Sydney Opera House - Sydney
+
 Great Wall of China - China
+
 Angkor Wat - Cambodia
+
 Burj Khalifa - Dubai
+
 Niagara Falls - Canada & USA
+
 The Acropolis - Athens
+
 Great Sphinx of Giza - Egypt
+
 Christ The Redeemer - Brazil
+
 Petra - Jordan
+
 Stonehenge - England
+
 Chichén Itzá - Mexico
+
 Blue Domes of Oia - Greece
 
 Match the following
