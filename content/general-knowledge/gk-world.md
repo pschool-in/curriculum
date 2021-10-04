@@ -704,7 +704,7 @@ Chichén Itzá - Mexico
 
 Blue Domes of Oia - Greece
 
-Match the following
+## Match the following
 
 Match the following with its correct one
 
@@ -716,14 +716,13 @@ Forbidden City, China
 Eiffel Tower, France
 ```
 
-Multiple Choice Questions
+## Multiple Choice Questions
 
 ```
 Petra is located at ____________
 Jordan
 China
 India
-
 
 Chichén Itzá is located at __________
 Mexico
@@ -746,7 +745,7 @@ Mexico
 SriLanka
 ```
 
-Fill in the blanks (By Drag Drop)
+## Fill in the blanks (By Drag Drop)
 
 Drag and drop the words at proper place
 
@@ -758,7 +757,7 @@ Drag and drop the words at proper place
 *Golden Gate Bridge* is situated in  San Francisco.
 ```
 
-Fill in the blanks (Using options)
+## Fill in the blanks (Using options)
 
 ```
 Christ The Redeemer is found in *Brazil (Australia)*.
@@ -768,7 +767,7 @@ Machu Picchu is found in *Peru (India)*.
 The Leaning Tower of Pisa is found in *Italy (Egypt)*.
 ```
  
-True or False:
+## True or False
 
 ```
 True:
