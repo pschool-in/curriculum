@@ -931,9 +931,9 @@ Saga Dawa is famous festival celebrated at Kerala.
 
 ### Famous pilgrimages in India
 
-Dwarkadhish Temple        -   Gujarat
+Dwarkadhish Temple        -  Dwarka,  Gujarat
 
-Brihadeeswara Temple      -  Tamil Nadu
+Brihadeeswara Temple      -  Thanjavur, Tamil Nadu
 
 Badrinath Temple          -  Uttarakhand
 
