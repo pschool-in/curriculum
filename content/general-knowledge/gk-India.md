@@ -936,67 +936,65 @@ Dwarkadhish Temple        -  Dwarka,  Gujarat
 
 Brihadeeswara Temple      -  Thanjavur, Tamil Nadu
 
-Badrinath Temple          -  Uttarakhand
+Badrinath Temple          -  Chamoli,  Uttarakhand
 
-Bodh Gaya                 -  Bihar
+Mahabodhi                 -  Bodh Gaya, Bihar
 
-Kedarnath Temple          -  Uttarakhand
+Kedarnath Temple          -  Rudraprayag, Uttarakhand
 
-Kashi Vishwanath Temple   -  Uttar Pradesh
+Kashi Vishwanath Temple   -  Varanasi, Uttar Pradesh
 
-Golden Temple             -  Punjab       
+Golden Temple             -  Amritsar, Punjab       
 
-Jagannath Temple          -  Odisha
+Jagannath Temple          -  Puri, Odisha
 
-Nataraja Temple           -  Tamil Nadu
+Nataraja Temple           -  Chidambaram, Tamil Nadu
 
-Siddhivinayak Temple      -  Maharashtra
+Siddhivinayak Temple      -  Mumbai, Maharashtra
 
-Khajuraho Temple          -  Madhya Pradesh
+Khajuraho Temple          -  Chhatarpur, Madhya Pradesh
 
-Meenakshi Temple          -  Tamil Nadu
+Meenakshi Temple          -  Madurai, Tamil Nadu
 
-Padmanabhaswamy Temple    -  Kerala
+Sree Padmanabhaswamy Temple -  Thiruvananthapuram, Kerala
 
-Gomateshwara Temple       -  Karnataka
+Gomateshwara Temple       -  Shravanbelagola, Karnataka
 
-Amarnath Temple           -  Jammu & Kashmir
+Amarnath Temple           -  Pahalgam, Jammu & Kashmir
 
-Ranganathaswamy Temple    -  Tamil Nadu
+Ranganathaswamy Temple    -  Srirangam, Tamil Nadu
 
-Murudeshwara temple       -  Karnataka
+Murudeshwara temple       -  Murudeshwar, Karnataka
 
-Shridi Saibaba Temple     -  Maharashtra
+Shridi Saibaba Temple     -  Shridi, Maharashtra
 
 Jama Masjid               -  New Delhi
 
 Somnath Temple            -   Gujarat
 
-Mahabodhi Temple          -   Bihar
+Lord Venkateswara Temple  -   Tirupathi, Andhra Pradesh
 
-Lord Venkateswara Temple  -   Andhra Pradesh
+Vaishno Devi Temple       -   Trikoota Mountain, Jammu & Kashmir
 
-Vaishno Devi Temple       -   Jammu & Kashmir
-
-Rajagopalaswamy Temple    -   Tamil Nadu
+Rajagopalaswamy Temple    -   Mannargudi, Tamil Nadu
 
 St. Francis Xavier        -   Goa
 
-Virupaksha Temple         -   Karnataka
+Virupaksha Temple         -   Hampi, Karnataka
 
-Konark Sun Temple         -   Odisha
+Konark Sun Temple         -   Puri, Odisha
 
-Ramanathaswamy Temple     -   Tamil Nadu
+Ramanathaswamy Temple     -   Rameswaram Tamil Nadu
 
-Dakshineswar Kali Temple  -   West Bengal
+Dakshineswar Kali Temple  -   Kolkata, West Bengal
 
-Mecca Masjid              -   Telangana
+Mecca Masjid              -   Hyderabad, Telangana
 
-Vailankanni church        -   Tamil Nadu
+Vailankanni church        -   Velankanni, Tamil Nadu
 
-Gangotri Temple           -   Uttarakhand
+Gangotri Temple           -   Gangotri, Uttarakhand
 
-Yamunotri Temple          -   Uttarakhand
+Yamunotri Temple          -   Uttarkashi, Uttarakhand
 
 ## Match the following
 
