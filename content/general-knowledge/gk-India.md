@@ -14,7 +14,7 @@
 
 7. Indian famous state festivals* 
 
-8. Famous pilgrimages in India
+8. Famous pilgrimages in India*
 
 9. Nick names of India Cities*
 
