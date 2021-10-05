@@ -105,7 +105,7 @@ Gujarat, Gujarati
 __________ is the official language of Madhya Pradesh.
 Hindi, Tamil, Malayalam
 
-_________ is the official language of Maharastra.
+_________ is the official language of Maharashtra.
 Marathi, Odia, Kannada
 
 _________ is the official language of Manipur.
