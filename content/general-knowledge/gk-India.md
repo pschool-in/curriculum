@@ -16,7 +16,7 @@
 
 8. Famous pilgrimages in India*
 
-9. Nick names of India Cities*
+9. Nick names of Indian Cities*
 
 10. National - Important days
 
@@ -1064,7 +1064,7 @@ Badrinath Temple is situated in Kerala.
 
 *****************************************************************************************************************************************************************************
 
-### Nick names of India Cities
+### Nick names of Indian Cities
 
 Kanchipuram*  - The City of Thousand Temples
 
