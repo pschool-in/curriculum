@@ -23,9 +23,9 @@ Jammu & Kashmir        -     Rouf
 
 Jharkhand              -     Mardana 
 
-Karnataka*              -     Yakshagana
+Karnataka*             -     Yakshagana
 
-Kerala*                 -     Kathakali
+Kerala*                -     Kathakali
 
 Maharashtra            -     Lavani
 
