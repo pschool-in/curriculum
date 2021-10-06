@@ -133,7 +133,7 @@ Aryabhatta - First satellite
 
 Apsara - First Nuclear Reactor
 
-Rabindranath Tagore -  First Indian to win Nobel Prize
+Rabindranath Tagore - First Indian to win Nobel Prize
 
 C.V Raman  - First Indian to get Nobel prize award in Physics
 
