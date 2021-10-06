@@ -44,30 +44,28 @@
 Match the following with its correct one
 
 ```
+24 January, International Day of Education
+21 February, International Mother Language Day 
+03 March, World Wildlife Day
+08 March, International Women’s Day 
 07 April, World Health Day 
-01 December, World AIDS Day
-04 March, World Engineering Day
-21 March,  International Day of Forests 
-21 June, International Day of Yoga 
 ```
 
 ## Multiple Choice Questions
 
 ```
-When is the International Youth Day?
-12 August, 13 August, 14 August, 15 August
+When is the World Environment Day?
+05 June, 06 June, 07 June
 
-When is the World Braille Day?
-04 January, 05 January, 12 January, 14 January
+When is the World Ocean’s Day?
+08 June, 07 June, , 06 June
 
-When is the World Food Day? 
-16 October, 17 October, 18 October, 19 October
+When is the International Day of Yoga? 
+21 June, 31 June, 11 June
 
-When is the World Tourism Day?
-27 September, 28 September, 26 September, 25 September
+When is the International Literacy Day?
+08 September, 09 September, 08 June
 
-When is the International Day of Forests? 
-21 March, 28 March, 32 March, 30 March
 ```
 
 ## Fill in the blanks (By Drag Drop)
@@ -75,20 +73,19 @@ When is the International Day of Forests? 
 Drag and drop the words at proper place
 
 ```
-05 October is the *World Teachers' Day*.
+21 September is the *International Day of Peace*.
 *05 June* is the World Environment Day.
-04 January is the *World Braille Day*.
-*21 February* is the International Mother Language Day.
-10 December is the *Human Rights Day*.
+05 October is the *World Teachers' Day*.
+*24 October* is the United Nations Day.
+27 September is the *World Tourism Day*.
 ```
 
 ## Fill in the blanks (Using options)
 
 ```
-08 March  is the International *Women’s (Men's)* Day.
-24 March  is the World *Tuberculosis (Diabetes)* Day.
-*13 February (31 February)* is the World Radio Day.
-20 November is the  World *Children's (Adult)* Day.
+08 March is the International *Women’s (Men's)* Day.
+20 November is the World *Children's (Adults)* Day.
+*10 December (31 February)* Human Rights Day.
 03 March is the World *Wildlife (Domestic animal)* Day.
 ```
 
@@ -96,8 +93,8 @@ Drag and drop the words at proper place
 
 ```
 True:
-04 March is the World Engineering Day.
-21 March is the International Day of Forests.
+05 October is the World Teachers' Day.
+05 June is the World Environment Day.
 10 December is Human Rights Day. 
  
 False:
