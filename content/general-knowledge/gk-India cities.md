@@ -31,7 +31,7 @@ Pondicherry - Paris of east in India
 
 Madurai* - City of festivals
 
-Kollam*  - Cashew capital of world
+Kollam*  - Cashew capital of World
 
 Kochi* - Queen of Arabian sea
 
