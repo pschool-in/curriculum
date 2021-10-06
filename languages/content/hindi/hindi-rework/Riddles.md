@@ -1,7 +1,7 @@
 
 # Riddles (पहेलियाँ)
 
-# Choose the correct answer
+# Fill in the blanks (by drag and drop)
 
 ```
 बिन खाए , बिन पिए , सबके घर में रहता हूं | ना खाता हूं , ना रोता हूं , घर की रखवाली करता हूं | *ताला* 
