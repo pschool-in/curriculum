@@ -11,7 +11,7 @@ Bihar                  -     Jata-Jatin
 
 Chhattisgarh           -     Gaur Maria
 
-Gujarat*                -     Dandiya Raas
+Gujarat*               -     Dandiya Raas
 
 Goa                    -    	Dekhni
 
