@@ -1,6 +1,18 @@
 
 # Nick names of Indian Cities
 
+```
+Jaipur - Pink city
+Varanasi* - City of light
+Ahmedabad - Manchester Of India
+Calicut* - City of spices
+Nagpur* - Orange city
+Mysore* - Sandalwood city
+Udaipur* - City of Lakes
+Bengaluru* - Garden City of India 
+Jamshedpur - Steel City of India
+```
+
 Kanchipuram*  - The City of Thousand Temples
 
 Jaipur* - Pink city
@@ -9,7 +21,7 @@ Jaisalmer* - Golden city
 
 Agra* - City of Taj
 
-Varanasi* - City of light
+
 
 Pochampalle - Silk city
 
@@ -25,7 +37,7 @@ Bhilwara* - Textile city of India
 
 Coimbatore  - Manchester of South India
 
-Ahmedabad - Manchester Of India
+
 
 Pondicherry - Paris of east in India
 
@@ -35,7 +47,7 @@ Kollam*  - Cashew capital of World
 
 Kochi* - Queen of Arabian sea
 
-Calicut* - City of spices
+
 
 Hyderabad* - City of Pearls 
 
@@ -53,7 +65,7 @@ Surat - Diamond city of India
 
 Pune - Deccan queen city
 
-Nagpur* - Orange city
+
 
 Jalgaon - Banana City
 
@@ -65,7 +77,7 @@ Muzaffarpur - The Land of Litchi Sweet City
 
 Gurgaon - Millennium city of India
 
-Mysore* - Sandalwood city
+
 
 Bhubaneswar* - Temple city of India
 
@@ -73,15 +85,13 @@ Shillong  - Scotland of the East
 
 Cuttack - Silver city
 
-Jamshedpur* - The city of steel
-
 Coorg - Scotland of India
 
 Kanpur* - Leather city of the world
 
 Dibrugarh* - Tea city of India
 
-Udaipur* - City of Lakes
+
 
 Thrissur*  - Gold Capital of India
 
