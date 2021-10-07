@@ -1,69 +1,47 @@
 
 # Famous Pilgrimages in India
 
-Dwarkadhish Temple        -  Dwarka,  Gujarat
-
-Brihadeeswara Temple      -  Thanjavur, Tamil Nadu
-
-Badrinath Temple          -  Chamoli,  Uttarakhand
-
-Mahabodhi                 -  Bodh Gaya, Bihar
-
-Kedarnath Temple          -  Rudraprayag, Uttarakhand
-
+```
+Badrinath Temple          -  Uttarakhand
+Kedarnath Temple          -  Uttarakhand
 Kashi Vishwanath Temple   -  Varanasi, Uttar Pradesh
-
 Golden Temple             -  Amritsar, Punjab       
-
 Jagannath Temple          -  Puri, Odisha
-
 Nataraja Temple           -  Chidambaram, Tamil Nadu
-
-Siddhivinayak Temple      -  Mumbai, Maharashtra
-
+Meenakshi Temple          -  Madurai, Tamil Nadu
 Khajuraho Temple          -  Chhatarpur, Madhya Pradesh
 
-Meenakshi Temple          -  Madurai, Tamil Nadu
 
 Sree Padmanabhaswamy Temple -  Thiruvananthapuram, Kerala
-
-Gomateshwara Temple       -  Shravanbelagola, Karnataka
-
 Amarnath Temple           -  Pahalgam, Jammu & Kashmir
-
 Ranganathaswamy Temple    -  Srirangam, Tamil Nadu
-
-Murudeshwara temple       -  Murudeshwar, Karnataka
-
-Shridi Saibaba Temple     -  Shridi, Maharashtra
-
 Jama Masjid               -  New Delhi
-
 Somnath Temple            -   Gujarat
-
-Lord Venkateswara Temple  -   Tirupathi, Andhra Pradesh
-
-Vaishno Devi Temple       -   Trikoota Mountain, Jammu & Kashmir
-
-Rajagopalaswamy Temple    -   Mannargudi, Tamil Nadu
-
-St. Francis Xavier        -   Goa
-
-Virupaksha Temple         -   Hampi, Karnataka
-
-Konark Sun Temple         -   Puri, Odisha
-
-Ramanathaswamy Temple     -   Rameswaram Tamil Nadu
-
-Dakshineswar Kali Temple  -   Kolkata, West Bengal
-
+Ramanathaswamy Temple     -   Rameswaram, Tamil Nadu
 Mecca Masjid              -   Hyderabad, Telangana
+```
 
+```
+Dwarkadhish Temple        -  Dwarka,  Gujarat
+Brihadeeswara Temple      -  Thanjavur, Tamil Nadu
+Mahabodhi                 -  Bodh Gaya, Bihar
+Siddhivinayak Temple      -  Mumbai, Maharashtra
+Gomateshwara Temple       -  Shravanbelagola, Karnataka
+Murudeshwara temple       -  Murudeshwar, Karnataka
+Shridi Saibaba Temple     -  Shridi, Maharashtra
+Lord Venkateswara Temple  -   Tirupathi, Andhra Pradesh
+Vaishno Devi Temple       -   Trikoota Mountain, Jammu & Kashmir
+Rajagopalaswamy Temple    -   Mannargudi, Tamil Nadu
+St. Francis Xavier        -   Goa
+Virupaksha Temple         -   Hampi, Karnataka
+Konark Sun Temple         -   Puri, Odisha
+Dakshineswar Kali Temple  -   Kolkata, West Bengal
 Vailankanni church        -   Velankanni, Tamil Nadu
-
 Gangotri Temple           -   Gangotri, Uttarakhand
-
 Yamunotri Temple          -   Uttarkashi, Uttarakhand
+```
+
+
 
 ## Match the following
 
@@ -135,7 +113,17 @@ Badrinath Temple is situated in Kerala.
 
 # Indian famous state festivals
 
+```
 Andhra Pradesh*        -    Ugadi
+Gujarat*               -     Makar Sankranti
+Karnataka*             -     Dasara
+Kerala*                -     Onam
+Punjab*                -     Lohri
+Tamil Nadu*            -     Pongal
+West Bengal*           -     Durga Puja
+```
+
+
 
 Arunachal Pradesh     -     Reh
 
@@ -147,15 +135,11 @@ Chhattisgarh          -     Bastar Dussehra
 
 Goa                   -     Sunburn festival
 
-Gujarat*               -     Makar Sankranti
+
 
 Himachal Pradesh      -     Gochi Festival
 
 Jammu and Kashmir     -     Bahu Mela
-
-Karnataka*             -     Dasara
-
-Kerala*                -     Onam
 
 Madhya Pradesh*        -     Lok-rang Utsav
 
@@ -169,19 +153,17 @@ Nagaland              -     Hornbill festival
 
 Odisha                -     Rath Yatra
 
-Punjab*                -     Lohri
-
 Rajasthan            -       Bundi
 
 Sikkim                -      Saga Dawa
 
-Tamil Nadu*            -     Pongal
+
 
 Telangana*             -    Sankranti
 
 Tripura               -     Kharchi Puja
 
-West Bengal*           -     Durga Puja
+
 
 Uttaranchal           -     Ganga Dussehra
 
@@ -257,7 +239,15 @@ Saga Dawa is famous festival celebrated at Kerala.
 
 # Indian Dance forms and state of origins
 
+```
 Andhra Pradesh*         -     Kuchipudi
+Gujarat*               -     Dandiya Raas
+Kerala*                -     Kathakali
+Manipur*                -     Manipuri
+Odisha*                 -     Odissi
+Punjab*                 -     Bhangra
+Tamil Nadu*             -     Bharatnatyam
+```
 
 Arunachal Pradesh      -     Wancho
 
@@ -267,7 +257,7 @@ Bihar                  -     Jata-Jatin
 
 Chhattisgarh           -     Gaur Maria
 
-Gujarat*               -     Dandiya Raas
+
 
 Goa                    -    	Dekhni
 
@@ -281,21 +271,18 @@ Jharkhand              -     Mardana
 
 Karnataka*             -     Yakshagana
 
-Kerala*                -     Kathakali
+
 
 Maharashtra            -     Lavani
 
 Madhya Pradesh         -     Jawara
 
-Manipur*                -     Manipuri
 
 Meghalaya              -     Nongkrem
 
 Nagaland               -     Zeliang
 
-Odisha*                 -     Odissi
 
-Punjab*                 -     Bhangra
 
 Rajasthan*              -     Ghumar
 
