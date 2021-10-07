@@ -1,58 +1,36 @@
 # National - Important days
 
+```
 12 January   - National Youth Day 
-
-15 January  - Army Day
-
-24 January  - National Girl child day
-
-25 January  - Tourism Day, National Voters Day
-
 26 January  - Republic Day 
-
-30 January  - Martyrs’ Day
-
 28 February  - National Science Day 
-
-5  April  - National Maritime Day 
-
-21 April  - Civil Services Day
-
-1 May - International Labour Day
-
-12 May - International Nurses Day
-
-21 June - International Day of Yoga
-
-1 July - National Doctor’s Day 
-
-26 July - Kargil Memorial Day
-
 15 August - Independence Day
-
-29 August - National Sports Day 
-
 5 September  - Teachers Day 
 
-2 October  - Gandhi Jayanthi
-
-10 October  - National Post Day 
-
-11 November - National Education Day
-
 14 November  - Children’s Day
-
-19 November  - National Integration Day
-
-26 November  - National Law Day
-
-4 December  - Indian Navy Day
-
 7 December  - Indian Armed Force Flag Day
+2 October  - Gandhi Jayanthi
+29 August - National Sports Day 
+```
 
+```
+15 January  - Army Day
+24 January  - National Girl child day
+25 January  - Tourism Day, National Voters Day
+30 January  - Martyrs’ Day
+5  April  - National Maritime Day 
+21 April  - Civil Services Day
+12 May - International Nurses Day
+1 July - National Doctor’s Day 
+26 July - Kargil Memorial Day
+10 October  - National Post Day 
+11 November - National Education Day
+19 November  - National Integration Day
+26 November  - National Law Day
+4 December  - Indian Navy Day
 14 December  - National Energy Conservation Day
-
 23 December  - Farmers Day
+```
 
 ## Match the following
 
