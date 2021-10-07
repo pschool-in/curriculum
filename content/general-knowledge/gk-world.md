@@ -17,95 +17,79 @@ World Famous Places
 
 ### World Iconic Sports Stars
 
-M.S. Dhoni*             -    Cricket
+```
+M.S. Dhoni - Cricket
+Vasudevan Baskaran - Hockey
+Viswanathan Anand - Chess
+Rafael Nadal - Tennis
+Virat Kohli - Cricket
+Dhyan Chand - Hockey
 
-Vasudevan Baskaran*     -    Hockey
+Magnus Carlsen - Chess
+Diego Maradona - Football 
+Serena Williams - Tennis
+Sania Mirza - Tennis
+PT Usha - Athletics
+PV Sindhu - Badminton
 
+Abhinav Bindra - Shooting
+Neeraj Chopra - javelin throw
+Muhammad Ali - Boxing
+Sachin Tendulkar - Cricket
+Cristiano Ronaldo - Football
+
+Lionel Messi - Football
+Michael Jordan - Basketbal
+Usain Bolt - Sprinting
+Roger Federer - Tennis
+Tiger Woods - Golf
+```
+
+```
 David Campese*          -    Rugby 
-
 Shane Warne*            -    Cricket
-
 Aryton Senna*           -    Motor Racing
-
 Brian Lara*             -    Cricket
-
 Mariyappan Thangavelu*  -    Athletics
-
-Viswanathan Anand*      -    Chess
-
 Dipika Pallikal*        -    Squash
-
 Anthony Maria Irudayam* -    Carrom
-
 Narain Karthikeyan     -    F1 Car Racing
-
 Mirabai Chanu          -    Weight Lifting
-
 Leander Paes*           -    Tennis
-
 Dipa Karmakar          -    Gymnastics
-
 Deepika Kumari*         -    Archery
-
 Sushil Kumar*           - 	  Wrestling
-
 CA Bhavani Devi*        -    Fencing
-
-Rafael Nadal*          -    Tennis
-
 Novak Djokovic*         -    Tennis
-
 Bajrang Punia          -    Wrestling
-
 Karnam Malleswari*      -    Weight Lifting
-
 Vijender Singh*         -    Boxer
-
 K. D. Jadhav*           -    wrestler 
-
 Dipa Karmakar          -    Gymnastics
-
 Geeta Phogat           -    Wrestler
-
 Anju Bobby George*      -    Athletics
-
 Kunjarani Devi*         -    Weight Lifting
-
 Dhanraj Pillay Yadav*   -    Hockey
 
-Virat Kohli*            -    Cricket
 
-Dhyan Chand*            -    Hockey
 
 Pete Sampras*           -    Tennis
-
 Steffi Graf*            -    Tennis
-
 Andy Murray*            -    Tennis
-
 Maria Sharapova*        -    Tennis
-
-Magnus Carlsen*         -    Chess
-
-Diego Armando Maradona* -   Football 
-
-Serena Williams*        -   Tennis
-
 Venus Williams*         -   Tennis
 
 Mike Tyson*             -   Boxing
 
 Sunil Gavaskar*         -   Cricket
 
-Sania Mirza*            -   Tennis
 
-PT Usha*                -   Athletics
 
 Saina Nehwal*           -   Badminton
 
 Milkha Singh*           - 	 Athletics
 
-PV Sindhu*              -   Badminton
+
 
 Sunil Chhetri          -   Football
 
@@ -113,31 +97,15 @@ Kapil Dev*              -   Cricket
 
  Mithali Raj*            -   Cricket
 
-Abhinav Bindra*         -   Shooting
-
 Mary Kom*               -   Boxing
 
-Neeraj Chopra*          -   Athletics
 
-Muhammad Ali*           -   Boxing
-
-Sachin Tendulkar*       -   Cricket
-
-Cristiano Ronaldo*      -   Football
-
-Lionel Messi*           -   Football
 
 Michael Phelps*         -   Swimming
 
 Billie Jean King*       -   Tennis
 
-Michael Jordan*         -   Basketbal
 
-Usain Bolt*             -   Sprinting
-
-Roger Federer*          -   Tennis
-
-Tiger Woods*            -    Golf
 
 ## Match the following
 
