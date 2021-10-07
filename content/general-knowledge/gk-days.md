@@ -15,15 +15,13 @@
 08 March - International Women’s Day 
 07 April -  World Health Day 
 05 June  -  World Environment Day
-08  June - World Ocean’s Day
+
 21 June - International Day of Yoga 
 08 September - International Literacy Day 
 21 September - International Day of Peace 
 27 September - World Tourism Day
 05 October - World Teachers' Day 
 24 October - United Nations Day
-20 November - World Children's Day 
-10 December - Human Rights Day
 ```
 
 ```
@@ -34,8 +32,11 @@
 04 March - World Engineering Day
 21 March - International Day of Forests 
 24 March - World Tuberculosis Day
+08  June - World Ocean’s Day
 16 October - World Food Day 
 01 December - World AIDS Day
+20 November - World Children's Day 
+10 December - Human Rights Day
 ```
 
 
