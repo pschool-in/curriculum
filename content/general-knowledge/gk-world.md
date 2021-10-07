@@ -662,17 +662,24 @@ Taj Mahal was built by king Akbar.
  
  ### World Famous Places
  
+
+```
 Taj Mahal - Agra
-
 Statue of Liberty -  New York
-
 The Colosseum - Rome
+Eiffel Tower - Paris
+Leaning Tower of Pisa - Italy
+Great Wall of China - China
+
+Burj Khalifa - Dubai
+The Acropolis - Athens
+Pyramid - Egypt
+Stonehenge - England
+Angkor Wat - Cambodia
+```
 
 Forbidden City- China
 
-Eiffel Tower - Paris
-
-Leaning Tower of Pisa - Italy
 
 Machu Picchu - Peru
 
@@ -682,15 +689,9 @@ Mount Fuji - Japan
 
 Sydney Opera House - Sydney
 
-Great Wall of China - China
 
-Angkor Wat - Cambodia
-
-Burj Khalifa - Dubai
 
 Niagara Falls - Canada & USA
-
-The Acropolis - Athens
 
 Great Sphinx of Giza - Egypt
 
