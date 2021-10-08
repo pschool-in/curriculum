@@ -49,3 +49,24 @@
 १०००००, एक लाख 
 ९०, नब्बे 
 ```
+
+# Colours
+
+# Match the following
+
+```
+White, सफेद
+Black, काला
+Blue, नीला
+Yellow, पीला
+Red, लाल
+```
+
+```
+Green, हरा
+Pink, गुलाबी
+Brown, भूरा
+Purple, बैंगनी
+Orange, नारंगी
+Golden, सुनहरा
+```
