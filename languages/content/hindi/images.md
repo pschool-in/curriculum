@@ -8,7 +8,7 @@ dog| कुत्ता
 goat| बकरी
 sheep| भेड्
 horse| घोडा
-pig| सुअर
+pig| सूअर
 elephant| हाथी
 lion| शेर
 monkey| बंदर
@@ -136,7 +136,7 @@ garlic| लहसुन
 ginger| अदरक
 pumpkin| कद्दू
 almond| बादाम
-beans| फलियां
+beans| फलि
 bitter-gourd| करेला
 brinjal| बैंगन
 capsicum| शिमला मिर्च
@@ -148,7 +148,7 @@ coconut| नारियल
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
-drumstick| सहजन
+drumstick| सेहजन
 greenpeas| मटर
 ladies-finger| भिन्डी
 mintleaf| पुदीना
@@ -162,7 +162,7 @@ spinach| पालक
 ```
 rose | गुलाब
 lotus | कमल
-sunflower | सूरजमुखी
+sunflower | सूर्यमुखी
 marigold | गेंदा
 hibiscus | गुडहल
 jasmine | चमेली
@@ -264,11 +264,11 @@ web-camara
 
 ```
 ear| कान
-eye| आंख
+eye| आँख
 foot| टांग
 hair| केश
 hand|  हाथ
-mouth| मुंह
+mouth| मुँह
 nose| नाक
 tooth| दांत
 ```
@@ -280,7 +280,7 @@ axe| कुल्हाडी
 balance| तराज़ू
 blackboard | श्यामपट
 hose | रबर का पाइप
-microscope| सूछ्मदर्शी
+microscope| सूक्ष्मदर्शी
 needle | सुई
 oven | कुठला
 plier| प्‍लास
