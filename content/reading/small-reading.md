@@ -687,37 +687,128 @@ An amazing fact about the tigers is that they can survive without food for 2 wee
 
 These words are linked with tigers. Identify. (title)
 ```
+Tiger, Cubs, Bengal, Flesh, Cats
+```
 
+#### Multiple Choice Questions (label)
 
+Choose the correct option. (title)
+```
+Tigers are_________.
+predators, preys, pals
+Tigers are________.
+carnivores, omnivores, herbivores
+Tigers________their prey.
+hunt, run, dump
+Tigers' babies are called_______.
+cubs, lambs, kittens
+Tigers are also found in_______.
+national parks, cities, slums
+```
 
+#### Wordsearch (label)
 
+Find the words listed below. (title)
+```
+Tigers, Den, Cubs, Predators, Carnivores, Bengal, White, Forest, Stripes, Prey
+```
 
+## Rabbits
 
+### Activities
 
+#### Fill in the blanks. (Fill up by Drag)
 
+Tap on the blanks for options. (title)
+```
+Rabbits love eating carrots and *hay (bay)*. 
+They *chew (sew)* 120 times in a minute. 
+It helps them to digest food easily.
+*Do (Did)* you know how many times humans should chew their food?
+Rabbits have a few things in common with *other (another)* animals. 
+Just like horses, they can see in *almost (allmost)* all directions without *turning (tuning)* their heads. 
+Just like cats, they like to *keep (heep)* themselves tidy. 
+One weird thing about rabbits is that they sometimes eat their own poop.
+```
 
+#### Jumbled Words (label)
 
+These words are linked with rabbits. Identify. (title)
+```
+Hay, Burrow, Carrot, Ears, Teeth, Bunny
+```
 
+#### Multiple Choice Questions (label)
 
+Choose the correct option. (title)
+```
+Rabbits live in_________.
+burrows, dens, holes
+Rabbits are also called________.
+bunny, sunny, lamb
+Rabbits also eat their________.
+poop, ears, tail
+Rabbits love________.
+carrots, radish, corriander
+Rabbits usually eat______.
+hay, may, clay
+```
 
+#### Wordsearch (label)
 
+Find the words listed below. (title)
+```
+Bunny, Rabbit, Hay, Burrow, Farm, Carrot, White, Ears, Hopping, Running
+```
 
+## Dolphins
 
+### Activities
 
+#### Fill in the blanks. (Fill up by Drag)
 
+Tap on the blanks for options. (title)
+```
+Dolphins are *very (berry)* playful *and (hand)* intelligent. 
+Just like whales, they *breathe (breath)* air from a blowhole on their back. 
+They swim very *fast (fist)*. 
+They jump out of the water to breathe and it looks like they’re *hopping (happing)* on the water. 
+Dolphins are very *attentive (attractive)* even while they’re asleep. 
+Some dolphins have two stomachs. 
+This helps them to *store (shore)* food.
+```
 
+#### Jumbled Words (label)
 
+These words are linked with dolphins. Identify. (title)
+```
+Hopping, Play, Smart, Swim, Hole, Blow
+```
 
+#### Multiple Choice Questions (label)
 
+Choose the correct option. (title)
+```
+Dolphins have________stomach(s).
+two, one, zero
+Dolphins_______on the water.
+hop, swin, dance
+Dolphins are very_______.
+intelligent, dumb, pretty
+Dolphins are attentive while__________.
+sleping, eating, swimming
+Dolphins' babies are called________.
+calves, halves, baby dolphins
+```
 
+#### Wordsearch (label)
 
+Find the words listed below. (title)
+```
+Dolphin, Calf, Hopping, Playing, Swimming, Intelligent, Racing, Blue, Attentive, Friendly
+```
 
-
-
-
-
-
-
+## 
 
 
 
