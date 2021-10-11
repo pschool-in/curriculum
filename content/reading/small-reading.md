@@ -588,6 +588,7 @@ An amazing thing *about (of)* polar bears is that they look white *in (inn)* col
 But *in (under)* reality, *their (there)* skin is black. 
 It is covered with a lot of white fur.
 ```
+
 #### Jumbled Words (label)
 
 These words are linked with polar bears. Identify. (title)
@@ -618,9 +619,74 @@ Find the words listed below. (title)
 Polarbear, Snow, Russia, White, Fur, Big, Heavy, Fish, Carnivore
 ```
 
+## Horses
 
+### Activites
 
+#### Fill in the blanks. (fill up with options) (label)
 
+Tap on the blanks for options. (title)
+```
+Horses can *almost (utmost)* see in all directions without turning their necks. 
+They run *very (vary)* fast. 
+Horse racing is *a (an)* very popular sport. 
+Horseshoes are attached *under (thunder)* their feet. 
+It helps them *run (running)* faster. 
+Horses *eat (heat)* grass, hay, grains and solid food. 
+They're also domesticated in *farms (harms)*. 
+They are useful for different *farming (harming)* activities.
+```
+
+#### Jumbled Words (label)
+
+These words are linked with polar bears. Identify. (title)
+```
+Horse, Hay, Shoe, Run, Racing, Food
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Horses are domesticated in_________.
+farms, houses, barns
+Horses usually eat________.
+hay, bay, say
+Horses are good at_________.
+running, sitting, climbing
+_________are attached under Horse's feet.
+Horseshoes, Shoes, Sandles
+Horses can_______in all directions.
+see, run, swing
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Horses, Hay, Horseshoes, Racing, Running, Knight, Neigh, Farmhouse
+```
+
+## Tigers
+
+### Activities
+
+#### Fill in the blanks. (Fill up by Drag)
+
+Tap on the blanks for options. (title)
+```
+Tigers are the largest animals in the *cat (hat)* family.
+They have vertical strips *over (hover)* their body.
+They’re usually orange, black *and (or)* white in colour.
+But *some (hum)* tigers are just white and black.
+Tigers’ eyesights *are (hare)* 6 times better than humans.
+An amazing fact about the tigers is that they can survive without food for 2 weeks.
+```
+
+#### Jumbled Words (label)
+
+These words are linked with tigers. Identify. (title)
+```
 
 
 
