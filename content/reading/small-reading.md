@@ -473,3 +473,215 @@ When a female *lays (clays)* her eggs, the male watches over it until it hatches
 Once the eggs have *hatched (snatched)*, the females come back and take *care (hair)* of the chicks. 
 They do not seem to be afraid of humans.
 ```
+
+# Animals
+
+## Dogs
+
+### Activities
+
+#### Fill in the blanks. (fill up with options) (label)
+
+Tap on the blanks for options. (title)
+```
+Do you know *that (this)* dogs are known as man’s *best (worst)* friends? 
+This is *because (became)* a dog is fun and friendly. 
+Dogs are *domestic (wild)* animals. 
+They *live (life)* for 13-14 years. 
+Dogs love eating bones *and (hand)* they love to play. 
+We can *always (alway)* play ‘fetch’ games with dogs. 
+They move *their (there)* tails rapidly whenever they want to play. 
+The baby dogs *are (is)* called puppies.
+```
+
+#### Jumbled Words (label)
+
+These words are linked with dog. Identify. (title)
+```
+Dog, Bone, Puppy, Play, Tail, Friend
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Dogs have_______legs.
+four, three, five
+A dog is a man's_______friend.
+best, worst, honest
+Dogs love to play_______game.
+fetch, dug, dumb
+Dog's babies aare called_________.
+puppies, pomeleons, parrots
+Dogs are_______.
+fun, boring, annoying
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Dogs, Puppies, Bones, Doghouse, Dogfood, Fur, Bestfriend, Fun, Fetch, Friendly
+```
+
+## Cats
+
+### Activities
+
+#### Fill in the blanks. (fill up with options) (label)
+
+Tap on the blanks for options. (title)
+```
+Cats *are (hour)* lazy. 
+They also *have (has)* whiskers *around (round)* their nose. 
+They *spend (spent)* 70% of their *lives (lifes)* sleeping. 
+But they also spend a lot of time cleaning *themselves (himself)* and remain tidy. 
+Cats *love (loves)* eating fish *and (hand)* milk. 
+So if cats sneak *into (onto)* your house often, keep *your (their)* milk and fish safe. 
+Cats belong to the same family *as (has)* tigers.
+```
+#### Jumbled Words (label)
+
+These words are linked with cat. Identify. (title)
+```
+Tail, Kitten, Milk, Fish, Cat, Lazy
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Cats have_______around their nose.
+whiskers, hair, pores
+Cats love______.
+milk, hay, food
+Cats love to______.
+sleep, eat, repeat
+Cat's babies are called_________.
+kittens, mittens, littens
+Cat family includes_______.
+tigers, wolves, dogs
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Cats, Kittens, Whiskers, Fur, Sleep, Milk, Fishes, Paws, Softness
+```
+
+## Polar Bears
+
+### Activities
+
+#### Fill in the blanks. (fill up with options) (label)
+
+Tap on the blanks for options. (title)
+```
+Polar *bears (bares)* live in very cold areas, *covered (hovered)* in snow. 
+They look *the (a)* same as normal bears, only they are white *and (hand)* bigger. 
+They have a *thick (rhuck)* layer of fat on *their (there)* body. 
+It protects them from the *cold (hold)*. 
+Polar bears *can (could)* weigh equal to 10 humans. 
+They’re *very (vary)* strong and powerful. 
+An amazing thing *about (of)* polar bears is that they look white *in (inn)* colour. 
+But *in (under)* reality, *their (there)* skin is black. 
+It is covered with a lot of white fur.
+```
+#### Jumbled Words (label)
+
+These words are linked with polar bears. Identify. (title)
+```
+Cold, Snow, Polar, Bears, White, Fur
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Polar bears live in_______regions.
+cold, warm, dense
+Polar bears are similar to_______bears.
+brown, dark, blue
+Polar bears have______fur.
+white, black, brown
+Polar bears have_______skin,
+black, white, blue
+Polar bears are found in_______.
+Antarctica, Arctic, Asia
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Polarbear, Snow, Russia, White, Fur, Big, Heavy, Fish, Carnivore
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
