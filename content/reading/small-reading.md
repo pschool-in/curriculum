@@ -474,6 +474,8 @@ Once the eggs have *hatched (snatched)*, the females come back and take *care (h
 They do not seem to be afraid of humans.
 ```
 
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
 # Animals
 
 ## Dogs
@@ -808,37 +810,156 @@ Find the words listed below. (title)
 Dolphin, Calf, Hopping, Playing, Swimming, Intelligent, Racing, Blue, Attentive, Friendly
 ```
 
-## 
+## Monkeys
 
+### Activities
 
+#### Fill in the blanks. (Fill up by Drag)
 
+Tap on the blanks for options. (title)
+```
+Monkeys can be *easily (peasily)* seen in India. 
+We usually find them on top *of (on)* buildings and on trees. 
+*Their (There)* favourite food is bananas. 
+They eat it just like humans, by removing the *peels (heels)* in the same manner. 
+Do you know that *monkeys’ (monkey's)* families are our ancestors?
+Their hands and legs *are (hair)* very similar to humans. 
+A few years ago, there used to be street plays, in which monkeys danced and did tricks.
+```
 
+#### Jumbled Words (label)
 
+These words are linked with monkeys. Identify. (title)
+```
+Monkey, Banana, Trees, Infant, Climb, Street
+```
 
+#### Multiple Choice Questions (label)
 
+Choose the correct option. (title)
+```
+Monkey's babies are called________.
+infants, cubs, bugs
+Monkey are our_________.
+ancestors, enemies, slaves
+Monkeys love eating________.
+bananas, chocolates, apples
+Monkeys_________from one tree to another.
+climb, hop, walk
+Monkeys did________in the past.
+street tricks, talking, theatre
+```
 
+#### Wordsearch (label)
 
+Find the words listed below. (title)
+```
+Monkeys, Infants, Climbers, Trees, Bananas, Ancestors, Tricksters, Humans, Streets, Tail
+```
 
+## Bees
 
+### Activities
 
+#### Fill in the blanks. (Fill up by Drag)
 
+Tap on the blanks for options. (title)
+```
+Bees *live (life)* in beehives where they produce honey. 
+The beehive consists of a queen *bee (be)* and worker bees. 
+They *feed (fed)* on flower nectar. 
+Lifespan of worker *bees (Bs)* is usually *around (round)* one year. 
+But the lifespan of an adult queen bee is around 2 to 5 years. 
+*Only (lonely)* the worker bees can sting. 
+It is usually *advised (adviced)* not to tease the bees. 
+This is *because (cause)* the worker bees can sting us. 
+Stings cause a lot of pain.
+```
 
+#### Jumbled Words (label)
 
+These words are linked with bees. Identify. (title)
+```
+Bees, Queen, Worker, Honey, Sting, Hive
+```
 
+#### Multiple Choice Questions (label)
 
+Choose the correct option. (title)
+```
+Bees live in_________.
+beehives, trees, canals
+A beehive is also called a_________.
+honeycomb, beecomb, queen's palace
+Only________bees can sting.
+worker, queen, king
+Baby bees are called_________.
+broods, croods, infants
+Bees feed on_______.
+flower nectar, honey, leaves
+```
 
+#### Wordsearch (label)
 
+Find the words listed below. (title)
+```
+Bees, Broods, Honeycomb, Beehive, Sting, Honey, Queen, Worker, Nectar
+```
 
+## Pigs
 
+### Activities
 
+#### Fill in the blanks. (Fill up by Drag)
 
+Tap on the blanks for options. (title)
+```
+Pigs *have (shave)* small eyes, large ears and a flat snout. 
+Snouts *give (gives)* them an excellent sense of smell. 
+They make an ‘*oink (horn)*’ sound and usually like to stay in mud and *dirt (hurt)*. 
+*They’re (Their're)* one of the most populous mammals. 
+Do you know that the stiff hair on pigs’ bodies are called bristles? 
+Those bristles were very commonly *used (abused)* to make paintbrushes and shoe brushes.
+```
 
+#### Jumbled Words (label)
 
+These words are linked with pigs. Identify. (title)
+```
+Pig, Piglet, Mud, Oink, Dirty, Snout
+```
 
+#### Multiple Choice Questions (label)
 
+Choose the correct option. (title)
+```
+A pig's nose is elongated and is called a_______.
+snout, nose, flat, nose
+Pig's body has stiff hair, called________.
+bristles, braces, thorns
+A baby pig is called a_________.
+piglet, infant, brood
+Pigs like to stay in_______.
+mud, ponds, drains
+Pig hair was used to make_________.
+paintbrushes, toothbrushes, cloth brushes
+```
 
+#### Wordsearch (label)
 
+Find the words listed below. (title)
+```
+Piglets, Pigs, Snout, Bristles, Mud, Dirt, Smell, Pink, Stiff, Farm
+```
 
+## Lions
 
+### Activities
 
+#### Fill in the blanks. (Fill up by Drag)
 
+Tap on the blanks for options. (title)
+```
+Lions are very *powerful (powerless)* and *strong (weak)*. 
+They look like a very *big (small)* cat with *hair (hare)* all around their face. 
+Lions live together in caves. They usually roar at night. The sound of their roar can be heard 8kms away. They eat by hunting their prey. Do you know that lions can eat upto 30kgs in one meal?
