@@ -1080,3 +1080,76 @@ Snakes are_________.
 carnivores, omnivores, herbivores
 Some snakes can also______.
 fly, hop, walk
+Snakes shed their________.
+skin, tongue, cheeks
+Snakes are__________.
+reptiles, amphibians, mammals
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Snakes, Snakelets, Shed, Skin, Reptile, Crawler, Venom, Python, Anaconda, Cobra
+```
+
+## Dinosaurs
+
+### Activities
+
+#### Fill in the blanks. (Fill up by Drag)
+
+Tap on the blanks for options. (title)
+```
+Dinosaurs lived on earth millions of years *ago (later)*. 
+No one knows what *they (them)* looked like. 
+But on the basis of bones *and (hands)* skeletons from the past, scientists assumed their body *structure (shape)*. 
+They were of *different (diffarent)* sizes. 
+Some were very small while some were *very (vary)* huge. 
+Some of them even had *wings (bings)* to fly. 
+Some also lived in the sea. 
+
+We still have no idea what *sounds (screams)* dinosaurs used to make. 
+But based on their body sizes, scientists have also *assumed (assured)* their voice. 
+We can hear their voices in a *lot (let)* of movies made on dinosaurs. 
+For example, Jurassic Park series, Jurassic World, Godzilla, etc.
+
+Apart from being diverse in *their (there)* body structures, the species were also different in their eating habits. 
+Some were *herbivores (harabivores)*, some were carnivores and some were *omnivores (omnipotent)*. 
+It has been found that dinosaurs became *extinct (estinguished)* about 65 million years ago. 
+A meteor from space *hit (hitted)* the earth. 
+It led to the death of the species.
+```
+
+#### Jumbled Words (label)
+
+These words are linked with dinosaurs. Identify. (title)
+```
+Eggs, Flight, Era, Old, Animal, Lizard
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Dinosaurs died________years ago.
+65 million, 65 billion, 65 thousand
+Dinosaurs_________.
+laid eggs, gave birth, were infertile
+There were_______species of dinosaurs.
+many, only one, fifteen
+Dinosaurs became extinct because of_________.
+meteor shower, draught, flood
+We are not sure about dinosaur's__________.
+voices, bodies, wings
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Dinosaurs, Jurassic, Meteor, Ancient, Mesozoic, Enormous, Screams, Species, Extinct, Living
+```
+
+
+
