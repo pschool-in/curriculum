@@ -962,4 +962,121 @@ Tap on the blanks for options. (title)
 ```
 Lions are very *powerful (powerless)* and *strong (weak)*. 
 They look like a very *big (small)* cat with *hair (hare)* all around their face. 
-Lions live together in caves. They usually roar at night. The sound of their roar can be heard 8kms away. They eat by hunting their prey. Do you know that lions can eat upto 30kgs in one meal?
+Lions live together in *caves (canes)*. 
+They usually *roar (meow)* at night. 
+The sound of their *roar (meow)* can be heard 8kms away. 
+They eat by hunting their prey. 
+Do you know that lions can eat upto 30kgs in one meal?
+```
+
+#### Jumbled Words (label)
+
+These words are linked with lions. Identify. (title)
+```
+Lions, Cubs, Caves, Dens, Roar, Meat
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Lions are known as the______of the Jungle.
+King, Coward, Cat
+Lions live in______.
+caves, carnivals, trees
+Caves are also called________.
+dens, forests, pathways
+Lions are__________.
+predators, preys, herbivores
+A lion's baby is called a______.
+cub, calf, kitten
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Lion, Lioness, Den, Cub, Predator, Caves, Roaring, King, Forest, Jungle
+```
+
+## Sharkes
+
+### Activities
+
+#### Fill in the blanks. (Fill up by Drag)
+
+Tap on the blanks for options. (title)
+```
+Sharks *are (were)* predators. 
+It means that they hunt other *fishes (fish)* as their food. 
+Sharks have overall 30,000 pointed teeth in their *life (live)* span. 
+Their skin is the thickest of all the *animals (humans)*. 
+Sharks show their *presence (absence)* by swimming on the upper layer of water. 
+The horn-like *fin (thorn)* on their upper body is visible outside the water.
+```
+
+#### Jumbled Words (label)
+
+These words are linked with sharks. Identify. (title)
+```
+Shark, Pup, Ocean, Attack, Fish, Fins
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Sharks are________.
+predators, preys, mammals
+Sharks have_______teeth.
+pointed, blunt, human-like
+A baby shark is called a________.
+pup, bub, baby
+Sharks move_________their prey before attacking.
+around, away, forward
+Sharks are_________.
+dangerous, friendly, non-friendly
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Sharks, Pups, Attackers, Predators, Fish, Ocean, Water, Prey
+```
+
+## Snakes
+
+### Activities
+
+#### Fill in the blanks. (Fill up by Drag)
+
+Tap on the blanks for options. (title)
+```
+A fascinating fact about snakes is that they don’t have *legs (face)*. 
+They move by *creeping (crawling)*. 
+People are generally *scared (playful)* of snakes. 
+This is *because (became)* they’re poisonous. 
+But, not all snakes are poisonous. 
+*Their (There)* food is usually frogs and small animals. 
+Snakes can swallow their food without *chewing (chasing)*. 
+They shed their skin 3 to 6 times *per (par)* year. 
+```
+
+#### Jumbled Words (label)
+
+These words are linked with snakes. Identify. (title)
+```
+Snakes, Crawl, Flying, Frogs, Skin, Scales
+```
+
+#### Multiple Choice Questions (label)
+
+Choose the correct option. (title)
+```
+Snake babies are called________.
+snakelets, snakies, scalies
+Snakes are_________.
+carnivores, omnivores, herbivores
+Some snakes can also______.
+fly, hop, walk
