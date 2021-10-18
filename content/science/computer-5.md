@@ -38,7 +38,7 @@ It is the brain of the computer. It is made of three components.
 3. Memory unit
 
 ### Storage devices
-It is used to store data. The most common storage devices are: Hard disc, Compact disc, Digital versatile disc , Blu-ray disc, USB flash drive, Memory card, etc
+It is used to store data. The most common storage devices are: Hard disc, Compact disc, Digital versatile disc, Blu-ray disc, USB flash drive, Memory card, etc
 
 ## Group: External vs Internal 
 
@@ -124,7 +124,7 @@ Also known as Visual Display Unit - *monitor*
 
 ``` 
 *Operating* system is an example of system software.
-Hard disc is a *storage* device.
+A hard disc is a *storage* device.
 The devices that provide raw data to the computer are called *input* devices
 Application software is run by *system* software.
 *Software* controls the working of the computer.
@@ -152,7 +152,7 @@ An input device used to point and access items on the computer - *mouse*
 A unit that performs logical operations - *ALU*
 An output device that prints output on paper - *printer*
 A device that helps to listen to music - *speaker*
-A device known as VDU - *monitor*
+A device that is known as VDU - *monitor*
 ```
 ## What does it stand for? (match)
 ```
@@ -165,27 +165,27 @@ Microsoft, MS
 
 Arrange processes in the sequence they occur.
 ```
-Accepts data, Processes data, Produces result, Stores results.
+Accepts data, Processes data, Produces results, Stores results.
 ```
 # Grade- 5
 
 ## Internet - Reading
 ### Internet
 
-Internet stands for International Network. It is a vast network that connects computers all over the world. Internet can be used in various ways.
-Uses: searching information, communication, shopping, entertainment, education, airline and railway ticketing, etc
+Internet stands for International Network. It is a vast network that connects computers all over the world. The Internet can be used in various ways.
+Uses: searching information, communication, shopping, entertainment, education, airline, and railway ticketing, etc
 
 ### Connecting to Internet
-Basic requirement to access  internet include a computer, a web browser, a modem and a telephone line.
+The basic requirement to access the internet includes a computer, a web browser, a modem, and a telephone line.
 
 ### Important terms
-1. World Wide Web(www): it is a collection of websites or web-pages stored in web servers. It can be accessed through internet.
-2. Web page: a document which can be displayed in a web browser.
+1. World Wide Web(www): it is a collection of websites or web pages stored in web servers. It can be accessed through the internet.
+2. Web page: a document that can be displayed in a web browser.
 3. Website: it is a collection of web pages. Examples: Wikipedia.org, Google.com, Amazon.com
 4. Home page: the first page of a website.
-5. Web browser: it is a software application that helps you to access websites on internet. Examples: Google Chrome, Internet Explorer, Mozilla Firefox, Opera, Safari
-6. URL: it stands for Uniform Recourse Locator. It refers to the web address.
-7. Search engine: it is a website used to search information on the internet. Examples: Google, Yahoo, Bing, Ask
+5. Web browser: it is a software application that helps you to access websites on the internet. Examples: Google Chrome, Internet Explorer, Mozilla Firefox, Opera, Safari
+6. URL: it stands for Uniform Resource Locator. It refers to the web address.
+7. Search engine: it is a website used to search for information on the internet. Examples: Google, Yahoo, Bing, Ask
 8. E-mail: it stands for Electronic mail. It is used to send and receive messages in electronic form. Examples: Gmail.com, Yahoo.com, Rediffmail.com
 9. Instant messaging: it is used for online chat. It allows an instant response. Examples: Whatsapp, Viber, Line
 10. Video conferencing: it is a face to face communication among people at distant locations through the internet. Examples: Skype, Google meet, Facetime, Zoom
@@ -195,18 +195,18 @@ Basic requirement to access  internet include a computer, a web browser, a modem
 
 ``` 
  
-*World Wide Web* is a collection of websites or web-pages stored in web servers.
-*Web page* is a document which can be displayed in a web browser.
+*World Wide Web* is a collection of websites or web pages stored in web servers.
+*Web page* is a document that can be displayed in a web browser.
 *Website* is a collection of web pages.
 *Home page* is the first page of a website.
-*Web browser* is a software application that helps you to access websites on internet
+*Web browser* is a software application that helps you to access websites on the internet
 
 ```
 ## Answer in one word. (drag and drop)
 
 ``` 
  
-*Search engine* is a website used to search information on the internet.
+*Search engine* is a website used to search for information on the internet.
 *Instant messaging* is used for online chat
 *Video conferencing* is a face to face communication among people at distant locations through the internet.
 *Social networking* sites are websites used to connect to friends and relatives. 
@@ -216,7 +216,7 @@ Basic requirement to access  internet include a computer, a web browser, a modem
 ## What does it stand for? (drag and drop)
 ```
 *Internet* stands for International Network.
-*URL* stands for Uniform Recourse Locator. 
+*URL* stands for Uniform Resource Locator. 
 *E-mail* stands for Electronic mail
 
 ```
