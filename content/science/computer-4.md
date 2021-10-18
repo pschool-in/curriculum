@@ -123,8 +123,8 @@ Arithmometer - *Thomas de Colmar*
 12. Ctrl + Home - Go to the beginning of the document.
 13. End - Go to the end of the current line.
 14. Ctrl + End - Go to the end of a document.
-15. Shift + Home - Highlight from current position to beginning of the line.
-16. Shift + End - Highlight from current position to end of the line.
+15. Shift + Home - Highlight from the current position to the beginning of the line.
+16. Shift + End - Highlight from the current position to the end of the line.
 17. Ctrl + (Left arrow) - Move one word to the left at a time.
 18. Ctrl + (Right arrow) - Move one word to the right at a time.
 
