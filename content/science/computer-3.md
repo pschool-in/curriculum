@@ -1,6 +1,6 @@
 # Grade- 3
 
-## Computer  - Reading
+## Computer - Reading
 
 ### Introduction to computers
 A computer is an advanced electronic device that performs both arithmetic and logical operations.
@@ -27,7 +27,7 @@ A computer is an advanced electronic device that performs both arithmetic and lo
 1. type document
 2. listen to music
 3. use the internet
-4. send e-mail
+4. send an e-mail
 5. play games
 6. draw a picture
 7. watch movies
@@ -98,5 +98,7 @@ CPU - Central *Processing (Programing)* Unit
 ## Crossword and word search
 
 www.pschool.in/1632288120030
+
+
 
 
