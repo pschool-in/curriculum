@@ -1,6 +1,6 @@
 # Grade- 3
 
-## Computer - Reading
+## Computer  - Reading
 
 ### Introduction to computers
 A computer is an advanced electronic device that performs both arithmetic and logical operations.
@@ -32,6 +32,41 @@ A computer is an advanced electronic device that performs both arithmetic and lo
 6. draw a picture
 7. watch movies
 8. chat with a friend
+
+### Starting the computer
+Plugin the computer and all the attached devices.
+Switch on your UPS to provide an uninterrupted power supply to your computer
+Press the power button of the CPU to boot up the computer
+### Shutting down the computer 
+To turn off the computer click on the start button.
+Then click shut down in the lower right corner of the start button.
+
+### Different keys on the keyboard
+Alphabetical keys: There are 26 alphabetical keys on the keyboard.
+Numerical keys: There are 10 numerical keys on the keyboard.
+Special keys: There are various special keys used to perform different functions.
+
+### Different Special keys
+Capslock: This key is used when we want to type a capital letter.
+Enter key: It is used to finish a line and move to the next line on the page.
+Shift key: It is a modifier key present on both sides of the keyboard. It is used to type capital letters and other alternate 'upper' characters.
+
+### Different buttons on the mouse 
+Left mouse button: It is used to point to any menu tool, icon, or for selection of text. We can select multiple entities using this button.
+Scroll button: It is used to scroll the page up and down.
+Right mouse button: It is used to invoke the shortcut menu.
+
+### Advantages of Computer
+It is much faster when compared to human beings.
+It can perform all calculations accurately.
+It can store large amounts of data.
+It is more reliable than humans.
+It can perform a variety of operations on the same set of data.
+### Limitations of Computer
+It has no IQ level.
+It works on electricity.
+It cannot think by itself.
+It is unable to make its own decisions.
 
 ## Match the following
 
@@ -99,6 +134,31 @@ CPU - Central *Processing (Programing)* Unit
 
 www.pschool.in/1632288120030
 
+## Starting the Computer (sorting)
+Arrange the steps in starting the computer in the correct order.
+```
+plugin computer, switch on UPS, press power button on CPU, boot up 
+```
+## Strength or Limitation 
+```
+Strength:
+The computer can store large amounts of data.
+The computer is more reliable than humans.
+The computer can perform a variety of operations on the same set of data.
+
+Limitations:
+It works on electricity.
+It is unable to make its own decisions.
+```
+## Fill in the blanks. (drag and drop)
+```
+The *capslock* key is used when we want to type a capital letter.
+*Enter* key is used to finish a line and move to the next line on the page.
+The *shift* key is a modifier key present on both sides of the keyboard.
+The *left* mouse button is used to point to any menu tool, icon, or for the selection of text. 
+The *scroll* button is used to scroll the page up and down.
+The *right* mouse button is used to invoke the shortcut menu.
+```
 
 
 
