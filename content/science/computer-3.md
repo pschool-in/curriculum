@@ -34,39 +34,54 @@ A computer is an advanced electronic device that performs both arithmetic and lo
 8. chat with a friend
 
 ### Starting the computer
-Plugin the computer and all the attached devices.
-Switch on your UPS to provide an uninterrupted power supply to your computer
-Press the power button of the CPU to boot up the computer
-### Shutting down the computer 
-To turn off the computer click on the start button.
-Then click shut down in the lower right corner of the start button.
+
+1. Plugin the computer and all the attached devices.
+2. Switch on your UPS to provide an uninterrupted power supply to your computer.
+3. Press the power button of the CPU to boot up the computer.
+
+### Shutting down the computer
+
+1. To turn off the computer click on the start button.
+2. Then click shut down in the lower right corner of the start button.
 
 ### Different keys on the keyboard
+
 Alphabetical keys: There are 26 alphabetical keys on the keyboard.
+
 Numerical keys: There are 10 numerical keys on the keyboard.
+
 Special keys: There are various special keys used to perform different functions.
 
 ### Different Special keys
+
 Capslock: This key is used when we want to type a capital letter.
+
 Enter key: It is used to finish a line and move to the next line on the page.
+
 Shift key: It is a modifier key present on both sides of the keyboard. It is used to type capital letters and other alternate 'upper' characters.
 
 ### Different buttons on the mouse 
+
 Left mouse button: It is used to point to any menu tool, icon, or for selection of text. We can select multiple entities using this button.
+
 Scroll button: It is used to scroll the page up and down.
+
 Right mouse button: It is used to invoke the shortcut menu.
 
 ### Advantages of Computer
-It is much faster when compared to human beings.
-It can perform all calculations accurately.
-It can store large amounts of data.
-It is more reliable than humans.
-It can perform a variety of operations on the same set of data.
+
+1. It is much faster when compared to human beings.
+2. It can perform all calculations accurately.
+3. It can store large amounts of data.
+4. It is more reliable than humans.
+5. It can perform a variety of operations on the same set of data.
+
 ### Limitations of Computer
-It has no IQ level.
-It works on electricity.
-It cannot think by itself.
-It is unable to make its own decisions.
+
+1. It has no IQ level.
+2. It works on electricity.
+3. It cannot think by itself.
+4. It is unable to make its own decisions.
 
 ## Match the following
 
