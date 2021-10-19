@@ -30,3 +30,11 @@ Number of Jars required = ?0
 Each Jar have = ?1 cookies
 5, 4
 ```
+```
+Teacher has 20 Pencils & 10 eraser. These can be divided equally to maximum how many students ?
+solution:
+Each studetns will get = ?0 Pencil/s
+Each studetns will get = ?1 Eraser/s
+Number of Students = ?2
+2, 1, 10
+```
