@@ -507,14 +507,14 @@ Dog, Bone, Puppy, Play, Tail, Friend
 
 Choose the correct option. (title)
 ```
-Dogs have_______legs.
-four, three, five
+Dogs have_______teeth.
+pointed, conical, yellow
 A dog is a man's_______friend.
 best, worst, honest
 Dogs love to play_______game.
 fetch, dug, dumb
-Dog's babies aare called_________.
-puppies, pomeleons, parrots
+Dog's babies are called_________.
+puppies, pomerarians, parrots
 Dogs are_______.
 fun, boring, annoying
 ```
@@ -1151,5 +1151,56 @@ Find the words listed below. (title)
 Dinosaurs, Jurassic, Meteor, Ancient, Mesozoic, Enormous, Screams, Species, Extinct, Living
 ```
 
+## Chicken
 
+### Activities
 
+#### Jumbled Words (label)
+
+These words are linked with chicken. Identify. (title)
+```
+Cock, Hen, Farm, Eggs, Chicks, Comb
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Chicken, Rooster, Chicks, Poultry, Farms, Eggs, Commercial, Feathers, Comb, Omnivore
+```
+
+## Elephants
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with elephants. Identify. (title)
+```
+Calf, Trunk, Asian, White, Dark, Tusks
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Tusks, Tushes, Trunk, African, Herbivore, Elephant, Calves, Asian, Forest
+```
+
+## Apes
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with apes. Identify. (title)
+```
+Apes, Monkey, Banana, Smart, Trees
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Apes, Smart, Family, Monkeys, Trees, Jungle, Ancestors, Endangered
+```
