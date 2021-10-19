@@ -1204,3 +1204,139 @@ Find the words listed below. (title)
 ```
 Apes, Smart, Family, Monkeys, Trees, Jungle, Ancestors, Endangered
 ```
+
+## Crocodiles & Alligators
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with crocodiles and aligators. Identify. (title)
+```
+Snout, Green, Eggs, Water, Scales
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Alligator, Crocodile, Hatchling, Predator, Carnivore, Aquatic
+```
+
+## Jaguars & Leopards
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with jaguars and leopards. Identify. (title)
+```
+Jaguar, Spots, Speed, Forest, Cubs
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Leopard, Jaguar, Cubs, Predator, Carnivore, Spots, Skin, Fast
+```
+
+## Turtles & Tortoises
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with turtles and tortoises. Identify. (title)
+```
+Turtle, Aquatic, Eggs, Swim, Live
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Turtle, Tortoise, Hatchling, Swimmers, Land, Water, Eggs, Herbivore, Omnivore
+```
+
+## Mice
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with mice. Identify. (title)
+```
+Mice, Mouse, Rat, Pups, Snout, Kitten
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Snout, Emotions, Expression, Teeth, Tail, Fur, Rodent, White, Grey, Brown
+```
+
+## Spiders
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with spiders. Identify. (title)
+```
+Spider, Web, Saliva, Insect, Legs, Trap
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Spider, Web, Bugs, Legs, Insects, Species, Spiderling
+```
+
+## Ants
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with ants. Identify. (title)
+```
+Red, Black, Ants, Strong
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Ants, Strength, Sweet, Sugar, Red, Black, Sting
+```
+
+## Chameleons
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with chameleons. Identify. (title)
+```
+Color, Green, Insect, Brown, Trees, Bushes
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Chameleon, Colors, Omnivore, Insects, Forest, Bushes
+```
+
+## Butterflies
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with butterflies. Identify. (title)
+```
+Cocoon, Colors, Insect
