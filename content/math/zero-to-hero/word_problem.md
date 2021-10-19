@@ -15,3 +15,10 @@ The smallest length of the ruler = ?0 ft
 The biggest length of the ruler = ?1 ft
 1, 3
 ```
+```
+There are 24 bangles. We need to put the bangles in 8 boxes. Can we put them eqully without any bangles being left?
+solution:
+Number Bangles in each box = ?0
+Bangles left = ?1
+3, 0
+```
