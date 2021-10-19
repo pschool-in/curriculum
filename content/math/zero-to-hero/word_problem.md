@@ -22,3 +22,11 @@ Number Bangles in each box = ?0
 Bangles left = ?1
 3, 0
 ```
+```
+Dave has 20 cookies. He wants to keep the cookies in jar. He has 2 different types of Jars which can contant 4 cookies or 3 cookies.
+If he want to keep equal amount of cookies in each Jar, how many Jars he will require?
+solution:
+Number of Jars required = ?0
+Each Jar have = ?1 cookies
+5, 4
+```
