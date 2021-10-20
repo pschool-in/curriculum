@@ -38,3 +38,8 @@ Each studetns will get = ?1 Eraser/s
 Number of Students = ?2
 2, 1, 10
 ```
+```
+`A class had 90 pencils. If these pencis are divided among 15 studetns equally, how many pencils each student will get? | 6
+Kittu wants to buy chocolates. She has ₹ 18. If each chocolate cost ₹ 4, how many chocolates she will be able to buy? | 4
+I can put 30 balls equally in 10 buckets, eahc bucket with have 3 balls. If I have only 5 buckets, how many balls will be present in each bucket? | 6
+```
