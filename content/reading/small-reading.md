@@ -1339,4 +1339,203 @@ Chameleon, Colors, Omnivore, Insects, Forest, Bushes
 
 These words are linked with butterflies. Identify. (title)
 ```
-Cocoon, Colors, Insect
+Cocoon, Colors, Insect, Wings, Pretty
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Beautiful, Silkworm, Colours, Nectar, Antennas, Nature, Pleasant
+```
+
+## Parrots
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with parrots. Identify. (title)
+```
+Parrot, Chick, Eggs, Birds, Chilly, Beak
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Parrots, Chick, Eggs, Birds, Beaks, Red, Green, Trees
+```
+
+## Ostriches
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with ostriches. Identify. (title)
+```
+Flight, Eggs, Bird, Wings
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Ostrich, Egg, Flightless, Birds, Large, Toes, Fastest
+```
+
+## Woodpeckers
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with woodpeckers. Identify. (title)
+```
+Beaks, Eggs, Holes, Colors, Forest
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Colourful, Birds, Beaks, Birds, Woodpecker, Strong, Drumming
+```
+
+## Crows
+
+### Activities
+
+#### Jumbled Words (label)
+
+These words are linked with crows. Identify. (title)
+```
+Crows, Black, Eggs, Wings, Smart
+```
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Crows, Birds, Black, Common, Domestic, Raven
+```
+
+## Owls
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Owls, Night, Vision, Smart, Eyeballs, Twisted
+```
+
+## Goats
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Meat, Milk, Goat, Kids, Kidding, Domestic, Horns, Tail, Fur
+```
+
+## Sheeps
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Sheep, Wool, White, Ram, Ewes, Lamb, Milk, Herds
+```
+
+## Hippopotamuses
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Hippos, Herbivore, Africa, Loud, Dangerous, Calf, Horns, Water
+```
+
+## Eagles & Vultures
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Eagle, Vulture, Eggs, Birds, Predator, Sense, Eyesight, Meat
+```
+
+## Octopuses
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Ocean, Legs, Tentacles, Colour, Predators, Smart, Aquatic
+```
+
+## Rhinoceros
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Horn, Rhino, Unicorn, Fast, Africa, Asia, Fat, Big
+```
+
+## Foxes
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Foxes, Cunning, Smart, Sounds, Stinky, Wild, Pups
+```
+
+## Leopards & Cheetahs
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Leopard, Cheetah, Spots, Yellow, Predator, Carnivore, Tearlines, Climbers
+```
+
+## Peacocks
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Peacock, Peahen, Monsoon, Eggs, Beautiful, Flight, Colourful
+```
+
+## Hornbills
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
