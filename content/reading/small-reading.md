@@ -1539,3 +1539,208 @@ Peacock, Peahen, Monsoon, Eggs, Beautiful, Flight, Colourful
 
 Find the words listed below. (title)
 ```
+Hornbill, Forest, Friendly, Moist, Birds, Beaks, Wings, Sound
+```
+
+## Cranes
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Colts, Crane, Legs, Fish, Bird, White, Neck, Streamline, Siberian, Migration
+```
+
+## Doves & Pigeons
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Dove, Pigeon, Eggs, Nest, Grey, White, Local, Common
+```
+
+## Ducks
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Duck, Duckling, Egg, Legs, Water, Swimmer, Flight, Beak, Waterproof, Dive
+```
+
+## Sparrows
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Sparrow, Nest, Domestic, Singing, Choir, Bushes, Trees, Swimmer
+```
+
+## Flamingoes
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+America, Unique, Hunter, Pink, Grey, White, Asia, Africa
+```
+
+## Kingfishers
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Kingfisher, Colour, Water, Branch, Eyesight, Burrows
+```
+
+## Mynas
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Mynas, India, Urban, Voice, Intimate, Flocks, Nests, Flight
+```
+
+## Dragonflies
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Dragonfly, Wings, Flight, Insect, Larva, Land, Water
+```
+
+## Frogs
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Frog, Tadpole, Army, Absorb, Eyes, Swallow, Carnivore
+```
+
+## Crabs
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Crab, Lobster, Sea, Ocean, Claws, Eggs, Decapods, Zoea, Cast
+```
+
+## Squirrels
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Squirrel, Nuts, Trees, Busy, Tail, Teeth, Parachute
+```
+
+## Kangaroos
+
+### Activities
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Kangaroo, Pouch, Australia, Mammals, Joey, Pregnancy, Hopper
+```
+
+****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+# Flowers
+
+## Activities
+
+### Rose
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Popular, Love, Red, Green, Blue, Pink, Yellow, Thorns, Perfume, Maldives
+```
+
+### Lotus
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Lotus, Buds, Water, Roots, Float, Edible, Pink, White, Purple, India
+```
+
+### Sunflower
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Sunflower, Yellow, Ukraine, Cooking, Birdfood, Manure, Sun, Buds
+```
+
+### Marigold
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Lutein, Red, Maroon, Orange, Yellow, Marigold, America, Protects
+```
+
+### Hibiscus
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Hibiscus, Red, Pink, White, Ayurveda, Shoeflower, Korea, Malaysia
+```
+
+## Jasmmine
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Jasmine, Scent, White, Berries, Calm, Relax, Oil, Incense
+```
+
+## Tulip
+
+#### Wordsearch (label)
+
+Find the words listed below. (title)
+```
+Tulip, Turban, Turkey, Holland, Lily, Medicine, Cosmetic
+```
+
+****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
