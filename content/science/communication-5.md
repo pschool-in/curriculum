@@ -3,9 +3,7 @@
 ## Communication and Mass Media - Reading
 
 ### Communication
-Communication is simply the act of transferring information from one place, person, or group to another. Every communication involves at least one sender, a message and a recipient. Artificial satellites are used in
-modern methods of communication. The signals are delivered very quickly from one point to another. In India, we use artificial satellites
-for communication. These satellites are called the Indian National Satellites (INSAT).
+Communication is simply the act of transferring information from one place, person, or group to another. Every communication involves at least a sender, a message and a recipient. Artificial satellites are used in modern methods of communication. The signals are delivered very quickly from one point to another. In India, we use artificial satellites for communication. These satellites are called the Indian National Satellites (INSAT).
 
 ### Audio-visual communication
 We cannot see each other when we talk on the telephone. New communication technology has now made this possible on a mobile phone, to see the person we are talking to.
@@ -32,7 +30,7 @@ education and health. This improves people’s way of life.
 1. Excessive use of the television, computer or mobile phones causes
 disorders of the eyes, ears and back. Psychological disorders and isolation, etc. are also possible.
 2. We get all sorts of information through television channels and the internet. There are instances of this information being misused to disturb the peace and order in society.
-3. Time spent on watching television leads to the neglect of outdoor sports and physical fitness. This harms physical health.
+3. Watching too much television leads to negligence of daily sports. This harms physical health.
 
 ## Group: Modern vs Traditional
 Classify the given items as modern or traditional means of communication.
@@ -80,8 +78,8 @@ Means of communication that reach large numbers of people - *mass media*
 ``` 
 We get all sorts of information through television channels and the *internet*.
 Every communication involves at least one *sender*, a message and a recipient.
-Mass media help in the successful implementation of *government* schemes.
-Time spent on watching television leads to the *neglect* of outdoor sports and physical fitness.
+*Mass media* help in the successful implementation of government schemes.
+Watching too much *television* leads to negligence of daily sports. This harms *physical health*.
 
 ```
 
