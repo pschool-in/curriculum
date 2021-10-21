@@ -115,5 +115,46 @@ What are man-made satellites used for?
 *telecommunication, *weather forecasting, *making maps, none of the above
 
 ```
+### Space
+The emptiness between and beyond the stars and planets is called space or outer space.
 
+### Rocket technology
+People have always been curious about the heavenly bodies in the sky. They have always wanted to reach them. However, to send some object from the earth into space, it must be given power against the force of gravity. Rocket technology or space launch technology is used for that purpose.
+
+Very powerful rockets are used to send a spacecraft into space. A tremendous quantity of fuel is burnt in rockets so that spacecraft weighing thousands of tons can be launched into space. In the twentieth century, a few countries of the world developed space technology and sent hundreds of spacecraft into space.
+
+### Astronouts
+Some spacecraft remain in space. Some are brought back to earth while some land on other planets or satellites. In some missions, scientists also travel in spacecraft. They are called astronauts.
+
+### Indian Space Missions
+On 22 October 2008, the Indian Space Research Organization (ISRO) launched a spacecraft to the moon. The mission is known as Chandrayaan-1.
+
+Mangalyaan is another important Indian space mission. It is known as M.O.M. or Mars Orbit Mission. It was launched on 5 November 2013. It got established in an orbit around the planet Mars on 24 September 2014. 
+
+ISRO achieved this feat in its first attempt. Both these missions are unmanned. The objective of the missions is a deeper study of the moon and Mars.
+
+### Did you know?
+Space scientists have not yet been able to find another planet that has life on it. Therefore, our earth is an invaluable planet. The degradation of its environment for any reason will be a threat to the existence of life itself.
+
+Rakesh Sharma became the first Indian astronaut to go into space in 1984. He spent eight days on a space station for a joint mission of the ISRO and the Soviet Intercosmos.
+
+## Fill in the Blanks (drag and drop )
+
+```
+*Rakesh Sharma* became the first Indian astronaut to go into space in *1984*.
+The emptiness between and beyond the stars and planets is called *space*. 
+Very powerful rockets are used to send a *spacecraft* into space.
+On 22 October 2008, *ISRO*launched a spacecraft to the moon.
+*Mangalyaan* was launched on 5 November 2013.
+```
+## Who am I?
+```
+You can see me from the earth but the lighted part of me that you see
+changes every day. Who am I? - *Moon*
+I have my own light. It is only from me that the planets get light and
+heat. Who am I? - *Sun*
+I turn around myself, around a planet and also around a star. Who am I? - *Satellite*
+I turn around myself and revolve around the sun. Who am I? - *Planet*
+No other planet has a living world like mine. Who am I? - *Earth*
+```
 
