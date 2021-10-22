@@ -1,3 +1,8 @@
+# Objectives
+
+1. conncepts of day and night
+2. duration of day and night in different months
+
 # Grade - 4
 
 ## Day and Night - Reading
