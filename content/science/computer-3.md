@@ -1,12 +1,13 @@
 # Grade- 3
 
-## Objective
+# Objective
 
-1.
-2.
-3.
-
-
+1. parts of computer
+2. storage devices
+3. uses of computer
+4. starting and shutting down protocol
+5. different keys on keyboard and mouse
+6. advantages and limitations of computer
 
 ## Computer  - Reading
 
