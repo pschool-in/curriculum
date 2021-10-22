@@ -1,3 +1,12 @@
+# Objectives
+
+1. concepts of heavenly bodies, stars, planets (introduction only), solar system (introduction only), satellites, asteroids, gravity, space, rocket technology (introduction only)
+2. indian space missions
+3. concepts of equator, hemisphere, rotation, revolution.
+4. concepts of hour, year, leap year, seasons.
+5. phases of moon
+6. lunar day and month
+
 # Grade - 5
 
 ## Our Earth and Our Solar System- Reading
