@@ -1,3 +1,10 @@
+# Objectives
+
+1. need for air
+2. atmosphere (introduction only)
+3. different gases in air
+4. air pollution (causes and effects)
+
 # GRADE 3
 
 ## AIR
