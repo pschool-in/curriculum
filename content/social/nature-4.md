@@ -1,3 +1,8 @@
+# Objectives
+
+1. natural disaster
+2. harming the environment
+
 # GRADE 4
 
 ## Nature
