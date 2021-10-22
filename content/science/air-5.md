@@ -1,3 +1,17 @@
+# Objectives
+
+1. layers in atmosphere
+2. importance of air
+3. air pollution (cause, effect andd prevention)
+4. airborne diseases
+5. solar radiation (effects only)
+6. concepts of latitude, longitute and prime meredian
+7. heat zones of earth
+8. instruments used t measure wind pressure, direction and velocity
+9. mountain peaks
+10. types of wind
+11. types of cloud
+
 # GRADE 5
 
 ## AIR
