@@ -117,6 +117,38 @@ I made good money *until I lost my job*.
 *If the dress is on sale* she will buy it. 
 ```
 
+## Classify
+
+Identify the underlined part of the sentence as a dependent clause (DC) or independent clause (IC)
+
+```
+Mahita bought some flowers *which she wanted to give her mother*.(dependent clause)
+He drove fast *so that he could reach airport on time*. (dependent clause)
+Though he didn't recieve formal schooling, *he is clever and smart*. (independent clause)
+I don't know the reason *why she dislikes me*. (Dependent clause)
+*Our dog will run away* if the gate is left opened. (independent clause)
+```
+
+```
+The gardner said *that all the plants had been pruned neatly*. (dependent clause)
+I wondered *if she was free*.(dependent clause)
+The boys *who misbehaved in the class* were suspended.(dependent clause)
+*We went for a walk* after the rain stopped. ( independent clause)
+Untill the sun sets *I will stay out and play*. ( independent clause)
+```
+
+```
+This is the homework assignment *that you missed last week*.(dependent clause)
+*The movie was good* although it was too long. (independent clause)
+The teacher *who lives next door to Raj* is Mrs. Iyer. ( dependent clause)
+Because the heavy rains knocked out the power, *school will be closed on friday*.(independent clause)
+*When I went to the zoo*, I looked at the animals.
+```
+
+
+
+
+
 
 
 
