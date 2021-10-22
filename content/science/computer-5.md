@@ -1,3 +1,11 @@
+# Objectives
+
+1. hardware and software
+2. working of computers
+3. input and output devices
+4. internet
+5. concept of browsers, web pages, URL, social networking, home page, websites and related terms
+
 # Grade- 5
 
 ## Computer System - Reading
