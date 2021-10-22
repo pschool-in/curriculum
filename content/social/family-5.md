@@ -1,3 +1,8 @@
+# Objectives
+
+1. concepts of decission making, honesty, co-operation, tolerance and gender equality
+2. rules of society
+
 # GRADE 5
 
 ## Family Values
