@@ -1,3 +1,9 @@
+# Objectives
+
+1. communication
+2. audio-visual communication (introduction)
+3. introduction on telecommunication, mass media (advantages and disadvantages)
+
 # Grade- 5
 
 ## Communication and Mass Media - Reading
