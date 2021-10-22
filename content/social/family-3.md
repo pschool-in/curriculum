@@ -1,3 +1,10 @@
+# Objectives
+
+1. types of families
+2. festivals
+3. national festivals
+4. concept of socirty, neighbours and relationships
+
 # GRADE 3
 
 ## Family
