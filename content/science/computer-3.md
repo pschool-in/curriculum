@@ -1,5 +1,13 @@
 # Grade- 3
 
+## Objective
+
+1.
+2.
+3.
+
+
+
 ## Computer  - Reading
 
 ### Introduction to computers
