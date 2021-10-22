@@ -1,3 +1,19 @@
+# Objectives
+
+1. animal shelters
+2. life cycle of animals
+3. oviparous and viviparous animals
+4. mouth parts of animals
+5. habitats of animals
+6. eating habits of animals
+7. food chain and food web
+8. winged and non-winged animals
+9. different types of beaks seen in birds and their role
+10. group behaviour of animals
+11. structure of insects
+12. reproduction in animals
+13. conservation of animals
+
 Chapter - maha g3: Animal Shelters
 # Animal Shelters (g3)
 
