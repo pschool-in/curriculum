@@ -1,4 +1,4 @@
-# Grade - 4
+# Grade - 5
 
 ## Our Earth and Our Solar System- Reading
 
@@ -156,5 +156,104 @@ heat. Who am I? - *Sun*
 I turn around myself, around a planet and also around a star. Who am I? - *Satellite*
 I turn around myself and revolve around the sun. Who am I? - *Planet*
 No other planet has a living world like mine. Who am I? - *Earth*
+```
+## Motions of the Earth -Reading
+
+### Important Terms
+
+Equator: If a circle was drawn around the surface of the Earth exactly in between the north and south poles, it would divide the Earth into two equal parts. This imaginary circle is called the equator.
+
+Hemisphere: The two equal parts the equator makes of the Earth are called the northern hemisphere and the southern hemisphere.
+
+Rotation: The turning of an object around itself is called rotation and the imaginary line around which it rotates is called its axis of rotation.
+
+Day:  The period that the Earth takes to complete one rotation is called a day. A day has two parts, daytime and nighttime or simply day and night.
+
+Hour: To measure time, the whole day is divided into 24 parts, each of which is called an hour.
+
+Revolution: Revolution is the movement of the Earth around the Sun. The Earth takes 24 hours to complete a rotation. 
+
+Year: The period the Earth takes to complete one revolution around the sun is called one year. There are about 365 days and 6 hours in a year.
+
+Leap year: In the Gregorian calendar, the year is taken to have 365 days. It means that it counts 6 hours less every year. That makes 24 hours or one day in every four years. To make up for this loss, the month of February in the Gregorian calendar has an extra day every fourth year. That year is called a leap year and it has 366 instead of 365 days and
+February has 29 instead of 28 days.
+
+Seasons: The revolution of the Earth and the inclination of its axis give rise to the cycle of seasons. In India, summer, the rainy season and winter are considered to be the main seasons. The year is also divided into six seasons, namely, Vasant, Grishma, Varsha, Sharad, Hemant and Shishir. This cycle of six seasons is called the rituchakra.
+
+Phases of moon: The moon revolves around the Earth and the Earth revolves around the sun. However, these two orbits intersect. Hence, the sun, the moon and the Earth are not always along a straight line. We see half of the moon’s surface which faces the Earth. From the Earth, we see only one side of the moon. The moon has no light of its own. We can see the moon because of the sun’s light that falls on it.
+1. Full moon: On a full moon night, we see the entire side of the moon that faces the Earth.
+2. New moon: On a new moon night, we cannot see any face of the moon.
+From the full moon to the new moon the illuminated part of the moon seen from the Earth becomes smaller and smaller. From new moon to full moon it again grows bigger and bigger. These different shapes of the moon that we see are called the phases of the moon.
+
+Lunar month: It takes 14 or 15 days from new moon to full moon. This is the fortnight of the ‘waxing’ moon. After the full moon, the moon appears smaller and smaller and after 14- 15 days it is new moon again. This period is the fortnight of the ‘waning’ moon. Thus, the period from one new moon to the next is of 28- 30 days. It is called the lunar month.
+
+Lunar day: Every day of the lunar month is called a tithi.
+
+## Match the following. 
+```
+leap year, 366 days
+year, 365 days 
+day, 24 hours 
+month, 30/31 days
+week, 7 days
+```
+## Fill in the blanks. (using options)
+```
+The period that the Earth takes to complete one rotation is called a *day (year)*.
+The *revolution (rotation) of the Earth and the inclination of its axis give rise to the cycle of seasons.
+On a *full (half)* moon night, we see the entire side of the moon that faces the Earth.
+On a *new (full)* moon night, we cannot see any face of the moon.
+The different shapes of the moon that we see are called the phases of the *moon *(earth)*.
+```
+## Answer in one word. (drag and drop)
+```
+The motion of Earth around itself - *rotation*
+The motion of Earth around the sun - *revolution*
+The imaginary line on which Earth rotates - *axis of rotation*
+The imaginary circle that divides Earth into two equal parts - *equator*
+Every day of lunar month - *tithi*
+```
+## Fill in the blanks. (drag and drop)
+```
+The two equal parts the equator makes of the Earth are called the northern *hemisphere* and the *southern* hemisphere.
+To measure time, the whole day is divided into *24* parts, each of which is called an *hour*.
+It takes 14 or *15* days from new moon to full moon.
+The year is also divided into *six* seasons. This cycle of six seasons is called the *rituchakra*.
+February has *29* instead of 28 days in a leap year.
+```
+## True or False
+Classify the following sentences as true or false.
+```
+True:
+The moon revolves around the Earth and the Earth revolves around the sun.
+The period that the Earth takes to complete one rotation is called a day.
+A day has two parts, daytime and nighttime or simply day and night.
+
+False:
+In the Gregorian calendar, the year is taken to have 375 days.
+Every day of the lunar month is called a tithli.
+```
+## Multiple Choice Questions (mcq)
+```
+How many rotations does the earth complete during one revolution around the sun?
+365, 366, 375
+
+What are the two parts of the earth made by the equator?
+north and south hemispheres, east and west hemispheres, north and west hemispheres
+
+How many days are there in a lunar month?
+28 to 30, 14 to 15, 30 to 31
+
+How many days does February have in a leap year?
+29, 30, 31, 28
+
+How many parts is a day divided into to measure time?
+24, 12, 27
+
+What is the period from one new moon to the next full moon called?
+waxing moon, waning moon, tithi
+
+What is the period from one full moon to the next new moon called?
+waning moon, lunar eclipse, waxing moon
 ```
 
