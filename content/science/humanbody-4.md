@@ -1,3 +1,7 @@
+# Objectives
+
+1. internal organs and their functions
+
 # GRADE 4
 
 ## Human Body
