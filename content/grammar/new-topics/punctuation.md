@@ -2,9 +2,9 @@
 
 to be able to use punctuation marks and distinguish between different marks.
 
-# GRADE-2
+# Grade-2
 
-## EXCLAMATION MARK
+## Exclamation mark
 
 It is used to show strong feelings of joy, sadness, confusion, surprise, etc. This mark can be used after a word, phrase or sentence. The sentences ending with an exclamation mark are called exclamatory sentences. A few examples of such sentences are:
 1. Alas! My holidays are cancelled.
@@ -47,9 +47,9 @@ Sentences ending with exclamation marks are called explanatory sentences.
 Punctuations are not important.
 Exclamation marks and question marks are the same.
 ```
-# GRADE-3
+# Grade-3
 
-## FULL STOP (PERIOD)
+## Full stop (Period)
 
 We use full stop or period at the end of a statement. For example,
 1. I like eating apples.
@@ -87,7 +87,7 @@ Full stop and period are different punctuation marks.
 Period is used in the middle of a sentence.
 ```
 
-## CAPITAL LETTERS
+## Capital letters
 
 The first letter of a sentence should always be capital. The  word ‘I’ is also written in capital. In addition, names of special places, names and titles also start with a capital letter. Some examples are;
 1. My name is Richa.
@@ -122,9 +122,9 @@ The word ‘You’ always starts with a capital letter.
 The last word of a sentence should start with a capital letter.
 ```
 
-# GRADE-4
+# Grade-4 & 5
 
-## APOSTROPHE
+## Apostrophe/Contraction
 
 An apostrophe is used for making a contraction. A contraction is made by combining two words into one. We put an apostrophe in place of a missing letter. Some examples are;
 1. do+not= don’t
@@ -167,9 +167,9 @@ Wrong:
 Dun’t, Amn’t, Not’ng
 ```
 
-# GRADE-5
+# Grade-5
 
-## COMMA
+## Comma
 
 We put a comma in the date and after greeting and closing in a letter. For example:
 1. October 21, 2021
@@ -207,7 +207,7 @@ A comma is used at the end of a sentence.
 Comma is similar to a full stop.
 ```
 
-## QUESTION MARK
+## Question mark
 
 We put a question mark at the end of a sentence that asks a question. For example:
 1. May I come in?
