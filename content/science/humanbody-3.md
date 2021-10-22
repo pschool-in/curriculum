@@ -1,3 +1,13 @@
+# Objectives
+
+1. parts of body (head, torso, neck, arms and legs)
+2. movements
+3. sense organs
+4. co-ordination among organs
+5. disability
+6. overcoming disability
+7. teeth (milk teeth and permanent teeth)
+
 # GRADE 3
 
 ## Human Body
