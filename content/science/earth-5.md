@@ -1,3 +1,11 @@
+# Objectives
+
+1. origin of earth
+2. movement of earth (introduction)
+3. planets (in detail)
+4. earth (in detail)
+5. continents and oceans (in detail)
+
 # GRADE 5
 
 ## EARTH
