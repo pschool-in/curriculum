@@ -1,3 +1,22 @@
+# Objectives
+
+1. parts of plant (stem, root, flower, bud)
+2. edible parts of plants
+3. shoot and root system
+4. habitats of plants
+5. reproductive parts
+6. flowering and non-flowering plants
+7. green and non-green plants
+8. seasonal crops
+9. reproduction in plants
+10. agriculture
+11. unisexual and bisexual plants
+12. modes of pollination
+13. modes of seed dispersal
+14. types of seeds
+15. life cycle of plants
+16. plant pigments
+
 # GRADE 1
 
 ## PLANTS
