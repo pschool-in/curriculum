@@ -1,3 +1,19 @@
+# Objectives
+
+1. environment (introduction)
+2. biosphere
+3. atmosphere 
+4. water cycle (introduction)
+5. food chain
+6. environmental balance
+7. farms (dairy and poultry)
+8. types of environment
+9. apiculture
+10. manure and vermiculture
+11. waste management and separation
+12. three R's of waste management
+13. environment friendly items
+
 Chapters -  maha g5: The Earth and its Living World, maha g5: Environmental Balance
 # Environment-2
 
