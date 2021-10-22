@@ -1,3 +1,10 @@
+# Objectives
+
+1. evolution of computers
+2. different generations of computers
+3. famous inventors and inventions
+4. common shorcuts
+
 # Grade- 4
 
 ## Evolution of Computer  - Reading
