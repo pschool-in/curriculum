@@ -1,3 +1,10 @@
+# Objectives
+
+1. organ systems (digestive sysytem, respiratory system, excretory system, nervous system, circulatory system)
+2. digestion
+3. respiration
+4. circulation
+
 # GRADE 5
 
 ## Human Body
