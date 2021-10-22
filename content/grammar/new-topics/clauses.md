@@ -1,12 +1,12 @@
 # Clauses
 
-Objectives
+## Objectives
 To be able to identify that a clause in a sentence has a subject and a verb.
 To identify that clauses are of two types - dependent and independent clause.
 To to be able to know that dependent clause in a sentence is introduced by subordinating conjunctions.
 
 
-Reading Notes 
+### Reading Notes 
 
 A clause is a group of words that consists of a subject and a verb. 
 For example-
