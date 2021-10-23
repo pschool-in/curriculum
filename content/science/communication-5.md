@@ -41,7 +41,7 @@ disorders of the eyes, ears and back. Psychological disorders and isolation, etc
 ## Group: Modern vs Traditional
 Classify the given items as modern or traditional means of communication.
 ```
-Modern: e-mail, fax, television, mobile phones, pager
+Modern: e-mail, fax, television, mobile phones
 Traditional: cave paintings, letters, telegram, notes
 ```
 
