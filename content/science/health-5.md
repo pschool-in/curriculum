@@ -132,28 +132,31 @@ Chapter- mahag4: Community Health and Hygiene
 
 ## Community Health and Hygiene - Reading
 
+
+
 ### Community Health
 Nutritious food, personal hygiene, exercise and pursuit of hobbies lead
-to excellent health and good personal development. Just as we take care of our own health, we must make efforts to ensure good health for all. Everyone in our society should be able to live the kind of tension-free and happy life that we wish for ourselves. 
+to excellent health and good personal development. Just as we take care of our health, we must make efforts to ensure good health for all. Everyone in our society should be able to live the kind of tension-free and happy life that we wish for ourselves. 
 
 Good community health and hygiene can be achieved through habits of
 cleanliness and good health on the part of all individuals in a community.
 
-Pollution, squalor, epidemics of infectious diseases, addiction, insect borne diseases are all threats to community health. To nurture community health is to protect the general public from such diseases and to make a happy and healthy life possible for all.
+Pollution, squalor, epidemics of infectious diseases, addiction, insect-borne diseases are all threats to community health. To nurture community health is to protect the general public from such diseases and to make a happy and healthy life possible for all.
 
 ### Importance of Community Health
 The people of a country are the most important factor in a country’s progress and development. Their health can be protected if they have a clean environment, nutritious food, safe drinking water and good medical facilities.
 
-Mass media are used under community welfare programmes to educate people about issues such as taking care of drinking water and food. People are urged in every possible way to keep their surroundings clean. It is a legal offence to spit in public places. The aim of this ban is to prevent the spread of diseases.
+Mass media are used under community welfare programs to educate people about issues such as taking care of drinking water and food. People are urged in every possible way to keep their surroundings clean. It is a legal offense to spit in public places. This ban aims to prevent the spread of diseases.
 
 ### Threats to Community Health
-There are several threats to community health. An important threat is carelessness regarding hygiene. Some activities that may harm community health are: burning plastic, spitting in public, open defecation, improper disposal of garbage , contamination of water bodies, etc.
+There are several threats to community health. An important threat is carelessness regarding hygiene. Some activities that may harm community health are: burning plastic, spitting in public, open defecation, improper disposal of garbage, contamination of water bodies, etc.
 
 ### Wholesome living
-If we take care of our health, it is possible for us to lead a wholesome life. Keeping ourselves happy and taking an interest in things, avoiding feelings of hatred and envy and doing what is necessary to maintain physical health helps us to achieve this end. If people of a society live a healthy and wholesome life, social tensions also decrease and feelings of friendship can be nurtured.
+If we take care of our health, we can lead a wholesome life. Keeping ourselves happy and taking an interest in things, avoiding feelings of hatred and envy and doing what is necessary to maintain physical health helps us to achieve this end. If people of society live a healthy and wholesome life, social tensions also decrease and feelings
+of friendship can be nurtured.
 
 ### Tobacco Consumption
-Names of tobacco products such as gutka, cigarettes, bidis, masheri, mawa, panmasala, etc. are often heard. We also see many people consuming tobacco in different ways. All these are harmful for our health. 
+Names of tobacco products such as gutka, cigarettes, bidis, masheri, mawa, pan masala, etc. are often heard. We also see many people consuming tobacco in different ways. All these are harmful to our health. 
 
 At first, a person may chew tobacco casually at someone’s urging.
 But this may lead to addiction. The person becomes dependent on tobacco and cannot give up the habit. When people develop this habit, they become restless if they do not get tobacco. They are not able to pay attention to anything else. They have to have tobacco in the mouth all the time. When the habit reaches this stage, it is called an addiction.
@@ -161,30 +164,28 @@ But this may lead to addiction. The person becomes dependent on tobacco and cann
 People addicted to tobacco spit here and there all the time and make their surroundings dirty.
 
 ### Ill effects of Tobacco
-1.Ulcers in the mouth.
-2.The ulcers develop into bigger wounds. The person may develop tumors.
-3.A lot of time and money has to be spent on treatment. If the wounds do not heal, the person has serious problems. This can eventually lead to cancer.
-4.Tobacco entering the digestive organs leads to complaints related to them.
-5.The constant presence of tobacco in the digestive organs can cause cancer of any of those organs.
-6.A person who develops cancer in this way has to take very painful treatment. Even after that, one cannot be sure that the cancer will be cured.
+1. Ulcers in the mouth.
+2. The ulcers develop into bigger wounds. The person may develop tumors.
+3. A lot of time and money has to be spent on treatment. If the wounds do not heal, the person has serious problems. This can eventually lead to cancer.
+4. Tobacco entering the digestive organs leads to complaints related to them.
+5. The constant presence of tobacco in the digestive organs can cause cancer of any of those organs.
+6. A person who develops cancer in this way has to take very painful treatment. Even after that, one cannot be sure that cancer will be cured.
 
 ### Alcoholism
-
-Drinking alcohol also has adverse effects on the body. Addiction to alcohol is called alcoholism.
-
-1. Alcohol makes a person drowsy and confused. One loses control over one’s actions.
-2. Alcoholism causes diseases of the liver, intestines and urinary bladder.
-3. Addiction to tobacco or alcohol are both very bad habits. 
-The condition of the addict becomes pathetic, and the addict’s family too has to suffer with them. There is no telling how much money will be required for treatment.
-4.The family gets deprived of health and happiness and is ruined.
-5. We must be aware that an addict destroys the entire family.
+Drinking alcohol also has adverse effects on the body. Alcohol addiction is called alcoholism.
+1.  Alcohol makes a person drowsy and confused. One loses control over one’s actions.
+2.  Alcoholism causes diseases of the liver, intestines and urinary bladder.
+3.  Addiction to tobacco or alcohol is both very bad habits. 
+The condition of the addict becomes pathetic, and the addict’s family has to suffer with them. There is no telling how much money will be required for treatment.
+4. The family gets deprived of health and happiness and is ruined.
+5.  We must be aware that an addict destroys the entire family.
 
 ### An Invitation to Death
 Tobacco, drugs and alcohol produce a state of intoxication. Addiction to any of them eventually kills you.
 
-There are people who lure others into smoking, drinking or trying out drugs. On no account should we give in to their pressure.
+Some people lure others into smoking, drinking, or trying out drugs. On no account should we give in to their pressure.
 
-If a person starts getting addicted to smoking or drinking or taking drugs, the help of counsellors or doctors should be sought immediately to rid the person of the habit.
+If a person starts getting addicted to smoking or drinking or taking drugs, the help of counselors or doctors should be sought immediately to rid the person of the habit.
 
 One should eat regularly and take up sports and other hobbies. One should be firm in avoiding any addiction.
 
@@ -193,7 +194,7 @@ Classify the activities as good or bad habits.
 ```
 Good:
 Avoid drugs, alcohol and tobacco.
-Do not give in to the pressure of smoking , drinking or trying drugs.
+Do not give in to the pressure of smoking, drinking or trying drugs.
 Use public toilets.
 Wash your hands before a meal.
 
@@ -205,25 +206,25 @@ Resorting to smoking, drinking or using drugs.
 ## Fill in the blanks. (by options)
 ```
 A healthy and wholesome life leads to feelings of *friendship (hatred)*.
-Constant presence of tobacco in the digestive organs can lead to *cancer (ulcer)* of any of the digestive organs.
+The constant presence of tobacco in the digestive organs can lead to *cancer (ulcer)* of any of the digestive organs.
 *Alcoholism (tobacco consumption)* leads to diseases of the liver, intestines and urinary bladder.
-The most important factor in the country’s progress and development are its *people (wealth)* .
+The most important factor in the country’s progress and development is its *people (wealth)*.
 Good community *health (wealth)*can be achieved through habits of hygiene and good health.
 ```
 ## Fill in the blanks. (drag and drop)
 ```
 Each person should put in efforts to maintain the community’s *health*.
-We must be *alert* with respect to matters of public health.
+We must be *alert* concerning matters of public health.
 *Wholesome* living leads to good personal and social health.
 One needs to be firm with oneself to *avoid* bad habits.
-Besides alcohol and tobacco, people also fall prey to some other addictions such as the addiction to *drugs* like cocaine, brown sugar, etc, which can totally devastate your life.
+Besides alcohol and tobacco, people also fall prey to some other addictions such as the addiction to *drugs* like cocaine, brown sugar, etc, which can devastate your life.
 ```
 ## True or False
 ```
 True:
 Alcoholism causes diseases of the liver, intestines and urinary bladder.
 An addict destroys the entire family.
-If we take care of our health, it is possible for us to lead a wholesome life.
+If we take care of our health, we can lead a wholesome life.
 
 False:
 Alcohol makes a person intelligent and energetic.
@@ -236,7 +237,7 @@ Match the threads to community health with the possible solutions.
 Cholera, safe drinking water
 Addiction, deaddiction center
 Malnutrition, nutritious diet
-Pollution, protect environment
+Pollution, protect the environment
 ```
 ## Multiple Choice Questions (mcq)
 ```
@@ -246,14 +247,14 @@ cleanliness and good health habits, alcoholism, tobacco consumption
 What factors are a threat to community health?
 alcoholism, drugs, tobacco, malnutrition, *all
 
-What are the ill effects of chewing tobacco ?
+What are the ill effects of chewing tobacco?
 *ulcer, *tumor, *cancer, *addiction, happiness
 
 What are the ill effects of alcoholism?
 *loss of control over actions, *diseases of the liver, ulcer
 
-Which of this is not a tobacco product?
-cocaine, gutka,  bidis, mawa, panmasala
+Which of these is not a tobacco product?
+cocaine, gutka, bidis, mawa, panmasala
 ```
 ## Match the following
 ```
@@ -262,3 +263,5 @@ Tobacco, ulcer
 Drugs, addiction
 Mass media, public awareness
 ```
+
+
