@@ -4,12 +4,12 @@
  To be able to understand what is a Gerund and its uses and also to be able to identify gerunds in the given text. 
 
 ### Reading Notes
-Gerund is that form of the verb which ends in -ing and acts a noun and verb. Therefore Gerund is also called as Verb-noun. 
+Gerund is that form of the verb which ends in -ing and acts a noun and verb. Therefore Gerund is also called as Verb-noun. Gerund functions as a subject or object of another verb in sentence. Gerund might be present either at the beginning, middle or end of the sentence. 
+
 For example 
 1. *Swimming* is a very good exercise. 
 2. I like *reading* poetry. 
 3. I like *watching* TV.
-Gerund functions as a subject or object of another verb in sentence. Gerund might be present either at the beginning, middle or end of the sentence. 
 
 ## Uses Of gerund: Gerund can be used as a 
 
@@ -29,7 +29,7 @@ Examples are
 Examples are
 1. She is fond *of dancing*.
 2. I am tired *of waiting*. 
-3. My father is addicted 8to drinking*. 
+3. My father is addicted *to drinking*. 
 
 ### Complement of verb
 Examples are
