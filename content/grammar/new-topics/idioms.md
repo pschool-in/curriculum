@@ -3,6 +3,8 @@
 # Proverbs
 
 ## objectives
+1.To be able to understand that proverb uses a figurative language ( words or phrases that doesn't have a liertal meaning) to express a feeling or an idea. 
+2. To know that proverbs in general convey the cultural beliefs.
 
 ### Reading Notes 
 A proverb is a small saying that is generally used in conversation to convey a general truth about a person or the situation. They are mostly used by adults in daily conversations. 
