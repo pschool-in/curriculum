@@ -142,7 +142,7 @@ This is the homework assignment *that you missed last week*.(dependent clause)
 *The movie was good* although it was too long. (independent clause)
 The teacher *who lives next door to Raj* is Mrs. Iyer. ( dependent clause)
 Because the heavy rains knocked out the power, *school will be closed on friday*.(independent clause)
-*When I went to the zoo*, I looked at the animals.
+*When I went to the zoo*, I looked at the animals.(Dependent clause)
 ```
 
 
