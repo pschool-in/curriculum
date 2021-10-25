@@ -55,3 +55,65 @@ national health schemes. Children are given the vaccines by trained people. Spec
 disabled. Services like the examination of urine and blood, X-ray, ultra-sound and other scans are also available through the health programs. Thus, patients can get the service they need without delay. 
 
 People are also educated about the right methods of handling drinking water and food. They are urged to maintain cleanliness in their surroundings. It is now forbidden by law to spit in a public place. The purpose of this ban is to prevent the spread of diseases. Mass media are also used for raising public awareness about health and hygiene issues.
+
+## Group: Food vs Air
+Classify the illness based on the medium of spread.
+```
+Food: cholera, typhoid, jaundice, diarrhea
+Air: common cold, influenza, diphtheria, whooping cough
+```
+## Group: Water vs Insect
+Classify the illness based on the medium of spread.
+```
+Water: cholera, typhoid, jaundice, diarrhea
+Insect: malaria, plague, yellow fever, dengue
+```
+## Fill in the blanks. (drag and drop)
+```
+Diseases caused by micro-organisms are called *infectious* diseases.
+Every infectious disease is caused by a specific *micro-organism*.
+Infectious diseases spread through water, food or air, by *direct contact* or through insect bites.
+If many people in a place get a disease at the same time, it is called
+an *epidemic*.
+*Vaccination* is an excellent method of preventing disease.
+```
+## True or False
+```
+True:
+Our body develops resistance to a particular disease due to vaccination. 
+To prevent diseases from spreading through water, it is purified at the waterworks. 
+Several people get diarrhea after consuming contaminated food. 
+False:
+Intestinal diseases spread through the air.
+We cannot prevent the spread of diseases.
+```
+## Fill in the blanks. (by options)
+```
+In smaller towns and villages, *bleaching powder (salt)* is added to community sources of water to kill the germs.
+To prevent mosquitoes from breeding, we must ensure there is no *stagnant (contaminated)* water in the surroundings. 
+People who have a serious infectious disease are *quarantined (ignored)*. The spittle of a person who has tuberculosis is collected in a vessel and covered with *phenyl (amyl)*. 
+It is now forbidden by law to *spit (gather)* in a public place.
+
+```
+## Multiple Choice Questions
+```
+What is an infectious disease?
+a disease caused by micro-organisms, a disease caused by bacteria, a common disease
+
+What are the mediums of the spread of diseases?
+air, water, food, insect, direct contact, *all
+
+What happens when there is an epidemic of a disease?
+a large population gets infected, spread of disease is reduced, only a few people are infected
+
+What is the role of vaccination?
+boost immunity, prevent spread of diseases, protect from infectious diseases, *all
+```
+## Match the following.
+```
+polio, oral
+vaccine, prevention
+malaria, mosquito
+cholera, water
+flu, air
+```
