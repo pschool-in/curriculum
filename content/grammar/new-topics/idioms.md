@@ -139,7 +139,6 @@ talent for gardening, talent for singing, talent for dancing
 
 Select the idioms from the sentence given
 
-```
 She knocked 
 
 
