@@ -34,6 +34,22 @@ Usage of the above mentioned idioms in a sentence:
 9. You are such a copy cat! Do your own work. 
 10. Sarah is such an early bird! She gets up daily before the sunrises.
 
+## Fill up ( drag and drop activity) 
+
+Fill up the blanks in the sentence with appropriate expression.
+
+```
+Try not to mention baldness while he is here: it's *a sore spot* for him.
+Refusing to lend him money now would give him *a taste of his own medicine* as he never lent you any.
+Losing my job was intially *a bitter pillow to swallow.*
+The boss has *sugared the overtime pill* by offering large extra payment.
+I can't stay in one place for more than a year without *getting itchy feet*. 
+```
+
+## Identify the Meanings
+
+
+
 
 
 
