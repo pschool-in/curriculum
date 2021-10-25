@@ -141,6 +141,42 @@ Driver, Vehicles
 Teacher, School
 ```
 
+Match the pairs. (Title)
+```
+Blacksmith, Scrap
+Salesman, Sells
+Writer, Books
+Baker, Bakery
+Electrician, Wires
+```
+
+Match the pairs. (Title)
+```
+Carpenter, Wood
+Cobbler, Shoes
+Police, Safety
+Shepherd, Flock
+Plumber, Pipes
+```
+
+Match the pairs. (Title)
+```
+Nurse, Hospital
+Singer, Melody
+Goldsmith, Gold
+Barber, Haircut
+Tailor, Clothes
+```
+
+Match the pairs. (Title)
+```
+Weaver, Weaving
+Gardner, Lawns
+Potter, Clay
+Farmer, Field
+Dancer, Performance
+```
+
 ### True or False (classify the sentence template) (label)
 
 State whether these statements are true or false. (Title)
@@ -154,6 +190,32 @@ False:
 Dancers work in hospitals.
 Shopkeeper helps the patients.
 An actor is an expert in dancing.
+```
+
+State whether these statements are true or false. (Title)
+```
+True:
+A farmer is the most important unit of agriculture.
+We have no threat of robbery if we have a watchman.
+A potter makes pottery on a spinning wheel.
+
+False:
+Gardner takes care of the law.
+A weaver sews our clothes as per our demands.
+Golsmith makes things out of scrap.
+```
+
+State whether these statements are true or false. (Title)
+```
+True:
+Blacksmith moulds the scrap into usable products.
+A tailor sews our clothes as per our demands.
+Barber styles our hair.
+
+False:
+A carpenter works with shoes.
+A baker serves people at a restaurant.
+A plumber helps to repair vehicles.
 ```
 
 ### Multiple Choice Questions (label)
@@ -172,9 +234,16 @@ Who maintains law and order?
 Police, Conductor, Salesman
 ```
 
-### Jumbled words
+### Jumbled words (label)
+
+Identify these occupations. (title)
 ```
-Police, Doctor, Driver, Tailor, Barber, Actor
+Police, Doctor, Driver, Tailor, Barber
+```
+
+Identify these occupations. (title)
+```
+Weaver, Baker, Nurse, Writer, Actor
 ```
 
 ### Wordsearch (label)
@@ -183,6 +252,12 @@ Find the words listed below. (Title)
 ```
 Plumber, Blacksmith, Singer, Cobbler, Barber, Gardener, Farmer
 ```
+
+Find the words listed below. (Title)
+```
+Salesman, Carpenter, Doctor, Teacher, Baker, Driver, Weaver
+```
+
 ### Fill in the blanks. (Fill by drag) (label)
 
 Fill in the blanks by dragging the correct option. (Title)
