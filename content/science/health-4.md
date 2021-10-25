@@ -1,3 +1,9 @@
+# Objectives
+
+1. illness
+2. home remedies
+3. society health services
+
 # Grade-4
 Chapter - mahag4: Home remedies for simple illness
 ## Home remedies - Reading
