@@ -15,11 +15,27 @@ Gerund functions as a subject or object of another verb in sentence. Gerund migh
 
 ### subject of verb
  Examples are
- 1. Walking is good exercise for health.
- 2. Reading books increases your knowledge
- 3. Working hard makes you successfull
+ 1. *Walking* is good exercise for health.
+ 2. *Reading* books increases your knowledge
+ 3. *Working* hard makes you successfull
 
 ### Object of verb
 Examples are
-1. 
+1. He dislike *sleeping* long.
+2. I hate *telling* lies.
+3. Stop *writing* now.
+
+### Object of preposition
+Examples are
+1. She is fond *of dancing*.
+2. I am tired *of waiting*. 
+3. My father is addicted 8to drinking*. 
+
+### Complement of verb
+Examples are
+1. My aim in life *is becoming* a writer.
+2. What I hate *is drinking*. 
+3. Her Favourite hobby *is dancing*. 
+
+
  
