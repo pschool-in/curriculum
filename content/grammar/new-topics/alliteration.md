@@ -50,6 +50,28 @@ I cleaned my room because my mom asked me to.
 She bought a cake from the shop.
 ```
 
+Identify if these sentences have alliteration or not. (title)
+```
+Yes:
+Dan's dog dug a ditch.
+Sameer had six straws.
+
+No:
+I forgot to bring my lunch.
+My mother loves me very much.
+```
+
+Identify if these sentences have alliteration or not. (title)
+```
+Yes:
+Shaam sells seashells by the seashore.
+The  lazy lion looked like a lump.
+
+No:
+My father works at an MNC.
+My pet's name is bony.
+```
+
 ### Identify the alliteration (label) (select word template)
 
 Select the alliteration in the sentences. (title)
