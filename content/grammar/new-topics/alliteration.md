@@ -49,3 +49,32 @@ No:
 I cleaned my room because my mom asked me to.
 She bought a cake from the shop.
 ```
+
+### Identify the alliteration (label) (select word template)
+
+Select the alliteration in the sentences. (title)
+```
+The *sticky stuff got stuck* in my shoes.
+The *raccoon ran rapidly* in towards the bushes.
+The *pink pigs played* in the mud.
+I kept the apples in the *big blue bowl*.
+*Sara silently sneaked* into her brother's room.
+```
+
+Select the alliteration in the sentences. (title)
+```
+*My mother makes marvelous melon* cakes.
+*Four friends finshed* their homework.
+*Betty bough butter* from the market.
+The *cat climbed carefully* but still fell downn.
+*Sakshi stopped staring* when someone called her name.
+```
+
+Select the alliteration in the sentences. (title)
+```
+*Dani's dogs drank* from the pot.
+Vidhi saw a *jellyfish jiggle*.
+The *audience applauded* at the end of the play.
+We love *Abhay's aunt's apples*.
+*Falguni's friends fed* the street dogs.
+```
