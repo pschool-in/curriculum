@@ -4,7 +4,7 @@
  To be able to understand what is a Gerund and its uses and also to be able to identify gerunds in the given text. 
 
 ### Reading Notes
-Gerund is that form of the verb which ends in -ing and acts a noun and verb. Therefore Gerund is also called as Verb-noun. Gerund functions as a subject or object of another verb in sentence. Gerund might be present either at the beginning, middle or end of the sentence. 
+Gerund is that form of the verb which ends in -ing and acts a noun and verb. Therefore Gerund is also called as Verb-noun. Gerund functions as a subject, object, object  of preposition, or subject complement. Gerund might be present either at the beginning, middle or end of the sentence. 
 
 For example 
 1. *Swimming* is a very good exercise. 
@@ -36,6 +36,31 @@ Examples are
 1. My aim in life *is becoming* a writer.
 2. What I hate *is drinking*. 
 3. Her Favourite hobby *is dancing*. 
+
+
+## Identify
+
+Identify the gerund in each sentence
+
+```
+Gaurav avoids *driving* in highways as much as possible.
+Grandma enjoyed *meeting* new people and *seeing* new places.
+Kavitha has developed interest in *cooking*.
+My mother says *eating* fresh vegetables is good for health. 
+If you want to excel in *writing*, you should start *reading* extensivley.
+```
+
+```
+The most difficult part of *training* was *running* for five miles an hour.
+Vihaan's most favorite free-time activity is *restoring* vintage bikes.
+Mahita is fond of *spending* long hours at the library.
+Aadhya loved *listening* to grandpa's childhood memories.
+The AC stopped *working* in the middle of the night.
+```
+
+
+
+
 
 
  
