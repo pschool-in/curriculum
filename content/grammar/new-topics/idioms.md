@@ -1,4 +1,41 @@
-# idioms
+# Idioms
+
+## objectives 
+1. To be able to define idiom.
+2. To be able to recognize and understand the meanings of idioms in the given text.
+3. To be able to use very commonly used idioms while communicating.
+
+### Reading Notes
+ An idiom is an expression, a word or a phrase that doesn't mean excatly what the words say. It is also known as idiomatic expression. For example "its raining cats and dogs", it doesn't mean that cats and dogs are falling from sky, but it is a metaphorical expression that means that its raining heavily. 
+ 
+ Some commonly used idioms and their meanings are given below:
+ 
+ 1. Piece of cake - means something is very easy to do
+ 2. Call names - means to tease someone by using unpleasant names
+ 3. ABC - means elementary knowledge
+ 4. Apple of one's eye - means Valuable things 
+ 5. Crocodile tears - artificial tears or hypocritical tears
+ 6. A feather is one's cap - an honour 
+ 7. A man of letters - a literary man
+ 8. Black sheep - unaccepted group member
+ 9. Copy cat - someone copies another
+ 10. Early bird - someone who wakes up ealry
+
+Usage of the above mentioned idioms in a sentence:
+
+1. I love to draw a scenery for you, it will be a piece of cake.
+2. My daughter is upset because some kids in her school call her names.
+3. I don't know ABC of cricket.
+4. My son is apple of my eye.
+5. He shed crocodile tears in front of his teachers. 
+6. A century in a test match is a feather is one's cap.
+7. Nehru was a man of letters.
+8. Rohit was the black sheep of the family and preferred to do things on his own. 
+9. You are such a copy cat! Do your own work. 
+10. Sarah is such an early bird! She gets up daily before the sunrises.
+
+
+
 
 # Proverbs
 
