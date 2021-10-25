@@ -175,7 +175,7 @@ Fuel these days *costs an arm and a leg*.
 # Proverbs
 
 ## objectives
-1.To be able to understand that proverb uses a figurative language ( words or phrases that doesn't have a liertal meaning) to express a feeling or an idea. 
+1.To be able to understand that proverb uses a figurative language ( words or phrases that doesn't have a literal meaning) to express a feeling or an idea. 
 2. To know that proverbs in general convey the cultural beliefs.
 
 ### Reading Notes 
