@@ -2,6 +2,10 @@
 
 1. good values (personal, cultural, social, disciplinary, constitutional)
 2. factors affecting and enriching good values
+3. importance of education
+4. educational rights (importance and features)
+5. National Education Policy
+6. Educational Schemes
 
 # Grade -5
 Chapter: tn-5-1-social: Good Citizen
@@ -207,5 +211,60 @@ The first National Education Policy was implemented in 1968 followed by the seco
 Samagra Shiksha subsumes the three Schemes of Sarva Shiksha Abhiyan
 (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA) and Teacher Education (TE).
 
+## Fill in the blanks. (drag and drop)
+```
+*Education* is very important for every individual.
+Every child has the *right* to have free and compulsory education.
+Education should be *affordable* to common people.
+The *Right to Education* Act (2009) describes the importance of free and compulsory education for children between 6 to 14 years of age.
+*Samagra Shiksha Scheme* improves the quality of education and the learning of students.
+```
+## Multiple Choice Questions (mcq)
+```
+What is the first step for a child‛s development?
+Education, Exploration, Excavation
 
+“Education is the manifestation of the perfection already in man”. To whom do these words of wisdom belong?
+Swami Vivekananda, Mahatma Gandhi, Dr. Radhakrishnan
+
+Which Act describes the importance of free and compulsory education for children?
+The Right to Education Act, The Right to School Act, The Right to Literacy Act
+
+Which policy was formed to promote education?
+National Education Policy, National Policy on Elementary Education, National Policy on Literacy
+```
+## True or False
+```
+True:
+Every child has the right to have free and compulsory education.
+Education helps in increasing awareness of surroundings, social and political issues.
+The former Chief Minister of Tamil Nadu, K.Kamaraj has implemented a Free mid-day meal program.
+
+False:
+Right to School Act describes the importance of free and compulsory education for children.
+Numeracy is the first step towards making one educated.
+```
+## Match the following
+```
+Gurukulam, ancient 
+K. Kamaraj, free mid-day meal
+RTE, 2009 
+Education, wisdom
+Samagra Shiksha, 2018 
+```
+## Fill in the blanks. (by options)
+```
+Gurukulam is the system of education that was practiced in *ancient (modern)* India. 
+Guru and the Shishya lived in *Ashram (Bangalow)*.
+Education comes under the *Concurrent (Union)* List.
+The first NEP was implemented in *1968 (1908)* followed by the second one in 1986.
+Samagra Shiksha subsumes the *three (four)* Schemes of SSA, RMSA and Teacher Education.
+```
+## Who am I? (drag and drop)
+```
+I am white when I am dirty and black when I am clean. Who am I? - *blackboard*
+I am tall when I am young and I am short when I am old. Who am I? - *pencil*
+I am wet when I am drying. Who am I? - *towel*
+I have a neck but no head. Who am I? - *bottle*
+```
 
