@@ -6,26 +6,26 @@
 3. To be able to use very commonly used idioms while communicating.
 
 ### Reading Notes
- An idiom is an expression, a word or a phrase that doesn't mean excatly what the words say. It is also known as idiomatic expression. For example "its raining cats and dogs", it doesn't mean that cats and dogs are falling from sky, but it is a metaphorical expression that means that its raining heavily. 
+ An idiom is an expression, a word or a phrase that doesn't mean exactly what the words say. It is also known as an idiomatic expression. For example "it's raining cats and dogs", doesn't mean that cats and dogs are falling from sky, but it is a metaphorical expression that means that it is raining heavily. 
  
  Some commonly used idioms and their meanings are given below:
  
  1. Piece of cake - means something is very easy to do
  2. Call names - means to tease someone by using unpleasant names
  3. ABC - means elementary knowledge
- 4. Apple of one's eye - means Valuable things 
+ 4. Apple of one's eye - means valuable things 
  5. Crocodile tears - artificial tears or hypocritical tears
  6. A feather in one's cap - an honour 
  7. A man of letters - a literary man
  8. Black sheep - unaccepted group member
  9. Copy cat - someone copies another
- 10. Early bird - someone who wakes up ealry
+ 10. Early bird - someone who wakes up early
 
 Usage of the above mentioned idioms in a sentence:
 
 1. I love to draw a scenery for you, it will be a piece of cake.
 2. My daughter is upset because some kids in her school call her names.
-3. I don't know ABC of cricket.
+3. I don't know the ABC of cricket.
 4. My son is apple of my eye.
 5. He shed crocodile tears in front of his teachers. 
 6. A century in a test match is a feather in one's cap.
@@ -167,7 +167,7 @@ Fill up the blanks in the sentence with appropriate expression.
 ```
 Try not to mention baldness while he is here: it's *a sore spot* for him.
 Refusing to lend him money now would give him *a taste of his own medicine* as he never lent you any.
-Losing my job was intially *a bitter pill to swallow*.
+Losing my job was initially *a bitter pill to swallow*.
 The boss has *sugared the overtime pill* by offering large extra payment.
 I can't stay in one place for more than a year without *getting itchy feet*. 
 ```
@@ -182,11 +182,11 @@ I can't stay in one place for more than a year without *getting itchy feet*.
 ### Reading Notes 
 A proverb is a small saying that is generally used in conversation to convey a general truth about a person or the situation. They are mostly used by adults in daily conversations. 
 
-Below are few examples of proverbs
+Below are a few examples of proverbs
 1. All that glitters is not gold.
 2. When in Rome, do as Romans do.
 3. First come, first served.
-4. It's no use crying over the spilt milk. 
+4. It's no use crying over the spilled milk. 
 5. Still water runs deep.
 
 ## Match the following 
@@ -248,7 +248,7 @@ He who hesitates is *lost*.
 ```
 The grass is always *greener* on the other side.
 A *journey* of a thousand miles begins with a single step.
-Keep you friends close and your *enemies* closer.
+Keep your friends close and your *enemies* closer.
 When in *Rome*, do as the Romans do.
 Don't count your *chickens* before they hatch.
 ```
@@ -280,7 +280,7 @@ A friend in need is a friend *indeed*.
 ```
 Make hay while the sun *shines*.
 Hope for the *best*, prepare for the worst.
-Two wrong's don't make a *right*.
+Two wrongs don't make a *right*.
 When the going gets *tough*, the tough gets going.
 *Good things* come to those who wait.
 ```
@@ -297,7 +297,7 @@ It takes two to *tango*.
 Like two peas in a *pod*.
 Don't put all your eggs in one *basket*.
 Every cloud has a *silver* lining.
-It's no use crying over spilt *milk*.
+It's no use crying over spilled *milk*.
 Jack of all *trades*, master of none.
 ```
 
