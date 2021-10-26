@@ -15,7 +15,10 @@ For example- In the following sentences, the groups of words that are in italics
 2. We cannot start *while it is raining*.
 3. I think that *you have made a mistake*. 
 
-Types of Clauses: There are two types of clauses - 1. Independent Clause 2. Dependent Clause
+## Types of Clauses
+There are two types of clauses  
+1. Independent Clause 
+2. 2. Dependent Clause
 
 *Independent Clauses* express a complete thought and has a subject and a verb. They can stand alone and can be used as a simple sentence. 
 
