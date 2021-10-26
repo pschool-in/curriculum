@@ -98,3 +98,14 @@ I *will* sleep in the evening.
 You *must* improve your spellings.
 ```
 
+#### Jumbled words (label)
+
+Identify these modals. (title)
+```
+Can, Could, May, Might, Must
+```
+
+Identify these modals. (title)
+```
+Shall, Should, Will, Ought, Would
+```
