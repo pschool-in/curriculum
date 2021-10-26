@@ -15,7 +15,7 @@
  3. ABC - means elementary knowledge
  4. Apple of one's eye - means Valuable things 
  5. Crocodile tears - artificial tears or hypocritical tears
- 6. A feather is one's cap - an honour 
+ 6. A feather in one's cap - an honour 
  7. A man of letters - a literary man
  8. Black sheep - unaccepted group member
  9. Copy cat - someone copies another
@@ -28,23 +28,12 @@ Usage of the above mentioned idioms in a sentence:
 3. I don't know ABC of cricket.
 4. My son is apple of my eye.
 5. He shed crocodile tears in front of his teachers. 
-6. A century in a test match is a feather is one's cap.
+6. A century in a test match is a feather in one's cap.
 7. Nehru was a man of letters.
 8. Rohit was the black sheep of the family and preferred to do things on his own. 
 9. You are such a copy cat! Do your own work. 
 10. Sarah is such an early bird! She gets up daily before the sunrises.
 
-## Fill up ( drag and drop activity) 
-
-Fill up the blanks in the sentence with appropriate expression.
-
-```
-Try not to mention baldness while he is here: it's *a sore spot* for him.
-Refusing to lend him money now would give him *a taste of his own medicine* as he never lent you any.
-Losing my job was intially *a bitter pill to swallow.*
-The boss has *sugared the overtime pill* by offering large extra payment.
-I can't stay in one place for more than a year without *getting itchy feet*. 
-```
 
 ## Identify the meanings (MCQ)
 
@@ -52,7 +41,7 @@ Identify the correct meanings of the idioms from the options given below.
 
 ```
 Once in a blue moon
-an event that happens infrequently, an event that happens regulary, an event that happens frequently
+an event that happens infrequently, an event that happens regularly, an event that happens frequently
 
 A piece of cake
 very easy, very difficult, it's impossible
@@ -169,6 +158,18 @@ Good job. *you pulled your socks up* and studied all day and excelled the exam.
 Jessey went from *rags to riches* after he won a lottery.
 The English test was *a piece of cake*. 
 Fuel these days *costs an arm and a leg*. 
+```
+
+## Fill up ( drag and drop activity) 
+
+Fill up the blanks in the sentence with appropriate expression.
+
+```
+Try not to mention baldness while he is here: it's *a sore spot* for him.
+Refusing to lend him money now would give him *a taste of his own medicine* as he never lent you any.
+Losing my job was intially *a bitter pill to swallow.*
+The boss has *sugared the overtime pill* by offering large extra payment.
+I can't stay in one place for more than a year without *getting itchy feet*. 
 ```
 
 
