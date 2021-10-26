@@ -1,3 +1,8 @@
+# Objectives
+
+1. good values (personal, cultural, social, disciplinary, constitutional)
+2. factors affecting and enriching good values
+
 # Grade -5
 Chapter: tn-5-1-social: Good Citizen
 ## Good Citizen - Reading
