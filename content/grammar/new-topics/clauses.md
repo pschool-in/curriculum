@@ -1,9 +1,9 @@
 # Clauses
 
 ## Objectives
-To be able to identify that a clause in a sentence has a subject and a verb.
-To identify that clauses are of two types - dependent and independent clause.
-To to be able to know that dependent clause in a sentence is introduced by subordinating conjunctions.
+1. To be able to identify that a clause in a sentence has a subject and a verb.
+2. To identify that clauses are of two types - dependent and independent clauses.
+3. To to be able to know that dependent clause in a sentence is introduced by subordinating conjunctions.
 
 
 ### Reading Notes 
@@ -20,7 +20,7 @@ There are two types of clauses
 1. Independent Clause 
 2. Dependent Clause
 
-*Independent Clauses* express a complete thought and has a subject and a verb. They can stand alone and can be used as a simple sentence. 
+*Independent Clauses* express a complete thought and has a subject and a verb. They can stand alone and can be used as a simple sentences. 
 
 Examples:
 I want some cereal.
@@ -82,15 +82,15 @@ Select the clause in the below sentence.
 Select the independent clause (IC) from each sentence
 
 ```
-*I am saving my money* because i wanted to buy a new ipad. 
+*I am saving my money* because I wanted to buy a new Ipad. 
 When I arrived, *Jimmy was surprised to see me*.
-Because I don't know how to do my homework, * I need to call kiran for help*. 
+Because I don't know how to do my homework, * I need to call Kiran for help*. 
 *Cindy loves to read*.
 Although we were late, *we decided to watch the movie anyway*. 
 ```
 
 ```
-*I forgot most of my groceries I needed* because I forgot my list. 
+*I forgot most of the groceries I needed* because I forgot my list. 
 *Tomorrow is going to be an exciting day* because I am going to a movie. 
 If you want to ride with Meena and Ravi, *you need to let them know*. 
 *Nobody knows the answer to that question*. 
@@ -134,10 +134,10 @@ Identify the underlined part of the sentence as a dependent clause (DC) or indep
 
 ```
 Mahita bought some flowers *which she wanted to give her mother*.(dependent clause)
-He drove fast *so that he could reach airport on time*. (dependent clause)
-Though he didn't recieve formal schooling, *he is clever and smart*. (independent clause)
+He drove fast *so that he could reach the airport on time*. (dependent clause)
+Though he didn't receive formal schooling, *he is clever and smart*. (independent clause)
 I don't know the reason *why she dislikes me*. (Dependent clause)
-*Our dog will run away* if the gate is left opened. (independent clause)
+*Our dog will run away* if the gate is left open. (independent clause)
 ```
 
 ```
@@ -145,14 +145,14 @@ The gardner said *that all the plants had been pruned neatly*. (dependent clause
 I wondered *if she was free*.(dependent clause)
 The boys *who misbehaved in the class* were suspended.(dependent clause)
 *We went for a walk* after the rain stopped. (independent clause)
-Untill the sun sets *I will stay out and play*. (independent clause)
+Until the sun sets *I will stay out and play*. (independent clause)
 ```
 
 ```
 This is the homework assignment *that you missed last week*.(dependent clause)
 *The movie was good* although it was too long. (independent clause)
 The teacher *who lives next door to Raj* is Mrs. Iyer. (dependent clause)
-Because the heavy rains knocked out the power, *school will be closed on friday*.(independent clause)
+Because the heavy rains knocked out the power, *school will be closed on Friday*.(independent clause)
 *When I went to the zoo*, I looked at the animals.(Dependent clause)
 ```
 
