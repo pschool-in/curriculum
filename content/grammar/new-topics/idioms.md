@@ -81,7 +81,7 @@ Out of the blue
 Something that occurs unexpectedly, something that occurs frequently, something that occurs very regularly
 
 Hold your horses
-be pateint, be aggressive, be emotional 
+be patient, be aggressive, be emotional 
 
 Know the ropes
 to understand the details, to miss the details, to write the details
@@ -132,29 +132,29 @@ Select the idioms from the sentence
 She knocked her head on the floor and *blacked out*. 
 He had a *golden opportunity* to win the game on a penalty shot. 
 Before the final exam, the teacher told her students to *break a leg*. 
-She got *cold feet* before the weeding.
+She got *cold feet* before the wedding.
 She left him with a *heavy heart*. 
 ```
 
 ```
 She gave her son the *green light* to join the music school.
-The elementary students are always *full of beans*.
-My friend made a delicious omlete *from scratch*.
+The kindergarten students are always *full of beans*.
+My father made a delicious omlete *from scratch*.
 Tarun gets everything from his parents on a *silver platter*.
-We need *all hands of deck* if we want the event to be a success.
+We need *all hands on deck* if we want the event to be a success.
 ```
 
 ```
-I can't fire my brother, he is my own *flesh and blood*.
-Please *keep an eye on* the kettle, it will boil soon.
-Sanjay knows all the computer code *by heart*. 
+I can't turn my back on my brother, he is my own *flesh and blood*.
+Please *keep an eye on* my baby brother, I'll be back in sometime.
+Sanjay knows all the math tables *by heart*. 
 I am just *pulling your leg* , don't take it personally.
 Swetha has a *sweet tooth*. She always eats ice-cream after food.
 ```
 
 ```
 Ronaldo scored several *hat tricks* last season.
-Good job. *you pulled your socks up* and studied all day and excelled the exam.
+Good job! *You pulled your socks up* and studied all day and excelled the exam.
 Jessey went from *rags to riches* after he won a lottery.
 The English test was *a piece of cake*. 
 Fuel these days *costs an arm and a leg*. 
@@ -167,7 +167,7 @@ Fill up the blanks in the sentence with appropriate expression.
 ```
 Try not to mention baldness while he is here: it's *a sore spot* for him.
 Refusing to lend him money now would give him *a taste of his own medicine* as he never lent you any.
-Losing my job was intially *a bitter pill to swallow.*
+Losing my job was intially *a bitter pill to swallow*.
 The boss has *sugared the overtime pill* by offering large extra payment.
 I can't stay in one place for more than a year without *getting itchy feet*. 
 ```
@@ -176,7 +176,7 @@ I can't stay in one place for more than a year without *getting itchy feet*.
 # Proverbs
 
 ## objectives
-1.To be able to understand that proverb uses a figurative language ( words or phrases that doesn't have a literal meaning) to express a feeling or an idea. 
+1.To be able to understand that proverb uses a figurative language (i.e words or phrases that doesn't have a literal meaning) to express a feeling or an idea. 
 2. To know that proverbs in general convey the cultural beliefs.
 
 ### Reading Notes 
@@ -186,12 +186,12 @@ Below are few examples of proverbs
 1. All that glitters is not gold.
 2. When in Rome, do as Romans do.
 3. First come, first served.
-4. It no use crying over the spilt milk. 
+4. It's no use crying over the spilt milk. 
 5. Still water runs deep.
 
 ## Match the following 
 
-Match the begining of the proverb with the correct ending
+Match the beginning of the proverb with the correct ending
 
 ```
 First come, first serve
@@ -218,10 +218,10 @@ He who hesitates, is lost
 ```
 
 ```
-Knowledge, is power.
+Knowledge, is power
 Spill, the beans 
 Fortune favors, the bold
-You are, what you eat.
+You are, what you eat
 Cat got your, tongue
 ```
 
@@ -230,7 +230,7 @@ Cat got your, tongue
 Drag and drop the words at correct places to make a complete proverb
 
 ```
-A wacthed pot never *boils*.
+A watched pot never *boils*.
 Birds of *feather* flock together.
 Don't put the cart before the *horse*.
 The *pen* is mightier than the sword.
@@ -250,23 +250,23 @@ The grass is always *greener* on the other side.
 A *journey* of a thousand miles begins with a single step.
 Keep you friends close and your *enemies* closer.
 When in *Rome*, do as the Romans do.
-Don't count you *chickens* before they hatch.
+Don't count your *chickens* before they hatch.
 ```
 
 ```
-A apple a day keeps the *doctor* away.
+An apple a day keeps the *doctor* away.
 Necessity is the *mother* of all inventions.
 Blood is thicker than *water*. 
-Don't bite the *hand* that feeds
+Don't bite the *hand* that feeds.
 Where there's smoke, there's *fire*.
 ```
 
 ```
 Too many cooks spoil the *broth*.
-*Beggars can't be choosers.
+*Beggars* can't be choosers.
 A bird in hand is worth two in the *bush*.
-All *good things* must come to an end
-Where there is a *will* there is a way. 
+All *good things* must come to an end.
+Where there is *will* there is a way. 
 ```
 
 ```
@@ -297,7 +297,7 @@ It takes two to *tango*.
 Like two peas in a *pod*.
 Don't put all your eggs in one *basket*.
 Every cloud has a *silver* lining.
-Its no use crying over spilt *milk*.
+It's no use crying over spilt *milk*.
 Jack of all *trades*, master of none.
 ```
 
