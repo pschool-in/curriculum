@@ -1,3 +1,8 @@
+# Objectives
+
+1. concepts of citizen, constitution and child labour.
+2. all four basic child rates explained.
+
 # Grade -4
 Chapter: tn-4-3-social: Rights and Duties of Children
 ## Rights and Duties of Children - Reading
