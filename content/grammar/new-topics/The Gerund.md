@@ -12,7 +12,8 @@ For example
 2. I like *reading* poetry. 
 3. I like *watching* TV.
 
-## Uses Of gerund: Gerund can be used as a 
+## Uses Of gerund: 
+Gerund can be used as a 
 
 ### subject of verb
  Examples are
