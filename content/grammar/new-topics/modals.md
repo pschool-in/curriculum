@@ -36,6 +36,15 @@ We *cannot* dance without the teachre's permission.
 Books *may not* be available at the store.
 ```
 
+Drag the correct option to each blank. (title)
+```
+They *can* speak English.
+He *cannot* ride a bike.
+*May* you have a joyful weekend.
+How *may* I help you?
+We *may not* have to leave.
+```
+
 # Grade-5
 
 ## Modals
@@ -63,6 +72,14 @@ Not a modal:
 Have, Am, Are, Is
 ```
 
+Identify which of these verbs are modals.
+```
+Modal:
+Can, May, Will, Would
+Not a Modal:
+If, She, They, It
+```
+
 #### Fill in the blanks (label)
 
 Drag the correct answer in each blank. (title)
@@ -72,8 +89,6 @@ He said I *could* go.
 *May* I go?
 It *might* rain tomorrow.
 ```
-
-#### Fill in the blanks-2 (label)
 
 Drag the correct answer in each blank. (title)
 ```
