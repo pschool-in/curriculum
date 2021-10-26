@@ -1,8 +1,8 @@
 # The Gerund
 
 ## Objectives
- 1.To be able to understand what is a Gerund and its uses 
- 2.To be able to identify gerunds in the given text. 
+ 1. To be able to understand what is a Gerund and its uses 
+ 2. To be able to identify gerunds in the given text. 
 
 ### Reading Notes
 Gerund is that form of the verb which ends in -ing and acts a noun and verb. Therefore Gerund is also called as Verb-noun. Gerund functions as a subject, object, object  of preposition, or subject complement. Gerund might be present either at the beginning, middle or at the end of the sentence. 
@@ -67,6 +67,28 @@ Did you miss *watching* TV?
 Dentists recommend *cleaning* teeth twice a day.
 He was so noisy, I asked him to stop *talking*.
 ```
+
+## Fill up (Darg and drop activity) 
+
+Complete each sentence using an appropriate subject gerund
+
+```
+*Developing* the new software is taking longer than expected.
+*Reading* motivational stories keeps Amit busy in the afternoon.
+Studying and *completing* the assignment made Tarun tired and hungry.
+*Sunbathing* helps the body absorb vitamin D.
+*Singing* in front of the crowd made Neha a bit nervous.
+```
+
+```
+*Keeping* the school premises neat and tidy is the primary job of administrative department.
+I suggested *discussing* the matter in the next meeting.
+Mrs.Sharma is keen on *setting* up a restaurant nearby her place.
+Before *leaving*, Mrs.Reddy said goodbye to each of us.
+Not only *living in the city is hectic, but it is expensive too. 
+```
+
+
 
 
 
