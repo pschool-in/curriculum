@@ -9,30 +9,38 @@ To to be able to know that dependent clause in a sentence is introduced by subor
 ### Reading Notes 
 
 A clause is a group of words that consists of a subject and a verb. 
-For example-
+For example- In the following sentences, the groups of words that are in italics are clauses.
 
-The play was funny.
-Since the play was funny.
+1. People *who pay their debts* are trusted.
+2. We cannot start *while it is raining*.
+3. I think that *you have made a mistake*. 
 
-Types of Clauses:
+Types of Clauses: There are two types of clauses - 1. Independent Clause 2. Dependent Clause
 
-Independent Clauses express a complete thought and has a subject and a verb. They can stand alone and can be used as a simple sentence. 
+*Independent Clauses* express a complete thought and has a subject and a verb. They can stand alone and can be used as a simple sentence. 
 
 Examples:
 I want some cereal.
 Marie likes cats.
-Joseph is a good soccer player.
+Joseph is a good football player.
 
-Dependent Clauses: Has a subject and a verb, but cannot be used as a simple sentence. A dependent clause is introduced by a dependent word( subordinating conjunction). See the following list : 
+*Dependent Clauses* has a subject and a verb, but cannot be used as a simple sentence. A dependent clause is introduced by a dependent word (subordinating conjunction).
+See the following list : 
 
-After, although, as, as if, because, before, even if, even though, ever since, how, if, in order that, since, so, so that, than, that, though, unless, until, what, whatever, when, whenever, where, whereas, wherever, whether, which, whichever, while, whom, whose, why. 
+After, although, as, as if, because, before 
+even if, even though, ever since, how, if 
+in order that, since, so, so that, than, that 
+though, unless, until, what, whatever, when 
+whenever, where, whereas, wherever, whether
+which, whichever, while, whom, whose, why 
 
-Whenever a clause begins with one of the above dependent words ( except questions) it is called a dependent clause. For example if  we take an independent clause and add a dependent word like - 
+Whenever a clause begins with one of the above dependent words (except questions) it is called a dependent clause. 
+For example if we take an independent clause and add a dependent word like - 
 
 We finished the game - Independent clause (IC) 
-After we finished the game. _ dependent clause ( DC)
-Although we finished the game. DC
-Before we finish the game. DC
+After we finished the game- dependent clause ( DC)
+Although we finished the game. (DC)
+Before we finish the game. (DC)
 
 # Clause
 
@@ -73,7 +81,7 @@ Select the independent clause (IC) from each sentence
 ```
 *I am saving my money* because i wanted to buy a new ipad. 
 When I arrived, *Jimmy was surprised to see me*.
-Because I don't know how to do my homework, * I need to call Jim for help*. 
+Because I don't know how to do my homework, * I need to call kiran for help*. 
 *Cindy loves to read*.
 Although we were late, *we decided to watch the movie anyway*. 
 ```
@@ -95,20 +103,20 @@ Select the dependent clause from each sentence
 My mother is a nurse *since she likes to help people*. 
 *After the storm* there were branches in the streets.
 I asked the question *that no one else wanted to ask*.
-Ravi eats carrots *when she wants to have a snack*.
+Ravi eats carrots *when he wants to have a snack*.
 *If you want to be my friend* you will tell me the truth. 
 ```
 
 ```
-They get along well *because they never see each other*.
+I am not cleaning the dishes *unless pavan helps*.
 I made good money *until I lost my job*. 
 *After swimming in the pool*. 
 *Because he ran* he was able to catch the bus. 
-*Until the sun sets*, I will stay with you. 
+*Until the sun sets*, we are going to play. 
 ```
 
 ```
-*As the lights dim*, I will say good-bye. 
+*As the lights turn off*, I will go to sleep. 
 *Wherever he might go*, I'll follow him. 
 *Since I went back to school* I am feeling happy.
 *Whenever you come to visit*, make sure to bring food. 
@@ -133,14 +141,14 @@ I don't know the reason *why she dislikes me*. (Dependent clause)
 The gardner said *that all the plants had been pruned neatly*. (dependent clause)
 I wondered *if she was free*.(dependent clause)
 The boys *who misbehaved in the class* were suspended.(dependent clause)
-*We went for a walk* after the rain stopped. ( independent clause)
-Untill the sun sets *I will stay out and play*. ( independent clause)
+*We went for a walk* after the rain stopped. (independent clause)
+Untill the sun sets *I will stay out and play*. (independent clause)
 ```
 
 ```
 This is the homework assignment *that you missed last week*.(dependent clause)
 *The movie was good* although it was too long. (independent clause)
-The teacher *who lives next door to Raj* is Mrs. Iyer. ( dependent clause)
+The teacher *who lives next door to Raj* is Mrs. Iyer. (dependent clause)
 Because the heavy rains knocked out the power, *school will be closed on friday*.(independent clause)
 *When I went to the zoo*, I looked at the animals.(Dependent clause)
 ```
