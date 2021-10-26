@@ -8,20 +8,42 @@ To understand what is alliteration and how can we use it.
 
 It is generally used in poetry. It is a style of writinng in which a series of words have the same consonant sound. Some examples of alliteration are;
 1. The boy bounced the ball in the basket.
+("boy bounced the ball" is alliteration)
 2. A big brown bear bumped into our boxes.
+("big brown bear bumped" is the alliteration)
 3. My neighbour is normally noisy.
+("neighbour is normally noisy" is the alliteration)
 
 ### Activities
 
 #### Fill in the blanks (label)
 
-Drag the correct option in each blank. (title)
+Drag the correct option in each blank to form an alliteration. (title)
 ```
 The boy *bounced* the ball.
 Helen happily *helped* her housemaid.
 The wind was *whistling* through the window.
 The parrot landed on pirate's *purple* parcel.
 Peter *put* his painting on the wall.
+```
+
+
+Drag the correct option in each blank to form an alliteration. (title)
+```
+Elise’s *easter* eggs were delicious.
+Hari’s *honeybees* have horrible honeycombs.
+Nina’s neighbor *needed* newly cooked nachos.
+Paul’ pet pig *Patty* looks pretty.
+Rahul ran around the room for no *reason*.
+```
+
+Drag the correct option in each blank to form an alliteration. (title)
+```
+Tinkerbell likes to tinker with *tools*.
+Sheep should *sleep* in a shed.
+Black bug bit a big *black* bear.
+Sheep *shouldn’t* sleep in a shack.
+How many feet of *fruit* did freaky Fred find?
 ```
 
 #### True or False (label)
