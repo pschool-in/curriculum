@@ -127,7 +127,85 @@ Wear *clean (dirty)* clothes.
 Trim hair and *cut (grow)* the nails.
 Wash hands *before and after (before)* meals.
 ```
+# Grade -5
+Chapter: tn-5-3-social: Educational Rights
+## Educational Rights - Reading
 
+### Importance of Education 
+Education is important for people as well as the nation. Education is the first step for a child‛s development. Education improves knowledge, skills, values and the quality of one‛s life. It also helps in the overall development of a country. 
+
+Education doesn‛t mean that one should be literate. It is more than literacy. Education helps to analyze the reason, build skills to live, know what is right and wrong, lead a moral life.
+
+Education helps in broadening one‛s mind. It removes superstitious beliefs. Education helps in increasing awareness of surroundings, social and political issues. It develops wisdom.
+
+### Educational Rights
+The Right to Education Act (RTE) specifies different responsibilities to the local authorities and government to ensure free and compulsory education. Right to Education Act (2009) describes the importance of free and compulsory education for children between 6 to 14 years of age. The child should be at the center of the education system.
+
+### Features of RTE
+
+1. Until the completion of elementary education, no student is stopped from school.
+2. Twenty-five percent reservation is given to the economically
+3. Underprivileged people in all private schools.
+4. Improvement in the quality of education.
+5. School infrastructure should be improved every three years.
+6. Finances will be shared between the state and the central government.
+
+### National Education Policy (NEP)
+In 2019, the Government of India has framed the National Education Policy (NEP) to promote education among the people of India. The NPE covers all educational systems from primary to college levels. 
+
+###  Educational Schemes
+The most important milestone in education is the free mid-day meal program which was implemented by the former Chief Minister of Tamil Nadu, K.Kamaraj.
+
+Indian educational system is mainly divided into four stages. They are:
+1. Lower primary
+2. Upper primary
+3. Secondary
+4. Higher secondary
+
+## Sarva Shiksha Abhiyan (SSA)
+The Sarva Shiksha Abhiyan (SSA), the Right to Education Act (RTE) Act have improved educational performance. Sarva Shiksha Abhiyan (SSA) (Education for All) was launched in the year 2001.
+
+
+### Objectives of Sarva Shiksha Abhiyan
+
+1. Increasing the enrolment in primary schools
+2. Getting access to free and compulsory education for children up to age 14.
+3. Improving the quality of education.
+
+## Rashtriya Madhyamik Shiksya Abhiyan (RMSA)
+Rashtriya Madhyamik Shiksya Abhiyan (RMSA) was launched in 2009. This program aims to raise the minimum level of education to class X.
+
+## Samagra Shiksha (SS)
+In 2018, the government of India wanted to provide a single scheme for school education starting from pre-school to Class XII. This scheme is known as Samagra Shiksha (SS).
+
+### Objectives of Samagra Shiksha
+
+1. Providing quality education and improving learning outcomes of students.
+2. Supporting all state governments in implementing RTE.
+3. Focusing on girl education.
+4. Focusing on digital education.
+In the past two decades, India has achieved a maximum enrollment of students in schools.
+
+### Words of Wisdom
+
+“Literacy in itself is no education. Literacy is not the end of education.”
+“Real education consists in drawing the best out of yourself.”
+-**Mahatma Gandhi**
+
+“Sisters and brothers of America.”
+“ Education is the manifestation of the perfection already in man.”
+-**Swami Vivekananda**
+
+### More to Know
+
+Gurukulam is the system of education that was practiced in ancient India. Guru (teacher) and the Shishya (student) lived in Ashram.
+
+The legislative section is divided into three lists: Union List, State List and Concurrent List. Education comes under the Concurrent List.
+
+The first National Education Policy was implemented in 1968 followed by the second one in 1986.
+
+Samagra Shiksha subsumes the three Schemes of Sarva Shiksha Abhiyan
+(SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA) and Teacher Education (TE).
 
 
 
