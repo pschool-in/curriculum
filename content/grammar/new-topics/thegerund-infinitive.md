@@ -44,7 +44,7 @@ Examples are
 
 ## Objectives 
  1. To be able to understand and define an infinitive and to identify the infinitive in the text. 
- 2. To also identify whether the sentence needs an infinitive or not.
+ 
  
  ### Notes
 
@@ -60,7 +60,6 @@ Some examples of infinitive include
 6. to laugh
 7. to eat
 8. to go
-
 
 
 ## Identify
@@ -111,7 +110,7 @@ Before *leaving*, Mrs.Reddy said goodbye to each of us.
 Not only *living in the city is hectic, but it is expensive too. 
 ```
 
-## Gerund or infinitive ( fill up with options) 
+## Gerund or infinitive (fill up with options) 
 
 Complete each sentence using the gerund or infinitve form as appropriate
 
