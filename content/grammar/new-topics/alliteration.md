@@ -122,3 +122,9 @@ The *audience applauded* at the end of the play.
 We love *Abhay's aunt's apples*.
 *Falguni's friends fed* the street dogs.
 ```
+
+# References
+
+1. https://www.examples.com/education/alliteration-kids-examples.html
+2. https://thekidsworksheet.com/alliteration-worksheets-grade-5/
+3. Google
