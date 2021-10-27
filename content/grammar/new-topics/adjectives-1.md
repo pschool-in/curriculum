@@ -20,6 +20,29 @@ Describing words tell us about the noun. It describes the quality of the naming 
 
 ### Activities
 
+#### Drag and Drop (label)
+
+Identify these positive and negative describing words. (title)
+```
+Positive: Smart, Pretty, Beautiful, Soft
+
+Negative: Ugly, Bad, Hard
+```
+
+Identify these positive and negative describing words. (title)
+```
+Positive: Happy, Perfect, Wise, Wonderful
+
+Negative: Cruel, Lousy, Boring, Clingy
+```
+
+Identify these positive and negative describing words. (title)
+```
+Positive: Talented, Natural, Caring, Amazing
+
+Negative: Jealous, Moody, Rude, Selfish
+```
+
 #### Jumbled words (label)
 
 Identify these describing words. (title)
@@ -41,28 +64,28 @@ Smart, Two, Loving, Bad, Strong, Weak
 
 Tap on the describing words in these sentences. (title)
 ```
-A *round* ball.
-A *good* chess player.
-A *brown* muffler.
-A *red* cap.
-Feeling *confused*.
+A ball is *round* in shape.
+A *good* chess player is usually *smart*.
+My friend has a *brown* muffler.
+I have a *red* cap.
+Aman is *confused* about a maths problem.
 ```
 
 Tap on the describing words in these sentences. (title)
 ```
-An *ugly* witch.
-A *fast* car.
-A *tall* tree.
-A *loud* noise.
-A *long* road.
+I read a story about an *ugly* witch.
+A *fast* car always win in races.
+Coconut trees are *tall*.
+A lion roars very *loudly*.
+Goods train is very *long*.
 ```
 
 Tap on the describing words in these sentences. (title)
 ```
-A *poor* man.
-A *pleasant* weather.
-A *small* rat.
-A *purple* dress.
+A *poor* man was sitting on roadside.
+This is a *pleasant* weather.
+A *small* rat lives in our house.
+I have a *purple* dress.
 A *clean* table.
 ```
 
@@ -159,3 +182,9 @@ big, small, little
 My______bicycle is purple.
 new, big, small
 ```
+
+# References
+
+1. Google
+2. k5learning.com https://www.k5learning.com/
+3. https://www.citationmachine.net/resources/grammar-guides/adjectives/positive-negative/
