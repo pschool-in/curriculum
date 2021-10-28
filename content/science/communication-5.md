@@ -12,25 +12,25 @@
 Communication is simply the act of transferring information from one place, person, or group to another. Every communication involves at least a sender, a message and a recipient. Artificial satellites are used in modern methods of communication. The signals are delivered very quickly from one point to another. In India, we use artificial satellites for communication. These satellites are called the Indian National Satellites (INSAT).
 
 ### Audio-visual communication
-We cannot see each other when we talk on the telephone. New communication technology has now made this possible on a mobile phone, to see the person we are talking to.
+We cannot see each other when we talk over the telephone. New communication technology has now made this possible on a mobile phone, to see the person we are talking to.
 
 ### Telecommunication
 Telecommunications, also known as telecom, is the exchange of information over significant distances by electronic means. The information may be in the form of voice telephone calls, data, text, images, or video. 
 
 ### Mass media 
-It is the means of communication that reach large numbers of people in a short time. Example: newspaper, magazine, radio, television, etc.
+It is the means of communication that reaches large numbers of people in a short time. Example: newspaper, magazine, radio, television, etc.
 
 ### Advantages
 1. We can easily contact people far away from us.
 2. The time and effort spent in exchanging information can be saved.
-3. They help to raise awareness about issues such the environmental balance, gender equality and cleanliness.
+3. They help to raise awareness about issues such as environmental balance, gender equality and cleanliness.
 4. People can be forewarned about natural disasters like storms, tsunamis, floods, etc.
 5. They build awareness about health, educational facilities, good things
 happening in society, etc.
 6. They help in the successful implementation of government schemes launched for the benefit of people.
 7. Awareness can be raised about matters related to food, clothes, shelter,
 education and health. This improves people’s way of life.
-8. Mass media help in the expansion of trade and industry.
+8. Mass media also help in the expansion of trade and industry.
 
 ### Disadvantages
 1. Excessive use of the television, computer or mobile phones causes
@@ -48,7 +48,7 @@ Traditional: cave paintings, letters, telegram, notes
 ## Fill in the Blanks (using options)
 
 ```
-Mass media help in the *expansion (diminishment)* of trade and industry.
+Mass media helps in the *expansion (diminishment)* of trade and industry.
 Communication is simply the act of *transferring (translating)* information from one place, person, or group to another.
 Information can be *misused (used)* to disturb peace and order in society. 
 People can be *forewarned (distracted)* about natural disasters using mass media.
@@ -110,7 +110,7 @@ Classify the activities as an advantage or disadvantage of mass media.
 Advantage:
 We can easily contact people far away from us.
 The time and effort spent in exchanging information can be saved.
-They help to raise awareness about issues such the environmental balance, gender equality and cleanliness.
+They help to raise awareness about issues such as environmental balance, gender equality and cleanliness.
 People can be forewarned about natural disasters like storms, tsunamis, floods, etc.
 
 Disadvantage:
