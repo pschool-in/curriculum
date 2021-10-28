@@ -1,3 +1,14 @@
+# Objectives
+
+1. living and non-living things
+2. interactions in environment
+3. classification of animals, birds and insects
+4. domestic and wild animals
+5. seasons
+6. biotic and abiotic factors in environment
+7. balanced ecosystem
+8. trophic levels (consumer, producer, decomposer)
+
 # Environment 
 
 Chapter: maha g3: Our Environment
