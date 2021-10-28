@@ -75,11 +75,20 @@ My friend has 2 *puppies (puppys)* in his house.
 My mom bought 1 packet of *cherries (cheerys)*
 I love eating french *fries (frys)*.
 I like *cats (caties)*.
-Dogs have
+Dogs have 4 *legs (leges)*.
+```
+
+Choose the correct plurals. (title)
+```
+My aunt doesn't like *babies (babys)*.
+*Monkeys (Monkeies)* climb trees very fast.
+*Flies (Flys)* are very common insects.
+There are a lot of *apples (appless)* in the tree.
+Bees live in *hives (hivies)*.
 ```
 
 # References
 
 1. https://www.turtlediary.com/lesson/singular-and-plural-nouns.html
 2. https://drive.google.com/file/d/1IIkl1z0fzx5fntGJ1mQTI12U-re5DrNP/view?usp=sharing
-3. 
+
