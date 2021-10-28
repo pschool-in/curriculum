@@ -1,3 +1,8 @@
+# Objectives
+
+1. emotional world
+2. growth and personality development
+ 
 # Our Emotional World
 
 Chapter : maha g5: Our Emotional World
