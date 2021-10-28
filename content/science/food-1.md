@@ -1,3 +1,12 @@
+# Objectives
+
+1. food (need)
+2. plants as food
+3. food for plants and animals
+4. variety in food
+5. healthy and unhealthy foods
+6. principle of cooking
+
 Chapter - maha g3: Our need for food
 # Our need for food (g3)
 
