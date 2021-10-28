@@ -1,6 +1,6 @@
 # Objectives
 
-1. sancuaries and national parks
+1. concept of sancuaries and national parks
 
 # surroundings-3
 
