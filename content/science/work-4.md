@@ -1,3 +1,10 @@
+# Objectives
+
+1. concept of work and energy
+2. law of conservation
+3. simple machine
+4. lever (classifications)
+
 ### work-4
 
 ## Reading
