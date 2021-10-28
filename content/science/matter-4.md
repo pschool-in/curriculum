@@ -1,3 +1,9 @@
+# Objectives
+
+1. properties of materials
+2. light
+3. concept of transparent, transcluscent and opaque objects
+
 ## matter-4
 
 # Matter and Materials
