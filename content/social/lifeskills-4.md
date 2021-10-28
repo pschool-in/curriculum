@@ -1,3 +1,7 @@
+# Objectives
+
+1. concept of good upbringing
+
 # My Upbringing
 
 Chapter : maha g4: My Upbringing
