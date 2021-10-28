@@ -1,3 +1,10 @@
+# Objectives
+
+1. pollution
+2. disposal of water
+3. mineral water
+4. famine
+
 # Chapter maha g3: Water
 ## Reading
 ### Pollution of water
