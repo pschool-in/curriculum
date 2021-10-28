@@ -1,3 +1,10 @@
+# Objectives
+
+1. states of matter
+2. concepts of mass and volume
+3. change in states of matter
+4. fuel
+
 # matter-3
 
 ## Reading
