@@ -94,7 +94,11 @@ She is *singing* a song.
 ```
 
 
+References: 
 
+https://www.k5learning.com/worksheets/grammar/grade-1-identify-verbs-a.pdf
+http://www.edubuzzkids.com/content/grade-1/worksheets/english/Verb/Action-verbs/1639
+https://www.tiwariacademy.com/ncert-solutions/class-1/english/grammar/chapter-7/
 
 
 
