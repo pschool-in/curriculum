@@ -1,4 +1,4 @@
-# Action Words
+# Action Words (Verbs)
 
 ## Objectives 
 To understand what are action words and to identify the action words in the text.
