@@ -1,3 +1,8 @@
+# Objectives
+
+1. concepts of push and pull
+2. types of forces (contact, non-contact, muscular, mechanical, gravitational, magnetic, frictional)
+
 # force-3
 
 ## Reading
