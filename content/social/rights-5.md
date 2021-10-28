@@ -36,7 +36,7 @@ Respect martyrs and their sacrifices. Preserve our culture and heritage. Develop
 
 ### Factors affecting values.
 1. Extreme faith in religion leads to communalism.
-2. Don’t break the queue/rules.
+2. Break the queue/rules.
 3. Spitting and dumping garbage anywhere.
 4. Polluting land and water.
 
@@ -92,7 +92,7 @@ Polluting land and water, Literacy, Creating awareness and interests, Trying har
 State whether these actions affect or enrich our good values.
 ```
 Affect:
-Don’t break the queue/rules.
+Break the queue/rules.
 Spitting and dumping garbage anywhere.
 Polluting land and water.
 
