@@ -1,3 +1,15 @@
+# Objectives
+
+1. agriculture
+2. methods of irrigation
+3. fertilizer and pesticides
+4. food storage and consumption
+5. food preservation (methods)
+6. food spoilage
+7. diseases (causes and types of diseases)
+8. obesity
+9. kitchen safety
+
 # maha g5: Food for all
 
 ## Reading
