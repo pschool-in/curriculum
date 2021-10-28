@@ -1,3 +1,9 @@
+# Objectives
+
+1. accidents (common reasons)
+2. safety (fire, electrical and road safety)
+3. child safety
+
 # Safety-3
 
 Chapter: tn-3-1-social : Safety
