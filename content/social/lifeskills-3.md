@@ -1,3 +1,7 @@
+# Objectives
+
+1. concept of time and tense
+
 # Lifeskills-3
 
 Content : maha g3: Understanding Time
