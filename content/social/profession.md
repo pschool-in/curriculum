@@ -1,3 +1,7 @@
+# Objectives
+
+1. different professions 
+
 # Profession
 
 ## People and Professions
