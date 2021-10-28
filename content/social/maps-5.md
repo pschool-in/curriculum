@@ -1,3 +1,8 @@
+# Objectives 
+
+1. methods for showing landforms on map
+2. getting to know India
+
 maha g5: Maps- Our companions
 # Maps- Our Companions
 
