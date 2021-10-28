@@ -1,3 +1,9 @@
+# Objectives
+
+1. types of occupations
+2. importance of agriculture
+3. concept of industy
+
 # Chapter maha g3: Who fulfills our needs?
 
 ## Reading
