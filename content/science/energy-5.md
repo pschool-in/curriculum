@@ -1,3 +1,7 @@
+# Objectives
+
+1. different types of energy (mechanical, wind, heat, light, electrical, chemical)
+
 ### energy-5
 
 ## Reading
