@@ -1,3 +1,8 @@
+# Objectives
+
+1. direction on maps
+2. districts, states and country
+
 Chapter - maha g3: Directions and Maps, maha g4: Directions and Maps
 # Directions and Maps (g3)
 
