@@ -1,3 +1,9 @@
+# Objectives
+
+1. clothes (need,sources)
+2. different clothes (uniform, festive wear, seasonal wear)
+3. process of making clothes
+
 # Chapter - maha g3: Our Clothes
 
 ## Reading 
