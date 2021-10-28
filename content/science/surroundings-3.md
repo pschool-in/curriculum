@@ -1,3 +1,7 @@
+# Objectives
+
+1. sancuaries and national parks
+
 # surroundings-3
 
 Chapter: tn-3-2-social: Sanctuaries
