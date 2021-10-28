@@ -145,7 +145,10 @@ Some more phrases that represent examples of similes are:
  My mom is a bear in the mornings.
  ```
  
+ References: 
  
+ 1. https://examples.yourdictionary.com/simile-examples-for-kids.html
+ 2. https://www.k5learning.com/vocabulary-worksheets/fifth-grade-5/similes-metaphors
  
  
 
