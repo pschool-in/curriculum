@@ -1,3 +1,11 @@
+# Objectives
+
+1. importance of water cycle
+2. rain water harvesting and its importance
+3. water storage
+4. solutions
+5. safe drinking water
+
 # Chapter tn_4_2_sci: Water
 
 ## Reading
