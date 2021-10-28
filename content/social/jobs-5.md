@@ -1,3 +1,9 @@
+# Objectives
+
+1. farmers
+2. types of farming
+3. irrigation (types)
+
 # Chapter tn_5_3_social: Agriculture
 ## Reading
 Agriculture is our necessity and includes the preparation of soil for cultivation, growing crops, and raising livestock. Since our country is an agricultural country, agricultural development is important for the country's economic growth.
