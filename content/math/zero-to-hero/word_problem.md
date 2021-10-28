@@ -38,8 +38,21 @@ Each studetns will get = ?1 Eraser/s
 Number of Students = ?2
 2, 1, 10
 ```
+
 ```
-`A class had 90 pencils. If these pencis are divided among 15 studetns equally, how many pencils each student will get? | 6
-Kittu wants to buy chocolates. She has ₹ 18. If each chocolate cost ₹ 4, how many chocolates she will be able to buy? | 4
-I can put 30 balls equally in 10 buckets, eahc bucket with have 3 balls. If I have only 5 buckets, how many balls will be present in each bucket? | 6
+A class had 90 pencils. If these pencils are divided among 15 students equally, how many pencils each student will get? | 6
+Kittu wants to buy chocolates. She has ₹ 18. If each chocolate cost ₹ 4, how many chocolates will she be able to buy? | 4
+I can put 30 balls equally in 10 buckets, each bucket will have 3 balls. If I have only 5 buckets, how many balls will be present in each bucket? | 6
+Neelu wants to give chocolates to his 4 friends. If he wants to give equally to his friends, how many should he buy, 20 or 30? | 20
+What is the least number of saplings which can be arranged in rows of 4, 5 and 6? | 60
+
 ```
+
+```
+Find the length of the rope in cm which can be cut into pieces of 10 cm, 15 cm, 20 cm? | 30
+A shopkeeper sells candles in packs of 8 and candle stands in packs of 6. What is the least number of candles and candle stands Chintu should buy so that each candle will have a candle stand? | 24
+To print a paper a printer takes 3 seconds. How long does the printer need to print 180 pages? Find the time in minutes. | 9
+Babar plays football every 3 days, runs every 5 days and cycles every 6 days. If he has done all together today, then after how many days will he do all the 3 activities together again? | 30
+John saves ₹ 6 each day. If he wants to get his savings converted to ₹ 100 denomination. How many days does he need to wait to convert the whole savings to ₹ 100 denomination? | 50
+```
+
