@@ -1,3 +1,13 @@
+# Objectives
+
+1. household goods
+2. concept of sinking and floating
+3. solubility in water
+4. mixing of liquids
+5. fibers (artificial and natural)
+6. uses of different fibers
+7. grains (wheat, maize, rice, millets)
+
 ## matter-5
 
 # Matter and Materials
