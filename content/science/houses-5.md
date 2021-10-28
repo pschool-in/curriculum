@@ -1,3 +1,8 @@
+# Objectives
+
+1. types of houses
+2. depletion of natural resources
+
 # Houses-5
 
 Chapter: maha g5: Our Home and Environment
