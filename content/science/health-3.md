@@ -81,7 +81,7 @@ It causes waterborne diseases.
 
 Leads to spread of diseases caused by insect carrier.
 
-Lead to pollution.
+Leads to pollution.
 
 ### How to wash out intestinal worms?
 Use the toilet and avoid open defecation. Wash our hands after using the toilet. These will help us to have a healthy life.
@@ -127,7 +127,7 @@ Running around in the bathroom.
 True:
 Open defecation causes waterborne diseases.
 Bathing cleanses the body.
-Using a toilet prevents diseases like cholera.
+Using toilet prevents spreading of diseases like cholera.
 
 False:
 Bathing slows circulation.
@@ -217,25 +217,25 @@ A dirty *tongue* may cause disease and bad breath.
 ## Multiple Choice Questions
 ```
 What should we do if we have difficulty in reading?
-consult an ophthalmologist, strain to read, ignore it
+consult an ophthalmologist, consult a dentist, ignore it
 
 How can we clear our nose if it is blocked due to cold?
 using steam, using hot water, using cold water.
 
 Which of the following activities can harm our eyes?
-play video games for long hours, read with proper light,  wash with clean and cold water
+playing video games for long hours, reading with proper light,  washing with clean and cold water
 
 What leads to bad breath?
 dirty tongue, dirty nose, dirty clothes
 
 Which of the following activities harm our ears?
-*listening to music at high volumes, *using sharp objects to clean ears, avoiding loud 
+*listening to music at high volumes, *using sharp objects to clean ears, avoiding loud noises 
 ```
 ### Good touch, Bad Touch
 There are body parts that you and others can see and touch like
 our arms and hands. But, there are also some body parts that no one should see or touch like our chest, between our legs and our bottom. These parts are called private parts. 
 
-It is never right for anyone to look at, touch or talk about your private parts. And it is never right for someone older to you to ask you to look, touch or talk about their private parts.
+It is never right for anyone to look at, touch or talk about your private parts and it is never right for someone older to you to ask you to look, touch or talk about their private parts.
 
 When we are small our mom or dad might touch us to help us to be clean. It is never a secret and it is okay to tell someone about it.
 
@@ -245,7 +245,7 @@ Tell an adult you trust, about the bad touch. Keep telling until you get the
 help you need.
 
 ### Differently-abled
-Not everybody can use all five senses. Some cannot use any one or more of them, such people are called Differently-abled.
+Not everybody can use all five senses. Some cannot use any one or more of the five senses, such people are called Differently-abled.
 Helping people is very honorable, and there are plenty of ways by which we can help differently-abled people.
 
 1. Ask first if they need any help from you and follow their lead.
