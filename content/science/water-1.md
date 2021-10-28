@@ -1,3 +1,9 @@
+# Objectives
+
+1. water (properties and importance)
+2. water bodies
+3. states of water
+
 # Chapter maha g3- Our need For Water
 
 ## Reading
