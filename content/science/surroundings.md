@@ -1,3 +1,8 @@
+# Objectives
+
+1. formation of towns and villages
+2. historical places
+
 # Surroundings
 
 Chapter : maha g3: Getting to Know the Place we Live in
