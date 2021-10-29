@@ -7,7 +7,7 @@ to be able to use punctuation marks and distinguish between different marks.
 ## Exclamation mark
 
 It is used to show strong feelings of joy, sadness, confusion, surprise, etc. This mark can be used after a word, phrase or sentence. The sentences ending with an exclamation mark are called exclamatory sentences. A few examples of such sentences are:
-1. Alas! My holidays are cancelled.
+1. Alas! My holidays are canceled.
 2. Wow, it’s raining!
 3. Oh God!
 4. I hear thunder!
@@ -51,10 +51,10 @@ Exclamation marks and question marks are the same.
 
 ## Full stop (Period)
 
-We use full stop or period at the end of a statement. For example,
+We use a full stop or period at the end of a statement. For example,
 1. I like eating apples.
 2. My mom wakes up at 6 o’clock in the morning.
-3. I go to school everyday.
+3. I go to school every day.
 
 We also use period in front of abbreviations. For example,
 1. Mr. Malik
@@ -80,7 +80,7 @@ State whether these statements are true or false. (title)
 ```
 True:	
 Full stop is used at the end of abbreviations.
-Full stop is also called period.
+Full stop is also called a period.
 
 False:
 Full stop and period are different punctuation marks.
@@ -89,7 +89,7 @@ Period is used in the middle of a sentence.
 
 ## Capital letters
 
-The first letter of a sentence should always be capital. The  word ‘I’ is also written in capital. In addition, names of special places, names and titles also start with a capital letter. Some examples are;
+The first letter of a sentence should always be capital. The word ‘I’ is also written in capital. In addition, names of special places, names and titles also start with a capital letter. Some examples are;
 1. My name is Richa.
 2. May I eat some fish?
 3. Richa Malhotra
@@ -236,7 +236,7 @@ We use a question mark when we ask questions.
 A question mark is used at the end of a sentence.
 
 False:
-Question mark and exclamation mark are the same.
+Question marks and exclamation marks are the same.
 A full stop can always be replaced by a question mark.
 ```
 
