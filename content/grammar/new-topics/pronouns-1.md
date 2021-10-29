@@ -1,6 +1,6 @@
 # Objective
 
-1. To recognize that demonstrative pronouns represent the distance and are used to point singular & plural words.
+1. To recognize that demonstrative pronouns represent the distance and are used to point to singular & plural words.
 2. To learn that personal pronouns can replace nouns and how can we do that.
 
 # Grade-1
@@ -27,12 +27,11 @@ This, That, These, Those
 Tap the demonstrative pronouns in these sentences. (title)
 ```
 *This* idea is amazing.
-Is *that* yours book?
+Is *that* your book?
 Eat *these* chocolates after lunch.
 Throw *those* rolls away.
 ```
 
-Tap the demonstrative pronouns in these sentences. (title)
 ```
 *This* is my mother’s saree.
 *That* looks like a rat.
@@ -40,7 +39,6 @@ Tap the demonstrative pronouns in these sentences. (title)
 *Those* are mine clothes.
 ```
 
-Tap the demonstrative pronouns in these sentences. (title)
 ```
 I would like *those*, please.
 I am not sure *that* is how you do it.
@@ -63,7 +61,6 @@ She has my book.
 My name is Rani.
 ```
 
-Identify whether these sentences have demonstrative pronouns or not. (title)
 ```
 Yes:
 Do you like this?
@@ -76,7 +73,7 @@ The teacher went to school.
 I forgot to eat.
 ```
 
-Identify whether these pronouns are singualr or plural. (title)
+Identify whether these pronouns are singular or plural. (title)
 ```
 Singular:
 This, That
@@ -128,7 +125,7 @@ That, Them, Those
 
 ## Personal Pronouns
 
-A personal pronoun is a words that takes place of naming words. Personal pronouns are he, she, it and they. For example:
+A personal pronoun is a word that takes place of naming words. Personal pronouns are he, she, it and they. For example:
 *Rahul* is a good boy.
 'Rahul' is a noun in this sentence. So, it can be replaced with the personal pronoun 'he'. So this sentence can also be written as,
 *He* is a good boy.
@@ -151,7 +148,7 @@ Identify which of these words are pronouns and which are not. (title)
 ```
 Pronouns: He, She, It, They
 
-Not Pronous: Sleep, Walk, Run, Sit
+Not Pronouns: Sleep, Walk, Run, Sit
 ```
 
 #### Select word (label)
@@ -161,7 +158,7 @@ Tap on the pronouns in each sentence. (title)
 *He* puts the book on the table.
 The children play with *it*.
 *They* have a lot of toys.
-*It* is my favourite book.
+*It* is my favorite book.
 *She* is playing outside.
 ```
 
@@ -175,7 +172,6 @@ Book, It
 Children, They
 ```
 
-Match the pairs. (title)
 ```
 Pen, It
 Ram and Shaam, They
@@ -198,7 +194,6 @@ Sakshi is a good student.
 Anya and Avi are very smart.
 ```
 
-Identify if these sentences have personal pronouns or not. (title)
 ```
 Yes:
 It is on the table.
@@ -211,7 +206,6 @@ The dress is purple.
 Racing cars are very fast.
 ```
 
-Identify if these sentences have personal pronouns or not. (title)
 ```
 Yes:
 They go to the movies.
