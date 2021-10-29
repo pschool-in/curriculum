@@ -1,1 +1,106 @@
+# Pronouns - Possessive
+
+## Objectives
+
+To be able to understand and identify the possessive pronouns in the text.
+
+### Reading notes:
+
+A pronoun that is used to indicate ownership or possession is called as a possessive pronoun orin other words a possessive pronoun represents a noun and tells us who owns it. For example: his, yours, hers, mine, ours, theirs etc.
+
+Examples in sentences: 
+1. That is *his* car.
+2. This notebook is *mine*.
+3. The car is *hers*.
+4. That book is *yours*.
+5. This cat is *ours*.
+
+
+
+## Group (drag and drop)
+
+Identify the possessive pronouns and not a possessive pronoun
+
+```
+possessive pronoun: his, hers, mine, yours, ours, theirs
+Not a possessive pronoun: he, she, me, I, it, we, us
+```
+
+## Addition of possessive pronoun (Drag and drop)
+
+Choose the right possessive pronoun to complete the sentence.
+
+```
+I have a new crayon box. It is *mine*. 
+She has a new dog. It is *hers*.
+Is this pencil *yours*?
+My car is bigger than *his*.
+This house is *ours*.
+```
+
+```
+This cat is *ours*.
+The bag over there is *his*.
+This money is *mine*.
+These earphones are not *yours*.
+The lipstick is *hers*. 
+```
+
+```
+My car is bigger than *yours*.
+That painting on the wall is *ours*. 
+That bike is *theirs*.
+This book is *mine*.
+Is this dress *hers*.
+```
+
+
+## Identify (yes or no)
+
+Identify whether the sentence has a possessive pronoun or not.
+
+```
+Yes: 
+This notebook is mine.
+Those pens are hers.
+Those dressess are yours.
+
+No:
+Those gloves belong to him.
+Those pens belong to her. 
+Those dresses belong to you. 
+```
+
+## Fill in the blanks (with options)
+
+Click on the blank and fill in the correct possessive pronoun.
+
+```
+It belongs to me. It is *mine(me)*. 
+You have a new toy. It is *yours(us)*.
+The water bottle belongs to her. It is *hers(mine)*.
+He has a new phone. It is *his(her)*.
+You have a cap. It is *yours(hers)*..
+```
+
+```
+Jack has a toy car. it is *his(her)*.
+I have mittens. They are *mine(ours)*.
+Sangamitra has a dool. it is *hers(ours)*.
+Mannu and I have many dolls. They are *ours(yours)*.
+Uncle and Aunt have a car. It is *theirs (mine)*.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
