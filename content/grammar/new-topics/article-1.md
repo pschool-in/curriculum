@@ -12,11 +12,11 @@ The words that help define the naming words (nouns) as specific and non-specific
 For example:
 1. *an* animal
 2. *an* umbrella
-3. *an owl
+3. *an* owl
 4. *an* eagle
 5. *an* ice-cream
 
-*a* is used before the naming word that begin with consonants or the other remaining letters.
+*a* is used before the naming word that begins with consonants or the other remaining letters.
 
 For example:
 1. *a* tree
@@ -26,9 +26,9 @@ For example:
 5. *a* dog
 
 
-## Addition of Articles (fiil up with options)
+## Addition of Articles (fill up with options)
 
-Click on the blank and choose a or an before the following naming words
+Click on the blank and choose *a* or *an* before the following naming words
 
 ```
 *a(an)* lion
@@ -87,7 +87,7 @@ Click on the blank and choose a or an before the following naming words
 ```
 
 
-## Addition of naming words (Fillup with options)
+## Addition of naming words (Fill up with options)
 
 Click on the blank and add the correct naming word in front of the articles.
 
@@ -115,14 +115,15 @@ a *lamp (inkpot)*
 an *egg (hen)*
 ```
 
-## Fill up 
+
+## Fill in the blanks (with options)
 
 Click on the blank and choose the correct article in the sentence
 
 ```
 There is *a(an)* dog in the backyard.
 I see *an (a)* owl on the tree!
-Mom has *a (an)* red dress.
+Mom has *a (an)* blue dress.
 There is *a(an)* cup on the table.
 Manish eats *an(a)* orange for breakfast.
 ```
@@ -130,17 +131,55 @@ Manish eats *an(a)* orange for breakfast.
 ```
 Meera is *an (a)* intelligent student.
 Dad wants me to wear *a (an)* cap.
-My bag has *a (an)* big pocket at the front.
+Reema has *a(an)* jewelry box.
 We put up *a (an)* Christmas tree for holidays.
 Grandma read *a (an)* story to all my friends.
 ```
 
+```
+I want to eat *an (a)* apple.
+I bought *an (a)* umbrella for my brother.
+Aladdin had *a (an)* magic lantern.
+I saw *a (an)* big lion at the zoo.
+She has written *a (an)* story.
+```
+
+```
+Rakesh's father is *a (an)* lawyer.
+This is *a (an)* ball.
+I saw *an (a) old carpet.
+We have *a (an)* red car.
+Saanvi is *an(a) honest girl.
+```
+
+```
+There is *a (an)* beehive.
+Pass me *an(a) apple.
+Mohan has *a (an)* bike.
+Ritu is *an (a) Indian.
+Krishna wants *an(a)* orange.
+```
+
+```
+Mayukha bought *a (an)* flower.
+They live in *a(an)* small hut.
+She is not *an(a)* old lady.
+My dad works in *a(an)* factory.
+My brother has *a (an)* toy laptop.
+```
+
+
+
 References: 
 
 https://www.k5learning.com/worksheets/grammar/grade-1-articles-a-an-c.pdf
+
 https://www.k5learning.com/worksheets/grammar/grade-1-articles-a-an-b.pdf
+
 https://worksheetswithfun.com/mod/page/view.php?id=5
+
 New pathways - oxford book grade 1
+
 https://www.tiwariacademy.com/ncert-solutions/class-1/english/grammar/chapter-5/
 
 
