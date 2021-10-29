@@ -158,6 +158,19 @@ Because the heavy rains knocked out the power, *school will be closed on Friday*
 
 
 
+Reference: 
+
+https://perfectyourenglish.com/grammar/phrases-worksheet-for-grade-5.htm
+
+https://www.studyandexam.com/clause-phrase.html
+
+https://www.grammarwiz.com/phrases-and-clauses-quiz.html
+
+https://www.ereadingworksheets.com/languageartsworksheets/sentence-structure/sentence-structure-worksheets/clauses-worksheets/
+
+https://www.learninsta.com/clause-and-phrase-exercises-for-class-5
+
+
 
 
 
