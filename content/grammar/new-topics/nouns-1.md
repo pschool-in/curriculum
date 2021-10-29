@@ -1,6 +1,6 @@
 # Objective
 
-To learn that nameing words are called nouns.
+To learn that naming words are called nouns.
 
 # Grade-1
 
