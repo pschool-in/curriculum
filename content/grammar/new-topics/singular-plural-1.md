@@ -9,7 +9,7 @@ To understand that when we speak about more than one person or a thing we add 'S
 In simple words, singular means only one. Plural means more than one. We generally add 's' at the end of the nouns to make them plural. Some examples are:
 1. The plural for an ant will be *ants*.
 2. The plural for a cat will be *cats*
-3. The plural fora bird will be *birds*.
+3. The plural for a bird will be *birds*.
 
 Some nouns use different words as plural. Some examples are:
 1. The plural for a child is *children*.
