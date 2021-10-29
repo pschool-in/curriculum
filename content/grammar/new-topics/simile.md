@@ -4,7 +4,7 @@
 1. To to able to know what a simile is and also to identify simile in the sentences.
 
 ### Reading Notes
-Simile is a term used to compare two different things and show a common quality between them. Simile uses words *like* or *as* to draw a comparison. Similes are an important tool that make the language more creative, descriptive and entertaining. 
+A Simile is a term used to compare two different things and show a common quality between them. A Simile uses words *like* or *as* to draw a comparison. Similes are an important tool that makes the language more creative, descriptive and entertaining. 
 
 For example: 
 1. He is *as busy as a bee*. Here the sentence implies that the subject is working very hard. 
@@ -32,11 +32,11 @@ Some more phrases that represent examples of similes are:
  Use each word to make a simile in each sentence given below
  
  ```
- Shhh!You must be as *quiet* as a mouse!The baby is asleep. 
+ Shhh! You must be as *quiet* as a mouse! The baby is asleep. 
  This box is as *light* as a feather. I can carry it easily.
  His perfume smells as *sweet* as a rose.
  Your children were as *good* as gold. I loved babysitting them!
- A new born baby is as *weak* as a kitten. He can't even hold his head up. 
+ A newborn baby is as *weak* as a kitten. He can't even hold his head up. 
  ```
  
  ```
@@ -48,7 +48,7 @@ Some more phrases that represent examples of similes are:
  ```
  
  ```
- Ram's as *blind* as a bat. He really needs to get some glasses.
+ Ram's as *blind* as a bat. He needs to get some glasses.
  Ramya is as *busy* as a bee. She works a lot.
  Varun is as *sick* as a dog. Poor guy! He caught the flu yesterday.
  Marry is as *happy* as a lark. She is finally getting her new car. 
@@ -77,7 +77,7 @@ Some more phrases that represent examples of similes are:
  
  ```
  The boy runs *like the wind*.
- Please donot cry *like a baby*.
+ Please do not cry *like a baby*.
  He is quick *as a cat*.
  He is *as smart as a fox*.
  Jatin is *as quiet as a mouse*.
@@ -88,7 +88,7 @@ Some more phrases that represent examples of similes are:
  You were *as brave as a lion*.
  Your house is *as clean as a whistle*.
  This dress is perfect because it fits *like a glove*.
- I am so thirsty that my throat is *as dry as Sahara desert*.
+ I am so thirsty that my throat is *as dry as the Sahara desert*.
  ```
  
  ```
@@ -113,10 +113,10 @@ Some more phrases that represent examples of similes are:
  
  ```
  run like the wind, to run fast
- slither like snake, to move quickly and fast
+ slither like a snake, to move quickly and fast
  drink like a fish, to drink a lot of water
  fight like a lion, to fight very hard
- hard as rock, to be sturdy and strong
+ hard as a rock, to be sturdy and strong
  ```
  
  ## Simile or Not a simile
@@ -125,18 +125,18 @@ Some more phrases that represent examples of similes are:
  
  ```
  Simile:
- My teacher roared like a lion at the misbehaving classroom.
+ My teacher roared like a lion in the misbehaving classroom.
  The instructions were as clear as mud.
  She swims like a fish.
  
  Not a simile:
- Your are my sunshine.
+ You are are my sunshine.
  My life is an open book.
  ```
  
  ```
  Simile:
- Her smile is as bright as sun.
+ Her smile is as bright as the sun.
  The friends are like two peas in a pod.
  Her skin is soft like velvet.
  
