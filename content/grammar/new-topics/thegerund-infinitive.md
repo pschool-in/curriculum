@@ -149,6 +149,17 @@ I tried *to understand (understanding)* but I just couldn't.
 
 
 
+References: 
+
+
+https://www.learninsta.com/gerunds-and-infinitives-exercises-for-class-5/
+
+https://www.e-grammar.org/gerund-exercises-pdf/
+
+https://www.e-grammar.org/download/gerund-infinitive-exercise-1.pdf
+
+
+
 
 
 
