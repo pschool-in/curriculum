@@ -157,3 +157,66 @@ Planting trees, discretionary function
 Street lights, obligatory function 
 Gram Sabha, development of plan
 ```
+
+## Chapter: tn-3-2-social: District Administation
+## District Administation - Reading
+### District Collector
+The district collector is the Administrative head of a district. District Collector is responsible for the proper and smooth functioning of the district. I.A.S. officers are recruited by U.P.S.C (Union Public Service Commission). Some I.A.S. officers are appointed as district collectors.
+District Collector is the head of the revenue department. 
+District collector seeks assistance from the police force to maintain law and order in the district. The Superintendent of Police follows the order of the district collector. They inform district collectors from time to time about the law and order of the district. 
+The district collector also supervises local bodies like the district board, village panchayat and municipal committees.
+Prompt actions during a natural disaster are taken by the district collector.
+The district collector has a major role in the development of the government.
+District collector makes sure that the policies should reach the people.
+
+### District Administration System
+More subordinates in district administration assist the district collector
+like the District Medical officer, Superintendent of Police, District Forest Officer, Chief Educational Officer, Revenue Divisional Officer (RDO) and
+other Officers. These heads take care of their departments. They all are a part of the district administration system. However, the district collector is responsible for the proper working of all departments to make sure that people are benefited by the government.
+
+### Health Officer
+Health officers are responsible for government hospitals in the district. The person in charge advises on the health and sanitation of the district.
+
+### Superintant of Police
+Superintendent of Police: Superintendent is responsible for the police force in the district. Law and order are maintained in the district with assistance from all police officers like inspectors and constables.
+
+## Fill in the Blanks (drag and drop)
+```
+The district collector is the *Administrative* head of the district.
+The district collector is responsible for the proper and smooth functioning of the *district*.
+The District administration system is constituted of different departments of the district such as the police department, *medical* department, forest department, and educational department.
+District collector seeks assistance from the *police force* to maintain law and order in the district.
+Prompt actions during a natural disaster are taken by the *district collector*.
+```
+## True or False
+```
+True:
+The Forest officer takes care of the forest department.
+District collectors are appointed through exams conducted by U.P.S.C.
+Chief Educational Officer takes care of the education department.
+
+False:
+The police are responsible for the proper and smooth functioning of the district.
+The teacher gives the order to make sure different policies reach people in the district.
+```
+## Multiple Choice Questions 
+```
+Who is the administrative head of the district?
+District collector, Judge, Superintendent of Police
+
+What does the police department maintain?
+Law and order, Health, Forest 
+
+Who ensures the proper functioning of the educational department in a district?
+Chief Educational Officer, Forest Officer, Forest Officer
+
+Who advises on the sanitation of the district?
+Health Officer, Forest Officer, Revenue Officer
+```
+## Answer in one word. (drag and drop)
+```
+The administrative head of the district. - *collector*
+Maintains law and order. - *police*
+Advises on health. - *health officer*
+Teaches morality. - *teacher*
+```
