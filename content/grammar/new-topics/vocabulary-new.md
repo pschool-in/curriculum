@@ -8,15 +8,15 @@ To get familiar with common and everyday words.
 
 Animal movements tell us how different animals move from one place to another. The different types of movements are:
 1. Crawling-
-snakes, snails, worms, millipedes, spiders, lizards, scorpions, earthworms, bugs, catterpillars etc.
+snakes, snails, worms, millipedes, spiders, lizards, scorpions, earthworms, bugs, caterpillars etc.
 2. Hopping-
-Frog, rabbit, toad, hare, kangaroo, frog, toad, deer, grasshopper etc.
+Frog, rabbit, toad, hare, kangaroo, frog, toad, deer, grasshopper, etc.
 3. Flying-
-bees, bats, dragonfiles, birds, flies etc.
+bees, bats, dragonflies, birds, flies, etc.
 4. Walking and running-
-goats, pigs, dogs, leopards, lions, tigers, horses etc.
+goats, pigs, dogs, leopards, lions, tigers, horses, etc.
 5. Swimming-
-fishes, crabs, toads, frogs, crocodile etc.
+fishes, crabs, toads, frogs, crocodiles, etc.
 6. Climbing-
 monkeys, apes, mice, snakes, etc.
 
@@ -35,7 +35,7 @@ Fishes, Swim
 
 Match the pairs. (title)
 ```
-Kangarooa, Jump
+Kangaroos, Jump
 Bats, Fly
 Pigs, Walk
 Worms, Crawl
@@ -94,7 +94,7 @@ State whether these statements are true or false. (title)
 ```
 True:
 Crawling means to move by dragging the body.
-We can see monkeys climb on trees.
+We can see monkeys climb trees.
 Rabbits move by hopping.
 
 False:
@@ -108,7 +108,7 @@ State whether these statements are true or false. (title)
 True:
 Birds fly in search of food.
 Frogs swim in the water.
-Drafonflies can fly but they cannot walk.
+Dragonflies can fly but they cannot walk.
 
 False:
 Bees hop from flower to flower.
@@ -125,7 +125,7 @@ Crocodiles can both swim and walk.
 
 False:
 Ducks can swim but cannot fly.
-Catterpilers can run.
+Caterpilers can run.
 Some goats can fly.
 ```
 
@@ -143,14 +143,14 @@ It includes the words that were used to describe a kingdom. Some of them are:
 2. Armour- used to protect the body in battles
 3. Castle, Fort or Palace- house of the ruler
 4. Crown- the rulers used to wear it on their heads
-5. Crossbow- weapon used in battles
+5. Crossbow- the weapon used in battles
 6. Dynasty or Kingdom- total area under the king's rule
-7. Knight- a soldier in battle with armour
+7. Knight- a soldier in battle with armor
 8. Reign- the time period of king's rule
 9. Queen- Wife of the King, ruler in some cases
 10. Prince and Princess- son and daughter of the ruler
 
-The monarchy still exist in some parts of the world. England is one of the strongest monarchies of the world.
+The monarchy still exists in some parts of the world. England is one of the strongest monarchies in the world.
 
 ### Activities
 
@@ -220,9 +220,9 @@ Battle, Knight, Armour, Reign, Crossbow, Monarch, Soldier, Ruler
 
 #### Multiple Choice Questions (label)
 
-Chosse the correct answer. (Title)
+Choose the correct answer. (Title)
 ```
-What is the another word for King?
+What is the other word for King?
 Monarch, Queen, Knight
 What do we call the ruler's son?
 Prince, Crossbow, Knight
@@ -230,11 +230,10 @@ What do we call the daughter of the ruler?
 Princess, Knightess, Armour
 What do we call the wife of King?
 Queen, Princess, Armour
-What is the king's teerritory called?
+What is the king's territory called?
 Dynasty, Battle, Village
 ```
 
-Chosse the correct answer. (Title)
 ```
 Who fights in battles?
 Knight, People, Dynasty
@@ -256,7 +255,7 @@ A *king* is the ruler.
 A *knight* fights in the battles.
 A king's territory is called a *dynasty*.
 A king's ruling period is called *reign*.
-An *armour* protects the body.
+An *armor* protects the body.
 ```
 
 Drag the correct option to each blank. (title)
@@ -265,6 +264,6 @@ A *queen* can sometimes be the ruler.
 A *crossbow* was used in battles.
 The King's family lives in a *castle*.
 A *prince* is the king's successor.
-A *princess* is a member of king's family.
+A *princess* is a member of the king's family.
 ```
 
