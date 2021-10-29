@@ -311,6 +311,15 @@ Two heads are better than *one*.
 
 
 
+References: 
+
+https://www.theidioms.com/kids
+
+https://kids.kiddle.co/Idiom
+
+https://englishlive.ef.com/blog/language-lab/15-common-english-idioms-and-phrases
+
+
 
 
 
