@@ -91,6 +91,41 @@ Mannu and I have many dolls. They are *ours(yours)*.
 Uncle and Aunt have a car. It is *theirs (mine)*.
 ```
 
+## Identify (select the word)
+
+Select the possessive pronoun in the sentence.
+
+```
+My aunt laksmi has a blue car. The blue car is *hers*.
+Swati and I live in a big hose. It is *ours*.
+I am making a drawing. The drawing is *mine*.
+I brought ny violin. It is *mine*.
+I own the bike. It is *mine*.
+```
+
+
+```
+Chandan has a small puppy. It is *his* puppy.
+The house at the corner is *theirs*.
+Are you sure this is *yours*.
+Who owns this bat? Is it *yours*?
+This dog is *ours*.
+```
+
+
+References:
+
+https://worksheetswithfun.com/mod/page/view.php?id=211
+
+https://www.k5learning.com/free-grammar-worksheets/first-grade-1/pronouns/possessive
+
+https://files.liveworksheets.com/def_files/2020/10/19/1019021947685640/1019021947685640001.jpg
+
+https://educationwithfun.com/course/view.php?id=14&section=7
+
+New pathways book 
+
+
 
 
 
