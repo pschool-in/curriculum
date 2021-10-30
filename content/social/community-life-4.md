@@ -23,4 +23,34 @@ Central government and State government provide the money. People also pay in th
 Certain Municipalities will be declared by the Government as Corporation based on high population and high revenue.
 
 ### Duties of Corporation
-The head and the members of Corporation was elected by the people directly. The chairperson of the corporation was called Mayor. He is also called as the father of the Corporation. The Tenure of the members of the Corporation is 5 years. The Indian administrative service officers and similar rank holders are appointed by the government to the Corporation. Most of the Urban areas have Corporation.
+The head and the members of Corporation is elected by the people directly. The chairperson of the corporation is called Mayor. He is also called as the father of the Corporation. The Tenure of the members of the Corporation is 5 years. The Indian administrative service officers and similar rank holders are appointed by the government to the Corporation. Most of the Urban areas have Corporation.
+
+## Fill in the Blanks. (drag and drop)
+```
+*Municipality* is a form of local government in a small town where 50,000 to 1,00,000 people live.
+The head of the municipality is called the *President*.
+The chairperson of the corporation is called *Mayor*.
+Certain Municipalities will be declared by the Government as *Corporation* based on high population and high revenue.
+One of the members of the municipality is selected as *Vice-president*.
+```
+## Multiple Choice Question. (mcq)
+```
+Who is the head of the municipality?
+President, Mayor, Collector
+
+Who is the chairperson of the corporation?
+Mayor, President, Collector
+
+What is the tenure of the members of the Corporation?
+5 years, 10 years, 7 years
+```
+## True or False
+```
+True: 
+Municipality is divided into wards.
+Main income of municipality is from tax.
+
+False:
+President is the chairperson of a corporation.
+Mayor is the head of municipality.
+```
