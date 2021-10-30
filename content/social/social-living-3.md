@@ -1,4 +1,9 @@
-# Gradde-3
+# Objectives
+
+1. School (old and modern system)
+2. community and rules in a community
+
+# Grade-3
 ## Chapter: mahag3: My School
 ## My School - Reading
 ### Olden day Schools
@@ -49,4 +54,60 @@ Maulana Azad, Nehru, Mahatma Gandhi
 
 When is National Education Day celebrated?
 11 Nov, 5 Nov, 5 Sept
+```
+
+## Chapter: mahag3: Our Community Life
+## Our Community Life - Reading
+### Community
+We like the company of other people. At home, we live with our parents. We also have neighbors. We miss our friends if we can’t meet them. We miss even our pets when they are not around.
+People like to live in groups. Living in the company of our family, neighbors and other people means living in a community. In a community, we get companions. We feel secure in their company.
+We help them and they, too, help us. This is known as co-operation.
+Mutual co-operation is the greatest benefit of community life. Rules are needed to build this co-operation.
+
+Our daily needs are fulfilled in a community. Education and health
+facilities for everyone can be developed in a community. Goods have
+to be produced to satisfy needs. This is called the production of goods. The process of reaching those goods to people is called service. Production and service are both necessary to satisfy needs. Many people contribute to this. One person cannot produce everything; neither can he give all services by himself. Community life is interdependent.
+
+### Rules in a Community
+Before playing any game, we must first understand its rules. The rules of the game are the same for everybody. Every player has to follow the rules. Only then does the game go on smoothly. Similarly, to make sure that community life also goes on smoothly, we must follow the rules. Games have an important place in our lives. We imbibe the qualities of cooperation and unity through games. Participation, determination and passion are more important in games than winning or losing.
+
+## Fill in the Blanks (drag and drop)
+```
+People like to live in a *community*.
+Mutual *co-operation* is the greatest benefit of community life.
+Our daily *needs* are fulfilled in community life.
+*Rules* are needed for the smooth running of community life.
+Games teach us co-operation and *unity*.
+Sports keep us *healthy*.
+```
+
+## Right vs Wrong
+Classify the activities as right or wrong
+```
+Right:
+Cross the road on the zebra crossing.
+If injured, go to a doctor or Primary Health Centre at once.
+Report a leaking tap in a public place to the gram panchayat or the local government body.
+
+Wrong:
+Jump the queue and climb on the bus.
+Travel without a ticket.
+```
+## Multiple Choice Questions 
+```
+With whom do we live at home?
+family, friends, neighbors
+
+When do we feel secure?
+in the company of companions, being alone, at a police station
+
+Why should we follow rules?
+for the smooth running of community life, to avoid quarrels, to avoid conflicts, *all
+```
+## Match the following
+```
+Helping each other, co-operation
+good community, follow rules
+rules, same for everybody
+sports, healthy
 ```
