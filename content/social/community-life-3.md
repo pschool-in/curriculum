@@ -1,3 +1,11 @@
+# Objectives
+
+1. public services
+2. local government
+3. panchayat
+4. gram sabha
+5. district administration system
+
 # Grade-3
 ## Chapter: mahag3: Public Services for Community Life
 ## Public Services - Reading
