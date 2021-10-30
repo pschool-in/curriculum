@@ -1,3 +1,7 @@
+# Objectives
+
+1. Muncipality and coperations
+
 # Grade-4
 
 ## Chapter: tn-4-1-social: Municipalities and Corporation
