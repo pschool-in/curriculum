@@ -1,7 +1,7 @@
 # Objectives
 
 1. concepts of heavenly bodies, stars, planets (introduction only), solar system (introduction only), satellites, asteroids, gravity, space, rocket technology (introduction only)
-2. indian space missions
+2. Indian space missions
 3. concepts of equator, hemisphere, rotation, revolution.
 4. concepts of hour, year, leap year, seasons.
 5. phases of moon
@@ -75,7 +75,7 @@ Planets *rotate* around themselves.
 Some heavenly bodies revolve around planets. These are called satellites. Satellites too get their light from the sun. We see the moon at night. It revolves around the earth. Hence, it is called a satellite of the earth. The planets revolve around the sun along with their satellites.
 
 ### Man - made Satellites
-Man-made satellites provide useful information foragriculture, environment, weather forecasting, making maps, and searching for water and mineral wealth on the earth. They are also used for telecommunication. They are put into orbit around the earth. They can remain in space for many years.
+Man-made satellites provide useful information for agriculture, environment, weather forecasting, making maps, and searching for water and mineral wealth on the earth. They are also used for telecommunication. They are put into orbit around the earth. They can remain in space for many years.
 
 ### Dwarf Planets
 Some smaller heavenly bodies revolve around the sun. They are called dwarf planets. Of these, the most well-known is Pluto. Dwarf planets revolve independently around the sun. They have an orbit of their own.
@@ -176,7 +176,7 @@ Hemisphere: The two equal parts the equator makes of the Earth are called the no
 
 Rotation: The turning of an object around itself is called rotation and the imaginary line around which it rotates is called its axis of rotation.
 
-Day:  The period that the Earth takes to complete one rotation is called a day. A day has two parts, daytime and nighttime or simply day and night.
+Day:  The period that the Earth takes to complete one rotation is called a day. A day has two parts, daytime and night time or simply day and night.
 
 Hour: To measure time, the whole day is divided into 24 parts, each of which is called an hour.
 
