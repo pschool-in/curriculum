@@ -16,3 +16,37 @@ pages of the books. We must keep the walls and benches in the classroom clean. W
 Quarrels may arise between friends, but they should be resolved amicably. Every person who is quarreling should get a chance to present their side. Quarrels should not lead to physical fights. The teacher should be asked to help if a quarrel cannot be resolved. Resolving quarrels peacefully is a good way to end them. It teaches us to solve problems in community life amicably. If issues in community life are resolved peacefully, many of our problems will be solved.
 
 Each child must get the opportunity to attend school. School is for everyone. We learn how to get along with others at school. We get to know a lot of people. At school, we realize that we are a part of society.
+
+## Fill in the Blanks (drag and drop)
+```
+Personal and public *hygiene* helps to keep us healthy.
+Issues arising in community life should be *resolved* amicably.
+*Each child* must have the opportunity to attend school.
+Quarrels should not lead to *physical fights*.
+In the olden days in our country, students used to go to their teacher’s *house* to receive an education. 
+```
+## True or False
+```
+True:
+We learn how to get along with others at school.
+Pages of books should not be torn.
+Books borrowed from the library should be returned on time.
+
+False:
+Sports equipment should not be put back in its place after use.
+School is not for everyone.
+```
+## Multiple Choice Questions 
+```
+What should you do if a quarrel can not be resolved?
+ask for help from a teacher, fight, do not let them present their side
+
+What facilities does a school offer?
+library, playground, computer lab, *all
+
+Who was the first Education Minister of independent India?
+Maulana Azad, Nehru, Mahatma Gandhi
+
+When is National Education Day celebrated?
+11 Nov, 5 Nov, 5 Sept
+```
