@@ -1,14 +1,14 @@
 # Pronoun
 
 ## Objectives
-1. To be able to define pronoun
+1. To be able to define personal pronoun
 2. To be able to identify and use the pronouns in the text.
 
 ### Reading notes
 
-The words that are used to take the place of naming words (noun) or noun phrases are called as pronouns. 
+The words that are used to take the place of naming words (noun) or noun phrases are called pronouns. 
 
-For example: He, she , it, we, you, me, him, they, them, his, her etc.
+For example: He, she , it, we, you, me, him, they, them, his, her, etc.
 
 ## Personal Pronouns:
 
@@ -18,7 +18,7 @@ The pronouns that refer to people, places, things directly are called as persona
 
 A personal pronoun describes a person or a thing in the following ways: 
 1. The pronouns *I*, *we*, *me*, denotes the 1st person that means the person who speaks.
-2. The pronoun *you* refers to 2nd person, that means the person who is spoken to.
+2. The pronoun *you* refers to the 2nd person, which means the person who is spoken to.
 3. The pronoun *he*, *she*, *they*, *it* refers to 3rd person, that means a person or a thing which is spoken about. 
 
 Examples of personal pronouns: 
@@ -38,7 +38,7 @@ Pintu and I, we
 Jashwanth, he
 Rakhi, she
 The big bus, it 
-Kishore and lalith, they
+Kishore and Lalith, they
 ```
 
 ```
