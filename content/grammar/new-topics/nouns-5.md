@@ -82,7 +82,7 @@ Husband is a masculine gender noun.
 
 False:
 Non-living things are named as common gender nouns.
-Non-living things are named as neutral gender nouns.
+Non-living things are named neutral gender nouns.
 ```
 
 # References
