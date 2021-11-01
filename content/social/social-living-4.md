@@ -53,4 +53,34 @@ migration, immigration, emigration
 As we migrate what can we see in our country?
 diversity, disparity, conflicts
 ```
+## Chapter: mahag4: My Delightful School
+## My Delightful School - Reading
+### My Delightful School
+We get many different friends in school. We study with each other’s help. We play together and share our tiffins. We take part in school functions and go on trips together. We come together to clean and decorate the classroom. There are so many things which we do together.
 
+If we help each other, we can succeed at anything. Work becomes enjoyable. We all wear a uniform in school. However, on days when the uniform is not compulsory, the classroom becomes colorful. It is fun to attend a class where there is a lot of diversity. Our customs, languages and eating habits may be different, but as human beings, we are all alike. When we respect this diversity and help each other, we enjoy being in school. School becomes delightful. In school, we come to know about the diversity in our country.
+
+Every child should get the joy of learning in school. All children with special needs have the right to education. Many parents of children with special needs send their children to school with great determination. The government also has many schemes for them.
+
+When we offer and seek help, learning becomes more enjoyable.
+
+## Fill in the Blanks (drag and drop)
+```
+We get many different friends in *school*.
+In school, we come to know about the *diversity* in our country.
+Every child must get the joy of *learning* in school.
+All children including those with special needs have the *right to education*.
+When we offer and seek help, learning becomes more *enjoyable*.
+```
+
+## True vs False
+```
+True:
+If we help each other, we can succeed at anything. Work becomes enjoyable.
+In school, we come to know about the diversity in our country.
+Every child should get the joy of learning in school.
+
+False:
+Girls should do household chores and should not go to school.
+Special needs children are home-schooled.
+```
