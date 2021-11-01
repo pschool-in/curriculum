@@ -1,3 +1,13 @@
+# Objectives
+
+1. changes in family and neighborhood
+2. migration
+3. school 
+4. caring for elderly 
+5. responsibilty towards elders and special needs people
+6. concept of management
+7. School Management Committee
+
 # Grade-4
 ## Chapter: mahag4: Changes in Family and Neighborhood
 ## Changes in Family and Neighborhood - Reading
@@ -172,4 +182,46 @@ ramp, slope, slide
 What is the use of the ramp?
 helps people in a wheelchair to enter the building, used by kids as a slide, it is useless
 ```
+
+## Chapter: mahag4: Management of Community Life
+## Management of Community Life - Reading
+### What is management?
+To do any kind of work smoothly, some management is required. The first step in management is to prepare an outline of how and when the work is to be done. One has to decide what task each person will carry out.  Proper coordination has to be maintained among the people involved. An estimate of the amount of money needed for the work needs to be made in advance. If all these things are done properly, the work gets completed smoothly. Even if one person makes a mistake or slacks off on the job, the work does not get completed properly.
+
+### Managing Studies
+1. Fix a time for studying every day and follow it strictly.
+2. Make a list of things to be studied every week. 
+3. Study the items in your plan.
+4. Take enough time to study each subject.
+5. Do not avoid studying difficult subjects. Finish studying them first.
+6. If you have free time, put it to good use by studying.
+7. Fix a particular time for playing, watching TV and resting. However, remember to spend only that much time on those activities.
+
+### School Management Committe
+To make sure that the school is run smoothly, a ‘School Management Committee’ is formed. The School Management Committee consists of parents, teachers, local experts and student representatives. The Committee tries to understand the difficulties of parents, students and teachers. It gives guidance to solve these difficulties. It prepares and recommends a school development plan. It keeps an eye on the regular attendance of students and teachers in the school. It helps in carrying out schemes such as the mid-day meal. In this way, teachers and parents work together through the School Management Committee to ensure
+the round development of the students.
+
+## Fill in the Blanks (drag and drop)
+```
+*Management* is necessary for any work to be done properly.
+A detailed *plan* is necessary for group work.
+If work is carried out according to the plan, it is done smoothly and on *time*.
+The *School Management Committee* works to ensure the all-round development of children.
+The *local government* body provides facilities for the daily needs of people.
+```
+
+## True vs False
+```
+True:
+The School Management Committee works to ensure the all-round development of children.
+The local government body provides facilities for the daily needs of people.
+
+False:
+Management is not necessary for any work to be done properly.
+A detailed plan is useless for group work.
+If work is carried out according to the plan, it is never done on time.
+```
+
+
+
 
