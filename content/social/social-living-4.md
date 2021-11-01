@@ -48,7 +48,7 @@ What causes changes in the number of people in the family?
 *marriage, *birth, *death, *migration
 
 What is the process of moving from one place to another to live called?
-migration, immigration, emmigration
+migration, immigration, emigration
 
 As we migrate what can we see in our country?
 diversity, disparity, conflicts
