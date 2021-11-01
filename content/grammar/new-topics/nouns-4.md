@@ -13,11 +13,11 @@ P.S: Other topics in nouns are already covered in these files.
 
 A concrete noun is any noun word that we can see, touch, smell, hear or feel. In other words, any noun that is not abstract is concrete. For example:
 What is that *noise* ?
-In this sentence, the word noise is a concrete noun because we can here it.
+In this sentence, the word noise is a concrete noun because we can hear it.
 
-Another exampple is;
+Another example is;
 You need *patience* to read a *book*.
-In this sentence, patience is an abstract noun because we it is not physically present. On the other hand, book is a concrete noun because we can see, touch and feel it.
+In this sentence, patience is an abstract noun because it is not physically present. On the other hand, the book is a concrete noun because we can see, touch and feel it.
 
 Some more examples of concrete nouns are:
 1. *Shruti* put her *feet* on the *table*.
@@ -67,8 +67,8 @@ Seema felt love for her new *dog*.
 ```
 Curiosity killed the *cat*.
 A *dove* is a symbol of peace.
-Owning two *cars* is a luxuary..
-Your story needs more *excitment*.
+Owning two *cars* is a luxury..
+Your story needs more *excitement*.
 The math *formula* is stored in your memory.
 ```
 
@@ -77,7 +77,7 @@ The math *formula* is stored in your memory.
 Classify whether these nouns are abstract or concrete. (title)
 ```
 Abstract:
-Luxuary, Joy, Maturity, Work
+Luxury, Joy, Maturity, Work
 
 Concrete:
 Table, Feet, Melody, Pie
