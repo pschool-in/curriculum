@@ -6,7 +6,7 @@ To be able to understand and identify the possessive pronouns in the text.
 
 ### Reading notes:
 
-A pronoun that is used to indicate ownership or possession is called as a possessive pronoun orin other words a possessive pronoun represents a noun and tells us who owns it. For example: his, yours, hers, mine, ours, theirs etc.
+A pronoun that is used to indicate ownership or possession is called a possessive pronoun or in other words a possessive pronoun represents a noun and tells us who owns it. For example: his, yours, hers, mine, ours, theirs, etc.
 
 Examples in sentences: 
 1. That is *his* car.
@@ -80,7 +80,7 @@ It belongs to me. It is *mine(me)*.
 You have a new toy. It is *yours(us)*.
 The water bottle belongs to her. It is *hers(mine)*.
 He has a new phone. It is *his(her)*.
-You have a cap. It is *yours(hers)*..
+You have a cap. It is *yours(hers)*.
 ```
 
 ```
@@ -96,10 +96,10 @@ Uncle and Aunt have a car. It is *theirs (mine)*.
 Select the possessive pronoun in the sentence.
 
 ```
-My aunt laksmi has a blue car. The blue car is *hers*.
-Swati and I live in a big hose. It is *ours*.
+My aunt Laksmi has a blue car. The blue car is *hers*.
+Swati and I live in a big house. It is *ours*.
 I am making a drawing. The drawing is *mine*.
-I brought ny violin. It is *mine*.
+I brought my violin. It is *mine*.
 I own the bike. It is *mine*.
 ```
 
