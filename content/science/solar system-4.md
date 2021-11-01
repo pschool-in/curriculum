@@ -102,7 +102,7 @@ when it gets dark, when it gets bright, when the sun rises
 When do we say that it is summer?
 longer days and shorter nights, longer nights and shorter days, equal days and nights
 
-When do we say that it is night?
+When do we say that it is winter?
 Longer nights and shorter days, equal days and nights, shorter nights and longer days
 
 ```
