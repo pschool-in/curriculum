@@ -93,10 +93,10 @@ Click on the blanks and choose the correct reflexive pronoun.
 
 ```
 She never talks about *herslef(itself)*. 
-He did all the paintings by *himself(themselves).
+He did all the paintings by *himself(themselves)*.
 The dog hurt *itself(himself)*. 
 Shaanvi sang quietly to *herself(itself)*.
-Shiva hurt *himself(ourselves) while climbing the ladder.
+Shiva hurt *himself(ourselves)* while climbing the ladder.
 ```
 
 ```
@@ -115,7 +115,7 @@ Identify whether the sentence is having the correct reflexive pronoun.
 True: 
 Why don't you cut your nails yourself?
 Look at yourself in the mirror.
-Pooja and Indu! Please behave yourselves
+Pooja and Indu! Please behave yourselves.
 False: 
 Grandma cut  himself.
 Why don't you clean the balcony ourself.
