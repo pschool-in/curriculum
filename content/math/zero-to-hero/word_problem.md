@@ -55,4 +55,11 @@ To print a paper a printer takes 3 seconds. How long does the printer need to pr
 Babar plays football every 3 days, runs every 5 days and cycles every 6 days. If he has done all together today, then after how many days will he do all the 3 activities together again? | 30
 John saves ₹ 6 each day. If he wants to get his savings converted to ₹ 100 denomination. How many days does he need to wait to convert the whole savings to ₹ 100 denomination? | 50
 ```
+```
+There are 18 bangles on the rod. Tina is trying to group them. She can put them in groups of 2,3,6,9 and 18 — without any bangle being left. If she puts them in groups of 3, how many groups of bangles will there be? | 6
+Jai needs to put tiles on the wall. Each tile is 20 cm x 20 cm in dimension. The wall is  600 cm X 400 cm dimension. How many tiles will be required to complete the tiling of the wall. | 600
+Dave has 42 blue pens & 70 black pens. He wants to distribute the pens among his friends. What could be the maximum number of friends among whom Dave can distribute the pens, so each one of them gets an equal number of blue pens and black pens. | 14
+With a 200 gm paneer packet we can get 20 equal sizes of small paneer cubes. If there are 40 people to eat and each one has 5 small paneer cubes, how many packets of paneer are required to buy? | 10
+```
+
 
