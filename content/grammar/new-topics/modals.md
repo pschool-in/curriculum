@@ -45,6 +45,16 @@ How *may* I help you?
 We *may not* have to leave.
 ```
 
+#### Select the word (label)
+
+Tap on the modal verb in the below sentences. (title)
+```
+I *can* speak 3 different languages.
+*May* I ask what you're doing?
+I told my sister that she *cannot* sleep without brushing her teeth.
+I *may not* be able to come to the party.
+```
+
 # Grade-5
 
 ## Modals
@@ -109,3 +119,29 @@ Identify these modals. (title)
 ```
 Shall, Should, Will, Ought, Would
 ```
+
+#### Select Word (label)
+
+Tap on the modal verbs in the below sentences. (title)
+```
+The Prime Minister *will* hoist the flag.
+I *would* like to have some chocolate.
+*Shall* I close the door?
+All the children *should* go to bed early.
+*May* God bless you.
+```
+
+```
+I *might* go to the party.
+*Can* I borrow your notebook?
+If we had more chocolates, we *could* eat more.
+We *must* not steal from anyone.
+We *ought* to practice more.
+```
+
+
+# References
+
+1. Wren & Martin- High School English Grammar
+2. https://www.successcds.net/learn-english/modals.html
+
