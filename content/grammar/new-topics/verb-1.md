@@ -41,35 +41,35 @@ cook, sleep, catch, write, listen
 Identify the action words in the group
 
 ```
-dog, cat, *eat*, bone
-Neeta, *talks*, the, mother
-My, friend, *tells*, happy
-nice, baby, *walk*, there
-her, *closed*, eyes, nose
+eat, dog, cat, bone
+talks, Neeta, the, mother
+tells, My, friend, happy
+walk, nice, baby, there
+closed, her, eyes, nose
 ```
 
 ```
-*write*, book, paper, pen
-*fly*, table, chair, sofa
-blanket, pillow, *sleep*, bed
-mouse, bird, *hop*, snake
-*jump*, frame, board, ground
+write, book, paper, pen
+fly, table, chair, sofa
+sleep, blanket, pillow, bed
+hop, mouse, bird, snake
+jump, frame, board, ground
 ```
 
 ```
-*drink*, coke, sweet, they
-*brush*, dentist, safe, good
-eye, *look*, cake, yummy
-*run*, ball, bat, goal
-*shop*, money, rupees, paisa
+drink, coke, sweet, they
+brush, dentist, safe, good
+look, eye, cake, yummy
+run, ball, bat, goal
+shop, money, rupees, paisa
 ```
 
 ```
-white, color, *paints*, brush
-*sit*, sofa, cushion, cot
-*hung*, wall, paper, poster
-water, *flows*, jug, river
-*throw*, bat, pen, pencil
+paints, white, color, brush
+sit, sofa, cushion, cot
+hung, wall, paper, poster
+flows, water, jug, river
+throw, bat, pen, pencil
 ```
 
 
