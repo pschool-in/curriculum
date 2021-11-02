@@ -78,8 +78,38 @@ She walked *happily (happy, happly)* to the school.
 He planned the trip *nicely (nice, nicily)*.
 ```
 
-#### 
+#### Correct Spelling (label)
 
+Identify the correct spelling for these adverb of manners.
+```
+Safely, Safily
+Noisily, Noisly
+Godly, Godily
+Angrily, Angrys
+Sadly, Sads
+Hopefully, Hopefuly
+Gently, Gentley
+Possibly, Possibley
+```
+
+#### Right match (label)
+
+Identify the correct adverb of manner for these adjectives. (title)
+```
+Smart, Smartly, Smartily
+Possible, Possibly, Possibley
+Pleasant, Pleasantly, Pleasantary
+Happy, Happily, Happilie
+Bad, Badly, Badley
+```
+
+```
+Quick, Quickly, Quickey
+Slow, Slowly, Slowey
+Fast, Fastly, Fastily
+Gentle, Gently, Gentley
+Correct, Correctly, Corrects
+```
 
 
 
@@ -89,5 +119,3 @@ He planned the trip *nicely (nice, nicily)*.
 1. https://www.bing.com/videos/search?q=adverb+of+manner+grade+3&docid=608000982245907664&mid=D3D779F58BF82FD5FE18D3D779F58BF82FD5FE18&view=detail&FORM=VIRE
 2. https://docs.google.com/viewerng/viewer?url=http://yourenglishsource.com/wp-content/uploads/2015/02/L52-Adverbs-of-Manner.pdf&hl=en_US
 3. https://docs.google.com/viewerng/viewer?url=http://www.autoenglish.org/gr.adverbs.pdf&hl=en_US
-4. 
-
