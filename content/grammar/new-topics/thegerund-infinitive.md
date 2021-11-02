@@ -68,14 +68,14 @@ Identify the gerund in each sentence
 
 ```
 Gaurav avoids *driving* in highways as much as possible.
-Grandma enjoyed *meeting* new people and *seeing* new places.
+Grandma enjoyed *meeting* new people.
 Kavitha has developed interest in *cooking*.
 My mother says *eating* fresh vegetables is good for health. 
-If you want to excel in *writing*, you should start *reading* extensivley.
+She likes *painting*.
 ```
 
 ```
-The most difficult part of *training* was *running* for five miles an hour.
+He enjoys *playing* football.
 Vihaan's most favorite free-time activity is *restoring* vintage bikes.
 Mahita is fond of *spending* long hours at the library.
 Aadhya loved *listening* to grandpa's childhood memories.
@@ -112,41 +112,39 @@ Not only *living in the city is hectic, but it is expensive too.
 
 ## Gerund or infinitive (fill up with options) 
 
-Complete each sentence using the gerund or infinitve form as appropriate
+Complete each sentence using the gerund or infinitve form as appropriate.
 
 ```
 Karthik didn't know what *to do (doing)* when the fire broke out. 
 Bhavya dreams about *studying (to study)* in Harvard University.
-Tired after work, my mother didn't like *cooking (to cook)* her dinner.
-Few people could afford *to buy (buying)* a house as big as that.
-Arun admitted *leaving (to leave)* the last question unanswered.
+Tired after work, my mother didn't like *cooking (cook)* her dinner.
+Few people could afford *to buy (buy)* a house as big as that.
+Arun admitted *leaving (leave)* the last question unanswered.
 ```
 
 ```
-Uncle Ravi has promised *to take (taking)* us to the park this weekend.
-Mahesh recommended *writing (to write)* down my feelings on a paper.
-Richa said she needed *to borrow (borrowing)* some money from Deepthi.
-Mrs. Naidu didn't like *making (to make)* promises that she knew she couldn't keep. 
-After a long research, Sam decided *to take (taking)* the online test.
+My mom has promised *to take (take)* us to the park this weekend.
+Mahesh recommended *writing (write)* down my own notes.
+Richa said she needed *to borrow (borrow)* some money from Deepthi.
+Mrs. Naidu didn't like *making (make)* promises that she knew she couldn't keep. 
+Sam decided *to take (take)* the test online.
 ```
 
 ```
-I can't stand *waiting (to wait)* in queues.
-Jatin likes *working (to work)* in Canada.
+I can't stand *waiting (wait)* in queues.
+Jatin likes *working (work)* in Canada.
 I forgot *to buy (buying)* milk. 
-Taman gave up *smoking (to smoke)* years ago.
-My cousin offered *to take (taking)* us to airport.
+Taman gave up *smoking (smoke)* years ago.
+My cousin offered *to take (take)* us to airport.
 ```
 
 ```
-Tanvi refused *to help (helping)* clean up after the party.
-Everybody really enjoyed *dancing (to dance)* the cha-cha-cha.
+Tanvi refused *to help (help)* in completion of the project.
+Everybody really enjoyed *dancing (dance)* to Bollywood beats.
 Manish admitted *eating (to eat)* my chocolate cake.
-My mother demanded *to see (seeing)* the hotel manager.
-I tried *to understand (understanding)* but I just couldn't.
+My mother demanded *to see (see)* the hotel manager.
+I tried *to understand (understand)* but I just couldn't.
 ```
-
-
 
 
 References: 
