@@ -32,7 +32,7 @@ Drag the correct option to each blank. (title)
 ```
 I *cannot* go to the party.
 She *may not* be able to come.
-We *cannot* dance without the teachre's permission.
+We *cannot* dance without the teacher's permission.
 Books *may not* be available at the store.
 ```
 
