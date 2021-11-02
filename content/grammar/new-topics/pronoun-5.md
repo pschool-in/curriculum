@@ -50,12 +50,12 @@ To whom, should I address this letter?
 Click on the blank and fill in the correct interrogative pronoun.
 
 ```
-*Why(what) is the flight late?
-*Who(when) left the door open?
+*Why(what)* is the flight late?
+*Who(when)* left the door open?
 *Why(what)* are you sad?
-*What(which) is your brother's name?
-*Which(whom) car is yours?
-*Who(when) is the new student in the class?
+*What(which)* is your brother's name?
+*Which(whom)* car is yours?
+*Who(when)* is the new student in the class?
 *What(when)*do you like wear tomorrow?
 *Which (what)* one of these burgers is made of meat?
 *To whom(who)* was the song dedicated?
@@ -68,7 +68,7 @@ Identify whether the underlined word is a noun or a pronoun.
 ```
 Noun
 *Sita* runs fast.
-*Tigers have stripes.
+*Tigers* have stripes.
 These *flowers* are beautiful.
 Who likes *apples*?
 
@@ -102,15 +102,27 @@ The lipstick is hers.
 Click on the blank and fill in the right pronoun.
 
 ```
-*Her(his) name is Sita.
-*You (they) are my best friend.
+*Her(his)* name is Sita.
+*You (they)* are my best friend.
 This pen is *mine(theirs)*.
 *They(it)* are making a snowman.
-*He (they) sings beautifully.
+*He (they)* sings beautifully.
 I folded my clothes by *myself(themselves)*.
 *Who(what)* is the new teacher?
 *Which(who)* is your favourite food?
 ```
+
+References: 
+
+https://grammar.collinsdictionary.com/easy-learning/interrogative-pronouns
+
+https://www.k5learning.com/free-preschool-kindergarten-worksheets/question-words/interrogative-words
+
+https://www.k12reader.com/worksheet/interrogative-pronouns/view/
+
+https://educationwithfun.com/course/view.php?id=27&section=10
+
+
 
 
 
