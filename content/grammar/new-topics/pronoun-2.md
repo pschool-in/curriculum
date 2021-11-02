@@ -55,18 +55,18 @@ Fill in the blanks with *I* and *me* to make a complete sentence.
 
 ```
 *I(me)* went to library. 
-*I (me)* really want that ice-cream. 
+*I(me)* really want that ice-cream. 
 You and *I(me)* are good friends.
 Is that present for *me(I)*?
 Will you play with *me(I)* tomorrow?
 ```
 
 ```
-Can *I(me) have a chocolate?
+Can *I(me)* have a chocolate?
 Everybody is happy for *me(I)*.
 Will you help *me(I)* with my homework. 
 Dad dropped *me(I)* to school today.
-*I (me)* bought a new dress. 
+*I(me)* bought a new dress. 
 ```
 
 ## We and Us ( fill up with options) 
@@ -84,7 +84,7 @@ The dog is barking at *us(we)*.
 ```
 Mother cooked biryani for *us(we)*.
 *We(us)* will go shopping tomorrow.
-*We (us)* are riding our bicycles.
+*We(us)* are riding our bicycles.
 Let *us(we)* go to a museum tomorrow. 
 He taught *us(we)*.
 ```
