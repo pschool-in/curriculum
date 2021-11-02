@@ -49,9 +49,9 @@ Click on the blank and choose *a* or *an* before the following naming words
 ```
 *a(an)* ballon
 *an(a)* ant
-*an(a) aeroplane
+*an(a)* aeroplane
 *a(an)* mat
-*an(a) engine
+*an(a)* engine
 ```
 
 ```
@@ -83,7 +83,7 @@ Click on the blank and choose *a* or *an* before the following naming words
 *a (an)* pony tail
 *an (a)* apple
 *a (an)* pencil
-*an (a) elastic
+*an (a)* elastic
 ```
 
 
@@ -100,7 +100,7 @@ an *accident(ring)*
 ```
 
 ```
-a *lion (elephant)*
+a *lion(elephant)*
 an *hour(clock)*
 an *honest man(bad man)*
 a *car(owl)*
@@ -109,7 +109,7 @@ a *cherry(apple)*
 
 ```
 an *Eagle (crow)*
-an *honour(dishonour)
+an *honour(dishonour)*
 an *apron(coat)*
 a *lamp (inkpot)*
 an *egg (hen)*
@@ -118,7 +118,7 @@ an *egg (hen)*
 
 ## Fill in the blanks (with options)
 
-Click on the blank and choose the correct article in the sentence
+Click on the blank and choose the correct article in the sentence.
 
 ```
 There is *a(an)* dog in the backyard.
@@ -147,16 +147,16 @@ She has written *a (an)* story.
 ```
 Rakesh's father is *a (an)* lawyer.
 This is *a (an)* ball.
-I saw *an (a) old carpet.
+I saw *an (a)* old carpet.
 We have *a (an)* red car.
-Saanvi is *an(a) honest girl.
+Saanvi is *an(a)* honest girl.
 ```
 
 ```
 There is *a (an)* beehive.
-Pass me *an(a) apple.
+Pass me *an(a)* apple.
 Mohan has *a (an)* bike.
-Ritu is *an (a) Indian.
+Ritu is *an (a)* Indian.
 Krishna wants *an(a)* orange.
 ```
 
