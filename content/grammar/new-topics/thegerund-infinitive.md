@@ -90,7 +90,7 @@ Dentists recommend *cleaning* teeth twice a day.
 He was so noisy, I asked him to stop *talking*.
 ```
 
-## Fill up (Darg and drop activity) 
+## Fill up (Drag and drop activity) 
 
 Complete each sentence using an appropriate gerund
 
