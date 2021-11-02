@@ -241,7 +241,7 @@ stove| चूल्हा
 fork| कांटा
 knife| छुरी
 pan| कड़ाही
-spoon
+spoon | चम्मच 
 pot| मटका
 butter| मक्खन
 ```
