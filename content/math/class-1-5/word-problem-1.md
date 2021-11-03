@@ -31,6 +31,15 @@ You have 10 marbles and your brother has 6 marbles. How many total marbles do yo
 Rina has 3 science books, 4 mathematics books and 6 science books. Total number of books Rina has? | 13
 A cricket team has 5 bowlers, 5 batsmen and 1 wicket keeper. What is the total number of players the team has? | 11
 ```
+### Word Problems for (10-20) Subtraction  - Class 1
+```
+You have ₹15 with you. You bought one chocolate for ₹5. How much money is left with you now? | ₹10
+A water bottle which can contain 20 litres of water. If you fill 2 bottles of 1 litres each for the water bottle, how much water is left in the water bottle? | 18
+Jack has a stick 13 feet long. He broke it to get a 2 feet long stick. What is the length of the remaining stick? | 11
+Aina collected 20 marbles. She has given 4 marbles to her friends. How many are left with her? | 16
+A squirrel had 15 nuts. The squirrel  ate 12 of them already. How many are left? | 3
+```
+
 
 
  
