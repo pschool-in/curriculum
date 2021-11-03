@@ -1,16 +1,16 @@
 # Pronoun 
 
 ## Objectives
-1. To understand reflexive pronoun and its usage.
+1. To understand reflexive pronouns and their usage.
 2. To be able to identify reflexive pronouns in the sentence.
 
 ### Reading Notes
 
-The words ending in *-self*(singular) and *-selves* (plural) that are used when the subject and the object of the sentence are same are called *reflexive pronouns*. They tells us the *doer* and the *receiver* of the action is the same person. 
+The words ending in *-self*(singular) and *-selves* (plural) that are used when the subject and the object of the sentence are the same are called *reflexive pronouns*. They tell us the *doer* and the *receiver* of the action is the same person. 
 
-In simple terms reflexive pronouns tell us that someone is doing something on his/her own. 
+In simple terms, reflexive pronouns tell us that someone is doing something on his/her own. 
 
-Here in this sentence - she(doer) made herself(receiver) a cup of tea, the reflexive pronoun *herself* refers back to *she*. That means a person who does the action and recieves it are the same. 
+Here in this sentence - she(doer) made herself(receiver) a cup of tea, the reflexive pronoun *herself* refers back to *she*. That means a person who does the action and receives it is the same. 
 
 Examples of reflexive pronouns in singular and plural forms are: 
 
@@ -23,7 +23,7 @@ Sentence based examples of reflexive pronouns:
 1. She bought *herself* a new dress.
 2. They are doing the homework by *themselves*.
 3. Don't hurt *yourselves* while playing.
-4. Rekha cleaned her romm by *herself*.
+4. Rekha cleaned her room by *herself*.
 5. He went to the market by*himself*.
 
 
@@ -70,7 +70,7 @@ I introduced *myself* to my neighbours.
 ```
 
 ```
-My sister dressed *herslef* without any help. 
+My sister dressed *herself* without any help. 
 Amit hurt *himself* while playing.
 Meena and Mahesh did the project all by *themselves*.
 She went to the park by *herself*.
@@ -82,7 +82,7 @@ I cannot do it by *myself*.
 Rudra can paint the picture *himself* because he is good at painting.
 Suhaani, did you make the kheer *yourself*?
 Manisha made a video about gardening *herself*.
-We enjoyed *ourselves* very much in the party.
+We enjoyed *ourselves* very much at the party.
 ```
 
 
@@ -92,7 +92,7 @@ Click on the blanks and choose the correct reflexive pronoun.
 
 
 ```
-She never talks about *herslef(itself)*. 
+She never talks about *herself(itself)*. 
 He did all the paintings by *himself(themselves)*.
 The dog hurt *itself(himself)*. 
 Shaanvi sang quietly to *herself(itself)*.
@@ -100,16 +100,16 @@ Shiva hurt *himself(ourselves)* while climbing the ladder.
 ```
 
 ```
-The children did the drawing by *themselves(ourselves)*.
+The children drew by *themselves(ourselves)*.
 I repaired my car *myself(itself)*.
 I planted the roses *myself(herself)*.
 He made the breakfast *himself(themselves)*.
-Aditya and Teja are able to take care of *themselves(ourselves)*.
+Aditya and Teja can take care of *themselves(ourselves)*.
 ```
 
 ## True or False 
 
-Identify whether the sentence is having the correct reflexive pronoun.
+Identify whether the sentence has the correct reflexive pronoun.
 
 ```
 True: 
@@ -117,8 +117,8 @@ Why don't you cut your nails yourself?
 Look at yourself in the mirror.
 Pooja and Indu! Please behave yourselves.
 False: 
-Grandma cut  himself.
-Why don't you clean the balcony ourself.
+Grandma cut himself.
+Why don't you clean the balcony ourself?
 ```
 
 ## Drag and Drop 
@@ -136,7 +136,7 @@ I made this cake *myself*!
 ```
 The children ate their snacks by *themselves*.
 I drove the car *myself*.
-We made chocolate cookies *ourseleves*.
+We made chocolate cookies *ourselves*.
 Lohit finished the project by *himself*.
 The dog let *itself* into our room.
 ```
