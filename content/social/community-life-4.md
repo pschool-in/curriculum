@@ -1,6 +1,6 @@
 # Objectives
 
-1. Muncipality and coperations
+1. Municipality and coporations
 
 # Grade-4
 
@@ -8,8 +8,8 @@
 ## Municipalities and Corporation
 Municipality is a form of local government in a small town where 50,000 to 1,00,000 people live. This is divided into several wards. The head of the municipality is called the President. The President and the members of the Municipalities are elected by the people directly. The tenure of the members is five years. One of the members of the municipality is selected as Vice-president.
 The following also comes under Municipalities:
-1.	Town ships
-2.	 Cantonment Boards 
+1.	Townships
+2.	Cantonment Boards 
 3.	Notified area committee.
 
 ### Duties of Municipality
