@@ -25,7 +25,7 @@ a municipal corporation.
 ### Public Services
 Public services are provided to us out of the money collected from us as taxes. We must use them carefully. The local government provides the services of water supply and public hygiene. The postal service is useful for keeping in touch with our friends and relatives. Letters can be sent to any part of the world.
 
-### Co - Operatives
+### Co-Operatives
 The people in a locality sometimes come together and find out what the local needs are. Based on their findings, they decide to start an industry or service in co-operation with one other. They contribute some of their own money to start that industry or service. The profits are distributed among everyone. Institutions formed by people’s cooperation are called co-operatives.
 
 ## Fill in the blanks (by options)
@@ -81,10 +81,10 @@ cooperatives, municipal cooperation, local government
 Ours is a vast country. It has towns and villages. Therefore, many panchayats must exist. Village Panchayat is the root of the Panchayat Raj system. It provides the basic facilities for the village people. The 73rd Constitutional Amendment Act was passed by the Parliament in April 1993. The Amendment‛s salient feature is the three-tier system of Panchayat Raj. Panchayats have been set up in every village with 500 people and above.
 
 ### Members 
-There is a President (head of the Panchayat) and a Vice President along with ward members (6-15). Village people select the president and members through the election. There is one electing every five years.
+There is a President (head of the Panchayat) and a Vice President along with ward members (6-15). Village people select the president and members through the election. There is one election every five years.
 
 ### Duties 
-The duties of the Panchayat are:
+The duties of the panchayat are:
 1. Providing electricity and maintaining the street lights.
 2. Construction and maintenance of village wells.
 3. Providing drinking water.
@@ -166,8 +166,8 @@ Street lights, obligatory function
 Gram Sabha, development of plan
 ```
 
-## Chapter: tn-3-2-social: District Administation
-## District Administation - Reading
+## Chapter: tn-3-2-social: District Administration
+## District Administration - Reading
 ### District Collector
 The district collector is the Administrative head of a district. District Collector is responsible for the proper and smooth functioning of the district. I.A.S. officers are recruited by U.P.S.C (Union Public Service Commission). Some I.A.S. officers are appointed as district collectors.
 District Collector is the head of the revenue department. 
@@ -190,8 +190,8 @@ Superintendent of Police: Superintendent is responsible for the police force in 
 
 ## Fill in the Blanks (drag and drop)
 ```
-The district collector is the *Administrative* head of the district.
-The district collector is responsible for the proper and smooth functioning of the *district*.
+The District collector is the *Administrative* head of the district.
+The District collector is responsible for the proper and smooth functioning of the *district*.
 The District administration system is constituted of different departments of the district such as the police department, *medical* department, forest department, and educational department.
 District collector seeks assistance from the *police force* to maintain law and order in the district.
 Prompt actions during a natural disaster are taken by the *district collector*.
@@ -216,7 +216,7 @@ What does the police department maintain?
 Law and order, Health, Forest 
 
 Who ensures the proper functioning of the educational department in a district?
-Chief Educational Officer, Forest Officer, Forest Officer
+Chief Educational Officer, Forest Officer, Police Officer
 
 Who advises on the sanitation of the district?
 Health Officer, Forest Officer, Revenue Officer
