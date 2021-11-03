@@ -15,4 +15,13 @@ There are 8 Pencils in a packet. Teacher distributed 6 pencils to the students. 
 Jane’s school is 5 KMs away from her home. She goes to school by cycle. One day after cycling 3 KMs towards school, her cycle got punctured. How many KMs does she need to walk to reach school? | 2
 Riya has 7 toys with her. She has 3 friends. She has gifted 1 toy each to her 3 friends. How many toys are left with Riya now? | 4 
 ```
+### Word Problems for (1-9) miscellaneous  - Class 1
+```
+There are 3 wickets on each side of the cricket pitch. If 1 wicket is broken while playing, how many are left in good condition? | 5
+You have 10 bananas with you. You gave 2 to your brother and 2 to your friend. How many are left with you now? | 6
+You have filled 6 bottles of 1 litres with water. By mistake one bottle of water has fallen down. How much total water (in litre) is left? | 5
+Priya has ₹1 , ₹2 and ₹5 each. How much total money in ₹ Priya has with her? | 8
+Gopal took his 4 cows for grazing. Each cow eats 2 baskets of grass. How many baskets of grass are required to feed all the cows? | 8
+```
+
  
