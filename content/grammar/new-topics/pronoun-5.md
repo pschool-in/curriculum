@@ -5,9 +5,9 @@ To understand the interrogative pronouns and also to identify them in the text.
 
 ### Reading Notes: 
 
-We know that pronouns are the words used to replace one or more nouns. Apart from Personal, Possessive, Demonstrative and reflexive pronouns, we have an other type of pronoun called interrogative pronoun.
+We know that pronouns are the words used to replace one or more nouns. Apart from Personal, Possessive, Demonstrative and reflexive pronouns, we have another type of pronoun called interrogative pronoun.
 
-These are used to ask questions. The sentences with interrogative pronouns always end up with question mark. There are five different types of Interrogative pronouns:
+These are used to ask questions. The sentences with interrogative pronouns always end up with question marks. There are five different types of Interrogative pronouns:
 
 1. What
 2. Which
@@ -41,7 +41,7 @@ Draw a line from the interrogative pronoun to complete the question.
 What, time is it?
 Who, did this?
 Whose, book is this?
-Which, car is your's?
+Which, car is yours?
 To whom, should I address this letter?
 ```
 
@@ -56,7 +56,7 @@ Click on the blank and fill in the correct interrogative pronoun.
 *What(which)* is your brother's name?
 *Which(whom)* car is yours?
 *Who(when)* is the new student in the class?
-*What(when)*do you like wear tomorrow?
+*What(when)*do you like to wear tomorrow?
 *Which (what)* one of these burgers is made of meat?
 *To whom(who)* was the song dedicated?
 ```
@@ -73,8 +73,8 @@ These *flowers* are beautiful.
 Who likes *apples*?
 
 Pronoun
-I learnt French by *myself*.
-Can *I* have an ice-cream?
+I learned French by *myself*.
+Can *I* have an ice cream?
 Will you help *me* with my homework.
 *We* will go shopping tomorrow.
 ```
