@@ -23,5 +23,14 @@ You have filled 6 bottles of 1 litres with water. By mistake one bottle of water
 Priya has ₹1 , ₹2 and ₹5 each. How much total money in ₹ Priya has with her? | 8
 Gopal took his 4 cows for grazing. Each cow eats 2 baskets of grass. How many baskets of grass are required to feed all the cows? | 8
 ```
+### Word Problems for (10-20) addition  - Class 1
+```
+Ram has 4 mangoes and Sita has 7 mangoes. How many mangoes do they have together? | 11
+John’s home to office distance is 10 KMs away. How many KMs John travels (in KM) each day to go to the office and come back? | 20
+You have 10 marbles and your brother has 6 marbles. How many total marbles do you both have together? | 16
+Rina has 3 science books, 4 mathematics books and 6 science books. Total number of books Rina has? | 13
+A cricket team has 5 bowlers, 5 batsmen and 1 wicket keeper. What is the total number of players the team has? | 11
+```
+
 
  
