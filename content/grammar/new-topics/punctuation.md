@@ -18,11 +18,11 @@ It is used to show strong feelings of joy, sadness, confusion, surprise, etc. Th
 
 Choose the correct punctuation. Tap on each blank for options. (title)
 ```
-Should I get the umbrella *?, ., !*
-Yikes *!, ., ?* I hear thunder.
-We should go inside *., !, ?*
-Quick, call the dog *!, ., ?*
-Have you written your homework *?, ., !*
+Should I get the umbrella *? (., !)*
+Yikes *! (., ?)* I hear thunder.
+We should go inside *. (!, ?)*
+Quick, call the dog *! (., ?)*
+Have you written your homework *? (., !)*
 ```
 
 #### Drag and drop (label)
@@ -67,11 +67,11 @@ We also use period in front of abbreviations. For example,
 
 Choose the correct punctuation. Tap on each blank for options. (title)
 ```
-Mr. Mac is a firefighter *., !, ?*
-How many balls are there *?, !, .*
-I am 10 years old *., !, ?*
-What a beautiful day *!, ., ?*
-My home is outside the city *., ?, !*
+Mr. Mac is a firefighter *. (!, ?)*
+How many balls are there *? (!, .)*
+I am 10 years old *. (!, ?)*
+What a beautiful day *! (., ?)*
+My home is outside the city *. (?, !)*
 ```
 
 #### True or False  (classify the sentence) (label)
@@ -187,11 +187,11 @@ We also put commas in between the series of words. For example:
 
 Choose the correct punctuation. Tap on each blank for options. (title)
 ```
-I have my exams from November *,, ., ?* 21.
-He likes cricket, kho-kho and hockey *., ,, ?*.
-January 31 *,, ., ?* 2024.
-May i come in *?, ., ,,*
-She carries lunch *,, ., ?* bottle and bag to school.
+I have my exams from November *, (., ?)* 21.
+He likes cricket, kho-kho and hockey *. (,, ?)*.
+January 31 *, (., ?)* 2024.
+May i come in *? (., ,)*
+She carries lunch *, (., ?)* bottle and bag to school.
 ```
 
 #### True or False  (classify the sentence) (label)
@@ -220,11 +220,11 @@ We put a question mark at the end of a sentence that asks a question. For exampl
 
 Choose the correct punctuation. Tap on each blank for options. (title)
 ```
-What is this *?, ., !*
-What a pleasant day *!, ?, .*
-How many books do you have *?, ., !*
-I am an obedient child *., !, ?*
-Why is the sky blue *?, ., !*
+What is this *? (., !)*
+What a pleasant day *! (?, .)*
+How many books do you have *? (., !)*
+I am an obedient child *. (!, ?)*
+Why is the sky blue *? (., !)*
 ```
 
 #### True or False  (classify the sentence) (label)
