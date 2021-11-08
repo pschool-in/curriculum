@@ -6,7 +6,7 @@ To be able to understand and use adverb of manners.
 
 ## Adverb of Manners
 
-We know that adverbs tell us about the verb, adjective or another adverb. Adverb of manner tells us how an action is done. In simple words, it answers the question 'how'. These adverbs generally end with '-ly'. Some examples are:
+We know that adverbs tell us about the verb, adjective or another adverb. Adverbs of manner tells us how an action is done. In simple words, it answers the question 'how'. These adverbs generally end with '-ly'. Some examples are:
 1. The turtle moves *slowly*.
 2. The dog runs *quickly*.
 3. The girl walked *smartly*.
@@ -29,7 +29,7 @@ Some more examples of adverb of manners are:
 
 #### Drag and Drop
 
-Identify which ones are adverb of manner and which ones are adjectives. (title)
+Identify which are adverbs of manner and which are adjectives. (title)
 ```
 Adjective:
 Quick, Polite, Careful, Hard
