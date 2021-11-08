@@ -107,7 +107,7 @@ Studying and *completing* the assignment made Tarun tired and hungry.
 I suggested *discussing* the matter in the next meeting.
 Mrs.Sharma is keen on *setting* up a restaurant nearby her place.
 Before *leaving*, Mrs.Reddy said goodbye to each of us.
-Not only *living in the city is hectic, but it is expensive too. 
+Not only *living* in the city is hectic, but it is expensive too. 
 ```
 
 ## Gerund or infinitive (fill up with options) 
