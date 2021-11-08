@@ -1,6 +1,8 @@
 # Objectives
-To identify different features of living and non-living things
-To understand the basic needs of living things
+
+1. To identify different features of living and non-living things
+2. To understand the basic needs of living things
+
 # Grade - 1
 ## Living things - Reading
 ### Living and Non-living things.
