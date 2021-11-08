@@ -6,7 +6,7 @@ To understand what is alliteration and how can we use it.
 
 ## Alliteration
 
-It is generally used in poetry. It is a style of writinng in which a series of words have the same consonant sound. Some examples of alliteration are;
+It is generally used in poetry. It is a style of writing in which a series of words have the same consonant sound. Some examples of alliteration are;
 1. The boy bounced the ball in the basket.
 ("boy bounced the ball" is alliteration)
 2. A big brown bear bumped into our boxes.
@@ -51,7 +51,7 @@ How many feet of *fruit* did freaky Fred find?
 Classify these sentences as true or false. (title)
 ```
 True:
-Alliteration is a peotic technique.
+Alliteration is a poetic technique.
 Alliteration has a series of same sound words.
 
 False:
@@ -64,8 +64,8 @@ Alliteration is a series of vowels.
 Identify if these sentences have alliteration or not. (title)
 ```
 Yes:
-The sherif put his shiny star-shaped batch.
-I sometimes hear shounds of someone saying something.
+The sheriff put his shiny star-shaped batch.
+I sometimes hear sounds of someone saying something.
 
 No:
 I cleaned my room because my mom asked me to.
@@ -109,17 +109,17 @@ Select the alliteration in the sentences. (title)
 ```
 *My mother makes marvelous melon* cakes.
 *Four friends finshed* their homework.
-*Betty bough butter* from the market.
-The *cat climbed carefully* but still fell downn.
+*Betty bought butter* from the market.
+The *cat climbed carefully* but still fell down.
 *Sakshi stopped staring* when someone called her name.
 ```
 
 Select the alliteration in the sentences. (title)
 ```
-*Dani's dogs drank* from the pot.
-Vidhi saw a *jellyfish jiggle*.
+*Dani's dog drank* from the pot.
+Vidhi saw a *jellyfish jiggle.*
 The *audience applauded* at the end of the play.
-We love *Abhay's aunt's apples*.
+We love *Abhay's aunt's apples.*
 *Falguni's friends fed* the street dogs.
 ```
 
