@@ -1,12 +1,12 @@
 # Objective
 
-To understant what adverb of degrees are and how to use them.
+To understand what adverb of degrees are and how to use them.
 
 # Grade-4
 
 ## Adverb of degree
 
-Adverb of degree basically tell us to what extent the action has been done. In simple words, it asnwers the question 'how much?' For example:
+Adverb of degree tells us to what extent the action has been done. In simple words, it answers the question 'how much?' For example:
 The girl was *very* beautiful.
 In this sentence, the word very tells us how much beautiful is the girl.
 
@@ -21,17 +21,17 @@ There are three types of adverb of degrees:
 1. Positive
 
 "The toy plane is *big*."
-This sentence talks about the toy plane. Here, the toy plane is not compared to anything else. Therefore, *big* is a positive degree of comparision.
+This sentence talks about the toy plane. Here, the toy plane is not compared to anything else. Therefore, *big* is a positive degree of comparison.
 
 2. Comparative
 
 "The doll is *bigger* than the plane."
-In this sentence, the doll is compared to a plane. Therefore, *faster* is the comparative degree of comparision.
+In this sentence, the doll is compared to a plane. Therefore, *faster* is the comparative degree of comparison.
 
 3. Superlative
 
 "The teddy bear is the *biggest* of all."
-In this sentence, the teddy bear, doll and toy plane are compared with each other. Teddy bear is superior to all. Therefore, *biggest* is the superlative degree of comparision.
+In this sentence, the teddy bear, doll and toy plane are compared with each other. Teddy bear is superior to all. Therefore, *biggest* is the superlative degree of comparison.
 
 ### Activities
 
@@ -65,11 +65,11 @@ Best, Prettiest, Bravest
 State whether the following statements are true or false. (title)
 ```
 True:
-Superlative degree of adverb shows superiority of an object.
-Comparative degree talks about comparision between two words.
+Superlative degree of adverb shows the superiority of an object.
+Comparative degree talks about comparison between two words.
 
 False:
-Positive degree talks about positive qualities only.
+A positive degree talks about positive qualities only.
 All the adverbs of degree are no different.
 ```
 
