@@ -39,6 +39,14 @@ Jack has a stick 13 feet long. He broke it to get a 2 feet long stick. What is t
 Aina collected 20 marbles. She has given 4 marbles to her friends. How many are left with her? | 16
 A squirrel had 15 nuts. The squirrel  ate 12 of them already. How many are left? | 3
 ```
+### Word Problems for (10-20) miscellaneous  - Class 1
+```
+You had ₹10 with you. Your dad gave you another ₹10. You bought one pen of ₹7 from the money. How much money is left with you now? | 13
+Janny bought 19 kg potatoes. She used 4 kg potatoes to cook fries for her friends. How many kg of potatoes are left with Jenny now? | 15
+Sita needs to travel 15 kms to reach her school. One day she cycled 2 kms towards school then she remembered that she had left the tiffin box at home. She went back home again, took the tiffin box and reached school. How many kms she cycle that day? | 19
+Raghu loves to eat sweets. One day he ate 4 ladoos, 5 rasgullas and 10 gulab jamuns. What is the total number of sweets Raghu ate that day? | 19
+
+```
 
 
 
