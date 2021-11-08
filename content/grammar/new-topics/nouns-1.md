@@ -7,7 +7,7 @@ To learn that naming words are called nouns.
 ## Naming words
 
 Words that are used as names of person, place, thing or animal are called naming words. Another name for naming words is nouns. Some examples of nouns are:
-1. *Richa* lives with his parents.
+1. *Richa* lives with her parents.
 2. The *books* are very helpful.
 3. *Agra* is a beautiful city.
 4. *Lion* is the king of the jungle.
@@ -59,28 +59,28 @@ Mobile, Boy, Laptop, Girl, Spoon, Bowl
 Select the nouns in the below sentences. (title)
 ```
 *Neha* likes grapes.
-The *clown* gave a *balloon* to the *boy*.
-The *pear* fell off the *tree*.
-The *teacher* rings the *bell*.
-*Monkeys* swing in *trees*.
+The *clown* gave a *balloon* to the *boy.*
+The *pear* fell off the *tree.*
+The *teacher* rings the *bell.*
+*Monkeys* swing in *trees.*
 ```
 
 Select the nouns in the below sentences. (title)
 ```
 The *cat* is purring.
-The *bus* stops at the red *light*.
+The *bus* stops at the red *light.*
 These *flowers* are beautiful.
-We saw *tigers* at the *zoo*.
-The *boy* kicked the *ball*.
+We saw *tigers* at the *zoo.*
+The *boy* kicked the *ball.*
 ```
 
 Select the nouns in the below sentences. (title)
 ```
 Who likes *apples*?
-The *rabbit* hopped across the *road*.
-*Ice* floats on *water*.
-We’re having *soup* for *dinner*.
-*Lavina* brought *cake* to the *party*.
+The *rabbit* hopped across the *road.*
+*Ice* floats on *water.*
+We’re having *soup* for *dinner.*
+*Lavina* brought *cake* to the *party.*
 ```
 
 ### Wordsearch (label)
