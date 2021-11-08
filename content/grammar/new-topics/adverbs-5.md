@@ -8,8 +8,8 @@ To understand what is adverb of frequency and to be able to identify and use it 
 
 Adverb of frequency tells us;
 1. how many times an action has occurred in the past.
-2. how many times it occurs in the present.
-3. how many times it will occur in future.
+2. how many times does it occur in the present.
+3. how many times it will occur in the future.
 
 Some of the common adverbs of frequency are sometimes, usually, always, generally, seldom, rarely, often, ever, weekly, monthly, etc. Some example sentences are:
 1. Rashi *never* plays cricket.
@@ -23,7 +23,7 @@ Some of the common adverbs of frequency are sometimes, usually, always, generall
 
 Tap on the adverb of frequency in the below sentences. (title)
 ```
-*Sometimes*, they go to the school trips.
+*Sometimes*, they go on school trips.
 Ayushi is *usually* very rude.
 My grandma *often* goes for a walk in the morning.
 I *never* go outside in the afternoon.
@@ -48,7 +48,7 @@ Sheenu *usually* helps her mother in the kitchen.
 
 #### Classify (label)
 
-Identify if these words are adverb of frequency or not. (title)
+Identify if these words are adverbs of frequency or not. (title)
 ```
 Yes:
 Rarely, Weekly, Usually, Monthly
