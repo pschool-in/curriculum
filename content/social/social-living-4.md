@@ -36,7 +36,7 @@ Friendly and harmonious relations make for joyful community life.
 ```
 The *number* of people in a family does not remain the same.
 As we migrate, we see the *diversity* in our country. 
-Just as our family changes, so do the other families in our * neighborhood*.
+Just as our family changes, so do the other families in our *neighborhood*.
 Because of the help we offer each other, our relations with our neighbors become *friendly*. 
 Friendly and harmonious relations make for joyful *community life*.
 ```
@@ -103,16 +103,13 @@ We all either live with or are related to old people. They love us and pamper us
 Grandparents are often at home all day. Their only pastime is talking to their children and grandchildren. They are curious about what their grandchildren do at school all day. They have great affection for us. They feel happy when we speak to them lovingly.
 
 ### Special needs people
-Some people have physical handicaps because of illnesses or accidents or, they may be born with them. They suffer many inconveniences and much discomfort in public places. That is why they require special services and assistance.
+Some people are physically disabled because of illnesses or accidents or, they may be born with them. They suffer many inconveniences and much discomfort in public places. That is why they require special services and assistance.
 
-Blind people can walk about in public places freely with the help of the
-white cane. In some buildings, the floor numbers on lifts are written in Braille. That helps a blind person to go to any floor they wish without help. A blind person can also vote secretly like other citizens because of Braille signs on voting machines.
+Blind people can walk about in public places freely with the help of the white cane. In some buildings, the floor numbers on lifts are written in Braille. That helps a blind person to go to any floor they wish without help. A blind person can also vote secretly like other citizens because of Braille signs on voting machines.
 
-In schools, universities and some other buildings, you may have seen a
-concrete slope next to the stairs. This slope is called a ramp. The ramp makes it possible for people in wheelchairs to enter the building. Some buildings also have special toilets for people in wheelchairs. These facilities exist so that people with special needs can live their daily
-lives easily. However, these facilities are not available everywhere. We must treat people with special needs with care, whether these facilities exist in public places or not.
+In schools, universities and some other buildings, you may have seen aconcrete slope next to the stairs. This slope is called a ramp. The ramp makes it possible for people in wheelchairs to enter the building. Some buildings also have special toilets for people in wheelchairs. These facilities exist so that people with special needs can live their daily lives easily. However, these facilities are not available everywhere. We must treat people with special needs with care, whether these facilities exist in public places or not.
 
-Blind people can read and write by using their sense of touch. This system of writing is called Braille. Braille characters make use of raised dots created on paper. Each character has a fixed number and arrangement of dots. A blind person can read the paper by feeling these raised dots. However, all of the books written in the ordinary script are not available in Braille. Blind persons can listen to the stories if they are readout.
+Blind people can read and write by using their sense of touch. This system of writing is called Braille. Braille characters make use of raised dots created on paper. Each character has a fixed number and arrangement of dots. A blind person can read the paper by feeling these raised dots. However, all of the books written in the ordinary script are not available in Braille. Blind persons can listen to the stories if they are read out.
 
 People who cannot hear use sign language. They are also taught how to lip-read to follow what other people are saying. They can follow other people’s speech if they speak slowly and clearly. Special signed news programs are broadcast on television for people who cannot hear.
 
@@ -138,7 +135,7 @@ We must treat old people, patients and those with special needs with care and re
 If we are sensitive, our capacity to help others increases.
 
 False:
-Braile is used by those who can not hear.
+Braille is used by those who can not hear.
 People who can not see use sign language.
 ```
 
@@ -197,9 +194,8 @@ To do any kind of work smoothly, some management is required. The first step in 
 6. If you have free time, put it to good use by studying.
 7. Fix a particular time for playing, watching TV and resting. However, remember to spend only that much time on those activities.
 
-### School Management Committe
-To make sure that the school is run smoothly, a ‘School Management Committee’ is formed. The School Management Committee consists of parents, teachers, local experts and student representatives. The Committee tries to understand the difficulties of parents, students and teachers. It gives guidance to solve these difficulties. It prepares and recommends a school development plan. It keeps an eye on the regular attendance of students and teachers in the school. It helps in carrying out schemes such as the mid-day meal. In this way, teachers and parents work together through the School Management Committee to ensure
-the round development of the students.
+### School Management Committee
+To make sure that the school is run smoothly, a ‘School Management Committee’ is formed. The School Management Committee consists of parents, teachers, local experts and student representatives. The Committee tries to understand the difficulties of parents, students and teachers. It gives guidance to solve these difficulties. It prepares and recommends a school development plan. It keeps an eye on the regular attendance of students and teachers in the school. It helps in carrying out schemes such as the mid-day meal. In this way, teachers and parents work together through the School Management Committee to ensure the all round development of the students.
 
 ## Fill in the Blanks (drag and drop)
 ```
