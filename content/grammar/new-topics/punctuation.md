@@ -103,8 +103,8 @@ Choose the correct option. Tap on each blank for options. (title)
 ```
 My name is *Reena (reena)*.
 I am 15 years *old (Old)*.
-*Mrs. (mrs.) Sharma is a kind *lady (Lady).
-Ram is a very *smart (Smart) boy.
+*Mrs. (mrs.)* Sharma is a kind *lady (Lady)*.
+Ram is a very *smart (Smart)* boy.
 She lives in *Delhi (delhi)*.
 ```
 
