@@ -33,7 +33,7 @@ Identify these positive and negative describing words. (title)
 ```
 Positive: Happy, Perfect, Wise, Wonderful
 
-Negative: Cruel, Lousy, Boring, Clingy
+Negative: Cruel, Sad, Boring, Dull
 ```
 
 Identify these positive and negative describing words. (title)
