@@ -60,15 +60,15 @@ Select the concrete noun in the below sentences. (title)
 The *melody* is wonderful.
 You can have some *pie* after dinner.
 The loud *noise* made mom upset.
-You need good *friends*.
-Seema felt love for her new *dog*.
+You need good *friends.*
+Seema felt love for her new *dog.*
 ```
 
 ```
-Curiosity killed the *cat*.
+Curiosity killed the *cat.*
 A *dove* is a symbol of peace.
-Owning two *cars* is a luxury..
-Your story needs more *excitement*.
+Owning two *cars* is a luxury.
+Your story needs more *excitement.*
 The math *formula* is stored in your memory.
 ```
 
