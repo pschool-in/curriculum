@@ -62,13 +62,13 @@ I *may not* be able to come to the party.
 The verbs can, could, may, might, will, would, shall, should, must and ought are called modal verbs, or simply modals. A few examples are;
 1. She can swim very well.
 2. Could I borrow your bicycle?
-3. I will go to my gramdma's place tomorrow.
+3. I will go to my grandma's place tomorrow.
 4. Would you like to read my speech?
 5. When shall we see you again?
 6. We should respect our elders.
 7. We must wake up early.
 8. She might like the new play.
-9. This book ought to be very useful
+9. This book ought to be very useful.
 
 ### Activities
 
