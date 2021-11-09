@@ -11,25 +11,25 @@ Articles are of two types – the definite article (the) and the indefinite arti
 
 Indefinite articles: 
 
-The indefinite articles *a/an* are generally used to mention some person or thing. 
+The indefinite articles "a/an" are generally used to mention some person or thing. 
 
 These articles do not specify a particular person or a thing.
 
-A and An are used to introduce noun words or naming words and are also used to mention singular countable nouns.  
+"A" and "An" are used to introduce noun words or naming words and are also used to mention singular countable nouns.  
 
-*a* is used before singular nouns beginning with consonant sounds.
+"a" is used before singular nouns beginning with consonant sounds.
 
-*an* is used before singular nouns beginning with vowel sounds.
+"an" is used before singular nouns beginning with vowel sounds.
 
-Definite artilce: 
+Definite article: 
 
-We use definite article *the* when we are talking about specific person or a thing. 
+We use definite article "the" when we are talking about a specific person or a thing. 
 
-*the* is used for countable and uncountable nouns/singular and plural nouns.
+"the" is used for countable and uncountable nouns/singular and plural nouns.
 
-Zero article: 
+Zero articles: 
 
-In some situations we do not use any articles at all, such situation is called as *zero article*.  
+In some situations we do not use any articles at all, such a situation is called a "zero article".  
 
 When we are talking about something in general or when we mention a city or country, we do not use articles. 
 
@@ -37,7 +37,7 @@ When we are talking about something in general or when we mention a city or coun
 
 ## Correct Article (fill up)
 
-Write the correct article before each naming words or noun.
+Write the correct article before each naming word or noun.
 
 ```
 *an (a)* apple
