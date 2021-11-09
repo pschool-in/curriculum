@@ -142,8 +142,8 @@ spotted *a (the, an)* bunch of grapes hanging from over *a (an, the)* lofty bran
 “Just *the (a, an)* right thing to quench my thirst,” he thought.
 Taking a few steps back, *the (a, an)* fox jumped and just missed *the (a, an)* hanging grapes. 
 Again *the (a, an)* fox took a few paces back and tried to reach them but still failed.
-After *an (a, the)* hour finally *the (a, an)* fox gave up
-and turned up his nose and said, “They’re probably sour anyway,” and walked away.
+After *an (a, the)* hour finally *the (a, an)* fox gave up and
+turned up his nose and said, “They’re probably sour anyway,” and walked away.
 ```
 
 ```
