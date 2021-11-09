@@ -28,6 +28,17 @@ In summer fruits grow and summer vaccation starts.
 In winter some animals move to other places in serach of warmth.
 During rain plants begin to grow and water bodies fill up.
 
+## Multiple choice questions
+```
+In which season animals move in search of warmth?
+winter, summer, spring
+
+Which season is seen in India during July to September?
+rainy, summer, winter
+
+In which season does the flowers bloom?
+spring, rain, winter
+```
 # Reference
 https://www.doe.virginia.gov/testing/sol/standards_docs/science/2010/lesson_plans/grade2/earth_patterns_cycles_changes/sess_2-7a.pdf
 
