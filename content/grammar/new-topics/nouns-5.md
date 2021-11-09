@@ -20,7 +20,7 @@ The names of all female people or animals are called feminine gender nouns. For 
 3. Neuter:
 All non-living things cannot be referred to as males or females. So, all naming words that are non-living are called neuter gender nouns. For example, book, pen, chair, table, etc.
 
-4. Commom:
+4. Common:
 The naming words that be used for both males and females are called common gender nouns. For example, child, parent, student, etc.
 
 ### Activities
