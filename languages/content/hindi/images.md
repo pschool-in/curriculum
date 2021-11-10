@@ -20,44 +20,44 @@ hippo| जलहस्ती
 rhino| गैंडा
 fox| लोमड़ी
 crocodile| मगरमच्छ
-zebra
+zebra| जेबरा
 bear| भालू
 camel| ऊंट
-shark |
+shark |हाँगर
 whale |
-dolphin
-dragonfly
+dolphin|
+dragonfly|व्याध-पतंग
 fish| मछली
 frog| मेंडक
 crab| केकड़ा
 snake| साँप
 squirrel| गिलहरी
-tortoise| कछुआ,
+tortoise| कछुआ
 ```
 
 ```
 rat| चूहा
-winged-termites |
+winged-termites| दीमक
 ant| चींटी
 fly| मक्खी
 bat| चमगादड़
 buffalo| भेंस
 butterfly| तितली
-cheetah
+cheetah| 
 cow| गाय
 donkey| गधा
 ```
 
 ```
-giraffe
-kangaroo
+giraffe|
+kangaroo| कंगेरू
 leopard| तेंदुआ
 mongoose| नेवला
 mosquito| मच्छर
-octopus
+octopus|
 wolf|भेड़िया
-cockroach
-garden-lizard
+cockroach| तिलचट्टा
+garden-lizard|  उद्यान छिपकली
 lizard| छिपकली
 rabbit| खरगोश
 ```
@@ -66,16 +66,16 @@ rabbit| खरगोश
 
 ```
 crow| कौवा
-dove
+dove| कबूतर
 duck| बतख़
 hen| मुर्गी
 parrot| तोता
 peacock| मोर
-penguin
+penguin|
 sparrow| गौरेया
-chick| चूजा
+chick| चूज़ा
 crane| सारस
-eagle| गिद्ध
+eagle| चील
 flamingo| मराल
 kingfisher| नीलकंठ
 myna| मैना
@@ -85,9 +85,9 @@ ostrich| शुतरमुर्ग
 ```
 owl| उल्लू
 rooster| मुर्गा
-vulture |
+vulture | गिद्ध
 woodpecker| कठफोड़वा
-hornbill
+hornbill| 
 ```
 
 # fruits (फल)
@@ -96,8 +96,8 @@ hornbill
 apple| सेब
 grapes| अंगूर
 banana| केला
-cherry
-avocado
+cherry|
+avocado|
 strawberry| झरबेर
 guava| अमरूद
 jackfruit| कटहल
@@ -122,7 +122,7 @@ muskmelon| खरबूज
 ```
 carrot| गाजर
 beetroot| चुकंदर
-onion| प्याज
+onion| प्याज़
 tomato| टमाटर
 potato| आलू
 cabbage| पत्तागोभी
@@ -166,8 +166,8 @@ sunflower | सूर्यमुखी
 marigold | गेंदा
 hibiscus | गुडहल
 jasmine | चमेली
-tulip
-zinnia
+tulip| 
+zinnia|
 ```
 
 # vehicles (वाहनों)
@@ -177,8 +177,8 @@ aeroplane| हवाईजहाज
 boat| नाव
 bus| बस
 car| गाड़ी
-cycle|
-helicopter|
+cycle| साइकिल
+helicopter| घिरनीदार विमान
 motorbike|
 ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
@@ -187,11 +187,11 @@ tractor| ट्रैक्टर
 ```
 train| रेलगाडी
 ambulance| रोगीवाहन
-auto|
+auto| रिक्शा
 cart| हाथगाडी
 excavator| खोदक मशीन
 fire-engine| दमकल
-lorry|
+lorry| लारी
 van|
 ```
 
@@ -208,7 +208,7 @@ baby| बच्चा
 boy| लड़का
 girl| लड़की
 man| आदमी
-woman| स्त्री
+woman| औरत 
 ball| गेंद
 coat|
 glasses| ऐनक
@@ -265,8 +265,8 @@ web-camara
 ```
 ear| कान
 eye| आँख
-foot| टांग
-hair| केश
+foot| पैर
+hair| बाल
 hand|  हाथ
 mouth| मुँह
 nose| नाक
@@ -288,13 +288,13 @@ plier| प्‍लास
 plough | हल
 saw| आरा
 spade| कुदाल
-stethoscope |आला
+stethoscope |परिश्रावक
 telescope| दूरबीन
 testube | परखनली
 thermometer| तापमान-यंत्र
 trowel| करनी
 walkie-talkie |
-awl |
+awl | सूआ
 compass| दिशा सूचक यंत्र
 easel| चित्रफलक
 hacksaw| लोहा-आरी
@@ -339,8 +339,123 @@ world| दुनिया
 # More image request
 
 ## Vegetables
-
-
+```
+Turnip| शलगम
+Chickpea| चना
+Fenugreek Leaf| हरी मेथी
+Mustard greens| सरसों पत्ता
+Turmeric| हल्दी
+Sweet potato| शकरकंद
+```
 ## Fruits
-
+```
+Sapota| चीकू
+Jamun| जामुन
+Coconut| नारियल
+Pear| नाशपाती
+Tamarind| इमली
+Sugar cane| ईख
+```
+```
+Water- chestnut| सिंघाड़ा
+Blueberry| नीलबदरी
+Peach| सतालू
+Jujube| बेर
+Passion fruit| कृष्णा फल
+Star fruit| कमरख
+Dragon fruit| पिताया 
+```
+## Animals
+```
+Alligator| घड़ियाल
+Baboon| लंगूर
+Antelope| बारहसिंगा
+Boar| जंगली सूअर
+Bison| जंगली भैसा
+Bull| सांड
+Bug| खटमल
+```
+```
+Cricket| झिंगुर
+Chameleon| गिरगिट
+hyena| लकड़बग्धा
+Jackal| सियार
+Polar Bear| ध्रुवीय भालू
+porcupine| साही
+Prawns|  झींगे
+Python| अजगर
+```
+## Birds
+```
+Cuckoo| कोयल
+Swan| हंस
+Pheasant| तीतर
+Falcon| बाज़
+```
+## Vehicles 
+```
+Bullock Cart| बैलगाड़ी
+Horse carriage| घोड़ागाड़ी
+```
+## Tools
+```
+Scissors| कैंची
+Screw| पेंच
+Screwdriver| पेंचकस
+```
+## Flowers
+```
+Daisy| गुलबहार
+Periwinkle| सदाबहार
+Water lily| नीलकमल
+Gulmohar| गुलमोहर
+Poppy| खसखस
+```
+```
+Pansy| बनफूल
+Mogra| मोगरा
+Lily| कुमुदनी
+Magnolia| चम्पा
+Daffodil| नरगिस
+```
 ## Others
+```
+Bow| धनुष 
+arrow| बाण
+Chariot| रथ
+Pellet drum| डमरू
+Door| दरवाजा
+Flowerpot| गमला
+```
+```
+Hexagon| षटकोण
+Knight| क्षत्रिय
+warrior| योद्धा
+Lid| ढक्कन
+Park| बाग
+Garden| उद्यान 
+```
+```
+Pouch| थैली
+Tap| नल
+Trident| त्रिशूल 
+Twig| टहनी
+Umbrella| छतरी
+Vegetables| सब्ज़ियाँ
+Water droplet| ओस
+```
+```
+Waterfall| झरना
+Yagna| यज्ञ
+touch me not| छुई मुई
+Plate| थाली
+Inkpot| स्याही
+Fountain| झरना
+```
+```
+Broom| झाड़ू
+Birds nest| घोसला
+Stick| डंडा
+Wool| ऊन
+Trolley| ठेला
+```
