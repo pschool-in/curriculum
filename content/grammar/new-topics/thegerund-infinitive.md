@@ -19,8 +19,8 @@ Gerund can be used as a
 ### subject of verb
  Examples are
  1. *Walking* is good exercise for health.
- 2. *Reading* books increases your knowledge
- 3. *Working* hard makes you successfull
+ 2. *Reading* books increases your knowledge.
+ 3. *Working* hard makes you successful.
 
 ### Object of verb
 Examples are
