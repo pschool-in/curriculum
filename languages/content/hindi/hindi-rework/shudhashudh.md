@@ -1,7 +1,9 @@
 
 # Shudh ashudh
 
-## Match the following
+## Match the following 
+
+## अशुद्ध शब्दों को शुद्ध शब्दों से मिलाइए। 
 
 ```
 दिवार, दीवार
