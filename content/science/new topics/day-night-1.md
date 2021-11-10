@@ -8,8 +8,8 @@
 ## Group: Day vs Night
 Classify the activities based on the time of day they are done.
 ```
-Day: brush your teeth, reading, playing in the garden
-Night: star gazing, sleep , eat dinner
+Day: brush your teeth, read, play in the garden
+Night: stargazing, sleeping, eating dinner
 ```
 ## Day vs Night
 Classify the activities based on the time of day they are done.
@@ -23,5 +23,6 @@ Reading.
 Night:
 Going to bed.
 Having dinner.
-Star gazing.
+Stargazing.
 ```
+
