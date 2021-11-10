@@ -36,7 +36,7 @@ Throw *those* rolls away.
 *This* is my mother’s saree.
 *That* looks like a rat.
 *These* are nice flowers.
-*Those* are mine clothes.
+*Those* are my clothes.
 ```
 
 ```
@@ -125,7 +125,9 @@ That, Them, Those
 
 ## Personal Pronouns
 
-A personal pronoun is a word that takes place of naming words. Personal pronouns are he, she, it and they. For example:
+A personal pronoun is a word that takes place of naming words. Personal pronouns are he, she, it and they. 
+
+For example:
 *Rahul* is a good boy.
 'Rahul' is a noun in this sentence. So, it can be replaced with the personal pronoun 'he'. So this sentence can also be written as,
 *He* is a good boy.
@@ -133,7 +135,7 @@ A personal pronoun is a word that takes place of naming words. Personal pronouns
 Some more examples of personal pronouns are:
 1. *He* eats grapes.
 2. *She* likes pear.
-3. You can have *it*
+3. You can have *it.*
 4. *They* like fruits.
 5. *He* runs fast.
 6. *She* jumps high.
