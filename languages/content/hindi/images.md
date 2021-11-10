@@ -458,4 +458,5 @@ Birds nest| घोसला
 Stick| डंडा
 Wool| ऊन
 Trolley| ठेला
+Spinning top| लट्टू 
 ```
