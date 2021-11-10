@@ -343,7 +343,7 @@ world| दुनिया
 Turnip| शलगम
 Chickpea| चना
 Fenugreek Leaf| हरी मेथी
-Mustard greens| सरसों पत्ता
+Mustard greens| सरसों का पत्ता
 Turmeric| हल्दी
 Sweet potato| शकरकंद
 ```
@@ -371,7 +371,7 @@ Alligator| घड़ियाल
 Baboon| लंगूर
 Antelope| बारहसिंगा
 Boar| जंगली सूअर
-Bison| जंगली भैसा
+Bison| जंगली सांड
 Bull| सांड
 Bug| खटमल
 ```
