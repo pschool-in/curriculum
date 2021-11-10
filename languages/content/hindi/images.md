@@ -399,7 +399,6 @@ Horse carriage| घोड़ागाड़ी
 ```
 ## Tools
 ```
-Scissors| कैंची
 Screw| पेंच
 Screwdriver| पेंचकस
 ```
