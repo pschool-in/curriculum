@@ -27,12 +27,6 @@ We use definite article "the" when we are talking about a specific person or a t
 
 "the" is used for countable and uncountable nouns/singular and plural nouns.
 
-Zero articles: 
-
-In some situations we do not use any articles at all, such a situation is called a "zero article".  
-
-When we are talking about something in general or when we mention a city or country, we do not use articles. 
-
 
 
 ## Correct Article (fill up)
