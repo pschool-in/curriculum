@@ -48,10 +48,10 @@ All my cousins love criket. Playing cricket is a favourite passtime of *theirs*.
 
 ```
 My car is bigger than *yours*.
-That painting on the wall is *ours*. 
-That bike is *theirs*.
-This book is *mine*.
-Is this dress *hers*.
+That book belongs to me. That book is *mine*.
+This dress belongs to my sister Priya. This dress is *hers*.
+This skate board belongs to my brother Jatin. This is *his*.
+This bag belongs to me and my sister. This bag is *ours*.
 ```
 
 
