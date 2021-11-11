@@ -7,6 +7,7 @@ To understand what adverb of degrees are and how to use them.
 ## Adverb of degree
 
 Adverb of degree tells us to what extent the action has been done. In simple words, it answers the question 'how much?' For example:
+
 The girl was *very* beautiful.
 In this sentence, the word very tells us how much beautiful is the girl.
 
