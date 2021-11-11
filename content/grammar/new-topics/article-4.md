@@ -1,13 +1,13 @@
 # Article 
 
 ## Objective
- To be able to understand the correct usage of articles in the text and also to understand about quantifiers.
+ To be able to understand the correct usage of articles in the text and also to understand quantifiers.
  
  ### Reading notes
  
  Articles "a", "an" and "the" are commonly used before nouns. 
  
- Articles "a/an" are called as indefinite article and "the" is known as definite article.
+ Articles "a/an" are called indefinite article and "the" is known as definite article.
  
  "a" is used before singular nouns beginning with consonant sounds.
  
@@ -15,10 +15,10 @@
  
  "the" is used before the singular and plural nouns and it is used when people speak of a person, a place or a thing already mentioned, or things or persons in a situation. 
  
- Qunatifiers: The words that are used before nouns to imply the quantity of a noun are called as quantifiers. 
+ Quantifiers: The words that are used before nouns to imply the quantity of a noun are called quantifiers. 
  Examples are some, any, many, much, plenty of, a lot of and a few. These can be used for both countable and uncountable nouns.
  
- Zero articles: In some situations we do not use any articles at all, such a situation is called a "zero article".
+ Zero articles: In some situations, we do not use any articles at all, such a situation is called a "zero article".
 When we are talking about something in general or when we mention a city or country, we do not use articles.
  
  
@@ -30,36 +30,36 @@ When we are talking about something in general or when we mention a city or coun
  Select the correct article to complete the sentence.
  
  ```
- I met *a (the,an)* friend in the store. 
- He ate *an (a,the)* orange for his breakfast.
- I have *a (an,the)* pet cat.
- I bought *an (a, the)* ipad yesterday.
- Kiran's mother is *the (a,an)* principal of our college.
- *The(a,an)* Ganges flows from *the (a,an)* Himalayas. 
+ I met *a (the, an)* friend in the store. 
+ He ate *an (a, the)* orange for his breakfast.
+ I have *a (an, the)* pet cat.
+ I bought *an (a, the)* iPad yesterday.
+ Kiran's mother is *the (a, an)* principal of our college.
+ *The(a,an)* Ganges flows from *the (a, an)* Himalayas. 
  ```
  
  ```
- It is better to tell *the (a,an)* truth.
- India is *a (an,the)* country.
- Lakshadweep is *an(a,the)* island.
- He arrived *an (a,the)* hour later.
- Which bike do you like? *The (a,an)* blue one?
+ It is better to tell *the (a, an)* truth.
+ India is *a (an, the)* country.
+ Lakshadweep is *an (a, the)* island.
+ He arrived *an (a, the)* hour later.
+ Which bike do you like? *The (a, an)* blue one?
  ```
  
  ```
- He is *an (a,the)* honest man.
- His wife is *an (a,the)* American.
- My brother acted in *a (an,the)* movie.
- *The (a,an)* laptop that I bought is not very expensive.
- Rohit bought *a(an,the)* cup of tea.
+ He is *an (a, the)* honest man.
+ His wife is *an (a, the)* American.
+ My brother acted in *a (an, the)* movie.
+ *The (a, an)* laptop that I bought is not very expensive.
+ Rohit bought *a (an, the)* cup of tea.
  ```
  
  ```
- Reading is *a (an,the)* good habit.
- *The (a,an)* school will remain closed for two days.
- My sister is *an (a,the)* English teacher.
- She bought *an (a,the)* orange dress.
- My husband is *a (an,the)* doctor.
+ Reading is *a (an, the)* good habit.
+ *The (a, an)* school will remain closed for two days.
+ My sister is *an (a, the)* English teacher.
+ She bought *an (a, the)* orange dress.
+ My husband is *a (an, the)* doctor.
  ```
  
  ## Identify (select the word)
@@ -68,7 +68,7 @@ When we are talking about something in general or when we mention a city or coun
  
  ```
  There is *a* snake. 
- Mahi wants *an* ipad.
+ Mahi wants *an* iPad.
  Tia has *a* cat.
  I can see *a* blue car.
  This is *an* easy question.
@@ -87,7 +87,7 @@ When we are talking about something in general or when we mention a city or coun
  She is *a* pretty girl. 
  Neil Armstrong was *an* American astronaut.
  This is exactly *the* shirt I was looking for.
- Mr.Iyer is *an* honarary member of our council.
+ Mr.Iyer is *an* honorary member of our council.
  ```
  
  ## Yes or No
@@ -96,9 +96,9 @@ When we are talking about something in general or when we mention a city or coun
  
  ```
  Yes
- An orange is a fruit.
- A donkey is an animal.
- An umbrella is a useful thing.
+ I would like to have an orange.
+ Donkey is an animal.
+ I bought an umbrella.
  No
  Orange is fruit.
  Donkey is animal.
@@ -111,14 +111,14 @@ When we are talking about something in general or when we mention a city or coun
  Fill in the correct article and complete the letter 
  
  ```
- Dear Neha, 
-I am fine, and hope to hear the same from you. Our entire class went to *a (an,the)* picnic to *the (a,an)* seaside lastweek.
-I was left alone. So, I went to *the (a,an)* sandy corner and sat down. 
-My mother packed me *an (a,the)* egg, *a (an,the)* cake and *a (an,the)* chocolate. 
-At that time, *a (an,the)* large sandy robster crawled out of *the (a,an)*pool. 
-All the sea animals tried to shake hands with me. 
+Dear Neha, 
+I am fine and hope to hear the same from you. Our entire class went to *a (an, the)* picnic to *the (a, an)*beach.
+I was left alone. So, I went to *the (a, an)* sandy corner and sat down. 
+My mother packed me *an (a, the)* egg, cake and *a (an, the)* chocolate. 
+At that time, *a (an, the)* large sandy Lobster crawled out of *the (a, an)*sea water. 
+All *the (a, an)* sea animals tried to shake hands with me. 
 But, they pricked me till I was black and blue. 
-They taught me *a(an,the)* lesson not to hurt anyone. 
+They taught me *a (an, the)* lesson not to hurt anyone. 
 Vishnu  
 ```
 
@@ -133,13 +133,12 @@ I have *many* friends in my life.
 Are there *any* sweets?
 I want to drink *some* coffee.
 There is *a lot of* gold in the bag.
-Rohita spends *much* time on the computers.
 ```
 
 ```
-I don't eat *much* sea food.
+I don't eat *much* seafood.
 There are *few* bananas in the bowl.
-Do you have *little* time to help me with my homework.
+Do you have *little* time to help me with my homework?
 How *many* coins do you have?
 I didn't have *any* breakfast today.
 ```
@@ -153,19 +152,19 @@ I didn't have *any* breakfast today.
 Use of "a/an"
 
 It's understood that "a" is used for words beginning with consonant sound while "an" is used before the nouns beginning with vowel sounds.
-But for certain words like univeristy, unicorn, European, union etc we use the article "a" as they sound as "you" i.e. they begin with a consonant sound and  not with vowel sound. 
+But for certain words like univeristy, unicorn, European, union, etc we use the article "a" as they sound as "you" i.e. they begin with a consonant sound and not with vowel sound. 
 
-Similarly for words like hour, honest, heir, MBA, FIR etc article "an" is used as they begin with vowel sound, even though they start with consonants.
+Similarly for words like hour, honest, heir, MBA, FIR, etc article "an" is used as they begin with a vowel sound, even though they start with consonants.
 
 Use of "the"
 
- "the" is also used for things like - the sun, the moon, the sky etc.
+ "the" is also used for things like - the sun, the moon, the sky, etc.
  
- "the" is also used for proper nouns like names of monuments, rivers, oceans etc.
+ "the" is also used for proper nouns like names of monuments, rivers, oceans, etc.
  
- "the" is also used for superlatives as: the strongest, the longest, the smallest etc.
+ "the" is also used for superlatives as the strongest, the longest, the smallest, etc.
  
- "the" is also used for number positions like: the first, the fifth, the second, the third etc.
+ "the" is also used for number positions like the first, the fifth, the second, the third, etc.
  
  
  Omission of Article or No article: 
@@ -180,7 +179,7 @@ Use of "the"
  Cows give milk (not The cows)
  
  Names of the days/Months-
- Saturday is a weekoff. (not The saturday)
+ Saturday is a week off. (not The Saturday)
  
  Names of materials-
  We wear clothes made of cotton ( not the cotton)
@@ -197,12 +196,12 @@ Use of "the"
  I always have an *egg* for breakfast.
  I read *an* interesting story.
  I saw *a* rainbow in the sky. 
- My friend has a *sore throat* due to cold.
+ My friend has a *sore throat* due to a cold.
  ```
  
  ```
  My grandmother told me *a* story.
- Can you Pass me a *slice* of bread.
+ Can you Pass me a *slice* of bread?
  There was *an* elephant in the field.
  Mahesh has an *interest* in painting.
  We saw a tiger in *the* zoo.
@@ -213,16 +212,16 @@ Use of "the"
 Select the appropriate word to complete the sentence.
 
 ```
-Do you know how to play *the keyboard(keybaord)*?
+Do you know how to play *the keyboard (keyboard)*?
 This is my best friend *Vamshi (the vamshi)*.
-My mother is *a doctor(the doctor)*. 
-My brother is *an author(a author)*. 
+My mother is *a doctor (the doctor)*. 
+My brother is *an author (a author)*. 
 Cow is *a domestic (an domestic)* animal.
 ```
 
 ```
 *The sun(A sun)* shines brightly.
-One of the my cousins is *an engineer(a engineer)*.
+One of my cousins is *an engineer(a engineer)*.
 My son wants to be *a scientist (an scientist)*.
 Do you have *a passport (an passport)*?
 My grandmother is as wise an *an owl(a owl)*.
@@ -240,7 +239,7 @@ She is *an architect(a architect).
 
 ## Complete the conversation
 
-Add the correct article to complete the converstaion between two friends.
+Add the correct article to complete the conversation between two friends.
 
 ```
 Krishna: Let's make some snacks for our family.
@@ -257,7 +256,7 @@ Select whether the sentence has a definite/indefinite/no article.
 ```
 Definite Article
 I wake up at 6 0'clock in the morning.
-Arabian sea lies to the west of India.
+The Arabian sea lies to the west of India.
 It is better to tell the truth.
 Indefinite article
 Mihir wants a pair of jeans.
@@ -276,7 +275,7 @@ There is someone at the door.
 Indefinite article
 He has a daughter.
 It is a good bike.
-Tia wants an inkpen.
+Tia wants an ink pen.
 No article
 Milk is good for you.
 Men are always fond of cricket.
