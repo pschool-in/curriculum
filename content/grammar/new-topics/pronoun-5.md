@@ -50,15 +50,15 @@ To whom, should I address this letter?
 Click on the blank and fill in the correct interrogative pronoun.
 
 ```
-*Why(what)* is the flight late?
-*Who(when)* left the door open?
-*Why(what)* are you sad?
-*What(which)* is your brother's name?
-*Which(whom)* car is yours?
-*Who(when)* is the new student in the class?
-*What(when)*do you like to wear tomorrow?
-*Which (what)* one of these burgers is made of meat?
-*To whom(who)* was the song dedicated?
+*Why(What)* is the flight late?
+*Who(When)* left the door open?
+*Why(What)* are you sad?
+*What(Which)* is your brother's name?
+*Which(Whom)* car is yours?
+*Who(When)* is the new student in the class?
+*What(When)*do you like to wear tomorrow?
+*Which (What)* one of these burgers is made of meat?
+*To whom(Who)* was the song dedicated?
 ```
 
 ## Noun or Pronoun 
@@ -93,7 +93,7 @@ Shaanvi sang quietly to herself.
 Possessive pronoun:
 This notebook is mine.
 That bike is theirs.
-Is pencil yours?
+Is this pencil yours?
 The lipstick is hers.
 ```
 
@@ -102,14 +102,14 @@ The lipstick is hers.
 Click on the blank and fill in the right pronoun.
 
 ```
-*Her(his)* name is Sita.
-*You (they)* are my best friend.
+*Her(His)* name is Sita.
+*You (They)* are my best friend.
 This pen is *mine(theirs)*.
-*They(it)* are making a snowman.
-*He (they)* sings beautifully.
+*They(It)* are making a snowman.
+*He (They)* sings beautifully.
 I folded my clothes by *myself(themselves)*.
-*Who(what)* is the new teacher?
-*Which(who)* is your favourite food?
+*Who(What)* is the new teacher?
+*Which(Who)* is your favourite food?
 ```
 
 References: 
