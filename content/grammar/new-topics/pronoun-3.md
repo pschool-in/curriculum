@@ -107,7 +107,7 @@ I own the bike. It is *mine*.
 ```
 Chandan has a small puppy. It is *his* puppy.
 The house at the corner is *theirs*.
-Are you sure this is *yours*.
+Are you sure this is *yours*?
 Who owns this bat? Is it *yours*?
 This dog is *ours*.
 ```
