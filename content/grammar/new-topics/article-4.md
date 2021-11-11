@@ -228,6 +228,16 @@ Do you have *a passport (an passport)*?
 My grandmother is as wise an *an owl(a owl)*.
 ```
 
+```
+There is a spider on *the roof(a roof)*.
+Karthik can play *the guitar (a guitar)*.
+*The AC (An AC)* has stopped working.
+Please open *the window(a window)*.
+She is *an architect(a architect).
+```
+
+
+
 ## Complete the conversation
 
 Add the correct article to complete the converstaion between two friends.
@@ -240,7 +250,7 @@ Radha: To finish it, we can add *the (a)* chocolate icing on top of *the(a)* cak
 Krishna: okay. I hope our family is going to like *the(a)* cake we make.
 ```
 
-## Identify (True or false)
+## Identify 
 
 Select whether the sentence has a definite/indefinite/no article.
 
@@ -257,6 +267,34 @@ No article
 Please keep quiet! Don't make noise!
 We love to eat Indian food.
 ```
+
+```
+Definite article
+The cow gives us milk.
+Can you switch off the light?
+There is someone at the door.
+Indefinite article
+He has a daughter.
+It is a good bike.
+Tia wants an inkpen.
+No article
+Milk is good for you.
+Men are always fond of cricket.
+```
+
+
+References: 
+
+https://agendaweb.org/grammar/articles-worksheets-resources.html
+
+https://www.tiwariacademy.com/ncert-solutions/class-4/english/grammar/chapter-11/#class-4-english-grammar-chapter-11-articles
+
+http://www.learnersplanet.com/class-4-english-grammar-articles-worksheets-with-answers
+
+https://www.tiwariacademy.com/ncert-solutions/class-5/english/grammar/chapter-11/#class-5-english-grammar-chapter-11-articles
+
+
+
 
 
 
