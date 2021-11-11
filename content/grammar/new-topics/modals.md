@@ -26,23 +26,19 @@ He *can (may)* work late.
 He *may (can)* be at home.
 ```
 
-#### Fill in the blanks (fill up by drag) (label)
-
-Drag the correct option to each blank. (title)
 ```
-I *cannot* go to the party.
-She *may not* be able to come.
-We *cannot* dance without the teacher's permission.
-Books *may not* be available at the store.
+I *cannot (cann't)* go to the party.
+She *may not (mayn't)* be able to come.
+We *cannot (cann't)* dance without the teacher's permission.
+Books *may not (mayn't)* be available at the store.
 ```
 
-Drag the correct option to each blank. (title)
 ```
-They *can* speak English.
-He *cannot* ride a bike.
-*May* you have a joyful weekend.
-How *may* I help you?
-We *may not* have to leave.
+They *can (may)* speak English.
+He *cannot (cann't)* ride a bike.
+*May (Can)* you have a joyful weekend.
+How *may (May)* I help you?
+We *may not (cannot)* have to leave.
 ```
 
 #### Select the word (label)
