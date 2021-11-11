@@ -39,11 +39,11 @@ This house is *ours*.
 ```
 
 ```
-This cat is *ours*.
-The bag over there is *his*.
-This money is *mine*.
-These earphones are not *yours*.
-The lipstick is *hers*. 
+I paid for my book, so it is *mine*.
+Pick any of these chocolates, the choice is *yours*.
+The cricket bat belongs to Ram. It is *his*.
+We bought this music player together. So it is *ours*.
+All my cousins love criket. Playing cricket is a favourite passtime of *theirs*.
 ```
 
 ```
