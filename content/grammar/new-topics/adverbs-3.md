@@ -63,7 +63,7 @@ Good, Well
 
 Fill in the blank with the correct option. (title)
 ```
-The dance *beautifully (beautiful, beautifuly)*.
+They dance *beautifully (beautiful, beautifuly)*.
 Richa doesn't work *hard (hardly, hardily)*.
 She knows the road *well (good, goodly)*.
 We have to get up *early (earlily, soon)*.
@@ -72,7 +72,7 @@ Our teacher arrives *late (lately, soonly)* for class.
 
 ```
 He drives too *fast (well, fastly)*.
-She speakes very *quietly (quiet, quitely)*.
+She speaks very *quietly (quiet, quitely)*.
 He plays the guitar *terribly (terrible, terribily)*.
 She walked *happily (happy, happly)* to the school.
 He planned the trip *nicely (nice, nicily)*.
