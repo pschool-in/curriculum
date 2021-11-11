@@ -6,12 +6,14 @@
  ### Reading notes
  
  Articles "a", "an" and "the" are commonly used before nouns. 
+ 
  Articles "a/an" are called as indefinite article and "the" is known as definite article.
+ 
  "a" is used before singular nouns beginning with consonant sounds.
+ 
  "an" is used before the nouns starting with sounds "a,e,i,o,u".
+ 
  "the" is used before the singular and plural nouns and it is used when people speak of a person, a place or a thing already mentioned, or things or persons in a situation. 
- "the" is also used for things like - the sun, the moon, the sky etc
- "the" is also used for proper nouns like names of monuments, rivers, oceans etc.  
  
  Qunatifiers: The words that are used before nouns to imply the quantity of a noun are called as quantifiers. 
  Examples are some, any, many, much, plenty of, a lot of and a few. These can be used for both countable and uncountable nouns.
@@ -146,6 +148,46 @@ I didn't have *any* breakfast today.
 
 # Grade 5
 
+## Reading Notes: 
+
+Use of "a/an"
+
+It's understood that "a" is used for words beginning with consonant sound while "an" is used before the nouns beginning with vowel sounds.
+But for certain words like univeristy, unicorn, European, union etc we use the article "a" as they sound as "you" i.e. they begin with a consonant sound and  not with vowel sound. 
+
+Similarly for words like hour, honest, heir, MBA, FIR etc article "an" is used as they begin with vowel sound, even though they start with consonants.
+
+Use of "the"
+
+ "the" is also used for things like - the sun, the moon, the sky etc.
+ 
+ "the" is also used for proper nouns like names of monuments, rivers, oceans etc.
+ 
+ "the" is also used for superlatives as: the strongest, the longest, the smallest etc.
+ 
+ "the" is also used for number positions like: the first, the fifth, the second, the third etc.
+ 
+ 
+ Omission of Article or No article: 
+ 
+ We do not use articles in the following cases: 
+ 
+ Names of the persons - 
+ Mahita is my best friend (not The Mahita).
+ 
+ Common nouns in the plural number -
+ Birds live in trees (not The birds)
+ Cows give milk (not The cows)
+ 
+ Names of the days/Months-
+ Saturday is a weekoff. (not The saturday)
+ 
+ Names of materials-
+ We wear clothes made of cotton ( not the cotton)
+ 
+ 
+ 
+
 ## Drag and Drop
  
  Drag and drop the appropriate word to complete the sentence.
@@ -165,6 +207,63 @@ I didn't have *any* breakfast today.
  Mahesh has an *interest* in painting.
  We saw a tiger in *the* zoo.
  ```
+
+## Fill in the blanks 
+
+Select the appropriate word to complete the sentence.
+
+```
+Do you know how to play *the keyboard(keybaord)*?
+This is my best friend *Vamshi (the vamshi)*.
+My mother is *a doctor(the doctor)*. 
+My brother is *an author(a author)*. 
+Cow is *a domestic (an domestic)* animal.
+```
+
+```
+*The sun(A sun)* shines brightly.
+One of the my cousins is *an engineer(a engineer)*.
+My son wants to be *a scientist (an scientist)*.
+Do you have *a passport (an passport)*?
+My grandmother is as wise an *an owl(a owl)*.
+```
+
+## Complete the conversation
+
+Add the correct article to complete the converstaion between two friends.
+
+```
+Krishna: Let's make some snacks for our family.
+Radha: I think we should make *a (an)* cake.
+Krishna: Yes, it's *a (the)* good idea! I have got *an (a)* egg and some oranges. Let's make *an(a)* orange cake.
+Radha: To finish it, we can add *the (a)* chocolate icing on top of *the(a)* cake. 
+Krishna: okay. I hope our family is going to like *the(a)* cake we make.
+```
+
+## Identify (True or false)
+
+Select whether the sentence has a definite/indefinite/no article.
+
+```
+Definite Article
+I wake up at 6 0'clock in the morning.
+Arabian sea lies to the west of India.
+It is better to tell the truth.
+Indefinite article
+Mihir wants a pair of jeans.
+She is an hour late.
+I just read an interesting novel.
+No article
+Please keep quiet! Don't make noise!
+We love to eat Indian food.
+```
+
+
+
+
+
+
+
 
 
 
