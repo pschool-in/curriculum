@@ -160,20 +160,61 @@ I saw some *black (green)* clouds.
 Select the correct comparative degree of adjective in the sentence.
 
 ```
-Giraffe is *bigger* than lion.
+Giraffe is *bigger than* lion.
 Suhani is a *clever* girl.
-The Ganga is *longer* than Yamuna.
-Mahesh is the *tallest* boy in the class.
-Mount Everest in the *highest* peak in the world.
+The Ganga is *longer than* Yamuna.
+Mahesh is *the tallest* boy in the class.
+Mount Everest in *the highest* peak in the world.
 ```
 
 ```
-Mangoes are *sweeter* than oranges.
-Gold is *costlier* than silver.
-My house is *bigger* than yours.
-This is the *biggest* park in the city.
-May is *hotter* than March.
+Mangoes are *sweeter than* oranges.
+Gold is *costlier than* silver.
+My house is *bigger than* yours.
+This is *the biggest* park in the city.
+May is *hotter than* March.
 ```
+
+## Identify 
+
+Select the correct adjective of quantity in the sentence.
+
+```
+There are *five* pencils in my box.
+I drank *some* milk.
+He only ate *half* of his breakfast.
+Do you have *any* money?
+I read the *whole* book.
+```
+
+## Identify
+
+Select the descriptive adjective in the sentence.
+
+
+```
+The girl was very *smart*.
+This is a *beautiful* garden.
+Siri is a *noisy* girl.
+Rohan lives in a *big* city.
+These are the *fresh* fruits.
+```
+
+
+
+References: 
+
+https://www.learninsta.com/adjectives-exercises-for-class-3
+
+https://educationwithfun.com/course/view.php?id=17&section=3
+
+https://www.studyadda.com/question-bank/3rd-class/english/adjectives/adjectives/453
+
+https://www.studiestoday.com/node/219472/viewfile.html
+
+https://www.tiwariacademy.com/ncert-solutions/class-3/english/grammar/chapter-16/#class-3-english-grammar-chapter-16-adjective
+
+New pathways and AP state board book.
 
 
 
