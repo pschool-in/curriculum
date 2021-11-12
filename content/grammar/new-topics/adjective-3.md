@@ -12,7 +12,7 @@ Describing words are called adjectives. In general, adjectives usually give us m
 
  For example - 
 a. The dog is "black". (here dog is a naming word or noun and black is the adjective i.e., it is describing how the dog looks)
-b. The sweater is "fluffy". ( here the sweater is a naming word and fluffy is describing how the sweater feels like)
+b. The sweater is "fluffy". (here the sweater is a naming word and fluffy is describing how the sweater feels like)
 
 Similarly, names of the colors are used as adjectives.
 
@@ -40,7 +40,7 @@ When we compare qualities of two nouns we add "-er" + "than".
 Example Hari is "taller than" Krishna.
 
 When we compare qualities of more than three nouns we add "-est" +"the". 
-Example - Hari is "the tallest" boy.
+Example - Hari is "the tallest" boy in the class.
 
 
 ## Group 
@@ -77,6 +77,25 @@ Adjectives describe action words.
 Adjectives are used in joining the words.
 ```
 
+## Match
+
+Match the following adjectives with their corresponding naming words.
+
+```
+Cheerful, boy
+Tall, building
+Sweet, mangoes
+Colorful, umbrella
+```
+
+```
+New, dress
+Clever, girl
+Yellow, flowers
+Big, house
+```
+
+
 ## Pick-out
 
 Drag and drop the correct adjective to complete the sentence.
@@ -91,6 +110,77 @@ A *tall* man.
 ```
 
 ```
+A *happy* person.
+An *orange* chair.
+A *wide* road.
+A *green* carpet.
+She is *thin*.
+A *big* basket.
+```
+
+```
+The dress is *pretty*.
+The day is *bright*.
+Mango is a *sweet* fruit.
+Sita is a *clever* girl.
+Our teacher is very *kind*.
+```
+
+
+## Fill in the blanks
+
+Select the correct word to complete the sentence.
+
+```
+Manisha is wearing a *beautiful (tall)* dress.
+She loves to eat *sweet (slim)* apples.
+Rahul has *curly (deep)* hair.
+A ball is *round (curly)*.
+Birds have *little (high)* feathers.
+```
+
+```
+Harish saw a *funny (clumpsy)* clown.
+Jasmines have *white (black)* petals.
+The Earth is *round (oval)*.
+Grandma gave me a *sweet (sour)* chocolate.
+The book is very *colorful (ill)*. 
+```
+
+```
+A car has *four (three)* wheels.
+Coffee is hot but ice is *cold ( black)*.
+I like to sleep on a *soft (hard)* bed.
+The Indian team was *delighted (sad)* when they won the match.
+I saw some *black (green)* clouds.
+```
+
+## Identify 
+
+Select the correct comparative degree of adjective in the sentence.
+
+```
+Giraffe is *bigger* than lion.
+Suhani is a *clever* girl.
+The Ganga is *longer* than Yamuna.
+Mahesh is the *tallest* boy in the class.
+Mount Everest in the *highest* peak in the world.
+```
+
+```
+Mangoes are *sweeter* than oranges.
+Gold is *costlier* than silver.
+My house is *bigger* than yours.
+This is the *biggest* park in the city.
+May is *hotter* than March.
+```
+
+
+
+
+
+
+
 
 
 
