@@ -86,7 +86,7 @@ You have a cap. It is *yours(hers)*.
 ```
 Jack has a toy car. It is *his(her)*.
 I have mittens. They are *mine(ours)*.
-Sangamitra has a dool. it is *hers(ours)*.
+Sangamitra has a doll. It is *hers(ours)*.
 Mannu and I have many dolls. They are *ours(yours)*.
 Uncle and Aunt have a car. It is *theirs (mine)*.
 ```
