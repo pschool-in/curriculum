@@ -97,6 +97,39 @@ Mom is working, or cooking, so cooking
 Ram, and Shaam, so Shaam
 ```
 
+******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+# Grade-3
+
+## Activities
+
+### Complete the passage (label) (fillup with options)
+
+Tap on each blank for options. Choose the correct conjunction. (title)
+```
+All of my friends are going to Richa's party.
+*But (So)* she has not invited me.
+*So (And)* we have decided that *neither (either)* me *nor (or)* my best friend will go.
+I bought a present for her, *but (or)* now I'll give it to my best friend.
+```
+
+```
+Everyone loves sundays. 
+That is *because (so)* it’s a holiday. 
+*But (Or)* for me, sunday is the most boring day of the week. 
+This is *because (either)* my parents take me to the farm every weekend. 
+It was fun at first. 
+*But (And)* now I don't like going there. 
+This is *because (so)* all my friends are in the city.
+```
+
+
+```
+I know that we should save water.
+*But (And)* I forget to turn off the tap.
+*So (Or)* I wrote a note *and (or)* stick it on the wall near the tap.
+Now I'll always remember to turn it off.
+```
 
 # References
 
