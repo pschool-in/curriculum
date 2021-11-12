@@ -58,7 +58,7 @@ Click on the blank and fill in the correct interrogative pronoun.
 *Who(When)* is the new student in the class?
 *What(When)*do you like to wear tomorrow?
 *Which (What)* one of these burgers is made of meat?
-*To whom(Who)* was the song dedicated?
+ To *whom (who)* was the song dedicated?
 ```
 
 ## Noun or Pronoun 
