@@ -55,7 +55,7 @@ Not Conjunctions:
 Have, Should, Would, Obviously
 ```
 
-### Multiple Choice Queestions (label)
+### Multiple Choice Questions (label)
 
 Choose the correct conjunction. (title)
 ```
@@ -70,3 +70,20 @@ or, nor, so
 ________he's smart, but also very intelligent.
 Not only, Both, Whether
 ```
+
+```
+I will_______go to the party or to the movie.
+either, neither, for
+I like neither coffee______tea.
+nor, or, and
+Not only he lied,_________shouted at me.
+but also, and, so
+I can both sing______dance.
+and, or, for
+She will_______stay or leave.
+either, neither, but
+```
+
+# References
+
+1. https://docs.google.com/document/d/18-wef2kVUU64TK7ZbtZLh9zNVsWaguc0_hZ3OMxAmaw/edit
