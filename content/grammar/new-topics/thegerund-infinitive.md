@@ -38,7 +38,7 @@ Examples are
 Examples are
 1. My aim in life *is becoming* a writer.
 2. What I hate *is drinking*. 
-3. Her Favourite hobby *is dancing*. 
+3. Her favourite hobby *is dancing*. 
 
 # Infinitive 
 
