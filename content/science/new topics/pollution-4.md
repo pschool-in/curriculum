@@ -24,6 +24,21 @@ Polluted water is unfit for drinking. Consumption of polluted water is the main 
 There are times when we get irritated by excessive honking and noise due to construction work going on in our surroundings. The pressence of the unwanted noise in the surrounding is called noise pollution. Some common sources of pollution are cars blowing horns, loudspeakers, burning of crackers and noise from construction macheinery.
 Noise pollution causes headache and earache. It can also cause deafness and mental illness. 
 
+## Causes of pollution in villages
+The main cause of pollution in villages is due to agricultural activities like burning of stubble in fields, treshing activities, grain dust, large scale use of tractor harvester, use of diesel operated tube wells, use of chemical products, wildfires, etc
+
+## Causes of pollution in cities
+The main causes of pollution in cities are burning of fossil fuels, industrial emmision, emission from transportation, open burning of waste, construction and demolition, etc
+
+## Prevention of pollution
+Some measures to avoid pollution are: 
+1. using bicycle for short distance travel
+2. using renewable resources
+3. useing eco friendly chemicals
+4. intelligent use of water
+5. proper disposal of waste
+6. planting of trees
+
 ## Fill in the blanks (drag and drop)
 ```
 During constuction work, a lot of *dust* gets added into the environment.
