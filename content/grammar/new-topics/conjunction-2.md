@@ -70,12 +70,12 @@ Tap on each blank for options. (title)
 Pink *and (or, but)* yellow are two colors.
 I think there are two *or (and, so)* three pens.
 Tie your laces *so (and, or)* you don't fall.
-I like shoes *but (so, or)* my sister likes sandles.
+I like shoes *but (so, or)* my sister likes sandals.
 ```
 
 ### Right Match (label)
 
-Choose the piece with correct conjunction. (title)
+Choose the piece with the correct conjunction. (title)
 ```
 I like drawing, and painting, so painting
 She is smart, but rude, so rude
@@ -114,9 +114,9 @@ I bought a present for her, *but (or)* now I'll give it to my best friend.
 ```
 
 ```
-Everyone loves sundays. 
+Everyone loves Sundays. 
 That is *because (so)* it’s a holiday. 
-*But (Or)* for me, sunday is the most boring day of the week. 
+*But (Or)* for me, Sunday is the most boring day of the week. 
 This is *because (either)* my parents take me to the farm every weekend. 
 It was fun at first. 
 *But (And)* now I don't like going there. 
