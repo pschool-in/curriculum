@@ -4,7 +4,7 @@
 2. To understand the concept of light and shadows
 
 ## Light
-Light comes from different sources called light sources; our main natural light source is the sun. Other sources include fire, stars and man-made light sources such as light-bulbs and torches. Thanks to light, we see life in glorious color.
+Light comes from different sources called light sources; our main natural light source is the sun. Other sources include fire, stars and man-made light sources such as light-bulbs and torches. Thanks to light, we see life in glorious colors.
 
 ## Shadow
 A shadow is the dark shape made when something blocks light from a light source like the sun, a flashlight, or a campfire.
