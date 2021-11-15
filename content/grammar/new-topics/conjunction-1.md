@@ -51,6 +51,13 @@ I put on my sweater *and (but)* muffler.
 Maahi goes to the shop everyday *and (but)* buys candies.
 ```
 
+```
+My mom gave me a watch *but (and)* I wanted a videogame.
+The teacher gives HW *but (and)* most students don't do it.
+Priya lives in the city *and (but)* visit her grandma every Sunday.
+She plays *and (but)* studies in the park.
+```
+
 ### Identify (label) (classify template)
 
 Identify if these sentences have joining words or not. (title)
@@ -94,6 +101,16 @@ Dogs like playing fetch games.
 I drink a glass of milk everyday.
 ```
 
+```
+Yes:
+The trees *and* plants have lots of leaves.
+We get milk from cows *and* buffalos.
+
+No:
+We should keep our room clean.
+We have a blackboard in the class.
+```
+
 ### Select Word (label)
 
 Tap on the joining words in these sentences. (title)
@@ -129,6 +146,14 @@ Sheep gives us wool *and* it is used in winters.
 I throw the stick *but* my dog never runs to get it.
 ```
 
+```
+Neha is friends with all boys *and* girls in the class.
+We burn crackers *and* eat sweets in Diwali.
+We have a dog *but* I also want a cat.
+Mohan is a smart boy *but* he is not good at sports.
+I like reading books *and* eating vegetables.
+```
+
 # References
 
 1. https://www.k5learning.com/worksheets/grammar/grade-1-using-conjunctions-a.pdf
@@ -138,3 +163,5 @@ I throw the stick *but* my dog never runs to get it.
 5. https://www.k5learning.com/worksheets/grammar/grade-1-conjunctions-and-b.pdf
 6. https://www.k5learning.com/worksheets/grammar/grade-1-conjunctions-and-c.pdf
 7. https://www.k5learning.com/worksheets/grammar/grade-1-sentence-jumbles-a.pdf
+8. https://www.k5learning.com/worksheets/grammar/grade-1-sentence-jumbles-b.pdf
+9. https://www.k5learning.com/worksheets/grammar/grade-1-sentence-jumbles-c.pdf
