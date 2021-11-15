@@ -111,7 +111,30 @@ I like shoes *but (so, or)* my sister likes sandals.
 
 ```
 He is 13 *and (so, or)* she is 15.
+It's sunny, *but (or, so)* the weather is good.
+My mom prefers Chinese *or (but, so)* Italian food.
+The weather is not nice *so (and, but)* we'll stay at home.
+```
 
+```
+Tina plays the paino *and (or, so)* is good at sports.
+I play *or (and, so)* go to my grandma's place on weekends.
+My teacher is strict *but (and, or)* she teaches well.
+I came first *so (and, or)* my parents are very happy.
+```
+
+```
+Sania is tall *and (but, so)* Divya is tall too.
+He is sick *but (so,and)* ready for the party.
+He practice a lot *so (and, but)* he comes first.
+I sleep *or (so, but)* play at noon.
+```
+
+```
+Raj *and (or, but)* Rohan are playing.
+Ravi is intelligent *but (so, or)* he doesn't have much friends.
+Siya *or (but, so)* Sameer did this.
+He was ill *so (but, and)* he did not go to school.
 ```
 
 ### Right Match (label)
@@ -136,6 +159,20 @@ I came early, so cleaned my desk, or cleaned my desk
 I love pizza, but not chips, so not chips
 Mom is working, or cooking, so cooking
 Ram, and Shaam, so Shaam
+```
+
+```
+I read stories, and novels, but novels
+She is tired, but her HW is left, so her HW is left
+He goes for running, or cycling, but cycling
+I woke up early, so helped my mom, but helped my mom
+```
+
+```
+I wil go to Delhi, or Mumbai, so Mumbai
+Cats, and dogs are pets, or dogs are pets
+I like cats, but he likes dogs, so he likes dogs
+Dad is working, so we are at home, but we are at home
 ```
 
 ******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
@@ -164,7 +201,6 @@ It was fun at first.
 This is *because (so)* all my friends are in the city.
 ```
 
-
 ```
 I know that we should save water.
 *But (And)* I forget to turn off the tap.
@@ -172,9 +208,27 @@ I know that we should save water.
 Now I'll always remember to turn it off.
 ```
 
+```
+Neena loves chocolate.
+*But (So)* her mother doesn't let her eat much.
+She likes it because it's sweet *and (so)* tasty.
+Her mother hides the chocolate *or (so)* gives it to her friends.
+Her friends share the chocolate with her.
+*So (Or)* she gets to eat it.
+```
+
+```
+Teacher asked us to be quiet *and (or)* study.
+*But (So)* the naughty boys in the class did not listen.
+He *and (or)* his friends went to the ground.
+*So (And)* the teacher got angry *and (but)* punished them.
+```
+
 # References
 
 1. https://www.bing.com/videos/search?q=conjunction+for+grade+2&docid=608005431833794286&mid=985C2211355B54FB7563985C2211355B54FB7563&view=detail&FORM=VIRE
 2. https://eviebarlow.com/
 3. https://www.classace.io/learn/grammar/1stgrade/conjunctions
-4. 
+4. https://basicenglishspeaking.com/conjunction-and-but-so-because/
+5. https://educationwithfun.com/course/view.php?id=11&section=5
+6. https://kidskonnect.com/language/conjunctions/
