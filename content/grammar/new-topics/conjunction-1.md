@@ -154,6 +154,44 @@ Mohan is a smart boy *but* he is not good at sports.
 I like reading books *and* eating vegetables.
 ```
 
+### Right Match (label)
+
+Choose the puzzle piece with the correct joining word. (title)
+```
+I like apples, and bananas, but bananas
+Raj is running, but I'm walking, and I'm walking
+Bees can fly, and sting, but sting
+He bought grapes, but did not eat them, and did not eat them
+```
+
+```
+She likes tea, and juice, but juice
+He doesn't like me, and by friend, but my friend
+I love dogs, but can't pet one, and can't pet one
+I have a tricycle, but I like bicycles, and I like bicycles
+```
+
+```
+The car is grey, and fast, but fast
+It is my playtime, but I'm sleepy, and I'm sleepy
+She said thankyou, and she left, but she left
+We run, and play, but play
+```
+
+```
+He studies hard, and comes first, but comes first
+Raj likes pizza, and I like pasta, but I like pasta
+I want to play outside, but it's raining, and it's raining
+Mom washed my clothes, but they're still dirty, and they're still dirty
+```
+
+```
+Eggs boil, and float, but float
+I have videogames, but my friends play outside, and my friends play outside
+I am sick, and not going to school, but not going to school
+He practised a lot, but did not win, and did not win
+```
+
 # References
 
 1. https://www.k5learning.com/worksheets/grammar/grade-1-using-conjunctions-a.pdf
@@ -165,3 +203,4 @@ I like reading books *and* eating vegetables.
 7. https://www.k5learning.com/worksheets/grammar/grade-1-sentence-jumbles-a.pdf
 8. https://www.k5learning.com/worksheets/grammar/grade-1-sentence-jumbles-b.pdf
 9. https://www.k5learning.com/worksheets/grammar/grade-1-sentence-jumbles-c.pdf
+10. https://www.classace.io/learn/grammar/1stgrade/conjunctions
