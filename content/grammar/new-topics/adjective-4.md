@@ -40,10 +40,10 @@ Given below is the order of adjectives:
 For example : 
 
 1. A strange, little, yellow leaf. 
-Here the arrangement of the adjectives is as follows: "a" is an article, "strange" is a opinion or quality, "little" is the shape, "yellow" is the color 
+Here the arrangement of the adjectives is as follows: "a" is an article, "strange" is a opinion or quality, "little" is the size, "yellow" is the color 
 
 2. My dad is a tall, Indian Man.
-Here the arrangement of the adjectives is as follows: "tall" is a quality, "Indian" is a Nationality.
+Here the arrangement of the adjectives is as follows: "tall" is a size, "Indian" is a Nationality.
 
 
 
@@ -180,6 +180,62 @@ little, five children
 Full, three boxes
 two square, red tables
 ```
+
+
+##  Fill in the adjectives (Fill up with options)
+
+Fill up the correct order of adjectives in the sentence.
+
+```
+She gave her a *tiny(soft)*, *soft(tiny)* scarf.
+She wore a *silly(pink)*, *pink(silly)* hat.
+I have *five(big)*, *big(five)*, *wooden(big)* pencils.
+The *little (pink)*, *pink(little)* mitten was lost.
+My dad is a *tall (Indian)*, *Indian(tall)* man.
+```
+
+## Complete the passage 
+Drag and drop the adjectives to complete the passage.
+
+```
+Once upon a time an *old* porcupine lived in a *large* wood with his sons. One day, one of the porcupine went into the *deep* jungle to fetch some *fresh* vegetables. He was a slow walker and he had just reached a *huge* cabbage, when from behind the *green* leaves, out popped a *big* hare.
+He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to hare's words and left from there. 
+```
+
+```
+Once upon a time, there lived a *beautiful* deer. Like all deers, he had *long*, slender legs. One day he was grazing peacefuly on *tender* shoots. Suddenly, he heard the howling of *dangerous* wolves! He knew, he had to escape. So he started running. suddengly his *large* antlers got stuck in the low-hanging branch and he was unable to escape. Finally the wolves caught the deer.
+```
+
+## Sorting
+
+Arrange the order of adjectives in correct sequence.
+
+```
+five old, stripped, tablecloths
+```
+```
+two pretty, sparkly, white dresses
+```
+
+References:
+
+
+https://swiflearn.com/revision-notes/english-grammar/class-4/adjectives/
+
+https://www.gingersoftware.com/content/grammar-rules/adjectives/adjective-exercises/
+
+https://www.k12reader.com/worksheet/order-of-adjectives-fill-in-the-blank/view/
+
+Newpathways, AP and Telangan State baord books.
+
+
+
+
+
+
+
+
+
 
 
 
