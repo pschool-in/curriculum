@@ -206,27 +206,22 @@ He said, I hope you are quicker at eating, or will it take a year to finish the 
 Once upon a time, there lived a *beautiful* deer. Like all deers, he had *long*, slender legs. One day he was grazing peacefuly on *tender* shoots. Suddenly, he heard the howling of *dangerous* wolves! He knew, he had to escape. So he started running. suddengly his *large* antlers got stuck in the low-hanging branch and he was unable to escape. Finally the wolves caught the deer.
 ```
 
-## Sorting
 
-Arrange the order of adjectives in correct sequence.
-
-```
-five old, stripped, tablecloths
-```
-```
-two pretty, sparkly, white dresses
-```
 
 References:
 
 
 https://swiflearn.com/revision-notes/english-grammar/class-4/adjectives/
 
-https://www.gingersoftware.com/content/grammar-rules/adjectives/adjective-exercises/
+https://everydaycupofenglish.com/2017/02/13/worksheet-1-adjectives-grade4/
+
+https://www.education.com/worksheet/article/identifying-common-adjectives/
 
 https://www.k12reader.com/worksheet/order-of-adjectives-fill-in-the-blank/view/
 
-Newpathways, AP and Telangan State baord books.
+K5 learning PDF's
+
+Newpathways, AP and Telangana State baord books and few English Story books.
 
 
 
