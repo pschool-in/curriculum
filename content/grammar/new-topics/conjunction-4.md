@@ -36,6 +36,22 @@ I don't like when Tom and Jerry tease each other.
 *So (Or)* they care about each other a lot.
 ```
 
+```
+Raj lives in a small town *and (but)* the closest big city is an hour away.
+Raj likes going to the city *because (or)* they find cattle on the way.
+Raj loves cattle *so (or)* knows everything about them.
+A baby is called a calf, a female is called a cow, *and (so)* a male is called an ox.
+A group of cattle is called a herd.
+He knows that cattle are sound *and (but)* quiet animals *and (so)* graze on grass.
+```
+
+```
+I love reading books *so (and)* I go to the library.
+I found a very interesting book *so (because)* I borrowed it for one week.
+Today, I have to return it *but (so)* I haven't completed it. 
+I will go *and (so)* issue it again in the evening.
+```
+
 ### Drag and Drop (label)
 
 Identify which of the following are conjunctions and which ones are not. (title)
@@ -84,6 +100,46 @@ She will_______stay or leave.
 either, neither, but
 ```
 
+```
+I can________study nor concertrate on sports.
+neither, either, only
+________my friend is intelligent, but also helps me in studies.
+Not only, Both, So
+I don't know whether she'll come_____not.
+or, and, but
+I will either eat_____sleep.
+or, nor, and
+She can_____draw and paint.
+both, either, neither
+```
+
+```
+You can go by a train_____a bus.
+or, but, because
+Our neighbours are good_____friendly.
+and, so, or
+My dad won't come_____my mom will.
+but, or, because
+She is____tall that she can touch the ventilator.
+so, or, very
+She ran fast______won the race.
+and, but, or
+```
+
+```
+She left_______they were laughing.
+because, if, and
+The teacher entered______the students stood up.
+and, but, because
+He got hurt_______he fell down.
+because, if, so
+I will either wash clothes_____do the dishes.
+or, nor, and
+I slept______skipped my HW.
+and, but, or
+```
+
 # References
 
 1. https://docs.google.com/document/d/18-wef2kVUU64TK7ZbtZLh9zNVsWaguc0_hZ3OMxAmaw/edit
+2. http://www.learnersplanet.com/cbse-english-grammar-conjunctions-worksheets-class-4
