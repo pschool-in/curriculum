@@ -52,6 +52,42 @@ Naman is talking on the phone.
 The hotel has a good view.
 ```
 
+```
+Yes:
+He said thankyou and left.
+He sings well so he participated in the competition.
+I ate but did not sleep after that.
+
+No:
+We run in the park everyday.
+I take a nap every afternoon.
+I will go to my friend's hounse on Thursday.
+```
+
+```
+Yes:
+I love ice cream but can't eat it in winters.
+Do you like cricket or hockey?
+He's late so he won't come.
+
+No:
+I can eat 10 chocolates at a time.
+My best friend's name is Rashi.
+My parents like my friends.
+```
+
+```
+Yes:
+I lost the key so my dad will pick me up.
+Who's smarter, Priya or Raj?
+My mom and dad are doctors.
+
+No:
+Do you have friends?
+We are going for a vacation in summer.
+My parents love me a lot.
+```
+
 ### Classify (label)
 
 Identify if these words are conjunctions or not. (title)
@@ -71,6 +107,11 @@ Pink *and (or, but)* yellow are two colors.
 I think there are two *or (and, so)* three pens.
 Tie your laces *so (and, or)* you don't fall.
 I like shoes *but (so, or)* my sister likes sandals.
+```
+
+```
+He is 13 *and (so, or)* she is 15.
+
 ```
 
 ### Right Match (label)
@@ -135,4 +176,5 @@ Now I'll always remember to turn it off.
 
 1. https://www.bing.com/videos/search?q=conjunction+for+grade+2&docid=608005431833794286&mid=985C2211355B54FB7563985C2211355B54FB7563&view=detail&FORM=VIRE
 2. https://eviebarlow.com/
-3. 
+3. https://www.classace.io/learn/grammar/1stgrade/conjunctions
+4. 
