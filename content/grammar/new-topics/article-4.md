@@ -115,7 +115,7 @@ Dear Neha,
 I am fine and hope to hear the same from you. Our entire class went to *a (an, the)* picnic to *the (a, an)*beach.
 I was left alone. So, I went to *the (a, an)* sandy corner and sat down. 
 My mother packed me *an (a, the)* egg, cake and *a (an, the)* chocolate. 
-At that time, *a (an, the)* large sandy Lobster crawled out of *the (a, an)*sea water. 
+At that time, *a (an, the)* large sandy lobster crawled out of *the (a, an)*sea water. 
 All *the (a, an)* sea animals tried to shake hands with me. 
 But, they pricked me till I was black and blue. 
 They taught me *a (an, the)* lesson not to hurt anyone. 
@@ -201,7 +201,7 @@ Use of "the"
  
  ```
  My grandmother told me *a* story.
- Can you Pass me a *slice* of bread?
+ Can you pass me a *slice* of bread?
  There was *an* elephant in the field.
  Mahesh has an *interest* in painting.
  We saw a tiger in *the* zoo.
