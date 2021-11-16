@@ -18,3 +18,20 @@ Functions:
 2.	Bones and muscles together produce movements.
 3.	Muscles help the internal organs to work so that they can perform their functions.
 Internal organs such as heart, stomach and lungs have muscles. We can keep our muscles and bones healthy and strong by exercising regularly.  We must also maintain a correct posture while sitting, standing and walking.
+
+## Multiple choice questions
+```
+Which system provides framework to the body?
+skeletal, digestive, circulatory
+
+What protects the brain?
+skull, ribs, hip bones
+
+What pulls the bones to help the body move?
+muscles, ligament, skin
+
+What is the place where two bones meet called?
+joint, ligament, bone marrow
+```
+# Reference
+orient blackswan publications - new green tree - EVS class 5
