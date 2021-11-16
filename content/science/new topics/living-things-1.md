@@ -39,7 +39,7 @@ They can give birth to young ones.
 
 Non-living:
 They can not move on their own.
-They do not grow with time
+They do not grow with time.
 ```
 ## Group: Living vs Non-living
 Classify the things as living or non-living
@@ -47,7 +47,7 @@ Classify the things as living or non-living
 Living: fish, tree, man, baby, cat
 Non-living: chair, table, pencil, bottle
 ```
-## Basic needs. (fill up - drag and drop)
+## Basic needs (fill up - drag and drop)
 ```
 Living things need *air* to breathe.
 Living things need *water* to drink.
