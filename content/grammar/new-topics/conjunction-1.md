@@ -103,8 +103,8 @@ I drink a glass of milk everyday.
 
 ```
 Yes:
-The trees *and* plants have lots of leaves.
-We get milk from cows *and* buffalos.
+The trees and plants have lots of leaves.
+We get milk from cows and buffalos.
 
 No:
 We should keep our room clean.
