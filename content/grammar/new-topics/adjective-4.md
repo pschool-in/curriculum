@@ -305,7 +305,6 @@ It's a ___ village.
 lovely green, green lovely
 ```
 
-
 References:
 
 
@@ -323,7 +322,7 @@ https://www.englishworksheetsland.com/adjectives.html
 
 K5 learning PDF's
 
-Newpathways, AP and Telangana State baord books and few English Story books.
+Newpathways, AP and Telangana State board books and few English Story books.
 
 
 
