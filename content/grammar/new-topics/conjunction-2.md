@@ -9,8 +9,11 @@ To get familiar with what conjunctions are and how to use them.
 The word that joins two or more words or sentences is called a conjunction. In simple words, conjunctions are joining words. The most common conjunctions are 'and', 'but', 'so' and 'or'.
 
 For example:
+
 'The bird can fly.' 'The bird can sing.'
+
 These two sentences can be joined together with the help of conjunction. We can write it as;
+
 'The bird can fly *and* sing.'
 
 Some more examples are;
@@ -30,7 +33,7 @@ Some more examples are;
 Identify if the below sentences have conjunction or not. (title)
 ```
 Yes:
-We wake up early and see the sunset.
+We wake up early and see the sunrise.
 I love school but I hate maths class.
 I completed my HW so I went to play.
 
@@ -143,7 +146,7 @@ Choose the piece with the correct conjunction. (title)
 ```
 I like drawing, and painting, so painting
 She is smart, but rude, so rude
-I am late, so won't come, but won't
+I am late, so won't come, but won't come
 We can eat, or drink, but drink
 ```
 
@@ -219,7 +222,7 @@ Her friends share the chocolate with her.
 
 ```
 Teacher asked us to be quiet *and (or)* study.
-*But (So)* the naughty boys in the class did not listen.
+*But (So)* the naughty boy in the class did not listen.
 He *and (or)* his friends went to the ground.
 *So (And)* the teacher got angry *and (but)* punished them.
 ```
