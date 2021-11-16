@@ -2,16 +2,16 @@
 
 ## Learning Objective: 
 
-To understand the meanings of adjectives and to know that adjectives describe noun and pronoun.
+To understand the meanings of adjectives and to know that adjectives describe nouns and pronouns.
 
-To know how the adjectives are arranged in an order when more than one adjective is used to describe a noun or pronoun in a sentence. 
+To know how the adjectives are arranged in order when more than one adjective is used to describe a noun or pronoun in a sentence. 
 
 
 ### Reading Notes: 
-Adjectives are the words that describe the "persons", "places", "things" etc. Adjectives or describing words talk about color, number, material, quality, quantity, size, feel etc. 
+Adjectives are the words that describe the "persons", "places", "things" etc. Adjectives or describing words talk about color, number, material, quality, quantity, size, feel, etc. 
 
 For example: 
-1. Tarun is wearing a "red" shirt. (here "red" is an adjective that describes the noun "shirt" by letting us know what kind of shirt is it?)
+1. Tarun is wearing a "red" shirt. (here "red" is an adjective that describes the noun "shirt" by letting us know what kind of shirt it is?)
 2. They have purchased a "square" table. (here "square" is an adjective that describes the noun "table" by letting us know the shape of the table)
 
 Read the following sentence
@@ -20,17 +20,17 @@ Read the following sentence
 
 2. Oh dear"darling", "pretty", "good, "nice" mother, said the fifth.
 
-In these sentences words like "darling", "good", "pretty", "nice" express the qualities of a mother.
+In these sentences, words like "darling", "good", "pretty", "nice" express the qualities of a mother.
 
-It can be noticed by looking at the above two sentences that, more number of adjectives are used to describe the qualities of a mother. 
+It can be noticed by looking at the above two sentences that, more adjectives are used to describe the qualities of a mother. 
 
-In such cases we need to know how to arrange these adjectives in order. 
+In such cases, we need to know how to arrange these adjectives in order. 
 
 Given below is the order of adjectives: 
 
 1. number
 2. opinion
-3. appearance (size,shape)
+3. appearance (size, shape)
 4. age
 5. condition
 6. color
@@ -42,7 +42,7 @@ Given below is the order of adjectives:
 For example : 
 
 1. A strange, little, yellow leaf. 
-Here the arrangement of the adjectives is as follows: "a" is an article, "strange" is a opinion or quality, "little" is the size, "yellow" is the color 
+Here the arrangement of the adjectives is as follows: "a" is an article, "strange" is an opinion or quality, "little" is the size, "yellow" is the color 
 
 2. My dad is a tall, Indian Man.
 Here the arrangement of the adjectives is as follows: "tall" is a size, "Indian" is a Nationality.
@@ -81,7 +81,7 @@ Match the adjectives with suitable nouns.
 starry, night
 tall, trees
 naughty, boys
-woollen, clothes
+woolen, clothes
 cold, weather
 ```
 
@@ -117,23 +117,23 @@ Drag and drop the correct adjective to complete the sentence.
 The *naughty* boy was sent out of the music class by his teacher.
 Walking is a *healthy* exercise.
 Savitha is a *beautiful* girl.
-The cheetah is the *fastest* mammal on the land.
 Nupur likes *colorful* balloons.
-```
-
-```
-My nephew is very *pretty*.
-It is a *huge* tree.
-It was a *windy* day.
-This is a *beautiful* house.
 A rabbit has *long* ears.
 ```
 
 ```
-An Octopus has eight *long* arms.
-My dog has a *short* tail.
-A *green* pencil is there on the bench.
+My nephew is very *cute*.
+It is a *huge* tree.
+It was a *windy* day.
 I have a *blue* phone.
+The cheetah is the *fastest* mammal on the land.
+```
+
+```
+An octopus has eight *long* arms.
+My dog has a *fluffy* tail.
+A *green* pencil is there on the bench.
+This is a *beautiful* house.
 My puppy is *playful*.
 ```
 
@@ -145,16 +145,16 @@ Identify the adjective in the sentence.
 The tree is too *tall* to climb.
 Sita got *good* marks in the exam. She is very happy.
 The gold ring is *expensive*.
-Coconut trees are *tall*.
+Tarun is wearing a *red* shirt.
 The elephant is a *large* animal.
 ```
 
 ```
-Ramya is a *good* painter.
+Ramya is a *brilliant* painter.
 The music was *loud*.
 The wolf has *sharp* teeth.
 I lost my *new* anklet.
-Tarun is wearing a *red* shirt.
+Coconut trees are *tall*.
 ```
 
 ```
@@ -168,7 +168,7 @@ The *white* car is my uncle's.
 
 ## Yes or No
 
-Identify whether the sentences have correct order of adjectives or not.
+Identify whether the sentences have correct order of the adjectives or not.
 
 ```
 Yes
@@ -210,16 +210,16 @@ My dad is a *tall (Indian)*, *Indian(tall)* man.
 Drag and drop the adjectives to complete the passage.
 
 ```
-Once upon a time an *old* porcupine lived in a *large* wood with his sons. 
-One day, one of the porcupine went into the *deep* jungle to fetch some *fresh* vegetables. 
-He was a slow walker and he had just reached a *huge* cabbage, when from behind the *green* leaves, out popped a *big* hare.
-He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to hare's words and left from there. 
+Once upon a time, an *old (new)* porcupine lived in a *large (tall)* wood with his sons. 
+One day, one of the porcupines went into the *deep (long)* jungle to fetch some *fresh (spoiled)* vegetables. 
+He was a slow walker and he had just reached a *huge (black)* cabbage, when from behind the *green (stale)* leaves, out popped a *big (stripped)* hare.
+He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to the hare's words and left from there. 
 ```
 
 ```
-Once upon a time, there lived a *beautiful* stag. Like all other stags, he had *long*, *slender* legs. 
-One day he was grazing peacefuly on *tender* shoots. Suddenly, he heard the howling of *dangerous* wolves! 
-He knew, he had to escape. So he started running. Suddengly his *large* antlers got stuck in the low-hanging branch and he was unable to escape. Finally the wolves caught the stag.
+Once upon a time, there lived a *beautiful (new)* stag. Like all other stags, he had *long (brief)*, *slender (round)* legs. 
+One day he was grazing peacefully on *tender (stern)* shoots. Suddenly, he heard the howling of *dangerous (pretty)* wolves! 
+He knew, he had to escape. So he started running. Suddenly his *large (fluffy)* antlers got stuck in the low-hanging branch and he was unable to escape. Finally, the wolves caught the stag.
 ```
 
 ## Order the Adjectives (Jumbled words)
@@ -230,7 +230,7 @@ Arrange the adjectives in the correct order to make a meaningful sentence.
 A big brown bear.
 A beautiful young girl.
 A beautiful blue dress.
-A magnificient new black shoe.
+A magnificent new black shoe.
 An amazing large stone statue.
 ```
 
@@ -265,7 +265,7 @@ Identify the adjectives in the sentence.
 ```
 An adjective describes _____.
 a noun, a verb, an adverb
-The order of adjective after number is ______.
+The order of adjectives after the number is ______.
 opinion, age, color
 The car is ______.
 fast, tall, fuel
@@ -295,7 +295,7 @@ Identify the order of adjectives in the sentence.
 ```
 I bought a pair of _____ sandals.
 red leather, leather red
-It was ____ bike.
+It was a ____ bike.
 fast blue, blue fast
 It's a _______ hut.
 small round, round small
