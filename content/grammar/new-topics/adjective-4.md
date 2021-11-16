@@ -28,14 +28,16 @@ In such cases we need to know how to arrange these adjectives in order.
 
 Given below is the order of adjectives: 
 
-1. quantity/number
-2. quality/opinion
+1. number
+2. opinion
 3. appearance (size,shape)
 4. age
 5. condition
 6. color
-7. proper adjective (Nationality, place of origin or material)
-8. function or purpose
+7. pattern (checkered, stripped)
+8. proper adjective (Nationality, place of origin or material)
+9. function or purpose
+10. Noun
 
 For example : 
 
@@ -155,6 +157,15 @@ I lost my *new* anklet.
 Tarun is wearing a *red* shirt.
 ```
 
+```
+My sister likes *soft* music.
+*Colorful* butterflies fly by my window every morning.
+The *white* car is my uncle's.
+*Fast* driving is dangerous.
+*Cold* weather makes me lazy.
+```
+
+
 ## Yes or No
 
 Identify whether the sentences have correct order of adjectives or not.
@@ -194,18 +205,105 @@ The *little (pink)*, *pink(little)* mitten was lost.
 My dad is a *tall (Indian)*, *Indian(tall)* man.
 ```
 
+
 ## Complete the passage 
 Drag and drop the adjectives to complete the passage.
 
 ```
-Once upon a time an *old* porcupine lived in a *large* wood with his sons. One day, one of the porcupine went into the *deep* jungle to fetch some *fresh* vegetables. He was a slow walker and he had just reached a *huge* cabbage, when from behind the *green* leaves, out popped a *big* hare.
+Once upon a time an *old* porcupine lived in a *large* wood with his sons. 
+One day, one of the porcupine went into the *deep* jungle to fetch some *fresh* vegetables. 
+He was a slow walker and he had just reached a *huge* cabbage, when from behind the *green* leaves, out popped a *big* hare.
 He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to hare's words and left from there. 
 ```
 
 ```
-Once upon a time, there lived a *beautiful* deer. Like all deers, he had *long*, slender legs. One day he was grazing peacefuly on *tender* shoots. Suddenly, he heard the howling of *dangerous* wolves! He knew, he had to escape. So he started running. suddengly his *large* antlers got stuck in the low-hanging branch and he was unable to escape. Finally the wolves caught the deer.
+Once upon a time, there lived a *beautiful* stag. Like all other stags, he had *long*, *slender* legs. 
+One day he was grazing peacefuly on *tender* shoots. Suddenly, he heard the howling of *dangerous* wolves! 
+He knew, he had to escape. So he started running. Suddengly his *large* antlers got stuck in the low-hanging branch and he was unable to escape. Finally the wolves caught the stag.
 ```
 
+## Order the Adjectives (Jumbled words)
+
+Arrange the adjectives in the correct order to make a meaningful sentence.
+
+```
+A big brown bear.
+A beautiful young girl.
+A beautiful blue dress.
+A magnificient new black shoe.
+An amazing large stone statue.
+```
+
+```
+A handsome young boy.
+Four full boxes of chocolates.
+A talented young singer.
+A cool new black sports bike.
+Delicious Indian food.
+```
+
+```
+Beautiful blue eyes.
+A small oval table.
+A nice cold coffee.
+A beautiful long blue curtain.
+A poor little kitten.
+```
+
+```
+A big hungry lion.
+A delicious Indian biryani.
+Two ancient copper statues.
+A small round flower pot.
+A beautiful traditional saree.
+```
+
+## Identify the adjective (MCQ)
+
+Identify the adjectives in the sentence.
+
+```
+An adjective describes _____.
+a noun, a verb, an adverb
+The order of adjective after number is ______.
+opinion, age, color
+The car is ______.
+fast, tall, fuel
+Can you give me _____ water?
+little, few, no
+The dress is very ________.
+colorful, enough, some
+```
+
+```
+The _____ man bought apples.
+tall, round, blue
+When will this _____ exam be over?
+tough, sweet, frizzy
+The _____ ball rolled down.
+round, tall, short
+This is a ____ scissor.
+blunt, colorful, four
+This is a ____ mango.
+sweet, short, old
+```
+
+## Identify the order of adjectives (MCQ)
+
+Identify the order of adjectives in the sentence.
+
+```
+I bought a pair of _____ sandals.
+red leather, leather red
+It was ____ bike.
+fast blue, blue fast
+It's a _______ hut.
+small round, round small
+It's a _____ song.
+beautiful old, old beautiful
+It's a ___ village.
+lovely green, green lovely
+```
 
 
 References:
@@ -218,6 +316,10 @@ https://everydaycupofenglish.com/2017/02/13/worksheet-1-adjectives-grade4/
 https://www.education.com/worksheet/article/identifying-common-adjectives/
 
 https://www.k12reader.com/worksheet/order-of-adjectives-fill-in-the-blank/view/
+
+https://agendaweb.org/grammar/adjectives-intermediate-1.html
+
+https://www.englishworksheetsland.com/adjectives.html
 
 K5 learning PDF's
 
