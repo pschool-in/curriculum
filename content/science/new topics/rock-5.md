@@ -32,5 +32,58 @@ Minerals are underground natural resources. They can be metallic or non-mettalic
 ### Gemstones 
 Many minerals are formed in the form of crystals. They are very hard and can be cut and polished into beautiful stones called gemstones. Rubies, diamond, sapphires and emerald are examples of gemstones that are used to make jewellery.
 
+## Group: Metalic vs Non-metalic
+Classify the minerals as metalic or non-metalic.
+```
+Metalic: aluminium, copper, zinc, gold, silver
+Non-metalic:coal, petroleum
+```
+## Fill in the blanks (drag and drop)
+```
+*Basalt* is a fine grained and glassy igneous rock.
+*Minerals* are underground natural resources.
+Precious metals like gold, silver and platinum are used to make *jewellery*.
+*Sandstone* is made from particles of sand that get cemented together.
+*Slate* is shiny and is easily split into thin sheets.
+```
+## True or False
+```
+True:
+Diamond is the hardest rock.
+Limestone is used to make cement.
+
+False:
+Red fort is made of marble.
+Slate can not be drawn into sheets.
+Gemstones are useless.
+```
+## Match the following
+```
+igneous, granite
+sedimentary, limestone
+metamorphic, marble
+metalic, zinc
+ruby, gemstone
+```
+## Multiple choice questions
+```
+Which of the following is a igneous rock?
+granite, sandstone, marble
+
+Which rock is formed from limestone?
+marble, basalt, slate
+
+Which of the following is a use of gemstones?
+make jewellery, petroleum, fuel
+
+Which of the following is a precious metal?
+gold, zinc, copper
+
+Which rock was used to build Taj Mahal?
+white marble, slate, sandstone
+
+Which material was used to build Red Fort?
+red sandstone, red marble, red granite
+```
 # Reference
 http://classnotes123.com/rocks-and-minerals-class-5/
