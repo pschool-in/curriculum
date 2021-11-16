@@ -4,14 +4,14 @@
 # Grade-4
 ## Measurement - Reading
 ### Measurement
-Measurement is the process of finding out the size or quqntity of anything around us by comparing it with a standard time. Length, mass, volume, temperature and time are some of the basic things we measure daily.
+Measurement is the process of finding out the size or quantity of anything around us by comparing it with a standard time. Length, mass, volume, temperature and time are some of the basic things we measure daily.
 
 ### Measurement of Length
-Length of somethhing means its measurement from end to end. In early days, when there were no rulers, people used their body parts to measure the length. They measured length in terms of hand span, foot span, cubit or paces. But the length of body parts is different for different people, so theses method never gave accurate results.
-The standard unit of measuring length is metre(m). The smaller unit of length is centimetre(cm). To measure long distances on roads we use a bigger unit called kilometre(km). We use a ruler to measure the length of objects such as pencil, a thread, a book, etc. To measure bigger lengths such as the length of a cloth we use a  measuring rod or a measuring tape.
+Length of something means its measurement from end to end. In early days, when there were no rulers, people used their body parts to measure the length. They measured length in terms of hand span, foot span, cubit or paces. But the length of body parts is different for different people, so these method never gave accurate results.
+The standard unit of measuring length is metre(m). The smaller unit of length is centimetre(cm). To measure long distances on roads we use a bigger unit called kilometre(km). We use a ruler to measure the length of objects such as a pencil, a thread, a book, etc. To measure bigger lengths such as the length of a cloth we use a  measuring rod or a measuring tape.
 
 ### Measurement of Mass
-The mass of an object is the measurement of matter contained in it. The standard unit of mass is kilogram(kg). The smaller units of mass are gram(g). and miligram(mg). Mass of heavier objects is measured in quintal and tonnes. Mass can be measured using a physical balance, a spring balance and an electronic balance.
+The mass of an object is the measurement of matter contained in it. The standard unit of mass is kilogram(kg). The smaller units of mass are gram(g) and milligram(mg). Mass of heavier objects is measured in quintal and tonnes. Mass can be measured using a physical balance, a spring balance and an electronic balance.
 
 ### Measurement of Volume
 Volume or capacity of an object is the measurement of space occupied by it. The standard unit used for measuring volume is millilitre(ml). Measuring cylinders are used to measure small volumes of liquids.
@@ -59,7 +59,7 @@ False:
 In early time, scale was used to measure length.
 Digital balance is used to measure volume.
 ```
-## Match the following.
+## Match the following
 ```
 length, metre
 mass, kilogram
