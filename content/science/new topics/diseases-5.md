@@ -35,6 +35,9 @@ Beriberi is caused by the deficiency of Vitamin B. In those suffering from berib
 ### Night blindness
 It is caused by the lack of Vitamin A in the diet. A person suffering from night blindness finds it difficult to see in dim light. The eyes become dull, triangular patches appaer on the white portion of the eyes and the skin becomes dry and scaly. Vitamin A deficiency together with protein-energy malnutrition often affects pre-school children. It impairs their resistance to infection. A diet rich in green leafy vegetables, carrots, papaya, pumpkin, mango, milk, curd and liver will help prevent the disease.
 
+### Non-communicable diseases
+A non-communicable disease is a disease that is not transmissible directly from one person to another. They include strokes, most heart diseases, most cancers, diabetes, chronic kidney disease, cataracts, etc. Deficiency diseases are also non-communicable diseases.
+
 ## True or False
 ```
 True:
@@ -67,3 +70,4 @@ orange, milk, potato
 ```
 # Reference
 Orient blackswan publicationsn - new green tree - EVS class 5
+https://stmarysajmer.org/data/notes/Module%204/Class%205/Class%205th-%20Science%20chapter%205.pdf
