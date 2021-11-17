@@ -184,9 +184,21 @@ Use of "the"
  Names of materials-
  We wear clothes made of cotton ( not the cotton)
  
- 
- 
+ We use indefinite article to certain quantifiers like - "few", "little" to show that the quantity of the thing is small, but it adds lot of value or is of great  importance. 
 
+For example: 
+1. Mrudula was never lonely, she made " a few" good friends while she was in university. 
+
+2. My grandfather needs "a little" help with sorting his medicines.
+
+Similarly, indefinite article is also used for words like "few", "little" when words like "only" or "just" are used.
+
+For example: 
+1. Ramesh made "just a few" mistakes in his test.
+2. There is "only a little" icecream left in the fridge.
+
+
+ 
 ## Drag and Drop
  
  Drag and drop the appropriate word to complete the sentence.
@@ -280,6 +292,36 @@ No article
 Milk is good for you.
 Men are always fond of cricket.
 ```
+
+
+## Fill up 
+Choose the appropriate option to complete the sentence.
+
+```
+The roads are empty. There are only *a few (only few)* cars on the road.
+I am very busy. I have *little (a little)* time to see the email.
+I'd like to have coffee with just *a little (little)* sugar.
+Anand can speak German because he lived in Berlin for *a few (few)* years.
+You look amazing! It seems like you have lost *a little (little)* weight.
+```
+
+```
+There is *little (a little)* noise if you live in small villages.
+I have *a few (few)* good friends. I am not alone.
+Vihaan gave us *a few (few)* apples from his garden.
+I have got *a few (few)* chocolates to give away.
+Tina is lucky. She has *few (a few)* problems.
+```
+
+```
+Sweden has *little (a little)* sunshine in winter. 
+He has *little (a little)* self-confidence. He has trouble talking to new people.
+There are only *a few (few)* people she really trusts. 
+There are *few (a few)* female bike riders in my city. 
+There is *a little (little)* milk left in the fridge. It should be enough for our tea.
+```
+
+
 
 
 References: 
