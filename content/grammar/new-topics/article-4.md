@@ -35,7 +35,7 @@ When we are talking about something in general or when we mention a city or coun
  I have *a (an, the)* pet cat.
  I bought *an (a, the)* iPad yesterday.
  Kiran's mother is *the (a, an)* principal of our college.
- *The(a,an)* Ganges flows from *the (a, an)* Himalayas. 
+ *The(A,An)* Ganges flows from *the (a, an)* Himalayas. 
  ```
  
  ```
@@ -43,20 +43,20 @@ When we are talking about something in general or when we mention a city or coun
  India is *a (an, the)* country.
  Lakshadweep is *an (a, the)* island.
  He arrived *an (a, the)* hour later.
- Which bike do you like? *The (a, an)* blue one?
+ Which bike do you like? *The (A, An)* blue one?
  ```
  
  ```
  He is *an (a, the)* honest man.
  His wife is *an (a, the)* American.
  My brother acted in *a (an, the)* movie.
- *The (a, an)* laptop that I bought is not very expensive.
+ *The (A, An)* laptop that I bought is not very expensive.
  Rohit bought *a (an, the)* cup of tea.
  ```
  
  ```
  Reading is *a (an, the)* good habit.
- *The (a, an)* school will remain closed for two days.
+ *The (A, An)* school will remain closed for two days.
  My sister is *an (a, the)* English teacher.
  She bought *an (a, the)* orange dress.
  My husband is *a (an, the)* doctor.
@@ -149,14 +149,14 @@ I didn't have *any* breakfast today.
 
 ## Reading Notes: 
 
-Use of "a/an"
+## Use of "a/an"
 
 It's understood that "a" is used for words beginning with consonant sound while "an" is used before the nouns beginning with vowel sounds.
 But for certain words like univeristy, unicorn, European, union, etc we use the article "a" as they sound as "you" i.e. they begin with a consonant sound and not with vowel sound. 
 
 Similarly for words like hour, honest, heir, MBA, FIR, etc article "an" is used as they begin with a vowel sound, even though they start with consonants.
 
-Use of "the"
+## Use of "the"
 
  "the" is also used for things like - the sun, the moon, the sky, etc.
  
@@ -167,7 +167,7 @@ Use of "the"
  "the" is also used for number positions like the first, the fifth, the second, the third, etc.
  
  
- Omission of Article or No article: 
+ ## Omission of Article or No article: 
  
  We do not use articles in the following cases: 
  
@@ -182,7 +182,7 @@ Use of "the"
  Saturday is a week off. (not The Saturday)
  
  Names of materials-
- We wear clothes made of cotton ( not the cotton)
+ We wear clothes made of cotton. ( not the cotton)
  
  We use indefinite article to certain quantifiers like - "few", "little" to show that the quantity of the thing is small, but it adds lot of value or is of great  importance. 
 
