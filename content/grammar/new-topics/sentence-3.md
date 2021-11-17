@@ -66,7 +66,7 @@ Shut the door.
 ```
 Statement:
 We should not talk when teacher is teaching.
-I practice my grammar in PSchool.
+I practice my grammar a lot.
 We should complete our HW on time.
 
 Order:
