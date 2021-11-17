@@ -244,7 +244,7 @@ There is a spider on *the roof(a roof)*.
 Karthik can play *the guitar (a guitar)*.
 *The AC (An AC)* has stopped working.
 Please open *the window(a window)*.
-She is *an architect(a architect).
+She is *an architect(a architect)*.
 ```
 
 
