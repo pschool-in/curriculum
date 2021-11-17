@@ -20,5 +20,34 @@ Solar eclipse: The eclipse occurs when the moon comes in between the earth, cast
 
 Lunar eclipse: The eclipse occurs when the earth comes in between the moon and the sun, casting its shadow on the moon. A total lunar eclipse occurs when the shadow of the earth completely covers the moon. A partial lunar eclipse occurs when the shadow of the earth partially covers the moon.
 
+## Multiple choice questions
+```
+Who was the first person to set foot on the moon?
+Neil Armstrong, Edwin Aldrin, Michael Collins
+
+Which spacecraft landed on moon first?
+Apollo 11, Apollo 12, Apollo 1
+
+What happens when the earth comes in between the moon and the sun?
+lunar eclipse, solar eclipse, partial solar eclipse
+```
+## Fill in the blanks (drag and drop)
+```
+When the shadow cast by one celestial body falls on another celestial body it is called *eclipse*.
+The gravitational force of the moon is only *one-sixth* of that of the earth.
+Moon is devoid of *water* and hence there is no life on it.
+No sound can be heard on the moon because there is no *air* and sound cannot travel through a vacuum.
+```
+## True or False
+```
+True:
+The moon completes one revolution around the earth in 28 days.
+The moon gets very hot during the day and very cold at night.
+
+False:
+There is water on moon.
+We feel heavier on the moon.
+Edwin Aldrin was the first to set foot on the moon.
+```
 # Reference
 https://swiflearn.com/revision-notes/cbse/class-5/science/chapter-12/
