@@ -13,15 +13,15 @@ To understand the usage of correct comparative forms of adjectives in the senten
 
 ### Reading Notes
 
-Adjectives are the words that modify or describe the nouns or pronouns. They are also known as modifiers as they modify the noun and tell us about what a noun is in a particular context. For example: 
+Adjectives are the words that modify or describe nouns or pronouns. They are also known as modifiers as they modify the noun and tell us about what a noun is in a particular context. For example: 
 
 1. Lotus is a "beautiful" flower. ( we can simply say, lotus is a flower, but here we are describing how it looks like)
 2. Poornima is a "good" girl. 
 3. I bought a pair of "colorful" shoes.
 
-Kinds of adjectives
+## Kinds of adjectives
 
-Adjective of Quality: These adjectives provide information about the quality of person/s, things or places. They can describe about the "age", "size", "shape", "colors", "feelings", etc.
+Adjective of Quality: These adjectives provide information about the quality of person/s, things or places. They can describe the "age", "size", "shape", "colors", "feelings", etc.
 
 For example: 
 1. Ram is an "honest" boy.
@@ -33,7 +33,7 @@ For example :
 1."Many" people gathered near an accident.
 2."Few" people attended the meeting.
 
-Adjectives of Number: They describe about the number of people, things or palces spoken of. 
+Adjectives of Number: They describe the number of people, things or places spoken of. 
 For example: 
 1.  I bought "two" shirts for Diwali.
 2.  I saw "three" parrots on the branch.
@@ -52,7 +52,7 @@ For example:
 3. "our" farm
 
 
-Degrees of Comparison 
+## Degrees of Comparison 
 
 Degrees of Comparison are adjectives that change form and are used to compare one thing or person to another. 
 
@@ -61,11 +61,11 @@ Three types of Degrees of Comparison:
 1. Positive Degree: When we want to describe a person or a thing but there is no comparison, we use the positive degree. 
 Example - Lakshman is a "strong" man. 
 
-2. Comparative Degree: When we want to compare two persons or things, we use comparative degree.
- Example - Bheem is "stronger" than Lakshman. We use "more" & "than" for comparative degree of adjectives and also "-er" is added to the positive adjective.
+2. Comparative Degree: When we want to compare two persons or things, we use a comparative degree.
+ Example - Bheem is "stronger" than Lakshman. We use "more" & "than" for a comparative degree of adjectives and also "-er" is added to the positive adjective.
 
 3. Superlative Degree: When we want to compare more than two persons or things, we use the superlative degree.
-Example - Ram is the "strongest" of the three. We use "the" before the superlative degree of adjective and also "-est" at the end of adjective. 
+Example - Ram is the "strongest" of the three. We use "the" before the superlative degree of adjective and also "-est" at the end of an adjective. 
 
 
 Positive:  rich, small, ugly, fast, few, bright, big, fat, hot, thin, sad, wealthy, lucky, early 
@@ -98,16 +98,16 @@ There is *some* water in the jug.
 ```
 
 ```
-We learnt *few* songs in the class.
+We learned *new* recipe in the cooking class.
 Aditya has *four* books on his shelf.
-Bhavya wore a *red* dress.
+Bhavya wore a *traditional* dress.
 I like *cold* weather.
 Mihira is a *naughty* girl.
 ```
 
 ## True or False
 
-Classify the following statement as true of false.
+Classify the following statement as true or false.
 
 ```
 True
@@ -121,11 +121,11 @@ This and that are called interrogative adjectives.
 
 ```
 True
-Than is used in comparative degree of adjectives.
+Than is used in the comparative degree of adjectives.
 The is used before the superlative degree of adjective.
 False
-Positive degree of adjective is used to comapre qualities of two persons or things.
-Comparative degree of adjective is used to compare more than two things or people.
+Positive degree of an adjective is used to compare qualities of two persons or things.
+Comparative degree of an adjective is used to compare more than two things or people.
 ```
 
 ## Fill up
@@ -148,7 +148,7 @@ I can give you *some (many)* money if you need it.
 ```
 
 ```
-Don't eat so *many (some)* sweets, it's not good for health.
+Don't eat so *many (some)* sweets, it's not good for your health.
 I have *little (any)* interest in dancing.
 There was *little (few)* traffic near the school.
 There is *little (few)* space left in the car.
@@ -160,7 +160,7 @@ I have *less (fewer)* than an hour to complete my homework.
 Choose the correct demonstrative adjective in the sentence.
 
 ```
-*Those (This)* sheeps are running away.
+*Those (This)* sheep are running away.
 *This (These)* is the last ticket.
 *These (That)* dancers are very talented.
 *This (These)* fruit is very sour.
@@ -170,7 +170,7 @@ Choose the correct demonstrative adjective in the sentence.
 ```
 What was *that (these)* noise?
 *This (Those)* shirt does not fit me now.
-*Those (That)* children were playing the park.
+*Those (That)* children were playing in the park.
 We will clean *this (those)* room.
 Who completed *this (those)* science project?
 ```
@@ -186,23 +186,23 @@ I like *yellow* roses.
 I like *raw* mangoes.
 Adjective of quantity
 I ate *some* fried rice today.
-Add *some* sugar to the tea.
 We have *enough* time for completion of homework.
 I know very *little* about folk songs.
+Add *some* sugar to the tea.
 ```
 
 
 ```
-Demostrative adjective
+Demonstrative adjective
 What is the cost of *these* books?
-*These* shoes are too expensive.
 Give me *that* pen.
 *This* is my last performance on stage.
+*These* shoes are too expensive.
 Possessive adjectives
 Mihir is driving in *his* new red sports car.
 Samanvi has got a new car. *Her* car is very nice.
-This is my sister. *Her* name is Tanvi.
 Mahesh, where is *your* mother?
+This is my sister. *Her* name is Tanvi.
 ```
 
 
@@ -220,7 +220,7 @@ My sister is *more intelligent than* my brother.
 
 ```
 Iceland is *colder than* Spain. 
-I drive *more careful* than my father. 
+I drive *more carefully* than my father. 
 English is *easier than* Japanese. 
 My son is *taller than* his father.
 An elephant is *stronger* than Kangaroo. 
@@ -248,7 +248,7 @@ February is *the shortest* month of the year.
 
 ## Multiple choice questions
 
-Identify the correct degrees of comaprison for the sentence
+Identify the correct degrees of comparison for the sentence.
 
 ```
 The pen is light.
@@ -311,8 +311,46 @@ Pavithra is a *beautiful* girl.
 adjective of quality, demonstrative adjective, interrogative adjective
 ```
 
+## Classify (true and false template)
 
-Refernces: 
+Identify the degree of comparison for the below sentence.
+
+```
+Positive 
+This book is long.
+The airport is far.
+My mom is a good cook. 
+Comparative
+This house is bigger than that one. 
+This rose is more beautiful than others.
+He is taller than Mr.Das.
+```
+
+```
+Positive
+Her hair is short.
+She walks slow.
+Comparative
+My job is worse than yours. 
+The earth is larger than moon.
+You are more polite than meera.
+```
+
+```
+Comparative
+A car is faster than a bicycle.
+She is older than me.
+China is larger than India. 
+In Canada, January is colder than March. 
+Superlative
+This is the smallest box I have ever seen.
+Jupiter is the biggest planet in our solar system.
+I am the shortest person in my family.
+Sam is the most handsome boy in the whole school. 
+```
+
+
+References: 
 
 New pathways, TS  & Andhra Pradesh board books.  
 
