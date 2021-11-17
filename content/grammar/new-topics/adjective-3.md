@@ -8,10 +8,12 @@ To understand descriptive adjectives, adjectives of quality and quantity and als
 
 ### Reading Notes
 
-Describing words is called adjectives. In general, adjectives usually give us more information about a noun or pronoun by describing it or providing more information about it. They are also called "descriptive adjectives". They inform or tell us about how she or he looks, sounds, smells, feels or tastes.
+Describing words are called adjectives. In general, adjectives usually give us more information about a noun or pronoun by describing it or providing more information about it. They are also called "descriptive adjectives". They inform or tell us about how she or he looks, sounds, smells, feels or tastes.
 
  For example - 
+ 
 a. The dog is "black". (here dog is a naming word or noun and black is the adjective i.e., it is describing how the dog looks)
+
 b. The sweater is "fluffy". (here the sweater is a naming word and fluffy describes how the sweater feels like)
 
 Similarly, names of the colors are used as adjectives.
@@ -37,9 +39,11 @@ For example -
 Adjectives are also used to compare the qualities of two nouns and more than two nouns. These are known as "degrees of comparison".  
 
 When we compare qualities of two nouns we add "-er" + "than". 
-Example Hari is "taller than" Krishna.
+
+Example- Hari is "taller than" Krishna.
 
 When we compare qualities of more than three nouns we add "-est" +"the". 
+
 Example - Hari is "the tallest" boy in the class.
 
 
@@ -101,20 +105,20 @@ Big, house
 Drag and drop the correct adjective to complete the sentence.
 
 ```
-A *fat* woman.
-A *red* rose.
-A *happy* boy.
-A *beautiful* Peacock.
+A *fat* cow.
+A *red* apple.
+A *colorful* kite.
+A *green* parrot.
 A *black* board.
-A *tall* man.
+A *tall* tree.
 ```
 
 ```
-A *happy* person.
+An *intelligent* person.
 An *orange* chair.
 A *wide* road.
-A *green* carpet.
-She is *thin*.
+A *soft* carpet.
+She is *pretty*.
 A *big* basket.
 ```
 
@@ -122,7 +126,7 @@ A *big* basket.
 The dress is *pretty*.
 The day is *bright*.
 Mango is a *sweet* fruit.
-Sita is a *clever* girl.
+Sita is an *honest* girl.
 Our teacher is very *kind*.
 ```
 
