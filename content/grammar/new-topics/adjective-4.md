@@ -290,7 +290,7 @@ sweet, short, old
 
 ## Identify the order of adjectives (MCQ)
 
-Identify the order of adjectives in the sentence.
+Choose the appropriate options to complete the sentence.
 
 ```
 I bought a pair of _____ sandals.
@@ -304,6 +304,59 @@ beautiful old, old beautiful
 It's a ___ village.
 lovely green, green lovely
 ```
+
+```
+It's a _______ watch.
+cute Swiss, Swiss cute
+There are two _____ lamps.
+big glass, glass big
+It is a ______ bug.
+tiny black, black tiny
+That is a ____ beach.
+wonderful Goan, Goan wonderful
+This is an _______ job.
+exciting new, new exciting
+```
+
+```
+This is a _____ island.
+beautiful small, small beautiful
+I saw a ____ whale in the ocean.
+big black, black big
+I have a ______ shirt.
+pink cotton, cotton pink
+He is a _________ man.
+silly old, old silly
+I ate a ________ pizza today.
+delicious Italian, Italian delicious
+```
+
+```
+This is an ________story.
+amazing short, short amazing
+This is a ______ bag.
+cotton sleeping, sleeping cotton
+Lata Mangeshkar is a _____ singer.
+famous Indian, Indian famous
+I have a ______ dress.
+beautiful blue, blue beautiful
+```
+
+```
+I bought ______ tomatoes.
+big red, red big
+I have a _____ dog.
+small white, white small
+Those are ________ flowers.
+beautiful yellow, yellow beautiful
+My aunt has a  _______ table.
+round brown, brown round
+He is a ____ man.
+kind old, old kind
+```
+
+
+
 
 References:
 
