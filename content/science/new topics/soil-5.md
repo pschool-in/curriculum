@@ -28,5 +28,43 @@ Soil conservation is the prevention of the loss of topsoil.
 
 The best method for soil conservation is by afforestation. It is the planting of trees on a large scale. This prevents soil erosion. Soil cover is another effective method. In this method sfter harvesting one crop, farmers plant grass or dried vegetation till sowing the next crop to prevent soil erosion. Shelter belts such as hedges and trees can be used as windbreakers to reduce windspeed.They are grown along the edges of a farm land to prevent soilerosion. Terrace farming is used in hilly areas to prevent soil erosion. It is the farming done on the cut slopes of hills. Due to the cut slopes the speed of water flowing down the hills is reduced.The soil get carried and deposited from one step to the other,reducing soil erosion.
 
+## Match the following
+```
+sandy, melon
+silt, shrub
+clay, paddy
+loamy, cotton
+topsoil, fertile
+```
+## True or False
+```
+True:
+Topsoil contains humus.
+Subsoil has mineral deposits.
+Soil Erosion is a natural process.
+
+False:
+Afforestation is the cutting down of trees.
+Layers in soil profile are called horizontals.
+Parent rock has dead leaves.
+```
+## Fill in the blanks (drag and drop)
+```
+Natural process of wearing away of topsoil is called soil *erosion*.
+Rocks like basalt and limestone are seen in *parent rock* layer.
+Topsoil is black or dark *brown* in colour.
+*Clay* is used to make pots.
+```
+## Multiple Choice Questions
+```
+Which of the following does not prevent soil erosion?
+deforestation, afforestation, terrace farming
+
+Which of the following does not cause soil erosion?
+afforestation, over grazing, heavy winds
+
+Which layer of soil contains humus?
+topsoil, subsoil, bedrock
+```
 # Reference
 https://swiflearn.com/revision-notes/cbse/class-5/science/chapter-5/
