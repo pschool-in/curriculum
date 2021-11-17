@@ -4,7 +4,7 @@
 
 To be able to define and identify the adjectives in sentences.
 
-To be able to identify different kinds of adjectives - adjectives of quality, quantity, number, demonstrative, possessive and interrogative adjectives.
+To be able to understand & identify different kinds of adjectives - adjectives of quality, quantity, number, demonstrative, possessive and interrogative adjectives.
 
 To be able to identify the different kinds of adjectives in the given sentences.
 
@@ -127,6 +127,222 @@ False
 Positive degree of adjective is used to comapre qualities of two persons or things.
 Comparative degree of adjective is used to compare more than two things or people.
 ```
+
+## Fill up
+Use the correct adjective of quantity to complete the sentence.
+
+```
+I saw *many (much)* animals in the zoo.
+I have *many (much)* friends.
+How *many (much)* chocolates do you have?
+There isn't *much (many)* sugar in my milk.
+How *much (many)* water is used for boiling rice?
+```
+
+```
+There are *few (little)* chairs in the hall.
+I bought *few (little)* tomatoes from the market.
+There is *some (any)* juice left in the fridge.
+Do you want *some (any)* tea?
+I can give you *some (many)* money if you need it.
+```
+
+```
+Don't eat so *many (some)* sweets, it's not good for health.
+I have *little (any)* interest in dancing.
+There was *little (few)* traffic near the school.
+There is *little (few)* space left in the car.
+I have *less (fewer)* than an hour to complete my homework.
+```
+
+## Fill up - demonstrative adjective
+
+Choose the correct demonstrative adjective in the sentence.
+
+```
+*Those (This)* sheeps are running away.
+*This (These)* is the last ticket.
+*These (That)* dancers are very talented.
+*This (These)* fruit is very sour.
+*Those (This)* farmers are using biofertilizers for farming.
+```
+
+```
+What was *that (these)* noise?
+*This (Those)* shirt does not fit me now.
+*Those (That)* children were playing the park.
+We will clean *this (those)* room.
+Who completed *this (those)* science project?
+```
+
+## Classify
+Identify the underlined adjective and state its kind.
+
+```
+Adjective of quality
+This boy has a *sweet* voice.
+That is a *big* ground.
+I like *yellow* roses.
+I like *raw* mangoes.
+Adjective of quantity
+I ate *some* fried rice today.
+Add *some* sugar to the tea.
+We have *enough* time for completion of homework.
+I know very *little* about folk songs.
+```
+
+
+```
+Demostrative adjective
+What is the cost of *these* books?
+*These* shoes are too expensive.
+Give me *that* pen.
+*This* is my last performance on stage.
+Possessive adjectives
+Mihir is driving in *his* new red sports car.
+Samanvi has got a new car. *Her* car is very nice.
+This is my sister. *Her* name is Tanvi.
+Mahesh, where is *your* mother?
+```
+
+
+## Identify (select the word) 
+
+Identify the comparative degree of adjective in the sentence. 
+
+```
+My house is *bigger than* yours.
+I am *smarter than* my brother. 
+The summer is *warmer than* winter.
+Tortoises live *longer than* cats.
+My sister is *more intelligent than* my brother.
+```
+
+```
+Iceland is *colder than* Spain. 
+I drive *more careful* than my father. 
+English is *easier than* Japanese. 
+My son is *taller than* his father.
+An elephant is *stronger* than Kangaroo. 
+```
+
+## Identify (select the word)
+
+Identify the superlative degree of adjective in the sentence.
+
+```
+Cheetah is *the fastest* animal in the world.  
+May is *the hottest* month of the year. 
+Which mountain is *the highest* in the world?
+Dhruv is *the noisiest* student in the school. 
+This is *the best* book I have read.
+```
+
+```
+Friday is *the busiest* day of the week.
+Mrs. Sunita is *the most polite* teacher I have ever met. 
+Madan is *the slowest* runner in our class. 
+Hyderabad is *the most beautiful* city in Telangana. 
+February is *the shortest* month of the year.
+```
+
+## Multiple choice questions
+
+Identify the correct degrees of comaprison for the sentence
+
+```
+The pen is light.
+positive, comparative, superlative
+She is very beautiful.
+positive, comparative, superlative
+London is the largest city in England.
+superlative, comparative, positive
+Whales are the biggest animals. 
+superlative, comparative, positive
+A school  is noisier than a hospital
+comparative, superlative, positive
+```
+
+```
+Meera's work is better than Ram's.
+comparative, positive, superlative
+Athletes are usually more famous than scientists.
+comparative, superlative, positive 
+Poornima's hair is longer than yours.
+comparative, superlative, positive
+Arjun is a strong boy.
+positive, comparative, superlative
+India is a democratic country.
+positive, comparative, superlative
+```
+
+```
+Mango is sweet.
+positive, comparative, superlative
+This is the most interesting book I have read. 
+superlative, comparative, positive
+The Himalayas are a mountain range in Asia.
+positive, comparative, superlative
+Mount Everest is the highest peak.
+superlative, comparative, positive
+```
+
+
+## MCQ
+
+See the underlined adjective and identify the kind of adjective.
+
+```
+Asha has got *five* pencils.
+adjective of number, adjective of quality, adjective of quantity
+Who gave you *that* box?
+demonstrative adjective, possessive adjective, interrogative adjective
+A week has *seven* days.
+adjective of number, adjective of quantity, adjective of quality
+There are *few* chairs in the hall.
+adjecitve of quantity, adjective of number, adjective of quality
+*Which* is your bag?
+interrogative adjective, possessive adjecitve, demonstartive adjective
+My dad is an *excellent* cook.
+adjective of quality, adjective of quantity, adjective of number
+*Many* students attended the exam.
+adjective of quantity, adjective of quality, demonstrative adjective
+Pavithra is a *beautiful* girl.
+adjective of quality, demonstrative adjective, interrogative adjective
+```
+
+
+Refernces: 
+
+New pathways, TS  & Andhra Pradesh board books.  
+
+https://educationwithfun.com/course/view.php?id=27&section=4
+
+http://www.learnersplanet.com/types-of-adjectives-class-5-english-worksheets
+
+https://www.turtlediary.com/worksheets/fifth-grade/adjectives.html
+
+https://www.learninsta.com/adjective-exercise-for-class-5/
+
+https://www.englishworksheetsland.com/grade4/4ordering.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
