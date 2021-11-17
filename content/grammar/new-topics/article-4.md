@@ -298,7 +298,7 @@ Men are always fond of cricket.
 Choose the appropriate option to complete the sentence.
 
 ```
-The roads are empty. There are only *a few (only few)* cars on the road.
+The roads are empty. There are only *a few (few)* cars on the road.
 I am very busy. I have *little (a little)* time to see the email.
 I'd like to have coffee with just *a little (little)* sugar.
 Anand can speak German because he lived in Berlin for *a few (few)* years.
@@ -306,7 +306,7 @@ You look amazing! It seems like you have lost *a little (little)* weight.
 ```
 
 ```
-There is *little (a little)* noise if you live in small villages.
+There is *little (a little)* noise in small villages.
 I have *a few (few)* good friends. I am not alone.
 Vihaan gave us *a few (few)* apples from his garden.
 I have got *a few (few)* chocolates to give away.
