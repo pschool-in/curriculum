@@ -63,7 +63,7 @@ Sentences are of 5 types.
 
 Identify the types of sentences. (title)
 ```
-What a amazing experience! *Exclamatory*
+What an amazing experience! *Exclamatory*
 Give me my notebook back. *Imperative*
 I will be late for class. *Declarative*
 May I borrow your pen? *Interrogative*
