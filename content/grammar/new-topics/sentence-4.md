@@ -4,11 +4,11 @@ To be able to understand what is subject-verb agreement.
 
 # Grade-4
 
-## Suject-verb agreement
+## Subject-verb agreement
 
-We know that subject is anything that we are talking about. On the other hand, verb is a word that describes any action.
+We know that subject is anything that we are talking about. On the other hand, a verb is a word that describes any action.
 
-Subject-verb agreement means that in a sentence, the subject and verb should agree with each other in terms of number. It means that if the subject is singular, then the verb used will be singular. And if the subject is plural, then the verb will also be plural. Some exampples are:
+Subject-verb agreement means that in a sentence, the subject and verb should agree with each other in terms of number. It means that if the subject is singular, then the verb used will be singular. And if the subject is plural, then the verb will also be plural. Example:
 1. I like to study.
 
 In this sentence, the subject 'I' is singular, so the verb 'like' is also singular.
@@ -62,7 +62,7 @@ He is, playing.
 
 ```
 Aliens, have spaceships.
-Alien, has spaceship.
+Alien, has a spaceship.
 Monitor, is the class head.
 Monitors, are class heads.
 ```
@@ -110,7 +110,7 @@ They, are nice, is nice
 ```
 That lady, looks like my mom, look like my mom
 Apples, are good, is good
-The players, practise, practises
+The players, practice, practices
 The chefs, cook well, cooks well
 My grandma, walks in the park, walk in the park
 ```
@@ -146,7 +146,7 @@ My parents are very loving
 Sakshi is helping the teacher
 My Dad is coming today
 I am going to the party
-My mom likes my friends alot
+My mom likes my friends a lot
 My grandpa brings me presents
 ```
 
@@ -160,16 +160,16 @@ I like going to restaurants
 
 ```
 I bought a new laptop
-Rakhi loves to eat burger
+Rakhi loves to eat a burger
 Rahul is a good boy
 I'm going to the book fair
-We want to visit Taj Mahal
+We want to visit the Taj Mahal
 ```
 
 ```
-We have smart board in classroom
+We have a smart board in the classroom
 The cat jumped over the fence
-I put my clothes in almirah
+I put my clothes in an almirah
 Our team will play well
 She is very helpful
 ```
@@ -179,13 +179,13 @@ She is very helpful
 State whether the following sentences are true or false. (title)
 ```
 True:
-Subject is what we are talking about.
-Verb is the action word.
-Subject and verb should agree with other in number.
+The subject is what we are talking about.
+The verb is the action word.
+Subject and verb should agree with others in number.
 
 False:
-Subject is the action word.
-Verb is that we are talking about.
+The subject is the action word.
+The verb is what we are talking about.
 Subject and verb should agree with each other in quality.
 ```
 
@@ -196,9 +196,9 @@ For a singular subject, the verb will be singular.
 We use a singular verb for a 3rd person plural subject.
 
 False:
-For a 3rd person singular subject, we use singular verb.
+For a 3rd person singular subject, we use a singular verb.
 For a plural verb, the subject is always singular.
-Subject verb agreement isn't necessary in a sentence.
+Subject-verb agreement isn't necessary for a sentence.
 ```
 
 # References
