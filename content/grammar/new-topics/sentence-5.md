@@ -62,3 +62,52 @@ Sentences are of 5 types.
 ### Fill by Drag (label)
 
 Identify the types of sentences. (title)
+```
+What a amazing experience! *Exclamatory*
+Give me my notebook back. *Imperative*
+I will be late for class. *Declarative*
+May I borrow your pen? *Interrogative*
+```
+
+```
+I don’t have his phone number. *Declarative*
+When is he coming from School? *Interrogative*
+May God bless you! *Exclamatory*
+Do as I say. *Imperative*
+```
+
+```
+Wait for me. *Imperative*
+What do you do? *Interrogative*
+I am very happy!. *Exclamatory*
+My mother makes delicious noodles. *Declarative*
+```
+
+```
+I had ice cream in the morning. *Declarative*
+Get out! *Imperative*
+Where are we going? *Interrogative*
+Hurry up! *Exclamatory*
+```
+
+```
+Stop being so loud! *Exclamatory*
+When do we leave for school? *Interrogative*
+My favourite superhero is batman. *Declarative*
+Clean your room. *Imperative*
+```
+
+### Right Match (label)
+
+Choose the correct puzzle piece. (title)
+```
+Declarative, Statement, Order
+Imperative, Command, Question
+Exclamatory, Expression, Order
+Interrogative, Question, Command
+```
+
+# References
+
+1. https://perfectyourenglish.com/blog/kinds-of-sentences-worksheet-for-class-5/
+2. https://www.k5learning.com/blog/sentence-types
