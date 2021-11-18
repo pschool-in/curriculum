@@ -68,6 +68,11 @@ Richa doesn't work *hard (hardly, hardily)*.
 She knows the road *well (good, goodly)*.
 We have to get up *early (earlily, soon)*.
 Our teacher arrives *late (lately, soonly)* for class.
+He ate his meal *quickly (quick, quickily)*.
+He is very *talented (talent, talents)*.
+They missed the bus, *unfortunately (unfortunate, fortunately)*.
+They waited *patiently (patient, patience)* until 1 pm.
+She tried on her new dress *happily (happyly, happy)*.
 ```
 
 ```
@@ -76,6 +81,11 @@ She speaks very *quietly (quiet, quitely)*.
 He plays the guitar *terribly (terrible, terribily)*.
 She walked *happily (happy, happly)* to the school.
 He planned the trip *nicely (nice, nicily)*.
+She spoke *softly (softness, soft)*.
+James shouted *loudly (loud, louds)* to call her.
+He swims *well (good, medium)*.
+She *angrily (angryly, angry)* shut the door.
+She is very *greedy (greedily, greed)*.
 ```
 
 #### Correct Spelling (label)
@@ -111,11 +121,10 @@ Gentle, Gently, Gentley
 Correct, Correctly, Corrects
 ```
 
-
-
-
 # References
 
 1. https://www.bing.com/videos/search?q=adverb+of+manner+grade+3&docid=608000982245907664&mid=D3D779F58BF82FD5FE18D3D779F58BF82FD5FE18&view=detail&FORM=VIRE
 2. https://docs.google.com/viewerng/viewer?url=http://yourenglishsource.com/wp-content/uploads/2015/02/L52-Adverbs-of-Manner.pdf&hl=en_US
 3. https://docs.google.com/viewerng/viewer?url=http://www.autoenglish.org/gr.adverbs.pdf&hl=en_US
+4. https://www.twinkl.co.in/teaching-wiki/adverb-of-manner
+5. https://www.ef.com/wwen/english-resources/english-grammar/adverbs-manner/
