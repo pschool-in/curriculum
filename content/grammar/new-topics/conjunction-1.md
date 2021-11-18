@@ -34,7 +34,7 @@ Rahul got ready, *but (and)* he forgot his watch.
 I will eat lunch *and (but)* watch TV.
 My mom is cooking *and (but)* helping me with HW.
 I like chocolates, *but (and)* I'm not allowed to eat.
-My dad is working, *but (and)* he don't want to.
+My dad is working, *but (and)* he doesn't want to.
 ```
 
 ```
@@ -52,9 +52,9 @@ Maahi goes to the shop everyday *and (but)* buys candies.
 ```
 
 ```
-My mom gave me a watch *but (and)* I wanted a videogame.
+My mom gave me a watch *but (and)* I wanted a video game.
 The teacher gives HW *but (and)* most students don't do it.
-Priya lives in the city *and (but)* visit her grandma every Sunday.
+Priya lives in the city *and (but)* visits her grandma every Sunday.
 She plays *and (but)* studies in the park.
 ```
 
@@ -116,7 +116,7 @@ We have a blackboard in the class.
 Tap on the joining words in these sentences. (title)
 ```
 I have a black shirt *and* a blue jeans.
-He likes pasta *but* I like burger.
+He likes pasta *but* I like burgers.
 We play cricket *and* chess at school.
 My dad has a car *but* he likes to drive a motorcycle.
 She studies at noon *and* plays in the evening.
@@ -148,7 +148,7 @@ I throw the stick *but* my dog never runs to get it.
 
 ```
 Neha is friends with all boys *and* girls in the class.
-We burn crackers *and* eat sweets in Diwali.
+We burn crackers *and* eat sweets on Diwali.
 We have a dog *but* I also want a cat.
 Mohan is a smart boy *but* he is not good at sports.
 I like reading books *and* eating vegetables.
@@ -174,7 +174,7 @@ I have a tricycle, but I like bicycles, and I like bicycles
 ```
 The car is grey, and fast, but fast
 It is my playtime, but I'm sleepy, and I'm sleepy
-She said thankyou, and she left, but she left
+She said thank you, and she left, but she left
 We run, and play, but play
 ```
 
@@ -189,7 +189,7 @@ Mom washed my clothes, but they're still dirty, and they're still dirty
 Eggs boil, and float, but float
 I have videogames, but my friends play outside, and my friends play outside
 I am sick, and not going to school, but not going to school
-He practised a lot, but did not win, and did not win
+He practiced a lot, but did not win, and did not win
 ```
 
 # References
