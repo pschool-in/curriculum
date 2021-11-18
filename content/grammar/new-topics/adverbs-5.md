@@ -9,9 +9,9 @@ To understand what is adverb of frequency and to be able to identify and use it 
 Adverb of frequency tells us;
 1. how many times an action has occurred in the past.
 2. how many times does it occur in the present.
-3. how many times it will occur in the future.
+3. how many times will it occur in the future.
 
-Some of the common adverbs of frequency are sometimes, usually, always, generally, seldom, rarely, often, ever, weekly, monthly, etc. Some examples are:
+Examples are sometimes, usually, always, generally, seldom, rarely, often, ever, weekly, monthly, etc.
 1. Rashi *never* plays cricket.
 2. Amir visits his grandparents *weekly*.
 3. She *sometimes* teaches younger kids.
@@ -23,7 +23,7 @@ Some of the common adverbs of frequency are sometimes, usually, always, generall
 
 Tap on the adverb of frequency in the below sentences. (title)
 ```
-*Sometimes*, they go on school trips.
+*Sometimes*, the school take the kids to the zoo.
 Ayushi is *usually* very rude.
 My grandma *often* goes for a walk in the morning.
 I *never* go outside in the afternoon.
@@ -31,7 +31,7 @@ He *often* listens to the radio.
 ```
 
 ```
-He sleeps during lectures *frequently*.
+He sleeps during the classes *frequently*.
 The newspaper is *usually* delivered in the morning.
 Does she *often* help her mother?
 Sheena *rarely* studies for exams.
@@ -46,7 +46,7 @@ My little sister is *always* hungry.
 Sheenu *usually* helps her mother in the kitchen.
 ```
 
-#### Classify (label)
+#### Drag and Drop (label)
 
 Identify if these words are adverbs of frequency or not. (title)
 ```
@@ -81,4 +81,3 @@ Noisily, Safely, Intelligent, Great
 
 1. https://educationwithfun.com/course/view.php?id=27&section=8
 2. https://instantworksheet.info/adverbs-of-frequency-worksheets-for-grade-5/#:~:text=Adverb%20of%20frequency%20grade%205.%20English%20as%20a,verb%20to%20be%20am%20is%20are%20was%20were.
-3. 
