@@ -2,23 +2,21 @@
 
 ## Learning Objective
 
-To understand the meanings of adjectives and how they are used to describe a noun or a naming word or a pronoun.
+To understand the meaning of adjectives and how they are used to describe a noun or a pronoun.
 
-To understand descriptive adjectives, adjectives of quality and quantity and also degrees of comparison.
+To understand adjectives of quality, quantity and also degrees of comparison.
 
 ### Reading Notes
 
-Describing words are called adjectives. In general, adjectives usually give us more information about a noun or pronoun by describing it or providing more information about it. They are also called "descriptive adjectives". They inform or tell us about how she or he looks, sounds, smells, feels or tastes.
+The words that are used to describe a noun or a pronoun are called as adjectives. They give us more information about a noun or pronoun by describing it. They inform or tell us about how she or he looks, sounds, smells, feels or tastes. Names of the colors are also used as adjectives.
 
  For example - 
  
-a. The dog is "black". (here dog is a naming word or noun and black is the adjective i.e., it is describing how the dog looks)
+a. The dog is "black". (here dog is a noun and black is the adjective i.e., it is describing how the dog looks)
 
-b. The sweater is "fluffy". (here the sweater is a naming word and fluffy describes how the sweater feels like)
+b. The sweater is "fluffy". (here the sweater is a noun and fluffy describes how the sweater feels like)
 
-Similarly, names of the colors are used as adjectives.
-
-Adjectives are also used to describe the qualities of two things or people. They are called "adjectives of quality".
+Adjectives are used to describe the qualities of things or people. They are called "adjectives of quality".
 
 Example - 
 
@@ -28,15 +26,13 @@ It was a "rainy" day.
 
 Hyderabad is a "big" city.
 
-Adjectives of quantity determine or describe how much of the noun is being specified in the sentence. 
-
-Words like "much", "little", "some", "any", "whole" etc are used to describe the quantity.
+Adjectives are used to determine or describe the quantity of the noun. Words like "much", "little", "some", "any", "whole" etc are used to describe the quantity of the noun.
 
 For example -
 1. Preethi ate the "whole" cake.
 2. How "much" money do you have?
 
-Adjectives are also used to compare the qualities of two nouns and more than two nouns. These are known as "degrees of comparison".  
+Adjectives are used to compare the qualities of two nouns and more than two nouns. These are known as "degrees of comparison".  
 
 When we compare qualities of two nouns we add "-er" + "than". 
 
@@ -53,7 +49,7 @@ Identify which one of the following is an adjective and which is not.
 
 ```
 Adjective: Beautiful, Tall, Black, Red, Happy, Fat
-Not an adjective: Park, Bread, Pencil, Rose, Board, peacock
+Not an adjective: Park, Bread, Pencil, Rose, Board, Peacock
 ```
 
 ```
@@ -83,43 +79,65 @@ Adjectives are used in joining the words.
 
 ## Match
 
-Match the following adjectives with their corresponding naming words.
+Match the most appropriate adjectives with their corresponding naming words.
 
 ```
 Cheerful, boy
 Tall, building
 Sweet, mangoes
 Colorful, umbrella
+Black, dog
+Pretty, women
 ```
 
 ```
 New, dress
 Clever, girl
 Yellow, flowers
-Big, house
-```
-
-
-## Pick-out
-
-Drag and drop the correct adjective to complete the sentence.
-
-```
-A *fat* cow.
-A *red* apple.
-A *colorful* kite.
-A *green* parrot.
-A *black* board.
-A *tall* tree.
+Brick, house
+Green, parrot
+Crunchy, chips
 ```
 
 ```
-An *intelligent* person.
-An *orange* chair.
-A *wide* road.
-A *soft* carpet.
-She is *pretty*.
-A *big* basket.
+Black, board
+Tall, tree
+Narrow, road
+Pretty, girl
+Colorful, kite
+Strong, bull
+```
+
+```
+Blue, sky
+Big, room
+Soft, carpet
+Thorny, bush
+Brown, bear
+Wild, dog
+```
+
+
+## Drag and drop
+
+Drag and drop the appropriate adjective to complete the sentence.
+
+```
+He is a *short* boy.
+She wore a *beautiful* dress.
+She bought a *big* kite.
+I saw a *green* parrot in the zoo.
+There is a *black* board in my classroom.
+There is a *tall* mango tree in my garden.
+```
+
+```
+She is an *intelligent* student in the class.
+I bought an *orange* chair from the market.
+We live in a *big* city.
+Ram is a *funny* guy.
+She has a *black* cat.
+My mother has a *curly* hair.
 ```
 
 ```
@@ -137,10 +155,10 @@ Select the correct word to complete the sentence.
 
 ```
 Manisha is wearing a *beautiful (tall)* dress.
-She loves to eat *sweet (slim)* apples.
+She loves to eat *fresh (slim)* apples.
 Rahul has *curly (deep)* hair.
 A ball is *round (curly)* in shape.
-Birds have *little (high)* feathers.
+Birds have *beautiful (high)* feathers.
 ```
 
 ```
@@ -155,33 +173,41 @@ The book is very *colorful (ill)*.
 A car has *four (three)* wheels.
 Coffee is hot but ice is *cold ( black)*.
 I like to sleep on a *soft (hard)* bed.
-The Indian team was *delighted (sad)* when they won the match.
+The Indian team was *happy (sad)* when they won the match.
 I saw some *black (green)* clouds.
 ```
 
-## Identify 
+## Fill-Up
 
-Select the correct comparative degree of adjective in the sentence.
+Drag and drop the appropriate adjective in the sentence.
 
 ```
-Giraffe is *bigger than* lion.
+The lion is a *big* animal.
+The Rhinoceros is *bigger* than lion.
+The elephant is the *biggest* of three animals.
+```
+```
 Suhani is a *clever* girl.
-The Ganga is *longer than* Yamuna.
-Mahesh is *the tallest* boy in the class.
-Mount Everest in *the highest* peak in the world.
+Geeta is *cleverer* than Suhani. 
+Sita is the *cleverest* of all three.
 ```
 
 ```
-Mangoes are *sweeter than* oranges.
-Gold is *costlier than* silver.
-My house is *bigger than* yours.
-This is *the biggest* park in the city.
-May is *hotter than* March.
+Krishna is a *tall* boy.
+Hari is *taller* than Krishna.
+Mahesh is the *tallest* boy in the class.
 ```
+
+```
+Teju is an *active* girl.
+Laukya is *more active* than Teju.
+Padma is the *most active* girl among three.
+```
+
 
 ## Identify 
 
-Select the correct adjective of quantity in the sentence.
+Select the adjective of quantity in the sentence.
 
 ```
 There are *five* pencils in my box.
@@ -193,8 +219,7 @@ I read the *whole* book.
 
 ## Identify
 
-Select the descriptive adjective in the sentence.
-
+Select the adjective in the sentence.
 
 ```
 The girl was very *smart*.
@@ -203,6 +228,16 @@ Siri is a *noisy* girl.
 Rohan lives in a *big* city.
 These are the *fresh* fruits.
 ```
+
+```
+Neeta has *long* hair.
+This is a *funny* movie.
+This is a *huge* snake.
+I have a pair of *yellow* shoes.
+We live in a *small* village.
+```
+
+
 
 
 
@@ -217,6 +252,8 @@ https://www.studyadda.com/question-bank/3rd-class/english/adjectives/adjectives/
 https://www.studiestoday.com/node/219472/viewfile.html
 
 https://www.tiwariacademy.com/ncert-solutions/class-3/english/grammar/chapter-16/#class-3-english-grammar-chapter-16-adjective
+
+https://www.learnenglishfeelgood.com/adjective-in-sentence1.html
 
 New pathways and AP state board book.
 
