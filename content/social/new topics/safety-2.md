@@ -39,5 +39,22 @@ Keep water, juice, or any other types of *liquid* away from electronics.
 Don’t touch electrical objects with *wet* hands.
 Don’t use electrical objects in the *bathroom*.
 ```
+### Safety on playground
+1. Inform your parents before going outdoors to play.
+2. Land on your feet while jumping. Avoid falling on the knees.
+3. Wear comfortable clothes that can not get stuck or trapped in slides and swings.
+4. Never push other children or cause any harm.
+5. If there are many children playing on the same slide or swing, wait patiently for your turn.
+6. Do not go too close to the swing when someone is using it.
+7. Never jump of a moving swing and hold onto the chains with both hands.
+8. If you are playing in the school ground, do not leave the area without teachers permission.
+
+## Fill in the blanks 
+```
+Never *push* other children or cause any harm.
+Do not go too *close* to the swing when someone is using it.
+Inform your *parents* before going outdoors to play.
+Land on your *feet* while jumping.
+```
 # References
 https://www.highspeedtraining.co.uk/hub/electrical-safety-for-kids/
