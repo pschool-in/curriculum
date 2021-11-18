@@ -22,3 +22,24 @@ Communication can be divide as *personal* communication and mass communication.
 Urgent letters can be send by *speed post*.
 *Postal service* is the oldest means of personal communication.
 ```
+## Match the following
+```
+Graham Bell, telephone
+kindle, e-reader
+letter, personal
+e-mail, internet
+radio, mass
+```
+## True or False
+```
+True:
+Letters are used for personal communication.
+Mobile phones are the fastest means for communication.
+
+False:
+Radio is used for personal communication.
+Mass communication reaches only few people.
+Alexander Graham Bell invented the radio.
+```
+# Reference
+Madhubun Publications - Class 3 - hues
