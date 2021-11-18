@@ -150,6 +150,57 @@ My mom likes my friends alot
 My grandpa brings me presents
 ```
 
+```
+The dog is barking
+There are many fishes in oceans
+Parrots have red beaks
+Noodles are Chinese food
+I like going to restaurants
+```
+
+```
+I bought a new laptop
+Rakhi loves to eat burger
+Rahul is a good boy
+I'm going to the book fair
+We want to visit Taj Mahal
+```
+
+```
+We have smart board in classroom
+The cat jumped over the fence
+I put my clothes in almirah
+Our team will play well
+She is very helpful
+```
+
+### True or False (label)
+
+State whether the following sentences are true or false. (title)
+```
+True:
+Subject is what we are talking about.
+Verb is the action word.
+Subject and verb should agree with other in number.
+
+False:
+Subject is the action word.
+Verb is that we are talking about.
+Subject and verb should agree with each other in quality.
+```
+
+```
+True:
+We have a plural verb for a plural subject.
+For a singular subject, the verb will be singular.
+We use a singular verb for a 3rd person plural subject.
+
+False:
+For a 3rd person singular subject, we use singular verb.
+For a plural verb, the subject is always singular.
+Subject verb agreement isn't necessary in a sentence.
+```
+
 # References
 
 1. https://educationwithfun.com/course/view.php?id=17&section=7
