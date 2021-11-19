@@ -1,4 +1,4 @@
-# Pronoun 
+# Reflexive Pronoun 
 
 ## Objectives
 1. To understand reflexive pronouns and their usage.
@@ -36,9 +36,9 @@ Reflexive pronoun: myself, herself, itself, himself, yourselves, themselves
 Non-reflexive pronoun: he, mine, she, her, them, they, me, him
 ```
 
-## Match 
+## Match the following
 
-Match the nouns to the reflexive pronouns
+Match the pronouns to the reflexive pronouns
 
 ```
 I, myself
@@ -57,16 +57,21 @@ me, myself
 ```
 
 
-## Pick-out (select the word)
+## Identify-Reflexive pronoun (select the word)
 
 Select the reflexive pronoun in the sentence.
 
 ```
 I will do the job *myself*.
-They cannot take care of *themselves*.
+Did you write the poem *yourself*?
 I carried the heavy box by *myself*.
 My brother and I looked at *ourselves* in the mirror.
 I introduced *myself* to my neighbours.
+Let's clean the room *ourselves*.
+Can you tell me about *yourself*?
+Amrita baked this cake *herself*.
+We bought *ourselves* a new car.
+I went to the bank by *myself*.
 ```
 
 ```
@@ -75,14 +80,24 @@ Amit hurt *himself* while playing.
 Meena and Mahesh did the project all by *themselves*.
 She went to the park by *herself*.
 I love *myself*.
+Harish lives in a big house by *himself*.
+I don't like eating by *myself*.
+Lets complete this work *ourselves*.
+The AC turned-off *itself*.
+We will build the tree house by *ourselves*.
 ```
 
 ```
-I cannot do it by *myself*.
+I cannot do it *myself*.
 Rudra can paint the picture *himself* because he is good at painting.
 Suhaani, did you make the kheer *yourself*?
 Manisha made a video about gardening *herself*.
 We enjoyed *ourselves* very much at the party.
+She poured *herself* some milk.
+I dressed *myself* for the party.
+I made lunch all by *myself*.
+She hurt *herself* while stitching the frok.
+Did you learn French *yourself*?
 ```
 
 
@@ -97,6 +112,11 @@ He did all the paintings by *himself(themselves)*.
 The dog hurt *itself(himself)*. 
 Shaanvi sang quietly to *herself(itself)*.
 Shiva hurt *himself(ourselves)* while climbing the ladder.
+Rajeev was proud of *himself*.
+He went trekking by *himself*.
+Subrat and Shiv cleaned the room by *themselves*.
+I carried the rice bag *myself*.
+Did you clean the dishes *yourself*?
 ```
 
 ```
@@ -105,6 +125,11 @@ I repaired my car *myself(itself)*.
 I planted the roses *myself(herself)*.
 He made the breakfast *himself(themselves)*.
 Aditya and Teja can take care of *themselves(ourselves)*.
+You must take care of *yourself*.
+She bought *herself* a new dress.
+They are doing the homework *themselves*.
+Don't hurt *yourself* while cooking.
+We cooked biryani *ourselves* for the guests.
 ```
 
 ## True or False 
