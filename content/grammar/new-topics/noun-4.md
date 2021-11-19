@@ -53,6 +53,22 @@ Abstract:
 Peace, Justice, Artistry, Friendship
 ```
 
+```
+Concrete:
+Table, Feet, Melody, Pie
+
+Abstract:
+Luxury, Joy, Maturity, Work
+```
+
+```
+Concrete:
+Fish, Grapes, Soap, Stairs
+
+Abstract:
+Happiness, Dinner, Habit, Manners
+```
+
 #### Select the word. (label)
 
 Select the concrete noun in the below sentences. (title)
@@ -62,6 +78,11 @@ You can have some *pie* after dinner.
 The loud *noise* made mom upset.
 You need good *friends.*
 Seema felt love for her new *dog.*
+My throat is swollen due to *cold water.*
+My father bought me the *book.*
+My skin is very *dry.*
+This is my favorite *sweater.*
+It was difficult to go home because of the *wind.*
 ```
 
 ```
@@ -70,25 +91,11 @@ A *dove* is a symbol of peace.
 Owning two *cars* is a luxury.
 Your story needs more *excitement.*
 The math *formula* is stored in your memory.
-```
-
-#### Classify (label)
-
-Classify whether these nouns are abstract or concrete. (title)
-```
-Abstract:
-Luxury, Joy, Maturity, Work
-
-Concrete:
-Table, Feet, Melody, Pie
-```
-
-```
-Abstract:
-Happiness, Dinner, Habit, Manners
-
-Concrete:
-Fish, Grapes, Soap, Stairs
+It is impossible to sleep in this *noise.*
+The smell of her *perfume* is very sweet.
+They turned off the *lights.*
+I'm *afraid* of dogs.
+I'm not going outside in the *fear* of dogs.
 ```
 
 # References
@@ -97,3 +104,4 @@ Fish, Grapes, Soap, Stairs
 2. https://www.tutorpace.com/writing/concrete-nouns-online-tutoring
 3. https://www.k5learning.com/worksheets/grammar/grade-3-nouns-abstract-a.pdf
 4. https://www.k5learning.com/worksheets/grammar/grade-3-nouns-abstract-b.pdf
+5. https://lessonsforenglish.com/nouns/concrete-noun-examples-in-sentences-and-expressions/
