@@ -1,7 +1,7 @@
 # Verb ( Action words) 
 
 ## Learning Objective
-To be able to understand what is a action word or helping words.
+To be able to understand what is an action word or helping words.
 
 To be able to identify the action words and helping words in the sentence.
 
@@ -30,7 +30,7 @@ The words that help us talk about the action are called as "helping words". The 
 
 ## Classify
 
-Drag and drop the words into appropriate box.
+Drag and drop the words into the appropriate box.
 
 ```
 Action words: sell, eat, sit, stand, write, read
@@ -43,7 +43,7 @@ Non-action words: duck, frog, cheetah, pizza, carpet
 ```
 
 ```
-Action words:blow, pull, push, smile, cry
+Action words: blow, pull, push, smile, cry
 Non-action words: balloon, door, table, pot, jug
 ```
 
@@ -71,7 +71,7 @@ sell, fruits, vegetables, plants
 make, cake, cookie, biscuit
 ```
 
-## Pick-out
+## Drag and Drop
 
 Drag and drop the appropriate word in the blank.
 
@@ -79,12 +79,12 @@ Drag and drop the appropriate word in the blank.
 Teachers *go* to school.
 Mother *cooks* food.
 Buffalo *eats* grass.
-Grandfather *tells* stories.
+Grandfather *tells* us stories every night.
 Birds *fly* in the air.
 ```
 
 ```
-Pinky *sleeps* on sofa.
+Pinky *sleeps* on the sofa.
 She *reads* story books.
 Manish *drinks* milk.
 *Get* me the tie.
@@ -123,14 +123,14 @@ The lion *roared* in the jungle.
 
 ## Fill in the blanks (with options)
 
-Fill in the blanks with appropriate action word.
+Fill in the blanks with an appropriate action word.
 
 ```
 He is *singing (sing)* on the stage.
 Meera is *drinking (drink)* water.
 I am *eating (eat)* an orange.
 Sudheer is *listening (listen)* to his favorite song.
-She is *brushing* her teeth.
+She is *brushing (brush)* her teeth.
 ```
 
 ```
@@ -143,7 +143,7 @@ Pinky is *walking (walk)* to school.
 
 ## Classify
 
-Identify whether the underlined word is an action word or naming word.
+Identify whether the underlined word is an action word or a naming word.
 
 ```
 Action word
@@ -165,16 +165,16 @@ Fill in the blanks with the appropriate helping verb.
 ```
 I *am (is)* reading a book about Cinderella.
 Mahima *is (am)* practicing drawing.
-Me and my brother *are (is)* going to market.
+Me and my brother *are (is)* going to the market.
 I *will (have)* train you in dancing.
-He *is (are)* working for the weekend.
+He *is (are)* working very hard on weekends.
 ```
 
 ```
 The music teacher *will (have)* post the results soon.
 I *am (are)* learning to paint.
 It *might (have)* rain tomorrow.
-*Could (may)* you please give me the book.
+*Could (May)* you please give me the book.
 I *have (has)* bought a pair of dresses.
 ```
 
@@ -188,6 +188,29 @@ One day the wind and sun had a competition. They *wanted* to make a man take off
 First the wind *blew* hard. The man *pulled* his coat tightly around himself. Then the sun 
 *started* shinning hard. The man *felt* hot and he *took* off his coat. 
 ```
+
+## Identify (select word)
+
+Select the helping verb from the sentence.
+
+```
+Your little daughter *is* growing very fast.
+My father *might* drive me to the school today.
+I *will* not go to the playground today.
+Kalyan *was* reading a book this morning.
+They *may* dance for the annual day together.
+```
+
+```
+The bus *was* going to Mumbai.
+They *have* been to Tirupathi last month.
+Dhruv *should* listen to his teacher in class.
+Madhav *is* playing the harmonium.
+I *am* writing a scary story.
+```
+
+
+
 
 
 References: 
