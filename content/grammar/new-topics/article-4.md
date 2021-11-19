@@ -1,4 +1,4 @@
-# Article 
+# Article- Quantifiers 
 
 ## Objective
  To be able to understand the correct usage of articles in the text and also to understand quantifiers.
@@ -33,9 +33,13 @@ When we are talking about something in general or when we mention a city or coun
  I met *a (the, an)* friend in the store. 
  He ate *an (a, the)* orange for his breakfast.
  I have *a (an, the)* pet cat.
- I bought *an (a, the)* iPad yesterday.
- Kiran's mother is *the (a, an)* principal of our college.
+ My dad bought me *an (a, the)* iPad yesterday.
+ Mrs.Bhavani is *the (a, an)* principal of our college.
  *The(A,An)* Ganges flows from *the (a, an)* Himalayas. 
+ There is *an (a, the)* eucalyptus tree near my building.
+ Manvi is *a (an, the)* small village in Karnataka.
+ Mohan has *an (a, the)* interest in singing.
+ *The (An, A)* building on the corner is under construction. 
  ```
  
  ```
@@ -44,6 +48,11 @@ When we are talking about something in general or when we mention a city or coun
  Lakshadweep is *an (a, the)* island.
  He arrived *an (a, the)* hour later.
  Which bike do you like? *The (A, An)* blue one?
+ Pass me *the (a, an)* slice of bread.
+ I saw *an (a, the)* eagle flying near my fields.
+ *The (A, An)* Tajmahal is in Agra.
+ My mom bought *a (an, the)* pair of jeans and a shirt.
+ There is *an (a, the)* umbrella in my bag.
  ```
  
  ```
@@ -52,6 +61,11 @@ When we are talking about something in general or when we mention a city or coun
  My brother acted in *a (an, the)* movie.
  *The (A, An)* laptop that I bought is not very expensive.
  Rohit bought *a (an, the)* cup of tea.
+ Copper is *an (a, the)* useful metal.
+ He gave me *an (a, the)* inkpot and *a (an, the)* pen.
+ *The (A, An)* rose is a beautiful flower.
+ I saw *a (an, the)* baby hippo in *the (a, an)* zoo.
+ I saw *an (a, the)* anthill in my garden. 
  ```
  
  ```
@@ -60,9 +74,14 @@ When we are talking about something in general or when we mention a city or coun
  My sister is *an (a, the)* English teacher.
  She bought *an (a, the)* orange dress.
  My husband is *a (an, the)* doctor.
+ My neighbour bought *a (an, the)* new car.
+ *The (a, an)* Birla planetarium is located in Hyderabad.
+ My dad is *an (a, the)* engineer.
+ Adi's brother bought *a (an, the)* new bicycle.
+ Are you coming to *the (a, an)* library tomorrow? 
  ```
  
- ## Identify (select the word)
+ ## Identify - Article
  
  Select the article in the sentence. 
  
@@ -72,14 +91,24 @@ When we are talking about something in general or when we mention a city or coun
  Tia has *a* cat.
  I can see *a* blue car.
  This is *an* easy question.
+ Piya is eating *an* apple.
+ Somnath is reading *a* book.
+ Karthik is sleeping on *the* sofa.
+ Mihir has *an* old bike.
+ My sister wants to be *an* astronaut.
  ```
  
  ```
  I had *an* egg for breakfast.
  My son wants to be *an* architect.
-*The* British drink too much tea.
+ My cousin is *a* pilot. 
  There is *an* orange in the fridge.
  Did you read *the* book I gave you?
+ Swati is *a* nice girl.
+ Manish was *the* first to arrive in class.
+ I have *a* little white kitten.
+ There is *a* beehive on neem tree.
+ Aladdin had *a* magic lamp. 
  ```
  
  ```
@@ -88,9 +117,14 @@ When we are talking about something in general or when we mention a city or coun
  Neil Armstrong was *an* American astronaut.
  This is exactly *the* shirt I was looking for.
  Mr.Iyer is *an* honorary member of our council.
+ My grandfather was *the* village chief.
+ *The* fruit market will be closed on Tuesday.
+ He gave me *a* call in the evening.
+ Reading is *a* good habit.
+ Mahesh bought *a* new watch. 
  ```
  
- ## Yes or No
+ ## Articles - Yes or No
  
  Identify whether the sentences have articles or not.
  
@@ -105,6 +139,17 @@ When we are talking about something in general or when we mention a city or coun
  Umbrella is useful thing.
  ```
   
+ ```
+ Yes
+ Dog is a man's best friend.
+ Sun rises in the east.
+ Shannu is a nice boy.
+ No
+ Cross road carefully.
+ Arya goes to missionary school.
+ Read social textbook carefully.
+ ```
+   
  
  ## Complete the letter 
  
@@ -147,7 +192,7 @@ I didn't have *any* breakfast today.
 
 # Grade 5
 
-## Reading Notes: 
+## Reading Notes: Letters with dual roles/indefinite articles with quantifiers
 
 ## Use of "a/an"
 
@@ -184,7 +229,8 @@ Similarly for words like hour, honest, heir, MBA, FIR, etc article "an" is used 
  Names of materials-
  We wear clothes made of cotton. ( not the cotton)
  
- We use indefinite article to certain quantifiers like - "few", "little" to show that the quantity of the thing is small, but it adds lot of value or is of great  importance. 
+ ## Quantifiers: 
+ We use indefinite article to certain quantifiers like - "few", "little" to show that the quantity of the thing is small, but it adds lot of value or is of great importance. When little and few are used, it is essential to consider whether the noun referred to is countable or not. The quantifier ‘a little’ (with and without the article ‘a’) is needed for small quantities with uncountable nouns. ‘A few’ (with and without the article ‘a’), on the other hand, requires countable nouns in the plural if the speaker wants to express a small number. 
 
 For example: 
 1. Mrudula was never lonely, she made " a few" good friends while she was in university. 
@@ -199,7 +245,7 @@ For example:
 
 
  
-## Drag and Drop
+## Complete the sentence
  
  Drag and drop the appropriate word to complete the sentence.
  
@@ -219,7 +265,7 @@ For example:
  We saw a tiger in *the* zoo.
  ```
 
-## Fill in the blanks 
+## Choose the word
 
 Select the appropriate word to complete the sentence.
 
@@ -229,6 +275,11 @@ This is my best friend *Vamshi (the vamshi)*.
 My mother is *a doctor (the doctor)*. 
 My brother is *an author (a author)*. 
 Cow is *a domestic (an domestic)* animal.
+Riyaan wanted *a new (an new)* watch for his birthday.
+All students must obey *the rules (an rules)* of the school.
+My mom is *an MBA (a MBA)* graduate.
+My teacher read *an interesting (a interesting)* story from today's newspaper.
+Mrs. Sunita is *an excellent (a excellent)* teacher.
 ```
 
 ```
@@ -237,16 +288,25 @@ One of my cousins is *an engineer(a engineer)*.
 My son wants to be *a scientist (an scientist)*.
 Do you have *a passport (an passport)*?
 My grandmother is as wise an *an owl(a owl)*.
+We have *an exam (a exam)* tomorrow.
+My parents waited *an hour (a hour)* in the railway station.
+Richa is *an honest (a honest)* student in the class.
+Sumitra's father is *an advocate (the advocate)*. 
+Ravi met with *an accident (the accident)* yesterday.
 ```
 
 ```
 There is a spider on *the roof(a roof)*.
 Karthik can play *the guitar (a guitar)*.
-*The AC (An AC)* has stopped working.
-Please open *the window(a window)*.
+*The AC (An, AC)* has stopped working.
+Please open *the window (a window)*.
 She is *an architect(a architect)*.
+He can play *the flute (an flute)*.
+*The Himalayas (A Himalayas)* lie to North of India.
+Sanskrit is *a difficult (an difficult)* language.
+The children found *an egg (a egg)* in the bird's nest.
+I met him at *the hotel (a hotel)* yesterday.
 ```
-
 
 
 ## Complete the conversation
@@ -261,7 +321,7 @@ Radha: To finish it, we can add *the (a)* chocolate icing on top of *the(a)* cak
 Krishna: okay. I hope our family is going to like *the(a)* cake we make.
 ```
 
-## Identify 
+## Classify- Articles or No article
 
 Select whether the sentence has a definite/indefinite/no article.
 
@@ -303,9 +363,6 @@ I am very busy. I have *little (a little)* time to see the email.
 I'd like to have coffee with just *a little (little)* sugar.
 Anand can speak German because he lived in Berlin for *a few (few)* years.
 You look amazing! It seems like you have lost *a little (little)* weight.
-```
-
-```
 There is *little (a little)* noise in small villages.
 I have *a few (few)* good friends. I am not alone.
 Vihaan gave us *a few (few)* apples from his garden.
@@ -319,6 +376,11 @@ He has *little (a little)* self-confidence. He has trouble talking to new people
 There are only *a few (few)* people she really trusts. 
 There are *few (a few)* female bike riders in my city. 
 There is *a little (little)* milk left in the fridge. It should be enough for our tea.
+There are *a few (few)* horses grazing in front of the barn.
+Can you buy *a few (few)* apples?
+You have *a little (little)* time left.
+My neighbour let me pick *a few (few)* mangoes from the tree.
+There are *a few (few)* tables in the auditorium.
 ```
 
 
