@@ -26,17 +26,15 @@ Identify these positive and negative describing words. (title)
 ```
 Positive: Smart, Pretty, Beautiful, Soft
 
-Negative: Ugly, Bad, Hard
+Negative: Ugly, Bad, Hard, Stupid
 ```
 
-Identify these positive and negative describing words. (title)
 ```
 Positive: Happy, Perfect, Wise, Wonderful
 
 Negative: Cruel, Sad, Boring, Dull
 ```
 
-Identify these positive and negative describing words. (title)
 ```
 Positive: Talented, Natural, Caring, Amazing
 
@@ -50,12 +48,10 @@ Identify these describing words. (title)
 Big, Pretty, Small, Round, Sweet, Soft
 ```
 
-Identify these describing words. (title)
 ```
 Hard, Brave, Great, Good, Brown, Red
 ```
 
-Identify these describing words. (title)
 ```
 Smart, Two, Loving, Bad, Strong, Weak
 ```
@@ -71,7 +67,6 @@ I have a *red* cap.
 Aman is *confused* about a maths problem.
 ```
 
-Tap on the describing words in these sentences. (title)
 ```
 I read a story about an *ugly* witch.
 A *fast* car always win in races.
@@ -80,7 +75,6 @@ A lion roars very *loudly*.
 Goods train is very *long*.
 ```
 
-Tap on the describing words in these sentences. (title)
 ```
 A *poor* man was sitting on roadside.
 This is a *pleasant* weather.
@@ -100,7 +94,6 @@ Clean, Chleane
 Tall, Tale
 ```
 
-Identify the correct spelling of descibing words. (title)
 ```
 Long, Longe
 Fast, Fest
@@ -120,7 +113,6 @@ Pleasant, Weather
 Loud, Lion
 ```
 
-Match the pairs. (title)
 ```
 Clean, Room
 Smart, Student
@@ -129,8 +121,6 @@ Ugly, Pig
 Round, Ball
 ```
 
-
-Match the pairs. (title)
 ```
 Red, Colour
 Two, Hands
@@ -143,9 +133,9 @@ Sweet, Dish
 
 Choose the correct describing words. (title)
 ```
-Neha likes to ride in______cars.
+Neha likes______cars.
 fast, the, all
-_______trees are easy to climb.
+I can climb_______trees.
 Small, Big, Large
 My mom is a______lady.
 pretty, bad, old
@@ -155,12 +145,11 @@ Disha caught the______ball.
 red, far, near
 ```
 
-Choose the correct describing words. (title)
 ```
 I love my______puppy.
 little, bad, slow
 We went down the_______slide.
-giant, round, steep
+long, round, steep
 My little sister loves_______toys.
 soft, sweet, fast
 The_______sun warms our house.
@@ -169,7 +158,6 @@ That is an_______bug.
 ugly, sweet, long
 ```
 
-Choose the correct describing words. (title)
 ```
 Snowbell is a______cat.
 nice, dull, long
