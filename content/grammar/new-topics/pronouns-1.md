@@ -108,8 +108,6 @@ ______was my father's ring.
 This, These
 ```
 
-
-Select the correct demonstrative pronoun for each sentence. (title)
 ```
 ______is mine.
 This, These, Such
@@ -132,7 +130,7 @@ For example:
 'Rahul' is a noun in this sentence. So, it can be replaced with the personal pronoun 'he'. So this sentence can also be written as,
 *He* is a good boy.
 
-Some more examples of personal pronouns are:
+Examples:
 1. *He* eats grapes.
 2. *She* likes pear.
 3. You can have *it.*
