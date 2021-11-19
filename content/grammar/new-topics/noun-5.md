@@ -52,22 +52,19 @@ Neuter:
 Paper, Computer, School, Pencil
 ```
 
-#### Classify (label)
-
-Identify whether these nouns are common gender or neuter gender. (title)
 ```
-Common Gender:
+Common:
 Servant, Neighbour, Cousin, Friend
 
-Neuter Gender:
+Neuter:
 Bus, TV, Speaker, Box
 ```
 
 ```
-Common Gender:
+Common:
 Doctor, Teacher, Minister, Painter
 
-Neuter Gender:
+Neuter:
 Ocean, Words, Train, Road
 ```
 
@@ -85,7 +82,36 @@ Non-living things are named as common gender nouns.
 Non-living things are named neutral gender nouns.
 ```
 
+### Identify (label) (select word)
+
+Select the common and neuter gender nouns in these sentences. (title)
+```
+*Birds* live in trees.
+I love my *parents.*
+The *baby* is crying.
+The *young ones* are playing.
+There are forty *students* in the class.
+My English *teacher* is very polite.
+The *doctor* gave me medicines.
+I have very good *friends.*
+I saw a *stranger* in the park.
+The *children* are praying.
+```
+
+```
+The books are on the *table.*
+He is sitting on the *chair.*
+The *picutre* is on the *wall.*
+This *stick* is made of *wood.*
+She rang the *bell.*
+Our *house* is in the city.
+There are many red *bricks* on roadside.
+I forgot my *phone* at home.
+That *car* was very fast.
+This is my *video game.*
+```
+
 # References
 
 1. https://educationwithfun.com/course/view.php?id=27&section=7
-2. 
+2. https://www.eenglishgrammar.com/2017/11/gender-of-nouns-masculine-feminine.html
