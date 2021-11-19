@@ -46,6 +46,22 @@ My little sister is *always* hungry.
 Sheenu *usually* helps her mother in the kitchen.
 ```
 
+```
+The teacher checks our homework *weekly.*
+He is *always* late.
+*Sometimes* they come and eat with us.
+I play cricket *occasionally.*
+We *rarely* watch movies.
+```
+
+```
+We have our exams *twice* a year.
+I eat meals *three times* a day.
+I spoke to him *once.*
+I drink a glass of water *every* hour.
+I take a bath *daily.*
+```
+
 #### Drag and Drop (label)
 
 Identify if these words are adverbs of frequency or not. (title)
@@ -73,11 +89,54 @@ No:
 Noisily, Safely, Intelligent, Great
 ```
 
-#### 
+```
+Yes:
+Ocassionally, Normally, Now, Often
 
+No:
+Intelligent, Slow, Sleep, Jump
+```
 
+```
+Yes:
+Soon, Today, Generally, Ever
+
+No:
+Walk, Talk, Dance, Speak
+```
+
+#### Identify (label) (fillup with options)
+
+Choose the correct adverb of frequency. Tap on each blank to view options. (title)
+```
+We go on a vacation *annually (annualy, once).*
+He is *often (offten, twice)* late for class.
+We should brush our teeth *twice (two, twise)* in a day.
+I *usually (usual, general)* wake up late on holidays.
+Ram is *never (not, nor)* late for work.
+I *often (more, usual)* travel on weekends.
+When do you *uaually (almost, utmost)* study?
+My dad is late, *yet (but, for)* he'll go to the office.
+*Yesterday (Yesternight, Usually)* we had sports day at school.
+I will do my HW *tonight (some night, in day).*
+```
+
+```
+My mom *always (anyways, alway)* gives me lunch.
+I am *constantly (constant, most)* thinking about it.
+I go to school *daily (usual, frequent).*
+He *generally (general, usual)* eats biscuits with tea.
+I'll talk to you *later (late, lately).*
+Come here *now (today, you).*
+I *rarely (lowly, less)* speak to him.
+My dad will be home *soon (fast, quick).*
+My aunt is coming to my home *today (to day, this day).*
+*Sometimes (Sometime, Usualy)* we stop to buy candies on our way home.
+```
 
 # References
 
 1. https://educationwithfun.com/course/view.php?id=27&section=8
 2. https://instantworksheet.info/adverbs-of-frequency-worksheets-for-grade-5/#:~:text=Adverb%20of%20frequency%20grade%205.%20English%20as%20a,verb%20to%20be%20am%20is%20are%20was%20were.
+3. https://www.gingersoftware.com/content/grammar-rules/adverb/adverbs-frequency/
+4. https://www.englishclub.com/grammar/adverbs-frequency.htm
