@@ -46,6 +46,30 @@ Adverb:
 Happily, Slowly, Badly, Nicely
 ```
 
+```
+Adjective:
+Smart, Loud, Big, Huge
+
+Adeverb:
+Really, Suddenly, Tightly, Tearfully
+```
+
+```
+Adjective:
+Red, Brown, Green, Yellow
+
+Adverb:
+Heavily, Tightly, Attentively, Hurriedly
+```
+
+```
+Adjective:
+Soft, Beautiful, Normal, Personal
+
+Adverb:
+Softly, Beautifully, Normally, Personally
+```
+
 #### Match the following (label)
 
 Match the adjectives and their adverbs. (title)
@@ -54,9 +78,39 @@ Bad, Badly
 Noisy, Noisily
 Beautiful, Beautifully
 Easy, Easily
-Hard, Hardly
 Careful, Carefully
+```
+
+```
+Quick, Quickly
+Tight, Tightly
+Quiet, Quietly
+Near, Nearly
 Good, Well
+```
+
+```
+Greedy, Greedily
+Gentle, Gently
+Fluent, Fluently
+Hard, Hardly
+Fast, Fast
+```
+
+```
+Rapid, Rapidly
+Brief, Briefly
+Careless, Carelessly
+Loud, Loudly
+Most, Mostly
+```
+
+```
+Eager, Eagerly
+Awkward, Awkwardly
+Bright, Brightly
+Busy, Busily
+Clear, Clearly
 ```
 
 #### Fill up with options (label)
@@ -100,6 +154,21 @@ Sadly, Sads
 Hopefully, Hopefuly
 Gently, Gentley
 Possibly, Possibley
+Cruelly, Cruely
+Doubtfully, Doubtfuly
+```
+
+```
+Eagerly, Eagers
+Easily, Easyly
+Equally, Equaly
+Exactly, Exactily
+Faithfully, Faithfuley
+Foolishly, Foolishily
+Gladly, Gladily
+Honestly, Honestty
+Innocently, Inocently
+Joyously, Joyosly
 ```
 
 #### Right match (label)
@@ -111,14 +180,24 @@ Possible, Possibly, Possibley
 Pleasant, Pleasantly, Pleasantary
 Happy, Happily, Happilie
 Bad, Badly, Badley
-```
-
-```
 Quick, Quickly, Quickey
 Slow, Slowly, Slowey
 Fast, Fastly, Fastily
 Gentle, Gently, Gentley
 Correct, Correctly, Corrects
+```
+
+```
+Kind, Kindly, Kindily
+Lazy, Lazily, Lazyly
+Neat, Neatly, Neatily
+Nervous, Nervously, Nervosly
+Noisy, Noisily, Noisyly
+Open, Openly, Openlly
+Pain, Painfully, Painfuly
+Powerful, Powerfully, Powerfuly
+Rapid, Rapidly, Rapidlly
+Rare, Rarely, Rarelly
 ```
 
 # References
@@ -128,3 +207,5 @@ Correct, Correctly, Corrects
 3. https://docs.google.com/viewerng/viewer?url=http://www.autoenglish.org/gr.adverbs.pdf&hl=en_US
 4. https://www.twinkl.co.in/teaching-wiki/adverb-of-manner
 5. https://www.ef.com/wwen/english-resources/english-grammar/adverbs-manner/
+6. https://www.wallstreetenglish.com/exercises/adverbs-of-manner
+7. https://www.gingersoftware.com/content/grammar-rules/adverb/adverbs-manner/
