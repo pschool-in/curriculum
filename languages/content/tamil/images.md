@@ -55,12 +55,52 @@ mosquito, கொசு
 ```
 
 ```
-cctopus, ஆக்டோபஸ்
+octopus, ஆக்டோபஸ்
 wolf, ஓநாய்
 cockroach, கரப்பான் பூச்சி
 garden-lizard, ஓணான்
 lizard, பல்லி
 rabbit, முயல்
+```
+
+```
+alligator, 
+boar, 
+cricket,
+hyena, 
+polarbear, 
+antelope, 
+bug, 
+jackal, 
+prawn, 
+baboon, 
+```
+
+```
+bull, 
+dinosaur, 
+python, 
+bison, 
+chameleon, 
+pocupine, 
+bee, 
+goldfish, 
+jellyfish, 
+tigerfish,
+```
+
+```
+ladybug, 
+seahorse, 
+hamster, 
+mole, 
+spider, 
+caterpillar, 
+panda, 
+starfish, 
+earthworm, 
+hedgehog, 
+stingray, 
 ```
 
 # Birds
@@ -85,6 +125,11 @@ rooster, சேவல்
 vulture, கழுகு
 wood-pecker, மரங்கொத்தி
 hornbill,
+cuckoo, 
+pheasant, 
+falcon, 
+swan, 
+
 
 ```
 
