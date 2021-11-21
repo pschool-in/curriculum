@@ -65,42 +65,42 @@ rabbit, முயல்
 
 ```
 alligator, 
-boar, 
+boar, காட்டுப் பன்றி
 cricket,
-hyena, 
-polarbear, 
-antelope, 
-bug, 
-jackal, 
-prawn, 
-baboon, 
+hyena, கழுதைப் புலி
+polarbear, பனிக்கரடி
+antelope, மான்
+bug, வண்டு
+jackal, நரி
+prawn, இறால்
+baboon, வாலில்லாக் குரங்கு
 ```
 
 ```
-bull, 
-dinosaur, 
-python, 
-bison, 
-chameleon, 
-pocupine, 
-bee, 
-goldfish, 
+bull, காளை
+dinosaur, டைனோசர்
+python, மலைப்பாம்பு
+bison, காட்டெருமை
+chameleon, பச்சோந்தி
+pocupine, முள்ளம்பன்றி
+bee, தேனீ
+goldfish, தங்கமீன்
 jellyfish, 
 tigerfish,
 ```
 
 ```
 ladybug, 
-seahorse, 
-hamster, 
+seahorse, கடற்குதிரை
+hamster, வெள்ளெலி
 mole, 
-spider, 
-caterpillar, 
-panda, 
-starfish, 
-earthworm, 
-hedgehog, 
-stingray, 
+spider, சிலந்தி
+caterpillar, கம்பளிப்பூச்சி
+panda, பாண்டா
+starfish, நட்சத்திர மீன்
+earthworm, மண்புழு
+hedgehog, முள்ளெலி
+stingray, திருக்கை மீன்
 ```
 
 # Birds
@@ -125,16 +125,16 @@ rooster, சேவல்
 vulture, கழுகு
 wood-pecker, மரங்கொத்தி
 hornbill,
-cuckoo, 
+cuckoo, குயில்
 pheasant, 
-falcon, 
-swan, 
+falcon, பருந்து
+swan, அன்னப்பறவை
 bulbul,
-spotted-dove,
+spotted-dove, மணிப்புறா
 felican,
 humming-bird,
-robin,
-swallow,
+robin, கருஞ்சிட்டு
+swallow,  தகைவிலாங் குருவி
 blue-jay,
 seagull,
 canary,
@@ -293,6 +293,8 @@ baby, குழந்தை
 boy, சிறுவன்
 girl, சிறுமி
 man, ஆண்
+```
+```
 woman, பெண்
 ball, பந்து
 coat, மேலங்கி
@@ -303,6 +305,9 @@ flower-pot,
 umbrella,
 door,
 broom,
+```
+
+```
 window,
 air-conditioner,
 sofa,
@@ -313,6 +318,9 @@ washing-machine,
 backpack,
 pillow,
 shoe,
+```
+
+```
 sock,
 boots,
 basket,
@@ -323,6 +331,9 @@ gloves,
 scarf,
 sweater,
 bib,
+```
+
+```
 handbag,
 shirt,
 jacket,
@@ -362,6 +373,9 @@ butter, வெண்ணெய்
 plate, 
 tap,
 lid,
+```
+
+```
 blender,
 cheese,
 fridge,
@@ -372,6 +386,9 @@ bowl,
 chicken,
 ice-cream,
 meat,
+```
+
+```
 salt,
 sweets,
 bread,
@@ -469,6 +486,8 @@ cobbler,
 goldsmith,
 potter,
 weaver,
+```
+```
 carpenter,
 diver,
 diver,
@@ -476,7 +495,7 @@ sailor,
 chef,
 doctor,
 police,
-soldier
+soldier,
 ```
 
 
@@ -493,6 +512,8 @@ brush, தூரிகை
 bone, எலும்பு துண்டு
 auvai, அவ்வை
 bell, மணி
+```
+```
 bird, பறவை
 conch, சங்கு
 drums
@@ -503,12 +524,45 @@ king, அரசன்
 kite, பட்டம்
 ladder, ஏணி
 laddu, லட்டு
+```
+
+```
 leaf, இலை
 rishi, முனிவர்
 wheel, சக்கரம்
 whistle, ஊதல்
 world, உலகம்
 yazl, யாழ்
+bullock-cart,
+touch-me-not,
+yagna,
+yarn-ball,
+```
+```
+bow,
+arrow,
+fountain,
+pouch,
+top,
+hexagon,
+trident,
+damaru,
+trolley,
+stick,
+```
+
+```
+twig,
+dhol,
+palanquin,
+medicine,
+balloon,
+radio,
+toothbrush,
+chocolate,
+toothpaste,
+toothpaste,
+coin,
 ```
 
 # More image request
