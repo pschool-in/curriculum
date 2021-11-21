@@ -58,7 +58,7 @@ mosquito, கொசு
 cctopus, ஆக்டோபஸ்
 wolf, ஓநாய்
 cockroach, கரப்பான் பூச்சி
-garden-lizard, தோட்ட பல்லி
+garden-lizard, ஓணான்
 lizard, பல்லி
 rabbit, முயல்
 ```
@@ -79,7 +79,7 @@ crane, கொக்கு
 flamingo,
 kingfisher, மீன் கொத்தி
 myna, மைனா
-ostrich, தீக்கோழி
+ostrich, நெருப்புக்கோழி
 owl, ஆந்தை
 rooster, சேவல்
 vulture, கழுகு
@@ -114,7 +114,7 @@ capsicum, குடை மிளகாய்
 cashewnut, முந்திரி
 chilli, பச்சைமிளகாய்
 coconut, தேங்காய்
-corianderleaf, கொத்தமல்லித்தலை
+corianderleaf, கொத்தமல்லி
 ```
 
 ```
@@ -122,8 +122,8 @@ curryleaf, கருவேப்பிலை
 drumstick, முருங்கைக்காய்
 greenpeas, பச்சை பட்டாணி
 ladies-finger, வெண்டைக்காய்
-mintleaf, புதினா இலை
-peanut, நிலக்கடலை
+mintleaf, புதினா
+peanut, வேர்க்கடலை
 radish, முள்ளங்கி
 spinach, கீரை
 ```
@@ -199,7 +199,7 @@ bed, மெத்தை
 candle, மெழுகுவர்த்தி
 chair, நாற்காலி
 shelf, அலமாரி
-baby,
+baby, குழந்தை
 boy, சிறுவன்
 girl, சிறுமி
 man, ஆண்
@@ -301,7 +301,7 @@ tooth, பல்
 
 ```
 sun, சூரியன்
-moon,
+moon, நிலா
 rain, மழை
 star, நட்சத்திரம்
 milk, பால்
