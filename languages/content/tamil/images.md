@@ -129,10 +129,59 @@ cuckoo,
 pheasant, 
 falcon, 
 swan, 
-
+bulbul,
+spotted-dove,
+felican,
+humming-bird,
+robin,
+swallow,
+blue-jay,
+seagull,
+canary,
+goose,
+turkey,
+hawk,
+cardinal,
+parakeet,
 
 ```
 
+# பழங்கள்
+
+```
+apple, ஆப்பிள்
+grapes, திராட்சை
+banana, வாழைப்பழம்
+cherry
+avocado
+strawberry
+guava, கொய்யாப்பழம்
+jackfruit, பலாப்பழம்
+mango, மாம்பழம்
+orange, ஆரஞ்சு
+papaya, பப்பாளி
+pineapple, அன்னாசிப்பழம்
+pomegranate, மாதுளை
+watermelon, தர்பூசணி
+fig, அத்திப்பழம்
+custard-apple, சீத்தாப்பழம்
+plum,
+dates, பேரிச்சம்பழம்
+muskmelon,
+star-fruit, 
+dragon-fruit, 
+passion-fruit, 
+sugarcane, 
+peach, 
+sweet-potato, 
+jamun, 
+pear,
+water-chesnut, 
+jujube, 
+sapotta, 
+tapioca, 
+blueberry,
+```
 # காய்கறிகள்
 
 ```
@@ -171,31 +220,13 @@ mintleaf, புதினா
 peanut, வேர்க்கடலை
 radish, முள்ளங்கி
 spinach, கீரை
-```
-
-# பழங்கள்
-
-```
-apple, ஆப்பிள்
-grapes, திராட்சை
-banana, வாழைப்பழம்
-cherry
-avocado
-strawberry
-guava, கொய்யாப்பழம்
-jackfruit, பலாப்பழம்
-mango, மாம்பழம்
-orange, ஆரஞ்சு
-papaya, பப்பாளி
-pineapple, அன்னாசிப்பழம்
-pomegranate, மாதுளை
-watermelon, தர்பூசணி
-fig, அத்திப்பழம்
-custard-apple, சீத்தாப்பழம்
-plum,
-dates, பேரிச்சம்பழம்
-muskmelon,
-
+chickpea, 
+mustard-greens, 
+turmeric, 
+turnip, 
+fenugreek, 
+tamarind, 
+elephant-yam, 
 
 ```
 
@@ -210,6 +241,16 @@ hibiscus, செம்பருத்தி
 jasmine, மல்லி
 tulip,
 zinnia,
+daffodil,
+gulmohar,
+lily,
+pansy,
+poppy,
+daisy,
+jasmine,
+mangolia,
+periwinkle,
+water-lily,
 ```
 
 # வாகனங்கள்
@@ -233,7 +274,11 @@ excavator,
 fire-engine, தீயணைப்பு வாகனம்
 lorry, சரக்குந்து
 van,
+bulldozer,
+rocket,
+submarine,
 ```
+
 
 # House
 
@@ -254,6 +299,36 @@ coat, மேலங்கி
 glasses, மூக்கு கண்ணாடி
 clock, கடிகாரம்
 watch, கைக்கடிகாரம்
+flower-pot,
+umbrella,
+door,
+broom,
+window,
+air-conditioner,
+sofa,
+bucket,
+toilet,
+soap,
+washing-machine,
+backpack,
+pillow,
+shoe,
+sock,
+boots,
+basket,
+dustbin,
+pyjama,
+bed-lamp,
+gloves,
+scarf,
+sweater,
+bib,
+handbag,
+shirt,
+jacket,
+hat,
+trousers,
+dress
 ```
 
 # School
@@ -271,6 +346,7 @@ calculator, கணிப்பான்
 book, புத்தகம்
 color-pencils,
 crayons,
+ink,
 ```
 
 # Kitchen
@@ -283,6 +359,32 @@ pan,
 spoon,
 pot, பானை
 butter, வெண்ணெய்
+plate, 
+tap,
+lid,
+blender,
+cheese,
+fridge,
+lollipop,
+salad,
+sugar,
+bowl,
+chicken,
+ice-cream,
+meat,
+salt,
+sweets,
+bread,
+cup,
+juice,
+mushroom,
+sandwich,
+cake,
+flour,
+lentils,
+rice,
+soup,
+
 ```
 
 # Gadgets
@@ -297,6 +399,18 @@ speaker, ஒலிப்பெருக்கி
 tablet,
 torch,
 web-camera,
+```
+# உடல் உறுப்புகள்
+
+```
+ear, காது
+eye, கண்
+foot, பாதம்
+hair, முடி
+hand, கை
+mouth, வாய்
+nose, மூக்கு
+tooth, பல்
 ```
 
 # TooLs
@@ -328,19 +442,43 @@ easel,
 hacksaw, வெட்டும் ரம்பம்
 scalpel,
 ```
-
-# உடல் உறுப்புகள்
+```
+screw,
+screwdriver,
+barber,
+washerman,
+flute,
+piano,
+tabla,
+violin,
+guitar,
+saxophone,
+trumpet,
+xylophone
+```
+# jobs
 
 ```
-ear, காது
-eye, கண்
-foot, பாதம்
-hair, முடி
-hand, கை
-mouth, வாய்
-nose, மூக்கு
-tooth, பல்
+astronaut,
+clown,
+fisherman,
+postman,
+teacher,
+blacksmith,
+cobbler,
+goldsmith,
+potter,
+weaver,
+carpenter,
+diver,
+diver,
+sailor,
+chef,
+doctor,
+police,
+soldier
 ```
+
 
 # Others
 
