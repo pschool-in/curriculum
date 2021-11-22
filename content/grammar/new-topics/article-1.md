@@ -1,11 +1,11 @@
-# Articles
+# Articles - Introduction
 
 ## Objectives
 1. To understand that A is used for consonants and An is used for vowels - a,e,i,o,u
 
 ### Reading Notes
 
-The words that help define the naming words (nouns) as specific and non-specific are called as *articles*. The choice between *a* and *an*  is determined by sound. These are called as *indefinite articles* because it leaves the person or the thing spoken of unclear. For example *a* doctor, that means *any* doctor  
+The words that help define the naming words (nouns) as specific and non-specific are called as *articles*. The choice between *a* and *an*  is determined by sound. These are called as *indefinite articles* because it leaves the person or the thing spoken of unclear. For example *a* doctor, that means *any* doctor.  
 
 *an* is used before the naming words that begin with a,e,i,o,u which are called as vowels. 
 
@@ -36,6 +36,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *a(an)* peacock
 *a(an)* tailor 
 *an(a)* eye
+*a(an)* bus
+*a(an)* sheep
+*a(an)* lemon
+*an(a)* eraser
+*a(an)* farmer
 ```
 
 ```
@@ -44,6 +49,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *an(a)* engine
 *a(an)* ball
 *an(a)* egg
+*an(a)* igloo
+*a(an)* tiger
+*a(an)* book
+*an(a)* octopus
+*a(an)* girl
 ```
 
 ```
@@ -52,6 +62,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *an(a)* aeroplane
 *a(an)* mat
 *an(a)* engine
+*a(an)* kite
+*a(an)* bag
+*a(an)* dog
+*an(a)* owl
+*a(an)* bench
 ```
 
 ```
@@ -60,6 +75,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *a(an)* paper
 *a(an)* bat
 *an(a)* axe
+*an(a)* ear
+*a(an)* hat
+*a(an)* table
+*an(a)* insect
+*a(an)* pen
 ```
 
 ```
@@ -68,6 +88,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *a(an)* parrot
 *a(an)* box
 *an(a)* elbow
+*a(an)* window
+*a(an)* football
+*a(an)* panda
+*a(an)* mouse
+*an(a)* ice-cream
 ```
 
 ```
@@ -76,6 +101,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *a(an)* bottle
 *a(an)* baby
 *an(a)* urn
+*an(a)* old carpet
+*a(an)* beehive
+*a(an)* gun
+*a(an)* pot
+*a(an)* hospital
 ```
 
 ```
@@ -84,6 +114,11 @@ Click on the blank and choose *a* or *an* before the following naming words
 *an (a)* apple
 *a (an)* pencil
 *an (a)* elastic
+*an (a)* animal
+*a (an)* biscuit
+*an (a)* ostrich
+*a (an)* board
+*a (an)* sofa
 ```
 
 
@@ -126,6 +161,11 @@ I see *an (a)* owl on the tree!
 Mom has *a (an)* blue dress.
 There is *a(an)* cup on the table.
 Manish eats *an(a)* orange for breakfast.
+There is *a (an)* ball.
+My aunt is *a (an)* lawyer.
+Aditya wants *a (an)* pair of jeans.
+Nitya is *an (a)* Indian classical singer.
+He is sitting on *a (an)* sofa.
 ```
 
 ```
@@ -134,6 +174,11 @@ Dad wants me to wear *a (an)* cap.
 Reema has *a(an)* jewelry box.
 We put up *a (an)* Christmas tree for holidays.
 Grandma read *a (an)* story to all my friends.
+I saw *an (a)* ostrich in zoo.
+There is *a (an)* hospital near my home.
+I have *a (an)* new pencil.
+There is *a (an)* big window in my room.
+I have *a (an)* box of chocolates in my bag.
 ```
 
 ```
@@ -142,6 +187,11 @@ I bought *an (a)* umbrella for my brother.
 Aladdin had *a (an)* magic lantern.
 I saw *a (an)* big lion at the zoo.
 She has written *a (an)* story.
+I saw *a (an)* Peacock in KBR park today.
+I have *an (a)* inkpot on my study table.
+It is *an (a)* ancient fort in Hyderabad.
+I am *a (an)* pilot.
+Rajeev is reading *a (an)* magazine.
 ```
 
 ```
@@ -150,6 +200,11 @@ This is *a (an)* ball.
 I saw *an (a)* old carpet.
 We have *a (an)* red car.
 Saanvi is *an(a)* honest girl.
+Do you like *an (a)* apple?
+He can ride *a (an)* bicycle.
+Sudheer is *a (an)* doctor.
+My sister is *a (an)* painter.
+My son is *a (an)* good boy.
 ```
 
 ```
@@ -158,6 +213,11 @@ Pass me *an(a)* apple.
 Mohan has *a (an)* bike.
 Ritu is *an (a)* Indian.
 Krishna wants *an(a)* orange.
+My mom is baking *a (an)* cake.
+My neighbor has *a (an)* BMW car.
+Nandita is *a (an)* classical dancer.
+Mohit has *an(a)* umbrella.
+Rohita is *an(a)* intelligent girl.
 ```
 
 ```
@@ -166,6 +226,11 @@ They live in *a(an)* small hut.
 She is not *an(a)* old lady.
 My dad works in *a(an)* factory.
 My brother has *a (an)* toy laptop.
+*An (A)* elephant is a huge animal.
+Meera is *a (an)* nice girl.
+My uncle is *an (a)* engineer.
+I bought *a (an)* pair of gloves.
+Gold is *a (an)* precious ornament.
 ```
 
 
