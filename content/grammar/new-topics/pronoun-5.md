@@ -59,7 +59,23 @@ Click on the blank and fill in the correct interrogative pronoun.
 *What(When)*do you like to wear tomorrow?
 *Which (What)* one of these burgers is made of meat?
  To *whom (who)* was the song dedicated?
+ *What (Whcih)* do you want to do?
 ```
+
+```
+*What (When)* do you want for lunch?
+*What (Whom)* is your mobile number?
+*Whose (Which)* bike is this?
+*Whose (Who)* books are those?
+*What (Which)* is the time now?
+*Whom (When)* is he talking to?
+*Who (Whom)* is your favorite cartoon character?
+*Which (What)* of these dresses do you like?
+To *whom (what)* did he give his watch?
+*What (When)* did you see in the park?
+```
+
+
 
 ## Noun or Pronoun 
 
@@ -110,7 +126,25 @@ This pen is *mine(theirs)*.
 I folded my clothes by *myself(themselves)*.
 *Who(What)* is the new teacher?
 *Which(Who)* is your favourite food?
+*I (Me)* went to library.
+Is that present for *me (I)*.
 ```
+
+```
+*We (Us)* are going to Corbett National Park on sunday.
+*We (Us)* live in a small house.
+*She (He)* is a smart girl.
+This is my book. Give it to *me (I)*.
+I can tell *that (those)* he is tensed.
+*This (Those)* is my favorite place for morning walk.
+We bought *ourselves (themselves)* some French fries before the match.
+When I woke up, I found *myself(itself)* on sofa.
+Manisha has a dog. * It (They)* is called Garfield.
+Look at my shoes. *They (it)* are so colorful.
+```
+
+
+
 
 References: 
 
