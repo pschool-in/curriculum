@@ -136,13 +136,13 @@ humming-bird,
 robin, கருஞ்சிட்டு
 swallow,  தகைவிலாங் குருவி
 blue-jay,
-seagull,
+seagull, கடற்பறவை
 canary,
-goose,
-turkey,
-hawk,
+goose, வாத்து
+turkey, வான்கோழி
+hawk, பருந்து
 cardinal,
-parakeet,
+parakeet, பெரிய பச்சைக்கிளி
 
 ```
 
@@ -153,7 +153,7 @@ apple, ஆப்பிள்
 grapes, திராட்சை
 banana, வாழைப்பழம்
 cherry
-avocado
+avocado, வெண்ணைப்பழம்
 strawberry
 guava, கொய்யாப்பழம்
 jackfruit, பலாப்பழம்
@@ -164,24 +164,31 @@ pineapple, அன்னாசிப்பழம்
 pomegranate, மாதுளை
 watermelon, தர்பூசணி
 fig, அத்திப்பழம்
-custard-apple, சீத்தாப்பழம்
-plum,
+custard-apple, சீதாப்பழம்
+plum, ஊட்டி ஆப்பிள்
 dates, பேரிச்சம்பழம்
 muskmelon,
 star-fruit, 
-dragon-fruit, 
+dragon-fruit, விருத்திரப்பழம் 
 passion-fruit, 
 sugarcane, 
 peach, 
-sweet-potato, 
-jamun, 
-pear,
+sweet-potato,  சர்க்கரை வள்ளி கிழங்கு 
+jamun, நாவல் பழம்
+pear, பேரிக்காய் 
 water-chesnut, 
-jujube, 
-sapotta, 
-tapioca, 
-blueberry,
+jujube, இலந்தைப்பழம்
+sapotta, சப்போட்டா
+tapioca, மரவள்ளிக்கிழங்கு
+blueberry, அவுரிநெல்லி
 ```
+
+
+gooseberry, நெல்லிக்காய்
+lemon, எலுமிச்சம் பழம்
+palm fruit, பனம் பழம்
+wood apple, விளாம்பழம்
+
 # காய்கறிகள்
 
 ```
@@ -192,7 +199,7 @@ tomato, தக்காளி
 potato, உருளைக்கிழங்கு
 cabbage, முட்டைகோசு
 cauliflower, காலிப்பிளார்
-corn, சோளம்
+corn, மக்காச்சோளம்
 cucumber, வெள்ளரிக்காய்
 garlic, பூண்டு
 ```
@@ -220,15 +227,16 @@ mintleaf, புதினா
 peanut, வேர்க்கடலை
 radish, முள்ளங்கி
 spinach, கீரை
-chickpea, 
-mustard-greens, 
-turmeric, 
+chickpea, கொண்டைக்கடலை
+mustard-greens, கடுகு கீரை 
+turmeric, மஞ்சள்
 turnip, 
-fenugreek, 
-tamarind, 
-elephant-yam, 
+fenugreek, வெந்தயக்கீரை
+tamarind, புளி
+elephant-yam, சேனைக்கிழங்கு
 
 ```
+
 
 # பூக்கள்
 
@@ -238,19 +246,20 @@ lotus, தாமரை
 sunflower, சூரியகாந்தி
 marigold, சாமந்தி
 hibiscus, செம்பருத்தி
+mogra, குண்டு மல்லி
 jasmine, மல்லி
 tulip,
 zinnia,
 daffodil,
 gulmohar,
-lily,
+lily,அல்லி
 pansy,
 poppy,
 daisy,
 jasmine,
-mangolia,
-periwinkle,
-water-lily,
+mangolia, செண்பகப்பூ
+periwinkle, நித்தியகல்யாணிப்பூ
+water-lily, அல்லி
 ```
 
 # வாகனங்கள்
@@ -274,9 +283,9 @@ excavator,
 fire-engine, தீயணைப்பு வாகனம்
 lorry, சரக்குந்து
 van,
-bulldozer,
-rocket,
-submarine,
+bulldozer, நிலச் சமன் பொறி
+rocket, ஏவுகனை
+submarine, நீர்மூழ்கிக் கப்பல்
 ```
 
 
@@ -301,23 +310,23 @@ coat, மேலங்கி
 glasses, மூக்கு கண்ணாடி
 clock, கடிகாரம்
 watch, கைக்கடிகாரம்
-flower-pot,
-umbrella,
-door,
-broom,
+flower-pot, பூத்தொட்டி
+umbrella, குடை
+door, கதவு
+broom, துடைப்பம்
 ```
 
 ```
-window,
-air-conditioner,
-sofa,
-bucket,
-toilet,
-soap,
-washing-machine,
+window, ஜன்னல்
+air-conditioner, குளிரூட்டி
+sofa, நீள் சாய்வு இருக்கை
+bucket, வாளி
+toilet, கழிப்பறை
+soap, சவர்க்காரம்
+washing-machine, துணி துவைக்கும் இயந்திரம்
 backpack,
-pillow,
-shoe,
+pillow,தலையணை
+shoe, காலணி
 ```
 
 ```
@@ -357,7 +366,7 @@ calculator, கணிப்பான்
 book, புத்தகம்
 color-pencils,
 crayons,
-ink,
+ink, மை
 ```
 
 # Kitchen
@@ -366,41 +375,41 @@ ink,
 stove, அடுப்பு
 fork, முள் கரண்டி
 knife,கத்தி
-pan,
-spoon,
+pan, உலோகத்தட்டு
+spoon, கரண்டி
 pot, பானை
 butter, வெண்ணெய்
-plate, 
-tap,
-lid,
+plate,  தட்டு
+tap, நீர்க்குழாய்
+lid, மூடி
 ```
 
 ```
-blender,
-cheese,
-fridge,
-lollipop,
+blender, கலப்பான்
+cheese, பாலாடைக்கட்டி
+fridge, குளிர்சாதன பெட்டி
+lollipop, குச்சி மிட்டாய்
 salad,
-sugar,
-bowl,
-chicken,
-ice-cream,
-meat,
+sugar,சர்க்கரை
+bowl, கிண்ணம்
+chicken, கோழி
+ice-cream, பனிக்கூழ்
+meat, இறைச்சி
 ```
 
 ```
-salt,
-sweets,
-bread,
-cup,
-juice,
-mushroom,
+salt, உப்பு
+sweets,இனிப்பு
+bread, ரொட்டி
+cup, கோப்பை
+juice, பழச்சாறு
+mushroom, காளான்
 sandwich,
 cake,
-flour,
-lentils,
-rice,
-soup,
+flour, மாவு
+lentils, பருப்பு
+rice,அரிசி,
+soup, சூப்
 
 ```
 
@@ -460,15 +469,15 @@ hacksaw, வெட்டும் ரம்பம்
 scalpel,
 ```
 ```
-screw,
-screwdriver,
-barber,
-washerman,
-flute,
+screw, திருகு
+screwdriver, திருப்புளி
+barber, முடி திருத்துபவர்
+washerman, சலவை செய்பவர்
+flute, புல்லாங்குழல்
 piano,
-tabla,
-violin,
-guitar,
+tabla, தபேலா
+violin, நரம்பிசைக்கருவி
+guitar, ஆறு நரம்பள்ள இசைக்கருவி
 saxophone,
 trumpet,
 xylophone
@@ -476,28 +485,28 @@ xylophone
 # jobs
 
 ```
-astronaut,
-clown,
-fisherman,
-postman,
-teacher,
-blacksmith,
-cobbler,
-goldsmith,
-potter,
-weaver,
-```
-```
-carpenter,
-diver,
-diver,
-sailor,
-chef,
-doctor,
-police,
-soldier,
+astronaut, விண்வெளி வீரர்
+clown, கோமாளி
+fisherman, மீனவர்
+postman, தபால்காரர்
+teacher, ஆசிரியர்
+blacksmith, கொல்லன்
+cobbler, செருப்புத் தொழிலாளி
+goldsmith, பொற்கொல்லர்
+potter, குயவன்
+weaver, நெசவாளர்
 ```
 
+```
+carpenter, தச்சர்
+diver, நீரில் மூழ்குவோர்
+nurse, செவிலியர்
+sailor, மாலுமி
+chef, சமையல்காரர்
+doctor, மருத்துவர்
+police, காவல்
+soldier, படைவீரன்
+```
 
 # Others
 
@@ -510,13 +519,13 @@ milk, பால்
 ring, மோதிரம்
 brush, தூரிகை
 bone, எலும்பு துண்டு
-auvai, அவ்வை
+auvai, ஔவை
 bell, மணி
 ```
 ```
 bird, பறவை
 conch, சங்கு
-drums
+drums, முரசு
 five, ஐந்து
 food, உணவு
 fruits, பழங்கள்
@@ -533,40 +542,61 @@ wheel, சக்கரம்
 whistle, ஊதல்
 world, உலகம்
 yazl, யாழ்
-bullock-cart,
-touch-me-not,
-yagna,
-yarn-ball,
+bullock-cart, மாட்டு வண்டி
+touch-me-not, தொட்டாற் சிணுங்கி
+yagna, யாகம்
+yarn-ball, நூல் கண்டு
 ```
 ```
-bow,
-arrow,
-fountain,
-pouch,
-top,
-hexagon,
-trident,
-damaru,
+bow, வில்
+arrow, அம்பு
+fountain, நீரூற்று
+pouch, சுருக்குப்பை
+top, பம்பரம்
+hexagon, அறுகோணம்
+trident, திரிசூலம்
+damaru,  உடுக்கை
 trolley,
-stick,
+stick, குச்சி
 ```
 
 ```
-twig,
-dhol,
-palanquin,
-medicine,
-balloon,
-radio,
-toothbrush,
-chocolate,
-toothpaste,
-toothpaste,
-coin,
+twig, கிளை
+dhol, மத்தளம்
+palanquin, பல்லக்கு
+medicine, மருந்து
+balloon, பலூன்
+radio, வானொலி
+toothbrush, பற்குச்சி
+chocolate, மிட்டாய்
+toothpaste, பற்பசை 
+box, பெட்டி 
+coin, நாணயம்
 ```
 
 # More image request
 
-குயில் Broad beans, அவரைக்காய் Ash gourd, பூசணிக்காய் Ridge Gourd, பீர்க்கங்காய்
+குயில் 
+Broad beans, அவரைக்காய் 
+Ash gourd, பூசணிக்காய் 
+Ridge Gourd, பீர்க்கங்காய்
+rawbanana, வாழைக்காய்
+drumstick leaves, முருங்கை கீரை
+basil, துளசி
+banana flower, வாழைப்பூ 
+bottlegourd, சுரைக்காய்
+clusterbeans, கொத்தவரங்காய்
+ivygourd, கோவைக்காய்
+Kohl Rabi, நூல்கோல்
+snakegourd, புடலங்காய்
+Spring Onion, வெங்காயத்தாள்
+Banana stem, வாழைத்தண்டு
+
+
+lily--waterlily, ஆம்பல், அல்லி, வெள்ளாம்பல்
+Blue water lily, நீலாம்பல்
+
+
+
 
 ---
