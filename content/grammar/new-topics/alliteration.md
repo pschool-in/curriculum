@@ -6,7 +6,7 @@ To understand what is alliteration and how can we use it.
 
 ## Alliteration
 
-It is generally used in poetry. It is a style of writing in which a series of words have the same consonant sound. Some examples of alliteration are;
+It is generally used in poetry. It is a style of writing in which a series of words have the same consonant sound. Examples of alliteration are;
 1. The boy bounced the ball in the basket.
 ("boy bounced the ball" is alliteration)
 2. A big brown bear bumped into our boxes.
@@ -16,7 +16,7 @@ It is generally used in poetry. It is a style of writing in which a series of wo
 
 ### Activities
 
-#### Fill in the blanks (label)
+#### Fill in the blanks (label) (fill by drag)
 
 Drag the correct option in each blank to form an alliteration. (title)
 ```
@@ -27,17 +27,14 @@ The parrot landed on pirate's *purple* parcel.
 Peter *put* his painting on the wall.
 ```
 
-
-Drag the correct option in each blank to form an alliteration. (title)
 ```
 Elise’s *easter* eggs were delicious.
 Hari’s *honeybees* have horrible honeycombs.
 Nina’s neighbor *needed* newly cooked nachos.
-Paul’ pet pig *Patty* looks pretty.
+Paul’s pet parrot *Patty* looks pretty.
 Rahul ran around the room for no *reason*.
 ```
 
-Drag the correct option in each blank to form an alliteration. (title)
 ```
 Tinkerbell likes to tinker with *tools*.
 Sheep should *sleep* in a shed.
@@ -72,7 +69,6 @@ I cleaned my room because my mom asked me to.
 She bought a cake from the shop.
 ```
 
-Identify if these sentences have alliteration or not. (title)
 ```
 Yes:
 Dan's dog dug a ditch.
@@ -83,7 +79,6 @@ I forgot to bring my lunch.
 My mother loves me very much.
 ```
 
-Identify if these sentences have alliteration or not. (title)
 ```
 Yes:
 Shaam sells seashells by the seashore.
@@ -99,13 +94,12 @@ My pet's name is bony.
 Select the alliteration in the sentences. (title)
 ```
 The *sticky stuff got stuck* in my shoes.
-The *raccoon ran rapidly* in towards the bushes.
+The *raccoon ran rapidly* towards the bushes.
 The *pink pigs played* in the mud.
 I kept the apples in the *big blue bowl*.
 *Sara silently sneaked* into her brother's room.
 ```
 
-Select the alliteration in the sentences. (title)
 ```
 *My mother makes marvelous melon* cakes.
 *Four friends finshed* their homework.
@@ -114,7 +108,6 @@ The *cat climbed carefully* but still fell down.
 *Sakshi stopped staring* when someone called her name.
 ```
 
-Select the alliteration in the sentences. (title)
 ```
 *Dani's dog drank* from the pot.
 Vidhi saw a *jellyfish jiggle.*
