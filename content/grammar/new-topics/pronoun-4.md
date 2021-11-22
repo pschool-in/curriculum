@@ -112,11 +112,11 @@ He did all the paintings by *himself(themselves)*.
 The dog hurt *itself(himself)*. 
 Shaanvi sang quietly to *herself(itself)*.
 Shiva hurt *himself(ourselves)* while climbing the ladder.
-Rajeev was proud of *himself*.
-He went trekking by *himself*.
-Subrat and Shiv cleaned the room by *themselves*.
-I carried the rice bag *myself*.
-Did you clean the dishes *yourself*?
+Rajeev was proud of *himself (herself)*.
+He went trekking by *himself(itself)*.
+Subrat and Shiv cleaned the room by *themselves (ourselves)*.
+I carried the rice bag *myself (itself)*.
+Did you clean the dishes *yourself (themselves)*?
 ```
 
 ```
@@ -125,11 +125,11 @@ I repaired my car *myself(itself)*.
 I planted the roses *myself(herself)*.
 He made the breakfast *himself(themselves)*.
 Aditya and Teja can take care of *themselves(ourselves)*.
-You must take care of *yourself*.
-She bought *herself* a new dress.
-They are doing the homework *themselves*.
-Don't hurt *yourself* while cooking.
-We cooked biryani *ourselves* for the guests.
+You must take care of *yourself (herself)*.
+She bought *herself (himself)* a new dress.
+They are doing the homework *themselves (ourselves)*.
+Don't hurt *yourself (itself)* while cooking.
+We cooked biryani *ourselves (themselves)* for the guests.
 ```
 
 ## True or False 
