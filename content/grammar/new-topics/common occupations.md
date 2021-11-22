@@ -8,7 +8,7 @@ To understand what are the different types of occupations and how all of them ar
 
 ### 1. Teacher
 
-A teacher helps us acquire knowledge. A good teacher has a very important role in a student's life. They lay foundations of their values, knowledge and principles. We must always respect our teachers.
+A teacher helps us acquire knowledge. A good teacher has a very important role in a student's life. They lay foundation of their values, knowledge and principles. We must always respect our teachers.
 
 ### 2. Engineer
 
@@ -28,11 +28,11 @@ A farmer is the backbone of agriculture. Farmers work in fields and grow crops. 
 
 ### 6. Photographer
 
-A photographer is a person who is an expert at taking perfect pictures. There are different types of areas where photographers work like weddings, company events, wildlife, travel, film industry, modeling industry, etc.
+A photographer is a person who is an expert at taking perfect pictures. There are different areas where photographers work like weddings, company events, wildlife, travel, film industry, modeling industry, etc.
 
 ### 7. Actor
 
-An actor/actress is a person who has skills for acting. They can easily play the role of any character assigned to them. Actors work in performing arts like theatre, movies, plays, shows, street plays, etc.
+An actor/actress is a person who has skills for acting. They can easily play the role of any character assigned to them. Actors work in performing arts like theatre, movies, plays, TV shows, street plays, etc.
 
 ### 8. Dancer
 
@@ -40,7 +40,7 @@ A dancer is a person who is very good at dancing. A dancer knows or can learn di
 
 ### 9. Watchman
 
-A watchman or a guard is a person who ensures the safety of a building. They carry a stick, torch and sometimes a gun for safety. They work at banks, apartment buildings, bungalows, companies, etc. They protect the places from thieves and robbers.
+A watchman or a guard is a person who ensures the safety of a building. They carry a stick, a torch and sometimes a gun for safety. They work at banks, apartment buildings, bungalows, companies, etc. They protect the places from thieves and robbers.
 
 ### 10. Gardener
 
@@ -106,11 +106,11 @@ A shopkeeper is a person who owns a shop or works in a shop. They assist us each
 
 ### 10. Electrician
 
-An electrician has complete knowledge about the electric wires. They come in handy each time we face fluctuations in current or powercut. Electricity can be very dangerous and therefore we must always contact an electrician if we face any problem.
+An electrician has complete knowledge about the electric wires. They help us each time we face fluctuations in current or powercut. Electricity can be very dangerous and therefore we must always contact an electrician if we face any problem.
 
 ### 11. Baker
 
-A baker is a person who works at a bakery. They sell and bake all the baked food like cakes, pastries, pancakes, muffins, donuts, etc.
+A baker is a person who works at a bakery. They sell and bake food like cakes, pastries, pancakes, muffins, donuts, etc.
 
 ### 12. Writer
 
@@ -173,6 +173,14 @@ Farmer, Field
 Dancer, Performance
 ```
 
+```
+Engineer, Software
+Mechanic, Machines
+Photographer, Camera
+Shephard, Sheep
+Fisherman, Sea shore
+```
+
 ### True or False (classify the sentence template) (label)
 
 State whether these statements are true or false. (Title)
@@ -210,6 +218,18 @@ False:
 A carpenter works with shoes.
 A baker serves people at a restaurant.
 A plumber helps to repair vehicles.
+```
+
+```
+True:
+A driver is a person who drives cars.
+An electrician is an expert of wires and electricity.
+A nurse takes care of patients in the hospital.
+
+False:
+A salesman helps us in shops.
+A write is a person who helps us in completing our homework.
+Police protects the theives.
 ```
 
 ### Multiple Choice Questions (label)
@@ -261,6 +281,38 @@ A *barber* styles our hair.
 A *salesman* sells products and services.
 ```
 
+```
+An *electrician* is an expert of electricity.
+A *nurse* takes care of the patients.
+A *doctor* takes care of our health.
+A *policeman* punishes the culprit.
+A *dancer* is an entertainer.
+```
+
+```
+A *blacksmith* works with the metals.
+A *farmer* works in agriculture.
+An *actor* works in Tv shows and movies.
+A *cobbler* repairs shoes.
+A *baker* makes cakes and pastries.
+```
+
+```
+A *weaver* works in clothing industries.
+A *potter* makes things of clay.
+A *photographer* can work in many areas, including wildlife.
+A *fisherman* catches fish and collects shells.
+A *tailor* sews clothes.
+```
+
+```
+A *shephard* has a lot of sheep.
+A *plumber* can fix running and leaking taps.
+A *driver* drives vehicles.
+A *carpenter* makes furniture.
+A *shopkeeper* has a shop.
+```
+
 ### Fill up with options. (Label)
 
 Tap on each blank to view options. (Title)
@@ -282,8 +334,39 @@ Writer, Riter
 Cobbler, Cobblar
 ```
 
+```
+Electrician, Electricean
+Salesman, Saleman
+Blacksmith, Blacksmit
+Singer, Singur
+Dancer, Dancur
+```
+
+```
+Doctor, Docter
+Shopkeeper, Shopkeper
+Fisherman, Fishman
+Driver, Driiver
+Teacher, Teecher
+```
+
+```
+Baker, Bakeir
+Carpenter, Carpent
+Shepherd, Shefard
+Plumber, Pumber
+Nurse, Nusze
+```
+
+```
+Goldsmith, Goldsmit
+Tailor, Taylor
+Weaver, Weavar
+Gardner, Gardnar
+Potter, Pottar
+```
+
 # References
 
 1. Google
 2. 2nd grade English- Telangana Board
-
