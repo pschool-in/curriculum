@@ -1,4 +1,4 @@
-# Pronoun 
+# Interrogative Pronoun 
 
 ## Objective
 To understand the interrogative pronouns and also to identify them in the text.
@@ -33,7 +33,7 @@ Interrogative pronoun: What, who, whom, which, whose
 Possessive pronoun: his, her, mine, yours, ours
 ```
 
-## Match 
+## Match the following 
 
 Draw a line from the interrogative pronoun to complete the question.
 
@@ -95,7 +95,7 @@ Will you help *me* with my homework.
 *We* will go shopping tomorrow.
 ```
 
-## Identify (Reflexive or possessive pronoun)
+## Identify - Reflexive or possessive pronoun
 
 Identify whether the given sentence has a reflexive or possessive pronoun.
 
