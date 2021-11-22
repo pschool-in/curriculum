@@ -45,7 +45,7 @@ Which, car is yours?
 To whom, should I address this letter?
 ```
 
-## Fill in the blanks (with options) 
+## Fill in the blanks-1 (with options) 
 
 Click on the blank and fill in the correct interrogative pronoun.
 
@@ -59,7 +59,7 @@ Click on the blank and fill in the correct interrogative pronoun.
 *What(When)*do you like to wear tomorrow?
 *Which (What)* one of these burgers is made of meat?
  To *whom (who)* was the song dedicated?
- *What (Whcih)* do you want to do?
+ *What (Which)* do you want to do?
 ```
 
 ```
@@ -113,7 +113,7 @@ Is this pencil yours?
 The lipstick is hers.
 ```
 
-## Fill in the blanks (with options)
+## Fill in the blanks-2 (with options)
 
 Click on the blank and fill in the right pronoun.
 
@@ -139,8 +139,8 @@ I can tell *that (those)* he is tensed.
 *This (Those)* is my favorite place for morning walk.
 We bought *ourselves (themselves)* some French fries before the match.
 When I woke up, I found *myself(itself)* on sofa.
-Manisha has a dog. * It (They)* is called Garfield.
-Look at my shoes. *They (it)* are so colorful.
+Manisha has a dog. *It (They)* is called Garfield.
+Look at my shoes. *They (It)* are so colorful.
 ```
 
 
