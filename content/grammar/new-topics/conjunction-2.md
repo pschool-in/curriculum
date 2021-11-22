@@ -22,7 +22,7 @@ Some more examples are;
 3. Rahul tried to study *but* fell asleep.
 4. I want to play *but* I need to study.
 5. We can watch a movie *or* go for lunch.
-6. I can complete my HW today *or* tomorrow.
+6. I will complete my HW today *or* tomorrow.
 7. My mother is late *so* I'm waiting for her.
 8. We're going to the park in the evening, *so* I'll take a nap in the noon.
 
@@ -35,7 +35,7 @@ Identify if the below sentences have conjunction or not. (title)
 Yes:
 We wake up early and see the sunrise.
 I love school but I hate maths class.
-I completed my HW so I went to play.
+I completed my homework so I went to play.
 
 No:
 I can play. I can eat.
@@ -91,7 +91,7 @@ We are going for a vacation in summer.
 My parents love me a lot.
 ```
 
-### Classify (label)
+### Drag and Drop (label)
 
 Identify if these words are conjunctions or not. (title)
 ```
@@ -106,7 +106,7 @@ Can, May, Shall, Will
 
 Tap on each blank for options. (title)
 ```
-Pink *and (or, but)* yellow are two colors.
+Pink *and (or, but)* yellow are colors.
 I think there are two *or (and, so)* three pens.
 Tie your laces *so (and, or)* you don't fall.
 I like shoes *but (so, or)* my sister likes sandals.
@@ -120,7 +120,7 @@ The weather is not nice *so (and, but)* we'll stay at home.
 ```
 
 ```
-Tina plays the paino *and (or, so)* is good at sports.
+Tina plays the paino *and (or, so)* is also good at sports.
 I play *or (and, so)* go to my grandma's place on weekends.
 My teacher is strict *but (and, or)* she teaches well.
 I came first *so (and, or)* my parents are very happy.
@@ -142,7 +142,7 @@ He was ill *so (but, and)* he did not go to school.
 
 ### Right Match (label)
 
-Choose the piece with the correct conjunction. (title)
+Choose the puzzle piece with the correct conjunction. (title)
 ```
 I like drawing, and painting, so painting
 She is smart, but rude, so rude
@@ -166,7 +166,7 @@ Ram, and Shaam, so Shaam
 
 ```
 I read stories, and novels, but novels
-She is tired, but her HW is left, so her HW is left
+She is tired, but her homework is left, so her homework is left
 He goes for running, or cycling, but cycling
 I woke up early, so helped my mom, but helped my mom
 ```
@@ -175,7 +175,7 @@ I woke up early, so helped my mom, but helped my mom
 I wil go to Delhi, or Mumbai, so Mumbai
 Cats, and dogs are pets, or dogs are pets
 I like cats, but he likes dogs, so he likes dogs
-Dad is working, so we are at home, but we are at home
+It is raining, so we are at home, but we are at home
 ```
 
 ******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
@@ -188,43 +188,23 @@ Dad is working, so we are at home, but we are at home
 
 Tap on each blank for options. Choose the correct conjunction. (title)
 ```
-All of my friends are going to Richa's party.
-*But (So)* she has not invited me.
-*So (And)* we have decided that *neither (either)* me *nor (or)* my best friend will go.
-I bought a present for her, *but (or)* now I'll give it to my best friend.
+All of my friends are going to Richa's party. *But (So)* she has not invited me. *So (And)* we have decided that *neither (either)* me *nor (or)* my best friend will go. I bought a present for her, *but (or)* now I'll give it to my best friend.
 ```
 
 ```
-Everyone loves Sundays. 
-That is *because (so)* it’s a holiday. 
-*But (Or)* for me, Sunday is the most boring day of the week. 
-This is *because (either)* my parents take me to the farm every weekend. 
-It was fun at first. 
-*But (And)* now I don't like going there. 
-This is *because (so)* all my friends are in the city.
+Everyone loves Sundays. That is *because (so)* it’s a holiday. *But (Or)* for me, Sunday is the most boring day of the week. This is *because (either)* my parents take me to the farm every weekend. It was fun at first. *But (And)* now I don't like going there. This is *because (so)* all my friends are in the city.
 ```
 
 ```
-I know that we should save water.
-*But (And)* I forget to turn off the tap.
-*So (Or)* I wrote a note *and (or)* stick it on the wall near the tap.
-Now I'll always remember to turn it off.
+I know that we should save water. *But (And)* I forget to turn off the tap. *So (Or)* I wrote a note *and (or)* stick it on the wall near the tap. Now I'll always remember to turn it off.
 ```
 
 ```
-Neena loves chocolate.
-*But (So)* her mother doesn't let her eat much.
-She likes it because it's sweet *and (so)* tasty.
-Her mother hides the chocolate *or (so)* gives it to her friends.
-Her friends share the chocolate with her.
-*So (Or)* she gets to eat it.
+Neena loves chocolate. *But (So)* her mother doesn't let her eat much. She likes it because it's sweet *and (so)* tasty. Her mother hides the chocolate *or (so)* gives it to her friends. Her friends share the chocolate with her. *So (Or)* she gets to eat it.
 ```
 
 ```
-Teacher asked us to be quiet *and (or)* study.
-*But (So)* the naughty boy in the class did not listen.
-He *and (or)* his friends went to the ground.
-*So (And)* the teacher got angry *and (but)* punished them.
+Teacher asked us to be quiet *and (or)* study. *But (So)* the naughty boy in the class did not listen. He *and (or)* his friends went to the ground. *So (And)* the teacher got angry *and (but)* punished them.
 ```
 
 # References
