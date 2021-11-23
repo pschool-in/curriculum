@@ -78,6 +78,18 @@ We kindly request the language experts to go through the 18 types of activites
 we have. Any content which doesn't fall within this 18 template will be outside
 the scope of this project.
 
+## Image and Sound based activities
+
+1. We display the image and the word with the first letter missing. The student has to pick the first letter from the option. (The options should not be very easy and have different unique set of options) (ta-picture/animals)
+2. Match image with its first letter. (ta-picture/match-animals)
+3. Drag and drop the words given at the bottom to the right images (ta-picture-3/dragDrop-animal)
+4. Complete the word based on the image, through the keypad input (ta-picture-2/animals)
+5. Based on the image find the word by connecting the letters. (ta-picture-2/connect-animals)
+6. Read-only activity. Slide through the images with the associated sounds. (ta-sound/animals)
+7. Select the right image based on the played sound. (ta-sound/pick-animal)
+8. Select the right word based on the played sound. (ta-word-2/sound)
+9. Dictionary - listen to the sound and type the word.(ta-picture-3/dictation-2)
+
 # Developer Requirements
 
 ## Input component
