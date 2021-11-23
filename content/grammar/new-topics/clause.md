@@ -89,7 +89,7 @@ Select the clause in the below sentence.
 *I will meet him* in my office.
 *She wrote a poem* on a piece of paper.
 *Kiran poured the mango juice* in the bottle. 
-*She sings* very sweetly.
+*She sings* like a nightingale.
 *They are dancing* to the disco song.
 *She is cooking* in the kitchen.
 *I saw a snake* in the street.
@@ -128,7 +128,6 @@ My mother is a nurse *since she likes to help people*.
 I asked the question *that no one else wanted to ask*.
 Ravi eats carrots *when he wants to have a snack*.
 *If you want to be my friend* you will tell me the truth. 
-*If the dress is on sale* she will buy it.
 ```
 
 ```
@@ -137,7 +136,6 @@ I made good money *until I lost my job*.
 *After swimming in the pool*. 
 *Because he ran* he was able to catch the bus. 
 *Until the sun sets*, we are going to play. 
-*When it will start to snow* we will go skiing.
 ```
 
 ```
@@ -146,6 +144,8 @@ I made good money *until I lost my job*.
 *Since I went back to school* I am feeling happy.
 *Whenever you come to visit*, make sure to bring food. 
 *Unless you have the right size * don't try it. 
+*When it will start to snow* we will go skiing.
+*If the dress is on sale* she will buy it.
 ```
 
 ## Classify
