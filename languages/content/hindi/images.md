@@ -16,7 +16,7 @@ lion| शेर
 monkey| बंदर
 tiger| बाघ
 ```
-
+level-2
 ```
 hippo| जलहस्ती
 rhino| गैंडा
@@ -50,7 +50,7 @@ cheetah|
 cow| गाय
 donkey| गधा
 ```
-
+level-2
 ```
 giraffe|
 kangaroo| कंगेरू
@@ -66,7 +66,7 @@ rabbit| खरगोश
 ```
 
 # birds (चिड़िया)
-
+level-1
 ```
 crow| कौवा
 dove| कबूतर
@@ -75,6 +75,9 @@ hen| मुर्गी
 parrot| तोता
 peacock| मोर
 penguin|
+```
+level-2
+```
 sparrow| गौरेया
 chick| चूज़ा
 crane| सारस
@@ -83,18 +86,18 @@ flamingo| मराल
 kingfisher| नीलकंठ
 myna| मैना
 ostrich| शुतरमुर्ग
+woodpecker| कठफोड़वा
 ```
-
+level-1
 ```
 owl| उल्लू
 rooster| मुर्गा
 vulture | गिद्ध
-woodpecker| कठफोड़वा
 hornbill| 
 ```
 
 # fruits (फल)
-
+level-1
 ```
 apple| सेब
 grapes| अंगूर
@@ -108,7 +111,7 @@ mango| आम
 orange| संतरा
 papaya| पपीता
 ```
-
+level-1
 ```
 pineapple| अनानास
 pomegranate| अनार
@@ -121,7 +124,7 @@ muskmelon| खरबूज
 ```
 
 # vegetables (सब्जियां)
-
+level-1
 ```
 carrot| गाजर
 beetroot| चुकंदर
@@ -134,7 +137,7 @@ corn| भुट्टा
 cucumber| खीरा
 garlic| लहसुन
 ```
-
+level-1
 ```
 ginger| अदरक
 pumpkin| कद्दू
@@ -147,7 +150,7 @@ cashewnut| काजू
 chilli| हरी मिर्च
 coconut| नारियल
 ```
-
+level-1
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
@@ -161,7 +164,7 @@ spinach| पालक
 ```
 
 # flowers (फूल)
-
+level-1
 ```
 rose | गुलाब
 lotus | कमल
@@ -174,7 +177,7 @@ zinnia|
 ```
 
 # vehicles (वाहनों)
-
+level-2
 ```
 aeroplane| हवाईजहाज
 boat| नाव
@@ -186,7 +189,7 @@ motorbike|
 ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
 ```
-
+level-2
 ```
 train| रेलगाडी
 ambulance| रोगीवाहन
@@ -199,7 +202,7 @@ van|
 ```
 
 # house
-
+level-1
 ```
 house| मकान
 table| मेज
@@ -238,7 +241,7 @@ crayons| चित्रांकनी
 ```
 
 # kitchen
-
+level-2
 ```
 stove| चूल्हा
 fork| कांटा
@@ -250,7 +253,7 @@ butter| मक्खन
 ```
 
 # gadgets
-
+level-2
 ```
 camera
 headphone
@@ -264,7 +267,7 @@ web-camara
 ```
 
 # bodyParts
-
+level-1
 ```
 ear| कान
 eye| आँख
@@ -277,7 +280,7 @@ tooth| दांत
 ```
 
 # Tools
-
+level-2
 ```
 axe| कुल्हाडी
 balance| तराज़ू
@@ -287,7 +290,6 @@ microscope| सूक्ष्मदर्शी
 needle | सुई
 oven | कुठला
 plier| प्‍लास
-
 plough | हल
 saw| आरा
 spade| कुदाल
@@ -305,7 +307,7 @@ scalpel| छुरी
 ```
 
 # others
-
+level-1
 ```
 sun| सूर्य
 moon| चांद
@@ -316,7 +318,7 @@ ring| अंगूठी
 brush| कूंचा
 bone| हड्डी
 ```
-
+level-1
 ```
 bell| घंटी
 bird| पक्षी
@@ -327,7 +329,7 @@ food| खाना
 fruits| फल
 king| राजा
 ```
-
+level-2
 ```
 kite| पतंग
 ladder| सीढ़ी
@@ -342,6 +344,7 @@ world| दुनिया
 # More image request
 
 ## Vegetables
+level-2
 ```
 Turnip| शलगम
 Chickpea| चना
@@ -351,6 +354,7 @@ Turmeric| हल्दी
 Sweet potato| शकरकंद
 ```
 ## Fruits
+level-2
 ```
 Sapota| चीकू
 Jamun| जामुन
@@ -359,6 +363,7 @@ Pear| नाशपाती
 Tamarind| इमली
 Sugar cane| ईख
 ```
+level-2
 ```
 Water- chestnut| सिंघाड़ा
 Blueberry| नीलबदरी
@@ -369,6 +374,7 @@ Star fruit| कमरख
 Dragon fruit| पिताया 
 ```
 ## Animals
+level-2
 ```
 Alligator| घड़ियाल
 Baboon| लंगूर
@@ -378,6 +384,7 @@ Bison| जंगली सांड
 Bull| सांड
 Bug| खटमल
 ```
+level-2
 ```
 Cricket| झिंगुर
 Chameleon| गिरगिट
@@ -389,6 +396,7 @@ Prawns|  झींगे
 Python| अजगर
 ```
 ## Birds
+level-2
 ```
 Cuckoo| कोयल
 Swan| हंस
@@ -396,16 +404,19 @@ Pheasant| तीतर
 Falcon| बाज़
 ```
 ## Vehicles 
+level-2
 ```
 Bullock Cart| बैलगाड़ी
 Horse carriage| घोड़ागाड़ी
 ```
 ## Tools
+level-2
 ```
 Screw| पेंच
 Screwdriver| पेंचकस
 ```
 ## Flowers
+level-2
 ```
 Daisy| गुलबहार
 Periwinkle| सदाबहार
@@ -413,6 +424,7 @@ Water lily| नीलकमल
 Gulmohar| गुलमोहर
 Poppy| खसखस
 ```
+level-2
 ```
 Pansy| बनफूल
 Mogra| मोगरा
@@ -421,44 +433,53 @@ Magnolia| चम्पा
 Daffodil| नरगिस
 ```
 ## Others
+level-1
 ```
 Bow| धनुष 
 arrow| बाण
 Chariot| रथ
 Pellet drum| डमरू
-Door| दरवाजा
 Flowerpot| गमला
 ```
+level-2
 ```
 Hexagon| षटकोण
 Knight| क्षत्रिय
 warrior| योद्धा
-Lid| ढक्कन
 Park| बाग
 Garden| उद्यान 
 ```
+level-2
 ```
 Pouch| थैली
-Tap| नल
 Trident| त्रिशूल 
 Twig| टहनी
 Umbrella| छतरी
 Vegetables| सब्ज़ियाँ
 Water droplet| ओस
 ```
+level-2
 ```
 Waterfall| झरना
 Yagna| यज्ञ
 touch me not| छुई मुई
-Plate| थाली
 Inkpot| स्याही
 Fountain| झरना
 ```
+level-1
 ```
-Broom| झाड़ू
 Birds nest| घोसला
 Stick| डंडा
 Wool| ऊन
 Trolley| ठेला
 Spinning top| लट्टू 
+```
+## House
+level-1
+```
+Broom| झाड़ू
+Plate| थाली
+Tap| नल
+Lid| ढक्कन
+Door| दरवाजा
 ```
