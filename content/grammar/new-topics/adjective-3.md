@@ -159,6 +159,11 @@ She loves to eat *fresh (slim)* apples.
 Rahul has *curly (deep)* hair.
 A ball is *round (curly)* in shape.
 Birds have *beautiful (high)* feathers.
+The blanket is *soft (round)*.
+There was very *little (huge)* water in the bottle.
+I wore a *red (short)* saree for my friend's wedding.
+Ravi is an *obedient (white)* student.
+My dad is wearing a *black (square)* coat.
 ```
 
 ```
@@ -167,6 +172,11 @@ Jasmines have *white (black)* petals.
 The Earth is *round (oval)*.
 Grandma gave me a *sweet (sour)* chocolate.
 The book is very *colorful (ill)*. 
+Priya loves to eat *sweet (grey)* mangoes.
+Dog is an *honest (sour)* animal.
+Neeta is a *clever (much)* girl.
+Paddy fields are very *green (blue)*.
+The *black (blue)* soil is rich in nutrients.
 ```
 
 ```
@@ -175,6 +185,11 @@ Coffee is hot but ice is *cold ( black)*.
 I like to sleep on a *soft (hard)* bed.
 The Indian team was *happy (sad)* when they won the match.
 I saw some *black (green)* clouds.
+An *angry (black)* tiger jumped out of the cage.
+My mom cooks *tasty (beautiful)* payasam.
+A squirrel is a *small (huge)* animal.
+The earth is *round(sqaure)* in shape.
+My cousin's house is very *big (fat)*.
 ```
 
 ## Fill-Up
@@ -205,19 +220,24 @@ Padma is the *most active* girl among three.
 ```
 
 
-## Identify 
+## Identify - adjective of quantity
 
 Select the adjective of quantity in the sentence.
 
 ```
-There are *five* pencils in my box.
+Chandan gave *all* his pens to Manish.
 I drank *some* milk.
 He ate only *half* of his breakfast.
 Do you have *any* money?
 I read the *whole* book.
+*Many* students were present for the seminar today.
+I took *some* notebooks from the school library.
+I have finished *most* of my homework.
+Mannu has *little* interest in singing.
+My sister ate the *whole* banana.
 ```
 
-## Identify
+## Identify - adjective 
 
 Select the adjective in the sentence.
 
@@ -227,6 +247,11 @@ This is a *beautiful* garden.
 Siri is a *noisy* girl.
 Rohan lives in a *big* city.
 These are the *fresh* fruits.
+Hyderabad is a *beautiful* city.
+Charminar is an *old* monument located in Hyderabad.
+Reshma has a *pink* dress.
+My mom has a *grey* handbag.
+I saw a *white* pigeon in my blacony.
 ```
 
 ```
@@ -235,6 +260,11 @@ This is a *funny* movie.
 This is a *huge* snake.
 I have a pair of *yellow* shoes.
 We live in a *small* village.
+My father is a *tall* man.
+My village has *narrow* roads.
+These bananas are very *raw*.
+My Grandfather sat on a *broken* chair.
+I lost my *gold* bracelet.
 ```
 
 
