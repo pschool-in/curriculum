@@ -2,6 +2,8 @@ https://pschpsch.netlify.app/author/images
 
 # animals (जानवरों)
 
+level-1
+
 ```
 cat| बिल्ली
 dog| कुत्ता
@@ -35,6 +37,7 @@ squirrel| गिलहरी
 tortoise| कछुआ
 ```
 
+level-2
 ```
 rat| चूहा
 winged-termites| दीमक
