@@ -33,7 +33,7 @@ Bare, *Bare*, Share
 
 ```
 Cow, How, *Now*
-Slow, *Blow, Flow
+Slow, *Blow*, Flow
 *Shame*, Fame, Name
 Make, *Bake*, Cake
 Read, Red, *Bed*
@@ -49,7 +49,7 @@ Dove, *Love*, Glove
 
 ```
 *Mall*, Fall, Tall
-Hot, *Not, Pot
+Hot, *Not*, Pot
 Moat, Goat, *Boat*
 Fight, *Kite*, Height
 *Skip*, Drip, Lip
