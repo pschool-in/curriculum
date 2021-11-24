@@ -1,103 +1,138 @@
 https://pschpsch.netlify.app/author/images
 
-# animals (जानवरों)
-
+# animals जानवर
 level-1
-
 ```
 cat| बिल्ली
 dog| कुत्ता
-goat| बकरी
-sheep| भेड्
-horse| घोडा
-pig| सूअर
-rat| चूहा
-fish| मछली
-frog| मेंडक
-snake| साँप
-squirrel| गिलहरी
-ant| चींटी
-buffalo| भेंस
-cow| गाय
-donkey| गधा
-rabbit| खरगोश
-mosquito| मच्छर
-```
-level-2
-```
-hippo| जलहस्ती
+goat|बकरी
+sheep|भेड़
+horse|घोड़ा
+pig|सूअर
+elephant|हाथी
+lion|शेर
+monkey|बंदर
+tiger|बाघ
+hippo|जलहस्ती
 rhino| गैंडा
-fox| लोमड़ी
-crocodile| मगरमच्छ
-zebra| जेबरा
-bear| भालू
-camel| ऊंट
-shark |हाँगर
-whale |
+fox|लोमड़ी
+crocodile|मगरमच्छ
+zebra|ज़ेबरा
+bear|भालू
+camel|ऊंट
+shark| हाँगर
+whale|
 dolphin|
 dragonfly|व्याध-पतंग
-crab| केकड़ा
-tortoise| कछुआ
-```
-
-level-2
-```
-winged-termites| दीमक
-fly| मक्खी
-bat| चमगादड़
-butterfly| तितली
-cheetah| 
-elephant| हाथी
-lion| शेर
-monkey| बंदर
-tiger| बाघ
+fish|मछली
+frog| मेढक
+crab|केकड़ा
+snake|साँप
+squirrel|गिलहरी
+tortoise|कछुआ
+rat|चूहा
+winged-termites|दीमक
+ant|चींटी
+fly|मक्खी
+bat|चमगादड़
+buffalo|भेंस
+butterfly|तितली
+cheetah|
+cow|गाय
+donkey|गधा
 ```
 level-2
 ```
 giraffe|
-kangaroo| कंगेरू
-leopard| तेंदुआ
-mongoose| नेवला
+kangaroo|कंगेरू
+leopard|तेंदुआ
+mongoose|नेवला
+mosquito|मच्छर
 octopus|
 wolf|भेड़िया
-cockroach| तिलचट्टा
-garden-lizard|  उद्यान छिपकली
-lizard| छिपकली
-
+cockroach|तिलचट्टा
+garden-lizard|उद्यान छिपकली
+lizard|छिपकली
+rabbit|खरगोश
+alligator|घड़ियाल
+boar|जंगली सूअर
+cricket| झिंगुर
+hyena|लकड़बग्धा
+polarbear| ध्रुवीय भालू
+antelope|बारहसिंगा
+bug| खटमल
+jackal| सियार
+prawn|  झींगे
+baboon| लंगूर
+bull| सांड
+dinosaur|
+python|अजगर
+bison|जंगली सांड
+chameleon|गिरगिट
+porcupine|साही
+bee|मधुमक्खी
+goldfish|
+jellyfish|
+tigerfish|
+ladybug|
+seahorse|समुद्री घोड़े
+hamster|
+mole|
+spider|मकड़ी
+caterpillar|
+panda|
+starfish|
+earthworm|
+hedgehog|
+stingray|
 ```
 
-# birds (चिड़िया)
+# birds पक्षी
 level-1
 ```
-crow| कौवा
+crow|कौआ
 dove| कबूतर
 duck| बतख़
 hen| मुर्गी
 parrot| तोता
 peacock| मोर
 penguin|
-chick| चूज़ा
-```
-level-2
-```
-sparrow| गौरेया
+sparrow|गौरैया
+chick|चूज़ा
 crane| सारस
 eagle| चील
 flamingo| मराल
 kingfisher| नीलकंठ
 myna| मैना
 ostrich| शुतरमुर्ग
-woodpecker| कठफोड़वा
-```
-level-1
-```
 owl| उल्लू
 rooster| मुर्गा
 vulture | गिद्ध
-hornbill| 
+woodpecker|कठफोड़वा
+hornbill|
+koel|कोयल
+cuckoo|कोयल
+pheasant|तीतर
+falcon|बाज़
+swan| हंस
+bulbul|बुलबुल
+spotted-dove| चित्तीदार कबूतर
+pelican|
+humming-bird|
+robin|
+swallow|
+blue-jay|
+seagull|
+canary|
+goose|
+turkey|
+hawk|बाज
+cardinal|
+parakeet|
+macaw|
 ```
 
-# fruits (फल)
+# fruits फल
 level-1
 ```
 apple| सेब
@@ -111,9 +146,6 @@ jackfruit| कटहल
 mango| आम
 orange| संतरा
 papaya| पपीता
-```
-level-1
-```
 pineapple| अनानास
 pomegranate| अनार
 watermelon| तरबूज
@@ -122,9 +154,22 @@ custard-apple| शरीफा
 plum| आलूबुखारा
 dates| खजूर
 muskmelon| खरबूज
+star-fruit| कमरख
+dragon-fruit| पिताया 
+passion-fruit| कृष्णा फल
+sugarcane|ईख
+peach|सतालू
+sweet-potato|शकरकंद
+jamun|जामुन
+pear|नाशपाती
+water-chesnut|सिंघाड़ा
+jujube| बेर
+sapotta| चीकू
+tapioca|
+blueberry |नीलबदरी
 ```
 
-# vegetables (सब्जियां)
+# vegetables सब्जि
 level-1
 ```
 carrot| गाजर
@@ -136,10 +181,6 @@ cabbage| पत्तागोभी
 cauliflower| फूलगोभी
 corn| भुट्टा
 cucumber| खीरा
-garlic| लहसुन
-```
-level-1
-```
 ginger| अदरक
 pumpkin| कद्दू
 almond| बादाम
@@ -151,7 +192,7 @@ cashewnut| काजू
 chilli| हरी मिर्च
 coconut| नारियल
 ```
-level-1
+level-2
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
@@ -162,23 +203,54 @@ mintleaf| पुदीना
 peanut| मूंगफली
 raddish| मूली
 spinach| पालक
+chickpea|चना
+mustard-greens|सरसों का पत्ता
+turmeric|हल्दी
+turnip| शलगम
+fenugreek| हरी मेथी
+tamarind|इमली
+elephant-yam|
+ashgourd|
+broad-beans|
+snake-gourd|
+banana-flower|
+cluster-beans|
+kohlrabi|
+spring-onion|
+banana-stem|
+drumstick-leaves|
+raw-banana|
+tulsi|तुलसी
+bottlegourd|लौकी
+ivygourd|
+ridgegourd|
+vegetables|सब्जियां
 ```
 
-# flowers (फूल)
-level-1
+# flowers पुष्प
+level-2
 ```
 rose | गुलाब
 lotus | कमल
 sunflower | सूर्यमुखी
 marigold | गेंदा
 hibiscus | गुडहल
-jasmine | चमेली
+mogra| मोगरा
 tulip| 
 zinnia|
+daffodil| नरगिस
+gulmohar|गुलमोहर
+lily|कुमुदनी
+pansy|बनफूल
+poppy|खसखस
+daisy|गुलबहार
+magnolia|चम्पा
+periwinkle| सदाबहार
+water-lily|नीलकमल
 ```
 
-# vehicles (वाहनों)
-level-1
+# vehicles वाहन
+level-2
 ```
 aeroplane| हवाईजहाज
 boat| नाव
@@ -187,11 +259,9 @@ car| गाड़ी
 cycle| साइकिल
 helicopter| घिरनीदार विमान
 motorbike|
-train| रेलगाडी
+ship| समुंद्रीजहाज
 tractor| ट्रैक्टर
-```
-level-2
-```
+train| रेलगाडी
 ambulance| रोगीवाहन
 auto| रिक्शा
 cart| हाथगाडी
@@ -199,80 +269,136 @@ excavator| खोदक मशीन
 fire-engine| दमकल
 lorry| लारी
 van|
-ship| समुंद्रीजहाज
+bulldozer|
+rocket|
+submarine|
 ```
-
-# house
+# house मकान
 level-1
 ```
+man| आदमी
+woman| औरत
+boy| लड़का
+girl| लड़की
 house| मकान
+grandfather| दादा
 table| मेज
 bed| बिस्तर
 candle| मोमबत्ती
 chair| कुर्सी
 shelf| अलमारी
 baby| बच्चा
-boy| लड़का
-girl| लड़की
-man| आदमी
-woman| औरत 
 ball| गेंद
-coat|
 glasses| ऐनक
 clock| दीवार घड़ी
 watch| घडी
+flower-pot|गमला
+umbrella|छतरी
+door| दरवाजा
+broom| झाड़ू
+window|खिड़की
+air-conditioner|
+sofa|
+bucket|बाल्टी
+toilet|
+soap|साबुन
+washing-machine|
+backpack|
+pillow|तकिया
+basket|टोकरी
+dustbin|कचरे का डिब्बा
+bed-lamp|
+handbag|
 ```
 
-# school
+# dress पोशाक
 level-1
+```
+dress|
+coat|
+shoe|जूता
+sock|मौज़ा
+boots|
+pyjama|पजामा
+gloves|दस्ताने
+scarf|दुपट्टा
+sweater|
+bib|
+shirt|कमीज
+jacket|
+hat|टोपी
+trousers|पतलून
+```
+# school विद्यालय
+level-2
 ```
 eraser| रबड़
 pen| कलम
 pencil| पेंसिल
+sharpener| चोखा करने वाला
 ruler| पेमाना
 schoolbag| बस्ता
+scissors| कैंची
 waterbottle| पानी की बोतल
+calculator| गणना यंत्र
 book| किताब
 color-pencils | रंग पेंसिल
+crayons|चित्रांकनी
+ink|
 ```
-level-2
-```
-scissors| कैंची
-sharpener| चोखा करने वाला
-calculator | गणना यंत्र
-crayons| चित्रांकनी
-```
-# kitchen
-level-2
+
+# kitchen रसोईघर
+level-1
 ```
 stove| चूल्हा
 fork| कांटा
-pan| कड़ाही
-
-```
-level-1
-```
 knife| छुरी
+pan| कड़ाही
 spoon | चम्मच 
 pot| मटका
 butter| मक्खन
+plate|थाली
+tap|नल
+lid|ढक्कन
+blender|
+cheese|
+fridge|
+lollipop|
+salad|
+sugar|चीनी
+bowl|कटोरा
+chicken|
+ice-cream|
+meat|मांस
+salt|नमक
+sweets|मिठाइयाँ
+bread|रोटी
+cup|
+juice|
+mushroom|
+sandwich|
+cake|
+flour|
+lentils|
+rice|चावल
+soup|
 ```
 
 # gadgets
 level-2
 ```
-camera
-headphone
-pendrive
-remote
-smartphone
-speaker
-tablet
-torch, मशाल
-web-camara
+camera|
+headphone|
+pendrive|
+remote|
+smartphone|
+speaker|
+tablet|
+torch|मशाल
+web-camera|
 ```
 
-# bodyParts
+# bodyParts शरीर के अंग
 level-1
 ```
 ear| कान
@@ -284,8 +410,7 @@ mouth| मुँह
 nose| नाक
 tooth| दांत
 ```
-
-# Tools
+# tools उपकरण
 level-2
 ```
 axe| कुल्हाडी
@@ -310,9 +435,43 @@ compass| दिशा सूचक यंत्र
 easel| चित्रफलक
 hacksaw| लोहा-आरी
 scalpel| छुरी
+screw|पेंच
+screwdriver|पेंचकस
+flute|बांसुरी
+piano|
+tabla|तबला
+violin|
+guitar|
+saxophone|
+trumpet|
+xylophone|
 ```
 
-# others
+# jobs नौकरियां
+level-2
+```
+astronaut|अंतरिक्ष यात्री
+clown|
+fisherman|मछुआ
+postman|डाकिया
+teacher|
+blacksmith|लोहार
+cobbler|
+goldsmith|सुनार
+potter|
+weaver|
+carpenter|
+diver|
+nurse|
+sailor|
+chef|बावर्ची
+doctor|चिकित्सक
+police|
+soldier|फोजी
+barber|नाई
+washerman|धोबी
+```
+# nature प्रकृति
 level-1
 ```
 sun| सूर्य
@@ -320,172 +479,69 @@ moon| चांद
 rain| बारिश
 star| तारा
 milk| दूध
+bird|पक्षी
+fruits|फल
+leaf|पत्ता
+world|दुनिया
+nest|घोंसला
+water-drop|ओस
+waterfall|झरना
+rainbow|इंद्रधनुष
+```
+
+# others अन्य
+level-1
+```
 ring| अंगूठी
 brush| कूंचा
 bone| हड्डी
-```
-level-1
-```
+auvai|
 bell| घंटी
-bird| पक्षी
 conch| शंख
 drums| ढोल
 five| पांच
 food| खाना
-fruits| फल
 king| राजा
-```
-level-2
-```
 kite| पतंग
 ladder| सीढ़ी
 ladoo| लड्डू
-leaf| पत्ता
 rishi| ऋषि मुनि
 wheel| चक्का
 whistle| सीटी
-world| दुनिया
-```
-
-# More image request
-
-## Vegetables
-level-2
-```
-Turnip| शलगम
-Chickpea| चना
-Fenugreek Leaf| हरी मेथी
-Mustard greens| सरसों का पत्ता
-Turmeric| हल्दी
-Sweet potato| शकरकंद
-```
-## Fruits
-level-2
-```
-Sapota| चीकू
-Jamun| जामुन
-Coconut| नारियल
-Pear| नाशपाती
-Tamarind| इमली
-Sugar cane| ईख
+yazl|
 ```
 level-2
 ```
-Water- chestnut| सिंघाड़ा
-Blueberry| नीलबदरी
-Peach| सतालू
-Jujube| बेर
-Passion fruit| कृष्णा फल
-Star fruit| कमरख
-Dragon fruit| पिताया 
-```
-## Animals
-level-2
-```
-Alligator| घड़ियाल
-Baboon| लंगूर
-Antelope| बारहसिंगा
-Boar| जंगली सूअर
-Bison| जंगली सांड
-Bull| सांड
-Bug| खटमल
-```
-level-2
-```
-Cricket| झिंगुर
-Chameleon| गिरगिट
-hyena| लकड़बग्धा
-Jackal| सियार
-Polar Bear| ध्रुवीय भालू
-porcupine| साही
-Prawns|  झींगे
-Python| अजगर
-```
-## Birds
-level-2
-```
-Cuckoo| कोयल
-Swan| हंस
-Pheasant| तीतर
-Falcon| बाज़
-```
-## Vehicles 
-level-2
-```
-Bullock Cart| बैलगाड़ी
-Horse carriage| घोड़ागाड़ी
-```
-## Tools
-level-2
-```
-Screw| पेंच
-Screwdriver| पेंचकस
-```
-## Flowers
-level-2
-```
-Daisy| गुलबहार
-Periwinkle| सदाबहार
-Water lily| नीलकमल
-Gulmohar| गुलमोहर
-Poppy| खसखस
-```
-level-2
-```
-Pansy| बनफूल
-Mogra| मोगरा
-Lily| कुमुदनी
-Magnolia| चम्पा
-Daffodil| नरगिस
-```
-## Others
-level-1
-```
-Bow| धनुष 
+bullock-cart|बैलगाड़ी
+warrior|योद्धा
+knight|क्षत्रिय
+chariot|रथ
+park|बाग
+garden|उद्यान 
+horse-carriage|घोड़ागाड़ी
+touch-me-not|छुई मुई
+yagna|यज्ञ
+yarn-ball |ऊन
+bow| धनुष 
 arrow| बाण
-Chariot| रथ
-Pellet drum| डमरू
-Flowerpot| गमला
+fountain|
+pouch|थैली
+top|लट्टू 
+hexagon|षटकोण
+trident|त्रिशूल
+damaru|
+trolley|डमरू
+stick|डंडा
+twig| टहनी
+dhol|ढोल
+palanquin|पालकी
+medicine|दवा
+balloon|गुब्बारा
+radio|
+toothbrush|
+chocolate|
+toothpaste|
+box|डिब्बा
+coin|सिक्का
 ```
-level-2
-```
-Hexagon| षटकोण
-Knight| क्षत्रिय
-warrior| योद्धा
-Park| बाग
-Garden| उद्यान 
-```
-level-2
-```
-Pouch| थैली
-Trident| त्रिशूल 
-Twig| टहनी
-Umbrella| छतरी
-Vegetables| सब्ज़ियाँ
-Water droplet| ओस
-```
-level-2
-```
-Waterfall| झरना
-Yagna| यज्ञ
-touch me not| छुई मुई
-Inkpot| स्याही
-Fountain| झरना
-```
-level-1
-```
-Birds nest| घोसला
-Stick| डंडा
-Wool| ऊन
-Trolley| ठेला
-Spinning top| लट्टू 
-```
-## House
-level-1
-```
-Broom| झाड़ू
-Plate| थाली
-Tap| नल
-Lid| ढक्कन
-Door| दरवाजा
-```
+
