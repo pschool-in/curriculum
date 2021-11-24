@@ -62,7 +62,7 @@ Some examples of infinitive include
 8. to go
 
 
-## Identify
+## Identify-Gerund
 
 Identify the gerund in each sentence
 
@@ -72,6 +72,11 @@ Grandma enjoyed *meeting* new people.
 Kavitha has developed interest in *cooking*.
 My mother says *eating* fresh vegetables is good for health. 
 She likes *painting*.
+My mom is always been afraid of *flying*.
+*Swimming* is good exercise.
+My brother gave up *smoking* few years ago.
+What about *going* to museum tomorrow?
+My father was happy *seeing* his mom after a long time.
 ```
 
 ```
@@ -80,6 +85,12 @@ Vihaan's most favorite free-time activity is *restoring* vintage bikes.
 Mahita is fond of *spending* long hours at the library.
 Aadhya loved *listening* to grandpa's childhood memories.
 The AC stopped *working* in the middle of the night.
+My sister is fond of *reading* novels.
+We had fun *skiing* in the snow.
+It's no use *taking* a cab now, as we are late already.
+I couldn't stop *laughing* at the joke.
+I considered *moving* to Mumbai last year.
+
 ```
 
 ```
