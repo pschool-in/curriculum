@@ -11,10 +11,17 @@ goat| बकरी
 sheep| भेड्
 horse| घोडा
 pig| सूअर
-elephant| हाथी
-lion| शेर
-monkey| बंदर
-tiger| बाघ
+rat| चूहा
+fish| मछली
+frog| मेंडक
+snake| साँप
+squirrel| गिलहरी
+ant| चींटी
+buffalo| भेंस
+cow| गाय
+donkey| गधा
+rabbit| खरगोश
+mosquito| मच्छर
 ```
 level-2
 ```
@@ -29,26 +36,21 @@ shark |हाँगर
 whale |
 dolphin|
 dragonfly|व्याध-पतंग
-fish| मछली
-frog| मेंडक
 crab| केकड़ा
-snake| साँप
-squirrel| गिलहरी
 tortoise| कछुआ
 ```
 
 level-2
 ```
-rat| चूहा
 winged-termites| दीमक
-ant| चींटी
 fly| मक्खी
 bat| चमगादड़
-buffalo| भेंस
 butterfly| तितली
 cheetah| 
-cow| गाय
-donkey| गधा
+elephant| हाथी
+lion| शेर
+monkey| बंदर
+tiger| बाघ
 ```
 level-2
 ```
@@ -56,13 +58,12 @@ giraffe|
 kangaroo| कंगेरू
 leopard| तेंदुआ
 mongoose| नेवला
-mosquito| मच्छर
 octopus|
 wolf|भेड़िया
 cockroach| तिलचट्टा
 garden-lizard|  उद्यान छिपकली
 lizard| छिपकली
-rabbit| खरगोश
+
 ```
 
 # birds (चिड़िया)
@@ -75,11 +76,11 @@ hen| मुर्गी
 parrot| तोता
 peacock| मोर
 penguin|
+chick| चूज़ा
 ```
 level-2
 ```
 sparrow| गौरेया
-chick| चूज़ा
 crane| सारस
 eagle| चील
 flamingo| मराल
@@ -177,7 +178,7 @@ zinnia|
 ```
 
 # vehicles (वाहनों)
-level-2
+level-1
 ```
 aeroplane| हवाईजहाज
 boat| नाव
@@ -186,12 +187,11 @@ car| गाड़ी
 cycle| साइकिल
 helicopter| घिरनीदार विमान
 motorbike|
-ship| समुंद्रीजहाज
+train| रेलगाडी
 tractor| ट्रैक्टर
 ```
 level-2
 ```
-train| रेलगाडी
 ambulance| रोगीवाहन
 auto| रिक्शा
 cart| हाथगाडी
@@ -199,6 +199,7 @@ excavator| खोदक मशीन
 fire-engine| दमकल
 lorry| लारी
 van|
+ship| समुंद्रीजहाज
 ```
 
 # house
@@ -223,30 +224,35 @@ watch| घडी
 ```
 
 # school
-
+level-1
 ```
 eraser| रबड़
 pen| कलम
 pencil| पेंसिल
 ruler| पेमाना
 schoolbag| बस्ता
-scissors| कैंची
-sharpener| चोखा करने वाला
 waterbottle| पानी की बोतल
-calculator | गणना यंत्र
 book| किताब
 color-pencils | रंग पेंसिल
-crayons| चित्रांकनी
-
 ```
-
+level-2
+```
+scissors| कैंची
+sharpener| चोखा करने वाला
+calculator | गणना यंत्र
+crayons| चित्रांकनी
+```
 # kitchen
 level-2
 ```
 stove| चूल्हा
 fork| कांटा
-knife| छुरी
 pan| कड़ाही
+
+```
+level-1
+```
+knife| छुरी
 spoon | चम्मच 
 pot| मटका
 butter| मक्खन
