@@ -71,18 +71,18 @@ bison|जंगली सांड
 chameleon|गिरगिट
 porcupine|साही
 bee|मधुमक्खी
-goldfish|
+goldfish|सुनहरी मछली
 jellyfish|
 tigerfish|
 ladybug|
 seahorse|समुद्री घोड़े
 hamster|
-mole|
+mole|छछूँदर
 spider|मकड़ी
-caterpillar|
+caterpillar|इल्ली
 panda|
 starfish|
-earthworm|
+earthworm|केंचुआ
 hedgehog|
 stingray|
 ```
@@ -108,6 +108,9 @@ ostrich| शुतरमुर्ग
 owl| उल्लू
 rooster| मुर्गा
 vulture | गिद्ध
+```
+level-2
+```
 woodpecker|कठफोड़वा
 hornbill|
 koel|कोयल
@@ -122,7 +125,7 @@ humming-bird|
 robin|
 swallow|
 blue-jay|
-seagull|
+seagull|सामुद्रिक चिड़िया
 canary|
 goose|
 turkey|
@@ -452,22 +455,22 @@ level-2
 ```
 astronaut|अंतरिक्ष यात्री
 clown|
-fisherman|मछुआ
+fisherman|मछुआरा
 postman|डाकिया
-teacher|
+teacher|शिक्षक
 blacksmith|लोहार
-cobbler|
+cobbler|मोची
 goldsmith|सुनार
-potter|
-weaver|
-carpenter|
+potter|कुम्हार
+weaver|जुलाहा
+carpenter|बढ़ई
 diver|
-nurse|
+nurse|दाई
 sailor|
 chef|बावर्ची
 doctor|चिकित्सक
 police|
-soldier|फोजी
+soldier|सैनिक
 barber|नाई
 washerman|धोबी
 ```
