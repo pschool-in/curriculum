@@ -377,12 +377,12 @@ salt|नमक
 sweets|मिठाइयाँ
 bread|रोटी
 cup|
-juice|
+juice|रस
 mushroom|
 sandwich|
 cake|
-flour|
-lentils|
+flour|आटा
+lentils|दाल
 rice|चावल
 soup|
 ```
