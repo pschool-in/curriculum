@@ -73,7 +73,7 @@ Some more phrases that represent examples of similes are:
  ```
  
  ```
- They *fought like cats and dogs*.
+ They fought *like cats and dogs*.
  The dancer moved *like a gazelle*.
  Jessey could *hear like an owl*.
  They are *as different as day and night*.
