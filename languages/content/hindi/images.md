@@ -347,7 +347,7 @@ calculator| गणना यंत्र
 book| किताब
 color-pencils | रंग पेंसिल
 crayons|चित्रांकनी
-ink|
+ink|स्याही
 ```
 
 # kitchen रसोईघर
