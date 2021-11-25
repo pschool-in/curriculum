@@ -8,7 +8,7 @@ To differentiate between adjectives and nouns.
 
 ## Reading notes:
 
-The words which describe a naming word (noun) or a pronoun are called adjectives. Adjectives usually tell us about what kind of, how many or what color etc.. any person, a place, thing or an animal is. Adjectives usually come before a noun and make them more specific. Adjectives also have thier opposites like - "tall-short", "big-small", "black-white".
+The words which describe a naming word (noun) or a pronoun are called adjectives. Adjectives usually tell us about what kind of, how many or what color etc.. any person, a place, thing or an animal is. Adjectives usually come before a noun and make them more specific. Adjectives also have their opposites like - "tall-short", "big-small", "black-white".
 
 For example: 
 1. My study table is "small".
@@ -56,7 +56,7 @@ sunny, day
 deep, river
 hard, pillow
 beautiful, girl
-tasty, icre-cream
+tasty, ice-cream
 ```
 
 ```
@@ -109,7 +109,7 @@ She is wearing a *pink (tall)* shirt.
 A spider has *eight (two)* legs.
 My mom has *long (round)* hair.
 A car has *four (three)* wheels.
-The Girafee has a *long (short)* neck.
+The Giraffe has a *long (short)* neck.
 ```
 
 ```
@@ -139,7 +139,8 @@ Soon, my *playful* cat yawned. He was *tired*. I picked him up and put him on a 
 ```
 Sita and meera are twins. Preethi and swapna live next door. Meera's mom packed some *tasty* snacks and water in a *big* basket. 
 The *four* friends walk to the nearby woods for a picnic. They spot an *old* tree. 
-Sita spreads the *new* mat under the tree and they all have thier snacks. Swapna sits on a *small* bench and watches the squirrels running up and down.
+Sita spreads the *new* mat under the tree and they all have thier snacks. 
+Swapna sits on a *small* bench and watches the squirrels running up and down.
 ```
 
 
