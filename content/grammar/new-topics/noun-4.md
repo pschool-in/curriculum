@@ -98,6 +98,55 @@ I'm *afraid* of dogs.
 I'm not going outside in the *fear* of dogs.
 ```
 
+### Identify (label) (classify)
+
+Identify whether the underlined nouns are concrete or abstract. (title)
+```
+Concrete:
+An *apple* is kept on the *table.*
+There are tons of *books* in the *library.*
+A *dog* is a very common pet.
+The *sweater* is made of *wool.*
+I saw *banana trees* on the way.
+She reads three *books* in a week.
+The *elephant* is very big.
+
+Abstract:
+He is not telling the *truth.*
+People lose *faith* when you lie.
+He will *defeat* her.
+They laughed at my *joke.*
+Pia is *afraid* of heights.
+She is *angry.*
+The girls love to *gossip.*
+```
+
+### Identify-2 (label) (classify)
+
+Identify whether the below nouns are countable or uncountable. (title)
+```
+Countable:
+There are a few chinese *restaurants* in the city.
+Priya took many *pictures* on her vacation.
+Many *books* are kept on the table.
+The *beds* we have are very old.
+My *phone* is not working properly.
+
+Uncountable:
+Do you have a *water* bottle?
+I like *butter* on my bread slice.
+The police needs *information* about the thief.
+Her *intelligence* is undoubtful.
+The *milk* is in the bottle.
+```
+
+## Select (label)
+
+Tap on the abstract nouns. (title)
+```
+
+```
+
 # References
 
 1. https://www.grammarly.com/blog/concrete-vs-abstract-nouns/
@@ -105,3 +154,6 @@ I'm not going outside in the *fear* of dogs.
 3. https://www.k5learning.com/worksheets/grammar/grade-3-nouns-abstract-a.pdf
 4. https://www.k5learning.com/worksheets/grammar/grade-3-nouns-abstract-b.pdf
 5. https://lessonsforenglish.com/nouns/concrete-noun-examples-in-sentences-and-expressions/
+6. https://onlymyenglish.com/examples-of-concrete-noun/
+7. https://englishgrammarhere.com/nouns/10-examples-of-abstract-noun-sentences/
+8. https://www.gingersoftware.com/content/grammar-rules/nouns/countable-uncountable-nouns/
