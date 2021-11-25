@@ -1,4 +1,4 @@
-# Adjective
+# Degrees of Comparison 
 
 ## Learning Objectives 
 
