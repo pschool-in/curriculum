@@ -1,4 +1,4 @@
-# Adjective
+# Adjective Of Quality and Quantity
 
 ## Learning Objective
 
