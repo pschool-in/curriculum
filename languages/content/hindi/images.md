@@ -184,6 +184,7 @@ cabbage| पत्तागोभी
 cauliflower| फूलगोभी
 corn| भुट्टा
 cucumber| खीरा
+garlic| लहसुन
 ginger| अदरक
 pumpkin| कद्दू
 almond| बादाम
