@@ -1,1 +1,166 @@
+# Adjective
+
+## Objective
+
+To be able to define and identify the adjectives.
+
+To differentiate between adjectives and nouns.
+
+## Reading notes:
+
+The words which describe a naming word (noun) or a pronoun are called adjectives. Adjectives usually tell us about what kind of, how many or what color etc.. any person, a place, thing or an animal is. Adjectives usually come before a noun and make them more specific. Adjectives also have thier opposites like - "tall-short", "big-small", "black-white".
+
+For example: 
+1. My study table is "small".
+2. Manish is a "smart" boy.
+3. My sister has "long" hair.
+
+The words "small", "smart", "long"  are called the adjectives. 
+
+## Group the adjectives
+
+Identify the adjectives from the group of words and add it into the appropriate box.
+
+```
+Adjectives: Blue, Big, Loud, Few, Sweet, Bitter
+Non-adjectives: Bag, Flowers, Pens, Chocolate, Apple
+```
+
+```
+Adjectives: Sixty, Short, Thin, Long, Black
+Non-adjectives: Bottles, Boy, Scarf, Sheep, Book
+```
+
+```
+Adjectives: Deep, Heavy, Huge, Juicy, Beautiful
+Non-adjectives: Sea, Box, House, Mangoes, Girl
+```
+
+```
+Adjectives: Handsome, Brave, Clean, Sharp, Bright
+Non-adjectives: Man, Soldier, Plates, Teeth, Sun
+```
+
+```
+Adjectives: Cold, Tasty, Fast, Famous, Small
+Non-adjectives: Winter, Pizza, Car, Museum, Hut
+```
+
+## Match - Adjectives and Nouns
+
+Match the following adjectives with appropriate nouns.
+
+```
+high, mountain
+sunny, day
+deep, river
+hard, pillow
+beautiful, girl
+tasty, icre-cream
+```
+
+```
+fast, car
+large, Home
+right, answer
+chocolate, cake
+cotton, shirt
+fresh, grapes
+```
+
+```
+furry, dog
+cold, drink
+plastic, bag
+honest, man
+windy, night
+sharp, knife
+```
+
+```
+easy, question
+crowded, bus
+colorful, belt
+spicy, biryani
+handsome, boy
+steep, hill
+```
+
+```
+leather, belt
+naughty, kid
+Porcelain, cup
+sour, grapes
+brown, bear
+red, rose
+```
+
+
+## Choose the adjective 
+Fill in the blanks with the appropriate adjective.
+
+```
+The elephant is a *large (small)* animal. 
+The Peacock is a *beautiful (ugly)* bird.
+The rat is *small (big)*.
+He is a *tall (wide)* man.
+The sky is *blue(long)*.
+She is wearing a *pink (tall)* shirt.
+A spider has *eight (two)* legs.
+My mom has *long (round)* hair.
+A car has *four (three)* wheels.
+The Girafee has a *long (short)* neck.
+```
+
+```
+The honey is *sweet (sour)*.
+My mom is making a *tasty (short)* milkshake.
+We visited an *old (short)* palace.
+I have a *black (round)* jacket.
+Meera eats *chocolate (clever)* biscuits.
+The cake was *tasty (wide)*.
+My pillow is *soft (tall)*.
+We wear *cotton (warm)* clothes in summer.
+Wolf is a *dangerous (pretty)* animal.
+These bananas are *sweet (sour)*.
+```
+
+
+## Identify the adjectives (select multiple words)
+
+Spot the adjectives in the following sentences.
+
+```
+One *rainy* day, my *little* cat jumped and sat on the *black* sofa and played with his *new* toy. 
+My *younger* brother was watching it play and he was *happy*. 
+Soon, my *playful* cat yawned. He was *tired*. I picked him up and put him on a *soft* bed and he slept. 
+```
+
+```
+Sita and meera are twins. Preethi and swapna live next door. Meera's mom packed some *tasty* snacks and water in a *big* basket. 
+The *four* friends walk to the nearby woods for a picnic. They spot an *old* tree. 
+Sita spreads the *new* mat under the tree and they all have thier snacks. Swapna sits on a *small* bench and watches the squirrels running up and down.
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
