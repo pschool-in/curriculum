@@ -105,6 +105,20 @@ The *dog* barks at *strangers.*
 I love *balloons.*
 ```
 
+### Select the noun-2 (label) (select word template)
+
+Tap on all the nouns. (title)
+```
+His name is *Varun.* He lives in *Delhi.* He went to see the *Red Fort* yesterday.
+I am a *student.* I go to *school* regularly. I have many *friends* there.
+My *dad* brings me a *gift* every month. I like *surprises.*
+I like *pizza.* But *mom* says that *market* food is unhealthy. So, she will make a *pizza* for me at *home.*
+*Sheena* is my *bestfriend.* We play, eat *lunch* and sit in the *class* together.
+I got a new *bicycle* on my birthday. I don't know how to ride. My *mom* will teach me in the *evening.*
+My *brother* is an *artist.* He works in *Mumbai.* He's planning to display his *drawings* at a *fare.*
+*Samir* is a naughty *boy.* He never listens to *teachers.* The *principal* has called his *parents.*
+```
+
 ### Wordsearch (label)
 
 Find the words listed below. (title)
