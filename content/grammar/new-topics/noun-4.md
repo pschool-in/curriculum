@@ -144,7 +144,14 @@ The *milk* is in the bottle.
 
 Tap on the abstract nouns. (title)
 ```
-
+The team was practicing a lot yesterday. This is the reason for their *victory.*
+He studied in a big city. He gained good *education.*
+*Opportunities* don't come to just anyone. We have to work *hard* for it.
+She is my best friend. Our *friendship* is unbreakable.
+I was sick. So I couldn't study for *exams.* It was my bad *luck.*
+Our teacher's *strictness* scares all the naughty students in the class. Everyone studies in her class.
+We don't like Savita. Her *ego* pushes everyone away.
+I had a brilliant *idea.* We decided to study together for *exams.* 
 ```
 
 # References
@@ -157,3 +164,4 @@ Tap on the abstract nouns. (title)
 6. https://onlymyenglish.com/examples-of-concrete-noun/
 7. https://englishgrammarhere.com/nouns/10-examples-of-abstract-noun-sentences/
 8. https://www.gingersoftware.com/content/grammar-rules/nouns/countable-uncountable-nouns/
+9. https://onlymyenglish.com/examples-of-abstract-noun/
