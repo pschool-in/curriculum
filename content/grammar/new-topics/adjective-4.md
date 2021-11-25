@@ -1,4 +1,4 @@
-# Adjective
+# Order of Adjectives
 
 ## Learning Objective: 
 
@@ -109,7 +109,7 @@ old, man
 round, table
 ```
 
-## Pick-out 
+## Pick-out the adjective 
 
 Drag and drop the correct adjective to complete the sentence.
 
@@ -137,7 +137,7 @@ This is a *beautiful* house.
 My puppy is *playful*.
 ```
 
-## Identify ( select the word)
+## Find Me (select the word)
 
 Identify the adjective in the sentence.
 
