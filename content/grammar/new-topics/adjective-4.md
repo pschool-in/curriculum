@@ -290,7 +290,7 @@ sweet, short, old
 
 ## Identify the order of adjectives (MCQ)
 
-Choose the appropriate options to complete the sentence.
+Choose the appropriate order of adjective to complete the sentence.
 
 ```
 I bought a pair of _____ sandals.
