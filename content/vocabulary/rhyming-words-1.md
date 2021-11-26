@@ -305,7 +305,99 @@ Genius, Spark, Bark, Park
 
 Choose the puzzle piece with the correct rhyming word. (title)
 ```
+Cool, Pool, Shawl
+Well, Jewel, School
+Door, Snore, Share
+Floor, Store, Scare
+Chore, Four, Stand
+```
 
+```
+Crane, Train, Choir
+Sail, Tail, Shower
+Pale, Detail, Main
+Sake, Snake, Sale
+Wake, Bake, Bale
+```
+
+```
+Crow, Brow, Sand
+Knot, Shot, Air
+Dot, Spot, Hair
+Mop, Chop, Chap
+Crop, Drop, Soap
+```
+
+```
+Blog, Log, Tame
+Fog, Hog, Chain
+Odd, Squad, Add
+Knit, Bit, Sat
+Sit, Slit, Scam
+```
+
+```
+Bin, Skin, Same 
+Pin, Win, Tame
+Clue, Through, Bought
+Small, Mall, Made
+Made, Maid, Male
+```
+
+```
+View, Flew, Zoo
+Knew, Few, Shoe
+Bet, Wet, Sat
+Jet, Set, Got
+Get, Net, Ball
+```
+
+```
+Den, Then, Sane
+Ten, When, Where
+Fell, Gel, Get
+Tell, Spell, Spit
+Tray, Spray, Ground
+```
+
+```
+Lay, Clay, Lie
+Spy, Lie, Girl
+May, Pray, Pulse
+Straw, Flaw, Frame
+Are, Car, Jam
+```
+
+```
+Jar, Guitar, Flute
+Cop, Crop, Cap
+Flop, Stop, Jump
+Clap, Slap, Just
+Lap, Map, Fur
+```
+
+```
+Rap, Trap, Tram
+Dip, Skip, Same
+Lip, Zip, Air
+Chip, Trip, Grain
+Grip, Skip, Train
+```
+
+```
+Drag, Flag, Flip
+Call, Fall, Fell
+Dad, Mad, Make
+Lab, Slab, Slip
+Ban, Tan, Tim
+```
+
+```
+Pan, Plan, Plain
+Sat, Rat, Child
+Chat, That, Wish
+Wish, Dish, Splash
+Dash, Hash, Mine
 ```
 
 # References
@@ -315,3 +407,4 @@ Choose the puzzle piece with the correct rhyming word. (title)
 3. https://in.pinterest.com/pin/641763015654907364/
 4. https://englishstudyonline.org/words-that-rhyme/
 5. https://www.rhymezone.com/r/rhyme.cgi?Word=spark&typeofrhyme=perfect&org1=syl&org2=l&org3=y
+6. https://momlovesbest.com/rhyming-words-for-kids
