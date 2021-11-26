@@ -44,12 +44,12 @@ For example :
 1. A strange, little, yellow leaf. 
 Here the arrangement of the adjectives is as follows: "a" is an article, "strange" is an opinion or quality, "little" is the size, "yellow" is the color 
 
-2. My dad is a tall, Indian Man.
+2. My dad is a tall, Indian man.
 Here the arrangement of the adjectives is as follows: "tall" is a size, "Indian" is a Nationality.
 
 
 
-## Group 
+## Classify the words
 
 Identify the adjectives from the group of words given below and put them into the appropriate box.
 
@@ -73,7 +73,7 @@ Adjectives: slowest, brown, huge, sharp, fast, dangerous
 Non-adjectives: crocodile, train, turtle, table, banana
 ```
 
-## Match the following 
+## Match - Adjectives with nouns
 
 Match the adjectives with suitable nouns.
 
@@ -109,32 +109,32 @@ old, man
 round, table
 ```
 
-## Pick-out the adjective 
+## Pick the adjective 
 
 Drag and drop the correct adjective to complete the sentence.
 
 ```
 The *naughty* boy was sent out of the music class by his teacher.
-Walking is a *healthy* exercise.
-Savitha is a *beautiful* girl.
+Walking is a *healthy* exercise for everyone.
+Savitha is a *beautiful* girl in our class.
 Nupur likes *colorful* balloons.
 A rabbit has *long* ears.
 ```
 
 ```
 My nephew is very *cute*.
-It is a *huge* tree.
-It was a *windy* day.
-I have a *blue* phone.
+There is a *huge* tree in my garden.
+Yesterday was a *windy* day in my town.
+I have a *blue* phone in my bag.
 The cheetah is the *fastest* mammal on the land.
 ```
 
 ```
 An octopus has eight *long* arms.
 My dog has a *fluffy* tail.
-A *green* pencil is there on the bench.
-This is a *beautiful* house.
-My puppy is *playful*.
+I found a *green* pencil on my teacher's desk.
+This is a *beautiful* house in my colony.
+My puppy is very *playful* around children.
 ```
 
 ## Find Me (select the word)
@@ -184,12 +184,12 @@ The white, comfortable sofa was very expensive.
 ```
 Yes
 That big, black car goes really fast.
-A round, black ball.
-Five, little children.
+A round, black ball
+Five, little children
 No
 little, five children
 Full, three boxes
-two square, red tables
+two red, sqaure tables
 ```
 
 
@@ -222,7 +222,7 @@ One day he was grazing peacefully on *tender (stern)* shoots. Suddenly, he heard
 He knew, he had to escape. So he started running. Suddenly his *large (fluffy)* antlers got stuck in the low-hanging branch and he was unable to escape. Finally, the wolves caught the stag.
 ```
 
-## Order the Adjectives (Jumbled words)
+## Find the order of adjectives (Jumbled words)
 
 Arrange the adjectives in the correct order to make a meaningful sentence.
 
@@ -260,7 +260,7 @@ A beautiful traditional saree.
 
 ## Identify the adjective (MCQ)
 
-Identify the adjectives in the sentence.
+Fill in the appropriate adjective to complete the sentence.
 
 ```
 An adjective describes _____.
