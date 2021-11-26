@@ -8,18 +8,18 @@ To differentiate between adjectives and nouns.
 
 ## Reading notes:
 
-The words which describe a naming word (noun) or a pronoun are called adjectives. Adjectives usually tell us about what kind of, how many or what color etc.. any person, a place, thing or an animal is. Adjectives usually come before a noun and make them more specific. Adjectives also have their opposites like - "tall-short", "big-small", "black-white".
+The words which describe a naming word (noun) or a pronoun are called adjectives. Adjectives usually tell us about what kind of, how many or what color etc, any person, a place, thing or animal is. Adjectives usually come before a noun and make them more specific. Adjectives also have their opposites like - "tall-short", "big-small", "black-white".
 
 For example: 
 1. My study table is "small".
 2. Manish is a "smart" boy.
 3. My sister has "long" hair.
 
-The words "small", "smart", "long"  are called the adjectives. 
+The words "small", "smart", "long"  are called adjectives. 
 
 ## Group the adjectives
 
-Identify the adjectives from the group of words and add it into the appropriate box.
+Identify the adjectives from the group of words and add them into the appropriate box.
 
 ```
 Adjectives: Blue, Big, Loud, Few, Sweet, Bitter
@@ -101,24 +101,24 @@ Fill in the blanks with the appropriate adjective.
 
 ```
 The elephant is a *large (small)* animal. 
-The Peacock is a *beautiful (ugly)* bird.
-The rat is *small (big)*.
+The peacock is a *beautiful (ugly)* bird.
+The rat is a *small (big)* animal.
 He is a *tall (wide)* man.
 The sky is *blue(long)*.
 She is wearing a *pink (tall)* shirt.
 A spider has *eight (two)* legs.
 My mom has *long (round)* hair.
 A car has *four (three)* wheels.
-The Giraffe has a *long (short)* neck.
+The giraffe has a *long (short)* neck.
 ```
 
 ```
-The honey is *sweet (sour)*.
+Honey is *sweet (sour)*.
 My mom is making a *tasty (short)* milkshake.
 We visited an *old (short)* palace.
 I have a *black (round)* jacket.
 Meera eats *chocolate (clever)* biscuits.
-The cake was *tasty (wide)*.
+The chocolate cake was *tasty (wide)*.
 My pillow is *soft (tall)*.
 We wear *cotton (warm)* clothes in summer.
 Wolf is a *dangerous (pretty)* animal.
@@ -137,9 +137,9 @@ Soon, my *playful* cat yawned. He was *tired*. I picked him up and put him on a 
 ```
 
 ```
-Sita and meera are twins. Preethi and swapna live next door. Meera's mom packed some *tasty* snacks and water in a *big* basket. 
+Sita and Meera are twins. Preethi and Swapna live next door. Meera's mom packed some *tasty* snacks and water in a *big* basket. 
 The *four* friends walk to the nearby woods for a picnic. They spot an *old* tree. 
-Sita spreads the *new* mat under the tree and they all have thier snacks. 
+Sita spreads the *new* mat under the tree and they all have their snacks. 
 Swapna sits on a *small* bench and watches the squirrels running up and down.
 ```
 
