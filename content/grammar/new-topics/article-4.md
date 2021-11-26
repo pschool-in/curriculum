@@ -167,7 +167,7 @@ They taught me *a (an, the)* lesson not to hurt anyone.
 Vishnu  
 ```
 
-## Fill up 
+## Add suitable quantifiers
 
 Drag and drop the suitable quantifiers to make a meaningful sentence.
 
