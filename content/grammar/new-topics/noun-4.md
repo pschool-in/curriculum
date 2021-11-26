@@ -154,6 +154,20 @@ We don't like Savita. Her *ego* pushes everyone away.
 I had a brilliant *idea.* We decided to study together for *exams.* 
 ```
 
+## Select-2 (label)
+
+Tap on the concrete nouns. (title)
+```
+Do you know that a *pearl* is not man-made? It is obtained from *oysters* found in the *ocean.*
+A bunch of *bananas* were on the *tree.* A *monkey* climbed and ate them all.
+The *crocodiles* live in the ocean. It is a very dangerous *animal.*
+My *mother* is a *teacher.* She teaches science.
+We should take a *shower* everyday. It helps us stay clean and tidy.
+Someone stole my dad's *wallet* in the train. The *police* will try to catch the *thief.*
+I love everything that is *sweet.* I like *chocolates,* *pies* and *sweets.*
+My *brother* likes reading *newspaper.* He knows about almost everything that is going on.
+```
+
 # References
 
 1. https://www.grammarly.com/blog/concrete-vs-abstract-nouns/
