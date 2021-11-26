@@ -265,7 +265,7 @@ Fill in the appropriate adjective to complete the sentence.
 ```
 The mangoes are _____.
 sweet, tall, square
-The lions have ______ claws.
+The lion has ______ claws.
 sharp, bushy, colorful
 The car is ______.
 fast, tall, fuel
