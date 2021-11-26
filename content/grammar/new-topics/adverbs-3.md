@@ -200,6 +200,20 @@ Rapid, Rapidly, Rapidlly
 Rare, Rarely, Rarelly
 ```
 
+### Select the adverb of manners (label) (select the word)
+
+Tap on the adverb of manners in the following sentences. (title)
+```
+He was in a hurry. He had a meeting. So, he *quickly* drank the water.
+Someone made fun of her in the group. She was embarassed but laughed *nervously.*
+She has a test tomorrow. So, she is reading *carefully.*
+I was crossing the street and my mom was *anxiously* looking at me.
+We had to move the sofa across the street. So we moved it *awkwardly* in front of the guests.
+He *calmly* explained the lesson to me. I don't have any doubts.
+He is *eagerly* waiting for his job letter. He has worked very hard for this.
+My teacher has *faithfully* worked for my school. She will be awarded for respect.
+```
+
 # References
 
 1. https://www.bing.com/videos/search?q=adverb+of+manner+grade+3&docid=608000982245907664&mid=D3D779F58BF82FD5FE18D3D779F58BF82FD5FE18&view=detail&FORM=VIRE
@@ -209,3 +223,4 @@ Rare, Rarely, Rarelly
 5. https://www.ef.com/wwen/english-resources/english-grammar/adverbs-manner/
 6. https://www.wallstreetenglish.com/exercises/adverbs-of-manner
 7. https://www.gingersoftware.com/content/grammar-rules/adverb/adverbs-manner/
+8. https://www.espressoenglish.net/20-english-adverbs-of-manner-to-make-your-sentences-more-interesting/
