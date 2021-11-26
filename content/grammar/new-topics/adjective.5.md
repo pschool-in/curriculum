@@ -220,7 +220,7 @@ This is my sister. *Her* name is Tanvi.
 ```
 
 
-## Identify - degrees of comparison  (select the word) 
+## Identify - degrees of comparison -1  (select the word) 
 
 Identify the comparative degree of adjective in the sentence. 
 
@@ -237,10 +237,10 @@ Iceland is *colder than* Spain.
 I drive *more carefully than* my father. 
 English is *easier than* Japanese. 
 My son is *taller than* his father.
-An elephant is *stronger* than Kangaroo. 
+An elephant is *stronger than* Kangaroo. 
 ```
 
-## Identify -degrees of comparison (select the word)
+## Identify -degrees of comparison -2 (select the word)
 
 Identify the superlative degree of adjective in the sentence.
 
