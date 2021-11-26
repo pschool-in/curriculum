@@ -214,20 +214,20 @@ turnip| शलगम
 fenugreek| हरी मेथी
 tamarind|इमली
 elephant-yam|
-ashgourd|
-broad-beans|
-snake-gourd|
+ashgourd|रखिया
+broad-beans|सेम फली
+snake-gourd|चिचिण्डा
 banana-flower|
-cluster-beans|
-kohlrabi|
+cluster-beans|गँवार फली
+kohlrabi|बन्द-गोभी
 spring-onion|
 banana-stem|
 drumstick-leaves|
 raw-banana|
 tulsi|तुलसी
 bottlegourd|लौकी
-ivygourd|
-ridgegourd|
+ivygourd|कुंदरू
+ridgegourd|तुरई 
 vegetables|सब्जियां
 ```
 
@@ -365,9 +365,9 @@ plate|थाली
 tap|नल
 lid|ढक्कन
 blender|
-cheese|
+cheese|पनीर
 fridge|
-lollipop|
+lollipop|टिकीया
 salad|
 sugar|चीनी
 bowl|कटोरा
