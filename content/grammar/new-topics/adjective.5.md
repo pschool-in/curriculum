@@ -31,19 +31,25 @@ For example:
 Adjectives of Quantity: They provide information about the quantity of things or people. 
 
 For example:
+
 1."Many" people gathered near an accident.
+
 2."Few" people attended the meeting.
 
 Adjectives of Number: They describe the number of people, things or places spoken of. 
 For example: 
-1.  I bought "two" shirts for Diwali.
+
+1.  I bought "two" shirts for Diwali.  
+
 2.  I saw "three" parrots on the branch.
 
 Interrogative adjectives: These are used before the nouns to ask questions. Words like - "which", "what", "whose", etc are called as interrogative adjectives. 
 
 Demonstrative adjectives: Words like "this", "that", "these", "those" are used to describe a particular person or a thing. 
 For example:
+
 1. "These" mangoes are sweet.
+
 2. "That" car is yours.
 
 Possessive Adjectives: They tell us about to whom something or someone belongs to. 
