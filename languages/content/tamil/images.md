@@ -278,7 +278,7 @@ train, தொடர்வண்டி
 
 ambulance, அவசர ஊர்தி
 auto, ஆட்டோ
-cart,
+cart, கட்டை வண்டி
 excavator,
 fire-engine, தீயணைப்பு வாகனம்
 lorry, சரக்குந்து
