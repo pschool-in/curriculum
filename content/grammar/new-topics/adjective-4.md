@@ -263,10 +263,10 @@ A beautiful traditional saree.
 Fill in the appropriate adjective to complete the sentence.
 
 ```
-An adjective describes _____.
-a noun, a verb, an adverb
-The order of adjectives after the number is ______.
-opinion, age, color
+The mangoes are _____.
+sweet, tall, square
+The lions have ______ claws.
+sharp, bushy, colorful
 The car is ______.
 fast, tall, fuel
 Can you give me _____ water?
