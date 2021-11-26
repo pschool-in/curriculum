@@ -28,8 +28,9 @@ For example:
 2. Rose is a "beautiful" flower.
 3. This is a "large" house.
 
-Adjectives of Quantity: They provide information about the quantity of things or people
-For example :
+Adjectives of Quantity: They provide information about the quantity of things or people. 
+
+For example:
 1."Many" people gathered near an accident.
 2."Few" people attended the meeting.
 
@@ -59,20 +60,27 @@ Degrees of Comparison are adjectives that change form and are used to compare on
 Three types of Degrees of Comparison:
 
 1. Positive Degree: When we want to describe a person or a thing but there is no comparison, we use the positive degree. 
+
 Example - Lakshman is a "strong" man. 
 
 2. Comparative Degree: When we want to compare two persons or things, we use a comparative degree.
- Example - Bheem is "stronger" than Lakshman. We use "more" & "than" for a comparative degree of adjectives and also "-er" is added to the positive adjective.
+
+ Example - Bheem is "stronger" than Lakshman.
+ 
+ We use "more" & "than" for a comparative degree of adjectives and also "-er" is added to the positive adjective.
 
 3. Superlative Degree: When we want to compare more than two persons or things, we use the superlative degree.
-Example - Ram is the "strongest" of the three. We use "the" before the superlative degree of adjective and also "-est" at the end of an adjective. 
+
+Example - Ram is the "strongest" of the three. 
+
+We use "the" before the superlative degree of adjective and also "-est" at the end of an adjective. 
 
 
 Positive:  rich, small, ugly, fast, few, bright, big, fat, hot, thin, sad, wealthy, lucky, early 
 
 Comparative:  richer, smaller, uglier, faster, fewer, brighter, bigger, hotter, fatter, thinner, sadder, wealthier, luckier, earlier    
 
-Superlative: Richest, smallest, ugliest, fastest, fewest, brighter, biggest, fastest, hottest, thinnest, saddest, wealthiest, luckiest, earliest 
+Superlative: Richest, smallest, ugliest, fastest, fewest, brightest, biggest, fastest, hottest, thinnest, saddest, wealthiest, luckiest, earliest 
 
 
 
@@ -83,29 +91,29 @@ Drag and drop the correct adjective to complete the sentence.
 
 ```
 Kavitha answers all the questions correctly. She is an *intelligent* girl. 
-These are *costly* chairs.
+These are *costly* chairs made of teak wood.
 A cow gives us milk. It is a *useful* animal. 
 Rahul doesn't eat well. So, he is *thin*.
-Our school is *big*.
+Our school has a *big* auditorium when compared to other schools.
 ```
 
 ```
-A *green* valley. 
-She is a *kind* lady.
-Manish lives in a *large* house.
-I like *this* shirt.
-There is *some* water in the jug.
+The *careless* watchman forgot to close the gate of the building.
+My grandmother is a *wise* lady in our family. 
+Manish lives in a *large* house located near the park.
+We cooked *enough* food for our guests who arrived in the evening.
+I bought *twelve* oranges from the supermarket yesterday.
 ```
 
 ```
-We learned *new* recipe in the cooking class.
-Aditya has *four* books on his shelf.
-Bhavya wore a *traditional* dress.
-I like *cold* weather.
-Mihira is a *naughty* girl.
+We learned a *new* recipe in the cooking class today.
+Aditya has *four* books on his shelf which he borrowed from the library.
+Bhavya wore a *traditional* dress for Diwali celebrations in the society.
+Mahesh was very *gentle* while cleaning his laptop.
+Mihira is a *naughty* girl in her class.
 ```
 
-## True or False
+## Classify as True or False
 
 Classify the following statement as true or false.
 
@@ -116,19 +124,19 @@ Age and size are called the adjectives of quality.
 Adjectives of quantity use words like few and many.
 False
 Demonstrative adjectives use words like who, what.
-This and that are called interrogative adjectives.
+"This" and "that" are called interrogative adjectives.
 ```
 
 ```
 True
-Than is used in the comparative degree of adjectives.
-The is used before the superlative degree of adjective.
+"Than" is used in the comparative degree of adjectives.
+"The" is used before the superlative degree of adjective.
 False
 Positive degree of an adjective is used to compare qualities of two persons or things.
 Comparative degree of an adjective is used to compare more than two things or people.
 ```
 
-## Fill up
+## Add the correct adjective of quantity
 Use the correct adjective of quantity to complete the sentence.
 
 ```
@@ -155,7 +163,7 @@ There is *little (few)* space left in the car.
 I have *less (fewer)* than an hour to complete my homework.
 ```
 
-## Fill up - demonstrative adjective
+## Add-demonstrative adjective
 
 Choose the correct demonstrative adjective in the sentence.
 
@@ -175,7 +183,7 @@ We will clean *this (those)* room.
 Who completed *this (those)* science project?
 ```
 
-## Classify
+## Classify the adjective
 Identify the underlined adjective and state its kind.
 
 ```
@@ -198,7 +206,7 @@ What is the cost of *these* books?
 Give me *that* pen.
 *This* is my last performance on stage.
 *These* shoes are too expensive.
-Possessive adjectives
+Possessive adjective
 Mihir is driving in *his* new red sports car.
 Samanvi has got a new car. *Her* car is very nice.
 Mahesh, where is *your* mother?
@@ -206,7 +214,7 @@ This is my sister. *Her* name is Tanvi.
 ```
 
 
-## Identify (select the word) 
+## Identify - degrees of comparison  (select the word) 
 
 Identify the comparative degree of adjective in the sentence. 
 
@@ -220,13 +228,13 @@ My sister is *more intelligent than* my brother.
 
 ```
 Iceland is *colder than* Spain. 
-I drive *more carefully* than my father. 
+I drive *more carefully than* my father. 
 English is *easier than* Japanese. 
 My son is *taller than* his father.
 An elephant is *stronger* than Kangaroo. 
 ```
 
-## Identify (select the word)
+## Identify -degrees of comparison (select the word)
 
 Identify the superlative degree of adjective in the sentence.
 
@@ -288,7 +296,7 @@ superlative, comparative, positive
 ```
 
 
-## MCQ
+## Identify - the kind of adjective
 
 See the underlined adjective and identify the kind of adjective.
 
@@ -311,7 +319,7 @@ Pavithra is a *beautiful* girl.
 adjective of quality, demonstrative adjective, interrogative adjective
 ```
 
-## Classify (true and false template)
+## Classify the statement-1 (true and false template)
 
 Identify the degree of comparison for the below sentence.
 
@@ -335,6 +343,10 @@ My job is worse than yours.
 The earth is larger than moon.
 You are more polite than meera.
 ```
+
+## Classify the statement-2
+
+Identify the degree of comparison for the below sentence.
 
 ```
 Comparative
