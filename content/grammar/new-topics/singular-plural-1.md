@@ -133,6 +133,34 @@ There are twenty *sheep (sheeps)* in the farm.
 I saw two black *fish (fishes)* in the pond.
 ```
 
+### Fish or Fishes (label) (fillup with options)
+
+Tap on each blank and choose the right option. (title)
+```
+Do you know that the plural for *fish (fishes)* is *fish (fishes)*. When we talk about a group of *fish (fishes)* in which all *fish (fishes)* are of the same type, we call them *fish (fishes)*. But, if we talk about many *fishes (fish)* of different kind, they're called *fishes (fish)*.
+```
+
+### Cow or Cows (label) (fillup with options)
+
+Tap on each blank and choose the right option. (title)
+```
+A *cow (cows)* is a very common animal in India. There are more than 300 million *cows (cow)* in India. *Cows (Cow)* give us milk. Baby *cows (cow)* are called calves. We often see *cows (cow)* chewing. A group of *cows (cow)* is called a herd. *Cows (Cow)* are also called cattle.
+```
+
+### Dog or Dogs (label) (fillup with options)
+
+Tap on each blank and choose the right option. (title)
+```
+A *dog (dogs)* is a domestic animal. *Dogs (Dog)* are known as man's best friends. A *dog (dogs)* loves to eat bones and play fetch games. Do you know that *dogs (dog)* are the first animals that humans adopted as pets.
+```
+
+### Spider or Spiders (label) (fillup with options)
+
+Tap on each blank and choose the right option. (title)
+```
+A *spider (spiders)* has 8 legs. *Spiders (Spider)* make webs to trap the insects for food. Female *spiders (spider)* lay eggs. These are very common insects. *Spiders (Spider)* are generally found in the corners of our home.
+```
+
 # References
 
 1. https://www.turtlediary.com/lesson/singular-and-plural-nouns.html
@@ -141,4 +169,7 @@ I saw two black *fish (fishes)* in the pond.
 4. https://kidsa2z.in/one-and-many-singular-and-plural-for-class-1/
 5. https://k8schoollessons.com/singular-and-plural-in-sentences-1/
 6. https://www.classace.io/learn/grammar/1stgrade/irregular-plural-nouns
+7. https://www.konnecthq.com/cow-facts/#:~:text=%20Cow%20Facts%20for%20Kids%20%201%20There,have%20just%20one%20stomach%2C%20that%E2%80%99s%20di...%20More%20
+8. https://www.factsjustforkids.com/animal-facts/dog-facts-for-kids/
+9. https://littlelearningcorner.com/2021/09/10-fun-spider-facts-for-kids.html#:~:text=%20Fun%20Facts%20%7C%20Spider%20Facts%20for%20Kids,an%20egg%20sac%20and%20lay%20eggs.%20More%20
 
