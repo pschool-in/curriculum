@@ -77,7 +77,7 @@ Adjectives describe action words.
 Adjectives are used in joining the words.
 ```
 
-## Match
+## Match the adjectives
 
 Match the most appropriate adjectives with their corresponding naming words.
 
@@ -148,8 +148,16 @@ Sita is an *honest* girl.
 Our teacher is very *kind*.
 ```
 
+```
+My brother was *lucky* to survive the floods.
+I am *afraid* to stay home alone.
+I went to the shop to pick up *red* apples.
+The *bright* sun rose in the morning.
+My mom was baking a *chocolate* cake for the party.
+```
 
-## Fill in the blanks
+
+## Adjectives - fill up
 
 Select the correct word to complete the sentence.
 
@@ -192,7 +200,7 @@ The earth is *round(sqaure)* in shape.
 My cousin's house is very *big (fat)*.
 ```
 
-## Fill-Up
+## Identify the degrees of adjectives
 
 Drag and drop the appropriate adjective in the sentence.
 
@@ -217,6 +225,24 @@ Mahesh is the *tallest* boy in the class.
 Teju is an *active* girl.
 Laukya is *more active* than Teju.
 Padma is the *most active* girl among three.
+```
+
+```
+My room is *tidy*.
+My brother's room is *tidier than mine.
+My mother's room is the *tidiest* of all three.
+```
+
+```
+March is a *hot* month.
+April is *hotter* than March.
+May is the *hottest* month of the year.
+```
+
+```
+Lion is a *heavy* animal.
+Crocodile is *heavier* than lion.
+Elephant is the *heaviest* than all three.
 ```
 
 
@@ -267,8 +293,27 @@ My Grandfather sat on a *broken* chair.
 I lost my *gold* bracelet.
 ```
 
+## Identify the adjectives ( multiple select)
 
+Select the adjectives in the passage.
 
+```
+Trees are found everywhere. Some trees are *big* and some are trees *small*. 
+Some trees have *broad* leaves while some have *narrow* leaves. 
+Some trees produce *sweet* fruits like mango and apple, while some give *sour* fruits like lemon.
+```
+
+```
+My cousin, Ram has a *large* farm. In that farm there are many plants and animals. 
+The *playful* dog's name is Rocky. The *cute* kitten is called Ginger. 
+Ram sells *fresh* fruits and vegetables in the *big* market every Sunday.
+```
+
+```
+A shopkeeper sells *tasty* and *fresh* apples and mangoes in different boxes. 
+There are *forty* mangoes in *large* box and *fifteen* mangoes in *small* box.
+He sells these fruits in a *big* supermarket.
+```
 
 
 References: 
