@@ -95,6 +95,46 @@ brown, bear
 red, rose
 ```
 
+## Matching adjectives
+
+Match the adjectives with their corresponding opposites
+
+```
+old, new
+tall, short
+big, small
+early, late
+fat, thin
+far, near
+```
+
+```
+clean, dirty
+cheap, costly
+hard, soft
+happy, sad
+rich, poor
+beautiful, ugly
+```
+
+```
+old, young
+heavy, light
+strong, weak
+dry, wet
+easy, difficult
+long, short
+```
+
+```
+good, bad
+wide, narrow
+first, last
+noisy, quiet
+deep, shallow
+polite, rude
+```
+
 
 ## Choose the adjective 
 Fill in the blanks with the appropriate adjective.
@@ -146,11 +186,63 @@ Swapna sits on a *small* bench and watches the squirrels running up and down.
 
 ## Complete the story (drag and drop)
 
-Complete the story by filling in the blanks with suitable adjectives.
+Complete the story by filling the blanks with suitable adjectives.
 
 ```
-Sita was a *young* girl. She lived in a *small* village in karnataka. One day, on a *cloudy* morning, she went for a walk into the nearby fields. She was wearing a *white* frok and a red ribbon. After sometime, she came across a hut. It was a *small* hut but was *warm* inside. Sita was feeling *tired*. So, she went inside the hut and slept on the cot. Soon a *loud* bang on the door woke her up!
+Sita was a *young* girl. She lived in a *small* village in karnataka. 
+One day, on a *cloudy* morning, she went for a walk into the nearby fields.
+She was wearing a *white* frok and a red ribbon. After sometime, she came across a hut. 
+It was a *small* hut but was *warm* inside. Sita was feeling *tired*. 
+So, she went inside the hut and slept on the cot.
+Soon a *loud* bang on the door woke her up!
 ```
+
+
+## Adjective - Opposite (drag and drop)
+
+Fill in the blanks with the adjectives that are opposite in the meaning to those who are put in quotation marks.
+
+```
+The rat is "small" but the dog is *big*.
+The coconut trees are "tall" but apple trees are *short*.
+The ladybug is "beautiful" but the cockroach is *ugly*.
+Coffee is "hot" but ice-cream is *cold*.
+The hair is "black" but the teeth are *white*.
+```
+
+```
+The rabbit is "fast" but tortoise is *slow*.
+Summer is "hot" but winter is *cold*.
+The school bag is "heavy" but the lunch bag is *light*.
+Saritha's car is "old" but the car tires are *new*.
+The bed is "hard" but the pillows are *soft*.
+```
+
+```
+The bicycle is "cheap" but the car is *expensive*.
+Meera's dad is "tall" but her uncle is *short*.
+Sunflower is "big" but rose is *small*.
+Cooking is "hard" but eating is *easy*.
+Sita's brother is "strong" but her sister is *weak*.
+```
+
+
+
+References: 
+
+https://www.k5learning.com/free-grammar-worksheets/second-grade-2/adjectives/identify-sentences
+
+https://worksheetswithfun.com/mod/page/view.php?id=296
+
+https://www.takshilalearning.com/practice-worksheet-for-class-2-english-grammar-adjectives/
+
+https://www.tiwariacademy.com/ncert-solutions/class-2/english/grammar/chapter-7/
+
+https://www.learninsta.com/describing-words-for-class-2/
+
+
+
+
 
 
 
