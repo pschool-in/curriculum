@@ -191,7 +191,7 @@ Complete the story by filling the blanks with suitable adjectives.
 ```
 Sita was a *young* girl. She lived in a *small* village in karnataka. 
 One day, on a *cloudy* morning, she went for a walk into the nearby fields.
-She was wearing a *white* frok and a red ribbon. After sometime, she came across a hut. 
+She was wearing a *white* frock and a red ribbon. After sometime, she came across a hut. 
 It was a *small* hut but was *warm* inside. Sita was feeling *tired*. 
 So, she went inside the hut and slept on the cot.
 Soon a *loud* bang on the door woke her up!
