@@ -242,7 +242,7 @@ May is the *hottest* month of the year.
 ```
 Lion is a *heavy* animal.
 Crocodile is *heavier* than lion.
-Elephant is the *heaviest* than all three.
+Elephant is the *heaviest* among all three.
 ```
 
 
