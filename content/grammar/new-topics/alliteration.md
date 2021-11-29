@@ -43,6 +43,22 @@ Sheep *shouldn’t* sleep in a shack.
 How many feet of *fruit* did freaky Fred find?
 ```
 
+```
+Ayush's aunt Anjali *ate* all apples.
+Dhanju's *dog* Dan dropped the ball.
+Fatima's father *fried* french fries.
+Granny *guided* the guard to grocery.
+Honeybees have *huge* honeycombs.
+```
+
+```
+Jane is *jogging* joyfully.
+Betty Botter *bought* some butter.
+A good cook *could* cook many cookies.
+Sheep should sleep in a shed.
+How much wood *would* a woodpecker peck?
+```
+
 #### True or False (label)
 
 Classify these sentences as true or false. (title)
@@ -89,6 +105,26 @@ My father works at an MNC.
 My pet's name is bony.
 ```
 
+```
+Yes:
+Silly Sally swiftly shooed seven silly sheep.
+A tutor tried to tutor two tooters to toot.
+
+No:
+She likes her milk cold.
+He plays a guitar when he's bored.
+```
+
+```
+Yes:
+I cannot bear to see a bear.
+A tree toad loved a she-toad.
+
+No:
+I don't like vegetables.
+The bollywood is full of actors and singers.
+```
+
 ### Identify the alliteration (label) (select word template)
 
 Select the alliteration in the sentences. (title)
@@ -116,8 +152,17 @@ We love *Abhay's aunt's apples.*
 *Falguni's friends fed* the street dogs.
 ```
 
+```
+*See’s saw sawed Soar’s seesaw.*
+Raj *picked pepper powder.*
+I cannot *bear* to see a *bear.*
+I *had* to *hurry home* because grandma was baking cookies.
+The *baron* was *busy* as a *bee.*
+```
+
 # References
 
 1. https://www.examples.com/education/alliteration-kids-examples.html
 2. https://thekidsworksheet.com/alliteration-worksheets-grade-5/
 3. Google
+4. https://www.examples.com/education/kiddy-style-alliteration.html
