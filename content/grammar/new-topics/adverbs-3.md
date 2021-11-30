@@ -204,14 +204,47 @@ Rare, Rarely, Rarelly
 
 Tap on the adverb of manners in the following sentences. (title)
 ```
-He was in a hurry. He had a meeting. So, he *quickly* drank the water.
-Someone made fun of her in the group. She was embarassed but laughed *nervously.*
-She has a test tomorrow. So, she is reading *carefully.*
-I was crossing the street and my mom was *anxiously* looking at me.
-We had to move the sofa across the street. So we moved it *awkwardly* in front of the guests.
-He *calmly* explained the lesson to me. I don't have any doubts.
+He had a meeting. So, he *quickly* drank the water and went to the office *hurriedly*.
+Someone *suddenly* cracked a joke. She did not understand but laughed *nervously*.
+She is reading *carefully*. She's trying to complete her lessons *quickly*. She has a test tomorrow. 
+I was crossing the street and my mom was *anxiously* looking at me. I *happily* waved at her after crossing.
+We had to move the sofa across the room. So we moved it *quickly*, but *awkwardly* in front of the guests.
+He *calmly* explained the lesson to me. I don't have any doubts now. I will *calmly* write the test today.
 He is *eagerly* waiting for his job letter. He has worked very hard for this.
-My teacher has *faithfully* worked for my school. She will be awarded for respect.
+My teacher has *faithfully* worked for my school. She will be awarded and will continue to work *respectfully*.
+```
+
+```
+I was at the railway station yesterday. The announcement asked the people to move away from the tracks. Then a bullet train passed by very *quickly*.
+There were many children in the park. They were playing *happily*. After 7pm, they *sadly* went to their homes.
+We are going to the jungle. We may see many wild animals there. My mom asked my dad to drive *carefully*.
+I am at a party with my family. My mom asked me to talk to everyone *politely* and *respectfully*.
+Stop talking so *noisily* in the library. It might disturb other readers. The sounds echo *loudly* in the hall.
+My father can drive the car *easily*. But he yells *angrily* when the traffic irritates him.
+Our school *suddenly* announced a trip. We all got very excited. Everyone started making plans *excitedly*.
+Sheena was talking *loudly* on the phone. I asked her to speak *slowly* because my mom was sleeping.
+```
+
+```
+Raj fell down. We helped him to sit on the chair *comfortably*. I ran *quickly* and told my teacher.
+I had a fight with my friend. We were shouting *loudly*. His mom told us to talk *nicely* with each other.
+I was *hardly* able to focus on my homework. Then my friend explained it to me very *easily*. I can *simply* solve it now.
+She was dressed *smartly* for the party. She also danced *beautifully*. Everyone clapped and praised her.
+He scored well in exams. He told his parents *proudly*. The decided to celebrate by going to a restaurant.
+The teacher checked the answers *carefully*. I answered many questions *correctly* and scored well.
+I *energetically* did my excercise in the morning. I was feeling fresh all day long. I did all my work *efficiently*.
+The teacher yelled at us *angrily*. The class *immediately* started doing their homework.
+```
+
+```
+I *gladly* told my parents that I got selected in the sports team. They *excitedly* hugged me. My mom said she'll make pizza for me.
+I got hurt. So I *rapidly* put a gel on the wound. I am doing my tasks *carefully* now.
+He lied to everyone. When we asked him, he *foolishly* denied. So, everyone decided not to talk to him.
+My dad tried to give him instructions *calmly*. But he was driving *carelessly*. We were very scared.
+Although I was explaining very *politely*, Shina *rudely* answered back. I will not talk to her unless she *respectfully* apologizes.
+The man in the street was *badly* hurt. I *quickly* called the hosptial. The man was soon treated *carefully* and *efficiently*.
+He ate all the chocolate *greedily*. But my friend *gently* tap me on my shoulder and *politely* offered me his cake.
+Harsh *patiently* waited for his mother to arrive. They *happily* headed home together and had lunch.
 ```
 
 # References
