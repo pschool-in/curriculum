@@ -179,6 +179,52 @@ The function was *very* good.
 He drove the car *very* fast.
 ```
 
+### Select the adverb of degree (label) (template multiple select word)
+
+Tap on all the adverb of degrees. (title)
+```
+She was *considerably* sick. Yet she *bravely* appeared in the exam. Everone praised her *a lot*.
+She gained a lot of weight *enormously*. She was *very* thin last year. And she got *very* fat this year.
+The guests were *pretty* loud. I could *hardly* study. So I decided to do it later.
+The teacher *completely* agreed with my answer. I was *extremely* happy. My enemies got *very* jealous.
+I was *immensely* tired after the programme. My mom made *so* much food. But I was *quite* tired so I slept.
+That man *somewhat* looked like my uncle. I *almost* got confused. Then I realised he was *just* similar to him.
+We live in the same street and go to the same school. But, I *barely* talk to him. He's *quite* irritating.
+She made fun of me. I am *deeply* hurt. She is *very* bad and rude.She *almost* made me cry.
+```
+
+```
+It's *very* cold outside. I would *rather* stay inside a blanket. It is *extremely* cold.
+I like this book *a lot*. I *really* admire the author. I will now read *all* the books he has written.
+Our teacher decided to teach us even in the lunch break. And now we all are *literally* starving.
+The artist *minutely* observed my painting. He said it was good *enough*. I felt *immense* joy.
+I *strongly* believe that we should obey our elder. It is because they know about *so* many things.
+My friend *highly* recommended me this book. I *just* finished reading. I think it is *very* interesting.
+The teacher *thoroughly* checked my answer sheet. I answered *almost* all the questions correctly.
+I became *slightly* uncomfortable when the guests came. I am *simply* shy. So, I left within 5 minutes.
+```
+
+```
+He was *almost* finished with his work. But the teacher gave him *a lot* more to do.
+The milk was *completely* frozen because it was kept in the freezer. I *quickly* put it outside.
+The teacher was *terribly* rude today. She gave us *so* much homework that it is more than *enough* for the week.
+The cake was *absolutely* delicious. But I *barely* ate it because I ate *so* many french fries. I like them *very* much.
+I feel *incredibly* lucky. My exams are cancelled. I can play all day long.
+I *just* finished my work. Now I *hardly* have any energy left. I will *rather* sleep than watching TV.
+The movie was *quite* interesting. We *deeply* discussed about it. We liked it *very* much.
+The water was *extremely* cold. We should prefer to drink warm water. It is *very* good for our health.
+```
+
+```
+Tarun walks *extremely* fast. But I walk *quite* slowly. I *barely* match his pace.
+It is *nearly* impossible for me to attend the party. I am going with my family to a *very* popular restaurant.
+When you try something new, you should *really* look at the instructions first. The are *immensely* useful.
+Rahul is *rather* quite. But his brother is *pretty* talkative. He is also *very* outgoing.
+Your answers are *slightly* wrong. You should revise them *thoroughly* before submitting.
+He performed *remarkably* well this year. The teachers are *extremely* proud of him. He *really* did *very* well.
+Are these pens *enough*? Do you think they are *too* many? Shall I return some of these?
+I am not *entirely* sure what homework the teacher gave us. I was *slightly* distracted in the class.
+```
 
 # References
 
@@ -188,4 +234,6 @@ He drove the car *very* fast.
 4. https://www.grammar-monster.com/lessons/comparatives_superlatives_from_adverbs.htm
 5. https://www.learninsta.com/adverbs-of-degree-exercises-for-class-4/
 6. https://www.twinkl.co.in/teaching-wiki/adverb-of-degree
+7. https://ifioque.com/parts-of-speech/adverbs/degree-adverbs
+8. https://onlineteachersuk.com/adverbs-of-degree/
 
