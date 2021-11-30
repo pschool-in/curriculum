@@ -142,6 +142,43 @@ Tap on all the adverbs of frequency. (title)
 I *ocassionally* play tennis. I don't like it much. But my dad likes it. He plays tennis *daily*.
 We *usually* go to shopping on Sundays. My brother *never* comes with so. And he *rarely* likes what we bring for him.
 I go to school *regularly*. I *rarely* miss my classes. I also love meeting my friends *everyday*.
+We have exams *annually*. We also have practice tests *monthly* for preparation. *Sometimes* we have *weekly* tests too.
+I *always* drink milk in the morning. It is very good for health. We all should drink milk *regularly*.
+I *generally* wake up early in the morning. But on week days, I *sometimes* take a nap after coming from school.
+I was *continuously* watching TV from 1 hour. My mom told me to get up.
+```
+
+```
+I *rarely* talk to my childhood friend anymore. But we *usually* played together earlier.
+I am tired, *yet* will do my homework. I *usually* complete my homework on time. But *sometimes* I forget to.
+He *always* helps me. He plays with me *daily*. We also go to school together *everyday*.
+We have a meeting in the school *monthly*. The teacher discuss our progress with parents. She is *often* nice and *rarely* complains.
+How *often* do you watch a movie? I watch one *twice* in a month, *sometimes* only *once*.
+*Every* minute counts while writing an exam. We *generally* write slowly and *often* have no time to write all answers.
+Jane is *never* late for class. She *always* comes on time. She *rarely* fall sick.
+I am *next* in line. *Now* I'll be able to measure my weight. I hope I have gained some.
+```
+
+```
+He hits the ball really hard. It got lost *twice*. No one will *ever* play with him *again*.
+They have *four* cars. *Each* person in the house drive their own vehicle. They *rarely* go out in one car.
+Ravi *never* tells lie. But *today* he put the blame on the wrong student. We will *never* trust him *again*.
+She missed her bus *again*. As *usual*, her father has to drop her to school. This has become her *daily* thing.
+We *generally* search songs on the internet. But he *often* listens to the radio.
+I went to a restaurant last week, but I *seldom* ate at home. I *rarely* eat something outside.
+I'm *never* late for maths class. I'm *always* on time. I practice maths *everyday*.
+My sister *often* reads a book *weekly*. She loves poetry and novels.
+```
+
+```
+I *seldom* eat junk food because I know it's not healthy. I eat chips *sometimes* at school.
+My dad *rarely* goes to the gym, only *twice* or *thrice* a week.
+She *usually* finish her work early because she is *often* busy with other things.
+It *never* snows where I live. So, I have *never* seen snowfall and *never* made a snowman.
+Did you *ever* travel to a foreign country? I want to go to America *someday*. It's *always* snowing there in winter.
+I *always* study very hard to get good grades. My dad *always* takes me to another city for holidays *each* time I score good marks.
+Even though they have to get up *early*, they *rarely* go to bed on time. They *generally* watch TV at night.
+The teacher said that she'll clear my doubt *later*. I can come back in *sometime*.
 ```
 
 # References
