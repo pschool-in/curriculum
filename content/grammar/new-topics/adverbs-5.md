@@ -134,6 +134,16 @@ My aunt is coming to my home *today (to day, this day).*
 *Sometimes (Sometime, Usualy)* we stop to buy candies on our way home.
 ```
 
+### Select the adverb of frequency (label) (multiple select word template)
+
+Tap on all the adverbs of frequency. (title)
+```
+*Sometimes* they come and stay with us. But *mostly* they return to their home the same day. They *rarely* stay.
+I *ocassionally* play tennis. I don't like it much. But my dad likes it. He plays tennis *daily*.
+We *usually* go to shopping on Sundays. My brother *never* comes with so. And he *rarely* likes what we bring for him.
+I go to school *regularly*. I *rarely* miss my classes. I also love meeting my friends *everyday*.
+```
+
 # References
 
 1. https://educationwithfun.com/course/view.php?id=27&section=8
