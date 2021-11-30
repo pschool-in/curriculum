@@ -159,7 +159,11 @@ The music was *loud*.
 The wolf has *sharp* teeth.
 I lost my *new* anklet.
 Coconut trees are *tall*.
-
+My sofa is covered with *fluffy* cushions.
+My sister tied her *long* hair into a bun.
+The *little* kitten was sleeping under the sofa.
+The students danced to the *loud* music.
+My garden is filled with *green* grass.
 ```
 
 ```
@@ -168,6 +172,10 @@ My sister likes *soft* music.
 The *white* car is my uncle's.
 *Fast* driving is dangerous.
 *Cold* weather makes me lazy.
+Rahul baked a *delicious* apple pie.
+My dad bought a *big* refrigerator yesterday.
+Riyaan has a *beautiful* garden in his house.
+My grandparents live in a *brick* house.
 ```
 
 
@@ -360,6 +368,27 @@ He is a ____ man.
 kind old, old kind
 ```
 
+## Identify adjectives (multiple select) 
+
+Identify the adjectives given in the passage.
+
+```
+Oncec upon a time... there lived a women who had no children. 
+She dreamed of having a *little* girl. 
+But time went by and her dream never came true. 
+So, she visited an *ugly* witch who gave her a *magic* grain of barley.
+She planted the grain in a *big* flower pot. 
+The next morning, the *magic* grain turned into a *lovely* tulip.
+```
+
+```
+The women kissed the *soft* petals and the flower opened. 
+Inside the flower sat a *tiny* girl, no bigger than a thumb.
+She was named Thumbelina. She had a walnut shell for bed, *violet* petals for mattress. 
+One night, as Thumbelina  was fast asleep, a *large* frog hopped in through the window.
+She said to herself, how *pretty* Thumbelina is!
+Later, she picked up Thumbelina and hopped back in to the wetlands.
+```
 
 
 
