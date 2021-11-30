@@ -147,6 +147,10 @@ Sita got *good* marks in the exam. She is very happy.
 The gold ring is *expensive*.
 Tarun is wearing a *red* shirt.
 The elephant is a *large* animal.
+Ruchi has *curly* hair.
+Mihir has *five* pens in his bag.
+I have a *black* sweater in the cupboard.
+Mahesh ate *tasty* samosas in the restaurant.
 ```
 
 ```
@@ -155,6 +159,7 @@ The music was *loud*.
 The wolf has *sharp* teeth.
 I lost my *new* anklet.
 Coconut trees are *tall*.
+
 ```
 
 ```
