@@ -1,5 +1,5 @@
 # Objectives
-1. To understand the basic concepts of sun, moon and stars
+1. To understand more on light, shadow and sound
 
 # Grade - 3
 ## Light and Sound - Reading
