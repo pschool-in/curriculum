@@ -62,6 +62,18 @@ Adjective: Hungry, Good, Funny, Gentle, Happy
 Not an adjective: Girl, Cat, Dress, Soap, Forest
 ```
 
+```
+Adjective: Interesting, Large, Healthy, Tasty, Lazy, Costly
+Not an adjective: Hospital, Book, Food, cookies, Dog, Coat
+```
+
+```
+Adjective: Attractive, Brave, Colorful, Fresh, Large
+Not an adjective: Car, Dress, Soldier, Fruits, Building
+```
+
+
+
 ## True or False
 
 Identify whether the following statements are true or false.
