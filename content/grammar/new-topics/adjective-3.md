@@ -297,9 +297,9 @@ Russia is the *biggest* country.
 ```
 
 ```
-My room is *tidy*.
-My brother's room is *tidier than mine.
-My mother's room is the *tidiest* of all three.
+Deer is a *fast* animal.
+Leopard is *faster* than Deer.
+Cheetah is the *fastest* among all three.
 October is a *cold* month.
 November is *colder* than october.
 December is the *coldest* month of the year.
@@ -318,9 +318,9 @@ Ants are the *smallest* of all three.
 Lion is a *heavy* animal.
 Crocodile is *heavier* than lion.
 Elephant is the *heaviest* among all three.
-Deer is a *fast* animal.
-Leopard is *faster* than Deer.
-Cheetah is the *fastest* among all three.
+My room is *tidy*.
+My brother's room is *tidier than mine.
+My mother's room is the *tidiest* of all three.
 ```
 
 
