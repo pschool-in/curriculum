@@ -117,6 +117,50 @@ Brown, bear
 Wild, dog
 ```
 
+## Match Adjectives - Similar meanings
+
+ Match the adjectives with their meanings.
+ 
+ ```
+ small, little
+ big, large
+ quick, fast
+ happy, glad
+ sad, unhappy
+ ```
+ 
+ ```
+ wrong, incorrect
+ wealthy, rich
+ hard, difficult
+ smart, clever
+ near, close
+ ```
+ 
+ ```
+ strong, powerful
+ right, correct
+ tired, sleepy
+ funny, humorous
+ raw, uncooked
+ ```
+ 
+ ```
+ beautiful, pretty
+ honest, frank
+ angry, irritated
+ brave, courageous
+ cheerful, jolly
+ ```
+ 
+ ```
+ dirty, unclean
+ lazy, dull
+ weak, sick
+ rude, impolite
+ danger, unsafe
+ ```
+  
 
 ## Drag and drop
 
@@ -182,7 +226,7 @@ Grandma gave me a *sweet (sour)* chocolate.
 The book is very *colorful (ill)*. 
 Priya loves to eat *sweet (grey)* mangoes.
 Dog is an *honest (sour)* animal.
-Neeta is a *clever (much)* girl.
+Neeta is a *clever (correct)* girl.
 Paddy fields are very *green (blue)*.
 The *black (blue)* soil is rich in nutrients.
 ```
@@ -200,6 +244,19 @@ The earth is *round(sqaure)* in shape.
 My cousin's house is very *big (fat)*.
 ```
 
+```
+My mother packed a *healthy (unhealthy)* snacks for picnic.
+I read an *interesting (rich)* book today in the library.
+I washed my face with *cold (dirty)* water after playing.
+I wore my *warm (hot)* mittens in the snow while skiing.
+My mom helped me make *delicious (raw)* sweets for Diwali.
+My *furry(curly)* cat made me sneeze.
+The *untidy (neat)* man lived on the streets near my area.
+Sangeeta is a *bright (tall)* student who does her work on time.
+Students are *happy (lazy)* when the lunch time begins in the school.
+Mumbai has *huge (deep)* skycrapers when compared to other cities.
+```
+
 ## Identify the degrees of adjectives
 
 Drag and drop the appropriate adjective in the sentence.
@@ -208,41 +265,62 @@ Drag and drop the appropriate adjective in the sentence.
 The lion is a *big* animal.
 The Rhinoceros is *bigger* than lion.
 The elephant is the *biggest* of three animals.
+I am a *lazy* person in my family.
+My brother is *lazier* than me.
+My dad is the *laziest* among all three.
 ```
 ```
 Suhani is a *clever* girl.
 Geeta is *cleverer* than Suhani. 
 Sita is the *cleverest* of all three.
+English exam was *difficult* this year.
+Social exam was *more difficult* than English.
+Math exam was *the most difficult* of all subjects.
 ```
 
 ```
 Krishna is a *tall* boy.
 Hari is *taller* than Krishna.
 Mahesh is the *tallest* boy in the class.
+My mom is a *wise* member of the family.
+My dad is *wiser* than my mom.
+My grandmother is the *wisest* of all.
 ```
 
 ```
 Teju is an *active* girl.
 Laukya is *more active* than Teju.
 Padma is the *most active* girl among three.
+China is a *big* country.
+Canada is *bigger* than China.
+Russia is the *biggest* country.
 ```
 
 ```
 My room is *tidy*.
 My brother's room is *tidier than mine.
 My mother's room is the *tidiest* of all three.
+October is a *cold* month.
+November is *colder* than october.
+December is the *coldest* month of the year.
 ```
 
 ```
 March is a *hot* month.
 April is *hotter* than March.
 May is the *hottest* month of the year.
+Monkeys are *small* animals.
+Rabbits are *smaller* than monkeys.
+Ants are the *smallest* of all three.
 ```
 
 ```
 Lion is a *heavy* animal.
 Crocodile is *heavier* than lion.
 Elephant is the *heaviest* among all three.
+Deer is a *fast* animal.
+Leopard is *faster* than Deer.
+Cheetah is the *fastest* among all three.
 ```
 
 
@@ -262,6 +340,20 @@ I have finished *most* of my homework.
 Mannu has *little* interest in singing.
 My sister ate the *whole* banana.
 ```
+
+```
+Can I have *some* ice-cream today after dinner?
+I don't need *any* help with my homework today.
+There are *many* theatres in my city. You can watch movie anywhere you want.
+I don't have *much* time for completing my science project.
+I have got very *little* water left in my water bottle.
+My sister ate the *whole* cake!
+I have *enough* money to buy a pastry for my friends.
+There is very *little* space left in my bag for carrying the tiffin box.
+Do you have *any* extra pencils?
+My rose plant has not grown *much* as expected.
+```
+
 
 ## Identify - adjective 
 
