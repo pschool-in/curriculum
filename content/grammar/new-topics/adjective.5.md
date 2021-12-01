@@ -232,12 +232,12 @@ Add *some* sugar to the tea.
 ```
 
 ```
-Adjective of quatity:
+Adjective of quality:
 I took *some* chalkpieces from the desk.
 Priya has *little* interest in reading the story books.
 We spent *few* hours planning for the birthday party.
 *Many* people visit Tirupathi every day.
-Adjective of quanlity:
+Adjective of quantity:
 Meera has a *brown* cat as a pet.
 Our math teacher is an *old* women who teaches excellently.
 Prakash is a *clever* boy in the class.
