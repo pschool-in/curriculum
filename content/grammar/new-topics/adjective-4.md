@@ -373,7 +373,7 @@ kind old, old kind
 Identify the adjectives given in the passage.
 
 ```
-Oncec upon a time... there lived a women who had no children. 
+Once upon a time... there lived a women who had no children. 
 She dreamed of having a *little* girl. 
 But time went by and her dream never came true. 
 So, she visited an *ugly* witch who gave her a *magic* grain of barley.
