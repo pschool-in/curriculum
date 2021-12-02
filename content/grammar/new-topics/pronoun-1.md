@@ -29,20 +29,20 @@ Tap the demonstrative pronouns in these sentences. (title)
 *This* idea is amazing.
 Is *that* your book?
 Eat *these* chocolates after lunch.
-Throw *those* rolls away.
-```
-
-```
-*This* is my mother’s saree.
-*That* looks like a rat.
-*These* are nice flowers.
 *Those* are my clothes.
 ```
 
 ```
-I would like *those*, please.
-I am not sure *that* is how you do it.
+*This* is my mother’s saree.
 Could you help me move *these*?
+*That* looks like a rat.
+Throw *those* rolls away.
+```
+
+```
+I would like *those*, please.
+*These* are nice flowers.
+I am not sure *that* is how you do it.
 *This* is crazy!
 ```
 
@@ -123,7 +123,7 @@ That, Them, Those
 
 ## Personal Pronouns
 
-A personal pronoun is a word that takes place of naming words. Personal pronouns are he, she, it and they. 
+A personal pronoun is a word that takes place of naming words. Personal pronouns are I, you, he, she, it, we, they, me, him, her, us, and them. 
 
 For example:
 *Rahul* is a good boy.
@@ -151,15 +151,51 @@ Pronouns: He, She, It, They
 Not Pronouns: Sleep, Walk, Run, Sit
 ```
 
+```
+Pronouns: I, You, Them, Us
+
+Not Pronouns: Stand, Talk, Jump, Bump
+```
+
+```
+Pronouns: Him, Her, We, Them
+
+Not Pronouns: Drive, Car, Jam, Dog
+```
+
 #### Select word (label)
 
 Tap on the pronouns in each sentence. (title)
 ```
 *He* puts the book on the table.
 The children play with *it*.
-*They* have a lot of toys.
-*It* is my favorite book.
+My mom told me that *they* have a lot of toys.
+I told everyone that *it* is my favorite book.
 *She* is playing outside.
+```
+
+```
+My mother likes *her* very much.
+*His* father scolds him.
+The book belongs to *me*.
+*I* am never late for class.
+Mrs. Sakshi is gives *them* chocolates.
+```
+
+```
+*They* play in the park.
+Samir is *her* brother.
+*She* is a good girl.
+Maya takes *me* to her house everyday.
+*We* like to play football.
+```
+
+```
+*He* is good at sports.
+The house belongs to *them*.
+Shenna blamed *us* for lying.
+*We* will have dinner outside.
+*I* go to sleep early.
 ```
 
 #### Match the following (label)
@@ -170,13 +206,23 @@ Reena, She
 Rahul, He
 Book, It
 Children, They
+Siya and Me, We
+```
+
+```
+Pencil, It
+Ram and Shaam, They
+Richa, She
+Rony, He
+Me and Raj, Us
 ```
 
 ```
 Pen, It
-Ram and Shaam, They
-Richa, She
-Rony, He
+Priya, Her
+Rahul, Him
+Rena and Sen, Them
+I, Me
 ```
 
 #### Classify (label)
@@ -216,6 +262,30 @@ No:
 Ravi is eating.
 The phone is ringing.
 The girls are sleeping.
+```
+
+```
+Yes:
+The book belongs to her.
+The house belongs to his dad.
+I am a good writer.
+
+No:
+Naman is my cousin.
+Karan is my brother.
+Anisha is my niece.
+```
+
+```
+Yes:
+Maya is his cousin.
+The laptop belongs to us.
+They own black bikes.
+
+No:
+My mom is very sweet.
+My dad is a good person.
+The phone fell down.
 ```
 
 # References
