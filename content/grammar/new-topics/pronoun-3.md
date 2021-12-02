@@ -54,6 +54,21 @@ This skate board belongs to my brother Jatin. This is *his*.
 This bag belongs to me and my sister. This bag is *ours*.
 ```
 
+```
+She bought a new bicycle. It is *hers* now.
+That book is *mine*. He thought is was *his*.
+We bought many new balls yesterday. All of them are *ours*.
+That pen is not mine. It may be *yours*.
+They go to the village in the car. It is *theirs*.
+```
+
+```
+Varun kept his bag on the table. It is *his*.
+Sheena likes games. That board is *hers*.
+I bring lunch everyday. That lunchbox is *mine*.
+You forgot your pen. This is *yours*.
+The children play cricket. This bat is *theirs*.
+```
 
 ## Classify - possessive pronoun 
 
@@ -131,6 +146,25 @@ That headphone is *mine*.
 This bangle is *hers*.
 ```
 
+## Identify the Pronouns (label) (multiple select word)
+
+Tap on all the personal, demonstrative and possessive pronouns. (title)
+```
+*She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
+*Me* and my sister go to swimming. *Those* swimming glasses are *ours*.
+The book is kept on the table. *It* is *ours*.
+*I* borrowed *this* paper from Vidya. *This* is hers.
+Sheena gave me *this* napkin. *This* is *hers*.
+```
+
+```
+Rahul is my best friend. *We* go to school together. *This* bag is *his*.
+*I* like my mother's kurti. *I* borrowed *this* for a party. *It* is *hers*.
+*That* house is *theirs*. *It* is not in a good condition. *They* need to repair *it*.
+*I* said to my friend, "What is *mine*, is *yours*. *He* was very happy to hear *this*.
+My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
+```
+
 
 References:
 
@@ -143,18 +177,6 @@ https://files.liveworksheets.com/def_files/2020/10/19/1019021947685640/101902194
 https://educationwithfun.com/course/view.php?id=14&section=7
 
 New pathways book 
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
