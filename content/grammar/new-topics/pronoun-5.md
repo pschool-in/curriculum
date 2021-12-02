@@ -45,6 +45,14 @@ Which, car is yours?
 To whom, should I address this letter?
 ```
 
+```
+Which,is the song you like?
+What, is this flavour called?
+Whose is, this trophy?
+What is, your score?
+Whose are, these folders?
+```
+
 ## Fill in the blanks-1 (with options) 
 
 Click on the blank and fill in the correct interrogative pronoun.
@@ -91,7 +99,7 @@ Who likes *apples*?
 Pronoun
 I learned French by *myself*.
 Can *I* have an ice cream?
-Will you help *me* with my homework.
+Will you help *me* with my homework?
 *We* will go shopping tomorrow.
 ```
 
@@ -143,7 +151,24 @@ Manisha has a dog. *It (They)* is called Garfield.
 Look at my shoes. *They (It)* are so colorful.
 ```
 
+## Idenfity- Interrogative or Emphatic
 
+Identify whether the following sentences have interrgative or emphatic pronouns. (title)
+```
+Interrogative:
+Please tell me who took my book.
+Whom are you calling?
+Which one is your house?
+What is this flavour called?
+Whose was that voice?
+
+Emphatic:
+She herself did it.
+You yourself can find your talent.
+I myself will cook the dinner.
+She herself baked a cake.
+He himself did it.
+```
 
 
 References: 
@@ -156,10 +181,9 @@ https://www.k12reader.com/worksheet/interrogative-pronouns/view/
 
 https://educationwithfun.com/course/view.php?id=27&section=10
 
+https://www.egrammatics.com/types-of-pronouns/interrogative-pronoun/
 
-
-
-
+https://www.egrammatics.com/types-of-pronouns/emphatic-pronoun/
 
 
 
