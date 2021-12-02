@@ -108,24 +108,24 @@ She is eating *a (an, the)* chocolate pastry.
 ```
 
 
-## Yes or No
+## Correct or Incorrect
 
-Write whether the article used for each word is correct or wrong.
+Select whether the underlined word has correct or incorrect article.
 
 ```
-Yes
-A friend
-A gun
-The postcard
-An hour
-An octopus
+Correct:
+He is *a friend* of mine.
+*A gun* is very dangerous weapon.
+I collected *the postcard* from post-office.
+My dad came *an hour* ago.
+*An octopus* has eight tentacles.
 
-No
-An basket
-A eagle
-A owl
-A ice-cream
-A inkpot
+Incorrect"
+My friend gave me *an basket* of fruits.
+I saw *a eagle* near my farm.
+*A owl* was sitting on roof of my house.
+I had *a ice-cream* after my dinner.
+My grandfather has *a inkpot* on his writing table.
 ```
 
 ##  Select - Article -1
