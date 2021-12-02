@@ -56,7 +56,7 @@ Fill in the blanks with *I* and *me* to make a complete sentence.
 ```
 *I(Me)* went to library. 
 *I(Me)* really want that ice-cream. 
-You and *I(me)* are good friends.
+You and *I(Me)* are good friends.
 Is that present for *me(I)*?
 Will you play with *me(I)* tomorrow?
 *I (Me)* am going to the movie tonight.
