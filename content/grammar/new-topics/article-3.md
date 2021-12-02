@@ -30,7 +30,7 @@ We use definite article "the" when we are talking about a specific person or a t
 
 
 
-## Pick-Correct Article (fill up)
+## Pick-Correct Article (puzzle activity)
 
 Write the correct article before each naming word or noun.
 
