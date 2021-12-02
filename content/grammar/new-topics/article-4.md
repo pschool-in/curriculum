@@ -173,19 +173,19 @@ Drag and drop the suitable quantifiers to make a meaningful sentence.
 
 
 ```
-I have *many* friends in my life.
-*Few* people know as much about video games as Jeevan does.
-Are there *any* sweets?
-I want to drink *some* coffee.
-There is *a lot of* gold in the bag.
+My brother spends *most* of his time watching you-tube videos.
+Add *a little* more salt to the curry to make it more tasty.
+Are there *any* sweets left in the kitchen?
+I want to drink *some* coffee after I finish my work.
+We had *a lot of* fun during the summer holidays.
 ```
 
 ```
-I don't eat *much* seafood.
-There are *few* bananas in the bowl.
-Do you have *little* time to help me with my homework?
-How *many* coins do you have?
-I didn't have *any* breakfast today.
+I had *enough* of your advices! Please stop!
+There were *not many* people present for Diwali pooja due to Covid.
+*Many* people lost their lives during Tsunami in 2004.
+These days *most* of the people sleep with their mobiles beside their pillows.
+The chocolate cake had *a lot of* cream over it. 
 ```
 
 
@@ -265,47 +265,105 @@ For example:
  We saw a tiger in *the* zoo.
  ```
 
-## Choose the word
-
-Select the appropriate word to complete the sentence.
-
 ```
-Do you know how to play *the keyboard (keyboard)*?
-This is my best friend *Vamshi (the vamshi)*.
-My mother is *a doctor (the doctor)*. 
-My brother is *an author (a author)*. 
-Cow is *a domestic (an domestic)* animal.
-Riyaan wanted *a new (an new)* watch for his birthday.
-All students must obey *the rules (an rules)* of the school.
-My mom is *an MBA (a MBA)* graduate.
-My teacher read *an interesting (a interesting)* story from today's newspaper.
-Mrs. Sunita is *an excellent (a excellent)* teacher.
+Please give me *a* copy of The Hindu.
+Manish brought a *cup* of coffee and gave it to his grandmom.
+*The* earth moves around the sun.
+My friend's dad met with *an* accident yesterday night.
+Rahul saw a *snake* in the garden.
 ```
 
 ```
-*The sun(A sun)* shines brightly.
-One of my cousins is *an engineer(a engineer)*.
-My son wants to be *a scientist (an scientist)*.
-Do you have *a passport (an passport)*?
-My grandmother is as wise an *an owl(a owl)*.
-We have *an exam (a exam)* tomorrow.
-My parents waited *an hour (a hour)* in the railway station.
-Richa is *an honest (a honest)* student in the class.
-Sumitra's father is *an advocate (the advocate)*. 
-Ravi met with *an accident (the accident)* yesterday.
+I saw *a* colorful kite hanging on our mango tree.
+Subrat is the *tallest* boy in the class.
+Rakesh is *an* honest man in my village.
+My cousin gave me an *inkpen* for writing.
+My brother is an *MBA* graduate and is working in Deloitte.
 ```
 
 ```
-There is a spider on *the roof(a roof)*.
-Karthik can play *the guitar (a guitar)*.
-*The AC (An, AC)* has stopped working.
-Please open *the window (a window)*.
-She is *an architect(a architect)*.
-He can play *the flute (an flute)*.
-*The Himalayas (A Himalayas)* lie to North of India.
-Sanskrit is *a difficult (an difficult)* language.
-The children found *an egg (a egg)* in the bird's nest.
-I met him at *the hotel (a hotel)* yesterday.
+We will return from the park after *an* hour.
+It might rain today! Please carry an *umbrella*.
+I met an *European* tourist in Agra last year.
+Ram uses *the* internet a lot these days!
+Mrs. Sunitha Bhan is an *English* teacher in my son's school.
+```
+
+```
+The IVth grade students went on *a* field trip to the zoo.
+I quickly ate *the* cookies kept on my kitchen table.
+*An* egg is oval in shape.
+The *rose* plant in my garden is growing well.
+The *lion* is the king of the jungle.
+```
+
+```
+There is *an* apple in the fruit basket, please have it.
+Bill Gates is *the* richest man in the world.
+The *sun* rises in the east.
+Reena bought *a* banana for lunch today.
+I saw an *old* women walking on the street at night alone.
+```
+
+```
+There is *a* small playground behind my house.
+Hyderabad has *an* ideal climate throughout the year.
+This is *the* best restaurant in and around my area.
+This is the *movie* I saw yesterday in Netflix. 
+Our trip to Ooty was an *exciting* experience for all of us.
+```
+
+```
+I tasted *an* apricot my father bought from the market.
+Do you know which is *the* most populated country in the world?
+I went to the *airport* at 5:00 am yesterday to drop my cousin.
+Chess is an *interesting* game to play.
+We had *a* really good time in Dinesh's birthday party.
+```
+
+
+
+## Choose - article/no article
+
+Select the appropriate article to complete the sentence. Use '-' for no article.
+
+```
+Do you know how to play *the (an)* keyboard?
+This is my best friend * - (the)* Vamshi.
+My mother is *a (the)* doctor. 
+My brother is *an (-)* author. 
+Cow is *a (an)* domestic animal.
+Riyaan wanted *a (an)* new watch for his birthday.
+All students must obey *the (-)* rules of the school.
+My mom is *an (a)* MBA graduate.
+My teacher read *an (a)* interesting story from today's newspaper.
+Mrs. Sunita is *an (a)* excellent teacher.
+```
+
+```
+*The (-)* sun shines brightly.
+One of my cousins is *an (a)* engineer.
+My son wants to be *a (an)* scientist.
+Do you have *a (an)* passport?
+My grandmother is as wise as *an (a)* owl.
+We have *an (-)* exam tomorrow.
+My parents waited *an (a)* hour in the railway station.
+I don't like *- (the)* dogs, but I like my sister's dog.
+Sumitra's father is *an (the)* advocate. 
+Ravi met with *an (the)* accident yesterday.
+```
+
+```
+There is a spider on *the (-)* roof.
+Karthik can play *the (-)* guitar.
+*The (-)*AC has stopped working.
+Please open *the(-)* window.
+She is *an (-)* architect.
+He can play *the (-)* flute.
+*The (-)* Himalayas lie to North of India.
+Sanskrit is *a (-)* difficult language.
+The children found *an (the)* egg in the bird's nest.
+* - (The)* Mount Everest is the highest mountain in the world.
 ```
 
 
@@ -358,15 +416,15 @@ Men are always fond of cricket.
 Choose the appropriate option to complete the sentence.
 
 ```
-The roads are empty. There are only *a few (few)* cars on the road.
+The road is empty. There are only *a few (few)* cars on the road.
 I am very busy. I have *little (a little)* time to see the email.
-I'd like to have coffee with just *a little (little)* sugar.
+I'd like to have coffee with *a little (little)* sugar in it.
 Anand can speak German because he lived in Berlin for *a few (few)* years.
 You look amazing! It seems like you have lost *a little (little)* weight.
-There is *little (a little)* noise in small villages.
-I have *a few (few)* good friends. I am not alone.
-Vihaan gave us *a few (few)* apples from his garden.
-I have got *a few (few)* chocolates to give away.
+My mother saves *little (a little)* money every month for her expenses.
+I have *a few (few)* good friends that I can count on.
+Vihaan gave us *a few (few)* apples from his garden for us to eat.
+We stayed *a few (few)* days in Chennai and visited the beach.
 Tina is lucky. She has *few (a few)* problems.
 ```
 
@@ -375,12 +433,12 @@ Sweden has *little (a little)* sunshine in winter.
 He has *little (a little)* self-confidence. He has trouble talking to new people.
 There are only *a few (few)* people she really trusts. 
 There are *few (a few)* female bike riders in my city. 
-There is *a little (little)* milk left in the fridge. It should be enough for our tea.
+There is *little (a little)* milk left in the fridge. It should be enough for our tea.
 There are *a few (few)* horses grazing in front of the barn.
-Can you buy *a few (few)* apples?
-You have *a little (little)* time left.
+Can you buy *a few (few)* apples from the market?
+You have *a little (little)* time left to finish your exam.
 My neighbour let me pick *a few (few)* mangoes from the tree.
-There are *a few (few)* tables in the auditorium.
+There are *a few (few)* tables in the auditorium which are vacant.
 ```
 
 
@@ -396,7 +454,7 @@ http://www.learnersplanet.com/class-4-english-grammar-articles-worksheets-with-a
 
 https://www.tiwariacademy.com/ncert-solutions/class-5/english/grammar/chapter-11/#class-5-english-grammar-chapter-11-articles
 
-
+https://www.teachingbanyan.com/grammar/quantifier-determiners
 
 
 
