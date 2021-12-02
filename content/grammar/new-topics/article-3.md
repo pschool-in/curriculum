@@ -120,7 +120,7 @@ I collected *the postcard* from post-office.
 My dad came *an hour* ago.
 *An octopus* has eight tentacles.
 
-Incorrect"
+Incorrect:
 My friend gave me *an basket* of fruits.
 I saw *a eagle* near my farm.
 *A owl* was sitting on roof of my house.
