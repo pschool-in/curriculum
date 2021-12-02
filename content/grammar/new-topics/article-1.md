@@ -31,94 +31,94 @@ For example:
 Fill in the correct articles before the following naming words.
 
 ```
-a, an, lion
-an, a, orange
-a, an, peacock
-a, an, tailor 
-an, a, eye
-a, an, bus
-a, an, sheep
-a, an, lemon
-an, a, eraser
-a, an, farmer
+lion, a, an 
+orange, an, a 
+peacock, a, an
+tailor, a, an 
+eye, an, a
+bus, a, an
+sheep, a, an 
+lemon, a, an
+eraser, an, a 
+farmer, a, an 
 ```
 
 ```
-a, an, fish
-a, an, docotor
-an, a, engine
-a, an, ball
-an, a, egg
-an, a, igloo
-a, an, tiger
-a, an, book
-an, a, octopus
-a, an, girl
+fish, a, an 
+docotor, a, an
+engine, an, a 
+ball, a, an
+egg, an, a
+igloo, an, a
+tiger, a, an
+book, a, an
+octopus, an, a 
+girl, a, an
 ```
 
 ```
-a, an, ballon
-an, a, ant
-an, a, aeroplane
-a, an, mat
-an, a, engine
-a, an, kite
-a, an, bag
-a, an, dog
-an, a, owl
-a, an, bench
+ballon, a, an
+ant, an, a
+aeroplane, an, a
+mat, a, an
+engine, an, a
+kite, a, an
+bag, a, an
+dog, a, an
+owl, an, a
+bench, a, an
 ```
 
 ```
-a, an, banana
-a, an, car
-a, an, paper
-a, an, bat
-an, a, axe
-an, a, ear
-a, an, hat
-a, an, table
-an, a, insect
-a, an, pen
+banana, a, an
+car, a, an
+paper, a, an
+bat, a, an
+axe, an, a
+ear, an, a
+hat, a, an
+table, a, an
+insect, an, a
+pen, a, an
 ```
 
 ```
-a, an, flower
-an, a, inkpot
-a, an, parrot
-a, an, box
-an, a, elbow
-a, an, window
-a, an, football
-a, an, panda
-a, an, mouse
-an, a, ice-cream
+flower, a, an
+inkpot, an, a 
+parrot, a, an
+box, a, an 
+elbow, an, a
+window, a, an
+football, a, an
+panda, a, an
+mouse, a, an
+ice-cream,an, a
 ```
 
 ```
-a, an, woman
-an, a, officer
-a, an, bottle
-a, an, baby
-an, a, urn
-an, a, old carpet
-a, an, beehive
-a, an, gun
-a, an, pot
-a, an, hospital
+woman, a, an
+officer, an, a 
+bottle, a, an 
+baby, a, an
+urn, an, a 
+old carpet, an, a
+beehive, a, an 
+gun, a, an 
+pot, a, an 
+hospital, a, an 
 ```
 
 ```
-a, an, guitar
-a, an, pony tail
-an, a, apple
-a, an, pencil
-an, a, elastic
-an, a, animal
-a, an, biscuit
-an, a, ostrich
-a, an, board
-a, an, sofa
+guitar, a, an
+pony tail, a, an
+apple, an, a
+pencil, a, an
+elastic, an, a
+animal, an, a
+biscuit, a, an
+ostrich, an, a
+board, a, an
+sofa, a, an
 ```
 
 
