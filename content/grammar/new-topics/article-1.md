@@ -26,128 +26,128 @@ For example:
 5. *a* dog
 
 
-## Addition of Articles (fill up with options)
+## Addition of Articles (puzzle activity)
 
-Click on the blank and choose *a* or *an* before the following naming words
-
-```
-*a(an)* lion
-*an(a)* orange
-*a(an)* peacock
-*a(an)* tailor 
-*an(a)* eye
-*a(an)* bus
-*a(an)* sheep
-*a(an)* lemon
-*an(a)* eraser
-*a(an)* farmer
-```
+Fill in the correct articles before the following naming words.
 
 ```
-*a(an)* fish
-*a(an)* docotor
-*an(a)* engine
-*a(an)* ball
-*an(a)* egg
-*an(a)* igloo
-*a(an)* tiger
-*a(an)* book
-*an(a)* octopus
-*a(an)* girl
+a, an, lion
+an, a, orange
+a, an, peacock
+a, an, tailor 
+an, a, eye
+a, an, bus
+a, an, sheep
+a, an, lemon
+an, a, eraser
+a, an, farmer
 ```
 
 ```
-*a(an)* ballon
-*an(a)* ant
-*an(a)* aeroplane
-*a(an)* mat
-*an(a)* engine
-*a(an)* kite
-*a(an)* bag
-*a(an)* dog
-*an(a)* owl
-*a(an)* bench
+a, an, fish
+a, an, docotor
+an, a, engine
+a, an, ball
+an, a, egg
+an, a, igloo
+a, an, tiger
+a, an, book
+an, a, octopus
+a, an, girl
 ```
 
 ```
-*a(an)* banana
-*a(an)* car
-*a(an)* paper
-*a(an)* bat
-*an(a)* axe
-*an(a)* ear
-*a(an)* hat
-*a(an)* table
-*an(a)* insect
-*a(an)* pen
+a, an, ballon
+an, a, ant
+an, a, aeroplane
+a, an, mat
+an, a, engine
+a, an, kite
+a, an, bag
+a, an, dog
+an, a, owl
+a, an, bench
 ```
 
 ```
-*a(an)* flower
-*an(a)* inkpot
-*a(an)* parrot
-*a(an)* box
-*an(a)* elbow
-*a(an)* window
-*a(an)* football
-*a(an)* panda
-*a(an)* mouse
-*an(a)* ice-cream
+a, an, banana
+a, an, car
+a, an, paper
+a, an, bat
+an, a, axe
+an, a, ear
+a, an, hat
+a, an, table
+an, a, insect
+a, an, pen
 ```
 
 ```
-*a(an)* woman
-*an(a)* officer
-*a(an)* bottle
-*a(an)* baby
-*an(a)* urn
-*an(a)* old carpet
-*a(an)* beehive
-*a(an)* gun
-*a(an)* pot
-*a(an)* hospital
+a, an, flower
+an, a, inkpot
+a, an, parrot
+a, an, box
+an, a, elbow
+a, an, window
+a, an, football
+a, an, panda
+a, an, mouse
+an, a, ice-cream
 ```
 
 ```
-*a (an)* guitar
-*a (an)* pony tail
-*an (a)* apple
-*a (an)* pencil
-*an (a)* elastic
-*an (a)* animal
-*a (an)* biscuit
-*an (a)* ostrich
-*a (an)* board
-*a (an)* sofa
-```
-
-
-## Addition of naming words (Fill up with options)
-
-Click on the blank and add the correct naming word in front of the articles.
-
-```
-an *umbrella (cat)*
-an *ice-cream (pot)*
-an *engineer (pen)*
-a *toy (eagle)*
-an *accident(ring)*
+a, an, woman
+an, a, officer
+a, an, bottle
+a, an, baby
+an, a, urn
+an, a, old carpet
+a, an, beehive
+a, an, gun
+a, an, pot
+a, an, hospital
 ```
 
 ```
-a *lion(elephant)*
-an *hour(clock)*
-an *honest man(bad man)*
-a *car(owl)*
-a *cherry(apple)*
+a, an, guitar
+a, an, pony tail
+an, a, apple
+a, an, pencil
+an, a, elastic
+an, a, animal
+a, an, biscuit
+an, a, ostrich
+a, an, board
+a, an, sofa
+```
+
+
+## Addition of naming words (puzzle activity)
+
+Fill in the correct naming word in front of the articles.
+
+```
+an, umbrella, cat
+an, ice-cream, pot
+an, engineer, pen
+a, toy, eagle
+an, accident, ring
 ```
 
 ```
-an *Eagle (crow)*
-an *honour(dishonour)*
-an *apron(coat)*
-a *lamp (inkpot)*
-an *egg (hen)*
+a, lion, elephant
+an, hour, clock
+an, honest man, bad man
+a, car, owl
+a, cherry, apple
+```
+
+```
+an, eagle, crow
+an, honour, dishonour
+an, apron, coat
+a, lamp, inkpot
+an, egg, hen
 ```
 
 
