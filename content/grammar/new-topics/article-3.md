@@ -35,27 +35,27 @@ We use definite article "the" when we are talking about a specific person or a t
 Write the correct article before each naming word or noun.
 
 ```
-*an (a)* apple
-*a (an)* cage 
-*a (an)* doctor 
-*an (a)* inkpot
-*a (an)* train
+apple, an, a
+cage, a, an
+doctor, a, an 
+inkpot, an, a
+train, a, an
 ```
 
 ```
-*an (a)* orange
-*an (a)* owl
-*an (a)* elephant
-*the (a)* bananas
-*a (an)* cat
+orange, an, a
+owl, an, a
+elephant, an, a
+bananas, a, an
+cat, a, an
 ```
 
 ```
-*the (an)* cats
-*the (a)* dogs
-*an (a)* eagle
-*a (an)* baboon
-*the (a)* wolves
+cats, the an
+dogs, the, a
+eagle, an, a
+baboon, a, an
+wolves, the, a
 ```
 
 
@@ -187,12 +187,12 @@ Fill in the blanks with appropriate articles to complete the story.
 
 ```
 Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree. 
-*A (the, an)* cheerful mouse came there and saw *the (a, an)* lion.  
-*The (a, an)* mouse climbed onto the body of the lion and started playing. 
+*A (The, An)* cheerful mouse came there and saw *the (a, an)* lion.  
+*The (A, An)* mouse climbed onto the body of the lion and started playing. 
 He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse.
-*The (a, an)* mouse trembled in fear. The lion took pity on it and let it go. 
+*The (A, An)* mouse trembled in fear. The lion took pity on it and let it go. 
 The mouse thanked and promised the lion that it would help in times of need. 
-One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (a, an)* poor lion roared for help.  
+One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (A, An)* poor lion roared for help.  
 The mouse heard the cries and came there and cut *the (a, an)* net with its sharp teeth. 
 The lion came out and they became good friends. 
 ```
@@ -214,11 +214,11 @@ Suddenly, he saw *a (an, the)* water jug below *the (a, an)* tree.
 He flew straight down to see if there was any water inside.
 Yay! he could see some water inside the jug!
 
-*The (a, an)* crow tried to push his head into the jug. 
+*The (A, An)* crow tried to push his head into the jug. 
 Sadly, he found that *the (a, an)* neck of the jug was too narrow. 
 Then he tried to push *the (a, an)* jug to tilt for the water to flow out, but the jug was too heavy.
 
-*The (a, an)* crow thought hard for a while. 
+*The (A, An)* crow thought hard for a while. 
 Then, looking around it, he saw some pebbles.
 He suddenly had *a (an, the)* good idea. 
 He started picking up *the (a, an)* pebbles one by one, dropping each into the jug. 
@@ -235,7 +235,7 @@ One day, the donkey moaned and said: I am so weak! Couldn't you take some of my 
 But soon he had to stop again and said: please help me or I will never reach *the (a, an)* market alive.
 But *the (a, an)* horse replied: Rubbish! Come on, you will manage this time too. 
 After *a (the, an)* few steps the donkey dropped dead on the ground. 
-*The (a, an)* master saw donkey dead and felt vey sad and later transferred all *the (a, an)* load to the horse.
+*The (A, An)* master saw donkey dead and felt vey sad and later transferred all *the (a, an)* load to the horse.
 ```
 
 ```
