@@ -1,27 +1,16 @@
 # Objective
 
-To understand what is adverb of frequency and to be able to identify and use it in sentences.
+To understand what is adverb of frequency and to be able to identify and use it
+in sentences.
 
 # Grade-5
-
-## Adverb of Frequency
-
-Adverb of frequency tells us;
-1. how many times an action has occurred in the past.
-2. how many times does it occur in the present.
-3. how many times will it occur in the future.
-
-Examples are sometimes, usually, always, generally, seldom, rarely, often, ever, weekly, monthly, etc.
-1. Rashi *never* plays cricket.
-2. Amir visits his grandparents *weekly*.
-3. She *sometimes* teaches younger kids.
-4. We should brush our teeth *twice*.
 
 ### Activities
 
 #### Select the Adverb (label)
 
 Tap on the adverb of frequency in the below sentences. (title)
+
 ```
 *Sometimes*, the school take the kids to the zoo.
 Ayushi is *usually* very rude.
@@ -65,6 +54,7 @@ I take a bath *daily.*
 #### Drag and Drop (label)
 
 Identify if these words are adverbs of frequency or not. (title)
+
 ```
 Yes:
 Rarely, Weekly, Usually, Monthly
@@ -107,7 +97,9 @@ Walk, Talk, Dance, Speak
 
 #### Identify (label) (fillup with options)
 
-Choose the correct adverb of frequency. Tap on each blank to view options. (title)
+Choose the correct adverb of frequency. Tap on each blank to view options.
+(title)
+
 ```
 We go on a vacation *annually (annualy, once).*
 He is *often (offten, twice)* late for class.
@@ -137,6 +129,7 @@ My aunt is coming to my home *today (to day, this day).*
 ### Select the adverb of frequency (label) (multiple select word template)
 
 Tap on all the adverbs of frequency. (title)
+
 ```
 *Sometimes* they come and stay with us. But *mostly* they return to their home the same day. They *rarely* stay.
 I *ocassionally* play tennis. I don't like it much. But my dad likes it. He plays tennis *daily*.

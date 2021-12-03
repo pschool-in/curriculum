@@ -1,21 +1,8 @@
-# Possessive Pronouns 
+# Possessive Pronouns
 
 ## Objectives
 
 To be able to understand and identify the possessive pronouns in the text.
-
-### Reading notes:
-
-A pronoun that is used to indicate ownership or possession is called a possessive pronoun. In other words a possessive pronoun represents a noun and tells us who owns it. For example: his, yours, hers, mine, ours, theirs, etc.
-
-Examples in sentences: 
-1. That is *his* car.
-2. This notebook is *mine*.
-3. The car is *hers*.
-4. That book is *yours*.
-5. This cat is *ours*.
-
-
 
 ## Group the words
 
@@ -31,7 +18,7 @@ Not a possessive pronoun: he, she, me, I, it, we, us
 Choose the right possessive pronoun to complete the sentence.
 
 ```
-I have a new crayon box. It is *mine*. 
+I have a new crayon box. It is *mine*.
 She has a new dog. It is *hers*.
 Is this pencil *yours*?
 My car is bigger than *his*.
@@ -70,28 +57,28 @@ You forgot your pen. This is *yours*.
 The children play cricket. This bat is *theirs*.
 ```
 
-## Classify - possessive pronoun 
+## Classify - possessive pronoun
 
 Identify whether the sentence has a possessive pronoun or not.
 
 ```
-Yes: 
+Yes:
 This notebook is mine.
 Those pens are hers.
 Those dressess are yours.
 
 No:
 Those gloves belong to him.
-Those pens belong to her. 
-Those dresses belong to you. 
+Those pens belong to her.
+Those dresses belong to you.
 ```
 
-## Fill in the blanks 
+## Fill in the blanks
 
 Click on the blank and fill in the correct possessive pronoun.
 
 ```
-This is my laptop. It's *mine(me)*. 
+This is my laptop. It's *mine(me)*.
 You have a new toy. It is *yours(us)*.
 The water bottle belongs to her. It is *hers(mine)*.
 He has a new phone. It is *his(her)*.
@@ -130,7 +117,7 @@ This dog is *ours*.
 Is this box *yours*?
 This farm is *ours*.
 The cricket bat is *mine*.
-Look at *his* hat! It is so huge. 
+Look at *his* hat! It is so huge.
 ```
 
 ```
@@ -139,7 +126,7 @@ The house at the corner is *theirs*.
 Are you sure this is *yours*?
 Who owns this bat? Is it *yours*?
 This dog is *ours*.
-These pens are *mine*. 
+These pens are *mine*.
 Is this blue coat *yours*?
 The purse belongs to Meera. It is *hers*.
 That headphone is *mine*.
@@ -149,6 +136,7 @@ This bangle is *hers*.
 ## Identify the Pronouns (label) (multiple select word)
 
 Tap on all the personal, demonstrative and possessive pronouns. (title)
+
 ```
 *She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
 *Me* and my sister go to swimming. *Those* swimming glasses are *ours*.
@@ -165,7 +153,6 @@ Rahul is my best friend. *We* go to school together. *This* bag is *his*.
 My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
 ```
 
-
 References:
 
 https://worksheetswithfun.com/mod/page/view.php?id=211
@@ -176,7 +163,4 @@ https://files.liveworksheets.com/def_files/2020/10/19/1019021947685640/101902194
 
 https://educationwithfun.com/course/view.php?id=14&section=7
 
-New pathways book 
-
-
-
+New pathways book

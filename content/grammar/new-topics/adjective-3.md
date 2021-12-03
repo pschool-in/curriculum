@@ -2,50 +2,14 @@
 
 ## Learning Objective
 
-To understand the meaning of adjectives and how they are used to describe a noun or a pronoun.
+To understand the meaning of adjectives and how they are used to describe a noun
+or a pronoun.
 
 To understand adjectives of quality, quantity and also degrees of comparison.
 
-### Reading Notes
+## Group
 
-The words that are used to describe a noun or a pronoun are called as adjectives. They give us more information about a noun or pronoun by describing it. They inform or tell us about how she or he looks, sounds, smells, feels or tastes. Names of the colors are also used as adjectives.
-
- For example - 
- 
-a. The dog is "black". (here dog is a noun and black is the adjective i.e., it is describing how the dog looks)
-
-b. The sweater is "fluffy". (here the sweater is a noun and fluffy describes how the sweater feels like)
-
-Adjectives are used to describe the qualities of things or people. They are called "adjectives of quality".
-
-Example - 
-
-It is a "tall" building.
-
-It was a "rainy" day.
-
-Hyderabad is a "big" city.
-
-Adjectives are used to determine or describe the quantity of the noun. Words like "much", "little", "some", "any", "whole" etc are used to describe the quantity of the noun.
-
-For example -
-1. Preethi ate the "whole" cake.
-2. How "much" money do you have?
-
-Adjectives are used to compare the qualities of two nouns and more than two nouns. These are known as "degrees of comparison".  
-
-When we compare qualities of two nouns we add "-er" + "than". 
-
-Example- Hari is "taller than" Krishna.
-
-When we compare qualities of more than three nouns we add "-est" +"the". 
-
-Example - Hari is "the tallest" boy in the class.
-
-
-## Group 
-
-Identify which one of the following is an adjective and which is not. 
+Identify which one of the following is an adjective and which is not.
 
 ```
 Adjective: Beautiful, Tall, Black, Red, Happy, Fat
@@ -54,7 +18,7 @@ Not an adjective: Park, Bread, Pencil, Rose, Board, Peacock
 
 ```
 Adjective: Angry, Bad, Blue, Clean, Dark, Easy
-Not an adjective: Egg, Shirt, Room, Chocolate, Tiger, 
+Not an adjective: Egg, Shirt, Room, Chocolate, Tiger,
 ```
 
 ```
@@ -71,8 +35,6 @@ Not an adjective: Hospital, Book, Food, cookies, Dog, Coat
 Adjective: Attractive, Brave, Colorful, Fresh, Large
 Not an adjective: Car, Dress, Soldier, Fruits, Building
 ```
-
-
 
 ## True or False
 
@@ -131,48 +93,47 @@ Wild, dog
 
 ## Match Adjectives - Similar meanings
 
- Match the adjectives with their meanings.
- 
- ```
- small, little
- big, large
- quick, fast
- happy, glad
- sad, unhappy
- ```
- 
- ```
- wrong, incorrect
- wealthy, rich
- hard, difficult
- smart, clever
- near, close
- ```
- 
- ```
- strong, powerful
- right, correct
- tired, sleepy
- funny, humorous
- raw, uncooked
- ```
- 
- ```
- beautiful, pretty
- honest, frank
- angry, irritated
- brave, courageous
- cheerful, jolly
- ```
- 
- ```
- dirty, unclean
- lazy, dull
- weak, sick
- rude, impolite
- danger, unsafe
- ```
-  
+Match the adjectives with their meanings.
+
+```
+small, little
+big, large
+quick, fast
+happy, glad
+sad, unhappy
+```
+
+```
+wrong, incorrect
+wealthy, rich
+hard, difficult
+smart, clever
+near, close
+```
+
+```
+strong, powerful
+right, correct
+tired, sleepy
+funny, humorous
+raw, uncooked
+```
+
+```
+beautiful, pretty
+honest, frank
+angry, irritated
+brave, courageous
+cheerful, jolly
+```
+
+```
+dirty, unclean
+lazy, dull
+weak, sick
+rude, impolite
+danger, unsafe
+```
 
 ## Drag and drop
 
@@ -212,7 +173,6 @@ The *bright* sun rose in the morning.
 My mom was baking a *chocolate* cake for the party.
 ```
 
-
 ## Adjectives - fill up
 
 Select the correct word to complete the sentence.
@@ -235,7 +195,7 @@ Harish saw a *funny (clumsy)* clown.
 Jasmines have *white (black)* petals.
 The Earth is *round (oval)*.
 Grandma gave me a *sweet (sour)* chocolate.
-The book is very *colorful (ill)*. 
+The book is very *colorful (ill)*.
 Priya loves to eat *sweet (grey)* mangoes.
 Dog is an *honest (sour)* animal.
 Neeta is a *clever (correct)* girl.
@@ -281,9 +241,10 @@ I am a *lazy* person in my family.
 My brother is *lazier* than me.
 My dad is the *laziest* among all three.
 ```
+
 ```
 Suhani is a *clever* girl.
-Geeta is *cleverer* than Suhani. 
+Geeta is *cleverer* than Suhani.
 Sita is the *cleverest* of all three.
 English exam was *difficult* this year.
 Social exam was *more difficult* than English.
@@ -335,7 +296,6 @@ My brother's room is *tidier than mine.
 My mother's room is the *tidiest* of all three.
 ```
 
-
 ## Identify - adjective of quantity
 
 Select the adjective of quantity in the sentence.
@@ -366,8 +326,7 @@ Do you have *any* extra pencils?
 My rose plant has not grown *much* as expected.
 ```
 
-
-## Identify - adjective 
+## Identify - adjective
 
 Select the adjective in the sentence.
 
@@ -402,25 +361,24 @@ I lost my *gold* bracelet.
 Select the adjectives in the passage.
 
 ```
-Trees are found everywhere. Some trees are *big* and some are trees *small*. 
-Some trees have *broad* leaves while some have *narrow* leaves. 
+Trees are found everywhere. Some trees are *big* and some are trees *small*.
+Some trees have *broad* leaves while some have *narrow* leaves.
 Some trees produce *sweet* fruits like mango and apple, while some give *sour* fruits like lemon.
 ```
 
 ```
-My cousin, Ram has a *large* farm. In that farm there are many plants and animals. 
-The *playful* dog's name is Rocky. The *cute* kitten is called Ginger. 
+My cousin, Ram has a *large* farm. In that farm there are many plants and animals.
+The *playful* dog's name is Rocky. The *cute* kitten is called Ginger.
 Ram sells *fresh* fruits and vegetables in the *big* market every Sunday.
 ```
 
 ```
-A shopkeeper sells *tasty* and *fresh* apples and mangoes in different boxes. 
+A shopkeeper sells *tasty* and *fresh* apples and mangoes in different boxes.
 There are *forty* mangoes in *large* box and *fifteen* mangoes in *small* box.
 He sells these fruits in a *big* supermarket.
 ```
 
-
-References: 
+References:
 
 https://www.learninsta.com/adjectives-exercises-for-class-3
 
@@ -435,28 +393,3 @@ https://www.tiwariacademy.com/ncert-solutions/class-3/english/grammar/chapter-16
 https://www.learnenglishfeelgood.com/adjective-in-sentence1.html
 
 New pathways and AP state board book.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-

@@ -2,35 +2,12 @@
 
 To get familiar with what conjunctions are and how to use them.
 
-# Grade-2 & 3
-
-## Conjunctions
-
-The word that joins two or more words or sentences is called a conjunction. In simple words, conjunctions are joining words. The most common conjunctions are 'and', 'but', 'so' and 'or'.
-
-For example:
-
-'The bird can fly.' 'The bird can sing.'
-
-These two sentences can be joined together with the help of conjunction. We can write it as;
-
-'The bird can fly *and* sing.'
-
-Some more examples are;
-1. The monkey can walk *and* climb.
-2. I am eating *and* watching TV.
-3. Rahul tried to study *but* fell asleep.
-4. I want to play *but* I need to study.
-5. We can watch a movie *or* go for lunch.
-6. I will complete my HW today *or* tomorrow.
-7. My mother is late *so* I'm waiting for her.
-8. We're going to the park in the evening, *so* I'll take a nap in the noon.
-
 ## Activities
 
 ### Identify (label) (classify template)
 
 Identify if the below sentences have conjunction or not. (title)
+
 ```
 Yes:
 We wake up early and see the sunrise.
@@ -94,6 +71,7 @@ My parents love me a lot.
 ### Drag and Drop (label)
 
 Identify if these words are conjunctions or not. (title)
+
 ```
 Yes:
 And, But, Or, So
@@ -105,6 +83,7 @@ Can, May, Shall, Will
 ### Fill up (label) (fillup with options)
 
 Tap on each blank for options. (title)
+
 ```
 Pink *and (or, but)* yellow are colors.
 I think there are two *or (and, so)* three pens.
@@ -143,6 +122,7 @@ He was ill *so (but, and)* he did not go to school.
 ### Right Match (label)
 
 Choose the puzzle piece with the correct conjunction. (title)
+
 ```
 I like drawing, and painting, so painting
 She is smart, but rude, so rude
@@ -178,7 +158,7 @@ I like cats, but he likes dogs, so he likes dogs
 It is raining, so we are at home, but we are at home
 ```
 
-******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+---
 
 # Grade-3
 
@@ -187,6 +167,7 @@ It is raining, so we are at home, but we are at home
 ### Complete the passage (label) (fillup with options)
 
 Tap on each blank for options. Choose the correct conjunction. (title)
+
 ```
 All of my friends are going to Richa's party. *But (So)* she has not invited me. *So (And)* we have decided that *neither (either)* me *nor (or)* my best friend will go. I bought a present for her, *but (or)* now I'll give it to my best friend.
 ```

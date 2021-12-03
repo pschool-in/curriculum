@@ -1,23 +1,17 @@
 # Objective
 
-1. To recognize that demonstrative pronouns represent the distance and are used to point to singular & plural words.
+1. To recognize that demonstrative pronouns represent the distance and are used
+   to point to singular & plural words.
 2. To learn that personal pronouns can replace nouns and how can we do that.
 
 # Grade-1
-
-## Demonstrative Pronouns
-
-Demonstrative pronouns represent nouns. It expresses the position and the time. It can be both singular and plural. These pronouns include this, that, these and those. Some examples are;
-1. This is great.
-2. Is that yours?
-3. Eat these quickly.
-4. Throw those away.
 
 ### Activities
 
 #### Jumbled words (label)
 
 Identify these demonstrative pronouns. (title)
+
 ```
 This, That, These, Those
 ```
@@ -25,6 +19,7 @@ This, That, These, Those
 #### Identify (label) (select word template)
 
 Tap the demonstrative pronouns in these sentences. (title)
+
 ```
 *This* idea is amazing.
 Is *that* your book?
@@ -49,6 +44,7 @@ I am not sure *that* is how you do it.
 #### Classify (label)
 
 Identify whether these sentences have demonstrative pronouns or not. (title)
+
 ```
 Yes:
 These are very yummy.
@@ -74,6 +70,7 @@ I forgot to eat.
 ```
 
 Identify whether these pronouns are singular or plural. (title)
+
 ```
 Singular:
 This, That
@@ -85,6 +82,7 @@ These, Those
 #### Correct spelling (label)
 
 Identify the correct spelling. (title)
+
 ```
 This, Thiis
 That, Dhat
@@ -95,6 +93,7 @@ Those, Thoose
 #### Multiple Choice Questions (label)
 
 Select the correct demonstrative pronoun for each sentence. (title)
+
 ```
 I bought______tool yesterday.
 that, those
@@ -121,30 +120,12 @@ _______was such a good experience.
 That, Them, Those
 ```
 
-## Personal Pronouns
-
-A personal pronoun is a word that takes place of naming words. Personal pronouns are I, you, he, she, it, we, they, me, him, her, us, and them. 
-
-For example:
-*Rahul* is a good boy.
-'Rahul' is a noun in this sentence. So, it can be replaced with the personal pronoun 'he'. So this sentence can also be written as,
-*He* is a good boy.
-
-Examples:
-1. *He* eats grapes.
-2. *She* likes pear.
-3. You can have *it.*
-4. *They* like fruits.
-5. *He* runs fast.
-6. *She* jumps high.
-7. *They* are playing outside.
-8. Aman likes *it*.
-
 ### Activities
 
 #### Drag and Drog (label)
 
 Identify which of these words are pronouns and which are not. (title)
+
 ```
 Pronouns: He, She, It, They
 
@@ -166,6 +147,7 @@ Not Pronouns: Drive, Car, Jam, Dog
 #### Select word (label)
 
 Tap on the pronouns in each sentence. (title)
+
 ```
 *He* puts the book on the table.
 The children play with *it*.
@@ -201,6 +183,7 @@ Shenna blamed *us* for lying.
 #### Match the following (label)
 
 Match the pairs. (title)
+
 ```
 Reena, She
 Rahul, He
@@ -228,6 +211,7 @@ I, Me
 #### Classify (label)
 
 Identify if these sentences have personal pronouns or not. (title)
+
 ```
 Yes:
 She is a good girl.

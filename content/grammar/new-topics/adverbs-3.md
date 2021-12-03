@@ -4,32 +4,12 @@ To be able to understand and use adverb of manners.
 
 # Grade-3
 
-## Adverb of Manners
-
-We know that adverbs tell us about the verb, adjective or another adverb. Adverbs of manner tells us how an action is done. In simple words, it answers the question 'how'. These adverbs generally end with '-ly'. Some examples are:
-1. The turtle moves *slowly*.
-2. The dog runs *quickly*.
-3. The girl walked *smartly*.
-
-We can also convert some adjectives into adverbs by simply adding '-ly' in the end. For example;
-1. safe- *safely*
-2. gentle- *gently*
-3. possible- *possibly*
-4. correct- *correctly*
-5. sad- *sadly*
-6. angry- *angrily*
-7. happy- *happily*
-
-Some more examples of adverb of manners are:
-1. Richa completed her homework *independently*.
-2. The old lady feeds *kindly* to the street animals.
-3. The teacher *clearly* explained the topic.
-
 ### Activities
 
 #### Drag and Drop
 
 Identify which are adverbs of manner and which are adjectives. (title)
+
 ```
 Adjective:
 Quick, Polite, Careful, Hard
@@ -73,6 +53,7 @@ Softly, Beautifully, Normally, Personally
 #### Match the following (label)
 
 Match the adjectives and their adverbs. (title)
+
 ```
 Bad, Badly
 Noisy, Noisily
@@ -116,6 +97,7 @@ Clear, Clearly
 #### Fill up with options (label)
 
 Fill in the blank with the correct option. (title)
+
 ```
 They dance *beautifully (beautiful, beautifuly)*.
 Richa doesn't work *hard (hardly, hardily)*.
@@ -145,6 +127,7 @@ She is very *greedy (greedily, greed)*.
 #### Correct Spelling (label)
 
 Identify the correct spelling for these adverb of manners.
+
 ```
 Safely, Safily
 Noisily, Noisly
@@ -174,6 +157,7 @@ Joyously, Joyosly
 #### Right match (label)
 
 Identify the correct adverb of manner for these adjectives. (title)
+
 ```
 Smart, Smartly, Smartily
 Possible, Possibly, Possibley
@@ -203,10 +187,11 @@ Rare, Rarely, Rarelly
 ### Select the adverb of manners (label) (select the word)
 
 Tap on the adverb of manners in the following sentences. (title)
+
 ```
 He had a meeting. So, he *quickly* drank the water and went to the office *hurriedly*.
 Someone *suddenly* cracked a joke. She did not understand but laughed *nervously*.
-She is reading *carefully*. She's trying to complete her lessons *quickly*. She has a test tomorrow. 
+She is reading *carefully*. She's trying to complete her lessons *quickly*. She has a test tomorrow.
 I was crossing the street and my mom was *anxiously* looking at me. I *happily* waved at her after crossing.
 We had to move the sofa across the room. So we moved it *quickly*, but *awkwardly* in front of the guests.
 He *calmly* explained the lesson to me. I don't have any doubts now. I will *calmly* write the test today.

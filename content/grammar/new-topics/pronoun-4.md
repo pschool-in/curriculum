@@ -1,33 +1,11 @@
-# Reflexive Pronoun 
+# Reflexive Pronoun
 
 ## Objectives
+
 1. To understand reflexive pronouns and their usage.
 2. To be able to identify reflexive pronouns in the sentence.
 
-### Reading Notes
-
-The words ending in *-self*(singular) and *-selves* (plural) that are used when the subject and the object of the sentence are the same are called *reflexive pronouns*. They tell us the *doer* and the *receiver* of the action is the same person. 
-
-In simple terms, reflexive pronouns tell us that someone is doing something on his/her own. 
-
-Here in this sentence - she(doer) made herself(receiver) a cup of tea, the reflexive pronoun *herself* refers back to *she*. That means a person who does the action and receives it is the same. 
-
-Examples of reflexive pronouns in singular and plural forms are: 
-
-Singular: yourself, himself, herself, itself, myself
-
-Plural: yourselves, ourselves(we), themselves(they)
-
-Sentence based examples of reflexive pronouns:
-
-1. She bought *herself* a new dress.
-2. They are doing the homework by *themselves*.
-3. Don't hurt *yourselves* while playing.
-4. Rekha cleaned her room by *herself*.
-5. He went to the market by*himself*.
-
-
-## Identify (Drag and Drop) 
+## Identify (Drag and Drop)
 
 Drag and drop the reflexive and non-reflexive pronouns in the appropriate boxes.
 
@@ -56,7 +34,6 @@ him, himself
 me, myself
 ```
 
-
 ## Identify-Reflexive pronoun (select the word)
 
 Select the reflexive pronoun in the sentence.
@@ -75,7 +52,7 @@ I went to the bank by *myself*.
 ```
 
 ```
-My sister dressed *herself* without any help. 
+My sister dressed *herself* without any help.
 Amit hurt *himself* while playing.
 Meena and Mahesh did the project all by *themselves*.
 She went to the park by *herself*.
@@ -100,16 +77,14 @@ She hurt *herself* while stitching the frok.
 Did you learn French *yourself*?
 ```
 
+## Fill Up (with options)
 
-## Fill Up (with options) 
-
-Click on the blanks and choose the correct reflexive pronoun. 
-
+Click on the blanks and choose the correct reflexive pronoun.
 
 ```
-She never talks about *herself(itself)*. 
+She never talks about *herself(itself)*.
 He did all the paintings by *himself(themselves)*.
-The dog hurt *itself(himself)*. 
+The dog hurt *itself(himself)*.
 Shaanvi sang quietly to *herself(itself)*.
 Shiva hurt *himself(ourselves)* while climbing the ladder.
 Rajeev was proud of *himself (herself)*.
@@ -132,16 +107,16 @@ Don't hurt *yourself (itself)* while cooking.
 We cooked biryani *ourselves (themselves)* for the guests.
 ```
 
-## True or False 
+## True or False
 
 Identify whether the sentence has the correct reflexive pronoun.
 
 ```
-True: 
+True:
 Why don't you cut your nails yourself?
 Look at yourself in the mirror.
 Pooja and Indu! Please behave yourselves.
-False: 
+False:
 Grandma cut himself.
 Why don't you clean the balcony ourself?
 ```
@@ -170,7 +145,7 @@ We can make this model by myselves.
 You ride your bike by herself.
 ```
 
-## Drag and Drop 
+## Drag and Drop
 
 Pick up the correct word and place it appropriately in the sentence.
 
@@ -193,6 +168,7 @@ The dog let *itself* into our room.
 ## Identify the pronouns ((label) (multiple seelct word)
 
 Tap on all the demonstrative, reflexive and possessive pronouns. (title)
+
 ```
 *This* book is *mine*. I read the whole book all by *myself*. I like *this* book.
 *That* is my father. *This* car is *his*. I washed it all by *myself*.
@@ -209,32 +185,8 @@ The children loves holidays. *They* buy all the new things for *themselves*. *Th
 Prateek is very lazy. He copied his friend's project instead of doing it *himself*.
 ```
 
-References: 
-https://www.english-4u.de/en/grammar/reflexive-pronouns.htm
+References: https://www.english-4u.de/en/grammar/reflexive-pronouns.htm
 
 https://www.kidsworldfun.com/learn-english/reflexive-pronouns.php
 
 https://www.k5learning.com/free-grammar-worksheets/second-grade-2/pronouns/write-reflexive-pronouns
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

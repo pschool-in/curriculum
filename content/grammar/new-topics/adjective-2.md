@@ -6,20 +6,10 @@ To be able to define and identify the adjectives.
 
 To differentiate between adjectives and nouns.
 
-## Reading notes:
-
-The words which describe a naming word (noun) or a pronoun are called adjectives. Adjectives usually tell us about what kind of, how many or what color etc, any person, a place, thing or animal is. Adjectives usually come before a noun and make them more specific. Adjectives also have their opposites like - "tall-short", "big-small", "black-white".
-
-For example: 
-1. My study table is "small".
-2. Manish is a "smart" boy.
-3. My sister has "long" hair.
-
-The words "small", "smart", "long"  are called adjectives. 
-
 ## Group the adjectives
 
-Identify the adjectives from the group of words and add them into the appropriate box.
+Identify the adjectives from the group of words and add them into the
+appropriate box.
 
 ```
 Adjectives: Blue, Big, Loud, Few, Sweet, Bitter
@@ -153,12 +143,12 @@ active, dull
 thick, thin
 ```
 
+## Choose the adjective
 
-## Choose the adjective 
 Fill in the blanks with the appropriate adjective.
 
 ```
-The elephant is a *large (small)* animal. 
+The elephant is a *large (small)* animal.
 The peacock is a *beautiful (ugly)* bird.
 The rat is a *small (big)* animal.
 He is a *tall (wide)* man.
@@ -201,53 +191,51 @@ That *naught (sincere)* boy broke our balcony window.
 Spot the adjectives in the following sentences.
 
 ```
-One *rainy* day, my *little* cat jumped and sat on the *black* sofa and played with his *new* toy. 
-My *younger* brother was watching it play and he was *happy*. 
-Soon, my *playful* cat yawned. He was *tired*. 
-I picked him up and put him on a *soft* bed and he slept. 
+One *rainy* day, my *little* cat jumped and sat on the *black* sofa and played with his *new* toy.
+My *younger* brother was watching it play and he was *happy*.
+Soon, my *playful* cat yawned. He was *tired*.
+I picked him up and put him on a *soft* bed and he slept.
 ```
 
 ```
-Sita and Meera are twins. Preethi and Swapna live next door. 
-Meera's mom packed some *tasty* snacks and water in a *big* basket. 
-The *four* friends walk to the nearby woods for a picnic. They spot an *old* tree. 
-Sita spreads the *new* mat under the tree and they all have their snacks. 
+Sita and Meera are twins. Preethi and Swapna live next door.
+Meera's mom packed some *tasty* snacks and water in a *big* basket.
+The *four* friends walk to the nearby woods for a picnic. They spot an *old* tree.
+Sita spreads the *new* mat under the tree and they all have their snacks.
 Swapna sits on a *small* bench and watches the squirrels running up and down.
 ```
 
 ```
 My mom is making aloo paratha for lunch. She picked up the *big* bag of flour with her *small* hands.
-She added the flour into the *red* bowl. She mixed some *warm* water, *white* salt and some oil 
-and kneaded it into a *soft* dough. Then she cooked *tasty* aloo stuffing for the paratha. 
-She made *small*, *round* balls of the dough and flattened it and then stuffed the aloo mix 
+She added the flour into the *red* bowl. She mixed some *warm* water, *white* salt and some oil
+and kneaded it into a *soft* dough. Then she cooked *tasty* aloo stuffing for the paratha.
+She made *small*, *round* balls of the dough and flattened it and then stuffed the aloo mix
 and made *round* parathas with lots of butter and served hot.
 ```
 
 ```
-This is my grandmother's house. There is a *pretty* garden in front of her house. 
+This is my grandmother's house. There is a *pretty* garden in front of her house.
 There are *pink* and *red* roses near the gate. There is also a *big* mango tree behind the house.
 Every year we distribute these *tasty* mangoes to all our neighbours.
 ```
-
-
 
 ## Complete the story (drag and drop)
 
 Complete the story by filling the blanks with suitable adjectives.
 
 ```
-Sita was a *young* girl. She lived in a *small* village in karnataka. 
+Sita was a *young* girl. She lived in a *small* village in karnataka.
 One day, on a *cloudy* morning, she went for a walk into the nearby fields.
-She was wearing a *white* frock and a red ribbon. After sometime, she came across a hut. 
-It was a *small* hut but was *warm* inside. Sita was feeling *tired*. 
+She was wearing a *white* frock and a red ribbon. After sometime, she came across a hut.
+It was a *small* hut but was *warm* inside. Sita was feeling *tired*.
 So, she went inside the hut and slept on the cot.
 Soon a *loud* bang on the door woke her up!
 ```
 
-
 ## Adjective - Opposite (drag and drop)
 
-Fill in the blanks with the adjectives that are opposite in the meaning to those who are put in quotation marks.
+Fill in the blanks with the adjectives that are opposite in the meaning to those
+who are put in quotation marks.
 
 ```
 The rat is "small" but the dog is *big*.
@@ -273,9 +261,7 @@ Cooking is "hard" but eating is *easy*.
 Sita's brother is "strong" but her sister is *weak*.
 ```
 
-
-
-References: 
+References:
 
 https://www.k5learning.com/free-grammar-worksheets/second-grade-2/adjectives/identify-sentences
 
@@ -286,30 +272,3 @@ https://www.takshilalearning.com/practice-worksheet-for-class-2-english-grammar-
 https://www.tiwariacademy.com/ncert-solutions/class-2/english/grammar/chapter-7/
 
 https://www.learninsta.com/describing-words-for-class-2/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

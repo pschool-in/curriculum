@@ -1,57 +1,17 @@
 # Order of Adjectives
 
-## Learning Objective: 
+## Learning Objective:
 
-To understand the meanings of adjectives and to know that adjectives describe nouns and pronouns.
+To understand the meanings of adjectives and to know that adjectives describe
+nouns and pronouns.
 
-To know how the adjectives are arranged in order when more than one adjective is used to describe a noun or pronoun in a sentence. 
-
-
-### Reading Notes: 
-Adjectives are the words that describe the "persons", "places", "things" etc. Adjectives or describing words talk about color, number, material, quality, quantity, size, feel, etc. 
-
-For example: 
-1. Tarun is wearing a "red" shirt. (here "red" is an adjective that describes the noun "shirt" by letting us know what kind of shirt it is?)
-2. They have purchased a "square" table. (here "square" is an adjective that describes the noun "table" by letting us know the shape of the table)
-
-Read the following sentence
-
-1. Oh "darling, good" mother, said the third.
-
-2. Oh dear"darling", "pretty", "good, "nice" mother, said the fifth.
-
-In these sentences, words like "darling", "good", "pretty", "nice" express the qualities of a mother.
-
-It can be noticed by looking at the above two sentences that, more adjectives are used to describe the qualities of a mother. 
-
-In such cases, we need to know how to arrange these adjectives in order. 
-
-Given below is the order of adjectives: 
-
-1. number
-2. opinion
-3. appearance (size, shape)
-4. age
-5. condition
-6. color
-7. pattern (checkered, stripped)
-8. proper adjective (Nationality, place of origin or material)
-9. function or purpose
-10. Noun
-
-For example : 
-
-1. A strange, little, yellow leaf. 
-Here the arrangement of the adjectives is as follows: "a" is an article, "strange" is an opinion or quality, "little" is the size, "yellow" is the color 
-
-2. My dad is a tall, Indian man.
-Here the arrangement of the adjectives is as follows: "tall" is a size, "Indian" is a Nationality.
-
-
+To know how the adjectives are arranged in order when more than one adjective is
+used to describe a noun or pronoun in a sentence.
 
 ## Classify the words
 
-Identify the adjectives from the group of words given below and put them into the appropriate box.
+Identify the adjectives from the group of words given below and put them into
+the appropriate box.
 
 ```
 Adjectives: strange, little, yellow, round, tall
@@ -109,7 +69,7 @@ old, man
 round, table
 ```
 
-## Pick the adjective 
+## Pick the adjective
 
 Drag and drop the correct adjective to complete the sentence.
 
@@ -178,7 +138,6 @@ Riyaan has a *beautiful* garden in his house.
 My grandparents live in a *brick* house.
 ```
 
-
 ## Yes or No
 
 Identify whether the sentences have correct order of the adjectives or not.
@@ -205,8 +164,7 @@ Full, three boxes
 two red, sqaure tables
 ```
 
-
-##  Fill in the adjectives (Fill up with options)
+## Fill in the adjectives (Fill up with options)
 
 Fill up the correct order of adjectives in the sentence.
 
@@ -218,20 +176,20 @@ The *little (pink)*, *pink(little)* mitten was lost.
 My dad is a *tall (Indian)*, *Indian(tall)* man.
 ```
 
+## Complete the passage
 
-## Complete the passage 
 Drag and drop the adjectives to complete the passage.
 
 ```
-Once upon a time, an *old (new)* porcupine lived in a *large (tall)* wood with his sons. 
-One day, one of the porcupines went into the *deep (long)* jungle to fetch some *fresh (spoiled)* vegetables. 
+Once upon a time, an *old (new)* porcupine lived in a *large (tall)* wood with his sons.
+One day, one of the porcupines went into the *deep (long)* jungle to fetch some *fresh (spoiled)* vegetables.
 He was a slow walker and he had just reached a *huge (black)* cabbage, when from behind the *green (stale)* leaves, out popped a *big (stripped)* hare.
-He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to the hare's words and left from there. 
+He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to the hare's words and left from there.
 ```
 
 ```
-Once upon a time, there lived a *beautiful (new)* stag. Like all other stags, he had *long (brief)*, *slender (round)* legs. 
-One day he was grazing peacefully on *tender (stern)* shoots. Suddenly, he heard the howling of *dangerous (pretty)* wolves! 
+Once upon a time, there lived a *beautiful (new)* stag. Like all other stags, he had *long (brief)*, *slender (round)* legs.
+One day he was grazing peacefully on *tender (stern)* shoots. Suddenly, he heard the howling of *dangerous (pretty)* wolves!
 He knew, he had to escape. So he started running. Suddenly his *large (fluffy)* antlers got stuck in the low-hanging branch and he was unable to escape. Finally, the wolves caught the stag.
 ```
 
@@ -368,32 +326,29 @@ He is a ____ man.
 kind old, old kind
 ```
 
-## Identify adjectives (multiple select) 
+## Identify adjectives (multiple select)
 
 Identify the adjectives given in the passage.
 
 ```
-Once upon a time... there lived a women who had no children. 
-She dreamed of having a *little* girl. 
-But time went by and her dream never came true. 
+Once upon a time... there lived a women who had no children.
+She dreamed of having a *little* girl.
+But time went by and her dream never came true.
 So, she visited an *ugly* witch who gave her a *magic* grain of barley.
-She planted the grain in a *big* flower pot. 
+She planted the grain in a *big* flower pot.
 The next morning, the *magic* grain turned into a *lovely* tulip.
 ```
 
 ```
-The women kissed the *soft* petals and the flower opened. 
+The women kissed the *soft* petals and the flower opened.
 Inside the flower sat a *tiny* girl, no bigger than a thumb.
-She was named Thumbelina. She had a walnut shell for bed, *violet* petals for mattress. 
+She was named Thumbelina. She had a walnut shell for bed, *violet* petals for mattress.
 One night, as Thumbelina  was fast asleep, a *large* frog hopped in through the window.
 She said to herself, how *pretty* Thumbelina is!
 Later, she picked up Thumbelina and hopped back in to the wetlands.
 ```
 
-
-
 References:
-
 
 https://swiflearn.com/revision-notes/english-grammar/class-4/adjectives/
 
@@ -410,33 +365,3 @@ https://www.englishworksheetsland.com/adjectives.html
 K5 learning PDF's
 
 Newpathways, AP and Telangana State board books and few English Story books.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

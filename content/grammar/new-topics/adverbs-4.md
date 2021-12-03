@@ -4,45 +4,12 @@ To understand what adverb of degrees are and how to use them.
 
 # Grade-4
 
-## Adverb of degree
-
-Adverb of degree tells us to what extent the action has been done. In simple words, it answers the question 'how much?' For example:
-
-The girl was *very* beautiful.
-
-In this sentence, the word very tells us how much beautiful is the girl.
-
-More examples are:
-1. Ram can run *so* quickly.
-2. I *really* enjoyed the ride.
-
-Other common adverbs of degree are almost, quite, nearly, extremely, too, just, enough, hardly, almost, etc.
-
-There are three types of adverb of degrees:
-
-1. Positive
-
-"The toy plane is *big*."
-
-This sentence talks about the toy plane. Here, the toy plane is not compared to anything else. Therefore, *big* is a positive degree of comparison.
-
-2. Comparative
-
-"The doll is *bigger* than the plane."
-
-In this sentence, the doll is compared to a plane. Therefore, *faster* is the comparative degree of comparison.
-
-3. Superlative
-
-"The teddy bear is the *biggest* of all."
-
-In this sentence, the teddy bear, doll and toy plane are compared with each other. Teddy bear is superior to all. Therefore, *biggest* is the superlative degree of comparison.
-
 ### Activities
 
 #### Classify (label)
 
 Identify if these adverbs are positive, comparative or superlative. (title)
+
 ```
 Positive:
 Big, Happy, Quick
@@ -101,6 +68,7 @@ Hardest, Most suddenly, Loudest
 #### True or False (label)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 Superlative degree of adverb means that the object is superior (on top).
@@ -124,6 +92,7 @@ Adverb of degree answers the question "how."
 #### Fill up with options (label)
 
 Tap on each blank for options. (title)
+
 ```
 I *really (very)* enjoyed the ride.
 She *never (so)* completes her homework on time.
@@ -153,6 +122,7 @@ He danced *wonderfully (wonderful).*
 #### Select the word (label)
 
 Tap on the adverb of degree in each sentence. (title)
+
 ```
 The food was *extremely* hot.
 The book is *quite* interesting.
@@ -182,6 +152,7 @@ He drove the car *very* fast.
 ### Select the adverb of degree (label) (template multiple select word)
 
 Tap on all the adverb of degrees. (title)
+
 ```
 She was *considerably* sick. Yet she *bravely* appeared in the exam. Everone praised her *a lot*.
 She gained a lot of weight *enormously*. She was *very* thin last year. And she got *very* fat this year.
@@ -228,7 +199,7 @@ I am not *entirely* sure what homework the teacher gave us. I was *slightly* dis
 
 # References
 
-1. https://www.youtube.com/watch?v=mij66p88W60 
+1. https://www.youtube.com/watch?v=mij66p88W60
 2. https://www.youtube.com/watch?v=shLLaRxIgnw
 3. https://www.ef.com/wwen/english-resources/english-grammar/adverbs-degree/
 4. https://www.grammar-monster.com/lessons/comparatives_superlatives_from_adverbs.htm
@@ -236,4 +207,3 @@ I am not *entirely* sure what homework the teacher gave us. I was *slightly* dis
 6. https://www.twinkl.co.in/teaching-wiki/adverb-of-degree
 7. https://ifioque.com/parts-of-speech/adverbs/degree-adverbs
 8. https://onlineteachersuk.com/adverbs-of-degree/
-

@@ -4,25 +4,12 @@ To learn how to describe different qualities about things.
 
 # Grade-1
 
-## Describing Words
-
-Describing words tell us about the noun. It describes the quality of the naming words. Some examples of describing words are:
-1. *Smart* teacher
-2. *Big* house
-3. *Green* parrot
-4. *Round* ball
-5. *Pretty* girl
-6. *Two* boys
-7. *Thundering* clouds
-8. *Sweet* food
-9. *Soft* toy
-10. *Loving* parents
-
 ### Activities
 
 #### Drag and Drop (label)
 
 Identify these positive and negative describing words. (title)
+
 ```
 Positive: Smart, Pretty, Beautiful, Soft
 
@@ -44,6 +31,7 @@ Negative: Jealous, Moody, Rude, Selfish
 #### Jumbled words (label)
 
 Identify these describing words. (title)
+
 ```
 Big, Pretty, Small, Round, Sweet, Soft
 ```
@@ -59,6 +47,7 @@ Smart, Two, Loving, Bad, Strong, Weak
 #### Select the describing words. (label)
 
 Tap on the describing words in these sentences. (title)
+
 ```
 A ball is *round* in shape.
 A *good* chess player is usually *smart*.
@@ -86,6 +75,7 @@ A *clean* table.
 #### Correct spelling (label)
 
 Identify the correct spelling of descibing words. (title)
+
 ```
 Ugly, Ugley
 Brown, Browne
@@ -105,6 +95,7 @@ Smart, Smert
 #### Match the following (label)
 
 Match the pairs. (title)
+
 ```
 Big, Elephant
 Dark, Night
@@ -132,6 +123,7 @@ Sweet, Dish
 #### Multiple Choice Questions (label)
 
 Choose the correct describing words. (title)
+
 ```
 Neha likes______cars.
 fast, the, all

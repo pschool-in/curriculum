@@ -4,25 +4,12 @@ To understand that conjunctions are nothing but joining words.
 
 # Grade-1
 
-## Joining Words
-
-Joining words are used to join two or more words and sentences. The two common joining words are 'and' and 'but'.
-
-'And' is used when we are adding something to our statement. For example,
-1. I like to play *and* eat.
-2. I don't like spinach *and* guava.
-3. I will dance *and* sing in the competition.
-
-'But' is used to say something opposite. For example,
-1. I want to play *but* I haven't done my homework.
-2. I want to go to the party *but* I'm tired.
-3. I like Ravi *but* I hate his brother.
-
 ## Activities
 
 ### Fill in the blanks (label) (fillup with options)
 
 Choose the correct joining word. Tap on each blank for options. (title)
+
 ```
 I want to go, *but (and)* it is too far.
 We washed the clothes, *and (but)* we put them in sunlight.
@@ -61,6 +48,7 @@ She play *and (but)* walk in the park.
 ### Identify (label) (classify template)
 
 Identify if these sentences have joining words or not. (title)
+
 ```
 Yes:
 Brush your teeth and put on your pyjamas.
@@ -114,6 +102,7 @@ We have a blackboard in the class.
 ### Select Word (label)
 
 Tap on the joining words in these sentences. (title)
+
 ```
 I have a black shirt *and* a blue jeans.
 He likes pasta *but* I like burgers.
@@ -157,6 +146,7 @@ I like reading books *and* eating vegetables.
 ### Right Match (label)
 
 Choose the puzzle piece with the correct joining word. (title)
+
 ```
 I like apples, and bananas, but bananas
 Raj is running, but I like to walk, and I like to walk

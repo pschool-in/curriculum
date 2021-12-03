@@ -1,28 +1,8 @@
-# Interrogative Pronoun 
+# Interrogative Pronoun
 
 ## Objective
+
 To understand the interrogative pronouns and also to identify them in the text.
-
-### Reading Notes: 
-
-We know that pronouns are the words used to replace one or more nouns. Apart from Personal, Possessive, Demonstrative and reflexive pronouns, we have another type of pronoun called interrogative pronoun.
-
-These are used to ask questions. The sentences with interrogative pronouns always end up with question marks. There are five different types of Interrogative pronouns:
-
-1. What
-2. Which
-3. Who
-4. Whom
-5. Whose
-
-Some examples of interrogative pronouns: 
-
-1. What is your name?
-2. Which is your favourite food?
-3. Who did this?
-4. Whom did you meet yesterday?
-5. Whose bike is this?
-
 
 ## Group (Drag and Drop)
 
@@ -33,7 +13,7 @@ Interrogative pronoun: What, who, whom, which, whose
 Possessive pronoun: his, her, mine, yours, ours
 ```
 
-## Match the following 
+## Match the following
 
 Draw a line from the interrogative pronoun to complete the question.
 
@@ -53,7 +33,7 @@ What is, your score?
 Whose are, these folders?
 ```
 
-## Fill in the blanks-1 (with options) 
+## Fill in the blanks-1 (with options)
 
 Click on the blank and fill in the correct interrogative pronoun.
 
@@ -83,9 +63,7 @@ To *whom (what)* did he give his watch?
 *What (When)* did you see in the park?
 ```
 
-
-
-## Noun or Pronoun 
+## Noun or Pronoun
 
 Identify whether the underlined word is a noun or a pronoun.
 
@@ -153,7 +131,9 @@ Look at my shoes. *They (It)* are so colorful.
 
 ## Idenfity- Interrogative or Emphatic
 
-Identify whether the following sentences have interrgative or emphatic pronouns. (title)
+Identify whether the following sentences have interrgative or emphatic pronouns.
+(title)
+
 ```
 Interrogative:
 Please tell me who took my book.
@@ -170,8 +150,7 @@ She herself baked a cake.
 He himself did it.
 ```
 
-
-References: 
+References:
 
 https://grammar.collinsdictionary.com/easy-learning/interrogative-pronouns
 
@@ -184,8 +163,3 @@ https://educationwithfun.com/course/view.php?id=27&section=10
 https://www.egrammatics.com/types-of-pronouns/interrogative-pronoun/
 
 https://www.egrammatics.com/types-of-pronouns/emphatic-pronoun/
-
-
-
-
-
