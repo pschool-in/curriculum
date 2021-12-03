@@ -96,6 +96,59 @@ We classify fillup into three types.
 
 <img src="screenshots/10_fillup.png" width="300" >
 
+If the options are not fixed, then the wrong options should be given within the bracket. If there are more than 1 wrong options then it should be separated by comma.
+
+```
+{
+   title: 'Fill in the blanks',
+   text: `Pink *and (or, but)* yellow are colors.
+I think there are two *or (and, so)* three pens.
+Tie your laces *so (and, or)* you don't fall.
+I like shoes *but (so, or)* my sister likes sandals.`
+}
+```
+
+If the options are fixed, then we need to have separate property called 'options' in the JS.
+
+```
+{
+   title: 'Fill in the blanks',
+   text: `Pink *and* yellow are colors.
+I think there are two *or* three pens.
+Tie your laces *so* you don't fall.
+I like shoes *but* my sister likes sandals.`,
+   options: 'and, or, but'
+}
+```
+
+We can also have the hybrid of the above two. We can override the 'global' options with 'local' options. It is needed in the below case where we need to capitalize the first letter.
+
+```
+{
+   title: 'Fill in the blanks',
+   text: `He ate *an* apple.
+I will meet *the* President today.
+The mangoes cost thirty rupees *a* piece.
+I have *an* exam today. 
+*A (An, The)* dog is barking.`,
+   options: 'and, or, but'
+}
+
+```
+
+If we don't want to give options and ask students to type the word, then we should give the property 'noOptions'.
+
+{
+   title: `Click on the blanks and type the right helping verb.`,
+   noOptions: true,
+   text: `She, along with her family *is* going on a vacation.
+The monkeys *are* chattering in the trees near the river.
+The students *were* relieved at the cancellation of exams!
+Raja *has* a match today.
+It *is* going to be one o’ clock.` 
+}
+
+
 # 11. Fill Up by Drag & Drop
 
 Drag and drop the words given at the bottom and fill it at the appropriate
