@@ -216,19 +216,7 @@ envelope, an, a
 
 # Fill in the correct word in front of the article
 
-
- ```
- an, ox, cow
-a, bat, owl
-a, parrot, eagle
-an, orange, cherry
-an, eye, nose
-a, teeth, ear
-an, eight, nine
-a, younger, elder
-an, old, new
-an, arrow, bow
-```
+# level-1
 
 ```
 a, cow, ox
@@ -244,6 +232,19 @@ a, bow, arrow
 ```
 
 ```
+an, ox, cow
+a, bat, owl
+a, parrot, eagle
+an, orange, cherry
+an, eye, nose
+a, teeth, ear
+an, eight, nine
+a, younger, elder
+an, old, new
+an, arrow, bow
+```
+
+```
  an, inch, cm
 a, kite, eagle
 a, lemon, orange
@@ -255,6 +256,8 @@ an, oval, circle
 a, pair, eye
 a, pencil, eraser
 ```
+
+# level- 2
 
 ```
 an, umbrella, union
@@ -287,9 +290,6 @@ an, ice-cream, pot
 an, engineer, pen
 a, toy, eagle
 an, accident, ring
-```
-
-```
 a, lion, elephant
 an, hour, clock
 an, honest man, bad man
@@ -297,13 +297,48 @@ a, car, owl
 a, cherry, apple
 ```
 
+# level - 3
+
 ```
 an, eagle, crow
 an, honour, dishonour
 an, apron, coat
 a, lamp, inkpot
-an, egg, hen
+an, egg, chick
+a, computer, aeroplane
+a, pizza, onion
+an, Ipad, table
+an, idea, pen
+an, old woman, young woman
 ```
+
+new
+```
+a, man, elephant
+a, European, Indian
+a, little, ice-cream
+a, year, hour
+an, island, beach
+an, honest man, clever man
+a, usual, unusual
+a, horse, ox
+an, American, Russian
+a, kindman, honest
+```
+
+```
+a, golden watch, apple
+a, bird, ostrich
+an, exam, paper
+an, English book, science book
+a, young, old
+an, octopus, shark
+a, dictionary, aeroplane
+an, option, student
+a, trophy, animal
+an, ambulance, lorry
+```
+
 
 
 
