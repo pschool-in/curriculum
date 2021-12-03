@@ -224,7 +224,27 @@ Where do you live *? (., !)*
 What do you like *? (., !)*
 ```
 
+#### Complete the passage (label) (fillup with options)
+
+Insert the correct punctuation in the passage. (title)
+```
+I saw a cat *. (, , !)* It had green eyes *, (., !)* brown fur *, (., !)* and small tail *. (,, !)* Do you know that cats like milk *? (., !)* I love cats *! (,, ?)* They are very cute *. (!, ?)*
+```
+
+```
+My house is very clean *. (!, ?)* There are three rooms *, (., !)* a kitchen *, (., !)* and a bathroom *. (,, ?)* There are beautiful flowers in the garden *. (!, ?)* I love living in my house *. (?, !)* What is your house like *? (., !)*
+```
+
+```
+My school is 20 minutes away from my home *. (,, ?)* I love going to school *. (,, !)* I meet all my friends there *. (!, ?)* My teachers are very helping *. (?, !)* My classroom is very big *, (., !)* clean *, (., ?)* and colorful *. (!, ?)*
+```
+
+```
+Do you like milk *? (., !)* I drink milk every morning *. (?, !)* It is good for our health *. (,, !)* Sometimes *, (., !)* I add chocolate flavour *, (., !)* sugar *, (., !)* in the milk *. (!, ?)*
+```
+
 # References
 
 Writing_skills.pdf
 https://drive.google.com/file/d/1IIkl1z0fzx5fntGJ1mQTI12U-re5DrNP/view?usp=sharing
+http://teacherfunfiles.blogspot.com/2020/11/short-reading-passages-for-kids.html
