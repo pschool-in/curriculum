@@ -1,4 +1,4 @@
-There are three types of adverb of degrees:
+There are three types of degrees of comparision:
 
 1. Positive
 
