@@ -138,6 +138,7 @@ I have *an* exam today.
 
 If we don't want to give options and ask students to type the word, then we should give the property 'noOptions'.
 
+```
 {
    title: `Click on the blanks and type the right helping verb.`,
    noOptions: true,
@@ -147,6 +148,7 @@ The students *were* relieved at the cancellation of exams!
 Raja *has* a match today.
 It *is* going to be one o’ clock.` 
 }
+```
 
 
 # 11. Fill Up by Drag & Drop
