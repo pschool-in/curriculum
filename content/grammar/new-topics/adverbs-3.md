@@ -50,9 +50,9 @@ Adverb:
 Softly, Beautifully, Normally, Personally
 ```
 
-#### Match the following (label)
+#### Complete the word (label)
 
-Match the adjectives and their adverbs. (title)
+Form the adverb of manner from the given word and hints. (title)
 
 ```
 Bad, Badly

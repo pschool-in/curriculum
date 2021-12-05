@@ -12,20 +12,6 @@ We also use period in front of abbreviations. For example,
 2. Mrs. Sharma
 3. Ms. Shivani
 
-## True or False (classify the sentence) (label)
-
-State whether these statements are true or false. (title)
-
-```
-True:
-Full stop is used at the end of abbreviations.
-Full stop is also called a period.
-
-False:
-Full stop and period are different punctuation marks.
-Period is used in the middle of a sentence.
-```
-
 # Exclamation mark
 
 (grade-2)
@@ -40,22 +26,6 @@ such sentences are:
 3. Oh God!
 4. I hear thunder!
 
-## True or False (classify the sentence) (label)
-
-State whether these statements are true or false. (title)
-
-```
-True:
-Exclamation marks are used to show strong feelings.
-‘Wow’ is an expression.
-Sentences ending with exclamation marks are called exclamatory sentences.
-
-False:
-Sentences ending with exclamation marks are called explanatory sentences.
-Punctuations are not important.
-Exclamation marks and question marks are the same.
-```
-
 ## Capital letters
 
 The first letter of a sentence should always be capital. The word ‘I’ is also
@@ -66,21 +36,6 @@ start with a capital letter. Some examples are;
 2. May I eat some fish?
 3. Richa Malhotra
 4. Mrs. Kapoor
-
-## True or False (classify the sentence) (label)
-
-State whether these statements are true or false. (title)
-
-```
-True:
-Name of a person always starts with a capital letter.
-Name of a country always starts with a capital letter.
-The first word of a sentence always starts with a capital letter.
-
-False:
-The word ‘You’ always starts with a capital letter.
-The last word of a sentence should start with a capital letter.
-```
 
 # Apostrophe/Contraction
 
@@ -107,20 +62,6 @@ We also put commas in between the series of words. For example:
 2. I have a pencil, crayons, and eraser in my box.
 3. He bought new clothes, shoes, and a bag.
 
-## True or False (classify the sentence) (label)
-
-State whether these statements are true or false. (title)
-
-```
-True:
-Commas are used in between the series of words.
-Commas are used in dates.
-
-False:
-A comma is used at the end of a sentence.
-A comma is similar to a full stop.
-```
-
 # Question mark
 
 We put a question mark at the end of a sentence that asks a question. For
@@ -137,9 +78,47 @@ State whether these statements are true or false. (title)
 ```
 True:
 We use a question mark when we ask questions.
-A question mark is used at the end of a sentence.
+Full stop is used at the end of abbreviations.
+Commas are used in dates.
 
 False:
 Question marks and exclamation marks are the same.
+A comma is similar to a full stop.
 A full stop can always be replaced by a question mark.
+```
+
+```
+True:
+Exclamation marks are used to show strong feelings.
+A question mark is used at the end of a sentence.
+Name of a person always starts with a capital letter.
+
+False:
+Full stop and period are different punctuation marks.
+The last word of a sentence should start with a capital letter.
+Sentences ending with exclamation marks are called explanatory sentences.
+```
+
+```
+True:
+Commas are used in between the series of words.
+Name of a country always starts with a capital letter.
+‘Wow’ is an expression.
+
+False:
+A comma is used at the end of a sentence.
+Punctuations are not important.
+Period is used in the middle of a sentence.
+```
+
+```
+True:
+The first word of a sentence always starts with a capital letter.
+Sentences ending with exclamation marks are called exclamatory sentences.
+Full stop is also called a period.
+
+False:
+The word ‘You’ always starts with a capital letter.
+A comma is not a punctuation mark.
+Exclamation marks and question marks are the same.
 ```

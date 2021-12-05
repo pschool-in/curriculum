@@ -6,9 +6,9 @@ To be able to identify different conjunctions in sentences and paragraphs and to
 
 ## Activities
 
-### Fillup (label) (fillup with options)
+### Copmlete the passage (label) (fillup with options)
 
-Tap each blank for options. (title)
+Complete the passage with the correct conjunction. Tap each blank for options. (title)
 
 ```
 I take my dog for a walk every evening. I put on its leash *and (but)* walk out of the door. Next, I take it to the park *and (but)* we walk. *But (And)* it tries to unleash *and (but)* run across the park. People ask me to unleash it *but (and)* it may bite someone. After our walk, I take off his leash.
@@ -49,75 +49,85 @@ Not Conjunctions:
 Have, Should, Would, Obviously
 ```
 
+### Fillup with options (label)
+
+Tap on each blank and choose the correct conjunction. (title)
+```
+He is *both (not, not only)* smart and intelligent.
+I can either write *or (nor, and)* watch TV.
+*Neither (Either, Only)* mom nor dad are going.
+I don't know whether she sings *or (nor, so)* not.
+*Not only (Both, Whether)* he's smart, but also very intelligent.
+I will *either (neither, for)* go to the party or to the movie.
+I like neither coffee *nor (or, and)* tea.
+Not only he lied, *but also (and, so)* shouted at me.
+I can both sing *and (or, for)* dance.
+She will *either (neither, but)* stay or leave.
+I can *neither (either, only)* study nor concertrate on sports.
+*Not only (Both, So)* my friend is intelligent, but also helps me in studies.
+I don't know whether she'll come *or (and, but)* not.
+```
+
+```
+I will either eat *or (nor, and)* sleep.
+She can *both (either, neither)* draw and paint.
+You can go by a train *or (but, because)* a bus.
+Our neighbours are good *and (so, or)* friendly.
+My dad won't come *but (or, because)* my mom will.
+She is *so (or, very)* tall that she can touch the ventilator.
+She ran fast *and (but, or)* won the race.
+She left *because (if, and)* they were laughing.
+The teacher entered *and (but, because)* the students stood up.
+He got hurt *because (if, so)* he fell down.
+I will either wash clothes *or (nor, and)* do the dishes.
+I slept *and (but, or)* skipped my homework.
+```
+
 ### Multiple Choice Questions (label)
 
-Choose the correct conjunction. (title)
+Choose the most appropriate option with the correct conjunction. (title)
 ```
-He is______smart and intelligent.
-both, not, not only
-I can either write_____watch TV.
-or, nor, and
-________mom nor dad are going.
-Neither, Either, Only
-I don't know whether she sings_____not.
-or, nor, so
-________he's smart, but also very intelligent.
-Not only, Both, Whether
-```
-
-```
-I will_______go to the party or to the movie.
-either, neither, for
-I like neither coffee______tea.
-nor, or, and
-Not only he lied,_________shouted at me.
-but also, and, so
-I can both sing______dance.
-and, or, for
-She will_______stay or leave.
-either, neither, but
+She left ____
+as I entered, but she entered, or I slept
+She goes to the ground ____
+because she likes to play, and she likes to sing, so I go to her school
+He reads comics ____
+but he does not read books, and he sleeps in class, so I do not read books
+We can either go to movie _____
+or to the cafe, nor to the movie, if to the mall
+She likes jogging, ____
+even in the morning, and in the winter, either in school
 ```
 
 ```
-I can________study nor concertrate on sports.
-neither, either, only
-________my friend is intelligent, but also helps me in studies.
-Not only, Both, So
-I don't know whether she'll come_____not.
-or, and, but
-I will either eat_____sleep.
-or, nor, and
-She can_____draw and paint.
-both, either, neither
+Do not eat many chocolates, ____
+even if they ask you to, but they always eat, also if they tell you
+They did not practice. ____
+However they won the match, Since they went to the party, Because they slept
+____ , they will score good.
+If they study well, Although they sleep well, Even if I dance
+Do you like tea ____
+or coffee, and water, so bread
+Look at the map, _____
+else you will be lost, because I like it, so you will not sleep
 ```
 
 ```
-You can go by a train_____a bus.
-or, but, because
-Our neighbours are good_____friendly.
-and, so, or
-My dad won't come_____my mom will.
-but, or, because
-She is____tall that she can touch the ventilator.
-so, or, very
-She ran fast______won the race.
-and, but, or
-```
-
-```
-She left_______they were laughing.
-because, if, and
-The teacher entered______the students stood up.
-and, but, because
-He got hurt_______he fell down.
-because, if, so
-I will either wash clothes_____do the dishes.
-or, nor, and
-I slept______skipped my homework.
-and, but, or
+____ , he cannot come with us.
+Since he has no pocket money, She is a good girl, You are nice but
+I will play ____
+whether you come or not, if I sleep, but will play
+She eats at home, ____
+because she likes cooking, she is crazy, because you are well
+I am thirsty, ____
+but I do not have water, and I like eating, so I will eat
+He came first. ____
+Therefore he got more cake, So he was punished, But he was last
 ```
 
 # References
 
 1. https://docs.google.com/document/d/18-wef2kVUU64TK7ZbtZLh9zNVsWaguc0_hZ3OMxAmaw/edit
 2. http://www.learnersplanet.com/cbse-english-grammar-conjunctions-worksheets-class-4
+3. https://www.englisch-hilfen.de/en/grammar/conjunctions.htm
+4. https://englishgrammarhere.com/conjunctions/10-example-of-conjunction-in-a-sentence/
