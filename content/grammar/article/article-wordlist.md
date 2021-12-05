@@ -2,10 +2,12 @@ We need to have this activity at three levels. (class 1, 2 and 3)
 
 # Fill in the correct article
 
+# level-1
 
-# Level- 1
+(article-1)
 
 New -1
+
 ```
 pot, a, an
 gun, a, an
@@ -48,17 +50,18 @@ kite, a, an
 ```
 eye, an, a
 bus, a, an
-sheep, a, an 
+sheep, a, an
 lemon, a, an
-eraser, an, a 
-farmer, a, an 
-lion, a, an 
-orange, an, a 
+eraser, an, a
+farmer, a, an
+lion, a, an
+orange, an, a
 peacock, a, an
-tailor, a, an 
+tailor, a, an
 ```
 
- New-2
+New-2
+
 ```
 bulb, a, an
 rose, a, an
@@ -71,7 +74,6 @@ horse, a, an
 brush, a, an
 pin, a, an
 ```
-
 
 # level-2
 
@@ -114,25 +116,24 @@ ox, an, a
 eight, an, a
 ```
 
-
 ```
-fish, a, an 
+fish, a, an
 doctor, a, an
-answer, an, a 
+answer, an, a
 ball, a, an
 egg, an, a
 igloo, an, a
 tiger, a, an
 book, a, an
-octopus, an, a 
+octopus, an, a
 girl, a, an
 ```
 
 ```
 `flower, a, an
-inkpot, an, a 
+inkpot, an, a
 parrot, a, an
-box, a, an 
+box, a, an
 elbow, an, a
 window, a, an
 football, a, an
@@ -141,21 +142,18 @@ mouse, a, an
 ice-cream,an, a`,
 ```
 
-
-
 # level 3
-
 
 ```
 `woman, a, an
-officer, an, a 
-bottle, a, an 
+officer, an, a
+bottle, a, an
 baby, a, an
-urn, an, a 
+urn, an, a
 old carpet, an, a
-beehive, a, an 
-remote, a, an 
-mobile, a, an 
+beehive, a, an
+remote, a, an
+mobile, a, an
 hospital, a, an`,
 ```
 
@@ -200,6 +198,7 @@ wonderful, a, an
 ```
 
 new
+
 ```
 utensil, a, an
 uncle, an, a
@@ -212,7 +211,6 @@ dollar, a, an
 rupee, a, an
 envelope, an, a
 ```
-
 
 # Fill in the correct word in front of the article
 
@@ -266,14 +264,14 @@ a, union, hour
 a, singer, artist
 a, teacher, artist
 an, ugly, duck
-a, house, hour 
+a, house, hour
 an, empty, full
 an, Indian, French
 an, honest, smart
 ```
 
- ```
- a, useful, eager
+```
+a, useful, eager
 a, young, old
 a, wonderful, underground
 an, x-ray, xerox
@@ -284,6 +282,7 @@ an, eraser, pencil
 an, engine, motor
 an, eye, head
 ```
+
 ```
 an, umbrella, cat
 an, ice-cream, pot
@@ -313,6 +312,7 @@ an, old woman, young woman
 ```
 
 new
+
 ```
 a, man, elephant
 a, European, Indian
@@ -338,19 +338,3 @@ an, option, student
 a, trophy, animal
 an, ambulance, lorry
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
