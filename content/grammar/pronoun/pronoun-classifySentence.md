@@ -1,6 +1,44 @@
 # Identify
 
-(pronoun-2)
+(pronoun-1)
+
+Classify (label)
+
+Identify whether these sentences have demonstrative pronouns or not. (title)
+
+```
+Yes:
+These are very yummy.
+This is the most comfortable.
+Those belong to Sakshi
+
+No:
+It is a flower.
+She has my book.
+My name is Rani.
+```
+
+```
+Yes:
+Do you like this?
+These are my friends.
+My mom gifted me that.
+
+No:
+My father is very good.
+The teacher went to school.
+I forgot to eat.
+```
+
+Identify whether these pronouns are singular or plural. (title)
+
+```
+Singular:
+This, That
+
+Plural:
+These, Those
+```
 
 Identify if these sentences have personal pronouns or not.
 
