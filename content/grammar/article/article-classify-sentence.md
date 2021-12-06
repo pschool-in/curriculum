@@ -7,22 +7,21 @@ I would like to have an orange.
 Donkey is an animal.
 I bought an umbrella.
 
-Dog is a man's best friend.
-Sun rises in the east.
+I ate an apple pie yesterday.
+My mother is a doctor.
 Shannu is a nice boy.
 ```
 
 Doesn't have article
 
 ```
-Orange is fruit.
-Donkey is animal.
-Umbrella is useful thing.
+I could see stars at night.
+Do you speak Bengali?
+She arrived in Mumbai yesterday.
 
-Cross road carefully.
-Arya goes to missionary school.
-Read social textbook carefully.
-
+I eat chapatis everyday.
+December is quite cold.
+I go to school by car everyday.
 ```
 
 ## Select whether the sentence has a definite/indefinite/no article.
