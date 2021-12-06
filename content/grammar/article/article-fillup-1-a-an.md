@@ -4,6 +4,17 @@
 
 new 
 
+```
+That is *a (an)* pot.
+I saw *an (a)* ant hill in my garden.
+I have *an (a)* exam tomorrow morning.
+We went to *a (an)* movie yesterday evening.
+Me and my brother had *an (a)* ice-cream.
+I need *a (an)* bowl of soup.
+I have *a (an)* bag of chocolates.
+I want to eat *a (an)* mango.
+I have *an (a)* idea for our project work.
+```
 
 ```
 The tiger is *a (an)* wild animal.
@@ -31,6 +42,7 @@ Nitya is *an (a)* Indian classical singer.
 He is sitting on *a (an)* sofa.
 ```
 
+article -2 (it can be included)
 ```
 Meera is *an (a)* intelligent student.
 Dad wants me to wear *a (an)* cap.
