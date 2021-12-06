@@ -114,18 +114,18 @@ Select whether the underlined word has correct or incorrect article.
 
 ```
 Correct:
-He is *a friend* of mine.
-*A gun* is very dangerous weapon.
-I collected *the postcard* from post-office.
-My dad came *an hour* ago.
-*An octopus* has eight tentacles.
+He is a friend of mine.
+A gun is very dangerous weapon.
+I collected the postcard from post-office.
+My dad came an hour ago.
+An octopus has eight tentacles.
 
 Incorrect:
-My friend gave me *an basket* of fruits.
-I saw *a eagle* near my farm.
-*A owl* was sitting on roof of my house.
-I had *a ice-cream* after my dinner.
-My grandfather has *a inkpot* on his writing table.
+My friend gave me an basket of fruits.
+I saw a eagle near my farm.
+A owl was sitting on roof of my house.
+I had a ice-cream after my dinner.
+My grandfather has a inkpot on his writing table.
 ```
 
 ##  Select - Article -1
