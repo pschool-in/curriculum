@@ -43,13 +43,13 @@ Identify the possessive pronouns and not a possessive pronoun
 possessive pronoun
 
 ```
-his, hers, mine, yours, ours, theirs
+His, Hers, Mine, Yours, Ours, Theirs
 ```
 
 Not a possessive pronoun
 
 ```
-he, she, me, I, it, we, us
+He, She, Me, I, It, We, Us
 ```
 
 (pronoun-4)
@@ -59,13 +59,13 @@ Drag and drop the reflexive and non-reflexive pronouns in the appropriate boxes.
 Reflexive pronoun
 
 ```
-myself, herself, itself, himself, yourselves, themselves
+Myself, Herself, Itself, Himself, Yourselves, Themselves
 ```
 
 Non-reflexive pronoun
 
 ```
-he, mine, she, her, them, they, me, him
+He, Mine, She, Her, Them, They, Me, Him
 ```
 
 (pronoun-5)
@@ -75,11 +75,11 @@ Identify the interrogative pronoun and possessive pronoun
 Interrogative
 
 ```
-What, who, whom, which, whose
+What, Who, Whom, Which, Whose
 ```
 
 Possessive
 
 ```
-his, her, mine, yours, ours
+His, Her, Mine, Yours, Ours
 ```
