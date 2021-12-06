@@ -162,31 +162,18 @@ Adi's brother bought *a (an, the)* new bicycle.
 Are you coming to *the (a, an)* library tomorrow?
 ```
 
-## Small Passages
 
-```
-I live in Hyderabad. It is *a* big city. *The* Charminar is *a* famous monument in our city.
-*The* Birla Planetarium is *the* most frequently visited place by many students every year.
-Nehru Zoological park is *a* famous zoo in Hyderabad which consists of different kinds of animals.
-```
-
-```
-My neighborhood is *a* very nice place. There is *a* big supermarket at *the* end of *the* road.
-There is also *a* small park near my home. Also we have *a* health center in *the* colony.
-In addition, there is *a* preschool where my little sister studies.
-```
-
-```
-Once upon *a* time *a* women had *an* only son whose name was Aladdin.
-One day as he was looking for wild figs out in the desert, he came across *a* dungeon.
-Aladdin went in to *the* dungeon and found *a* magic lamp.
-When Aladdin rubbed *the* magic lamp *a* genie arrived and asked him to wish for something.
-```
 
 ## Complete the Story
 
 ```
-Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree. *A (the, an)* cheerful mouse came there and saw *the (a, an)* lion. *The (a, an)* mouse climbed onto the body of the lion and started playing. He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse. *The (a, an)* mouse trembled in fear. The lion took pity on it and let it go. The mouse thanked and promised the lion that it would help in times of need. One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (a, an)* poor lion roared for help. The mouse heard the cries and came there and cut *the (a, an)* net with its sharp teeth. The lion came out and they became good friends.
+Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree. 
+*A (The, An)* cheerful mouse came there and saw *the (a, an)* lion. *The (A, An)* mouse climbed onto the body of the lion and started playing. 
+He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse. 
+*The (a, an)* mouse trembled in fear. The lion took pity on it and let it go. 
+The mouse thanked and promised the lion that it would help in times of need. 
+One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (a, an)* poor lion roared for help. 
+The mouse heard the cries and came there and cut *the (a, an)* net with its sharp teeth. The lion came out and they became good friends.
 ```
 
 ```
