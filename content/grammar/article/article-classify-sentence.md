@@ -92,8 +92,8 @@ We live in an village.
 ```
 right:
 He is a friend of mine.
-A gun is very dangerous weapon.
-I collected the postcard from post-office.
+A gun is a very dangerous weapon.
+I collected the postcard from the post-office.
 
 wrong:
 My friend gave me an basket of fruits.
