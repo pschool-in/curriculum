@@ -7,21 +7,23 @@ Reena, She
 Rahul, He
 Book, It
 Children, They
+Siya and Me, We
 ```
 
 ```
 Pencil, It
-Priya, Her
-Rahul, Him
-Rena and Sen, Them
-I, Me
+Ram and Shaam, They
+Richa, She
+Rony, He
+Me and Raj, Us
 ```
 
 ```
 Pen, It
-Ram and Shaam, They
-Richa, She
-Rony, He
+Priya, Her
+Rahul, Him
+Rena and Sen, Them
+I, Me
 ```
 
 (pronoun-2)
