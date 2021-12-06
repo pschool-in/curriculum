@@ -80,8 +80,25 @@ Karthik can play *the (-)* guitar.
 Please open *the(-)* window.
 She is *an (-)* architect.
 He can play *the (-)* flute.
-*The (-)* Himalayas lie to North of India.
+*The (-)* Himalayas lie to the North of India.
 Sanskrit is *a (-)* difficult language.
 The children found *an (the)* egg in the bird's nest.
 * - (The)* Mount Everest is the highest mountain in the world.
 ```
+
+```
+Pandas and * - (a)* tigers are both endangered animals.
+*The (-)* school is closed today.
+May I have your *- (the)* phone number.
+* - (The)* Milk is good for your health.
+Let's go and play *- (a)* cricket.
+Chess is *an (-)* indoor game.
+We are learning * - (the)* Telugu.
+Listen! Vamshi is playing *the (an)* piano.
+Mahita enjoys eating * - (a)* cakes.
+My sister is in *the (-)* classroom.
+```
+
+
+
+
