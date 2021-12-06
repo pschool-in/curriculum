@@ -2,6 +2,20 @@
 
 (article-1)
 
+new 
+```
+The tiger is *a (an)* wild animal.
+Kavya is *a (an)* hardworking student.
+Is that *an (a)* old dress you are wearing?
+This is *an (a)* eraser.
+M.S.Dhoni is *a (an)* cricketer.
+Mr. Ramesh is *a (an)* teacher.
+Ginger is *a (an)* lazy dog.
+He can ride *a (an)* bike.
+There is *an (a)* insect under the pillow.
+I bought *a (an)* new lunch box today.
+```
+
 ```
 There is *a(an)* dog in the backyard.
 I see *an (a)* owl on the tree!
@@ -41,6 +55,8 @@ I am *a (an)* pilot.
 Rajeev is reading *a (an)* magazine.
 ```
 
+article-3 ( it can be included)
+
 ```
 Rakesh's father is *a (an)* lawyer.
 This is *a (an)* ball.
@@ -79,3 +95,5 @@ My uncle is *an (a)* engineer.
 I bought *a (an)* pair of gloves.
 Gold is *a (an)* precious ornament.
 ```
+
+
