@@ -49,7 +49,7 @@ Dad wants me to wear *a (an)* cap.
 Reema has *a(an)* jewelry box.
 We put up *a (an)* Christmas tree for holidays.
 Grandma read *a (an)* story to all my friends.
-I saw *an (a)* ostrich in zoo.
+I saw *an (a)* ostrich in the zoo.
 There is *a (an)* hospital near my home.
 I have *a (an)* new pencil.
 There is *a (an)* big window in my room.
