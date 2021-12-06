@@ -30,16 +30,6 @@ The teacher went to school.
 I forgot to eat.
 ```
 
-Identify whether these pronouns are singular or plural. (title)
-
-```
-Singular:
-This, That
-
-Plural:
-These, Those
-```
-
 Identify if these sentences have personal pronouns or not.
 
 Yes
