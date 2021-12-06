@@ -74,3 +74,22 @@ him, himself
 me, myself
 
 ```
+
+(pronoun-5)
+
+Draw a line from the interrogative pronoun to complete the question.
+
+```
+What, time is it?
+Who, did this?
+Whose, book is this?
+Which, car is yours?
+To whom, should I address this letter?
+
+
+Which,is the song you like?
+What, is this flavour called?
+Whose is, this trophy?
+What is, your score?
+Whose are, these folders?
+```

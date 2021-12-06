@@ -133,3 +133,97 @@ We can make this model by myselves.
 You ride your bike by herself.
 
 ```
+
+(pronoun-5)
+
+## Noun or Pronoun
+
+Identify whether the underlined word is a noun or a pronoun.
+
+Noun
+
+```
+*Sita* runs fast.
+*Tigers* have stripes.
+These *flowers* are beautiful.
+Who likes *apples*?
+```
+
+Pronoun
+
+```
+I learned French by *myself*.
+Can *I* have an ice cream?
+Will you help *me* with my homework?
+*We* will go shopping tomorrow.
+```
+
+(pronoun-5)
+
+Identify whether the given sentence has a reflexive or possessive pronoun.
+
+Reflexive pronoun
+
+```
+I will do the job myself.
+She went to the park by herself.
+The dog hurt itself.
+Shaanvi sang quietly to herself.
+```
+
+Possessive pronoun
+
+```
+This notebook is mine.
+That bike is theirs.
+Is this pencil yours?
+The lipstick is hers.
+```
+
+(pronoun-5)
+
+Identify whether the following sentences have interrgative or emphatic pronouns.
+
+Interrogative pronoun
+
+```
+Please tell me who took my book.
+Whom are you calling?
+Which one is your house?
+What is this flavour called?
+Whose was that voice?
+```
+
+Emphatic pronoun
+
+```
+She herself did it.
+You yourself can find your talent.
+I myself will cook the dinner.
+She herself baked a cake.
+He himself did it.
+```
+
+(pronoun-5)
+
+Classify the below sentences as Reflexive and Emphatic Pronouns.
+
+Reflexive
+
+```
+He cuts *himself* while chopping the vegetables.
+I don't trust *myself* in tough times.
+We blame *ourselves* for the accident.
+He was speaking to *himself*.
+Be careful. You may hurt *yourself*.
+```
+
+Emphatic
+
+```
+She *herself* cooked the food.
+I *myself* saw him.
+He *himself* cut the cake.
+We will watch the game *ourselves*.
+We saw the President *himself*.
+```

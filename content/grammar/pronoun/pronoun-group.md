@@ -67,3 +67,19 @@ Non-reflexive pronoun
 ```
 he, mine, she, her, them, they, me, him
 ```
+
+(pronoun-5)
+
+Identify the interrogative pronoun and possessive pronoun
+
+Interrogative
+
+```
+What, who, whom, which, whose
+```
+
+Possessive
+
+```
+his, her, mine, yours, ours
+```

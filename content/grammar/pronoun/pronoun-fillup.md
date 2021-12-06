@@ -272,3 +272,79 @@ They are doing the homework *themselves (ourselves)*.
 Don't hurt *yourself (itself)* while cooking.
 We cooked biryani *ourselves (themselves)* for the guests.
 ```
+
+(pronoun-5)
+
+Click on the blank and fill in the correct interrogative pronoun.
+
+```
+*Why(What)* is the flight late?
+*Who(When)* left the door open?
+*Why(What)* are you sad?
+*What(Which)* is your brother's name?
+*Which(Whom)* car is yours?
+*Who(When)* is the new student in the class?
+*What(When)*do you like to wear tomorrow?
+*Which (What)* one of these burgers is made of meat?
+To *whom (who)* was the song dedicated?
+*What (Which)* do you want to do?
+
+*What (When)* do you want for lunch?
+*What (Whom)* is your mobile number?
+*Whose (Which)* bike is this?
+*Whose (Who)* books are those?
+*What (Which)* is the time now?
+*Whom (When)* is he talking to?
+*Who (Whom)* is your favorite cartoon character?
+*Which (What)* of these dresses do you like?
+To *whom (what)* did he give his watch?
+*What (When)* did you see in the park?
+```
+
+(pronoun-5)
+
+Click on the blank and fill in the right pronoun.
+
+```
+*Her(His)* name is Sita.
+*You (They)* are my best friend.
+This pen is *mine(theirs)*.
+*They(It)* are making a snowman.
+*He (They)* sings beautifully.
+I folded my clothes by *myself(themselves)*.
+*Who(What)* is the new teacher?
+*Which(Who)* is your favourite food?
+*I (Me)* went to library.
+Is that present for *me (I)*?
+```
+
+```
+*We (Us)* are going to Corbett National Park on sunday.
+*We (Us)* live in a small house.
+*She (He)* is a smart girl.
+This is my book. Give it to *me (I)*.
+I can tell *that (those)* he is tensed.
+*This (Those)* is my favorite place for morning walk.
+We bought *ourselves (themselves)* some French fries before the match.
+When I woke up, I found *myself(itself)* on sofa.
+Manisha has a dog. *It (They)* is called Garfield.
+Look at my shoes. *They (It)* are so colorful.
+```
+
+```
+Saranya likes to cook. Everyone likes *her (his) * cooking.
+Kumar and his brother enjoy watching action films. This movie is for *them(they) *.
+Do you like movies? Please join *us (them) * at the theatre.
+I will meet Sangeetha tomorrow. I am meeting *her (him)* for the first time.
+You left *your (yours) * text books on the table.
+I want to know *who (whom)* is going to play as villain.
+Please eat whatever you want. The choice is *yours (your)*.
+Rekha told *him (his)* about the celebration next week.
+Rahul cannot come with *us (them)* today.
+She grows Jasmine on her terrace. *They (Them)* smell sweet.
+Peacock is our national bird. *It (They)* has beautiful feathers.
+Ram will visit *his (her) * grandmother this week.
+Don't walk fast. *We (Us)* feel tired.
+Every Sunday, we meet *them (they)* at the sea shore.
+
+```
