@@ -1,18 +1,18 @@
 # Articles- Introduction
 
 # True or False
-Identify whether the following statements are true or fasle.
+Identify whether the following statements are true or false.
 
 ```
 True: 
 Articles are used in front of the naming words.
-"An" is used for the words starting with vowel sound.
+"An" is used for words starting with a vowel sound.
 "a, e, i, o, u" are called vowels.
 
 False:
 Article "a" is used for vowel sound.
-"A and "An" are called as prepositions.
-"The" is used to refer any thing in general.
+"A" and "An" are called prepositions.
+"The" is used to refer to anything in general.
 ```
 
 # Multiple choice questions
@@ -26,7 +26,7 @@ The number of consonants is ____.
 21, 15, 20
 Articles are used before______.
 naming word, describing word, action word
-The article "an" comes before ______.
+The article "an" comes before ______ word.
 honest, hat, hair
 ```
 
@@ -40,13 +40,13 @@ Find whether the following statements are true or false.
 ```
 True: 
 Articles are of two types.
-"An and An" are called as indefinite article.
+"An and An" are called indefinite article.
 Indefinite articles do not specify a particular thing or a person.
 
 False:
 Article "a" is used before the vowel sound.
 Article "an" is used before the consonants.
-"The" is called indefinite article.
+"The" is called an indefinite article.
 ```
 
 # Multiple choice questions
@@ -60,7 +60,7 @@ The article used before the vowel sound is ___.
 an, a, the
 The article used before the consonants is ___.
 a, the, an
-The article used to talk about a specific person or a thingis ____.
+The article used to talk about a specific person or a thing is ____.
 the, a, an
 ```
 
@@ -72,7 +72,7 @@ Find whether the following statements are true or false.
 ```
 True: 
 No article is used before plural nouns.
-No article is used before single countable nouns.
+No article is used before singluar countable nouns.
 Abstract nouns use no article.
 
 Flase:
@@ -92,7 +92,7 @@ Identify whether the following statements are true or false.
 
 ```
 True:
-Definite article "a" is used for words like university, unicorn etc as they begin with consonant sound.
+Definite article "a" is used for words like university, unicorn etc as they begin with a consonant sound.
 Article "an" is used for words like hour, honest etc as they begin with vowel sound.
 No article is used for names of the persons.
 
