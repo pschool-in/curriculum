@@ -146,7 +146,7 @@ from Personal, Possessive, Demonstrative and reflexive pronouns, we have another
 type of pronoun called interrogative pronoun.
 
 These are used to ask questions. The sentences with interrogative pronouns
-always end up with question marks. There are five different types of
+always end with question marks. There are five different types of
 Interrogative pronouns:
 
 1. What
