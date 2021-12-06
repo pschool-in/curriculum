@@ -32,6 +32,7 @@ In the first sentence we use **a** before the word **doctor** because she is one
 of the many doctor. But in the second sentence we use **the** because we are
 speaking about a particular doctor whom we visited.
 
+
 # Definite and Indefinite Article
 
 Articles are of two types – the definite article (the) and the indefinite
