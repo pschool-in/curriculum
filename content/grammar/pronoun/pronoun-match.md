@@ -95,3 +95,21 @@ Whose is, this trophy?
 What is, your score?
 Whose are, these folders?
 ```
+
+(miscellaneous)
+
+Identify which pronouns are these. (title)
+
+```
+Me You, Personal
+This That, Demonstrative
+Mine Hers, Possessive
+Herself, Myself, Reflexive
+What whom, Interrogative
+
+He She, Personal
+These Those, Demonstrative
+Theirs Ours, Possessive
+Themselves Yourself, Emphatic
+Which Whose, Interrogative
+```
