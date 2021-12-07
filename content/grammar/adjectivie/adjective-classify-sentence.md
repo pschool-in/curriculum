@@ -2,7 +2,7 @@
 
 ## Yes or No
 
-Identify whether the sentences have correct order of the adjectives or not.
+Classify whether the sentences have the correct order of the adjectives or not.
 
 Yes
 
@@ -26,14 +26,14 @@ The white, comfortable sofa was very expensive.
 
 little, five children.
 Full, three boxes.
-two red, sqaure tables
+two red, square tables
 ```
 
 (adjective-5)
 
 ## Classify the adjective-1
 
-Identify the underlined adjective and state its kind.
+Classify the underlined adjective.
 
 Adjective of quality
 
@@ -65,7 +65,7 @@ My mom made *tasty* jalebis for the party.
 
 ## Classify the adjective-2
 
-Identify the underlined adjective and state its kind.
+Classify the underlined adjective.
 
 Demonstrative adjective
 
@@ -87,7 +87,7 @@ This is my sister. *Her* name is Tanvi.
 
 ## Classify the adjective-3
 
-Identify the underlined adjective and state its kind.
+Classify the underlined adjective.
 
 Adjective of Number
 
@@ -106,6 +106,12 @@ Interrogative adjective
 *Which* plate is yours?
 *What* is your brother's name?
 ```
+
+
+Need to check
+
+
+
 
 ## Classify the statement-1
 
