@@ -66,5 +66,13 @@ afforestation, over grazing, heavy winds
 Which layer of soil contains humus?
 topsoil, subsoil, bedrock
 ```
+## Name the following
+```
+The topmost layer of soil - *topsoil*
+The layer of soil beneath topsoil - *subsoil*
+The compacted and cemented layer made of rocks - *parent rock*
+The wearing away of topsoil - soil *erosion*
+The prevention of loss of topsoil - soil *conservation*
+```
 # Reference
 https://swiflearn.com/revision-notes/cbse/class-5/science/chapter-5/

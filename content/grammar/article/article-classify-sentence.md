@@ -4,7 +4,7 @@ Has article
 
 ```
 I would like to have an orange.
-Donkey is an animal.
+A Donkey is an animal.
 I bought an umbrella.
 
 I ate an apple pie yesterday.
@@ -12,16 +12,16 @@ My mother is a doctor.
 Shannu is a nice boy.
 ```
 
-Doesn't have article
+Doesn't have an article
 
 ```
 I could see stars at night.
 Do you speak Bengali?
 She arrived in Mumbai yesterday.
 
-I eat chapatis everyday.
+I eat chapatis every day.
 December is quite cold.
-I go to school by car everyday.
+I go to school by car every day.
 ```
 
 ## Select whether the sentence has a definite/indefinite/no article.
@@ -31,7 +31,7 @@ Definite Article
 ```
 I wake up at 6 0'clock in the morning.
 The Arabian sea lies to the west of India.
-It is better to tell the truth.
+It is better, to tell the truth.
 
 The cow gives us milk.
 Can you switch off the light?
@@ -93,12 +93,12 @@ We live in an village.
 right:
 He is a friend of mine.
 A gun is a very dangerous weapon.
-I collected the postcard from the post-office.
+I collected the postcard from the post office.
 
 wrong:
 My friend gave me an basket of fruits.
 I saw a eagle near my farm.
-A owl was sitting on roof of my house.
+A owl was sitting on the roof of my house.
 ```
 
 ```
@@ -109,7 +109,7 @@ Nandana is the fastest swimmer in our group.
 
 wrong:
 I had a ice-cream after my dinner.
-My grandfather has a inkpot on his writing table.
+My grandfather has a inkpot on his writing-table.
 He is best player in the team.
 ```
 

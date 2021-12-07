@@ -69,6 +69,23 @@ rickets, scurvy, beriberi
 Which of the following food is rich in Vitamin C?
 orange, milk, potato
 ```
+## Name the following
+```
+Disease caused by iron deficiency - *anaemia*
+Disease caused by Vitamin C deficiency - *scurvy*
+Disease caused by Vitamin B deficiency - *beriberi*
+Disease caused by Vitamin D deficiency - *rickets*
+Disease caused by Vitamin A deficiency - *night blindness*
+Disease caused by iodine deficiency - *goitre*
+```
+## Match the following
+```
+orange, Vitamin C
+carrot , Vitamin A
+salt, iodine
+pulses, Vitamin B
+sunlight, Vitamin D
+```
 # Reference
 Orient blackswan publicationsn - new green tree - EVS class 5
 https://stmarysajmer.org/data/notes/Module%204/Class%205/Class%205th-%20Science%20chapter%205.pdf
