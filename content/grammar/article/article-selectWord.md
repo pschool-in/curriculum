@@ -31,6 +31,51 @@ We have *a* black dog.
 Preethi is *an* honest student.
 ```
 
+( in js file the below activity is included in article-2)
+
+# Identify - Article
+Select the article in the sentence.
+
+```
+There is *a* snake. 
+Mahi wants *an* iPad.
+Tia has *a* cat.
+I can see *a* blue car.
+This is *an* easy question.
+Piya is eating *an* apple.
+Somnath is reading *a* book.
+Karthik is sleeping on *the* sofa.
+Mihir has *an* old bike.
+My sister wants to be *an* astronaut.
+```
+
+```
+I had *an* egg for breakfast.
+My son wants to be *an* architect.
+My cousin is *a* pilot. 
+There is *an* orange in the fridge.
+Did you read *the* book I gave you?
+Swati is *a* nice girl.
+Manish was *the* first to arrive in class.
+I have *a* little white kitten.
+There is *a* beehive on neem tree.
+Aladdin had *a* magic lamp. 
+```
+
+```
+That's *an* easy question.
+She is *a* pretty girl. 
+Neil Armstrong was *an* American astronaut.
+This is exactly *the* shirt I was looking for.
+Mr.Iyer is *an* honorary member of our council.
+My grandfather was *the* village chief.
+*The* fruit market will be closed on Tuesday.
+He gave me *a* call in the evening.
+Reading is *a* good habit.
+Mahesh bought *a* new watch. 
+```
+
+
 ## multiple articles (1, 2, or 3)
 
 (article-2)
