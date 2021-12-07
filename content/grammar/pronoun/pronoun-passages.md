@@ -2,9 +2,7 @@
 
 (pronoun-1)
 
-Demonstrative pronouns represent nouns. It expresses the position and the time.
-It can be both singular and plural. These pronouns include this, that, these and
-those. Some examples are;
+Demonstrative pronouns represent nouns. It expresses the position and the time. It can be both singular and plural. These pronouns include this, that, these, and those. Some examples are;
 
 1. This is great.
 2. Is that yours?
@@ -15,8 +13,7 @@ those. Some examples are;
 
 (pronoun-1)
 
-A personal pronoun is a word that takes place of naming words. Personal pronouns
-are I, you, he, she, it, we, they, me, him, her, us, and them.
+A personal pronoun is a word that takes place of naming words. Personal pronouns are I, you, he, she, it, we, they, me, him, her, us, and them.
 
 For example: 
 
@@ -41,27 +38,22 @@ Examples:
 
 (pronoun-2)
 
-The words that are used to take the place of naming words (noun) or noun phrases
-are called pronouns.
+The words that are used to take the place of naming words (noun) or noun phrases are called pronouns.
 
-For example: He, she , it, we, you, me, him, they, them, his, her, etc.
+For example, He, she, it, we, you, me, him, they, them, his, her, etc.
 
 ## Personal Pronouns:
 
-The pronouns that refer to people, places, things directly are called as
-personal pronouns. Personal pronouns can be divided into two categories;
+The pronouns that refer to people, places, things directly are called personal pronouns. Personal pronouns can be divided into two categories;
 
 1.  Subject pronoun - I, we, you, she, he, it, they
 2.  Object pronoun - me, us, you, her, him, it, them
 
 A personal pronoun describes a person or a thing in the following ways:
 
-1. The pronouns _I_, _we_, _me_, denotes the 1st person that means the person
-   who speaks.
-2. The pronoun _you_ refers to the 2nd person, which means the person who is
-   spoken to.
-3. The pronoun _he_, _she_, _they_, _it_ refers to 3rd person, that means a
-   person or a thing which is spoken about.
+1. The pronouns _I_, _we_, _me_, denotes the 1st person that means the person who speaks.
+2. The pronoun _you_ refers to the 2nd person, which means the person who is spoken to.
+3. The pronoun _he_, _she_, _they_, _it_ refers to 3rd person, which means a person or a thing which is spoken about.
 
 Examples of personal pronouns:
 
@@ -75,9 +67,7 @@ Examples of personal pronouns:
 
 (pronoun-3)
 
-A pronoun that is used to indicate ownership or possession is called a
-possessive pronoun. In other words a possessive pronoun represents a noun and
-tells us who owns it. For example: his, yours, hers, mine, ours, theirs, etc.
+A pronoun that is used to indicate ownership or possession is called a possessive pronoun. In other words, a possessive pronoun represents a noun and tells us who owns it. For example his, yours, hers, mine, ours, theirs, etc.
 
 Examples in sentences:
 
@@ -91,17 +81,11 @@ Examples in sentences:
 
 (pronoun-4)
 
-The words ending in _-self_(singular) and _-selves_ (plural) that are used when
-the subject and the object of the sentence are the same are called _reflexive
-pronouns_. They tell us the _doer_ and the _receiver_ of the action is the same
-person.
+The words ending in _-self_(singular) and _-selves_ (plural) that are used when the subject and the object of the sentence are the same are called _reflexive pronouns_. They tell us the _doer_ and the _receiver_ of the action are the same person.
 
-In simple terms, reflexive pronouns tell us that someone is doing something on
-his/her own.
+In simple terms, reflexive pronouns tell us that someone is doing something on his/her own.
 
-Here in this sentence - she(doer) made herself(receiver) a cup of tea, the
-reflexive pronoun _herself_ refers back to _she_. That means a person who does
-the action and receives it is the same.
+Here in this sentence - she(doer) made herself(receiver) a cup of tea, the reflexive pronoun _herself_ refers back to _she_. That means a person who does the action and receives it is the same.
 
 Examples of reflexive pronouns in singular and plural forms are:
 
@@ -119,7 +103,7 @@ Sentence based examples of reflexive pronouns:
 
 # Emphatic Pronouns
 
-Emphatic pronouns are same as reflexive pronouns. They are used with a noun or a pronoun. Emphatic pronouns are used for emphasising on the noun or the pronoun it is used with. The examples of emphatic pronouns in the sentences are:
+Emphatic pronouns are the same as reflexive pronouns. They are used with a noun or a pronoun. Emphatic pronouns are used for emphasizing the noun or the pronoun it is used with. The examples of emphatic pronouns in the sentences are:
 1. She *herself* made the cake.
 2. You *yourself* should be sorry.
 3. He *himself* bought a watch.
@@ -141,13 +125,9 @@ In this sentence, if we remove the reflexive pronoun *herself*, the sentence wil
 
 (pronoun-5)
 
-We know that pronouns are the words used to replace one or more nouns. Apart
-from Personal, Possessive, Demonstrative and reflexive pronouns, we have another
-type of pronoun called interrogative pronoun.
+We know that pronouns are the words used to replace one or more nouns. Apart from Personal, Possessive, Demonstrative, and reflexive pronouns, we have another type of pronoun called interrogative pronoun.
 
-These are used to ask questions. The sentences with interrogative pronouns
-always end with question marks. There are five different types of
-Interrogative pronouns:
+These are used to ask questions. The sentences with interrogative pronouns always end with question marks. There are five different types of Interrogative pronouns:
 
 1. What
 2. Which
