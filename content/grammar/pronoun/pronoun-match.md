@@ -7,21 +7,23 @@ Reena, She
 Rahul, He
 Book, It
 Children, They
+Siya and Me, We
 ```
 
 ```
 Pencil, It
-Priya, Her
-Rahul, Him
-Rena and Sen, Them
-I, Me
+Ram and Shaam, They
+Richa, She
+Rony, He
+Me and Raj, Us
 ```
 
 ```
 Pen, It
-Ram and Shaam, They
-Richa, She
-Rony, He
+Priya, Her
+Rahul, Him
+Rena and Sen, Them
+I, Me
 ```
 
 (pronoun-2)
@@ -92,4 +94,22 @@ What, is this flavour called?
 Whose is, this trophy?
 What is, your score?
 Whose are, these folders?
+```
+
+(miscellaneous)
+
+Identify which pronouns are these. (title)
+
+```
+Me You, Personal
+This That, Demonstrative
+Mine Hers, Possessive
+Herself, Myself, Reflexive
+What whom, Interrogative
+
+He She, Personal
+These Those, Demonstrative
+Theirs Ours, Possessive
+Themselves Yourself, Emphatic
+Which Whose, Interrogative
 ```

@@ -1,6 +1,34 @@
 # Identify
 
-(pronoun-2)
+(pronoun-1)
+
+Classify (label)
+
+Identify whether these sentences have demonstrative pronouns or not. (title)
+
+```
+Yes:
+These are very yummy.
+This is the most comfortable.
+Those belong to Sakshi
+
+No:
+It is a flower.
+She has my book.
+My name is Rani.
+```
+
+```
+Yes:
+Do you like this?
+These are my friends.
+My mom gifted me that.
+
+No:
+My father is very good.
+The teacher went to school.
+I forgot to eat.
+```
 
 Identify if these sentences have personal pronouns or not.
 
@@ -134,6 +162,31 @@ You ride your bike by herself.
 
 ```
 
+(pronoun-4)
+
+Classify the below sentences as Reflexive and Emphatic Pronouns.
+
+Reflexive
+
+```
+He cuts *himself* while chopping the vegetables.
+I don't trust *myself* in tough times.
+We blame *ourselves* for the accident.
+He was speaking to *himself*.
+Be careful. You may hurt *yourself*.
+```
+
+Emphatic
+
+```
+She *herself* cooked the food.
+I *myself* saw him.
+He *himself* cut the cake.
+We will watch the game *ourselves*.
+We saw the President *himself*.
+```
+
+
 (pronoun-5)
 
 ## Noun or Pronoun
@@ -204,26 +257,43 @@ She herself baked a cake.
 He himself did it.
 ```
 
-(pronoun-5)
+(miscellaneous)
 
-Classify the below sentences as Reflexive and Emphatic Pronouns.
-
-Reflexive
-
+Identify the underlined pronoun in these sentences. (title)
 ```
-He cuts *himself* while chopping the vegetables.
-I don't trust *myself* in tough times.
-We blame *ourselves* for the accident.
-He was speaking to *himself*.
-Be careful. You may hurt *yourself*.
-```
+Possessive:
+This glass is *yours* and that is *mine*.
+What is *mine* is *yours*.
+The house across the street is *theirs*.
 
-Emphatic
+My laptop is not working. May I borrow *yours*?
+I forgot my book, so he lent me *his*.
+That dog is cute, but not as cute as *ours*.
 
-```
-She *herself* cooked the food.
-I *myself* saw him.
-He *himself* cut the cake.
-We will watch the game *ourselves*.
-We saw the President *himself*.
+Interrogative:
+*What* do you want for your birthday?
+*Which* of these is your shirt?
+To *whom* are you speaking?
+
+*Whose* socks are those?
+*Who* wants ice cream?
+*Which* of these people have you met?
+
+Reflexive:
+My Dad cut *himself* while shaving.
+I blame *myself* for being late.
+Sometimes, I talk to *myself*.
+
+He is talking to *himself* in front of the mirror.
+We need to believe in *ourselves*.
+I locked the house *myself*.
+
+Emphatic:
+She *herself* informed me.
+The city *itself* is usually dry.
+We *ourselves* will go to the market.
+
+You *yourself* can do your homework.
+They *themselves* prefer to eat in a reataurant.
+He saw the president *himself*.
 ```

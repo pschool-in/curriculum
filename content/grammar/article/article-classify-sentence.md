@@ -1,4 +1,4 @@
-Identify whether the sentences have articles or not.
+# Identify whether the sentences have articles or not.
 
 Has article
 
@@ -7,22 +7,21 @@ I would like to have an orange.
 Donkey is an animal.
 I bought an umbrella.
 
-Dog is a man's best friend.
-Sun rises in the east.
+I ate an apple pie yesterday.
+My mother is a doctor.
 Shannu is a nice boy.
 ```
 
 Doesn't have article
 
 ```
-Orange is fruit.
-Donkey is animal.
-Umbrella is useful thing.
+I could see stars at night.
+Do you speak Bengali?
+She arrived in Mumbai yesterday.
 
-Cross road carefully.
-Arya goes to missionary school.
-Read social textbook carefully.
-
+I eat chapatis everyday.
+December is quite cold.
+I go to school by car everyday.
 ```
 
 ## Select whether the sentence has a definite/indefinite/no article.
@@ -61,3 +60,56 @@ We love to eat Indian food.
 Milk is good for you.
 Men are always fond of cricket.
 ```
+
+
+# Correct or Incorrect
+Identify whether the article usage is right or wrong in the sentence.
+
+```
+right:
+I have a book.
+Look at the beach!
+I like the red T-shirt.
+
+wrong:
+Do you live in the Hyderabad?
+The London is big city.
+Who is an lady in a picture?
+```
+
+```
+right:
+Mahesh's father is an engineer.
+Rahul has a terrible headache.
+I work as an English teacher in a school.
+
+wrong:
+Do you still live in the Banglore?
+What did you have for a breakfast today?
+We live in an village.
+```
+
+```
+right:
+He is a friend of mine.
+A gun is a very dangerous weapon.
+I collected the postcard from the post-office.
+
+wrong:
+My friend gave me an basket of fruits.
+I saw a eagle near my farm.
+A owl was sitting on roof of my house.
+```
+
+```
+right:
+My dad came an hour ago.
+An octopus has eight tentacles.
+Nandana is the fastest swimmer in our group.
+
+wrong:
+I had a ice-cream after my dinner.
+My grandfather has a inkpot on his writing table.
+He is best player in the team.
+```
+

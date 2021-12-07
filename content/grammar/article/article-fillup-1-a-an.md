@@ -2,6 +2,33 @@
 
 (article-1)
 
+new 
+
+```
+That is *a (an)* pot.
+I saw *an (a)* ant hill in my garden.
+I have *an (a)* exam tomorrow morning.
+We went to *a (an)* movie yesterday evening.
+Me and my brother had *an (a)* ice-cream.
+I need *a (an)* bowl of soup.
+I have *a (an)* bag of chocolates.
+I want to eat *a (an)* mango.
+I have *an (a)* idea for our project work.
+```
+
+```
+The tiger is *a (an)* wild animal.
+Kavya is *a (an)* hardworking student.
+Is that *an (a)* old dress you are wearing?
+This is *an (a)* eraser.
+M.S.Dhoni is *a (an)* cricketer.
+Mr. Ramesh is *a (an)* teacher.
+Ginger is *a (an)* lazy dog.
+He can ride *a (an)* bike.
+There is *an (a)* insect under the pillow.
+I bought *a (an)* new lunch box today.
+```
+
 ```
 There is *a(an)* dog in the backyard.
 I see *an (a)* owl on the tree!
@@ -15,13 +42,14 @@ Nitya is *an (a)* Indian classical singer.
 He is sitting on *a (an)* sofa.
 ```
 
+article -2 (it can be included)
 ```
 Meera is *an (a)* intelligent student.
 Dad wants me to wear *a (an)* cap.
 Reema has *a(an)* jewelry box.
 We put up *a (an)* Christmas tree for holidays.
 Grandma read *a (an)* story to all my friends.
-I saw *an (a)* ostrich in zoo.
+I saw *an (a)* ostrich in the zoo.
 There is *a (an)* hospital near my home.
 I have *a (an)* new pencil.
 There is *a (an)* big window in my room.
@@ -40,6 +68,8 @@ It is *an (a)* ancient fort in Hyderabad.
 I am *a (an)* pilot.
 Rajeev is reading *a (an)* magazine.
 ```
+
+article-3 ( it can be included)
 
 ```
 Rakesh's father is *a (an)* lawyer.
@@ -79,3 +109,5 @@ My uncle is *an (a)* engineer.
 I bought *a (an)* pair of gloves.
 Gold is *a (an)* precious ornament.
 ```
+
+

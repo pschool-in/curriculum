@@ -60,3 +60,25 @@ Lohit finished the project by *himself*.
 The dog let *itself* into our room.
 
 ```
+
+(miscellaneous)
+
+```
+I *myself* did it.
+*Whose* purse is this?
+That table is *ours*.
+None of *these* options are right.
+*You* must stop lying now.
+
+*That* is an amazing shop.
+You *yourself* can complete this.
+*He* climbed the tree very fast.
+I know this glass is *yours*.
+*What* are we going to do?
+
+The dog is *hers*.
+*I* want to read this book.
+We will solve this problem *ourselves*.
+*Which* one is the right answer?
+There is no end to *this*.
+```

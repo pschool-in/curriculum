@@ -73,7 +73,7 @@ He ate *an (a, the)* apple.
 I will meet *the (a, an)* President today.
 The mangoes cost thirty rupees *a (an, the)* piece.
 I have *an (a, the)* exam today.
-*A (an, the)* dog is barking.
+*The (A, An)* dog is barking.
 She goes to temple in *the (a, an)* mornings.
 Abhinav is *the (a, an)* best singer in the class.
 *The (A, An)* camel is the ship of the desert.
@@ -162,53 +162,43 @@ Adi's brother bought *a (an, the)* new bicycle.
 Are you coming to *the (a, an)* library tomorrow?
 ```
 
-## Small Passages
 
-```
-I live in Hyderabad. It is *a* big city. *The* Charminar is *a* famous monument in our city.
-*The* Birla Planetarium is *the* most frequently visited place by many students every year.
-Nehru Zoological park is *a* famous zoo in Hyderabad which consists of different kinds of animals.
-```
-
-```
-My neighborhood is *a* very nice place. There is *a* big supermarket at *the* end of *the* road.
-There is also *a* small park near my home. Also we have *a* health center in *the* colony.
-In addition, there is *a* preschool where my little sister studies.
-```
-
-```
-Once upon *a* time *a* women had *an* only son whose name was Aladdin.
-One day as he was looking for wild figs out in the desert, he came across *a* dungeon.
-Aladdin went in to *the* dungeon and found *a* magic lamp.
-When Aladdin rubbed *the* magic lamp *a* genie arrived and asked him to wish for something.
-```
 
 ## Complete the Story
 
 ```
-Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree. *A (the, an)* cheerful mouse came there and saw *the (a, an)* lion. *The (a, an)* mouse climbed onto the body of the lion and started playing. He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse. *The (a, an)* mouse trembled in fear. The lion took pity on it and let it go. The mouse thanked and promised the lion that it would help in times of need. One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (a, an)* poor lion roared for help. The mouse heard the cries and came there and cut *the (a, an)* net with its sharp teeth. The lion came out and they became good friends.
+Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree. 
+*A (The, An)* cheerful mouse came there and saw *the (a, an)* lion. *The (A, An)* mouse climbed onto the body of the lion and started playing. 
+He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse. 
+*The (A, An)* mouse trembled in fear. The lion took pity on it and let it go. 
+The mouse thanked and promised the lion that it would help in times of need. 
+One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (A, An)* poor lion roared for help. 
+The mouse heard the cries and came there and cut *the (a, an)* net with its sharp teeth. The lion came out and they became good friends.
 ```
 
 ```
-One afternoon *a (the, an)* fox was walking through *the (a, an)* forest and spotted *a (the, an)* bunch of grapes hanging from over *a (an, the)* lofty branch. “Just *the (a, an)* right thing to quench my thirst,” he thought. Taking a few steps back, *the (a, an)* fox jumped and just missed *the (a, an)* hanging grapes. Again *the (a, an)* fox took a few paces back and tried to reach them but still failed.After *an (a, the)* hour finally *the (a, an)* fox gave up and turned up his nose and said, “They’re probably sour anyway,” and walked away.
+One afternoon *a (the, an)* fox was walking through *the (a, an)* forest and spotted *a (the, an)* bunch of grapes hanging from over *a (an, the)* lofty branch. 
+“Just *the (a, an)* right thing to quench my thirst,” he thought. Taking a few steps back, *the (a, an)* fox jumped and just missed *the (a, an)* hanging grapes.
+Again *the (a, an)* fox took a few paces back and tried to reach them but still failed.
+After *an (a, the)* hour finally *the (a, an)* fox gave up and turned up his nose and said, “They’re probably sour anyway,” and walked away.
 ```
 
 ```
-One hot day, *a (an, the)* thirsty crow flew all over the fields looking for water. For a long time, he could not find any. He felt very weak, almost lost all hope. Suddenly, he saw *a (an, the)* water jug below *the (a, an)* tree. He flew straight down to see if there was any water inside. Yay! he could see some water inside the jug! *The (a, an)* crow tried to push his head into the jug. Sadly, he found that *the (a, an)* neck of the jug was too narrow. Then he tried to push *the (a, an)* jug to tilt for the water to flow out, but the jug was too heavy.
-*The (a, an)* crow thought hard for a while. Then, looking around it, he saw some pebbles. He suddenly had *a (an, the)* good idea.
+One hot day, *a (an, the)* thirsty crow flew all over the fields looking for water. For a long time, he could not find any. He felt very weak, and almost lost all hope. Suddenly, he saw *a (an, the)* water jug below *the (a, an)* tree. He flew straight down to see if there was any water inside. Yay! he could see some water inside the jug! *The (A, An)* crow tried to push his head into the jug. Sadly, he found that *the (a, an)* neck of the jug was too narrow. Then he tried to push *the (a, an)* jug to tilt for the water to flow out, but the jug was too heavy.
+*The (A, An)* crow thought hard for a while. Then, looking around it, he saw some pebbles. He suddenly had *a (an, the)* good idea.
 He started picking up *the (a, an)* pebbles one by one, dropping each into the jug. As more and more pebbles filled *the (a, an)* jug, the water level kept rising. Soon it was high enough for *the (a, an)* crow to drink. His plan had worked!
 ```
 
 ```
 Once upon a time there was *an (a, the)* old farmer who had a horse and a donkey.
 He was fond of both of them but he took better care of *the (a, an)* horse.
-*The (A, An)* donkey always carried heavy load to the market.
-One day, the donkey moaned and said: I am so weak! Couldn't you take some of my load.
+*The (A, An)* donkey always carried a heavy load to the market.
+One day, the donkey moaned and said: I am so weak! Could you take some of my load?
 *The (A, An)* horse said no, I won't carry your load. So, the poor donkey carried on.
 But soon he had to stop again and said: please help me or I will never reach *the (a, an)* market alive.
 But *the (a, an)* horse replied: Rubbish! Come on, you will manage this time too.
-After *a (the, an)* few steps the donkey dropped dead on the ground.
-*The (a, an)* master saw donkey dead and felt vey sad and later transferred all *the (a, an)* load to the horse.
+After *a (the, an)* few steps later the donkey dropped dead on the ground.
+*The (A, An)* master saw donkey dead and felt very sad and later transferred all *the (a, an)* load to the horse.
 ```
 
 ```

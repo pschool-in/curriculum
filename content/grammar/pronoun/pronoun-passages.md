@@ -18,9 +18,13 @@ those. Some examples are;
 A personal pronoun is a word that takes place of naming words. Personal pronouns
 are I, you, he, she, it, we, they, me, him, her, us, and them.
 
-For example: _Rahul_ is a good boy. 'Rahul' is a noun in this sentence. So, it
-can be replaced with the personal pronoun 'he'. So this sentence can also be
-written as, _He_ is a good boy.
+For example: 
+
+_Rahul_ is a good boy.
+
+'Rahul' is a noun in this sentence. So, it can be replaced with the personal pronoun 'he'. So this sentence can also be written as, 
+
+_He_ is a good boy.
 
 Examples:
 
@@ -45,7 +49,7 @@ For example: He, she , it, we, you, me, him, they, them, his, her, etc.
 ## Personal Pronouns:
 
 The pronouns that refer to people, places, things directly are called as
-personal pronouns. Personal pronouns can be divided into two categories
+personal pronouns. Personal pronouns can be divided into two categories;
 
 1.  Subject pronoun - I, we, you, she, he, it, they
 2.  Object pronoun - me, us, you, her, him, it, them
@@ -111,7 +115,27 @@ Sentence based examples of reflexive pronouns:
 2. They are doing the homework by _themselves_.
 3. Don't hurt _yourselves_ while playing.
 4. Rekha cleaned her room by _herself_.
-5. He went to the market by*himself*.
+5. He went to the market by _himself_.
+
+# Emphatic Pronouns
+
+Emphatic pronouns are same as reflexive pronouns. They are used with a noun or a pronoun. Emphatic pronouns are used for emphasising on the noun or the pronoun it is used with. The examples of emphatic pronouns in the sentences are:
+1. She *herself* made the cake.
+2. You *yourself* should be sorry.
+3. He *himself* bought a watch.
+4. I *myself* cleaned the window.
+5. The cat drank the milk *itself*.
+6. I saw him leave *myself*.
+
+If we remove the emphatic pronouns from the sentence, the sentence will still be meaningful. But if we remove a reflexive pronoun from the sentence, the sentence will not be meaningful. For example;
+1. He *himself* played the match.
+In this sentence, if we remove the emphatic pronoun *himself*, the sentence will still be meaningful, i.e.,
+'He played the match.'
+
+2. She bought a new toy for *herself*.
+In this sentence, if we remove the reflexive pronoun *herself*, the sentence will not be meaningful, i.e.,
+'She bought a new toy for.'
+(This sentence is not complete.)
 
 # Interrogative Pronoun
 
@@ -122,7 +146,7 @@ from Personal, Possessive, Demonstrative and reflexive pronouns, we have another
 type of pronoun called interrogative pronoun.
 
 These are used to ask questions. The sentences with interrogative pronouns
-always end up with question marks. There are five different types of
+always end with question marks. There are five different types of
 Interrogative pronouns:
 
 1. What
@@ -138,3 +162,4 @@ Some examples of interrogative pronouns:
 3. Who did this?
 4. Whom did you meet yesterday?
 5. Whose bike is this?
+

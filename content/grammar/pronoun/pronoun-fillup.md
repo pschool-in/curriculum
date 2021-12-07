@@ -348,3 +348,23 @@ Don't walk fast. *We (Us)* feel tired.
 Every Sunday, we meet *them (they)* at the sea shore.
 
 ```
+
+(miscellaneous)
+
+```
+He *himself (herself)* attended the class.
+*Where (Who)* are the apples?
+I saw a friend of *yours (yourself)* at the party.
+*We (Us)* enjoyed hearing *her (herself)* sing.
+The dog fetch the stick *itself (himself)*.
+*These (Them)* shoes are very comfortable.
+She asked *what (when)* we wanted for lunch.
+The building *itself (herself)* is very tall.
+Her writing is so much better than *mine (my)*.
+*You (Yours)* are the best player in the team.
+*Who (Whom)* will will  the championship?
+Is *that (them)* bag *yours (your)*.
+*They (Them)* are coming from America.
+This book is *mine (my)* not *yours (your)*.
+*That (You)* is such an interesting book.
+```
