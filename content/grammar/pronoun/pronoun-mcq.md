@@ -1,5 +1,6 @@
 (pronoun-1)
 
+Choose the correct option. (title)
 ```
 {
     qText: 'Are you a cousin of Meera?',
@@ -12,7 +13,7 @@
     Yes, they do.`
 },
 {
-    qText: 'How many pets does Shiva have?',
+    qText: 'How many pets do Shiva have?',
     options: `He has two parrots.
     They have two parrots.`
 },
