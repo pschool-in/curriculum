@@ -166,3 +166,67 @@ He got hurt *because (if, so)* he fell down.
 I will either wash clothes *or (nor, and)* do the dishes.
 I slept *and (but, or)* skipped my homework.
 ```
+
+(conjunction-1)
+
+## And, Or, But
+
+Click on the blanks and pick the correct preposition.
+
+```
+I wanted to wash my shoes, *but* I forgot to do it.
+I bought a sandwich *and* coffee for lunch.
+Here name is Priya *or* Maya.
+She travels abroad once *or* twice a year.
+She has a lot of talent, *but* she is very lazy.
+My mom is either in kitchen *or* in garden.
+I spent an hour *or* so cleaning my room.
+He switched off the light *and* went to bed.
+He has a ball *but* not a bat.
+Please bring a paper *and* a pencil.
+```
+
+(conjunction-4)
+
+## So vs Because
+
+Click on the blanks and pick the correct conjunction.
+
+```
+I cannot go out *because* it is raining.
+He missed the bus *because* he came late.
+Priya was sick *so* she consulted a doctor.
+He came late *so* he missed the bus.
+She had no money *so* she did not buy the book.
+She did not buy the book *because* she had no money.
+The cat was hungry *so* it ate a fish.
+I was on leave *because* I had a headache.
+He was afraid of the dog *so* he ran away.
+She went home early *because* she had to attend a function.
+```
+
+```
+The rat ran fast *because* a cat was chasing it.
+He drank cold water *so* he got cough.
+He missed his purse *so* he was sad.
+I was late *because* there was a heavy traffic.
+He lost the key *so* he couldn't open his room.
+I worked hard *so* I got promotion.
+Tom left the class *because* he was sick.
+The classroom was noisy *because* the teacher was away.
+I missed the bus *so* I took a taxi.
+He was angry *because* I made fun of him.
+```
+
+```
+She didn't have breakfast, *so* she is feeling hungry.
+His father is a rich man, *so* he can buy expensive dress.
+We didn't go to the party *because* they didn't invite us.
+They weather is hot *so* the kids are swimming.
+The door was open *so* I closed it.
+We didn't swim *because* the water wasn't clean.
+I didn't complete the homework *because* I forgot about it.
+She doesn't like him *because* he isn't honest.
+The water wasn't clean *so* we didn't swim.
+My mom quit her job *so* she is looking for a new job.
+```

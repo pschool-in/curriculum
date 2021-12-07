@@ -43,3 +43,48 @@ We have a dog *but* I also want a cat.
 Mohan is a smart boy *but* he is not good at sports.
 I like reading books *and* eating vegetables.
 ```
+
+(conjunction-1)
+
+## Find Conjunction
+
+Click on the word in the sentence, which is a conjunction.
+
+```
+I love to swim *and* play tennis.
+We may go to the movies *or* to the theme park.
+John *and* Peter are good basketball players.
+I have a raincoat *but* I forgot to bring it.
+I was on leave *because* I had a headache.
+He was afraid of the dog *so* he ran away.
+Don't open your mouth *unless* I ask you to speak.
+Let me know *if* you want to go.
+She is short *whereas* her brother is tall.
+I ran fast, *yet* I came last.
+```
+
+```
+We go to the nearby park *whenever* my cousins visit us.
+She is rich *but* unhappy.
+Work hard *or* you will fail.
+He did not study well *because* he was lazy.
+Children like to play cricket *or* football.
+We cannot go home *unless* we get the permission.
+I can stay here *until* you ask me to leave.
+Please do not call me *unless* it is an emergency.
+He wears a hat *whenever* he goes outside.
+Dad goes fishing *whenever* he's free.
+```
+
+```
+I am glad to help you *whenever* you need me.
+I usually don't like movies *though* I like cartoons.
+You can eat an apple *if* you get hungry before dinner.
+I’m staying home *since* it started raining.
+I liked him *so* I helped him.
+Water *and* oil do not mix.
+*Before* we left home, I had my breakfast.
+We reached home *before* the rain came.
+*As* I opened my eyes, I saw a strange animal.
+I waited for him *until* he arrived.
+```
