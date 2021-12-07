@@ -96,9 +96,61 @@ In addition, there is *a* preschool where my little sister studies.
 Once upon *a* time *a* women had *an* only son whose name was Aladdin.
 One day as he was looking for wild figs out in the desert, he came across *a* dungeon.
 Aladdin went in to *the* dungeon and found *a* magic lamp.
-When Aladdin rubbed *the* magic lamp *a* genie arrived and asked him to wish for something.
+When Aladdin rubbed *the* magic lamp *a* Genie arrived and asked him to wish for something.
 ```
+
+```
+*A* dog is *a* pet animal and is *the* most obedient animal. There are different kinds of dogs in *the* world. 
+Kids love to play with dogs in *the* playground. It is *a* very playful animal. 
+```
+
+```
+I have *a* dog and *a* parrot for pets. *The* dog is always quiet but *the* parrot is very noisy! 
+I feed *the* parrot with *a* lot of fresh vegetables and fruits. *The* dog eats pedigree and curd rice.
+```
+
+
 
 ## simple passages with 5 to 10 articles.
 
 (article-4)
+
+
+```
+Once upon *a* time there was *a* little girl called Meera. She lived in *a* village with her parents.
+*The* village was near *a* sea. Meera had *an* aunt who lived near her house. 
+One day *a* man came to *the* village with *an* elephant. He took *the* children for *a* ride on *the* elephant. 
+*The* children enjoyed *the* ride and had lots of fun.
+```
+
+```
+Abhi and his dad went fishing one day. Abhi took *the* fishing rod and his dad took some worms. 
+They got on *a* small boat and set for sail. Abhi's dad drove *the* boat. 
+He knows where to find *the* fish. Abhi liked *the* boat ride. 
+Abhi put *a* worm on *the* hook of *the* fishing rod and put it in water. 
+He felt *the* pole pull but when he reeled back *the* rod it was not *a* fish but *an* old can.
+```
+
+```
+Ram went on *a* trip with his parents to Nepal. This was Ram's first plane trip. They took *a* cab to *the* airport. 
+Ram got down from *the* cab and was amazed to see *the* big and beautiful airport. 
+Ram boarded *the* plane and found his seat and buckled his seat belt.
+*The* plane's engines rumbled and roared! *The* plane moved faster and faster and then-whoosh!
+On *the* ground, cars and houses looked like toys. Ram had great fun on this trip.
+```
+
+```
+One day *a* hunter set *a* net to catch *the* birds. He placed grains and rice over *the* net. 
+After some time *a* flock of pigeons started eating *the* grains and got caught in *the* net. 
+They tried to free themselves but could not. Then their leader asked them to fly together up in *the* sky. 
+So, they flew along with *the* net. They reached their friend's home which was *a* mouse.
+*The* mouse cut *the* net and freed the pigeons.
+```
+
+```
+Once upon *a* time there lived two friends. One day they were crossing *the* jungle. 
+After sometime they found *a* giant bear coming towards them. 
+Then, one of *the* friend quickly climbed *the* tree but *the* other friend did not know how to climb *a* tree. 
+So he lay on *the* ground holding his breath. *The* bear approached *the* friend and sniffed him. 
+After sometime *the* bear left thinking *the* man was dead.
+```
