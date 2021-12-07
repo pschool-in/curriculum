@@ -1,20 +1,20 @@
 # Articles - Introduction
 
-**a**, **an** and **the** are known as articles. They are used in front on
+**a**, **an** and **the** are known as articles. They are used in front of
 naming words (nouns).
 
 **an** is used with the word that begins with a vowel sound. We already know
-that **a**, **e**, **i**, **o** and **u** are called vowels. The remaining 21
+that **a**, **e**, **i**, **o**, and **u** are called vowels. The remaining 21
 letters are called consonants.
 
-an apple, an animal, an egg, an eagle, an ice-cream, an owl, an umbrella
+an apple, an animal, an egg, an eagle, an ice cream, an owl, an umbrella
 
 **a** is used with the word that begins with a consonant sound.
 
 a bag, a bird, a cat, a cup, a dog, a pen, a tree
 
 Though the below words begin with **u**, the beginning sound is **you**. So it
-is not considered as a vowel sound.
+is not considered a vowel sound.
 
 a universe, a uniform
 
@@ -23,13 +23,13 @@ initial sound of the word is a vowel.
 
 an hour, an honest
 
-**a** and **an** are used to refer any one of the things. But **the** is used to
+**a** and **an** are used to refer to any one of the things. But **the** is used to
 refer to a specific thing.
 
 I went to a doctor. The doctor was very kind.
 
 In the first sentence we use **a** before the word **doctor** because she is one
-of the many doctor. But in the second sentence we use **the** because we are
+of the many doctors. But in the second sentence, we use **the** because we are
 speaking about a particular doctor whom we visited.
 
 
@@ -42,7 +42,7 @@ article (a/an).
 
 The indefinite articles "a/an" are generally used to mention some person or
 thing. These articles do not specify a particular person or a thing. "A" and
-"An" are used to introduce noun or naming words and are also used to mention
+"An" is used to introduce a noun or naming words and are also used to mention
 singular countable nouns.
 
 "a" is used before singular nouns beginning with consonant sounds.
@@ -51,7 +51,7 @@ singular countable nouns.
 
 ## Definite article:
 
-We use definite article "the" when we are talking about a specific person or a
+We use the definite article "the" when we are talking about a specific person or a
 thing.
 
 "the" is used for countable and uncountable nouns/singular and plural nouns.
@@ -101,15 +101,15 @@ To be able to understand the correct usage of articles in the text and also to u
 Reading notes
 Articles "a", "an" and "the" are commonly used before nouns.
 
-Articles "a/an" are called indefinite article and "the" is known as definite article.
+Articles "a/an" is called the indefinite article and "the" is known as a definite article.
 
 "a" is used before singular nouns beginning with consonant sounds.
 
-"an" is used before the nouns starting with sounds "a,e,i,o,u".
+"an" is used before the nouns starting with sounds "a, e, I, o, u".
 
 "the" is used before the singular and plural nouns and it is used when people speak of a person, a place or a thing already mentioned, or things or persons in a situation.
 
-Quantifiers: The words that are used before nouns to imply the quantity of a noun are called quantifiers. Examples are some, any, many, much, plenty of, a lot of and a few. These can be used for both countable and uncountable nouns.
+Quantifiers: The words that are used before nouns to imply the quantity of a noun are called quantifiers. Examples are some, any, many, much, plenty of, a lot of, and a few. These can be used for both countable and uncountable nouns.
 
 Zero articles: In some situations, we do not use any articles at all, such a situation is called a "zero article". When we are talking about something in general or when we mention a city or country, we do not use articles.
 
@@ -119,7 +119,8 @@ Zero articles: In some situations, we do not use any articles at all, such a sit
 ## Reading Notes: Letters with dual roles/indefinite articles with quantifiers
 
 Use of "a/an"
-It's understood that "a" is used for words beginning with consonant sound while "an" is used before the nouns beginning with vowel sounds. But for certain words like univeristy, unicorn, European, union, etc we use the article "a" as they sound as "you" i.e. they begin with a consonant sound and not with vowel sound.
+It's understood that "a" is used for words beginning with consonant sounds while "an" is used before the nouns beginning with vowel sounds. 
+But for certain words like university, unicorn, European, union, etc we use the article "a" as they sound as "you" i.e. they begin with a consonant sound and not with vowel sound.
 
 Similarly for words like hour, honest, heir, MBA, FIR, etc article "an" is used as they begin with a vowel sound, even though they start with consonants.
 
@@ -144,7 +145,7 @@ Names of the days/Months- Saturday is a week off. (not The Saturday)
 Names of materials- We wear clothes made of cotton. ( not the cotton)
 
 # Quantifiers:
-We use indefinite article to certain quantifiers like - "few", "little" to show that the quantity of the thing is small, but it adds lot of value or is of great importance. When little and few are used, it is essential to consider whether the noun referred to is countable or not. The quantifier ‘a little’ (with and without the article ‘a’) is needed for small quantities with uncountable nouns. ‘A few’ (with and without the article ‘a’), on the other hand, requires countable nouns in the plural if the speaker wants to express a small number.
+We use the indefinite article to certain quantifiers like - "few", "little" to show that the quantity of the thing is small, but it adds a lot of value or is of great importance. When little and few are used, it is essential to consider whether the noun referred to is countable or not. The quantifier ‘a little’ (with and without the article ‘a’) is needed for small quantities with uncountable nouns. ‘A few’ (with and without the article ‘a’), on the other hand, requires countable nouns in the plural if the speaker wants to express a small number.
 
 For example:
 
@@ -152,12 +153,12 @@ Mrudula was never lonely, she made " a few" good friends while she was in univer
 
 My grandfather needs "a little" help with sorting his medicines.
 
-Similarly, indefinite article is also used for words like "few", "little" when words like "only" or "just" are used.
+Similarly, the indefinite article is also used for words like "few", "little" when words like "only" or "just" are used.
 
 For example:
 
 Ramesh made "just a few" mistakes in his test.
-There is "only a little" icecream left in the fridge.
+There is "only a little" ice cream left in the fridge.
 
 
 
