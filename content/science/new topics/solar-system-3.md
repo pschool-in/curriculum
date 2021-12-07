@@ -5,7 +5,7 @@
 ## Sun, Moon and Stars - Reading
 ### Sun
 The Sun is located in the center of the Solar System. It is a hot ball of glowing gases. It is the most important source of energy for life on Earth. Life on Earth depends on light and heat from the Sun.
-The solar system also contains planets, comets, and asteroids. They all orbit, or travel around, the Sun.  The Sun has a diameter of around 1.39 million kilometers / 864,000 miles. This is about 109 times bigger than Earth’s diameter.
+The solar system also contains planets, comets, and asteroids. They all orbit, or travel around, the Sun. The Sun has a diameter of around 1.39 million kilometers / 864,000 miles. This is about 109 times bigger than Earth’s diameter.
 
 ### Moon
 In the solar system, there are certain other celestial bodies that move around the planets. These are called the natural satellites. As the moon moves around the Earth, it is called the earth's natural satellite. Like earth, other planets also have satellites. Mars has two moons, Jupiter and Saturn have more than 50 moons each, Uranus has 27 moons and Neptune has 13 moons.
@@ -51,6 +51,22 @@ Sun is also a star.
 False:
 Moon is one of the planets of our solar system.
 Venus has 50 moons.
+```
+## Match the following
+```
+orion, constellation
+2 moons, mars
+27 moons, uranus
+13 monns, neptune
+50 moons, jupiter
+```
+## Name the following
+```
+Places built to educate people about space and objects in the space - *Planeterium*
+Holes on the surface of the moon - *craters*
+Pattern formed by stars in the sky - *constellation*
+Planet with 13 moons - *Neptune*
+Planet with 50 moons - *Saturn*
 ```
 # Reference
 Madhubun Publications - Science Class 3 Semester 2 - Hues
