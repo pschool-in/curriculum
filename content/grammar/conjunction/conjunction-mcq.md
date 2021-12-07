@@ -21,7 +21,7 @@ Choose the most appropriate option with the correct conjunction.
 },
 {
     qText: 'We can either go to movie _____',
-    options: 'or to the cafe, nor to the movie, if to the mall'
+    options: 'or to the cafe, nor the movie, if to the mall'
 },
 {
     qText: `She likes jogging, ____`,
