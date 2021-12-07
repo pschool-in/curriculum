@@ -39,7 +39,7 @@ I do not like *-* basketball.
 Shall we play *a* game of chess?
 My grandma was sick. We took her to *-* hospital. Now she is good.
 We saw *an* elephant in the zoo.
-Do you eat *-* rice everyday?
+Do you eat *-* rice every day?
 My brother does not like *-* chicken.
 ```
 
@@ -52,7 +52,7 @@ Do you know how to play *the (an)* keyboard?
 This is my best friend * - (the)* Vamshi.
 My mother is *a (the)* doctor.
 My brother is *an (-)* author.
-Cow is *a (an)* domestic animal.
+The Cow is *a (an)* domestic animal.
 Riyaan wanted *a (an)* new watch for his birthday.
 All students must obey *the (-)* rules of the school.
 My mom is *an (a)* MBA graduate.

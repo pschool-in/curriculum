@@ -6,18 +6,18 @@
 Picasso was *an* artist.
 He is *an* honest man.
 I study at *a* small university in London.
-We used to live in *the* city centre.
+We used to live in *the* city center.
 Are you *a* teacher?
 It takes me *an* hour to get to work.
 My cousin is *a* surgeon.
 It looks like it's going to rain. Do you have *an* umbrella?
-I have *a* one year old daughter.
+I have *a* one-year-old daughter.
 Singer Justin comes from *an* ordinary family.
 ```
 
 ```
 These days Angel enjoys *the* life of *a* Hollywood film star.
-My brother lives in *an* apartment in *the* city centre.
+My brother lives in *an* apartment in *the* city center.
 School children in *the* UK have to wear *a* uniform.
 Is there *a* petrol station near here?
 It is very near here. Go straight on and it is on *the* left.
@@ -37,7 +37,7 @@ Please inform me about *the* next exam.
 Gold is *a* precious metal.
 She returned after *an* hour.
 Please tell me *the* directions to the beach.
-There is *an* instituiton for *the* blind in this city.
+There is *an* institution for *the* blind in this city.
 ```
 
 ```
@@ -60,9 +60,9 @@ I met *a* boy in the store.
 Lisa put *an* orange on her yogurt.
 My mom likes making *the* cake from scratch.
 The dog caught *a* stick.
-I saw *an* owl at the garden.
+I saw *an* owl in the garden.
 I quickly ate *the* cookies.
-Egg has *an* oval shape.
+The egg has *an* oval shape.
 He carried *an* axe.
 ```
 
@@ -74,7 +74,7 @@ I will meet *the (a, an)* President today.
 The mangoes cost thirty rupees *a (an, the)* piece.
 I have *an (a, the)* exam today.
 *The (A, An)* dog is barking.
-She goes to temple in *the (a, an)* mornings.
+She goes to the temple in *the (a, an)* mornings.
 Abhinav is *the (a, an)* best singer in the class.
 *The (A, An)* camel is the ship of the desert.
 Aarav is sleeping on *the (a, an)* grey sofa.
@@ -117,9 +117,9 @@ I have *a (an, the)* pet cat.
 My dad bought me *an (a, the)* iPad yesterday.
 Mrs.Bhavani is *the (a, an)* principal of our college.
 *The(A,An)* Ganges flows from *the (a, an)* Himalayas.
-There is *an (a, the)* eucalyptus tree near my building.
+There is *a (an, the)* eucalyptus tree near my building.
 Manvi is *a (an, the)* small village in Karnataka.
-Mohan has *an (a, the)* interest in singing.
+I like to have *a (the, an)* cup of coffee.
 *The (An, A)* building on the corner is under construction.
 ```
 
@@ -140,7 +140,7 @@ There is *an (a, the)* umbrella in my bag.
 He is *an (a, the)* honest man.
 His wife is *an (a, the)* American.
 My brother acted in *a (an, the)* movie.
-*The (A, An)* laptop that I bought is not very expensive.
+*The (A, An)* laptop that I have is not very expensive.
 Rohit bought *a (an, the)* cup of tea.
 Copper is *an (a, the)* useful metal.
 He gave me *an (a, the)* inkpot and *a (an, the)* pen.
@@ -184,13 +184,13 @@ After *an (a, the)* hour finally *the (a, an)* fox gave up and turned up his nos
 ```
 
 ```
-One hot day, *a (an, the)* thirsty crow flew all over the fields looking for water. For a long time, he could not find any. He felt very weak, and almost lost all hope. Suddenly, he saw *a (an, the)* water jug below *the (a, an)* tree. He flew straight down to see if there was any water inside. Yay! he could see some water inside the jug! *The (A, An)* crow tried to push his head into the jug. Sadly, he found that *the (a, an)* neck of the jug was too narrow. Then he tried to push *the (a, an)* jug to tilt for the water to flow out, but the jug was too heavy.
+One hot day, *a (an, the)* thirsty crow flew all over the fields looking for water. For a long time, he could not find any. He felt very weak and almost lost all hope. Suddenly, he saw *a (an, the)* water jug below *the (a, an)* tree. He flew straight down to see if there was any water inside. Yay! he could see some water inside the jug! *The (A, An)* crow tried to push his head into the jug. Sadly, he found that *the (a, an)* neck of the jug was too narrow. Then he tried to push *the (a, an)* jug to tilt for the water to flow out, but the jug was too heavy.
 *The (A, An)* crow thought hard for a while. Then, looking around it, he saw some pebbles. He suddenly had *a (an, the)* good idea.
 He started picking up *the (a, an)* pebbles one by one, dropping each into the jug. As more and more pebbles filled *the (a, an)* jug, the water level kept rising. Soon it was high enough for *the (a, an)* crow to drink. His plan had worked!
 ```
 
 ```
-Once upon a time there was *an (a, the)* old farmer who had a horse and a donkey.
+Once upon a time, there was *an (a, the)* old farmer who had a horse and a donkey.
 He was fond of both of them but he took better care of *the (a, an)* horse.
 *The (A, An)* donkey always carried a heavy load to the market.
 One day, the donkey moaned and said: I am so weak! Could you take some of my load?
@@ -198,18 +198,18 @@ One day, the donkey moaned and said: I am so weak! Could you take some of my loa
 But soon he had to stop again and said: please help me or I will never reach *the (a, an)* market alive.
 But *the (a, an)* horse replied: Rubbish! Come on, you will manage this time too.
 After *a (the, an)* few steps later the donkey dropped dead on the ground.
-*The (A, An)* master saw donkey dead and felt very sad and later transferred all *the (a, an)* load to the horse.
+*The (A, An)* master saw the donkey dead and felt very sad. Later he transferred all *the (a, an)* load onto the horse.
 ```
 
 ```
 One night Manoj and his friend Suresh were travelling by train.
-They spoke for sometime and after *a (the, an)* while they switched off *the (a, an)* light and fell asleep.
+They spoke for some time and after *a (the, an)* while they switched off *the (a, an)* light and fell asleep.
 Soon, *a (an, the)* thief entered the compartment.
 He saw Manoj's mobile lying beside him.
 *The (A, An)* thief carefully took it away without disturbing him. *The (A, An)* next morning Suresh wanted to use Manoj's mobile.
-He asked, "Can I use your mobile, Manoj?". Sure, replied suresh.
+He asked, "Can I use your mobile, Manoj?". Sure, replied Suresh.
 When he searched, he could not find his mobile anywhere. He said, "I think someone stole it".
-Oh! I am so sorry, said suresh. But Manoj smiled and said it is ok, as *the (a, an)* thief will not be able to use it as I have switched it off.
+Oh! I am so sorry, said Suresh. But Manoj smiled and said it is ok, as *the (a, an)* thief will not be able to use it as I have switched it off.
 ```
 
 Complete the letter
@@ -218,8 +218,8 @@ Complete the letter
 Dear Neha,
 I am fine and hope to hear the same from you. Our entire class went to *a (an, the)* picnic to *the (a, an)*beach.
 I was left alone. So, I went to *the (a, an)* sandy corner and sat down.
-My mother packed me *an (a, the)* egg, cake and *a (an, the)* chocolate.
-At that time, *a (an, the)* large sandy lobster crawled out of *the (a, an)*sea water.
+My mother packed me *an (a, the)* egg, cake and *a (an, the)* bar of chocolate.
+At that time, *a (an, the)* large sandy lobster crawled out of *the (a, an)*seawater.
 All *the (a, an)* sea animals tried to shake hands with me.
 But, they pricked me till I was black and blue.
 They taught me *a (an, the)* lesson not to hurt anyone.
