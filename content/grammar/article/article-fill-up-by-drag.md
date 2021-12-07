@@ -28,14 +28,14 @@ Rahul saw a *snake* in the garden.
 I saw *a* colorful kite hanging on our mango tree.
 Subrat is the *tallest* boy in the class.
 Rakesh is *an* honest man in my village.
-My cousin gave me an *inkpen* for writing.
-My brother is an *MBA* graduate and is working in Deloitte.
+My cousin gave me an *Inkpen* for writing.
+My brother is an *MBA* graduate and is working at Deloitte.
 ```
 
 ```
 We will return from the park after *an* hour.
 It might rain today! Please carry an *umbrella*.
-I met an *European* tourist in Agra last year.
+I met a *European* tourist in Agra last year.
 Ram uses *the* internet a lot these days!
 Mrs. Sunitha Bhan is an *English* teacher in my son's school.
 ```
@@ -53,14 +53,14 @@ There is *an* apple in the fruit basket, please have it.
 Bill Gates is *the* richest man in the world.
 The *sun* rises in the east.
 Reena bought *a* banana for lunch today.
-I saw an *old* women walking on the street at night alone.
+I saw an *old* woman walking on the street at night alone.
 ```
 
 ```
 There is *a* small playground behind my house.
 Hyderabad has *an* ideal climate throughout the year.
 This is *the* best restaurant in and around my area.
-This is the *movie* I saw it yesterday on Netflix. 
+This is the *movie* I saw yesterday on Netflix. 
 Our trip to Ooty was an *exciting* experience for all of us.
 ```
 
