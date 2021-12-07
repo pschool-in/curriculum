@@ -5,14 +5,11 @@
 Tap on the joining words in these sentences.
 
 ```
-I have a black shirt *and* a blue jeans.
+I have a black shirt *and* blue jeans.
 He likes pasta *but* I like burgers.
 We play cricket *and* chess at school.
 My dad has a car *but* he likes to drive a motorcycle.
 She studies at noon *and* plays in the evening.
-```
-
-```
 He goes for a walk daily *but* not on Sundays.
 They have many books *and* markers.
 The teacher is sick *but* she will teach us.
@@ -26,9 +23,6 @@ The pencil is new *but* not sharped.
 I bought the cake *and* candles.
 The sofa is soft *but* very small.
 The table is big *and* have drawers.
-```
-
-```
 Mom switched on the lamp *but* it wasn't working.
 Put your toys away *and* go to sleep.
 I have a chair *but* I need one more.
@@ -69,7 +63,7 @@ She is rich *but* unhappy.
 Work hard *or* you will fail.
 He did not study well *because* he was lazy.
 Children like to play cricket *or* football.
-We cannot go home *unless* we get the permission.
+We cannot go home *unless* we get permission.
 I can stay here *until* you ask me to leave.
 Please do not call me *unless* it is an emergency.
 He wears a hat *whenever* he goes outside.
