@@ -2,6 +2,7 @@
 
 (pronoun-1)
 
+Choose the correct pronoun. (title)
 ```
 Peter is a cook. *He* cooks well.
 Selvi sells flowers. *She* makes bouquets too.
@@ -22,6 +23,7 @@ I have a squirrel. *It* eats nuts.
 
 ## I, We, You
 
+Choose the correct pronoun. (title)
 ```
 *I* am a good singer.
 *You* can do your work tomorrow.
@@ -44,15 +46,16 @@ Congratulations! *You* are such a good dancer.
 
 (pronoun-1)
 
+Choose the correct pronoun. (title)
 ```
 *This* is my younger brother. (near)
-*That* is our school. (far)
-*Those* children are playing happily. (far)
 *Those* plastic bottles are old. (far)
 *These* are old newspaper. (near)
-*Those* are giraffes. (far)
+*That* is our school. (far)
 *This* is my cat. (near)
+*Those* children are playing happily. (far)
 *This* is my gift. (near)
+*Those* are giraffes. (far)
 ```
 
 (pronoun-2)
@@ -67,6 +70,11 @@ Could you pass *me* the salt?
 Vinoth and *I* are going to the movies.
 Am *I* invited?
 She gave *me* some coins.
+She asked *me* a question.
+She walks to the park with *me*.
+My dad makes *me* laugh.
+Savitha and *I* eat lunch together.
+*Me (I)* and my brother play together in ground.
 ```
 
 ```
@@ -88,11 +96,6 @@ Everybody is happy for *me*.
 Will you help *me* with my homework.
 Dad dropped *me* to school today.
 *I (Me)* bought a new dress.
-She asked *me* a question.
-She walks to park with *me*.
-My dad makes *me* laugh.
-Savitha and *I* eat lunch together.
-*Me (I)* and my brother play together in ground.
 ```
 
 ## We vs Us
@@ -116,7 +119,7 @@ The dog is barking at *us*.
 She cannot come with *us* to the school today.
 Can you drop *us* at the station?
 After *we* eat, let's go for a walk.
-*We (Us)* had an ice-cream after dinner.
+*We (Us)* had ice cream after dinner.
 All of *us* will go for a picnic tomorrow.
 ```
 
@@ -128,7 +131,7 @@ Let *us* go to a museum tomorrow.
 He taught *us* Maths.
 My grandmother made *us* a delicious jalebi.
 My teacher asked all of *us* to assemble in the hall.
-*We (Us)* can visit the Botanical garden on sunday.
+*We (Us)* can visit the Botanical garden on Sunday.
 My grandfather told *us* an interesting story.
 *We (Us)* went to see the circus yesterday.
 ```
@@ -171,7 +174,7 @@ I didn't recognize *him*.
 
 (pronoun-2)
 
-fillup with the correct pronoun for each sentence.
+Fillup with the correct pronoun for each sentence.
 
 ```
 {
@@ -217,8 +220,9 @@ fillup with the correct pronoun for each sentence.
 }
 ```
 
-(pronoun-3) Click on the blank and fill in the correct possessive pronoun.
+(pronoun-3) 
 
+Click on the blank and fill in the correct possessive pronoun.
 ```
 This is my laptop. It's *mine(me)*.
 You have a new toy. It is *yours(us)*.
@@ -314,19 +318,19 @@ This pen is *mine(theirs)*.
 I folded my clothes by *myself(themselves)*.
 *Who(What)* is the new teacher?
 *Which(Who)* is your favourite food?
-*I (Me)* went to library.
+*I (Me)* went to the library.
 Is that present for *me (I)*?
 ```
 
 ```
-*We (Us)* are going to Corbett National Park on sunday.
+*We (Us)* are going to Corbett National Park on Sunday.
 *We (Us)* live in a small house.
 *She (He)* is a smart girl.
 This is my book. Give it to *me (I)*.
 I can tell *that (those)* he is tensed.
-*This (Those)* is my favorite place for morning walk.
+*This (Those)* is my favorite place for the morning walk.
 We bought *ourselves (themselves)* some French fries before the match.
-When I woke up, I found *myself(itself)* on sofa.
+When I woke up, I found *myself(itself)* on the sofa.
 Manisha has a dog. *It (They)* is called Garfield.
 Look at my shoes. *They (It)* are so colorful.
 ```
@@ -336,8 +340,8 @@ Saranya likes to cook. Everyone likes *her (his) * cooking.
 Kumar and his brother enjoy watching action films. This movie is for *them(they) *.
 Do you like movies? Please join *us (them) * at the theatre.
 I will meet Sangeetha tomorrow. I am meeting *her (him)* for the first time.
-You left *your (yours) * text books on the table.
-I want to know *who (whom)* is going to play as villain.
+You left *your (yours) * textbooks on the table.
+I want to know *who (whom)* is going to play a villain.
 Please eat whatever you want. The choice is *yours (your)*.
 Rekha told *him (his)* about the celebration next week.
 Rahul cannot come with *us (them)* today.
@@ -345,25 +349,26 @@ She grows Jasmine on her terrace. *They (Them)* smell sweet.
 Peacock is our national bird. *It (They)* has beautiful feathers.
 Ram will visit *his (her) * grandmother this week.
 Don't walk fast. *We (Us)* feel tired.
-Every Sunday, we meet *them (they)* at the sea shore.
+Every Sunday, we meet *them (they)* at the seashore.
 
 ```
 
 (miscellaneous)
 
+Click on the blank and fill in the right pronoun.
 ```
 He *himself (herself)* attended the class.
 *Where (Who)* are the apples?
 I saw a friend of *yours (yourself)* at the party.
 *We (Us)* enjoyed hearing *her (herself)* sing.
-The dog fetch the stick *itself (himself)*.
+The dog fetches the stick *itself (himself)*.
 *These (Them)* shoes are very comfortable.
 She asked *what (when)* we wanted for lunch.
 The building *itself (herself)* is very tall.
 Her writing is so much better than *mine (my)*.
-*You (Yours)* are the best player in the team.
-*Who (Whom)* will will  the championship?
-Is *that (them)* bag *yours (your)*.
+*You (Yours)* are the best player on the team.
+*Who (Whom)* will win the championship?
+Is *that (them)* bag *yours (your)*?
 *They (Them)* are coming from America.
 This book is *mine (my)* not *yours (your)*.
 *That (You)* is such an interesting book.
