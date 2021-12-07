@@ -40,7 +40,7 @@ Find whether the following statements are true or false.
 ```
 True: 
 Articles are of two types.
-"An and An" are called indefinite article.
+"An and An" are called indefinite articles.
 Indefinite articles do not specify a particular thing or a person.
 
 False:
@@ -72,7 +72,7 @@ Find whether the following statements are true or false.
 ```
 True: 
 No article is used before plural nouns.
-No article is used before singluar countable nouns.
+No article is used before singular countable nouns.
 Abstract nouns use no article.
 
 Flase:
