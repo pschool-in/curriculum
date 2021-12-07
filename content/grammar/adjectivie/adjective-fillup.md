@@ -131,22 +131,6 @@ Students are *happy (lazy)* when lunchtime begins in school.
 Mumbai has *huge (deep)* skyscrapers when compared to other cities.
 ```
 
-## Multiple choice questions
-
-Answer the following questions.
-
-```
-She gave her a _____ scarf. 
-tiny soft, soft tiny 
-She wore a _____ hat.
-silly pink, pink silly
-I have _______ pencils.
-five big, big five, wooden big
-The _______ mitten was lost.
-little pink, pink little
-My dad is a ______ man.
-tall Indian, Indian tall
-```
 
 (adjective-5)
 
