@@ -134,9 +134,9 @@ Mumbai has *huge (deep)* skyscrapers when compared to other cities.
 
 (adjective-5)
 
-## Add - adjective of quantity
+## Fill - adjective of quantity
 
-Use the correct adjective of quantity to complete the sentence.
+Click on the blank and choose an appropriate adjective of quantity to complete the sentence.
 
 ```
 I saw *many (much)* animals in the zoo.
@@ -179,7 +179,7 @@ I have a *little (few)* money left to buy the ice cream from the shop.
 
 (adjective-5)
 
-## Add-demonstrative adjective
+##  Fill - demonstrative adjective
 
 Click on the blank and choose an appropriate demonstrative adjective in the sentence.
 
