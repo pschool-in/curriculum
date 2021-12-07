@@ -28,7 +28,7 @@ A *clean* table.
 
 (adjective-2)
 
-# Identify the adjectives
+## Identify the adjectives
 
 Spot the adjectives in the following sentences.
 
