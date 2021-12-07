@@ -35,7 +35,7 @@ Drought prone areas in India are Uttar Pradesh, Telangana, Chhatisgarh, Haryana,
 
 ### Disaster Management 
 Advances in technology have made it possible to warn people about some disasters beforehand and to help minimise the damage caused. Floods, cyclones, droughts and sometimes tsunamis canbe predicted. This knowleedge helps us save many lives.
-After the disaster the government sets up, relief camps for the affected people and provides food, drinking water and bedding. The army is also called in to airlift stranded people and airdrop food. Emergency services are alerted immediately. Medecines are provided to the people as there is a high risk ofan outbreak of diseases. Organizations suchas Red Cross Society and World Health Organization provide voluntary services. People from all over the country donate to relief funds.
+After the disaster the government sets up, relief camps for the affected people and provides food, drinking water and bedding. The army is also called in to airlift stranded people and airdrop food. Emergency services are alerted immediately. Medecines are provided to the people as there is a high risk of an outbreak of diseases. Organizations such as Red Cross Society and World Health Organization provide voluntary services. People from all over the country donate to relief funds.
 
 ## True or False
 ```
@@ -45,15 +45,46 @@ Cyclones are formed over the sea.
 
 False:
 Earthquakes can be predicted.
-During anearthquake we should stay indoors.
+During an earthquake we should stay indoors.
 ```
-## Fill in the blanks (dragand drop)
+## Fill in the blanks (drag and drop)
 ```
 In case of a fire, we should *walk* out of the building.
 *Floods* are caused when rivers break their banks.
 Drought are periods with *no* rainfall.
 Warnings about natural disasters are given through *radio* and television.
 The state of Himachal Pradesh are prone to *cyclones*.
+```
+## Multiple Choice Questions 
+```
+In case of fire what should we do?
+walk out of the building, run out of the building 
+
+Which of the following should you do in case of an earthquake?
+sit under furniture, stay under a stair, run into any building
+
+Which of the following is an organization that provides voluntary services?
+Red Cross Society, World Health Organization, *all
+```
+## Match the following
+```
+flood, water ovwerflow
+earthquake, aftershock
+tsunami, giant waves
+drought, dry lands
+fire, fire alarm
+```
+## Do and Don't
+```
+Do:
+Keep calm and do not run in case of a fire
+In case of an earthquake move to open ground or stay beneath furniture.
+Watch out for warning on radio and television
+
+Don't:
+Ignore warning signs.
+Panic in case of emergency and cause commotion.
+Stay under door or stairs in time of an earthquake.
 ```
 # Reference
 new green tree class 5
