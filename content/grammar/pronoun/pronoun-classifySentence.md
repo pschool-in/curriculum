@@ -2,34 +2,6 @@
 
 (pronoun-1)
 
-Classify (label)
-
-Identify whether these sentences have demonstrative pronouns or not. (title)
-
-```
-Yes:
-These are very yummy.
-This is the most comfortable.
-Those belong to Sakshi
-
-No:
-It is a flower.
-She has my book.
-My name is Rani.
-```
-
-```
-Yes:
-Do you like this?
-These are my friends.
-My mom gifted me that.
-
-No:
-My father is very good.
-The teacher went to school.
-I forgot to eat.
-```
-
 Identify if these sentences have personal pronouns or not.
 
 Yes
@@ -90,7 +62,7 @@ Yes
 
 ```
 These are very yummy.
-This is the most comfortable.
+This is the most comfortable pillow.
 Those belong to Sakshi.
 
 Do you like this?
@@ -119,7 +91,7 @@ Yes
 ```
 This notebook is mine.
 Those pens are hers.
-Those dressess are yours.
+That dress is yours.
 ```
 
 No
@@ -127,13 +99,14 @@ No
 ```
 Those gloves belong to him.
 Those pens belong to her.
-Those dresses belong to you.
+That dress belongs to you.
 ```
 
 (pronoun-4)
 
 Identify whether the sentence has the correct reflexive pronoun.
 
+Yes
 ```
 Why don't you cut your nails yourself?
 Look at yourself in the mirror.
@@ -148,6 +121,7 @@ We can make this model by ourselves.
 You ride your bike by yourself.
 ```
 
+No
 ```
 Grandma cut himself.
 Why don't you clean the balcony ourself?
@@ -159,7 +133,6 @@ Can you do your homework by ourself?
 They do their projects by ourselves.
 We can make this model by myselves.
 You ride your bike by herself.
-
 ```
 
 (pronoun-4)
@@ -235,7 +208,7 @@ The lipstick is hers.
 
 (pronoun-5)
 
-Identify whether the following sentences have interrgative or emphatic pronouns.
+Identify whether the following sentences have interrogative or emphatic pronouns.
 
 Interrogative pronoun
 
@@ -244,7 +217,7 @@ Please tell me who took my book.
 Whom are you calling?
 Which one is your house?
 What is this flavour called?
-Whose was that voice?
+Whose voice was that?
 ```
 
 Emphatic pronoun
@@ -295,5 +268,5 @@ We *ourselves* will go to the market.
 
 You *yourself* can do your homework.
 They *themselves* prefer to eat in a reataurant.
-He saw the president *himself*.
+He met the President *himself*.
 ```
