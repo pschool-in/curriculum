@@ -31,4 +31,14 @@ False:
 We do not need light to see objects.
 Shadow is formed when light passes through objects.
 ```
+## Multiple Choice Questions
+```
+Which of the following is an artificial source of light?
+torch, sun , fire
 
+What is the most powerfu; source of light?
+sun, moon, lamp
+
+What is a shadow?
+dark shape made when light is blocked by an object, dark reflection of the object in mirror, dark image in absence of light
+```
