@@ -1,16 +1,16 @@
 # Articles- Introduction
 
 # True or False
-Identify whether the following statements are true or false.
+Classify whether the following statements are true or false.
 
 ```
 True: 
 Articles are used in front of the naming words.
 "An" is used for words starting with a vowel sound.
-"a, e, i, o, u" are called vowels.
+"a, e, I, o, u" are called vowels.
 
 False:
-Article "a" is used for vowel sound.
+Article "a" is used for the vowel sounds.
 "A" and "An" are called prepositions.
 "The" is used to refer to anything in general.
 ```
@@ -26,7 +26,7 @@ The number of consonants is ____.
 21, 15, 20
 Articles are used before______.
 naming word, describing word, action word
-The article "an" comes before ______ word.
+The article "an" comes before the ______ word.
 honest, hat, hair
 ```
 
@@ -35,7 +35,7 @@ honest, hat, hair
 
 # True or False
 
-Find whether the following statements are true or false.
+Classify whether the following statements are true or false.
 
 ```
 True: 
@@ -67,7 +67,7 @@ the, a, an
 
 # Article-3 - No Article Rules
 
-Find whether the following statements are true or false.
+Classify whether the following statements are true or false.
 
 ```
 True: 
@@ -75,10 +75,10 @@ No article is used before plural nouns.
 No article is used before singular countable nouns.
 Abstract nouns use no article.
 
-Flase:
+False:
 No articles are used to talk about specific things.
 No articles are used before plural countable nouns.
-Days, months, places use definite article - "the"
+Days, months, places use definite articles - "the"
 ```
 
 
@@ -88,18 +88,18 @@ Article - letters with dual roles/quantifiers
 
 # True or false
 
-Identify whether the following statements are true or false.
+Classify whether the following statements are true or false.
 
 ```
 True:
-Definite article "a" is used for words like university, unicorn etc as they begin with a consonant sound.
-Article "an" is used for words like hour, honest etc as they begin with vowel sound.
-No article is used for names of the persons.
+The definite article "a" is used for words like university, unicorn, etc as they begin with a consonant sound.
+Article "an" is used for words like an hour, honest, etc as they begin with a vowel sounds.
+No article is used for the names of the persons.
 
 False:
 Common nouns in plural form use indefinite articles.
 Article "the" is used for certain words like MBA, FIR.
-Definite article is used to show the quantity of nouns.
+The definite article is used to show the quantity of nouns.
 ```
 
 # Multiple choice questions
@@ -108,13 +108,13 @@ Answer the following questions
 
 ```
 "We wear clothes made of cotton". ______ is used in this sentence.
-no article, definite article, indefinite article
+no article, definite article, the indefinite article
 For the word "European" we use ____ article.
 a, an, the
 For the word "heir" we use _____ article.
 an, a, the
 "Saturday is a week off". ______ is used in this sentence.
-no article, definite article, indefinite article
+no article, definite article, the indefinite article
 ```
 
 
