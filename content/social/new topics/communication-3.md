@@ -41,5 +41,26 @@ Radio is used for personal communication.
 Mass communication reaches only few people.
 Alexander Graham Bell invented the radio.
 ```
+## Multiple Choice Questions
+```
+Who invented the telephone?
+Alexander Graham Bell, Gallelio Gallili, Marconi
+
+Which of these is not a means of personal communication?
+radio, postal service, telephone
+
+Which of the following is not a means of mass communication?
+postal service, newspaper, radio
+
+How can we sent urgent letters?
+by speed post, by normal post, using postcards
+```
+## Name the following
+```
+The fastest means of communication - *telephone*
+We need it for instant sharing of pictures and videos - *internet*
+Save paper by using - *e-books*
+Quick way to connect with those thst live far away - *video call*
+```
 # Reference
 Madhubun Publications - Class 3 - hues
