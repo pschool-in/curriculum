@@ -155,3 +155,67 @@ Jupiter is the biggest planet in our solar system.
 I am the shortest person in my family.
 Sam is the most handsome boy in the whole school.
 ```
+
+## Classify the Degree (old activity)
+
+Identify the degree of comparison.
+
+Positive
+
+```
+Vijay is a tall boy.
+Tamil is a old language.
+The Himalayas is a tall mountain range.
+
+India is a large Democracy.
+Hari is a smart boy.
+Ostrich is a large bird.
+
+Taj Mahal is a famous monument in India.
+Bheem is a brave boy in Dholakpur.
+Diamond is a costly stone.
+
+Mumbai is a busy city.
+Mani can run fast.
+Lead is a heavy metal.
+```
+
+Comparative
+
+```
+Vijay is taller than Ramu.
+Tamil is older than English.
+The Himalayas is taller than the Alps.
+
+India is a larger Democracy than the USA.
+Hari is smarter than Gopal.
+Ostrich is larger than penguin.
+
+Taj Mahal is more famous than Qutub Minar.
+Bheem is braver than Kalia.
+Diamond is costlier than ruby.
+
+Mumbai is a busier city than Bengaluru.
+Mani can run faster than Gopal.
+Lead is heavier than iron.
+```
+
+Superlative
+
+```
+Vijay is the tallest boy in the classroom.
+Tamil is one of the oldest languages in the world.
+The Himalayas is the tallest mountain range.
+
+India is the largest Democracy.
+Hari is the smartest boy in the class.
+Ostrich is the largest bird.
+
+Taj Mahal is one of the most famous monument in India.
+Bheem is the bravest boy among his friends.
+Diamond is the costliest stone.
+
+Mumbai is one of the busiest city in the world.
+Mani is the fastest boy in our class.
+Lead is one of the heaviest metal.
+```

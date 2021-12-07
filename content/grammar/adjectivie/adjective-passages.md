@@ -229,6 +229,42 @@ fatter, thinner, sadder, wealthier, luckier, earlier
 Superlative: Richest, smallest, ugliest, fastest, fewest, brightest, biggest,
 fastest, hottest, thinnest, saddest, wealthiest, luckiest, earliest
 
+## Degrees of Comparison (old exisiting passage)
+
+We use this to compare something.
+
+Elephant is bigger than tiger.
+
+The above sentence has 'comparative' degree. We directly compare one thing with
+another.
+
+Note: Usually the 'comparative' adjective is followed by the word 'than'.
+
+Sometimes we compare something with the rest of the group. It is called
+'superlative' degree.
+
+Note: Definite article (the) is used before the 'superlative' adjective.
+
+Elephant is the biggest land animal.
+
+Sometimes we simply tell something, without really comparing with anything. It
+is called 'positive' degree.
+
+Elephant is a big animal.
+
+Some of the commonly used positive, comparative and superlative adjectives are
+given below.
+
+```
+big, bigger, biggest
+large, larger, largest
+tall, taller, tallest
+old, older, oldest
+small, smaller, smallest
+brave, braver, bravest
+fast, faster, fastest
+busy, busier, busiest
+heavy, heavier, heaviest
+```
+
 # Draft
-
-
