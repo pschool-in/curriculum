@@ -112,5 +112,17 @@ Arrange the steps in first aid in the correct order.
 ```
 do not move the patient, tie a cloth on the bite, take to a doctor, give anti-venom
 ```
+## Do and Don't
+```
+Do:
+After first aid immediately take the patient to a hospital.
+Clean the area around the wound to reduce infections.
+Always use antiseptic to clean wounds.
+
+Don't:
+Gather around someone when they faint.
+Manhandle a fracture.
+directly apply ice on burns.
+```
 # Reference
 CBSE text book 
