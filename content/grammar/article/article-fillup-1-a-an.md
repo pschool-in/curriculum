@@ -9,7 +9,7 @@ That is *a (an)* pot.
 I saw *an (a)* ant hill in my garden.
 I have *an (a)* exam tomorrow morning.
 We went to *a (an)* movie yesterday evening.
-Me and my brother had *an (a)* ice-cream.
+I and my brother had *a (an)* chocolate cake.
 I need *a (an)* bowl of soup.
 I have *a (an)* bag of chocolates.
 I want to eat *a (an)* mango.
@@ -47,7 +47,7 @@ article -2 (it can be included)
 Meera is *an (a)* intelligent student.
 Dad wants me to wear *a (an)* cap.
 Reema has *a(an)* jewelry box.
-We put up *a (an)* Christmas tree for holidays.
+We put up *a (an)* Christmas tree for the holidays.
 Grandma read *a (an)* story to all my friends.
 I saw *an (a)* ostrich in the zoo.
 There is *a (an)* hospital near my home.
