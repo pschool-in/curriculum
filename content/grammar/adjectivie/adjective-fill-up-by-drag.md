@@ -1,6 +1,6 @@
 (adjective-2)
 
-Complete the story
+# Complete the story
 
 Complete the story by filling the blanks with suitable adjectives.
 
@@ -13,7 +13,7 @@ So, she went inside the hut and slept on the cot.
 Soon a *loud* bang on the door woke her up!
 ```
 
-Adjective - Opposite
+# Adjective - Opposite
 
 Fill in the blanks with the adjectives that are opposite in the meaning to those
 who are put in quotation marks.
@@ -153,7 +153,7 @@ My mother's room is the *tidiest* of all three.
 
 (adjective-4)
 
-## Pick the adjective
+## Choose the adjective
 
 Drag and drop the correct adjective to complete the sentence.
 
