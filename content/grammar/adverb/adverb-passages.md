@@ -84,4 +84,63 @@ weekly, monthly, etc.
 3. She _sometimes_ teaches younger kids.
 4. We should brush our teeth _twice_.
 
+# Adverb old/existing content
 
+An adverb is a word that adds more meaning to a verb or adjective or another adverb.
+
+Eg: Modifying verb-
+John speaks *loudly*.
+Rohan left *immediately*.
+
+Eg: Modifying adjective-
+He is *really* handsome.
+The story was *very* interesting.
+
+Eg: Modifying another adverb-
+Sara drives *very* slowly.
+Deepa is reading *so* quickly.
+
+### Types of adverbs
+
+Adverbs are classified based on 'what type' of information it adds.
+
+### Adverb of Manner
+
+It tells 'how' something happens.
+
+Eg:
+I *strongly* agree with you.
+He jumped *high* in the air.
+
+
+### Adverb of Time
+
+It tells 'when' something happens.
+
+Eg:
+I will see you *tomorrow*.
+I need some water *later*.
+
+### Adverb of Place
+
+It tells 'where' something happens.
+
+Eg:
+Please come *in*.
+The kids are *downstairs*.
+
+### Adverb of Frequency
+
+It tells 'how often' something happens.
+
+Eg:
+I *always* wake up at 6 o'clock.
+I *rarely* watch TV.
+
+### Adverb of Degree
+
+It tells 'how much' or 'to what extent'.
+
+Eg:
+I *totally* agree with you.
+I was *really* excited.
