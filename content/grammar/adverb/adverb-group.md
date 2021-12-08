@@ -24,6 +24,23 @@ Heavily, Tightly, Attentively, Hurriedly
 Softly, Beautifully, Normally, Personally
 ```
 
+(adverb-4)
+
+## Drag and Drop (label)
+
+Classify the adverbs as adverb of place and time. (title)
+```
+Time: Yesterday, Still, While, Soon
+
+Place: North, South, Around, Up
+```
+
+```
+Time: Tomorrow, Last week, When, Hourly
+
+Place: Behind, Above, Below, East
+```
+
 ## Drag and Drop
 
 Identify if these words are adverbs of frequency or not.
@@ -48,13 +65,4 @@ Smart, Running, Fasting, Grains
 Noisily, Safely, Intelligent, Great
 Intelligent, Slow, Sleep, Jump
 Walk, Talk, Dance, Speak
-```
-
-## Adverb of Frequency
-
-Rearrange the adverbs of frequencies from the most probable to the least
-probable.
-
-```
-Always, Usually, Sometimes, Rarely, Never
 ```
