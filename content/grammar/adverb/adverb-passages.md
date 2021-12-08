@@ -2,8 +2,8 @@
 
 (adverb-3)
 
-We know that adverbs tell us about the verb, adjective or another adverb.
-Adverbs of manner tells us how an action is done. In simple words, it answers
+We know that adverbs tell us about the verb, adjective, or another adverb.
+Adverbs of manner tell us how an action is done. In simple words, it answers
 the question 'how'. These adverbs generally end with '-ly'. Some examples are:
 
 1. The turtle moves _slowly_.
@@ -32,7 +32,7 @@ Some more examples of adverb of manners are:
 (adverb-4)
 
 Adverb of degree tells us to what extent the action has been done. In simple
-words, it answers the question 'how much?' For example:
+words, it answers the question 'how much'. For example:
 
 The girl was _very_ beautiful.
 
@@ -63,3 +63,23 @@ weekly, monthly, etc.
 2. Amir visits his grandparents _weekly_.
 3. She _sometimes_ teaches younger kids.
 4. We should brush our teeth _twice_.
+
+# Adverb of Time
+
+Adverb of time answers the question 'when'. It means that it tells us about when something has happened. Examples of adverbs of time are yesterday, still, while, soon, tomorrow, last week, when, etc.
+
+Examples of adverbs of time in sentences:
+1. Ayush went to the hotel *yesterday*.
+2. She will complete her work. *Then* she will play
+3. She is very happy *when* she goes home.
+4. I have *never* been to a foreign country.
+
+# Adverb of Place
+
+We know that adverbs tell us about the verb. So, the adverb of place tells us about where the action has occurred. In simple words, it answers the question 'where'. Examples of adverbs of place are north, south, around, up, behind, etc.
+
+Examples of adverbs of place in sentences:
+1. He studies *behind* that room.
+2. She lives *in front of* the furniture shop.
+3. The Sun rises in the *east*.
+4. There were many dogs *around* us.
