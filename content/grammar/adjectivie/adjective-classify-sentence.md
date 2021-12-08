@@ -178,6 +178,74 @@ KBR park is far.
 ```
 
 
+(adjective-5)( Changed From MCQ to classify sentence)
+
+# Classify the statements -3 
+
+Positive
+
+```
+The pen is light.
+She is very beautiful.
+Arjun is a strong boy.
+India is a democratic country.
+```
+
+Superlative
+
+```
+London is the largest city in England.
+Whales are the biggest animals.
+```
+
+Comparative
+
+```
+A school is noisier than a hospital.
+    
+    
+ 
+```
+{
+    qText: `Meera's work is better than Ram's.`,
+    options: 'comparative, positive, superlative'
+},
+{
+    qText: 'Athletes are usually more famous than scientists.',
+    options: 'comparative, superlative, positive'
+},
+{
+    qText: `Poornima's hair is longer than yours.`,
+    options: 'comparative, superlative, positive'
+},
+{
+    qText: '',
+    options: 'positive, comparative, superlative'
+},
+{
+    qText: '',
+    options: 'positive, comparative, superlative'
+}
+```
+
+```
+{
+    qText: 'Mango is sweet.',
+    options: 'positive, comparative, superlative'
+},
+{
+    qText: 'This is the most interesting book I have read.',
+    options: 'superlative, comparative, positive'
+},
+{
+    qText: 'The Himalayas are a mountain range in Asia.',
+    options: 'positive, comparative, superlative'
+},
+{
+    qText: 'Mount Everest is the highest peak.',
+    options: 'superlative, comparative, positive'
+}
+
 ## Classify the Degree (old activity)
 
 Identify the degree of comparison.
