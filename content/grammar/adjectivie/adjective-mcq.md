@@ -19,60 +19,6 @@ tall Indian, Indian tall
 
 
 
-
-
-# Identify the adjective
-
-(adjective-4)
-
-Fill in the appropriate adjective to complete the sentence.
-
-```
-{
-    qText: 'The mangoes are _____.',
-    options: 'sweet, tall, square'
-},
-{
-    qText: 'The lion has ______ claws.',
-    options: 'sharp, bushy, colorful'
-},
-{
-    qText: 'The car is ______.',
-    options: 'fast, tall, fuel'
-},
-{
-    qText: 'Can you give me _____ water?',
-    options: 'little, few, no'
-},
-{
-    qText: 'The dress is very ________.',
-    options: 'colorful, enough, some'
-}
-```
-
-```
-{
-    qText: 'The _____ man bought apples.',
-    options: 'tall, round, blue'
-},
-{
-    qText: 'When will this _____ exam be over?',
-    options: 'tough, sweet, frizzy'
-},
-{
-    qText: 'The _____ ball rolled down.',
-    options: 'round, tall, short'
-},
-{
-    qText: 'This is a ____ scissor.',
-    options: 'blunt, colorful, four'
-},
-{
-    qText: 'This is a ____ mango.',
-    options: 'sweet, short, old'
-}
-```
-
 ## Identify the order of adjectives
 
 Choose the appropriate options to complete the sentence.
