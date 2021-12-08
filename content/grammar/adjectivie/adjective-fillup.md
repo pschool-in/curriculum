@@ -9,7 +9,7 @@ Neha likes *fast (slow)* racing cars.
 I can climb *small (short)* trees on my farm.
 My mom is a *pretty (bad)* lady in my family.
 The dog found a *long (smart)* stick while walking in the park.
-Disha caught the *red (square)* ball while playing in the ground.
+Disha caught the *red (square)* ball while playing on the ground.
 ```
 
 ```
