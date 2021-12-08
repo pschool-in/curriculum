@@ -11,7 +11,7 @@ Two tiny, brown squirrels ate all the peanuts.
 Ram and Mahesh went to the market to buy ten large, fresh, red apples.
 Mani left his small, white, striped shirt at home.
 
-That big, black car goes really fast.
+That big, black car goes fast.
 A round, black ball
 Five, little children
 
@@ -43,8 +43,8 @@ That is a *big* ground.
 I like *yellow* roses.
 I like *raw* mangoes.
 
-I took *some* chalkpieces from the desk.
-Priya has *little* interest in reading the story books.
+I took *some* chalk pieces from the desk.
+Priya has *little* interest in reading story books.
 We spent *few* hours planning for the birthday party.
 *Many* people visit Tirupathi every day.
 ```
@@ -53,12 +53,12 @@ Adjective of quantity
 
 ```
 I ate *some* fried rice today.
-We have *enough* time for completion of homework.
+We have *enough* time for the completion of homework.
 I know very *little* about folk songs.
 Add *some* sugar to the tea.
 
 Meera has a *brown* cat as a pet.
-Our math teacher is an *old* women who teaches excellently.
+Our math teacher is an *old* woman who teaches excellently.
 Prakash is a *clever* boy in the class.
 My mom made *tasty* jalebis for the party.
 ```
@@ -92,7 +92,7 @@ Classify the underlined adjective.
 Adjective of Number
 
 ```
-I have *twenty five* students in my class.
+I have *twenty-five* students in my class.
 I have learned *six* chapters from Science for the exam.
 Meena has *two* dogs in her house.
 They have *two* carpets at the centre of the hall.
@@ -108,14 +108,9 @@ Interrogative adjective
 ```
 
 
-Need to check
-
-
-
-
 ## Classify the statement-1
 
-Identify the degree of comparison for the below sentence.
+Classify the degree of comparison for the below sentence.
 
 Positive
 
@@ -140,9 +135,20 @@ The earth is larger than moon.
 You are more polite than meera.
 ```
 
+Superlative
+
+```
+The Nile is the longest river in the world.
+Today has been the hottest day of the year.
+Which is the highest mountain in the world?
+The Burj Khalifa is the tallest building in the world.
+This is the best chocolate cake I have had in a long time.
+```
+
+
 ## Classify the statement-2
 
-Identify the degree of comparison for the below sentence.
+Classify the degree of comparison for the below sentence.
 
 Comparative
 
@@ -161,6 +167,16 @@ Jupiter is the biggest planet in our solar system.
 I am the shortest person in my family.
 Sam is the most handsome boy in the whole school.
 ```
+
+Positive
+
+```
+Gold is a precious metal.
+Manish is a strong boy.
+My sister is a good teacher.
+KBR park is far.
+```
+
 
 ## Classify the Degree (old activity)
 
