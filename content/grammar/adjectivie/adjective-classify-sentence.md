@@ -107,6 +107,7 @@ Interrogative adjective
 *What* is your brother's name?
 ```
 
+merge adjective-5/1100 and article-5/1200
 
 ## Classify the statement-1
 
@@ -121,6 +122,11 @@ My mom is a good cook.
 
 Her hair is short.
 She walks slow.
+
+Gold is a precious metal.
+Manish is a strong boy.
+My sister is a good teacher.
+KBR park is far.
 ```
 
 Comparative
@@ -133,6 +139,11 @@ He is taller than Mr.Das.
 My job is worse than yours.
 The earth is larger than the moon.
 You are more polite than Meera.
+
+A car is faster than a bicycle.
+She is older than me.
+China is larger than India.
+In Canada, January is colder than March.
 ```
 
 Superlative
@@ -143,44 +154,18 @@ Today has been the hottest day of the year.
 Which is the highest mountain in the world?
 The Burj Khalifa is the tallest building in the world.
 This is the best chocolate cake I have had in a long time.
-```
 
-
-## Classify the statement-2
-
-Identify the degree of comparison for the below sentence.
-
-Comparative
-
-```
-A car is faster than a bicycle.
-She is older than me.
-China is larger than India.
-In Canada, January is colder than March.
-```
-
-Superlative
-
-```
 This is the smallest box I have ever seen.
 Jupiter is the biggest planet in our solar system.
 I am the shortest person in my family.
 Sam is the most handsome boy in the whole school.
 ```
 
-Positive
-
-```
-Gold is a precious metal.
-Manish is a strong boy.
-My sister is a good teacher.
-KBR park is far.
-```
 
 
 (adjective-5)( Changed From MCQ to classify sentence)
 
-# Classify the statements -3
+# Classify the statements -2
 
 Identify the degree of comparison for the below sentence.
 
@@ -211,7 +196,7 @@ Greenland is larger than any other island in the world.
 ```
 
 
-# Classify the statements -4
+# Classify the statements -3
 
 Identify the degree of comparison for the below sentence.
 
@@ -239,6 +224,7 @@ This is the most interesting book I have read.
 Mount Everest is the highest peak.  
 Jeevana is the smartest girl in the class.
 ```        
+
 
     
 
