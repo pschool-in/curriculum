@@ -1,4 +1,4 @@
-## Group ( can be labeled as Positive vs Negative)
+## Positive vs Negative
 
 (adjective-1)
 
@@ -22,7 +22,7 @@ Jealous, Moody, Rude, Selfish
 
 (adjective-2)
 
-# Adjectives vs Non-adjectives ( can be the label)
+# Adjectives vs Non-adjectives
 
 Identify the adjectives from the group of words and add them into the
 appropriate box.
@@ -81,7 +81,7 @@ Smart, Smert
 
 (adjective-3)
 
-## Group ( can be labeled as Adjective vs Non-adjective)
+##  Adjective vs Non-adjective
 
 Identify the adjectives from the group of words and add them into the
 appropriate box.
@@ -108,7 +108,7 @@ Car, Dress, Soldier, Fruits, Building
 
 (adjective-4)
 
-## Classify the words ( can be labeled as Adjectives vs Non-adjectives)
+## Adjectives vs Non-adjectives
 
 Identify the adjectives from the group of words given below and put them into
 the appropriate box.
@@ -133,7 +133,7 @@ crocodile, train, turtle, table, banana
 
 (adjective-4)
 
-## Find the order of adjectives ( can be changed to Arrange in order) 
+## Arrange in order
 
 Arrange the adjectives in the correct order to make a meaningful sentence.
 
