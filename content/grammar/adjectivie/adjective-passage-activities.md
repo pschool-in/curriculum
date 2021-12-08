@@ -15,7 +15,7 @@ Names of the colors are used as adjectives.
 False
 
 ```
-Naming words are called as adjectives.
+Naming words are called adjectives.
 Adjectives describe action words.
 Adjectives are used in joining the words.
 ```
