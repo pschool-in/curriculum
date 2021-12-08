@@ -28,7 +28,7 @@ Sweet, Dish
 
 (adjective-2)
 
-Match - Adjectives and Nouns
+# Match - Adjectives and Nouns
 
 Match the following adjectives with appropriate nouns.
 
@@ -78,6 +78,8 @@ red, rose
 ```
 
 (adjective-2)
+
+## Match - Adjectives and Opposites
 
 Match the adjectives with their corresponding opposites.
 
