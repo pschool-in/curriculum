@@ -151,6 +151,29 @@ My brother's room is *tidier than mine.
 My mother's room is the *tidiest* of all three.
 ```
 
+( Moved from articles to adjective -3 playlist and added here)
+
+# Add suitable quantifiers
+
+Drag and drop the suitable quantifiers to make a meaningful sentence.
+
+```
+My brother spends *most* of his time watching you-tube videos.
+Add *a little* more salt to the curry to make it tastier.
+Are there *any* sweets left in the kitchen?
+I want to drink *some* coffee after I finish my work.
+We had *a lot of* fun during the summer holidays.
+```
+
+```
+I had *enough* of your advice! Please stop!
+There were *not many* people present for Diwali pooja due to Covid.
+*Many* people lost their lives during Tsunami in 2004.
+These days *most* people sleep with their mobiles beside their pillows.
+The chocolate cake had *a lot of* cream over it. 
+```
+
+
 (adjective-4)
 
 ## Choose the adjective
