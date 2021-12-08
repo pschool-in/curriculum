@@ -236,7 +236,7 @@ Positive
 
 ```
 Vijay is a tall boy.
-Tamil is a old language.
+Tamil is an old language.
 The Himalayas is a tall mountain range.
 
 India is a large Democracy.
@@ -261,7 +261,7 @@ The Himalayas is taller than the Alps.
 
 India is a larger Democracy than the USA.
 Hari is smarter than Gopal.
-Ostrich is larger than penguin.
+Ostrich is larger than a penguin.
 
 Taj Mahal is more famous than Qutub Minar.
 Bheem is braver than Kalia.
@@ -283,11 +283,11 @@ India is the largest Democracy.
 Hari is the smartest boy in the class.
 Ostrich is the largest bird.
 
-Taj Mahal is one of the most famous monument in India.
+Taj Mahal is one of the most famous monuments in India.
 Bheem is the bravest boy among his friends.
 Diamond is the costliest stone.
 
-Mumbai is one of the busiest city in the world.
+Mumbai is one of the busiest cities in the world.
 Mani is the fastest boy in our class.
-Lead is one of the heaviest metal.
+Lead is one of the heaviest metals.
 ```
