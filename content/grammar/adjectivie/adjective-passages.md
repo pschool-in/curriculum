@@ -20,11 +20,10 @@ words. Some examples of describing words are:
 
 ## Reading notes:
 
-The words which describe a naming word (noun) or a pronoun are called
-adjectives. Adjectives usually tell us about what kind of, how many or what
-color etc, any person, a place, thing or animal is. Adjectives usually come
-before a noun and make them more specific. Adjectives also have their opposites
-like - "tall-short", "big-small", "black-white".
+The words which describe a naming word (noun) or a pronoun are called adjectives. 
+Adjectives usually tell us about what kind of, how many, or what color any person, a place, thing, or animal is.
+Adjectives usually come before a noun and make them more specific. 
+Adjectives also have their opposites like - "tall-short", "big-small", "black-white".
 
 For example:
 
@@ -38,9 +37,9 @@ The words "small", "smart", "long" are called adjectives.
 
 (adjective-3)
 
-The words that are used to describe a noun or a pronoun are called as
+The words that are used to describe a noun or a pronoun are called
 adjectives. They give us more information about a noun or pronoun by describing
-it. They inform or tell us about how she or he looks, sounds, smells, feels or
+it. They inform or tell us about how she or he looks, sounds, smells, feels, or
 tastes. Names of the colors are also used as adjectives.
 
 For example -
@@ -120,7 +119,7 @@ Given below is the order of adjectives:
 5. condition
 6. color
 7. pattern (checkered, stripped)
-8. proper adjective (Nationality, place of origin or material)
+8. proper adjective (Nationality, place of origin, or material)
 9. function or purpose
 10. Noun
 
@@ -149,7 +148,7 @@ in a particular context. For example:
 ## Kinds of adjectives
 
 Adjective of Quality: These adjectives provide information about the quality of
-person/s, things or places. They can describe the "age", "size", "shape",
+person/s, things, or places. They can describe the "age", "size", "shape",
 "colors", "feelings", etc.
 
 For example:
@@ -163,11 +162,11 @@ people.
 
 For example:
 
-1."Many" people gathered near an accident.
+1. "Many" people gathered near an accident.
 
-2."Few" people attended the meeting.
+2. "Few" people attended the meeting.
 
-Adjectives of Number: They describe the number of people, things or places
+Adjectives of Number: They describe the number of people, things, or places
 spoken of. For example:
 
 1.  I bought "two" shirts for Diwali.
@@ -229,13 +228,13 @@ fatter, thinner, sadder, wealthier, luckier, earlier
 Superlative: Richest, smallest, ugliest, fastest, fewest, brightest, biggest,
 fastest, hottest, thinnest, saddest, wealthiest, luckiest, earliest
 
-## Degrees of Comparison (old exisiting passage)
+## Degrees of Comparison (old existing passage)
 
 We use this to compare something.
 
-Elephant is bigger than tiger.
+An elephant is bigger than a tiger.
 
-The above sentence has 'comparative' degree. We directly compare one thing with
+The above sentence has a 'comparative' degree. We directly compare one thing with
 another.
 
 Note: Usually the 'comparative' adjective is followed by the word 'than'.
@@ -245,12 +244,12 @@ Sometimes we compare something with the rest of the group. It is called
 
 Note: Definite article (the) is used before the 'superlative' adjective.
 
-Elephant is the biggest land animal.
+The elephant is the biggest land animal.
 
-Sometimes we simply tell something, without really comparing with anything. It
-is called 'positive' degree.
+Sometimes we simply tell something, without really comparing it with anything. It
+is called a 'positive' degree.
 
-Elephant is a big animal.
+The elephant is a big animal.
 
 Some of the commonly used positive, comparative and superlative adjectives are
 given below.
@@ -269,7 +268,7 @@ heavy, heavier, heaviest
 
 ## Degrees of Comparison (Prepared by Riya)
 
-There are three types of degrees of comparision:
+There are three types of degrees of comparison:
 
 1. Positive
 
