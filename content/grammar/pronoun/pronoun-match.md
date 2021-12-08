@@ -2,6 +2,7 @@ Match the pairs
 
 (pronoun-2)
 
+Match the nouns with the correct pronoun. (title)
 ```
 Reena, She
 Rahul, He
@@ -28,8 +29,9 @@ I, Me
 
 (pronoun-2)
 
-## Match Related Pronouns
+## Match the pairs
 
+Match the pronouns with their correct pair. (title)
 ```
 I, Me
 He, Him
@@ -40,7 +42,7 @@ We, Us
 
 (pronoun-2)
 
-Match the word or group of words given with the corresponding pronoun.
+Match the words with the corresponding pronoun.
 
 ```
 Pintu and I, we
@@ -60,7 +62,7 @@ You and I, we
 
 (pronoun-4)
 
-Match the pronouns to the reflexive pronouns.
+Match the pronouns with the correct reflexive pronouns.
 
 ```
 I, myself
@@ -89,7 +91,7 @@ Which, car is yours?
 To whom, should I address this letter?
 
 
-Which,is the song you like?
+Which, is the song you like?
 What, is this flavour called?
 Whose is, this trophy?
 What is, your score?

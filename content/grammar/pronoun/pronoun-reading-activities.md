@@ -69,13 +69,13 @@ Me Us You, He It They, I We She
 State whether the following statements are true or false. (title)
 ```
 True:
-Possessive pronouns indicate the ownership.
-'This is his car.' is an example of possessive pronoun. 
+Possessive pronouns indicate ownership.
+'This is his car.' is an example of a possessive pronoun. 
 'Mine' is a possessive pronoun.
 
 False:
-Possessive pronouns indicate the rulership.
-'My name is Raj.' is an example of possessive pronoun. 
+Possessive pronouns indicate rulership.
+'My name is Raj.' is an example of a possessive pronoun. 
 'My' is a possessive pronoun.
 ```
 
@@ -103,25 +103,25 @@ State whether the following statements are true or false. (title)
 ```
 True:
 Reflexive and emphatic pronouns are similar.
-Pronouns ending with -self are singular.
+Pronoun ending with -self is singular.
 Pronouns ending with -selves are plural.
 
 False:
 Reflexive and emphatic pronouns are used in the same way.
-Pronouns ending with -self are plural.
+Pronoun ending with -self is plural.
 Pronouns ending with -selves are singular.
 ```
 
 ```
 True:
-Emphatic pronouns are used for emphasising on the noun or pronoun.
-On removing the emphatic pronouns, meaning of the sentence remains the same.
-'She herself made the cake' is an example of emphatic pronoun.
+Emphatic pronouns are used for emphasizing the noun or pronoun.
+On removing the emphatic pronouns, the meaning of the sentence remains the same.
+'She herself made the cake' is an example of an emphatic pronoun.
 
 False:
-Reflexive pronouns are used for emphasising on the noun or pronoun.
-On removing the reflexive pronouns, meaning of the sentence remains the same.
-'She herself made the cake' is an example of reflexive pronoun.
+Reflexive pronouns are used for emphasizing the noun or pronoun.
+On removing the reflexive pronouns, the meaning of the sentence remains the same.
+'She herself made the cake' is an example of a reflexive pronoun.
 ```
 
 # Pronoun-5
@@ -133,27 +133,10 @@ State whether the following statements are true or false. (title)
 True:
 Interrogative pronouns are used to ask questions.
 Sentences with interrogative pronouns always end with question marks.
-'What is your name?' is an example of interrogative pronoun.
+'What is your name?' is an example of an interrogative pronoun.
 
 False:
 Interrogative pronouns are used to express emotions.
 Sentences with interrogative pronouns always end up with an exclamation mark.
-'What a pleasant weather!' is an example of interrogative pronoun.
+'What a pleasant weather!' is an example of an interrogative pronoun.
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

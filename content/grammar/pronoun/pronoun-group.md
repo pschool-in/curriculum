@@ -38,9 +38,9 @@ These, Those
 
 (pronoun-3)
 
-Identify the possessive pronouns and not a possessive pronoun
+Identify which of these are possessive pronouns. (title)
 
-possessive pronoun
+Possessive pronoun
 
 ```
 His, Hers, Mine, Yours, Ours, Theirs

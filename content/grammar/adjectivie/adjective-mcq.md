@@ -1,54 +1,23 @@
-# Identify the adjective
+(Adjective-4) (Initially present as Fill in the blanks, changed into MCQ)
 
-(adjective-4)
+# Multiple choice questions
 
-Fill in the appropriate adjective to complete the sentence.
-
-```
-{
-    qText: 'The mangoes are _____.',
-    options: 'sweet, tall, square'
-},
-{
-    qText: 'The lion has ______ claws.',
-    options: 'sharp, bushy, colorful'
-},
-{
-    qText: 'The car is ______.',
-    options: 'fast, tall, fuel'
-},
-{
-    qText: 'Can you give me _____ water?',
-    options: 'little, few, no'
-},
-{
-    qText: 'The dress is very ________.',
-    options: 'colorful, enough, some'
-}
-```
+Answer the following questions.
 
 ```
-{
-    qText: 'The _____ man bought apples.',
-    options: 'tall, round, blue'
-},
-{
-    qText: 'When will this _____ exam be over?',
-    options: 'tough, sweet, frizzy'
-},
-{
-    qText: 'The _____ ball rolled down.',
-    options: 'round, tall, short'
-},
-{
-    qText: 'This is a ____ scissor.',
-    options: 'blunt, colorful, four'
-},
-{
-    qText: 'This is a ____ mango.',
-    options: 'sweet, short, old'
-}
+She gave her a _____ scarf. 
+tiny soft, soft tiny 
+She wore a _____ hat.
+silly pink, pink silly
+I have _______ pencils.
+five big, big five, wooden big
+The _______ mitten was lost.
+little pink, pink little
+My dad is a ______ man.
+tall Indian, Indian tall
 ```
+
+
 
 ## Identify the order of adjectives
 
