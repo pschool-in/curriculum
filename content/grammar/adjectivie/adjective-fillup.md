@@ -52,7 +52,7 @@ Honey is *sweet (sour)*.
 My mom is making a *tasty (short)* milkshake.
 We visited an *old (short)* palace.
 I have a *black (round)* jacket.
-Meera eats *chocolate (clever)* biscuits.
+Meera eats *chocolate (cold)* biscuits.
 The chocolate cake was *tasty (wide)*.
 My pillow is *soft (tall)*.
 We wear *cotton (warm)* clothes in summer.
@@ -61,7 +61,7 @@ These bananas are *sweet (sour)*.
 ```
 
 ```
-A plane is very *fast (rich)*.
+In the morning, the *heavy (plump) snow was covering the ground.
 Suresh is a *lazy (smart)* boy and always fails in the exam.
 The *rich (poor)* man has got a lot of money.
 The sums are *difficult (easy)* to solve in the given time.
