@@ -6,7 +6,7 @@ To learn about different types of sentences.
 
 ## Types of sentences
 
-We have already learnt about statements and orders. When it comes to the types of sentences, 'statements' are called declarative sentences and 'orders/commands' are called imperative sentences.
+We have already learned about statements and orders. When it comes to the types of sentences, 'statements' are called declarative sentences and 'orders/commands' are called imperative sentences.
 
 Examples of different types of sentences are:
 
@@ -93,7 +93,7 @@ Hurry up! *Exclamatory*
 ```
 Stop being so loud! *Exclamatory*
 When do we leave for school? *Interrogative*
-My favourite superhero is batman. *Declarative*
+My favorite superhero is batman. *Declarative*
 Clean your room. *Imperative*
 ```
 
