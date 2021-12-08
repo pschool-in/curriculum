@@ -2,12 +2,12 @@
 
 ## True or False
 
-Identify whether the following statements are true or false.
+Classify whether the following statements are true or false.
 
 True
 
 ```
-Describing word is called adjective.
+Describing word is called an adjective.
 Adjectives describe nouns or pronouns.
 Names of the colors are used as adjectives.
 ```
