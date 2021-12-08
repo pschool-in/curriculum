@@ -44,7 +44,7 @@ I like *yellow* roses.
 I like *raw* mangoes.
 
 I took *some* chalk pieces from the desk.
-Priya has *little* interest in reading story books.
+Priya has *little* interest in reading storybooks.
 We spent *few* hours planning for the birthday party.
 *Many* people visit Tirupathi every day.
 ```
@@ -110,7 +110,7 @@ Interrogative adjective
 
 ## Classify the statement-1
 
-Classify the degree of comparison for the below sentence.
+Identify the degree of comparison for the below sentence.
 
 Positive
 
@@ -131,8 +131,8 @@ This rose is more beautiful than others.
 He is taller than Mr.Das.
 
 My job is worse than yours.
-The earth is larger than moon.
-You are more polite than meera.
+The earth is larger than the moon.
+You are more polite than Meera.
 ```
 
 Superlative
@@ -148,7 +148,7 @@ This is the best chocolate cake I have had in a long time.
 
 ## Classify the statement-2
 
-Classify the degree of comparison for the below sentence.
+Identify the degree of comparison for the below sentence.
 
 Comparative
 
@@ -180,13 +180,15 @@ KBR park is far.
 
 (adjective-5)( Changed From MCQ to classify sentence)
 
-# Classify the statements -3 
+# Classify the statements -3
+
+Identify the degree of comparison for the below sentence.
 
 Positive
 
 ```
 The pen is light.
-She is very beautiful.
+She is a beautiful girl.
 Arjun is a strong boy.
 India is a democratic country.
 ```
@@ -196,55 +198,49 @@ Superlative
 ```
 London is the largest city in England.
 Whales are the biggest animals.
+Lead is the heaviest of all metals.
+Mahesh is the brightest student in the class.
 ```
 
 Comparative
 
 ```
 A school is noisier than a hospital.
-    
-    
- 
-```
-{
-    qText: `Meera's work is better than Ram's.`,
-    options: 'comparative, positive, superlative'
-},
-{
-    qText: 'Athletes are usually more famous than scientists.',
-    options: 'comparative, superlative, positive'
-},
-{
-    qText: `Poornima's hair is longer than yours.`,
-    options: 'comparative, superlative, positive'
-},
-{
-    qText: '',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: '',
-    options: 'positive, comparative, superlative'
-}
+My TV is bigger than yours.
+Greenland is larger than any other island in the world.
 ```
 
+
+# Classify the statements -4
+
+Identify the degree of comparison for the below sentence.
+
+Positive
+
 ```
-{
-    qText: 'Mango is sweet.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: 'This is the most interesting book I have read.',
-    options: 'superlative, comparative, positive'
-},
-{
-    qText: 'The Himalayas are a mountain range in Asia.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: 'Mount Everest is the highest peak.',
-    options: 'superlative, comparative, positive'
-}
+Mango is sweet.
+The Himalayas are a mountain range in Asia.
+Neetha is a good girl.
+Her hair is short.
+```
+
+Comparative
+
+```
+Meera's work is better than Ram's.
+Athletes are usually more famous than scientists.
+Poornima's hair is longer than yours.
+```
+
+Superlative
+
+```
+This is the most interesting book I have read.
+Mount Everest is the highest peak.  
+Jeevana is the smartest girl in the class.
+```        
+
+    
 
 ## Classify the Degree (old activity)
 
