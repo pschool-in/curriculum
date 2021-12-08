@@ -31,7 +31,7 @@ Pooja forgot her lunch *yesterday.*
 ```
 
 ```
-We have holiday *tomorrow.*
+We have a holiday *tomorrow.*
 I am happy *today.*
 Is Kamala *still* sleeping?
 Please come *forward* and answer.
@@ -58,17 +58,23 @@ We had to move the sofa across the room. So we moved it *quickly*, but *awkwardl
 He *calmly* explained the lesson to me. I don't have any doubts now. I will *calmly* write the test today.
 He is *eagerly* waiting for his job letter. He has worked very hard for this.
 My teacher has *faithfully* worked for my school. She will be awarded and will continue to work *respectfully*.
+Although I was explaining very *politely*, Shina *rudely* answered back. I will not talk to her unless she *respectfully* apologizes.
+The man in the street was *badly* hurt. I *quickly* called the hospital. The man was soon treated *carefully* and *efficiently*.
+He ate all the chocolate *greedily*. But my friend *gently* tapped me on my shoulder and *politely* offered me his cake.
 ```
 
 ```
 I was at the railway station yesterday. The announcement asked the people to move away from the tracks. Then a bullet train passed by very *quickly*.
-There were many children in the park. They were playing *happily*. After 7pm, they *sadly* went to their homes.
+There were many children in the park. They were playing *happily*. After 7 pm, they *sadly* went to their homes.
 We are going to the jungle. We may see many wild animals there. My mom asked my dad to drive *carefully*.
 I am at a party with my family. My mom asked me to talk to everyone *politely* and *respectfully*.
 Stop talking so *noisily* in the library. It might disturb other readers. The sounds echo *loudly* in the hall.
 My father can drive the car *easily*. But he yells *angrily* when the traffic irritates him.
 Our school *suddenly* announced a trip. We all got very excited. Everyone started making plans *excitedly*.
 Sheena was talking *loudly* on the phone. I asked her to speak *slowly* because my mom was sleeping.
+He lied to everyone. When we asked him, he *foolishly* denied it. So, everyone decided not to talk to him.
+My dad tried to give him instructions *calmly*. But he was driving *carelessly*. We were very scared.
+Harsh *patiently* waited for his mother to arrive. They *happily* headed home together and had lunch.
 ```
 
 ```
@@ -76,21 +82,12 @@ Raj fell down. We helped him to sit on the chair *comfortably*. I ran *quickly* 
 I had a fight with my friend. We were shouting *loudly*. His mom told us to talk *nicely* with each other.
 I was *hardly* able to focus on my homework. Then my friend explained it to me very *easily*. I can *simply* solve it now.
 She was dressed *smartly* for the party. She also danced *beautifully*. Everyone clapped and praised her.
-He scored well in exams. He told his parents *proudly*. The decided to celebrate by going to a restaurant.
+He scored well in exams. He told his parents *proudly*. They decided to celebrate by going to a restaurant.
 The teacher checked the answers *carefully*. I answered many questions *correctly* and scored well.
-I *energetically* did my excercise in the morning. I was feeling fresh all day long. I did all my work *efficiently*.
+I *energetically* did my exercise in the morning. I was feeling fresh all day long. I did all my work *efficiently*.
 The teacher yelled at us *angrily*. The class *immediately* started doing their homework.
-```
-
-```
-I *gladly* told my parents that I got selected in the sports team. They *excitedly* hugged me. My mom said she'll make pizza for me.
+I *gladly* told my parents that I got selected for the sports team. They *excitedly* hugged me. My mom said she'll make pizza for me.
 I got hurt. So I *rapidly* put a gel on the wound. I am doing my tasks *carefully* now.
-He lied to everyone. When we asked him, he *foolishly* denied. So, everyone decided not to talk to him.
-My dad tried to give him instructions *calmly*. But he was driving *carelessly*. We were very scared.
-Although I was explaining very *politely*, Shina *rudely* answered back. I will not talk to her unless she *respectfully* apologizes.
-The man in the street was *badly* hurt. I *quickly* called the hosptial. The man was soon treated *carefully* and *efficiently*.
-He ate all the chocolate *greedily*. But my friend *gently* tap me on my shoulder and *politely* offered me his cake.
-Harsh *patiently* waited for his mother to arrive. They *happily* headed home together and had lunch.
 ```
 
 (adverb-4)
@@ -129,28 +126,34 @@ He drove the car *very* fast.
 
 ## Select the adverbs of degree
 
-Tap on all the adverb of degrees.
+Tap on all the adverbs of degree.
 
 ```
-She was *considerably* sick. Yet she *bravely* appeared in the exam. Everone praised her.
+She was *considerably* sick. Yet she *bravely* appeared in the exam. Everyone praised her.
 She gained a lot of weight *enormously*. She was *very* thin last year. And she got *very* fat this year.
 The guests were *pretty* loud. I could *hardly* study. So I decided to do it later.
 The teacher *completely* agreed with my answer. I was *extremely* happy. My enemies got *very* jealous.
-I was *immensely* tired after the programme. My mom made *so* much food. But I was *quite* tired so I slept.
-That man *somewhat* looked like my uncle. I *almost* got confused. Then I realised he was *just* similar to him.
+I was *immensely* tired after the program. My mom made *so* much food. But I was *quite* tired so I slept.
+That man *somewhat* looked like my uncle. I *almost* got confused. Then I realized he was *just* similar to him.
 We live in the same street and go to the same school. But, I *barely* talk to him. He's *quite* irritating.
 She made fun of me. I am *deeply* hurt. She is *very* bad and rude. She *almost* made me cry.
+Tarun walks *extremely* fast. But I walk *quite* slowly. I *barely* match his pace.
+It is *nearly* impossible for me to attend the party. I am going with my family to a *very* popular restaurant.
+When you try something new, you should *really* look at the instructions first. They are *immensely* useful.
 ```
 
 ```
 It's *very* cold outside. I would *rather* stay inside a blanket. It is *extremely* cold.
 I like this book. I *really* admire the author. I will now read all the books he has written.
-Our teacher decided to teach us even in the lunch break. And now we all are *literally* starving.
+Our teacher decided to teach us even during the lunch break. And now we all are *literally* starving.
 The artist *minutely* observed my painting. He said it was good *enough*. I felt *immense* joy.
-I *strongly* believe that we should obey our elder. It is because they know about *so* many things.
+I *strongly* believe that we should obey our elders. It is because they know about *so* many things.
 My friend *highly* recommended me this book. I *just* finished reading. I think it is *very* interesting.
 The teacher *thoroughly* checked my answer sheet. I answered *almost* all the questions correctly.
 I became *slightly* uncomfortable when the guests came. I am *simply* shy. So, I left within 5 minutes.
+Rahul is *rather* quiet. But his brother is *pretty* talkative. He is also *very* outgoing.
+Your answers are *slightly* wrong. You should revise *thoroughly* before submitting them.
+He performed *remarkably* well this year. The teachers are *extremely* proud of him. He *really* did *very* well.
 ```
 
 ```
@@ -158,21 +161,45 @@ He was *almost* finished with his work. But the teacher gave him a lot more to d
 The milk was *completely* frozen because it was kept in the freezer. I *quickly* put it outside.
 The teacher was *terribly* rude today. She gave us *so* much homework that it is more than *enough* for the week.
 The cake was *absolutely* delicious. But I *barely* ate it because I ate *so* many french fries. I like them *very* much.
-I feel *incredibly* lucky. My exams are cancelled. I can play all day long.
-I *just* finished my work. Now I *hardly* have any energy left. I will *rather* sleep than watching TV.
-The movie was *quite* interesting. We *deeply* discussed about it. We liked it *very* much.
+I feel *incredibly* lucky. My exams are canceled. I can play all day long.
+I *just* finished my work. Now I *hardly* have any energy left. I will *rather* sleep than watch TV.
+The movie was *quite* interesting. We *deeply* discussed it. We liked it *very* much.
 The water was *extremely* cold. We should prefer to drink warm water. It is *very* good for our health.
+Are these pens *enough*? Do you think they are *too* many? Shall I return some of these?
+I am not *entirely* sure what homework the teacher gave us. I was *slightly* distracted in the class.
+```
+
+## Select (label) (multiple select words)
+
+Select the adverbs of place and time in these sentences. (title)
+```
+The cat is *under* the sofa. It went there *when* it was time to bath.
+I will clean my house *tomorrow*. I am very tired *now*.
+The children are playing *outside*. They have been playing *since* evening.
+I am studying in this school *since* fourth grade. The school is *in* the city.
+We rowed the boat towards *north*, *where* the waves were not high.
+She came *running* to me *when* she saw a dog. I laughed.
+I had my lunch over *there* *yesterday*. I will eat *here* *today*.
+He *never* drinks milk. His mom sends him *at* my house. He drinks it with me.
+We are meeting *behind* the school *next week*. We will play cricket *there*.
+*Since* she moved *across* the street, we have become friends. We play *in* the park *every day*.
+The car is moving *backwards*. I will move aside *when* it will come closer.
+I *always* eat an apple *in* the kitchen. I go to the school *afterwards*.
 ```
 
 ```
-Tarun walks *extremely* fast. But I walk *quite* slowly. I *barely* match his pace.
-It is *nearly* impossible for me to attend the party. I am going with my family to a *very* popular restaurant.
-When you try something new, you should *really* look at the instructions first. The are *immensely* useful.
-Rahul is *rather* quite. But his brother is *pretty* talkative. He is also *very* outgoing.
-Your answers are *slightly* wrong. You should revise them *thoroughly* before submitting.
-He performed *remarkably* well this year. The teachers are *extremely* proud of him. He *really* did *very* well.
-Are these pens *enough*? Do you think they are *too* many? Shall I return some of these?
-I am not *entirely* sure what homework the teacher gave us. I was *slightly* distracted in the class.
+I met Ram *yesterday*. I came to know that he lives *across* the street.
+I completed my homework *last night*. I won't be punished *in* the school today.
+She is going *towards* the library. But it is closed *now*.
+Do you know *where* does he live? I need my book by *tonight*.
+I am taking my dog for a walk *now*. It loves to go *near* the park.
+I will be *here* *tomorrow* also. We can meet *here* only.
+My sister likes to play *indoor* games. But she went to play cricket *yesterday* evening.
+I will go to the school *next week*. I am *overseas* *right now*.
+The clouds are *up* *in* the sky. It will probably rain *tonight*.
+We looked *around* but we couldn't find the dog. It may be sleeping.
+My brother *never* helps me. He is always *at* his friend's house.
+*Sometimes*, my Dad comes home early. Then we walk *around* the street at night.
 ```
 
 ## Select the Adverb
@@ -182,14 +209,11 @@ Tap on the adverb of frequency in the below sentences.
 (adverb-5)
 
 ```
-*Sometimes*, the school take the kids to the zoo.
+*Sometimes*, the school takes the kids to the zoo.
 Ayushi is *usually* very rude.
 My grandma *often* goes for a walk in the morning.
 I *never* go outside in the afternoon.
 He *often* listens to the radio.
-```
-
-```
 He sleeps during the classes *frequently*.
 The newspaper is *usually* delivered in the morning.
 Does she *often* help her mother?
@@ -203,9 +227,6 @@ Molly's sister *occasionally* comes to the park.
 He is *often* late.
 My little sister is *always* hungry.
 Sheenu *usually* helps her mother in the kitchen.
-```
-
-```
 The teacher checks our homework *weekly*.
 He is *always* late.
 *Sometimes* they come and eat with us.
@@ -227,44 +248,41 @@ Tap on all the adverbs of frequency.
 
 ```
 *Sometimes* they come and stay with us. But *mostly* they return to their home the same day. They *rarely* stay.
-I *ocassionally* play tennis. I don't like it much. But my dad likes it. He plays tennis *daily*.
-We *usually* go to shopping on Sundays. My brother *never* comes with so. And he *rarely* likes what we bring for him.
-I go to school *regularly*. I *rarely* miss my classes. I also love meeting my friends *everyday*.
+I *occasionally* play tennis. I don't like it much. But my dad likes it. He plays tennis *daily*.
+We *usually* go shopping on Sundays. My brother *never* comes with so. And he *rarely* likes what we bring for him.
+I go to school *regularly*. I *rarely* miss my classes. I also love meeting my friends *every day*.
 We have exams *annually*. We also have practice tests *monthly* for preparation. *Sometimes* we have *weekly* tests too.
 I *always* drink milk in the morning. It is very good for health. We all should drink milk *regularly*.
-I *generally* wake up early in the morning. But on week days, I *sometimes* take a nap after coming from school.
-I was *continuously* watching TV from 1 hour. My mom told me to get up.
+I *generally* wake up early in the morning. But on weekdays, I *sometimes* take a nap after coming from school.
+I was *continuously* watching TV for 1 hour. My mom told me to get up.
+I *seldom* eat junk food because I know it's not healthy. I eat chips *sometimes* at school.
+My dad *rarely* goes to the gym, only *twice* or *thrice* a week.
+She *usually* finishes her work early because she is *often* busy with other things.
 ```
 
 ```
 I *rarely* talk to my childhood friend anymore. But we *usually* played together earlier.
 I am tired, *yet* will do my homework. I *usually* complete my homework on time. But *sometimes* I forget to.
-He *always* helps me. He plays with me *daily*. We also go to school together *everyday*.
-We have a meeting in the school *monthly*. The teacher discuss our progress with parents. She is *often* nice and *rarely* complains.
+He *always* helps me. He plays with me *daily*. We also go to school together *every day*.
+We have a meeting in the school *monthly*. The teacher discusses our progress with parents. She is *often* nice and *rarely* complains.
 How *often* do you watch a movie? I watch one *twice* in a month, *sometimes* only *once*.
 *Every* minute counts while writing an exam. We *generally* write slowly and *often* have no time to write all answers.
-Jane is *never* late for class. She *always* comes on time. She *rarely* fall sick.
+Jane is *never* late for class. She *always* comes on time. She *rarely* falls sick.
 I am *next* in line. *Now* I'll be able to measure my weight. I hope I have gained some.
+It *never* snows where I live. So, I have *never* seen snowfall and *never* made a snowman.
+Did you *ever* travel to a foreign country? I want to go to America *someday*. It's *always* snowing there in winter.
+I *always* study very hard to get good grades. My dad *always* takes me to another city for holidays *each* time I score good marks.
 ```
 
 ```
 He hits the ball really hard. It got lost *twice*. No one will *ever* play with him *again*.
-They have *four* cars. *Each* person in the house drive their own vehicle. They *rarely* go out in one car.
-Ravi *never* tells lie. But *today* he put the blame on the wrong student. We will *never* trust him *again*.
-She missed her bus *again*. As *usual*, her father has to drop her to school. This has become her *daily* thing.
-We *generally* search songs on the internet. But he *often* listens to the radio.
+They have *four* cars. *Each* person in the house drives their own vehicle. They *rarely* go out in one car.
+Ravi *never* tells lie. But *today* he blamed the wrong student. We will *never* trust him *again*.
+She missed her bus *again*. As *usual*, her father has to drop her at school. This has become her *daily* thing.
+We *generally* search for songs on the internet. But he *often* listens to the radio.
 I went to a restaurant last week, but I *seldom* ate at home. I *rarely* eat something outside.
-I'm *never* late for maths class. I'm *always* on time. I practice maths *everyday*.
+I'm *never* late for maths class. I'm *always* on time. I practice maths *every day*.
 My sister *often* reads a book *weekly*. She loves poetry and novels.
-```
-
-```
-I *seldom* eat junk food because I know it's not healthy. I eat chips *sometimes* at school.
-My dad *rarely* goes to the gym, only *twice* or *thrice* a week.
-She *usually* finish her work early because she is *often* busy with other things.
-It *never* snows where I live. So, I have *never* seen snowfall and *never* made a snowman.
-Did you *ever* travel to a foreign country? I want to go to America *someday*. It's *always* snowing there in winter.
-I *always* study very hard to get good grades. My dad *always* takes me to another city for holidays *each* time I score good marks.
 Even though they have to get up *early*, they *rarely* go to bed on time. They *generally* watch TV at night.
 The teacher said that she'll clear my doubt *later*. I can come back in *sometime*.
 ```
