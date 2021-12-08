@@ -7,7 +7,7 @@ To understand what statements and order are and how to identify and use them.
 ## Statement
 
 A statement tells us about something. It always ends with a full stop or period. Example:
-1. I go to school everyday.
+1. I go to school every day.
 2. My sister is very smart.
 3. I have a younger brother.
 4. I sing well.
@@ -31,7 +31,7 @@ Identify if the below sentences are 'statements' or 'orders'. (title)
 Statement:
 I have a pet dog.
 It is common to find lizards at home.
-This is my favourite book.
+This is my favorite book.
 
 Order:
 Feed the dog!
@@ -139,7 +139,7 @@ Orders and commands are the same.
 Orders can end with a full stop or an exclamation mark.
 
 False:
-Statements, orders and commands are the same.
+Statements, orders, and commands are the same.
 Orders always end with a full stop.
 Statements tell us to do something.
 ```
