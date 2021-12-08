@@ -16,7 +16,7 @@ Adverbial (A)
 The most simple sentence has a subject and verb (S+V) component.
 
 ```
-Baby is crying.
+The baby is crying.
 Dogs bark.
 ```
 
@@ -41,7 +41,7 @@ In some sentences, there can be two objects: Direct (DO) and Indirect (IO).
 They sent me a gift.
 me - IO, gift - DO
 
-Can you tell our friends the story.
+Can you tell our friends the story?
 friends - IO, story - DO
 
 ```
@@ -157,7 +157,7 @@ S+V+O+C
 They made me captain.
 The baby made everyone happy.
 My Granny named me Reena.
-The long ship journey made the people sick.
+The longship journey made the people sick.
 
 Rosy got her shoes wet.
 He painted the wall white.
@@ -179,11 +179,11 @@ The manager threw the old chair away.
 S+V+IO+DO
 
 ```
-My dad presented me a watch.
+My dad presented me with a watch.
 The doctor gave her medicine.
-The child gave me a hug.
+The child hugged me.
 
-The judge sent the thief to the prison.
+The judge sent the thief to prison.
 The teacher gave me some candies.
 Grandma told me a story.
 My uncle showed us the city.
