@@ -126,7 +126,7 @@ Each dosa, is tasty, are tasty
 ```
 Arush, is not well, are not well
 You, are ok, is ok
-They, come everyday, comes everyday
+They, come every day, comes every day
 The teacher, teaches well, teach well
 Snowfalls, are common in America, is common in America
 ```
@@ -167,7 +167,7 @@ We want to visit the Taj Mahal
 ```
 
 ```
-We have a smart board in the classroom
+We have a smartboard in the classroom
 The cat jumped over the fence
 I put my clothes in an almirah
 Our team will play well
