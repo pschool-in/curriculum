@@ -62,6 +62,43 @@ I *almost (utmost)* dropped the pen.
 He danced *wonderfully (wonderful)*.
 ```
 
+## Fillup (label) (fillup with options)
+
+Tap of each blank and choose the correct adverb of place and time. (title)
+```
+The bushes are in *front (behind)* of the house.
+The flowers are *behind (between)* the bench.
+The client is *still (never)* waiting for the meeting.
+The entry is *through* the window.
+Do you take the bus *everyday (never)*?
+Did you submit your project *yet (still)*?
+We go to a restaurant *weekly (once)*.
+Monkeys climb on *top (bottom)* of the tree.
+There are lots of plants *around (round)* us.
+Are you coming *tomorrow (yesterday)*?
+```
+
+```
+The line is moving *forward (foreword)*.
+I'll talk to you *later (latter)*.
+I kept my box *somewhere (somehow)* in the house.
+I went to Mumbai for *two weeks (too weeks)* on a vacation.
+The bees were *everywhere (somewhat)* on the farm.
+She goes for a regular check-up *every month (last month)*.
+Look for your pen *behind (above)* the pot.
+We have to submit our report *daily (days)*.
+I posted a letter *in (on)* the mailbox.
+She stays with her grandma *all (few)* days.
+```
+
+```
+He kept on lecturing us for *hours (hour)*.
+She lives *down (under)* the road.
+She went to the church *yesterday (tomorrow)*.
+*Tomorrow (Yesterday)*, I will clean my house.
+She visits her grandparents *weekly (week)*.
+```
+
 ## Identify
 
 Choose the correct adverb of frequency. Tap on each blank to view options.
@@ -73,10 +110,10 @@ We should brush our teeth *twice (two, twise)* in a day.
 I *usually (usual, general)* wake up late on holidays.
 Ram is *never (not, nor)* late for work.
 I *often (more, usual)* travel on weekends.
-When do you *uaually (almost, utmost)* study?
+When do you *usually (almost, utmost)* study?
 My dad is late, *yet (but, for)* he'll go to the office.
 *Yesterday (Yesternight, Usually)* we had sports day at school.
-I will do my HW *tonight (some night, in day)*.
+I will do my HW *tonight (some night, in the day)*.
 ```
 
 ```
