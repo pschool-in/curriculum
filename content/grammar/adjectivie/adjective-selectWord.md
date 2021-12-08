@@ -1,4 +1,4 @@
-Select the describing words
+# Select the describing words
 
 (adjective-1)
 
@@ -12,25 +12,25 @@ Aman is *confused* about a maths problem.
 
 ```
 I read a story about an *ugly* witch.
-A *fast* car always win in races.
+A *fast* car always wins in races.
 Coconut trees are *tall*.
 A lion roars very *loudly*.
-Goods train is very *long*.
+A goods train is very *long*.
 ```
 
 ```
-A *poor* man was sitting on roadside.
-This is a *pleasant* weather.
+A *poor* man was sitting on the roadside.
+This is *pleasant* weather.
 A *small* rat lives in our house.
 I have a *purple* dress.
-A *clean* table.
+The *hungry* baby was crying for his bottle.
 ```
 
 (adjective-2)
 
 ## Identify the adjectives
 
-Spot the adjectives in the following sentences.
+Select the adjectives in the following sentences.
 
 ```
 One *rainy* day, my *little* cat jumped and sat on the *black* sofa and played with his *new* toy.
@@ -47,7 +47,7 @@ Swapna sits on a *small* bench and watches the squirrels running up and down.
 
 ```
 My mom is making aloo paratha for lunch. She picked up the *big* bag of flour with her *small* hands.
-She added the flour into the *red* bowl. She mixed some *warm* water, *white* salt and some oil
+She added the flour into the *red* bowl. She mixed some *warm* water, *white* salt, and some oil
 and kneaded it into a *soft* dough. Then she cooked *tasty* aloo stuffing for the paratha.
 She made *small*, *round* balls of the dough and flattened it and then stuffed the aloo mix
 and made *round* parathas with lots of butter and served hot.
@@ -79,9 +79,9 @@ My sister ate the *whole* banana.
 ```
 
 ```
-Can I have *some* ice-cream today after dinner?
+Can I have *some* ice cream today after dinner?
 I don't need *any* help with my homework today.
-There are *many* theatres in my city. You can watch movie anywhere you want.
+There are *many* theatres in my city. You can watch a movie anywhere you want.
 I don't have *much* time for completing my science project.
 I have got very *little* water left in my water bottle.
 My sister ate the *whole* cake!
@@ -136,7 +136,7 @@ Some trees produce *sweet* fruits like mango and apple, while some give *sour* f
 ```
 
 ```
-My cousin, Ram has a *large* farm. In that farm there are many plants and animals.
+My cousin, Ram has a *large* farm. In that farm, there are many plants and animals.
 The *playful* dog's name is Rocky. The *cute* kitten is called Ginger.
 Ram sells *fresh* fruits and vegetables in the *big* market every Sunday.
 ```
@@ -149,9 +149,9 @@ He sells these fruits in a *big* supermarket.
 
 (adjective-4)
 
-## Find Me
+## Identify - adjective
 
-Identify the adjective in the sentence.
+Select the adjective in the sentence.
 
 ```
 The tree is too *tall* to climb.
@@ -192,10 +192,10 @@ My grandparents live in a *brick* house.
 
 ## Identify adjectives
 
-Identify the adjectives given in the passage.
+Select the adjectives given in the passage.
 
 ```
-Once upon a time... there lived a women who had no children.
+Once upon a time... there lived a woman who had no children.
 She dreamed of having a *little* girl.
 But time went by and her dream never came true.
 So, she visited an *ugly* witch who gave her a *magic* grain of barley.
@@ -206,15 +206,15 @@ The next morning, the *magic* grain turned into a *lovely* tulip.
 ```
 The women kissed the *soft* petals and the flower opened.
 Inside the flower sat a *tiny* girl, no bigger than a thumb.
-She was named Thumbelina. She had a walnut shell for bed, *violet* petals for mattress.
-One night, as Thumbelina  was fast asleep, a *large* frog hopped in through the window.
+She was named Thumbelina. She had a walnut shell for the bed, *violet* petals for a mattress.
+One night, as Thumbelina was fast asleep, a *large* frog hopped in through the window.
 She said to herself, how *pretty* Thumbelina is!
-Later, she picked up Thumbelina and hopped back in to the wetlands.
+Later, she picked up Thumbelina and hopped back into the wetlands.
 ```
 
 ## Identify - degrees of comparison-1
 
-Identify the comparative degree of adjective in the sentence.
+Select the comparative degree of adjective in the sentence.
 
 (adjective-5)
 
@@ -225,7 +225,7 @@ The summer is *warmer than* winter.
 Tortoises live *longer than* cats.
 My sister is *more intelligent than* my brother.
 Mumbai is *bigger than* Delhi.
-A rose is *more beautiful* than hibiscus.
+A rose is *more beautiful* than a hibiscus.
 Shiva is *cleverer than* Subrat.
 Tortoises live *longer than* cats.
 My mom is *taller than* my grandmom.
@@ -246,16 +246,16 @@ I am *more tired than* yesterday due to busy work.
 
 ## Identify - degrees of comparison-2
 
-Identify the superlative degree of adjective in the sentence.
+Select the superlative degree of adjective in the sentence.
 
 ```
-Cheetah is *the fastest* animal in the world.
+The cheetah is *the fastest* animal in the world.
 May is *the hottest* month of the year.
 Which mountain is *the highest* in the world?
 Dhruv is *the noisiest* student in the school.
 This is *the best* book I have read.
 December is *the coldest* month of the year.
-Mango is *the juciest* fruit among all.
+Mango is *the juiciest* fruit of all.
 Mount Everest is *the highest* peak in the world.
 Chandan is *the most hardworking* student in the class.
 Vihaan is *the tallest* boy in the class.
