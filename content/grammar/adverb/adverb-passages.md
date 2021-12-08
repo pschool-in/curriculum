@@ -46,24 +46,6 @@ More examples are:
 Other common adverbs of degree are almost, quite, nearly, extremely, too, just,
 enough, hardly, almost, etc.
 
-# Adverb of Frequency
-
-(adverb-5)
-
-Adverb of frequency tells us;
-
-1. how many times an action has occurred in the past.
-2. how many times does it occur in the present.
-3. how many times will it occur in the future.
-
-Examples are sometimes, usually, always, generally, seldom, rarely, often, ever,
-weekly, monthly, etc.
-
-1. Rashi _never_ plays cricket.
-2. Amir visits his grandparents _weekly_.
-3. She _sometimes_ teaches younger kids.
-4. We should brush our teeth _twice_.
-
 # Adverb of Time
 
 Adverb of time answers the question 'when'. It means that it tells us about when something has happened. Examples of adverbs of time are yesterday, still, while, soon, tomorrow, last week, when, etc.
@@ -83,3 +65,23 @@ Examples of adverbs of place in sentences:
 2. She lives *in front of* the furniture shop.
 3. The Sun rises in the *east*.
 4. There were many dogs *around* us.
+
+(adverb-5)
+
+# Adverb of Frequency
+
+Adverb of frequency tells us;
+
+1. how many times an action has occurred in the past.
+2. how many times does it occur in the present.
+3. how many times will it occur in the future.
+
+Examples are sometimes, usually, always, generally, seldom, rarely, often, ever,
+weekly, monthly, etc.
+
+1. Rashi _never_ plays cricket.
+2. Amir visits his grandparents _weekly_.
+3. She _sometimes_ teaches younger kids.
+4. We should brush our teeth _twice_.
+
+
