@@ -1,4 +1,4 @@
-## Group
+## Group ( can be labeled as Positive vs Negative)
 
 (adjective-1)
 
@@ -21,6 +21,8 @@ Jealous, Moody, Rude, Selfish
 ```
 
 (adjective-2)
+
+# Adjectives vs Non-adjectives ( can be the label)
 
 Identify the adjectives from the group of words and add them into the
 appropriate box.
@@ -46,6 +48,8 @@ Winter, Pizza, Car, Museum, Hut
 ```
 
 # Jumbled Words
+
+Arrange the letters to form a meaningful word.
 
 (adjective-1)
 
@@ -77,9 +81,10 @@ Smart, Smert
 
 (adjective-3)
 
-## Group
+## Group ( can be labeled as Adjective vs Non-adjective)
 
-Identify which one of the following is an adjective and which is not.
+Identify the adjectives from the group of words and add them into the
+appropriate box.
 
 Adjective
 
@@ -103,7 +108,7 @@ Car, Dress, Soldier, Fruits, Building
 
 (adjective-4)
 
-## Classify the words
+## Classify the words ( can be labeled as Adjectives vs Non-adjectives)
 
 Identify the adjectives from the group of words given below and put them into
 the appropriate box.
@@ -128,7 +133,7 @@ crocodile, train, turtle, table, banana
 
 (adjective-4)
 
-## Find the order of adjectives
+## Find the order of adjectives ( can be changed to Arrange in order) 
 
 Arrange the adjectives in the correct order to make a meaningful sentence.
 
