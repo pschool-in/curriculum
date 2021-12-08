@@ -1,5 +1,6 @@
 (Adjective-4) (Initially present as Fill in the blanks, changed into MCQ)
 
+
 # Multiple choice questions
 
 Answer the following questions.
@@ -18,8 +19,9 @@ tall Indian, Indian tall
 ```
 
 
+(adjective-4)
 
-## Identify the order of adjectives
+## Multiple Choice - Order of Adjectives
 
 Choose the appropriate options to complete the sentence.
 
@@ -134,75 +136,7 @@ Choose the appropriate options to complete the sentence.
 }
 ```
 
-(adjective-5)
 
-Multiple choice questions
-
-```
-{
-    qText: 'The pen is light.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: 'She is very beautiful.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: `London is the largest city in England.`,
-    options: 'superlative, comparative, positive'
-},
-{
-    qText: `Whales are the biggest animals.`,
-    options: 'superlative, comparative, positive'
-},
-{
-    qText: `A school  is noisier than a hospital.`,
-    options: 'comparative, superlative, positive'
-}
-
-```
-
-```
-{
-    qText: `Meera's work is better than Ram's.`,
-    options: 'comparative, positive, superlative'
-},
-{
-    qText: 'Athletes are usually more famous than scientists.',
-    options: 'comparative, superlative, positive'
-},
-{
-    qText: `Poornima's hair is longer than yours.`,
-    options: 'comparative, superlative, positive'
-},
-{
-    qText: 'Arjun is a strong boy.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: 'India is a democratic country.',
-    options: 'positive, comparative, superlative'
-}
-```
-
-```
-{
-    qText: 'Mango is sweet.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: 'This is the most interesting book I have read.',
-    options: 'superlative, comparative, positive'
-},
-{
-    qText: 'The Himalayas are a mountain range in Asia.',
-    options: 'positive, comparative, superlative'
-},
-{
-    qText: 'Mount Everest is the highest peak.',
-    options: 'superlative, comparative, positive'
-}
-```
 
 (adjective-5)
 
