@@ -492,4 +492,60 @@ water-drop| വെള്ളത്തുള്ളി
 waterfall| വെള്ളച്ചാട്ടം
 rainbow| മഴവില്ല്
 ```
+# Other Pictures - മറ്റ് ചിത്രങ്ങൾ
+
+Level-1
+```
+ring| മോതിരം
+brush| തൂലിക
+bone| അസ്ഥി
+auvai|
+bell| മണി
+conch| ശംഖ്
+drums| 
+five| അഞ്ച്
+food| ആഹാരം
+king|  രാജാവ്
+kite| പട്ടം
+ladder| ഏണി
+ladoo| ലഡൂ
+rishi| ഋഷി
+wheel| ചക്രം
+whistle| വിസിൽ
+yazl|
+```
+Level-2
+```
+bullock-cart| കാളവണ്ടി
+warrior| യോദ്ധാവ്
+knight| 
+chariot| രഥം
+park| 
+garden| പൂന്തോട്ടം
+horse-carriage| കുതിരവണ്ടി
+touch-me-not| 
+yagna| യജ്ഞം
+yarn-ball | 
+bow| വില്ലു
+arrow| അമ്പ്
+fountain| ജലധാര
+pouch| സഞ്ചി
+top| 
+hexagon| ഷഡ്ഭുജം
+trident| ത്രിശൂലം
+damaru| 
+trolley| 
+stick| വടി
+twig|  ചില്ല
+dhol| 
+palanquin| പല്ലക്ക്
+medicine| ഔഷധം
+balloon| ബലൂൺ
+radio| 
+toothbrush| 
+chocolate| 
+toothpaste| 
+box| പെട്ടി
+coin| നാണയം
+```
 
