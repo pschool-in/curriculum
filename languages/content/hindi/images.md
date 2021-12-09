@@ -533,8 +533,8 @@ pouch|थैली
 top|लट्टू 
 hexagon|षटकोण
 trident|त्रिशूल
-damaru|
-trolley|डमरू
+damaru|डमरू
+trolley|
 stick|डंडा
 twig| टहनी
 dhol|ढोल
