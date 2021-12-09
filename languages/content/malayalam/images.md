@@ -55,12 +55,12 @@ lizard| പല്ലി
 rabbit| മുയൽ
 alligator| ചീങ്കണ്ണി
 boar|
-cricket|
+cricket| ചീവീട്
 hyena| കഴുതപ്പുലി
 polarbear| ധ്രുവക്കരടി
-antelope|
+antelope| മാന്‍
 bug|
-jackal|
+jackal|കുറുനരി
 prawn| കൊഞ്ച്
 baboon|
 bull| കാള
@@ -76,14 +76,14 @@ tigerfish|
 ladybug|
 seahorse| കടൽക്കുതിര
 hamster|
-mole|
+mole| പെരുച്ചാഴി
 spider| ചിലന്തി
-caterpillar|
-panda|
+caterpillar| ചിത്രശലഭ പ്പുഴു
+panda| കരടിപ്പൂച്ച
 starfish| നക്ഷത്രമത്സ്യം
 earthworm| മണ്ണിര
 hedgehog|
-stingray|
+stingray| തിരണ്ടി
 ```
 # Birds - പക്ഷികൾ
 Level-1
@@ -104,12 +104,12 @@ kingfisher| പൊന്‍മാന്‍
 myna| മൈന
 ostrich| ഒട്ടകപ്പക്ഷി
 owl| മൂങ്ങ
-rooster| കോഴി
+rooster| പൂവന്‍കോഴി
 vulture| കഴുകൻ
-woodpecker| 
+woodpecker| മരംകൊത്തി
 hornbill| വേഴാമ്പൽ
-koel| 
-cuckoo| 
+koel| കരിങ്കുയില്‍
+cuckoo| കുയില്‍
 pheasant| 
 falcon| 
 swan| ഹംസം
@@ -123,7 +123,7 @@ blue-jay|
 seagull| 
 canary| 
 goose| വാത്ത്
-turkey| 
+turkey| തുര്‍ക്കിക്കോഴി
 hawk| 
 cardinal| 
 parakeet| 
@@ -137,8 +137,8 @@ Level-1
 apple| ആപ്പിൾ
 grapes| മുന്തിരി
 banana| വാഴപ്പഴം
-cherry| 
-avocado| 
+cherry| ചെറിപ്പഴം
+avocado| വെണ്ണപ്പഴം
 strawberry| ഞാവൽപ്പഴം
 guava| പേരക്ക
 jackfruit| ചക്ക
@@ -189,7 +189,7 @@ brinjal| വഴുതന
 capsicum| 
 cashewnut| കശുവണ്ടി
 chilli| മുളക്
-coconut| തേങ്ങ
+coconut| നാളികേരം
 ```
 Level-2
 ```
@@ -205,7 +205,7 @@ spinach| ചീര
 chickpea| കടല
 mustard-greens| കടുക് ഇല
 turmeric| മഞ്ഞൾ
-turnip| 
+turnip| മധുരമുള്ളങ്കി
 fenugreek| ഉലുവ ഇല
 tamarind| പുളി
 elephant-yam| ചേന
@@ -239,7 +239,7 @@ tulip|
 zinnia| സിന്നിയ
 daffodil|  
 gulmohar| 
-lily| 
+lily| വെള്ളാമ്പല്‍
 pansy| 
 poppy| 
 daisy| 
@@ -264,7 +264,7 @@ tractor|
 train| തീവണ്ടി
 ambulance| 
 auto| ഓട്ടോറിക്ഷ
-cart| 
+cart| ഉന്തുവണ്ടി
 excavator| 
 fire-engine| 
 lorry| ലോറി
@@ -417,7 +417,7 @@ tooth| പല്ല്
 Level-2
 ```
 axe| കോടാലി
-balance| തുലനം
+balance| തുലാസ്
 blackboard | 
 hose | 
 microscope| സൂക്ഷ്മദർശിനി
@@ -431,10 +431,10 @@ stethoscope |
 telescope| ദൂരദർശിനി
 testube | 
 thermometer| 
-trowel| 
+trowel| കുമ്മായക്കരണ്ടി
 walkie-talkie | 
 awl | തോലുളി
-compass| 
+compass| വടക്കുനോക്കി യന്ത്രം
 easel| ചിത്രപീഠം
 hacksaw| 
 scalpel| 
@@ -534,7 +534,7 @@ top| പമ്പരം
 hexagon| ഷഡ്ഭുജം
 trident| ത്രിശൂലം
 damaru| 
-trolley| 
+trolley| തള്ളുവണ്ടി 
 stick| വടി
 twig|  ചില്ല
 dhol| 
