@@ -299,8 +299,8 @@ door| വാതിൽ
 broom| ചൂല്
 window| ജാലകം
 air-conditioner|
-sofa|
-bucket| ബക്കറ്റ്
+sofa|ചാരുകട്ടില്‍
+bucket| തൊട്ടി
 toilet|
 soap| സോപ്പ്
 washing-machine|
@@ -309,17 +309,17 @@ pillow| തലയണ
 basket| കൊട്ട
 dustbin| ചവറ്റുകുട്ട
 bed-lamp|
-handbag|
+handbag|കൈസഞ്ചി
 ```
 # Dress - വസ്ത്രം
 
 Level-1
 ```
-dress|  
-coat| 
+dress| ഉടുപ്പ് 
+coat| കുപ്പായം
 shoe| ചെരുപ്പ്
 sock| കാലുറ
-boots| 
+boots| പാദരക്ഷ
 pyjama| 
 gloves| കയ്യുറകൾ
 scarf| 
@@ -381,7 +381,7 @@ mushroom| കൂൺ
 sandwich| 
 cake| 
 flour| മാവ്
-lentils| 
+lentils| പരിപ്പ്
 rice| അരി
 soup| 
 ```
@@ -433,9 +433,9 @@ testube |
 thermometer| 
 trowel| 
 walkie-talkie | 
-awl | 
+awl | തോലുളി
 compass| 
-easel| 
+easel| ചിത്രപീഠം
 hacksaw| 
 scalpel| 
 screw| പിരിയാണി
@@ -443,8 +443,8 @@ screwdriver|
 flute| ഓടക്കുഴൽ
 piano| 
 tabla| തബല
-violin| 
-guitar| 
+violin| സാരംഗി
+guitar| ഗിത്താര്‍
 saxophone| 
 trumpet| 
 xylophone| 
@@ -456,7 +456,7 @@ Level-2
 astronaut| ബഹിരാകാശ സഞ്ചാരി
 clown| വിദൂഷകൻ
 fisherman| മുക്കുവൻ
-postman| 
+postman| തപാല്‍ ശിപായി
 teacher| അധ്യാപകൻ
 blacksmith| കമ്മാരൻ
 cobbler| ചെരുപ്പുകുത്തി
@@ -502,7 +502,7 @@ bone| അസ്ഥി
 auvai|
 bell| മണി
 conch| ശംഖ്
-drums| 
+drums| ചെണ്ട
 five| അഞ്ച്
 food| ആഹാരം
 king|  രാജാവ്
@@ -520,17 +520,17 @@ bullock-cart| കാളവണ്ടി
 warrior| യോദ്ധാവ്
 knight| 
 chariot| രഥം
-park| 
+park| ഉദ്യാനം
 garden| പൂന്തോട്ടം
 horse-carriage| കുതിരവണ്ടി
-touch-me-not| 
+touch-me-not| തൊട്ടാവാടി
 yagna| യജ്ഞം
 yarn-ball | 
 bow| വില്ലു
 arrow| അമ്പ്
 fountain| ജലധാര
 pouch| സഞ്ചി
-top| 
+top| പമ്പരം
 hexagon| ഷഡ്ഭുജം
 trident| ത്രിശൂലം
 damaru| 
