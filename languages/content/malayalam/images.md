@@ -1,255 +1,551 @@
-# fruits
+# Animals - മൃഗങ്ങൾ
 
-1. apple
-2. grapes
-3. banana
-4. cherry
-5. avocado
-6. strawberry
-7. guava
-8. jackfruit - ചക്ക
-9. mango
-10. orange
-11. papaya
-12. pineapple
-13. pomegranate
-14. watermelon
-15. fig
-16. custard-apple
-17. plum
-18. dates
-19. muskmelon
-20. fruits - ഫലം
+Level-1
+```
+cat| പൂച്ച
+dog| നായ
+goat| ആട്
+sheep| ചെമ്മരിയാട്
+horse| കുതിര
+pig|  പന്നി
+elephant| ആന
+lion| സിംഹം
+monkey| കുരങ്ങൻ
+tiger| കടുവ
+hippo| നീര്ക്കുതിര
+rhino| കാണ്ടാമൃഗം
+fox| കുറുക്കൻ
+crocodile| മുതല
+zebra| 
+bear| കരടി
+camel| ഒട്ടകം
+shark| സ്രാവ്
+whale| തിമിംഗലം
+dolphin| 
+dragonfly| തുമ്പി 
+fish| മത്സ്യം
+frog| തവള
+crab| ഞണ്ട്
+snake| പാമ്പ്
+squirrel| അണ്ണാൻ
+tortoise| ആമ
+rat| എലി
+winged-termites| ചിതൽ
+ant| ഉറുമ്പ്
+fly|  ഈച്ച
+bat| വവ്വാൽ
+buffalo| എരുമ
+butterfly| ചിത്രശലഭം
+cheetah| ചീറ്റ
+cow| പശു
+donkey| കഴുത
+```
+Level-2
+```
+giraffe| 
+kangaroo|
+leopard| പുള്ളിപ്പുലി
+mongoose| കീരി
+mosquito| കൊതുക്
+octopus| നീരാളി
+wolf| ചെന്നായ
+cockroach| പാറ്റ
+garden-lizard|
+lizard| പല്ലി
+rabbit| മുയൽ
+alligator| ചീങ്കണ്ണി
+boar|
+cricket| ചീവീട്
+hyena| കഴുതപ്പുലി
+polarbear| ധ്രുവക്കരടി
+antelope| മാന്‍
+bug|
+jackal|കുറുനരി
+prawn| കൊഞ്ച്
+baboon|
+bull| കാള
+dinosaur| ദിനോസർ
+python| പെരുമ്പാമ്പ്
+bison| കാട്ടുപോത്ത്
+chameleon| ഓന്ത്
+porcupine| മുള്ളൻപന്നി
+bee| തേനീച്ച
+goldfish| സ്വർണ്ണമത്സ്യം
+jellyfish|
+tigerfish|
+ladybug|
+seahorse| കടൽക്കുതിര
+hamster|
+mole| പെരുച്ചാഴി
+spider| ചിലന്തി
+caterpillar| ചിത്രശലഭ പ്പുഴു
+panda| കരടിപ്പൂച്ച
+starfish| നക്ഷത്രമത്സ്യം
+earthworm| മണ്ണിര
+hedgehog|
+stingray| തിരണ്ടി
+```
+# Birds - പക്ഷികൾ
+Level-1
+```
+crow| കാക്ക
+dove| പ്രാവ്
+duck| താറാവ്
+hen| കോഴി
+parrot| തത്ത
+peacock| മയിൽ
+penguin| 
+sparrow| കുരുവി
+chick| കോഴിക്കുഞ്ഞ്
+crane| കൊക്ക്
+eagle| പരുന്ത്
+flamingo| 
+kingfisher| പൊന്‍മാന്‍
+myna| മൈന
+ostrich| ഒട്ടകപ്പക്ഷി
+owl| മൂങ്ങ
+rooster| പൂവന്‍കോഴി
+vulture| കഴുകൻ
+woodpecker| മരംകൊത്തി
+hornbill| വേഴാമ്പൽ
+koel| കരിങ്കുയില്‍
+cuckoo| കുയില്‍
+pheasant| 
+falcon| 
+swan| ഹംസം
+bulbul| 
+spotted-dove| പുള്ളിപ്രാവ്
+pelican| 
+humming-bird| 
+robin| 
+swallow| കടൽകാക്ക
+blue-jay| 
+seagull| 
+canary| 
+goose| വാത്ത്
+turkey| തുര്‍ക്കിക്കോഴി
+hawk| 
+cardinal| 
+parakeet| 
+macaw| 
+```
 
-# vegetables
+# Fruits - പഴങ്ങൾ
 
-1. carrot
-2. beetroot
-3. onion - ഉള്ളി
-4. tomato
-5. potato
-6. cabbage
-7. cauliflower
-8. corn
-9. cucumber
-10. garlic
-11. ginger
-12. pumpkin
-13. almond
-14. beans
-15. bitter-gourd
-16. brinjal
-17. capsicum
-18. cashewnut
-19. chilli
-20. coconut
-21. corianderleaf
-22. curryleaf
-23. drumstick
-24. greenpeas
-25. ladies-finger
-26. mintleaf
-27. peanut
-28. raddish
-29. spinach
+Level-1
+```
+apple| ആപ്പിൾ
+grapes| മുന്തിരി
+banana| വാഴപ്പഴം
+cherry| ചെറിപ്പഴം
+avocado| വെണ്ണപ്പഴം
+strawberry| ഞാവൽപ്പഴം
+guava| പേരക്ക
+jackfruit| ചക്ക
+mango| മാമ്പഴം
+orange| ഓറഞ്ച്
+papaya| പപ്പായ
+pineapple| കൈതച്ചക്ക
+pomegranate| മാതളം 
+watermelon| തണ്ണിമത്തൻ
+fig| അത്തിപ്പഴം
+custard-apple| 
+plum| 
+dates| ഈത്തപ്പഴം
+muskmelon| 
+star-fruit| 
+dragon-fruit| 
+passion-fruit| 
+sugarcane| കരിമ്പ്
+peach| 
+sweet-potato| മധുരക്കിഴങ്ങ്
+jamun| 
+pear| സബര്ജില്ലി
+water-chesnut| 
+sapotta| സപ്പോട്ട
+tapioca| മരച്ചീനി
+blueberry|   
+```
+# Vegetables - പച്ചക്കറികൾ
 
-# flowers
+Level-1
+```
+carrot| കാരറ്റ്
+beetroot| ബീറ്റ്റൂട്ട്
+onion| ഉള്ളി
+tomato| തക്കാളി
+potato| ഉരുളക്കിഴങ്ങ്
+cabbage| മുട്ടക്കൂസ് 
+cauliflower| 
+corn| ചോളം
+cucumber| വെള്ളരിക്ക
+garlic| വെളുത്തുള്ളി
+ginger| ഇഞ്ചി
+pumpkin| മത്തങ്ങ
+almond| ബദാം
+beans| പയർ
+bitter-gourd| പാവയ്ക്ക
+brinjal| വഴുതന
+capsicum| 
+cashewnut| കശുവണ്ടി
+chilli| മുളക്
+coconut| നാളികേരം
+```
+Level-2
+```
+corianderleaf| മല്ലിയില
+curryleaf| കറിവേപ്പില
+drumstick| മുരിങ്ങ
+greenpeas| 
+ladies-finger| വെണ്ടയ്‌ക്കാ
+mintleaf| പുതിന
+peanut| കപ്പലണ്ടി
+raddish| മുള്ളങ്കി  
+spinach| ചീര
+chickpea| കടല
+mustard-greens| കടുക് ഇല
+turmeric| മഞ്ഞൾ
+turnip| മധുരമുള്ളങ്കി
+fenugreek| ഉലുവ ഇല
+tamarind| പുളി
+elephant-yam| ചേന
+ashgourd| കുമ്പളങ്ങ
+broad-beans| വാളരി പയർ
+snake-gourd| പടവളങ്ങ
+banana-flower| വാഴപ്പൂവ്
+cluster-beans| 
+kohlrabi| 
+spring-onion| കുഞ്ഞുള്ളി 
+banana-stem| വാഴ തണ്ട്
+drumstick-leaves| മുരിങ്ങയില
+raw-banana| പച്ച കായ്
+tulsi| തുളസി
+bottlegourd| ചുരക്ക
+ivygourd| കോവയ്ക്ക 
+ridgegourd|  പീച്ചിങ്ങ
+vegetables| പച്ചക്കറികൾ
+```
+# Flowers - പൂക്കൾ
 
-1. rose - റോസ്
-2. lotus - താമര
-3. sunflower - സൂര്യകാന്തി
-4. marigold - ജമന്തി
-5. hibiscus - ചെമ്പരുത്തി
-6. jasmine - മുല്ലപ്പൂ
-7. tulip
-8. zinnia
+Level-2
+```
+rose| റോസാപ്പൂവ്
+lotus| താമര
+sunflower| സൂര്യകാന്തി 
+marigold|  ജമന്തിപ്പൂവ്
+hibiscus|  ചെമ്പരത്തി
+mogra| കൊട മുല്ല
+tulip| 
+zinnia| സിന്നിയ
+daffodil|  
+gulmohar| 
+lily| വെള്ളാമ്പല്‍
+pansy| 
+poppy| 
+daisy| 
+jasmine| മുല്ലപ്പൂ
+magnolia| 
+periwinkle| ശവം നാറി
+water-lily| ആമ്പൽ 
+```
+# Vehicles - വാഹനം
 
-# vehicles
+Level-2
+```
+aeroplane| വിമാനം
+boat| വള്ളം
+bus| 
+car| കാർ
+cycle| സൈക്കിൾ
+helicopter| 
+motorbike| 
+ship| കപ്പൽ
+tractor| 
+train| തീവണ്ടി
+ambulance| 
+auto| ഓട്ടോറിക്ഷ
+cart| ഉന്തുവണ്ടി
+excavator| 
+fire-engine| 
+lorry| ലോറി
+van| 
+bulldozer| 
+rocket| 
+submarine| മുങ്ങിക്കപ്പൽ
+```
+# House - വീട്
 
-1. aeroplane
-2. boat
-3. bus
-4. car - കാർ
-5. cycle
-6. helicoptor
-7. motorbike
-8. ship
-9. tractor
-10. train
-11. ambulance
-12. auto
-13. cart
-14. excavator
-15. fire-engine
-16. lorry
-17. van
+Level-1
+```
+man| പുരുഷൻ
+woman| വനിത
+boy| ആൺകുട്ടി
+girl| പെൺകുട്ടി
+house| വീട്
+grandfather| മുത്തച്ഛൻ
+table| മേശ
+bed| കിടക്ക
+candle| മെഴുകുതിരി
+chair| കസേര
+shelf| അലമാര
+baby| കുഞ്ഞ്
+ball| പന്ത്
+glasses| കണ്ണട
+clock| ഘടികാരം
+watch| 
+flower-pot| പൂച്ചട്ടി
+umbrella| കുട
+door| വാതിൽ
+broom| ചൂല്
+window| ജാലകം
+air-conditioner|
+sofa|ചാരുകട്ടില്‍
+bucket| തൊട്ടി
+toilet|
+soap| സോപ്പ്
+washing-machine|
+backpack|
+pillow| തലയണ
+basket| കൊട്ട
+dustbin| ചവറ്റുകുട്ട
+bed-lamp|
+handbag|കൈസഞ്ചി
+```
+# Dress - വസ്ത്രം
 
-# house
+Level-1
+```
+dress| ഉടുപ്പ് 
+coat| കുപ്പായം
+shoe| ചെരുപ്പ്
+sock| കാലുറ
+boots| പാദരക്ഷ
+pyjama| 
+gloves| കയ്യുറകൾ
+scarf| 
+sweater| 
+bib| 
+shirt| ഷർട്ട്
+jacket| 
+hat| തൊപ്പി
+trousers| 
+```
+# School - വിദ്യാലയം
 
-1. house
-2. table
-3. bed
-4. candle
-5. chair
-6. shelf
-7. baby
-8. boy
-9. girl
-10. man
-11. woman
-12. ball
-13. coat
-14. glasses
-15. clock
-16. watch
+Level-2
+```
+eraser|  മയിപ്പ്
+pen| പേന
+pencil| പെൻസിൽ
+sharpener| 
+ruler| 
+schoolbag| 
+scissors| കത്രിക
+waterbottle| കുപ്പി
+calculator| 
+book| പുസ്തകം
+color-pencils | 
+crayons| 
+ink| മഷി
+```
+# Kitchen - അടുക്കള
 
-# school
+Level-1
+```
+stove| അടുപ്പ്
+fork| മുള്ക്കരണ്ടി
+knife| കത്തി
+pan| ചട്ടി
+spoon |  കരണ്ടി
+pot| കലം
+butter| വെണ്ണ
+plate| പാത്രം
+tap| 
+lid| അടപ്പ്
+blender|
+cheese| പാൽക്കട്ടി
+fridge|
+lollipop| 
+salad| സലാഡ്
+sugar| പഞ്ചസാര
+bowl| കോപ്പ
+chicken| കോഴി
+ice-cream| 
+meat| ഇറച്ചി
+salt| ഉപ്പ്
+sweets| മധുരം
+bread| അപ്പം
+cup| കപ്പ്
+juice| നീര്
+mushroom| കൂൺ
+sandwich| 
+cake| 
+flour| മാവ്
+lentils| പരിപ്പ്
+rice| അരി
+soup| 
+```
+# Gadgets
 
-1. eraser
-2. pen - പേന
-3. pencil
-4. ruler
-5. schoolbag
-6. scissors
-7. sharpener
-8. waterbottle
-9. calculator
-10. book
-11. color-pencils
-12. crayons
+Level-2
+```
+camera|
+headphone|
+pendrive|
+remote|
+smartphone|
+speaker|
+tablet|
+torch|
+web-camera|
+```
+# Body Parts - ശരീരഭാഗങ്ങൾ
 
-# kitchen
+Level-1
+```
+ear| ചെവി
+eye| കണ്ണ്
+foot| പാദം
+hair| മുടി
+hand| കൈ 
+mouth| വായ
+nose| മൂക്ക്
+tooth| പല്ല്
+```
+# Tools - ഉപകരണങ്ങൾ
 
-1. stove
-2. fork
-3. knife
-4. pan
-5. spoon
-6. pot
-7. butter
+Level-2
+```
+axe| കോടാലി
+balance| തുലാസ്
+blackboard | 
+hose | 
+microscope| സൂക്ഷ്മദർശിനി
+needle | സൂചി
+oven | 
+plier| പ്ലയർ
+plough | കലപ്പ
+saw| അറപ്പുവാള്‍
+spade| മണ്‍കോരി
+stethoscope | 
+telescope| ദൂരദർശിനി
+testube | 
+thermometer| 
+trowel| കുമ്മായക്കരണ്ടി
+walkie-talkie | 
+awl | തോലുളി
+compass| വടക്കുനോക്കി യന്ത്രം
+easel| ചിത്രപീഠം
+hacksaw| 
+scalpel| 
+screw| പിരിയാണി
+screwdriver| 
+flute| ഓടക്കുഴൽ
+piano| 
+tabla| തബല
+violin| സാരംഗി
+guitar| ഗിത്താര്‍
+saxophone| 
+trumpet| 
+xylophone| 
+```
+# Jobs - ഉദോഗം
 
-# gadgets
+Level-2
+```
+astronaut| ബഹിരാകാശ സഞ്ചാരി
+clown| വിദൂഷകൻ
+fisherman| മുക്കുവൻ
+postman| തപാല്‍ ശിപായി
+teacher| അധ്യാപകൻ
+blacksmith| കമ്മാരൻ
+cobbler| ചെരുപ്പുകുത്തി
+goldsmith| സ്വർണ്ണപ്പണിക്കാരൻ
+potter| കുശവൻ
+weaver| നെയ്ത്തുകാരൻ
+carpenter| ആശാരി
+diver| മുങ്ങല്‍വിദഗ്‌ദ്ധന്‍
+nurse| പരിചാരിക
+sailor| നാവികൻ
+chef| പാചകക്കാരൻ
+doctor| വൈദ്യൻ
+police| പോലീസ്
+soldier| സൈനികൻ
+barber| ക്ഷുരകന്‍
+washerman| അലക്കുകാരൻ
+```
+# Nature - പ്രകൃതി
 
-1. camera
-2. headphone
-3. pendrive
-4. remote
-5. smartphone
-6. speaker
-7. tablet
-8. torch
-9. web-camara
+Level-1
+```
+sun| സൂര്യൻ
+moon| ചന്ദ്രൻ
+rain| മഴ
+star| നക്ഷത്രം
+milk| പാൽ
+bird| പക്ഷി
+fruits| ഫലം
+leaf| ഇല
+world| ലോകം
+nest| കൂട്
+water-drop| വെള്ളത്തുള്ളി
+waterfall| വെള്ളച്ചാട്ടം
+rainbow| മഴവില്ല്
+```
+# Other Pictures - മറ്റ് ചിത്രങ്ങൾ
 
-# animals
+Level-1
+```
+ring| മോതിരം
+brush| തൂലിക
+bone| അസ്ഥി
+auvai|
+bell| മണി
+conch| ശംഖ്
+drums| ചെണ്ട
+five| അഞ്ച്
+food| ആഹാരം
+king|  രാജാവ്
+kite| പട്ടം
+ladder| ഏണി
+ladoo| ലഡൂ
+rishi| ഋഷി
+wheel| ചക്രം
+whistle| വിസിൽ
+yazl|
+```
+Level-2
+```
+bullock-cart| കാളവണ്ടി
+warrior| യോദ്ധാവ്
+knight| 
+chariot| രഥം
+park| ഉദ്യാനം
+garden| പൂന്തോട്ടം
+horse-carriage| കുതിരവണ്ടി
+touch-me-not| തൊട്ടാവാടി
+yagna| യജ്ഞം
+yarn-ball | 
+bow| വില്ലു
+arrow| അമ്പ്
+fountain| ജലധാര
+pouch| സഞ്ചി
+top| പമ്പരം
+hexagon| ഷഡ്ഭുജം
+trident| ത്രിശൂലം
+damaru| 
+trolley| തള്ളുവണ്ടി 
+stick| വടി
+twig|  ചില്ല
+dhol| 
+palanquin| പല്ലക്ക്
+medicine| ഔഷധം
+balloon| ബലൂൺ
+radio| 
+toothbrush| 
+chocolate| 
+toothpaste| 
+box| പെട്ടി
+coin| നാണയം
+```
 
-1. cat
-2. dog
-3. goat
-4. sheep
-5. horse
-6. pig
-7. elephant - ആന
-8. lion - സിംഹം
-9. monkey - കുരങ്ങൻ
-10. tiger - കടുവ
-11. hippo
-12. rhino - കാണ്ടാമൃഗം
-13. fox
-14. crocodile - മുതല
-15. zebra
-16. bear - കരടി
-17. camel - ഒട്ടകം
-18. shark
-19. whale
-20. dolphin
-21. dragonfly
-22. fish
-23. frog
-24. crab - ഞണ്ട്
-25. snake
-26. squirrel
-27. tortoise
-28. rat
-29. winged-termites
-30. ant
-31. fly
-32. bat
-33. buffalo
-34. butterfly
-35. cheetah
-36. cow
-37. donkey
-38. giraffe
-39. kangaroo
-40. leopard
-41. mongoose
-42. mosquito
-43. octopus
-44. wolf
-45. cockroach
-46. garden-lizard
-47. lizard
-48. rabbit
-
-# birds
-
-1. crow
-2. dove
-3. duck
-4. hen
-5. parrot
-6. peacock - മയിൽ
-7. penguin
-8. sparrow
-9. chick
-10. crane
-11. eagle
-12. flamingo
-13. kingfisher
-14. myna
-15. ostrich
-16. owl
-17. rooster
-18. vulture
-19. woodpecker
-20. hornbill
-
-# bodyParts
-
-1. ear - ചെവി
-2. eye - കണ്ണ്
-3. foot
-4. hair - മുടി
-5. hand
-6. mouth - വായ
-7. nose - മൂക്ക്
-8. tooth
-
-# others
-
-1. sun
-2. moon
-3. rain
-4. star
-5. milk
-6. ring
-7. brush
-8. bone
-9. auvai
-10. bell - മണി
-11. bird
-12. conch
-13. drums
-14. five
-15. food
-16. fruits
-17. king
-18. kite
-19. ladder
-20. ladoo
-21. leaf
-22. rishi
-23. wheel
-24. whistle
-25. world
-26. yazl
