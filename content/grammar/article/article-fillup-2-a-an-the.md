@@ -1,4 +1,6 @@
-# fill up (a, an, the)
+# Fill in the blanks (a, an, the)
+
+Click on the blanks and pick the correct Article.
 
 (article-2)
 
@@ -66,118 +68,169 @@ The egg has *an* oval shape.
 He carried *an* axe.
 ```
 
+```
+This is exactly *the* shirt I was looking for.
+Mr.Iyer is *an* honorary member of our council.
+My grandfather was *the* village chief.
+*The (A, An)* fruit market will be closed on Tuesday.
+```
+
 (article-3)
 
 ```
-He ate *an (a, the)* apple.
-I will meet *the (a, an)* President today.
-The mangoes cost thirty rupees *a (an, the)* piece.
-I have *an (a, the)* exam today.
+He ate *an* apple.
+I will meet *the* President today.
+The mangoes cost thirty rupees *a* piece.
+I have *an* exam today.
 *The (A, An)* dog is barking.
-She goes to the temple in *the (a, an)* mornings.
-Abhinav is *the (a, an)* best singer in the class.
+She goes to the temple in *the* mornings.
+Abhinav is *the* best singer in the class.
 *The (A, An)* camel is the ship of the desert.
-Aarav is sleeping on *the (a, an)* grey sofa.
+Aarav is sleeping on *the* grey sofa.
 *The (An, A)* sun is shining bright today!
-He is holding *a (an, the)* bag.
+He is holding *a* bag.
 ```
 
 ```
-There is *a (an, the)* cat in my room.
-My brother bought *a (an, the)* gift for me.
-He is eating *an (the, a)* apple.
-I saw *an (a, the)* elephant.
-My sister poured honey on *the (a, an)* fruits.
-I saw *a (an, the)* snake in my garden.
-My uncle is *a (the, an)* policeman.
-Are you going to *the (a, an)* park this evening?
-There is *a (the, an)* fountain at the entrance of the temple.
-My cousins visited *the (a, an)* Tajmahal last year.
+There is *a* cat in my room.
+My brother bought *a* gift for me.
+He is eating *an* apple.
+I saw *an* elephant.
+My sister poured honey on *the* fruits.
+I saw *a* snake in my garden.
+My uncle is *a* policeman.
+Are you going to *the* park this evening?
+There is *a* fountain at the entrance of the temple.
+My cousins visited *the* Tajmahal last year.
 ```
 
 ```
-I am reading *a (an, the)* novel.
-It is *a (the, an)* sweet memory.
-I want *a (the, an)* burger.
-She wants to buy *an (the, a)* umbrella.
-We can see *the (a, an)* stars at night.
+I am reading *a* novel.
+It is *a* sweet memory.
+I want *a* burger.
+She wants to buy *an* umbrella.
+We can see *the* stars at night.
 *The (A, An)* elephants are very big animals.
-That is *an (a, the)* interesting book.
-My brother has *a (an, the)* headache.
-I have *a (an, the)* test today.
-She is eating *a (an, the)* chocolate pastry.
+That is *an* interesting book.
+My brother has *a* headache.
+I have *a* test today.
+She is eating *a* chocolate pastry.
 ```
 
 (article-4)
 
 ```
-I met *a (the, an)* friend in the store.
-He ate *an (a, the)* orange for his breakfast.
-I have *a (an, the)* pet cat.
-My dad bought me *an (a, the)* iPad yesterday.
-Mrs.Bhavani is *the (a, an)* principal of our college.
+I met *a* friend in the store.
+He ate *an* orange for his breakfast.
+I have *a* pet cat.
+My dad bought me *an* iPad yesterday.
+Mrs.Bhavani is *the* principal of our college.
 *The(A,An)* Ganges flows from *the (a, an)* Himalayas.
-There is *a (an, the)* eucalyptus tree near my building.
-Manvi is *a (an, the)* small village in Karnataka.
-I like to have *a (the, an)* cup of coffee.
+There is *a* eucalyptus tree near my building.
+Manvi is *a* small village in Karnataka.
+I like to have *a* cup of coffee.
 *The (An, A)* building on the corner is under construction.
 ```
 
 ```
-It is better to tell *the (a, an)* truth.
-India is *a (an, the)* country.
-Lakshadweep is *an (a, the)* island.
-He arrived *an (a, the)* hour later.
+It is better to tell *the* truth.
+India is *a* country.
+Lakshadweep is *an* island.
+He arrived *an* hour later.
 Which bike do you like? *The (A, An)* blue one?
-Pass me *the (a, an)* slice of bread.
-I saw *an (a, the)* eagle flying near my fields.
+Pass me *the* slice of bread.
+I saw *an* eagle flying near my fields.
 *The (A, An)* Tajmahal is in Agra.
-My mom bought *a (an, the)* pair of jeans and a shirt.
-There is *an (a, the)* umbrella in my bag.
+My mom bought *a* pair of jeans and a shirt.
+There is *an* umbrella in my bag.
 ```
 
 ```
-He is *an (a, the)* honest man.
-His wife is *an (a, the)* American.
-My brother acted in *a (an, the)* movie.
+He is *an* honest man.
+His wife is *an* American.
+My brother acted in *a* movie.
 *The (A, An)* laptop that I have is not very expensive.
-Rohit bought *a (an, the)* cup of tea.
-Copper is *an (a, the)* useful metal.
-He gave me *an (a, the)* inkpot and *a (an, the)* pen.
+Rohit bought *a* cup of tea.
+Copper is *an* useful metal.
+He gave me *an* inkpot and *a* pen.
 *The (A, An)* rose is a beautiful flower.
-I saw *a (an, the)* baby hippo in *the (a, an)* zoo.
-I saw *an (a, the)* anthill in my garden.
+I saw *a* baby hippo in *the* zoo.
+I saw *an* anthill in my garden.
 ```
 
 ```
-Reading is *a (an, the)* good habit.
+Reading is *a* good habit.
 *The (A, An)* school will remain closed for two days.
-My sister is *an (a, the)* English teacher.
-She bought *an (a, the)* orange dress.
-My husband is *a (an, the)* doctor.
-My neighbour bought *a (an, the)* new car.
-*The (a, an)* Birla planetarium is located in Hyderabad.
-My dad is *an (a, the)* engineer.
-Adi's brother bought *a (an, the)* new bicycle.
-Are you coming to *the (a, an)* library tomorrow?
+My sister is *an* English teacher.
+She bought *an* orange dress.
+My husband is *a* doctor.
+My neighbour bought *a* new car.
+*The (A, An)* Birla planetarium is located in Hyderabad.
+My dad is *an* engineer.
+Adi's brother bought *a* new bicycle.
+Are you coming to *the* library tomorrow?
 ```
 
+## simple passages with 5 to 10 articles.
 
+(article-4)
+
+```
+Once upon *a* time, there was *a* little girl called Meera. She lived in *a* village with her parents.
+*The (An, A)* village was near *a* sea. Meera had *an* aunt who lived near her house.
+One day *a* man came to *the* village with *an* elephant. He took *the* children for *a* ride on *the* elephant.
+*The (An, A)* children enjoyed *the* ride and had lots of fun.
+Abhi and his dad went fishing one day. Abhi took *the* fishing rod and his dad took some worms.
+They got on *a* small boat and set for a sail. Abhi's dad drove *the* boat.
+```
+
+```
+
+He knows where to find *the* fish. Abhi liked *the* boat ride.
+Abhi put *a* worm on *the* hook of *the* fishing rod and put it in water.
+He felt *the* pole pull but when he reeled back *the* rod it was not *a* fish but *an* old can.
+Ram went on *a* trip with his parents to Nepal. This was Ram's first plane trip. They took *a* cab to *the* airport.
+Ram got down from *the* cab and was amazed to see *the* big and beautiful airport.
+Ram boarded *the* plane and found his seat and buckled his seat belt.
+```
+
+```
+
+*The(An, A)* plane's engines rumbled and roared! *The(An, A)* plane moved faster and faster and then - whoosh!
+On *the* ground, cars and houses looked like toys. Ram had great fun on this trip.
+One day *a* hunter set *a* net to catch *the* birds. He placed grains and rice over *the* net.
+After some time *a* flock of pigeons started eating *the* grains and got caught in *the* net.
+They tried to free themselves but could not. Then their leader asked them to fly together up in *the* sky.
+So, they flew along with *the* net and reached their friend's home. Their friend was *a* mouse.
+```
+
+```
+*The(An, A)* mouse cut *the* net and freed the pigeons.
+Once upon *a* time, there lived two friends. One day they were crossing *the* jungle.
+After some time they found *a* giant bear coming towards them.
+Then, one of *the* friends quickly climbed *the* tree but *the* other friend did not know how to climb *a* tree.
+So he lay on *the* ground holding his breath. *The* bear approached *the* friend and sniffed him.
+After some time *the* bear left thinking *the* man was dead.
+```
 
 ## Complete the Story
 
+(article-4)
+
+Rethna: Make it misc activity
+
 ```
-Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree. 
-*A (The, An)* cheerful mouse came there and saw *the (a, an)* lion. *The (A, An)* mouse climbed onto the body of the lion and started playing. 
-He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse. 
-*The (A, An)* mouse trembled in fear. The lion took pity on it and let it go. 
-The mouse thanked and promised the lion that it would help in times of need. 
-One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (A, An)* poor lion roared for help. 
+Once upon a time, in *a (the, an)* thick forest, *a (the, an)* lion was sleeping under *a (an, the)* tree.
+*A (The, An)* cheerful mouse came there and saw *the (a, an)* lion. *The (A, An)* mouse climbed onto the body of the lion and started playing.
+He pulled *the (a, an)* lion’s whiskers. Suddenly the lion woke up and roared in anger and caught the mouse.
+*The (A, An)* mouse trembled in fear. The lion took pity on it and let it go.
+The mouse thanked and promised the lion that it would help in times of need.
+One day *a (an, the)* hunter trapped *the (an, a)* lion. *The (A, An)* poor lion roared for help.
 The mouse heard the cries and came there and cut *the (a, an)* net with its sharp teeth. The lion came out and they became good friends.
 ```
 
 ```
-One afternoon *a (the, an)* fox was walking through *the (a, an)* forest and spotted *a (the, an)* bunch of grapes hanging from over *a (an, the)* lofty branch. 
+One afternoon *a (the, an)* fox was walking through *the (a, an)* forest and spotted *a (the, an)* bunch of grapes hanging from over *a (an, the)* lofty branch.
 “Just *the (a, an)* right thing to quench my thirst,” he thought. Taking a few steps back, *the (a, an)* fox jumped and just missed *the (a, an)* hanging grapes.
 Again *the (a, an)* fox took a few paces back and tried to reach them but still failed.
 After *an (a, the)* hour finally *the (a, an)* fox gave up and turned up his nose and said, “They’re probably sour anyway,” and walked away.
@@ -234,4 +287,80 @@ Radha: I think we should make *a (an)* cake.
 Krishna: Yes, it's *a (the)* good idea! I have got *an (a)* egg and some oranges. Let's make *an(a)* orange cake.
 Radha: To finish it, we can add *the (a)* chocolate icing on top of *the(a)* cake.
 Krishna: okay. I hope our family is going to like *the(a)* cake we make.
+```
+
+## Draft
+
+Not included
+
+```
+My mom poured lemonade from *a* pitcher.
+That cat is stuck in *a* tree.
+An elephant has *a* long trunk.
+The truck was driving down *a* dirt road.
+There is a chair at *the* table.
+Mary ate *an* egg for breakfast.
+Tom runs as fast as *a* cheetah.
+There is *an* inky spot on my pants.
+I love to read *a* book.
+```
+
+```
+Raj wants *a* new bag.
+John tasted *the* cake made by his mother.
+ *a* new dance teacher was appointed.
+All *the* children need to obey their parents.
+Uncle turned on *the* television.
+I will buy *a* pen today.
+She read *an* interesting story to us.
+There was *a* huge crowd in the market.
+Julie spoke for *an* hour about her school project.
+*a* European expert was invited to our school annual day celebration.
+```
+
+```
+We have *a* beautiful dressing room.
+*the* garden is full of lillies.
+Is hockey *a* popular sport in your school?
+I need *a* glass of water.
+She needs *an* envelope.
+They’re at *the* park near their house.
+My brother is in *the* library.
+What is *the* baby’s name?
+```
+
+```
+John uses *the* Internet *a* lot.
+What is *the* capital of your country?
+He called me *an* hour ago.
+Tamil nadu lies in *the* south of India.
+She is on *a* diet.
+Carol’s father works as *an* electrician.
+We need *a* place to live.
+I saw *an* old man working on *a* farm.
+```
+
+```
+Jake took out *a* bottle of juice.
+It started raining heavily and she lended us *an* umbrella. I returned *the* umbrella the next day.
+I have *a* great idea.
+He is *the* nice man whom i told you about.
+We had *a* delicious meal.
+She wore *a* pretty pink dress.
+I saw tigers in *a* zoo.
+He is *a* pilot.
+*An* apple *a* day builds immunity.
+*The* boys have come to play.
+```
+
+```
+Italy is *a* European country.
+He gave *a* one rupee coin to her.
+He says he always speaks *the* truth. But I don't believe him.
+*The* Sahara is in *the* northern part of Africa.
+Ant is *an* insect.
+New York is *a* large city.
+Blue whale is *the* largest animal.
+I saw *a* one eyed person near *the* market.
+He is *an* honest teacher. He don't give extra marks for his son.
 ```

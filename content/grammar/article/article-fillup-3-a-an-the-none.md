@@ -48,42 +48,42 @@ My brother does not like *-* chicken.
 (article-4)
 
 ```
-Do you know how to play *the (an)* keyboard?
-This is my best friend * - (the)* Vamshi.
-My mother is *a (the)* doctor.
-My brother is *an (-)* author.
-The Cow is *a (an)* domestic animal.
-Riyaan wanted *a (an)* new watch for his birthday.
-All students must obey *the (-)* rules of the school.
-My mom is *an (a)* MBA graduate.
-My teacher read *an (a)* interesting story from today's newspaper.
-Mrs. Sunita is *an (a)* excellent teacher.
+Do you know how to play *the* keyboard?
+This is my best friend *-* Vamshi.
+My mother is *a* doctor.
+My brother is *an* author.
+Cow is *a* domestic animal.
+Riyaan wanted *a* new watch for his birthday.
+All students must obey *the* rules of the school.
+My mom is *an* MBA graduate.
+My teacher read *an* interesting story from today's newspaper.
+Mrs. Sunita is *an* excellent teacher.
 ```
 
 ```
-*The (-)* sun shines brightly.
-One of my cousins is *an (a)* engineer.
-My son wants to be *a (an)* scientist.
-Do you have *a (an)* passport?
-My grandmother is as wise as *an (a)* owl.
-We have *an (-)* exam tomorrow.
-My parents waited *an (a)* hour in the railway station.
-I don't like *- (the)* dogs, but I like my sister's dog.
-Sumitra's father is *an (the)* advocate.
-Ravi met with *an (the)* accident yesterday.
+*The (An, A, -)* sun shines brightly.
+One of my cousins is *an* engineer.
+My son wants to be *a* scientist.
+Do you have *a* passport?
+My grandmother is as wise as *an* owl.
+We have *an* exam tomorrow.
+My parents waited *an* hour in the railway station.
+I don't like *-* dogs, but I like my sister's dog.
+Sumitra's father is *an* advocate.
+Ravi met with *an* accident yesterday.
 ```
 
 ```
-There is a spider on *the (-)* roof.
-Karthik can play *the (-)* guitar.
-*The (-)*AC has stopped working.
-Please open *the(-)* window.
-She is *an (-)* architect.
-He can play *the (-)* flute.
-*The (-)* Himalayas lie to the North of India.
-Sanskrit is *a (-)* difficult language.
-The children found *an (the)* egg in the bird's nest.
-* - (The)* Mount Everest is the highest mountain in the world.
+There is a spider on *the* roof.
+Karthik can play *the* guitar.
+*The (-, an, a)* AC has stopped working.
+Please open *the* window.
+She is *an* architect.
+He can play *the* flute.
+*The (-)* Himalayas lie in the North of India.
+Sanskrit is *a* difficult language.
+The children found *an* egg in the bird's nest.
+* - (The, An, A)* Mount Everest is the highest mountain peak in the world.
 ```
 
 ```
@@ -98,7 +98,3 @@ Listen! Vamshi is playing *the (an)* piano.
 Mahita enjoys eating * - (a)* cakes.
 My sister is in *the (-)* classroom.
 ```
-
-
-
-

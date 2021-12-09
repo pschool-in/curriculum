@@ -1,4 +1,8 @@
-# Identify whether the sentences have articles or not.
+# Presence of article
+
+Identify whether the sentences have articles or not.
+
+(article-1)
 
 Has article
 
@@ -12,7 +16,7 @@ My mother is a doctor.
 Shannu is a nice boy.
 ```
 
-Doesn't have an article
+Doesn't Have
 
 ```
 I could see stars at night.
@@ -24,9 +28,11 @@ December is quite cold.
 I go to school by car every day.
 ```
 
-## Select whether the sentence has a definite/indefinite/no article.
+## Classify- Article Type
 
-Definite Article
+Select whether the sentence has a definite,indefinite or no article.
+
+(article-3)
 
 ```
 I wake up at 6 0'clock in the morning.
@@ -61,55 +67,46 @@ Milk is good for you.
 Men are always fond of cricket.
 ```
 
-
 # Correct or Incorrect
-Identify whether the article usage is right or wrong in the sentence.
+
+Identify whether the article usage is correct in the sentence.
+
+(article-3)
+
+right
 
 ```
-right:
 I have a book.
 Look at the beach!
 I like the red T-shirt.
-
-wrong:
-Do you live in the Hyderabad?
-The London is big city.
-Who is an lady in a picture?
-```
-
-```
-right:
 Mahesh's father is an engineer.
 Rahul has a terrible headache.
+
 I work as an English teacher in a school.
-
-wrong:
-Do you still live in the Banglore?
-What did you have for a breakfast today?
-We live in an village.
-```
-
-```
-right:
 He is a friend of mine.
 A gun is a very dangerous weapon.
 I collected the postcard from the post office.
 
-wrong:
-My friend gave me an basket of fruits.
-I saw a eagle near my farm.
-A owl was sitting on the roof of my house.
-```
-
-```
-right:
 My dad came an hour ago.
 An octopus has eight tentacles.
 Nandana is the fastest swimmer in our group.
+```
 
-wrong:
+wrong
+
+```
+Do you live in the Hyderabad?
+The London is big city.
+Who is an lady in a picture?
+Do you still live in the Banglore?
+What did you have for a breakfast today?
+
+We live in an village.
+My friend gave me an basket of fruits.
+I saw a eagle near my farm.
+A owl was sitting on the roof of my house.
+
 I had a ice-cream after my dinner.
 My grandfather has a inkpot on his writing-table.
 He is best player in the team.
 ```
-

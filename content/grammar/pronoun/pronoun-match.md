@@ -1,8 +1,23 @@
+(pronoun-1)
+
+## Match the pairs
+
+Match the pronouns that have same meaning.
+
+```
+I, Me
+He, Him
+She, Her
+They, Them
+We, Us
+```
+
 Match the pairs
 
 (pronoun-2)
 
-Match the nouns with the correct pronoun. (title)
+Match the subject with the correct pronoun. (title)
+
 ```
 Reena, She
 Rahul, He
@@ -27,37 +42,20 @@ Rena and Sen, Them
 I, Me
 ```
 
-(pronoun-2)
-
-## Match the pairs
-
-Match the pronouns with their correct pair. (title)
 ```
-I, Me
-He, Him
-She, Her
-They, Them
-We, Us
-```
-
-(pronoun-2)
-
-Match the words with the corresponding pronoun.
-
-```
-Pintu and I, we
-Jashwanth, he
-Rakhi, she
-The big bus, it
-Kishore and Lalith, they
+Pintu and I, We
+Jashwanth, He
+Rakhi, She
+The big bus, It
+Kishore and Lalith, They
 ```
 
 ```
-A bike, it
-This boy, he
-The girls, they
-You and Ram, you
-You and I, we
+A bike, It
+This boy, He
+The girls, They
+You and Ram, You
+You and I, We
 ```
 
 (pronoun-4)
@@ -81,7 +79,7 @@ me, myself
 
 (pronoun-5)
 
-Draw a line from the interrogative pronoun to complete the question.
+Match the Sentence
 
 ```
 What, time is it?

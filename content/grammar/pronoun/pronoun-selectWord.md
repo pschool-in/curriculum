@@ -1,23 +1,30 @@
-Select the pronoun
+## Select the pronoun
 
-(pronoun-1)
+Select the pronoun in the below sentence. (pronoun-1)
 
-Select the pronouns in each sentence. (title)
 ```
+*I* am very happy.
+*She* is going home.
+*He* is playing.
+*They* are our friends.
+Ravi is playing with *him*.
+Do not touch the water. *It* is hot.
 *I* am waiting for the train.
 The teacher thinks that *he* is a smart boy.
 My mom told me that *she* is a good dancer.
-*I* am very happy.
+```
+
+```
 This is my pen, give it to *me*.
 *I* am sitting on the chair.
 The guests arrived while *we* were watching the cricket match.
 Are *you* from Hyderabad?
-*She* is going home.
 *It* is an amazing movie.
 ```
 
+(pronoun-2)
+
 ```
-The principal told us that *she* is our new teacher.
 *He* wants to buy a new cycle.
 The teacher told everyone that *her* name is Meera.
 On Wednesday, *they* will go to the market.
@@ -29,19 +36,12 @@ Did *you* water the plants?
 *She* likes to dance.
 ```
 
-(pronoun-2)
-
-Select the pronouns in each sentence.
-
 ```
 *He* puts the book on the table.
 The children play with *it*.
 My mom told me that *they* have a lot of toys.
 I told everyone that *it* is my favorite book.
 *She* is playing outside.
-```
-
-```
 My mother likes *her* very much.
 *His* father scolds him.
 The book belongs to *me*.
@@ -55,29 +55,20 @@ Samir is *her* brother.
 *She* is a good girl.
 Maya takes *me* to her house every day.
 *We* like to play football.
-```
-
-```
 *He* is good at sports.
 The house belongs to *them*.
 Shenna blamed *us* for lying.
 *We* will have dinner outside.
 *I* go to sleep early.
-
 ```
 
-(pronoun-2)
-
-Select the demonstrative pronouns in these sentences.
+(hidden: demonstrative pronouns)
 
 ```
 *This* idea is amazing.
 Is *that* your book?
 Eat *these* chocolates after lunch.
 *Those* are my clothes.
-```
-
-```
 *This* is my mother’s saree.
 Could you help me move *these*?
 *That* looks like a rat.
@@ -91,9 +82,64 @@ I am not sure *that* is how you do it.
 *This* is crazy!
 ```
 
+## Select All Pronouns
+
+Select all the pronouns present in the below text.
+
+(pronoun-1)
+
+```
+*It* is *her* pen.
+Please give *it* to *me*.
+*It* was raining and *I* got wet.
+The principal told *us* that *she* is our new teacher.
+```
+
+(pronoun-2)
+
+TODO: add more activities
+
 (pronoun-3)
 
+```
+*She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
+*Me* and my sister go swimming. *Those* swimming glasses are *ours*.
+The book is kept on the table. *It* is *ours*.
+*I* borrowed *this* paper from Vidya. *This* is hers.
+Sheena gave me *this* napkin. *This* is *hers*.
+```
+
+```
+Rahul is my best friend. *We* go to school together. *This* bag is *his*.
+*I* like my mother's Kurti. *I* borrowed *this* for a party. *It* is *hers*.
+*That* house is *theirs*. *It* is not in a good condition. *They* need to repair *it*.
+*I* said to my friend, "What is *mine*, is *yours*. *He* was very happy to hear *this*.
+My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
+```
+
+(pronoun-4)
+
+```
+*This* book is *mine*. I read the whole book all by *myself*. I like *this* book.
+*That* is my father. *This* car is *his*. I washed it all by *myself*.
+My dad gave me *this* map. He told me it was *his*. I need to find directions by *myself*.
+He wanted to impress the teacher. So, he baked the cake by *himself*. The recipe was *mine*.
+*Those* bags are *hers*. She goes shopping all by *herself*.
+```
+
+```
+We don't like to go out for dinner. We cook dinner by *ourselves*.
+*This* brush is *mine*. I stare at *myself* in the mirror while brushing.
+*This* garage is *mine*. Me and my dad painted it *ourselves*.
+The children love holidays. *They* buy all the new things for *themselves*. *That* time is their favourite.
+Prateek is very lazy. He copied his friend's project instead of doing it *himself*.
+```
+
+## Select the possessive pronoun
+
 Select the possessive pronoun in the sentence.
+
+(pronoun-3)
 
 ```
 My aunt Laksmi has a blue car. The blue car is *hers*.
@@ -121,29 +167,11 @@ That headphone is *mine*.
 This bangle is *hers*.
 ```
 
-(pronoun-3)
-
-Select all the personal, demonstrative, and possessive pronouns.
-
-```
-*She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
-*Me* and my sister go swimming. *Those* swimming glasses are *ours*.
-The book is kept on the table. *It* is *ours*.
-*I* borrowed *this* paper from Vidya. *This* is hers.
-Sheena gave me *this* napkin. *This* is *hers*.
-```
-
-```
-Rahul is my best friend. *We* go to school together. *This* bag is *his*.
-*I* like my mother's Kurti. *I* borrowed *this* for a party. *It* is *hers*.
-*That* house is *theirs*. *It* is not in a good condition. *They* need to repair *it*.
-*I* said to my friend, "What is *mine*, is *yours*. *He* was very happy to hear *this*.
-My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
-```
-
-(pronoun-4)
+## Select the reflexive pronoun
 
 Select the reflexive pronoun in the sentence.
+
+(pronoun-4)
 
 ```
 I will do the job *myself*.
@@ -182,24 +210,4 @@ I dressed *myself* for the party.
 I made lunch all by *myself*.
 She hurt *herself* while using the fork.
 Did you learn French *yourself*?
-```
-
-(pronoun-4)
-
-Select all the demonstrative, reflexive, and possessive pronouns.
-
-```
-*This* book is *mine*. I read the whole book all by *myself*. I like *this* book.
-*That* is my father. *This* car is *his*. I washed it all by *myself*.
-My dad gave me *this* map. He told me it was *his*. I need to find directions by *myself*.
-He wanted to impress the teacher. So, he baked the cake by *himself*. The recipe was *mine*.
-*Those* bags are *hers*. She goes shopping all by *herself*.
-```
-
-```
-We don't like to go out for dinner. We cook dinner by *ourselves*.
-*This* brush is *mine*. I stare at *myself* in the mirror while brushing.
-*This* garage is *mine*. Me and my dad painted it *ourselves*.
-The children love holidays. *They* buy all the new things for *themselves*. *That* time is their favourite.
-Prateek is very lazy. He copied his friend's project instead of doing it *himself*.
 ```

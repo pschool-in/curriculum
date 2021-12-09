@@ -1,6 +1,8 @@
 (pronoun-3)
 
-Choose the right possessive pronoun to complete the sentence.
+## Drag and Drop
+
+Choose the right possessive pronoun.
 
 ```
 I have a new crayon box. It is *mine*.
@@ -44,7 +46,7 @@ This bag belongs to me and my sister. This bag is *ours*.
 
 (pronoun-4)
 
-Pick up the correct word and place it appropriately in the sentence.
+Fill in the blanks by dragging the options given at the bottom.
 
 ```
 He ordered *himself* a sandwich.
@@ -64,6 +66,7 @@ The dog let *itself* into our room.
 (miscellaneous)
 
 Drag and drop the correct option in each blank. (title)
+
 ```
 I *myself* did it.
 *Whose* purse is this?

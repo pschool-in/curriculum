@@ -3,6 +3,7 @@
 (pronoun-1)
 
 Choose the correct pronoun. (title)
+
 ```
 Peter is a cook. *He* cooks well.
 Selvi sells flowers. *She* makes bouquets too.
@@ -23,7 +24,10 @@ I have a squirrel. *It* eats nuts.
 
 ## I, We, You
 
+(pronoun-1)
+
 Choose the correct pronoun. (title)
+
 ```
 *I* am a good singer.
 *You* can do your work tomorrow.
@@ -47,6 +51,7 @@ Congratulations! *You* are such a good dancer.
 (pronoun-1)
 
 Choose the correct pronoun. (title)
+
 ```
 *This* is my younger brother. (near)
 *Those* plastic bottles are old. (far)
@@ -174,55 +179,25 @@ I didn't recognize *him*.
 
 (pronoun-2)
 
-Fillup with the correct pronoun for each sentence.
+## Fill up
 
 ```
-{
-    qText: 'I bought______tool yesterday.',
-    options: `that, those`
-},
-{
-    qText: 'I like______books.',
-    options: `these, this`
-},
-{
-    qText: '______is my moms phone.',
-    options: `That, Those`
-},
-{
-    qText: 'None of______answers are correct.',
-    options: `these, this`
-},
-{
-    qText: '______was my fathers ring.',
-    options: `This, These`
-}
-
-{
-    qText: '______is mine.',
-    options: `This, These, Such`
-},
-{
-    qText: 'There is no end to______.',
-    options: `this, them, such`
-},
-{
-    qText: 'Are______your books?',
-    options: `those, them, this`
-},
-{
-    qText: '_______are looking nice.',
-    options: `These, Them, Such`
-},
-{
-    qText: '_______was such a good experience.',
-    options: `That, Them, Those`
-}
+I bought *that (those)* tool yesterday.
+I like *these(this)* books.
+*That (Those)* is my mom's phone.
+None of *these (this) * answers are correct.
+*This, (These)* was my father's ring.
+This (These, Such) is mine.
+There is no end to *this (them, such)*.
+Are *those(them, this)* your books?
+*These (Them, Such)* are looking nice.
+*That (Them, Those)* was such a good experience.
 ```
 
-(pronoun-3) 
+(pronoun-3)
 
 Click on the blank and fill in the correct possessive pronoun.
+
 ```
 This is my laptop. It's *mine(me)*.
 You have a new toy. It is *yours(us)*.
@@ -234,9 +209,11 @@ My room is bigger than *yours (us)*.
 Is this dress *hers (us)*?
 I have a new watch. It is *mine (me)*.
 We have new remote cars. They are *ours (yours)*.
+
 ```
 
 ```
+
 Jack has a toy car. It is *his(her)*.
 I have mittens. They are *mine(ours)*.
 Sangamitra has a doll. It is *hers(ours)*.
@@ -246,7 +223,8 @@ This lunch box belongs to him. It is *his (hers)*.
 Meera has boots. They are *hers (his)*.
 Abhi has a diary. It is *his (yours)*.
 My parents have a boat. It is *theirs (yours)*.
-Pooja and saanvi have a kitchen set. It is *theirs (us)*.
+Pooja and Saanvi have a kitchen set. It is *theirs (us)*.
+
 ```
 
 (pronoun-4)
@@ -275,6 +253,7 @@ She bought *herself (himself)* a new dress.
 They are doing the homework *themselves (ourselves)*.
 Don't hurt *yourself (itself)* while cooking.
 We cooked biryani *ourselves (themselves)* for the guests.
+
 ```
 
 (pronoun-5)
@@ -282,6 +261,7 @@ We cooked biryani *ourselves (themselves)* for the guests.
 Click on the blank and fill in the correct interrogative pronoun.
 
 ```
+
 *Why(What)* is the flight late?
 *Who(When)* left the door open?
 *Why(What)* are you sad?
@@ -302,7 +282,8 @@ To *whom (who)* was the song dedicated?
 *Who (Whom)* is your favorite cartoon character?
 *Which (What)* of these dresses do you like?
 To *whom (what)* did he give his watch?
-*What (When)* did you see in the park?
+ *What (When)* did you see in the park?
+
 ```
 
 (pronoun-5)
@@ -310,6 +291,7 @@ To *whom (what)* did he give his watch?
 Click on the blank and fill in the right pronoun.
 
 ```
+
 *Her(His)* name is Sita.
 *You (They)* are my best friend.
 This pen is *mine(theirs)*.
@@ -320,9 +302,11 @@ I folded my clothes by *myself(themselves)*.
 *Which(Who)* is your favourite food?
 *I (Me)* went to the library.
 Is that present for *me (I)*?
+
 ```
 
 ```
+
 *We (Us)* are going to Corbett National Park on Sunday.
 *We (Us)* live in a small house.
 *She (He)* is a smart girl.
@@ -336,6 +320,7 @@ Look at my shoes. *They (It)* are so colorful.
 ```
 
 ```
+
 Saranya likes to cook. Everyone likes *her (his) * cooking.
 Kumar and his brother enjoy watching action films. This movie is for *them(they) *.
 Do you like movies? Please join *us (them) * at the theatre.
@@ -344,6 +329,9 @@ You left *your (yours) * textbooks on the table.
 I want to know *who (whom)* is going to play a villain.
 Please eat whatever you want. The choice is *yours (your)*.
 Rekha told *him (his)* about the celebration next week.
+```
+
+```
 Rahul cannot come with *us (them)* today.
 She grows Jasmine on her terrace. *They (Them)* smell sweet.
 Peacock is our national bird. *It (They)* has beautiful feathers.
@@ -356,7 +344,9 @@ Every Sunday, we meet *them (they)* at the seashore.
 (miscellaneous)
 
 Click on the blank and fill in the right pronoun.
+
 ```
+
 He *himself (herself)* attended the class.
 *Where (Who)* are the apples?
 I saw a friend of *yours (yourself)* at the party.
@@ -372,4 +362,5 @@ Is *that (them)* bag *yours (your)*?
 *They (Them)* are coming from America.
 This book is *mine (my)* not *yours (your)*.
 *That (You)* is such an interesting book.
+
 ```

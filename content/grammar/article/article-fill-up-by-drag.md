@@ -1,4 +1,8 @@
-Fill up : 5 Blanks
+## Drag and Drop
+
+Fill in the blanks by dragging the options given at the bottom.
+
+### (article-2)
 
 ```
 What's *the* capital of your country?
@@ -24,6 +28,8 @@ My friend's dad met with *an* accident yesterday night.
 Rahul saw a *snake* in the garden.
 ```
 
+### (article-3)
+
 ```
 I saw *a* colorful kite hanging on our mango tree.
 Subrat is the *tallest* boy in the class.
@@ -41,12 +47,14 @@ Mrs. Sunitha Bhan is an *English* teacher in my son's school.
 ```
 
 ```
-The IVth grade students went on *a* field trip to the zoo.
+The fourth standard students went on *a* field trip to the zoo.
 I quickly ate *the* cookies kept on my kitchen table.
 I eat *an* egg daily before breakfast.
 The *rose* plant in my garden is growing well.
 The *lion* is the king of the jungle.
 ```
+
+### (article-4)
 
 ```
 There is *an* apple in the fruit basket, please have it.
@@ -60,7 +68,7 @@ I saw an *old* woman walking on the street at night alone.
 There is *a* small playground behind my house.
 Hyderabad has *an* ideal climate throughout the year.
 This is *the* best restaurant in and around my area.
-This is the *movie* I saw yesterday on Netflix. 
+This is the *movie* I saw yesterday on Netflix.
 Our trip to Ooty was an *exciting* experience for all of us.
 ```
 

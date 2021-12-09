@@ -1,8 +1,10 @@
 We need to have this activity at three levels. (class 1, 2 and 3)
 
-# Fill in the correct article
+# Pick the Right Article
 
-# level-1
+Drag and drop the correct Article.
+
+## level-1
 
 (article-1)
 
@@ -212,7 +214,9 @@ rupee, a, an
 envelope, an, a
 ```
 
-# Fill in the correct word in front of the article
+# Pick the Right Word
+
+Drag and drop the right word to match the article.
 
 # level-1
 

@@ -1,6 +1,7 @@
 (pronoun-1)
 
 Choose the correct option. (title)
+
 ```
 {
     qText: 'Are you a cousin of Meera?',
@@ -34,35 +35,3 @@ Choose the correct option. (title)
 }
 
 ```
-
-Multiple Choice Questions (label)
-
-Select the correct demonstrative pronoun for each sentence. (title)
-
-```
-I bought______tool yesterday.
-that, those
-I like______books.
-these, this
-______is my mom's phone.
-That, Those
-None of______answers are correct.
-these, this
-______was my father's ring.
-This, These
-```
-
-```
-______is mine.
-This, These, Such
-There is no end to______.
-this, them, such
-Are______your books?
-those, them, this
-_______are looking nice.
-These, Them, Such
-_______was such a good experience.
-That, Them, Those
-```
-
-

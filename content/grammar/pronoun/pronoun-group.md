@@ -1,8 +1,8 @@
-## Identify
+## Pronoun or Not
 
 (pronoun-2)
 
-Identify which of these words are pronouns and which are not.
+Drag the given words and put it in the right boxes.
 
 Pronoun
 
@@ -22,23 +22,23 @@ Drive, Car, Jam, Dog
 
 (pronoun-2)
 
-Identify whether these pronouns are singular or plural.
+Drag the given words and put it in the right boxes.
 
 Singular
 
 ```
-This, That
+This, That, He, She, It, Me, I,
 ```
 
 Plural
 
 ```
-These, Those
+These, Those, They, Them
 ```
 
 (pronoun-3)
 
-Identify which of these are possessive pronouns. (title)
+Drag the given words and put it in the right boxes.
 
 Possessive pronoun
 
@@ -54,7 +54,7 @@ He, She, Me, I, It, We, Us
 
 (pronoun-4)
 
-Drag and drop the reflexive and non-reflexive pronouns in the appropriate boxes.
+Drag the given words and put it in the right boxes.
 
 Reflexive pronoun
 
@@ -70,7 +70,7 @@ He, Mine, She, Her, Them, They, Me, Him
 
 (pronoun-5)
 
-Identify the interrogative pronoun and possessive pronoun
+Drag the given words and put it in the right boxes.
 
 Interrogative
 
