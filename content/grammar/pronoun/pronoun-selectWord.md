@@ -105,7 +105,7 @@ TODO: add more activities
 *She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
 *Me* and my sister go swimming. *Those* swimming glasses are *ours*.
 The book is kept on the table. *It* is *ours*.
-*I* borrowed *this* paper from Vidya. *This* is hers.
+*I* borrowed *this* paper from Vidya. *This* is *hers*.
 Sheena gave me *this* napkin. *This* is *hers*.
 ```
 
@@ -118,21 +118,20 @@ My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
 ```
 
 (pronoun-4)
+```
+This* book is *mine*. *I* read the whole book all by *myself*. *I* like *this* book.
+*That* is my father. *This* car is *his*. *I* washed *it* all by *myself*.
+My dad gave *me* *this* map. *He* told *me* *it* was *his*. *I* need to find directions by *myself*.
+*He* wanted to impress the teacher. So, *he* baked the cake by *himself*. The recipe was *mine*.
+*Those* bags are *hers*. *She* goes shopping all by *herself*.
+```
 
 ```
-*This* book is *mine*. I read the whole book all by *myself*. I like *this* book.
-*That* is my father. *This* car is *his*. I washed it all by *myself*.
-My dad gave me *this* map. He told me it was *his*. I need to find directions by *myself*.
-He wanted to impress the teacher. So, he baked the cake by *himself*. The recipe was *mine*.
-*Those* bags are *hers*. She goes shopping all by *herself*.
-```
-
-```
-We don't like to go out for dinner. We cook dinner by *ourselves*.
-*This* brush is *mine*. I stare at *myself* in the mirror while brushing.
-*This* garage is *mine*. Me and my dad painted it *ourselves*.
-The children love holidays. *They* buy all the new things for *themselves*. *That* time is their favourite.
-Prateek is very lazy. He copied his friend's project instead of doing it *himself*.
+*We* don't like to go out for dinner. *We* cook dinner by *ourselves*.
+*This* brush is *mine*. *I* stare at *myself* in the mirror while brushing.
+*This* garage is *mine*. *Me* and my dad painted *it* *ourselves*.
+The children love holidays. *They* buy all the new things for *themselves*. *That* time is *their* favourite.
+Prateek is very lazy. *He* copied *his* friend's project instead of doing *it* *himself*.
 ```
 
 ## Select the possessive pronoun
