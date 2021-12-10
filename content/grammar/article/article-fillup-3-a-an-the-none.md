@@ -7,7 +7,7 @@
 ```
 *-* man is mortal.
 Can you tell me *a* story?
-She goes to the temple in *-* mornings.
+She goes to *-*school every day.
 I am fond of *-* music.
 I will go to school by *-* walk.
 Ashoka was *an* honest king.
