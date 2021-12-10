@@ -126,6 +126,21 @@ For example:
 Ramesh made "just a few" mistakes in his test. There is "only a little" ice
 cream left in the fridge.
 
+
+
+# Article - Quantifiers ( NEW Passage in test app)
+
+
+The usage of article before words like 'few' or 'little' changes the meaning of the sentence.
+
+I have few candies, so I am not sharing with you.
+
+I have a few candies and I can share it with you.
+
+There is little chance for rain today. So no need to bring an umbrella.
+
+There is a little chance for rain today. So please bring an umbrella.
+
 ---
 
 # Draft:
