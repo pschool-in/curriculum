@@ -20,7 +20,7 @@ he, him
 they, them
 ```
 
-'You' is used both subject and object.
+'You' is used as both subject and object.
 
 ### Possesive Pronouns
 
