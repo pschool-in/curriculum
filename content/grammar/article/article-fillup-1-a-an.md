@@ -1,6 +1,6 @@
 ## Fill in the blanks (a, an)
 
-Click on the blank and choose the right article.`
+Click on the blanks and choose the right article.`
 
 ## (article-1)
 
