@@ -46,7 +46,7 @@ There is *an* institution for *the* blind in this city.
 I want *an* apple from that basket.
 The church on *the* corner is open.
 Are you coming to *the* party next Saturday?
- I bought *a* new TV set yesterday
+ I bought *a* new TV set yesterday.
 I think *the* man over there is very ill.
 I watched *the* video you had sent me.
 She was wearing *an* ugly dress when she met him.
