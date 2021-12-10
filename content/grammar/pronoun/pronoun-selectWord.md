@@ -15,7 +15,7 @@ My mom told me that *she* is a good dancer.
 ```
 
 ```
-This is my pen, give it to *me*.
+Please give the pen to *me*.
 *I* am sitting on the chair.
 The guests arrived while *we* were watching the cricket match.
 Are *you* from Hyderabad?
@@ -92,7 +92,7 @@ Select all the pronouns present in the below text.
 *It* is *her* pen.
 Please give *it* to *me*.
 *It* was raining and *I* got wet.
-The principal told *us* that *she* is our new teacher.
+The principal told *us* that *she* is *our* new teacher.
 ```
 
 (pronoun-2)
