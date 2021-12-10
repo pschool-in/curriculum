@@ -6,12 +6,12 @@ Select the pronoun in the below sentence. (pronoun-1)
 *I* am very happy.
 *She* is going home.
 *He* is playing.
-*They* are our friends.
+*They* are nice people.
 Ravi is playing with *him*.
 Do not touch the water. *It* is hot.
 *I* am waiting for the train.
 The teacher thinks that *he* is a smart boy.
-My mom told me that *she* is a good dancer.
+My mom told my brother that *she* is a good dancer.
 ```
 
 ```
@@ -30,7 +30,7 @@ The teacher told everyone that *her* name is Meera.
 On Wednesday, *they* will go to the market.
 Meera thinks that *she* is very intelligent.
 *They* are studying together.
-*He* is teaching science in our school.
+*He* is teaching science in the school.
 Priya was shy at first but *she* is running very fast.
 Did *you* water the plants?
 *She* likes to dance.
@@ -39,11 +39,11 @@ Did *you* water the plants?
 ```
 *He* puts the book on the table.
 The children play with *it*.
-My mom told me that *they* have a lot of toys.
+My mom told my sister that *they* have a lot of toys.
 I told everyone that *it* is my favorite book.
 *She* is playing outside.
 My mother likes *her* very much.
-*His* father scolds him.
+*His* father scolds everyone in the house.
 The book belongs to *me*.
 *I* am never late for class.
 Mrs. Sakshi is giving *them* chocolates.
@@ -53,7 +53,7 @@ Mrs. Sakshi is giving *them* chocolates.
 *They* play in the park.
 Samir is *her* brother.
 *She* is a good girl.
-Maya takes *me* to her house every day.
+Maya takes *me* to the canteen every day.
 *We* like to play football.
 *He* is good at sports.
 The house belongs to *them*.
@@ -76,9 +76,9 @@ Throw *those* rolls away.
 ```
 
 ```
-I would like *those*, please.
+My brother would like *those*, please.
 *These* are nice flowers.
-I am not sure *that* is how you do it.
+Raju told everyone *that* the party is tomorrow.
 *This* is crazy!
 ```
 
