@@ -10,7 +10,7 @@ Select the article in the sentence.
 Ravi is *a* boy.
 He is *a* doctor.
 I saw *an* elephant.
-I have an *umbrella*.
+I have *an* umbrella.
 We have *a* pet dog.
 Preethi is *an* honest student.
 Ram is *a* very smart boy.
