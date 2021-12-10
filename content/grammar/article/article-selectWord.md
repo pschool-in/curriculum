@@ -38,9 +38,9 @@ Reading is *a* good habit.
 I had *an* egg for breakfast.
 My son wants to be *an* architect.
 Cheetah is *the* fastest land animal.
-My dad is *a* professor at the University.
+My dad is *a* Zoology professor.
 My son has *a* big world map in his room.
-There is *an* orange in the fridge.
+There is *an* orange in my bag.
 Did you read *the* book I gave you?
 Manish was *the* first to arrive in class.
 I have *a* little white kitten.
@@ -59,7 +59,7 @@ I bought *a* dozen bananas from *the* market.
 *The* music is playing on *the* TV.
 There is *a* dog in *the* yard.
 I saw *an* owl on *the* branch.
-The teacher read *a* story in *the* class.
+*The* teacher read *a* story in *the* class.
 There is *a* beehive on *the* neem tree.
 He gave me *a* call in *the* evening.
 ```
