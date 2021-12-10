@@ -187,7 +187,7 @@ I bought *that (these, those)* tool yesterday.
 I like *these (this, that)* books.
 *That (Those, These)* is my mom's phone.
 None of *these (such, this) * answers are correct.
-*This, (These, Those)* was my father's ring.
+*This (These, Those)* was my father's ring.
 *This (These, Such)* is mine.
 There is no end to *this (them, such)*.
 Are *those (them, this)* your books?
