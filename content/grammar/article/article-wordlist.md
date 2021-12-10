@@ -182,7 +182,7 @@ pair, a, an
 empty, an, a
 ant, an, a
 kite, a, an
-european, a, an
+European, a, an
 engine, an, a
 ```
 
@@ -320,7 +320,7 @@ new
 ```
 a, man, elephant
 a, European, Indian
-a, little, ice-cream
+a, little, ice cream
 a, year, hour
 an, island, beach
 an, honest man, clever man
