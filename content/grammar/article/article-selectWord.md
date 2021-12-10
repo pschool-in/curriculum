@@ -80,7 +80,7 @@ I have *a* dog and *a* parrot for pets. *The* dog is always quiet but *the* parr
 
 ```
 Once upon *a* time *a* woman had *an* only son whose name was Aladdin.
-One day as he was looking for wild figs out in the desert, he came across *a* dungeon.
+One day as he was looking for wild figs out in *the* desert, he came across *a* dungeon.
 Aladdin went into *the* dungeon and found *a* magic lamp.
 When Aladdin rubbed *the* magic lamp *a* Genie arrived and asked him to wish for something.
 *A* dog is *a* pet animal and is *the* most obedient animal. There are different kinds of dogs in *the* world.
