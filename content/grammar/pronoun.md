@@ -20,7 +20,7 @@ he, him
 they, them
 ```
 
-'You' is used both subject and object.
+'You' is used as both subject and object.
 
 ### Possesive Pronouns
 
@@ -37,9 +37,8 @@ It is used as an object that refers back to the subject. eg: myself, yourself,
 herself, himself, itself
 
 ```
-She herself cooked the food.
-I myself saw him.
-He himself cut the cake.
+He cuts himself while chopping the vegetables.
+I don't trust myself in tough times.
 ```
 
 ### Emphatic Pronouns
@@ -48,8 +47,9 @@ They are used to put emphasis on the subject. So usually they follow the
 subject.
 
 ```
-He cuts himself while chopping the vegetables.
-I don't trust myself in tough times.
+She herself cooked the food.
+I myself saw him.
+He himself cut the cake.
 ```
 
 ## Match Related Pronouns
@@ -70,34 +70,28 @@ Fill in the blanks with 'I' and 'me'.
 
 ```
 Could you pass *me* the salt?
-*I* don't want to go out now.
+*I (Me)* don't want to go out now.
 Vinoth and *I* are going to the movies.
 Am *I* invited?
 She gave *me* some coins.
-```
-
-```
-*I* went to the library to get some books.
+*I (Me)* went to the library to get some books.
 Preeti and *I* are going to a movie tomorrow.
 My mother told *me* to focus on my studies.
 Will you help *me* clean the kitchen.
-*I* need to clean up my room.
+*I (Me)* need to clean up my room.
 ```
 
 ```
 Everyone is happy for *me*.
 Dad dropped *me* to school today.
-*I* really want that ice-cream.
+*I (Me)* really want that ice-cream.
 You and *I* are good friends.
 Can *I* stay at your home? 
-```
-
-```
 Is that present for *me*?
-*I* have a surprise gift for john.
+*I (Me)* have a surprise gift for john.
 Will you play with *me* tomorrow?
 Can *I* have the box of chocolates?
-*I* bought a new pair of shoes for vihaan.
+*I (Me)* bought a new pair of shoes for vihaan.
 ```
 
 ## We vs Us
@@ -107,15 +101,12 @@ Fill in the blanks with 'we' and 'us'.
 ```
 Let *us* cross the road.
 Can *we* all go to the swimming pool tomorrow?
-*We* were talking to the principal.
+*We (Us)* were talking to the principal.
 Thank you for driving *us* to the market.
 The teacher asked *us* to form a circle.
-```
-
-```
-*We* aren’t interested in this program.
+*We (Us)* aren’t interested in this program.
 This is what *we* wanted for a birthday party.
-*We* are going to Delhi on friday.
+*We (Us)* are going to Delhi on friday.
 They don’t believe *us*. 
 Can*we* visit the temple tomorrow?
 ```
@@ -126,9 +117,6 @@ She doesn’t like *us* anymore.
 Tell *us* what happened in your school.
 The film really scared *us*. 
 I know where *we* can go. 
-```
-
-```
 Dad is coming with *us* to buy the school supplies. 
 After *we* eat, let’s watch a movie.
 Let *us* all go for a long drive.
@@ -142,18 +130,15 @@ Fill in the blanks with 'she' and 'her'.
 
 ```
 I gave *her* the books.
-*She* doesn't have a pen.
-*She* is so clever.
+*She (Her)* doesn't have a pen.
+*She (Her)* is so clever.
 If I tell Roshima, *she* might tell Sunitha.
 I will talk to *her* about this issue.
-```
-
-```
-*She* thought he was joking.
-*She* has got long and beautiful hair.
+*She (Her)* thought he was joking.
+*She (Her)* has got long and beautiful hair.
 That bag belongs to *her*.
 Neha’s sister gave *her* a new barbie.
-*She* is a very brave girl.
+*She (Her)* is a very brave girl.
 ```
 
 ```
@@ -162,11 +147,8 @@ Can you help *her* carry those groceries?
 Its not *her* fault the shirt is stained.
 I am *her* best friend.
 Do you know where *she* bought those shoes?
-```
-
-```
 Nihaal wrote a poem for *her*.
-*She* went to the movies with Rohan.
+*She (Her)* went to the movies with Rohan.
 Have you told *her* the good news?
 The food was very enjoyable to *her*.
 ```
@@ -178,15 +160,12 @@ Fill in the blanks with 'they' and 'them'.
 ```
 We asked *them* to keep the door open.
 If you build it, *they* will come.
-*They* are very nice people.
+*They (Them)* are very nice people.
 What do *they* want?
 I have lost my keys. I can't find *them* anywhere.
-```
-
-```
 I don't know *them* at all. 
-*They* can’t hear you.
-*They* are at the football match.
+*They (Them)* can’t hear you.
+*They (Them)* are at the football match.
 I have bought some apples. I’ll put *them* on the table.
 Jack gave presents to *them*.
 ```
@@ -197,11 +176,8 @@ It took *them* an hour to get to the theatre.
 Did *they* speak to you?
 Are *they* coming to the party?
 Take off your shoes and put *them* in the closet.
-```
-
-```
 If the mangoes are not ripe, don’t buy *them*.
-*They* are the best of friends.
+*They (Them)* are the best of friends.
 Mohit and Roy wish *they* could drive a car one day.
 I have never heard of *them*.
 What color curtains do *they* want?
@@ -214,13 +190,10 @@ Fill in the blanks with 'he' and 'him'.
 ```
 If you see David, give *him* these books.
 Does *he* want some coffee?
-*He* is a wise man.
+*He (Him)* is a wise man.
 Did Mohan get the promotion *he* wanted?
 I didn't recognize *him*.
-```
-
-```
-*He* is my best friend.
+*He (Him)* is my best friend.
 I asked *him* for some help. 
 This book belongs to *him*.
 Do you want to see *him* now?
@@ -229,15 +202,12 @@ I think that *he* is really hard working.
 
 ```
 Everyone told *him* to be quiet. 
-*He* loves to play video games.
+*He (Him)* loves to play video games.
 I showed *him* my new smartphone.
-*He* put on his coat and went out. 
-*He* asked, what’s the problem?
-```
-
-```
+*He (Him)* put on his coat and went out. 
+*He (Him)* asked, what’s the problem?
 All my friends like *him* very much.
-*He* is a very strong man!
+*He (Him)* is a very strong man!
 I don’t trust *him* at all. 
 George is a waiter. The customers appreciate *him* a lot. 
 My brother is studying because *he* has a test tomorrow.

@@ -181,15 +181,16 @@ I didn't recognize *him*.
 
 ## Fill up
 
+Fill in the blanks with the correct pronoun.
 ```
-I bought *that (those)* tool yesterday.
-I like *these(this)* books.
-*That (Those)* is my mom's phone.
-None of *these (this) * answers are correct.
-*This, (These)* was my father's ring.
-This (These, Such) is mine.
+I bought *that (these, those)* tool yesterday.
+I like *these (this, that)* books.
+*That (Those, These)* is my mom's phone.
+None of *these (such, this) * answers are correct.
+*This (These, Those)* was my father's ring.
+*This (These, Such)* is mine.
 There is no end to *this (them, such)*.
-Are *those(them, this)* your books?
+Are *those (them, this)* your books?
 *These (Them, Such)* are looking nice.
 *That (Them, Those)* was such a good experience.
 ```
@@ -268,7 +269,7 @@ Click on the blank and fill in the correct interrogative pronoun.
 *What(Which)* is your brother's name?
 *Which(Whom)* car is yours?
 *Who(When)* is the new student in the class?
-*What(When)*do you like to wear tomorrow?
+*What(When)* would you like to wear tomorrow?
 *Which (What)* one of these burgers is made of meat?
 To *whom (who)* was the song dedicated?
 *What (Which)* do you want to do?

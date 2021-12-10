@@ -6,16 +6,16 @@ Select the pronoun in the below sentence. (pronoun-1)
 *I* am very happy.
 *She* is going home.
 *He* is playing.
-*They* are our friends.
+*They* are nice people.
 Ravi is playing with *him*.
 Do not touch the water. *It* is hot.
 *I* am waiting for the train.
 The teacher thinks that *he* is a smart boy.
-My mom told me that *she* is a good dancer.
+My mom told my brother that *she* is a good dancer.
 ```
 
 ```
-This is my pen, give it to *me*.
+Please give the pen to *me*.
 *I* am sitting on the chair.
 The guests arrived while *we* were watching the cricket match.
 Are *you* from Hyderabad?
@@ -30,7 +30,7 @@ The teacher told everyone that *her* name is Meera.
 On Wednesday, *they* will go to the market.
 Meera thinks that *she* is very intelligent.
 *They* are studying together.
-*He* is teaching science in our school.
+*He* is teaching science in the school.
 Priya was shy at first but *she* is running very fast.
 Did *you* water the plants?
 *She* likes to dance.
@@ -39,11 +39,11 @@ Did *you* water the plants?
 ```
 *He* puts the book on the table.
 The children play with *it*.
-My mom told me that *they* have a lot of toys.
+My mom told my sister that *they* have a lot of toys.
 I told everyone that *it* is my favorite book.
 *She* is playing outside.
 My mother likes *her* very much.
-*His* father scolds him.
+*His* father scolds everyone in the house.
 The book belongs to *me*.
 *I* am never late for class.
 Mrs. Sakshi is giving *them* chocolates.
@@ -53,7 +53,7 @@ Mrs. Sakshi is giving *them* chocolates.
 *They* play in the park.
 Samir is *her* brother.
 *She* is a good girl.
-Maya takes *me* to her house every day.
+Maya takes *me* to the canteen every day.
 *We* like to play football.
 *He* is good at sports.
 The house belongs to *them*.
@@ -76,9 +76,9 @@ Throw *those* rolls away.
 ```
 
 ```
-I would like *those*, please.
+My brother would like *those*, please.
 *These* are nice flowers.
-I am not sure *that* is how you do it.
+Raju told everyone *that* the party is tomorrow.
 *This* is crazy!
 ```
 
@@ -92,7 +92,7 @@ Select all the pronouns present in the below text.
 *It* is *her* pen.
 Please give *it* to *me*.
 *It* was raining and *I* got wet.
-The principal told *us* that *she* is our new teacher.
+The principal told *us* that *she* is *our* new teacher.
 ```
 
 (pronoun-2)
@@ -105,7 +105,7 @@ TODO: add more activities
 *She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
 *Me* and my sister go swimming. *Those* swimming glasses are *ours*.
 The book is kept on the table. *It* is *ours*.
-*I* borrowed *this* paper from Vidya. *This* is hers.
+*I* borrowed *this* paper from Vidya. *This* is *hers*.
 Sheena gave me *this* napkin. *This* is *hers*.
 ```
 
@@ -118,21 +118,20 @@ My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
 ```
 
 (pronoun-4)
+```
+This* book is *mine*. *I* read the whole book all by *myself*. *I* like *this* book.
+*That* is my father. *This* car is *his*. *I* washed *it* all by *myself*.
+My dad gave *me* *this* map. *He* told *me* *it* was *his*. *I* need to find directions by *myself*.
+*He* wanted to impress the teacher. So, *he* baked the cake by *himself*. The recipe was *mine*.
+*Those* bags are *hers*. *She* goes shopping all by *herself*.
+```
 
 ```
-*This* book is *mine*. I read the whole book all by *myself*. I like *this* book.
-*That* is my father. *This* car is *his*. I washed it all by *myself*.
-My dad gave me *this* map. He told me it was *his*. I need to find directions by *myself*.
-He wanted to impress the teacher. So, he baked the cake by *himself*. The recipe was *mine*.
-*Those* bags are *hers*. She goes shopping all by *herself*.
-```
-
-```
-We don't like to go out for dinner. We cook dinner by *ourselves*.
-*This* brush is *mine*. I stare at *myself* in the mirror while brushing.
-*This* garage is *mine*. Me and my dad painted it *ourselves*.
-The children love holidays. *They* buy all the new things for *themselves*. *That* time is their favourite.
-Prateek is very lazy. He copied his friend's project instead of doing it *himself*.
+*We* don't like to go out for dinner. *We* cook dinner by *ourselves*.
+*This* brush is *mine*. *I* stare at *myself* in the mirror while brushing.
+*This* garage is *mine*. *Me* and my dad painted *it* *ourselves*.
+The children love holidays. *They* buy all the new things for *themselves*. *That* time is *their* favourite.
+Prateek is very lazy. *He* copied *his* friend's project instead of doing *it* *himself*.
 ```
 
 ## Select the possessive pronoun

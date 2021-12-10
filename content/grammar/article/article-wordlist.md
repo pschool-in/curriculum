@@ -100,7 +100,7 @@ eagle, an, a
 bench, a, an
 bat, a, an
 tiger, a, an
-ice-cream, an, a
+ice cream, an, a
 lemon, a, an
 house, a, an
 ```
@@ -141,7 +141,7 @@ window, a, an
 football, a, an
 panda, a, an
 mouse, a, an
-ice-cream,an, a`,
+ice cream,an, a`,
 ```
 
 # level 3
@@ -289,7 +289,7 @@ an, eye, head
 
 ```
 an, umbrella, cat
-an, ice-cream, pot
+an, ice cream, pot
 an, engineer, pen
 a, toy, eagle
 an, accident, ring

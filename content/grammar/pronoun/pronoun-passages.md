@@ -125,7 +125,7 @@ In this sentence, if we remove the reflexive pronoun *herself*, the sentence wil
 
 (pronoun-5)
 
-We know that pronouns are the words used to replace one or more nouns. Apart from Personal, Possessive, Demonstrative, and reflexive pronouns, we have another type of pronoun called interrogative pronoun.
+We know that pronouns are the words used to replace one or more nouns. Apart from personal, possessive, demonstrative, and reflexive pronouns, we have another type of pronoun called interrogative pronoun.
 
 These are used to ask questions. The sentences with interrogative pronouns always end with question marks. There are five different types of Interrogative pronouns:
 
