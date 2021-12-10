@@ -1,38 +1,9 @@
-(adjective-1)
+## Fill in the blanks
 
-# Fill in - Adjective
+Click on the blank and select the appropriate adjective to complete the
+sentence.
 
-Click on the blank and select the appropriate adjective to complete the sentence.
-
-```
-Neha likes *fast (slow)* racing cars.
-I can climb *small (short)* trees on my farm.
-My mom is a *pretty (bad)* lady in my family.
-The dog found a *long (smart)* stick while walking in the park.
-Disha caught the *red (square)* ball while playing on the ground.
-```
-
-```
-I love my *little (bad)* puppy.
-We went down the *long (round)* slide.
-My little sister loves *soft (sweet)*toys.
-The *bright (dull)* sun warms our house.
-That is an *ugly (sweet)*bug.
-```
-
-```
-Snowbell is a *nice (long)* cat.
-There are* beautiful (ugly)* trees in the garden.
-My *little (long)* brother is in his room.
-The elephant has *big (small)* ears.
-My *new (short)* bicycle is purple.
-```
-
-(adjective-2)
-
-# Fill in - Adjective
-
-Click on the blank and select the appropriate adjective to complete the sentence.
+### (adjective-2)
 
 ```
 The elephant is a *large (small)* animal.
@@ -70,14 +41,10 @@ These boxes are *heavy (light)* and I cannot lift them myself.
 My mom bought a *pretty (ugly)* dress for my birthday.
 Rabbits are *cute (dangerous)* animals.
 My brother gave money to the *poor (rich)* beggar.
-That *naught (sincere)* boy broke our balcony window.
+That *naughty (sincere)* boy broke our balcony window.
 ```
 
-(adjective-4)
-
-## Fill in - Adjective
-
-Click on the blank and select the appropriate adjective to complete the sentence.
+### (adjective-3)
 
 ```
 Manisha is wearing a *beautiful (tall)* dress.
@@ -105,6 +72,8 @@ Paddy fields are very *green (blue)*.
 The *black (blue)* soil is rich in nutrients.
 ```
 
+### (adjective-4)
+
 ```
 A car has *four (three)* wheels.
 Coffee is hot but ice is *cold ( black)*.
@@ -131,12 +100,12 @@ Students are *happy (lazy)* when lunchtime begins in school.
 Mumbai has *huge (deep)* skyscrapers when compared to other cities.
 ```
 
-
 (adjective-5)
 
 ## Fill - adjective of quantity
 
-Click on the blank and choose an appropriate adjective of quantity to complete the sentence.
+Click on the blank and choose an appropriate adjective of quantity to complete
+the sentence.
 
 ```
 I saw *many (much)* animals in the zoo.
@@ -179,9 +148,10 @@ I have a *little (few)* money left to buy the ice cream from the shop.
 
 (adjective-5)
 
-##  Fill - demonstrative adjective
+## Fill - demonstrative adjective
 
-Click on the blank and choose an appropriate demonstrative adjective in the sentence.
+Click on the blank and choose an appropriate demonstrative adjective in the
+sentence.
 
 ```
 *Those (This)* sheep are running away.
@@ -263,4 +233,37 @@ A pen is *mightier (might, mightiest)* than a sword.
 Lead is a *heavy(heavier, heaviest)* metal.
 Mumbai is one of the *busiest(busier, busy)* cities in the world.
 Mani is the *fastest(fast, faster)* boy in our class.
+```
+
+# Draft
+
+(adjective-1)
+
+# Fill in - Adjective
+
+Click on the blank and select the appropriate adjective to complete the
+sentence.
+
+```
+Neha likes *fast (slow)* racing cars.
+I can climb *small (short)* trees on my farm.
+My mom is a *pretty (bad)* lady in my family.
+The dog found a *long (smart)* stick while walking in the park.
+Disha caught the *red (square)* ball while playing on the ground.
+```
+
+```
+I love my *little (bad)* puppy.
+We went down the *long (round)* slide.
+My little sister loves *soft (sweet)*toys.
+The *bright (dull)* sun warms our house.
+That is an *ugly (sweet)*bug.
+```
+
+```
+Snowbell is a *nice (long)* cat.
+There are* beautiful (ugly)* trees in the garden.
+My *little (long)* brother is in his room.
+The elephant has *big (small)* ears.
+My *new (short)* bicycle is purple.
 ```

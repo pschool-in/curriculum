@@ -43,11 +43,85 @@ I *always* read comic books.
 Please come *forward* and answer.
 ```
 
+TODO: No activity for adverb-4 playlist
+
+## Select the Adverb
+
+Select the adverb of frequency in the below sentence.
+
+(adverb-5)
+
+```
+*Sometimes*, the school takes the kids to the zoo.
+Ayushi is *usually* very rude.
+My grandma *often* goes for a walk in the morning.
+I *never* go outside in the afternoon.
+He *often* listens to the radio.
+He sleeps during the classes *frequently*.
+The newspaper is *usually* delivered in the morning.
+Does she *often* help her mother?
+Sheena *rarely* studies for exams.
+Aman is *usually* in bed by 10 o'clock.
+```
+
+```
+Neena is *always* complaining.
+Molly's sister *occasionally* comes to the park.
+He is *often* late.
+My little sister is *always* hungry.
+Sheenu *usually* helps her mother in the kitchen.
+The teacher checks our homework *weekly*.
+He is *always* late.
+*Sometimes* they come and eat with us.
+I play cricket *occasionally*.
+We *rarely* watch movies.
+```
+
+```
+We have our exams *twice* a year.
+I eat meals *three times* a day.
+I spoke to him *once*.
+I drink a glass of water *every* hour.
+I take a bath *daily*.
+```
+
+(adverb-5)
+
+Tap on the adverb of degree in each sentence.
+
+```
+The food was *extremely* hot.
+The book is *quite* interesting.
+She was *just* playing.
+Reena is *almost* done.
+That boy was *very* smart.
+She is *very* kind.
+I am *rather* busy.
+The game went *horribly* wrong.
+Is your tea hot *enough?*
+It was *too* cold.
+```
+
+```
+My bag isn't big *enough*.
+Can I eat the chocolate *too*?
+She worked *quickly*.
+I *almost* stumbled on the rock.
+She reached on the top *so* quickly.
+The team played *spectacularly*.
+It's not big *enough*.
+I was *too* tired to get up this morning.
+The function was *very* good.
+He drove the car *very* fast.
+```
+
+# MultiSelect
+
 ## Select the adverb of manners
 
 Tap on the adverb of manners in the following sentences.
 
-(adverb-3)
+(adverb-4)
 
 ```
 He had a meeting. So, he *quickly* drank the water and went to the office *hurriedly*.
@@ -90,39 +164,43 @@ I *gladly* told my parents that I got selected for the sports team. They *excite
 I got hurt. So I *rapidly* put a gel on the wound. I am doing my tasks *carefully* now.
 ```
 
-(adverb-4)
-
-## Select the Word
-
-Tap on the adverb of degree in each sentence.
-
-```
-The food was *extremely* hot.
-The book is *quite* interesting.
-She was *just* playing.
-Reena is *almost* done.
-That boy was *very* smart.
-She is *very* kind.
-I am *rather* busy.
-The game went *horribly* wrong.
-Is your tea hot *enough?*
-It was *too* cold.
-```
-
-```
-My bag isn't big *enough*.
-Can I eat the chocolate *too*?
-She worked *quickly*.
-I *almost* stumbled on the rock.
-She reached on the top *so* quickly.
-The team played *spectacularly*.
-It's not big *enough*.
-I was *too* tired to get up this morning.
-The function was *very* good.
-He drove the car *very* fast.
-```
+## Select (label) (multiple select words)
 
 (adverb-4)
+
+Select the adverbs of place and time in these sentences. (title)
+
+```
+The cat is *under* the sofa. It went there *when* it was time to bath.
+I will clean my house *tomorrow*. I am very tired *now*.
+The children are playing *outside*. They have been playing *since* evening.
+I am studying in this school *since* fourth grade. The school is *in* the city.
+We rowed the boat towards *north*, *where* the waves were not high.
+She came *running* to me *when* she saw a dog. I laughed.
+I had my lunch over *there* *yesterday*. I will eat *here* *today*.
+He *never* drinks milk. His mom sends him *at* my house. He drinks it with me.
+We are meeting *behind* the school *next week*. We will play cricket *there*.
+*Since* she moved *across* the street, we have become friends. We play *in* the park *every day*.
+The car is moving *backwards*. I will move aside *when* it will come closer.
+I *always* eat an apple *in* the kitchen. I go to the school *afterwards*.
+```
+
+```
+I met Ram *yesterday*. I came to know that he lives *across* the street.
+I completed my homework *last night*. I won't be punished *in* the school today.
+She is going *towards* the library. But it is closed *now*.
+Do you know *where* does he live? I need my book by *tonight*.
+I am taking my dog for a walk *now*. It loves to go *near* the park.
+I will be *here* *tomorrow* also. We can meet *here* only.
+My sister likes to play *indoor* games. But she went to play cricket *yesterday* evening.
+I will go to the school *next week*. I am *overseas* *right now*.
+The clouds are *up* *in* the sky. It will probably rain *tonight*.
+We looked *around* but we couldn't find the dog. It may be sleeping.
+My brother *never* helps me. He is always *at* his friend's house.
+*Sometimes*, my Dad comes home early. Then we walk *around* the street at night.
+```
+
+(adverb-5)
 
 ## Select the adverbs of degree
 
@@ -169,82 +247,11 @@ Are these pens *enough*? Do you think they are *too* many? Shall I return some o
 I am not *entirely* sure what homework the teacher gave us. I was *slightly* distracted in the class.
 ```
 
-## Select (label) (multiple select words)
-
-Select the adverbs of place and time in these sentences. (title)
-```
-The cat is *under* the sofa. It went there *when* it was time to bath.
-I will clean my house *tomorrow*. I am very tired *now*.
-The children are playing *outside*. They have been playing *since* evening.
-I am studying in this school *since* fourth grade. The school is *in* the city.
-We rowed the boat towards *north*, *where* the waves were not high.
-She came *running* to me *when* she saw a dog. I laughed.
-I had my lunch over *there* *yesterday*. I will eat *here* *today*.
-He *never* drinks milk. His mom sends him *at* my house. He drinks it with me.
-We are meeting *behind* the school *next week*. We will play cricket *there*.
-*Since* she moved *across* the street, we have become friends. We play *in* the park *every day*.
-The car is moving *backwards*. I will move aside *when* it will come closer.
-I *always* eat an apple *in* the kitchen. I go to the school *afterwards*.
-```
-
-```
-I met Ram *yesterday*. I came to know that he lives *across* the street.
-I completed my homework *last night*. I won't be punished *in* the school today.
-She is going *towards* the library. But it is closed *now*.
-Do you know *where* does he live? I need my book by *tonight*.
-I am taking my dog for a walk *now*. It loves to go *near* the park.
-I will be *here* *tomorrow* also. We can meet *here* only.
-My sister likes to play *indoor* games. But she went to play cricket *yesterday* evening.
-I will go to the school *next week*. I am *overseas* *right now*.
-The clouds are *up* *in* the sky. It will probably rain *tonight*.
-We looked *around* but we couldn't find the dog. It may be sleeping.
-My brother *never* helps me. He is always *at* his friend's house.
-*Sometimes*, my Dad comes home early. Then we walk *around* the street at night.
-```
-
-## Select the Adverb
-
-Tap on the adverb of frequency in the below sentences.
-
-(adverb-5)
-
-```
-*Sometimes*, the school takes the kids to the zoo.
-Ayushi is *usually* very rude.
-My grandma *often* goes for a walk in the morning.
-I *never* go outside in the afternoon.
-He *often* listens to the radio.
-He sleeps during the classes *frequently*.
-The newspaper is *usually* delivered in the morning.
-Does she *often* help her mother?
-Sheena *rarely* studies for exams.
-Aman is *usually* in bed by 10 o'clock.
-```
-
-```
-Neena is *always* complaining.
-Molly's sister *occasionally* comes to the park.
-He is *often* late.
-My little sister is *always* hungry.
-Sheenu *usually* helps her mother in the kitchen.
-The teacher checks our homework *weekly*.
-He is *always* late.
-*Sometimes* they come and eat with us.
-I play cricket *occasionally*.
-We *rarely* watch movies.
-```
-
-```
-We have our exams *twice* a year.
-I eat meals *three times* a day.
-I spoke to him *once*.
-I drink a glass of water *every* hour.
-I take a bath *daily*.
-```
-
 ## Select the adverb of frequency
 
 Tap on all the adverbs of frequency.
+
+(adverb-5)
 
 ```
 *Sometimes* they come and stay with us. But *mostly* they return to their home the same day. They *rarely* stay.

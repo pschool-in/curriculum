@@ -15,7 +15,7 @@ Choose the correct option. (title)
 },
 {
     qText: 'How many pets do Shiva have?',
-    options: `He has two parrots.
+    options: `He has two par
     They have two parrots.`
 },
 {

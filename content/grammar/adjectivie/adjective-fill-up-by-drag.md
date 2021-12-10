@@ -42,11 +42,11 @@ Cooking is "hard" but eating is *easy*.
 Sita's brother is "strong" but her sister is *weak*.
 ```
 
-(adjective-3)
-
 ## Drag and drop
 
-Choose the appropriate adjective to complete the sentence.
+Fill in the blanks by moving the words given at the bottom.
+
+### (adjective-3)
 
 ```
 He is a *short* boy.
@@ -170,9 +170,8 @@ I had *enough* of your advice! Please stop!
 There were *not many* people present for Diwali pooja due to Covid.
 *Many* people lost their lives during Tsunami in 2004.
 These days *most* people sleep with their mobiles beside their pillows.
-The chocolate cake had *a lot of* cream over it. 
+The chocolate cake had *a lot of* cream over it.
 ```
-
 
 (adjective-4)
 
@@ -253,17 +252,17 @@ Mahesh was very *gentle* while cleaning his laptop.
 Mihira is a *naughty* girl in her class.
 ```
 
-
 # Fill in the adjective
 
 (adjective-4) ( changed from MCQ to FB)
 
-Click on the blank and fill in the appropriate adjective to complete the sentence.
+Click on the blank and fill in the appropriate adjective to complete the
+sentence.
 
 ```
 The mangoes are *sweet*.
 The lion has *sharp* claws.
-The car is *fast*.   
+The car is *fast*.
 Can you give me *little* water?
 The dress is very *colorful*.
 ```

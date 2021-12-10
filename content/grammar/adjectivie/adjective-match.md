@@ -1,6 +1,8 @@
-# Match the pairs
+## Match the Pairs
 
-(adjective-1)
+### (adjective-1)
+
+Match the describing word with the related naming word.
 
 ```
 Big, Elephant
@@ -22,13 +24,13 @@ Round, Ball
 Red, Colour
 Two, Hands
 Soft, Toy
-Fast, Horse
-Sweet, Dish
+Long, Hair
+Sweet, Mango
 ```
 
-(adjective-2)
+### (adjective-2)
 
-# Match - Adjectives and Nouns
+Match - Adjectives and Nouns
 
 Match the following adjectives with appropriate nouns.
 
@@ -77,13 +79,88 @@ brown, bear
 red, rose
 ```
 
+### (adjective-3)
+
+```
+Cheerful, boy
+Tall, building
+Sweet, mangoes
+Colorful, umbrella
+Black, dog
+Pretty, women
+```
+
+```
+New, dress
+Clever, girl
+Yellow, flowers
+Brick, house
+Green, parrot
+Crunchy, chips
+```
+
+```
+Black, board
+Tall, tree
+Narrow, road
+Pretty, girl
+Colorful, kite
+Strong, bull
+```
+
+```
+Blue, sky
+Big, room
+Soft, carpet
+Thorny, bush
+Brown, bear
+Wild, dog
+```
+
+### (adjective-4)
+
+```
+starry, night
+tall, trees
+naughty, boys
+woolen, clothes
+cold, weather
+```
+
+```
+curly, hair
+green, grass
+hot, milk
+angry, lion
+sweet, mango
+```
+
+```
+sick, boy
+sour, grapes
+slow, tortoise
+calm, water
+salted, peanuts
+```
+
+```
+high, mountain
+deep, sea
+sharp, knife
+old, man
+round, table
+```
+
 (adjective-2)
 
 ## Match - Adjectives and Opposites
 
-Match the adjectives with their corresponding opposites.
+Match the adjectives with with it opposites.
 
-```old, new
+### (adjective-2)
+
+```
+old, new
 tall, short
 big, small
 early, late
@@ -136,53 +213,11 @@ active, dull
 thick, thin
 ```
 
-(adjective-3)
-
-# Match the adjectives
-
-Match the most appropriate adjectives with their corresponding naming words.
-
-```
-Cheerful, boy
-  Tall, building
-  Sweet, mangoes
-  Colorful, umbrella
-  Black, dog
-  Pretty, women
-```
-
-```
-New, dress
-Clever, girl
-Yellow, flowers
-Brick, house
-Green, parrot
-Crunchy, chips
-```
-
-```
-Black, board
-Tall, tree
-Narrow, road
-Pretty, girl
-Colorful, kite
-Strong, bull
-```
-
-```
-Blue, sky
-Big, room
-Soft, carpet
-Thorny, bush
-Brown, bear
-Wild, dog
-```
-
-(adjective-3)
-
-# Match Adjectives - Similar meanings
+## Match Adjectives - Similar meanings
 
 Match the adjectives with their meanings.
+
+### (adjective-3)
 
 ```
 small, little
@@ -222,42 +257,4 @@ lazy, dull
 weak, sick
 rude, impolite
 danger, unsafe
-```
-
-(adjective-4)
-
-## Match - Adjectives with nouns
-
-Match the adjectives with suitable nouns.
-
-```
-starry, night
-tall, trees
-naughty, boys
-woolen, clothes
-cold, weather
-```
-
-```
-curly, hair
-green, grass
-hot, milk
-angry, lion
-sweet, mango
-```
-
-```
-sick, boy
-sour, grapes
-slow, tortoise
-calm, water
-salted, peanuts
-```
-
-```
-high, mountain
-deep, sea
-sharp, knife
-old, man
-round, table
 ```

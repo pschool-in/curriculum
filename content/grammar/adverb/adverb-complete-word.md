@@ -3,35 +3,35 @@
 Form the adverb of manner from the given word and hints.
 
 ```
-Bad | BADLY | B__LY
-Noisy | NOISILY | N__SI__
-Beautiful | BEAUTIFULLY | BEA___F___Y
-Easy | EASILY | EA__L_
-Careful | CAREFULLY | CA_EF__LY
-Quick | QUICKLY | Q_IC__Y
-Tight | TIGHTLY | __GH__Y
-Quiet | QUIETLY | QU____Y
-Near | NEARLY | _E__LY
-Good | WELL | W__L
+Bad | BADLY | BA___
+Noisy | NOISILY | NOI____
+Beautiful | BEAUTIFULLY | BEAUTI_____
+Easy | EASILY | EAS___
+Careful | CAREFULLY | CAREF____
+Quick | QUICKLY | QUIC___
+Tight | TIGHTLY | TIGH___
+Quiet | QUIETLY | QUIE___
 ```
 
 ```
-Greedy | GREEDILY | G__ED_L_
-Gentle | GENTLY | _E__L_
-Fluent | FLUENTLY | FL__N_L_
-Hard | HARDLY | H__D_Y
-Fast | FAST | __ST
-Rapid | RAPIDLY | __PID__
-Brief | BRIEFLY | BR____Y
-Careless | CARELESSLY | __REL__S_Y
-Loud | LOUDLY | L___LY
-Most | MOSTLY | ___TL_
+Near | NEARLY | NEA___
+Greed | GREEDILY | GREE____
+Gentle | GENTLY | GEN___
+Fluent | FLUENTLY | FLUEN___
+Hard | HARDLY | HAR___
+Rapid | RAPIDLY | RAPI___
+Brief | BRIEFLY | BRIE___
+Careless | CARELESSLY | CARELE____
 ```
 
 ```
-Eager | EAGERLY | E__ER__
-Awkward | AWKWARDLY | __K__RD_Y
-Bright | BRIGHTLY | BRI____Y
+Loud | LOUDLY | LO____
+Most | MOSTLY | MOS___
+Eager | EAGERLY | EAGE___
+Awkward | AWKWARDLY | AWKWAR___
+Bright | BRIGHTLY | BRIGH___
 Busy | BUSILY | BUS___
-Clear | CLEARLY | ___ARL_
+Clear | CLEARLY | CLEA___
 ```
+
+excluded: Good | WELL | W**L Fast | FAST | **ST

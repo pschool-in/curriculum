@@ -1,23 +1,26 @@
 (Adjective-4) (Initially present as Fill in the blanks, changed into MCQ)
 
-
 # Multiple choice questions
 
 Answer the following questions.
 
 ```
-She gave her a _____ scarf. 
-tiny soft, soft tiny 
+She gave her a _____ scarf.
+tiny soft, soft tiny
+
 She wore a _____ hat.
 silly pink, pink silly
+
 I have _______ pencils.
 five big, big five, wooden big
+
 The _______ mitten was lost.
 little pink, pink little
+
 My dad is a ______ man.
 tall Indian, Indian tall
-```
 
+```
 
 (adjective-4)
 
@@ -135,8 +138,6 @@ Choose the appropriate options to complete the sentence.
     options: 'kind old, old kind'
 }
 ```
-
-
 
 (adjective-5)
 

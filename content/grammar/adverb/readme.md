@@ -3,7 +3,7 @@
 Understand adverb. Identify adverb in a sentence and ability to tell what it
 modifies. The different types of adverb. Appropriate usage of adverbs
 
-# Topic-wise
+# Activity Types
 
 [passages](adverb-passages.md) - First we need to prepare the reading passages.
 
@@ -25,23 +25,30 @@ Identify the type of adverb
 
 # Playlists
 
-## Adverb Introduction (adverb-3)
+## Introduction to Adverb (adverb-3)
 
 1. Reading Passage
 2. Identify the adverb
-3. Classify Modifier (verb, adjective or adverb)
-4. Right Spelling
+3. What does the underlined adverb modify? (Verb, Adjective, another Adverb)
+4. Drag and Drop: Adjective vs Adverb
+5. Complete the word based on the root word.
 
 ## Adverb of Place, Time and Manner (adverb-4)
 
 1. Reading Passage
 2. Identify the adverb
 3. Classify Adverb type
+4. Select all adverbs in the sentences
 
 ## Adverb of Degree and Frequency (adverb-5)
 
 1. Reading Passage
 2. Identify the adverb
-3. Classify Adverb type
-4. Classify Modifier (verb, adjective or adverb)
-5. Sorting - Adverb of Frequency - Most probable to least probable.
+   1. Adverb of Frequncy (hidden)
+   2. Adverb of Degree (hidden)
+3. Drag and Drop - Adverb of Frequency or not
+4. Select all adverb
+   1. Adverb of Degree (hidden)
+   2. Adverb of Frequency (hidden)
+5. Classify Adverb Type: Frequency vs Degree
+6. Sorting - Adverb of Frequency - Most probable to least probable.

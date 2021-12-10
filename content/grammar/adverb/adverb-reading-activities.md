@@ -3,6 +3,7 @@
 # True or False (label)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 Adverbs tell us about the verb, adjective, and another adverb.
@@ -15,29 +16,12 @@ Adverb of manners answers the question 'when'.
 Adverbs of manners generally end with '-lves'.
 ```
 
-# Multiple Choice Questions (label)
-
-Choose the correct adverb of manner. (title)
-```
-Richa completed her homework ____ .
-independently, independence, freedom
-The girl walked _____ .
-smartly, smart, confidence
-The old lady feeds ____ to the street animals.
-kindly, kind, gentle
-The turtle moves ____ .
-slowly, slow, fast
-The teacher ____ explained the topic.
-clearly, clear, elaborate
-The dog runs ____ .
-quickly, quick, slowly
-```
-
 (adverb-4) (Adverb of degree)
 
 # True or False (label)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 Adverb of degree tells us to what extent the action has been done.
@@ -54,6 +38,7 @@ Adverb of degree answers the question 'how many'.
 # Multiple Choice Questions (label)
 
 Choose the correct adverb of place and time. (title)
+
 ```
 He studies ____ that room.
 behind, under, when
@@ -76,6 +61,7 @@ when, how, too
 # Multiple Choice Questions (label)
 
 Choose the correct adverb of degree. (title)
+
 ```
 The girl was ____ beautiful.
 very, smart, not
@@ -110,6 +96,7 @@ Adverb of frequency does not tell us how many times will it occur in the future.
 # Multiple Choice Questions (label)
 
 Choose the correct adverb of frequency. (title)
+
 ```
 She ____ teaches younger kids.
 sometimes, someone, someday

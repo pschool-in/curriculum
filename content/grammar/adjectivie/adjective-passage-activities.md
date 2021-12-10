@@ -7,7 +7,7 @@ Classify whether the following statements are true or false.
 True
 
 ```
-Describing word is called an adjective.
+Describing words are called adjective.
 Adjectives describe nouns or pronouns.
 Names of the colors are used as adjectives.
 ```
@@ -20,7 +20,6 @@ Adjectives describe action words.
 Adjectives are used in joining the words.
 ```
 
-
 Adjective - 3
 
 # True or False
@@ -28,13 +27,15 @@ Adjective - 3
 Classify whether the following statements are true or false.
 
 True
+
 ```
-The words used to describe a noun or a pronoun are called adjectives. 
+The words used to describe a noun or a pronoun are called adjectives.
 Names of the colors are used as adjectives.
 Adjectives are used to describe the qualities of things or people.
 ```
 
 False
+
 ```
 The dog is "black". Here the word black is a noun.
 Preethi ate the "whole" cake. The word whole describes a quality.
@@ -44,6 +45,7 @@ Adjectives are not used to compare the qualities of two nouns and more than two 
 Adjective -4
 
 # True or False
+
 Classify whether the following statements are true or false.
 
 True
@@ -60,7 +62,6 @@ False
 " My dad is an Indian, tall man". This sentence has the correct order of adjectives.
 Tarun is wearing a red shirt. Here the word shirt is an adjective.
 ```
-
 
 (adjective-5)
 

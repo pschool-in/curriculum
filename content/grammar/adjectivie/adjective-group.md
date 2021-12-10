@@ -1,33 +1,10 @@
-## Positive vs Negative
+## Adjectives vs Non-adjectives
 
-(adjective-1)
+Naming word vs Describing word
 
-Identify these positive and negative describing words.
+### (adjective-1)
 
-Positive
-
-```
-Smart, Pretty, Beautiful, Soft
-Happy, Perfect, Wise, Wonderful
-Talented, Natural, Caring, Amazing
-```
-
-Negative
-
-```
-Ugly, Bad, Hard, Stupid
-Cruel, Sad, Boring, Dull
-Jealous, Moody, Rude, Selfish
-```
-
-(adjective-2)
-
-# Adjectives vs Non-adjectives
-
-Identify the adjectives from the group of words and add them into the
-appropriate box.
-
-Adjectives
+Describing Word
 
 ```
 Blue, Big, Loud, Few, Sweet, Bitter
@@ -37,7 +14,7 @@ Handsome, Brave, Clean, Sharp, Bright
 Cold, Tasty, Fast, Famous, Small
 ```
 
-Non-adjectives
+Naming Word
 
 ```
 Bag, Flowers, Pens, Chocolate, Apple
@@ -47,44 +24,9 @@ Man, Soldier, Plates, Teeth, Sun
 Winter, Pizza, Car, Museum, Hut
 ```
 
-# Jumbled Words
+### (adjective-2)
 
-Arrange the letters to form a meaningful word.
-
-(adjective-1)
-
-```
-Big, Pretty, Small, Round, Sweet, Soft
-Hard, Brave, Great, Good, Brown, Red
-Smart, Two, Loving, Bad, Strong, Weak
-```
-
-# Correct Spelling
-
-(adjective-1)
-
-```
-Ugly, Ugley
-Brown, Browne
-Loud, Loude
-Clean, Chleane
-Tall, Tale
-```
-
-```
-Long, Longe
-Fast, Fest
-Small, Smell
-Big, Beg
-Smart, Smert
-```
-
-(adjective-3)
-
-##  Adjective vs Non-adjective
-
-Identify the adjectives from the group of words and add them into the
-appropriate box.
+Drag and drop the words in the right boxes.
 
 Adjective
 
@@ -106,14 +48,9 @@ Hospital, Book, Food, cookies, Dog, Coat
 Car, Dress, Soldier, Fruits, Building
 ```
 
-(adjective-4)
+### (adjective-3)
 
-## Adjectives vs Non-adjectives
-
-Identify the adjectives from the group of words given below and put them into
-the appropriate box.
-
-Adjectives
+Adjective
 
 ```
 strange, little, yellow, round, tall
@@ -122,7 +59,7 @@ brave, young, strong, intelligent, courageous
 slowest, brown, huge, sharp, fast, dangerous
 ```
 
-Non-adjectives
+Not an Adjective
 
 ```
 leaf, plant, stem, fruit, soil
@@ -131,7 +68,45 @@ Mowgli, lion, floor, boxer, player
 crocodile, train, turtle, table, banana
 ```
 
+## Jumbled Words
+
+Arrange the letters to form a meaningful word.
+
+### (adjective-1)
+
+```
+Big, Pretty, Small, Round, Sweet, Soft
+Hard, Brave, Great, Good, Brown, Red
+Smart, Two, Loving, Bad, Strong, Weak
+```
+
+## Positive vs Negative
+
+Classify the below sentences as positive and negative.
+
+### (adjective-3)
+
+Positive
+
+```
+Smart, Pretty, Beautiful, Soft
+Happy, Perfect, Wise, Wonderful
+Talented, Natural, Caring, Amazing
+```
+
+Negative
+
+```
+Ugly, Bad, Hard, Stupid
+Cruel, Sad, Boring, Dull
+Jealous, Moody, Rude, Selfish
+```
+
 (adjective-4)
+
+# Draft
+
+Not using the below as they are not complete sentence.
 
 ## Arrange in order
 
