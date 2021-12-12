@@ -1,19 +1,8 @@
-(adjective-2)
+## Fill up by Drag Drop
 
-# Complete the story
+### (adjective-2)
 
-Complete the story by filling the blanks with suitable adjectives.
-
-```
-Sita was a *young* girl. She lived in a *small* village in Karnataka.
-One day, on a *cloudy* morning, she went for a walk into the nearby fields.
-She was wearing a *white* frock and a red ribbon. After some time, she came across a hut.
-It was a *small* hut but was *warm* inside. Sita was feeling *tired*.
-So, she went inside the hut and slept on the cot.
-Soon a *loud* bang on the door woke her up!
-```
-
-# Adjective - Opposite
+Adjective - Opposite
 
 Fill in the blanks with the adjectives that are opposite in the meaning to those
 which are put in quotation marks.
@@ -42,11 +31,26 @@ Cooking is "hard" but eating is *easy*.
 Sita's brother is "strong" but her sister is *weak*.
 ```
 
-## Drag and drop
+#### collection-2
 
-Fill in the blanks by moving the words given at the bottom.
+Complete the story
+
+Complete the story by filling the blanks with suitable adjectives.
+
+```
+Sita was a *young* girl. She lived in a *small* village in Karnataka.
+One day, on a *cloudy* morning, she went for a walk into the nearby fields.
+She was wearing a *white* frock and a red ribbon. After some time, she came across a hut.
+It was a *small* hut but was *warm* inside. Sita was feeling *tired*.
+So, she went inside the hut and slept on the cot.
+Soon a *loud* bang on the door woke her up!
+```
 
 ### (adjective-3)
+
+Drag and Drop
+
+Fill in the blanks by moving the words given at the bottom.
 
 ```
 He is a *short* boy.
@@ -82,102 +86,7 @@ The *bright* sun rose in the morning.
 My mom was baking a *chocolate* cake for the party.
 ```
 
-(adjective-3)
-
-## Drag and Drop -degree of adjectives
-
-Choose the appropriate degree of adjective to complete the sentence.
-
-```
-The lion is a *big* animal.
-The Rhinoceros is *bigger* than a lion.
-The elephant is the *biggest* of three animals.
-I am a *lazy* person in my family.
-My brother is *lazier* than me.
-My dad is the *laziest* of all three.
-```
-
-```
-Suhani is a *clever* girl.
-Geeta is *cleverer* than Suhani.
-Sita is the *cleverest* of all three.
-English exam was *difficult* this year.
-The social exam was *more difficult* than English.
-Math exam was *the most difficult* of all subjects.
-```
-
-```
-Krishna is a *tall* boy.
-Hari is *taller* than Krishna.
-Mahesh is the *tallest* boy in the class.
-My mom is a *wise* member of the family.
-My dad is *wiser* than my mom.
-My grandmother is the *wisest* of all.
-```
-
-```
-Teju is an *active* girl.
-Laukya is *more active* than Teju.
-Padma is the *most active* girl among the three.
-China is a *big* country.
-Canada is *bigger* than China.
-Russia is the *biggest* country.
-```
-
-```
-Deer is a *fast* animal.
-Leopard is *faster* than Deer.
-Cheetah is the *fastest* of all three.
-October is a *cold* month.
-November is *colder* than October.
-December is the *coldest* month of the year.
-```
-
-```
-March is a *hot* month.
-April is *hotter* than March.
-May is the *hottest* month of the year.
-Monkeys are *small* animals.
-Rabbits are *smaller* than monkeys.
-Ants are the *smallest* of all three.
-```
-
-```
-My mom is a *good* cook.
-My aunt is a *better* cook than my mom.
-My grandmother is the *best* cook of all.
-My room is *tidy*.
-My brother's room is *tidier than mine.
-My mother's room is the *tidiest* of all three.
-```
-
-( Moved from articles to adjective -3 playlist and added here)
-
-# Add suitable quantifiers
-
-Drag and drop the suitable quantifiers to make a meaningful sentence.
-
-```
-My brother spends *most* of his time watching you-tube videos.
-Add *a little* more salt to the curry to make it tastier.
-Are there *any* sweets left in the kitchen?
-I want to drink *some* coffee after I finish my work.
-We had *a lot of* fun during the summer holidays.
-```
-
-```
-I had *enough* of your advice! Please stop!
-There were *not many* people present for Diwali pooja due to Covid.
-*Many* people lost their lives during Tsunami in 2004.
-These days *most* people sleep with their mobiles beside their pillows.
-The chocolate cake had *a lot of* cream over it.
-```
-
-(adjective-4)
-
-## Choose the adjective
-
-Drag and drop the correct adjective to complete the sentence.
+### (adjective-4)
 
 ```
 The *naughty* boy was sent out of the music class by his teacher.
@@ -203,11 +112,29 @@ This is a *beautiful* house in my colony.
 My puppy is very *playful* around children.
 ```
 
-(adjective-4)
+(Add suitable quantifiers)
 
-## Complete the passage
+```
+My brother spends *most* of his time watching you-tube videos.
+Add *a little* more salt to the curry to make it tastier.
+Are there *any* sweets left in the kitchen?
+I want to drink *some* coffee after I finish my work.
+We had *a lot of* fun during the summer holidays.
+```
 
-Fill in blanks with appropriate adjectives to complete the passage.
+```
+I had *enough* of your advice! Please stop!
+There were *not many* people present for Diwali pooja due to Covid.
+*Many* people lost their lives during Tsunami in 2004.
+These days *most* people sleep with their mobiles beside their pillows.
+The chocolate cake had *a lot of* cream over it.
+```
+
+#### collection 2
+
+Fill up in Story
+
+Click on the blanks and fill the right option.
 
 ```
 Once upon a time, an *old (new)* porcupine lived in a *large (tall)* wood with his sons.
@@ -222,9 +149,9 @@ One day he was grazing peacefully on *tender (stern)* shoots. Suddenly, he heard
 He knew he had to escape. So he started running. Suddenly his *large (fluffy)* antlers got stuck in the low-hanging branch and he was unable to escape. Finally, the wolves caught the stag.
 ```
 
-(adjective-4)
+### (adjective-5)
 
-## Choose the correct adjective
+Choose the correct adjective
 
 Drag and drop the correct adjective to complete the sentence.
 
@@ -252,9 +179,9 @@ Mahesh was very *gentle* while cleaning his laptop.
 Mihira is a *naughty* girl in her class.
 ```
 
-# Fill in the adjective
+#### Collection 2
 
-(adjective-4) ( changed from MCQ to FB)
+(adjective-5 ( changed from MCQ to FB)
 
 Click on the blank and fill in the appropriate adjective to complete the
 sentence.
@@ -262,15 +189,15 @@ sentence.
 ```
 The mangoes are *sweet*.
 The lion has *sharp* claws.
-The car is *fast*.
+The car is moving *fast*.
 Can you give me *little* water?
 The dress is very *colorful*.
 ```
 
 ```
 The *tall* man bought apples.
-When will this *tough* exam be over?
-The *round* ball rolled down.
+We have a *tough* exam tomorrow.
+The *red* ball rolled down the stairs.
 These are *blunt* scissors.
 This is a *sweet* mango.
 ```

@@ -1,28 +1,46 @@
-(Adjective-4) (Initially present as Fill in the blanks, changed into MCQ)
+Identify the type of Adjective
 
-# Multiple choice questions
+See the underlined adjective and identify the kind of adjective.
 
-Answer the following questions.
-
-```
-She gave her a _____ scarf.
-tiny soft, soft tiny
-
-She wore a _____ hat.
-silly pink, pink silly
-
-I have _______ pencils.
-five big, big five, wooden big
-
-The _______ mitten was lost.
-little pink, pink little
-
-My dad is a ______ man.
-tall Indian, Indian tall
+### (adjective-4)
 
 ```
+{
+    qText: `Asha has got *five* pencils.`,
+    options: `adjective of number, adjective of quality, adjective of quantity`
+},
+{
+    qText: `Who gave you *that* box?`,
+    options: `demonstrative adjective, possessive adjective, interrogative adjective`
+},
+{
+    qText: `A week has *seven* days.`,
+    options: `adjective of number, adjective of quantity, adjective of quality`
+},
+{
+    qText: `There are *few* chairs in the hall.`,
+    options: `adjecitve of quantity, adjective of number, adjective of quality`
+},
+{
+    qText: `*Which* is your bag?`,
+    options: `interrogative adjective, possessive adjecitve, demonstartive adjective`
+},
+{
+    qText: `My dad is an *excellent* cook.`,
+    options: `adjective of quality, adjective of quantity, adjective of number`
+},
+{
+    qText: `*Many* students attended the exam.`,
+    options: `adjective of quantity, adjective of quality, demonstrative adjective`
+},
+{
+    qText: `Pavithra is a *beautiful* girl.`,
+    options: `adjective of quality, demonstrative adjective, interrogative adjective`
+}
 
-(adjective-4)
+```
+
+### (adjective-5)
 
 ## Multiple Choice - Order of Adjectives
 
@@ -139,44 +157,25 @@ Choose the appropriate options to complete the sentence.
 }
 ```
 
-(adjective-5)
-
-# Identify - the kind of adjective
-
-See the underlined adjective and identify the kind of adjective.
-
 ```
 {
-    qText: `Asha has got *five* pencils.`,
-    options: `adjective of number, adjective of quality, adjective of quantity`
+    qText: 'She gave her a _____ scarf.',
+    options: 'tiny soft, soft tiny'
 },
 {
-    qText: `Who gave you *that* box?`,
-    options: `demonstrative adjective, possessive adjective, interrogative adjective`
+    qText: 'She wore a _____ hat.',
+    options: 'silly pink, pink silly'
 },
 {
-    qText: `A week has *seven* days.`,
-    options: `adjective of number, adjective of quantity, adjective of quality`
+    qText: 'I have _______ pencils.',
+    options: 'five big, big five, wooden big'
 },
 {
-    qText: `There are *few* chairs in the hall.`,
-    options: `adjecitve of quantity, adjective of number, adjective of quality`
+    qText: 'The _______ kitten was lost.',
+    options: 'little pink, pink little'
 },
 {
-    qText: `*Which* is your bag?`,
-    options: `interrogative adjective, possessive adjecitve, demonstartive adjective`
-},
-{
-    qText: `My dad is an *excellent* cook.`,
-    options: `adjective of quality, adjective of quantity, adjective of number`
-},
-{
-    qText: `*Many* students attended the exam.`,
-    options: `adjective of quantity, adjective of quality, demonstrative adjective`
-},
-{
-    qText: `Pavithra is a *beautiful* girl.`,
-    options: `adjective of quality, demonstrative adjective, interrogative adjective`
+    qText: 'My dad is a ______ man.',
+    options: 'tall Indian, Indian tall'
 }
-
 ```

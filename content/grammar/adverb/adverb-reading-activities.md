@@ -109,3 +109,31 @@ weekly, week, day
 I ____ take a nap in the evening.
 generally, general, whenever
 ```
+
+(adverb-4)
+
+## True or False (label)
+
+State whether these statements are true or false. (title)
+
+True:
+
+```
+Adverb of place answers the question 'where'.
+Adverb of time answers the question 'when'.
+There are many types of adverbs.
+
+Adverb of degree answers the question "how much."
+'Very' is an adverb of degree.
+```
+
+False:
+
+```
+Adverb of place answers the question 'when'.
+Adverb of time answers the question 'where'.
+There are only two types of adverbs.
+
+Adverb of degree answers the question "how."
+'Extremely' is an adverb of manner.
+```

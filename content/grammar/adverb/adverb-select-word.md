@@ -1,8 +1,8 @@
-## Identify the adverb
+## Select the Adverb
 
 Select the adverb in the below sentence.
 
-(adverb-3)
+### (adverb-3)
 
 ```
 Anu swims *well.*
@@ -43,13 +43,13 @@ I *always* read comic books.
 Please come *forward* and answer.
 ```
 
+### (adverb-4)
+
 TODO: No activity for adverb-4 playlist
 
-## Select the Adverb
+### (adverb-5)
 
 Select the adverb of frequency in the below sentence.
-
-(adverb-5)
 
 ```
 *Sometimes*, the school takes the kids to the zoo.
@@ -85,7 +85,7 @@ I drink a glass of water *every* hour.
 I take a bath *daily*.
 ```
 
-(adverb-5)
+#### Collection
 
 Tap on the adverb of degree in each sentence.
 
@@ -117,11 +117,11 @@ He drove the car *very* fast.
 
 # MultiSelect
 
-## Select the adverb of manners
+## Select the adverbs
 
 Tap on the adverb of manners in the following sentences.
 
-(adverb-4)
+### (adverb-4)
 
 ```
 He had a meeting. So, he *quickly* drank the water and went to the office *hurriedly*.
@@ -164,11 +164,9 @@ I *gladly* told my parents that I got selected for the sports team. They *excite
 I got hurt. So I *rapidly* put a gel on the wound. I am doing my tasks *carefully* now.
 ```
 
-## Select (label) (multiple select words)
+### (adverb-4)
 
-(adverb-4)
-
-Select the adverbs of place and time in these sentences. (title)
+Select the adverbs of place and time in these sentences.
 
 ```
 The cat is *under* the sofa. It went there *when* it was time to bath.
@@ -200,11 +198,9 @@ My brother *never* helps me. He is always *at* his friend's house.
 *Sometimes*, my Dad comes home early. Then we walk *around* the street at night.
 ```
 
-(adverb-5)
+### (adverb-5)
 
-## Select the adverbs of degree
-
-Tap on all the adverbs of degree.
+Select all the adverbs of degree in the below sentences
 
 ```
 She was *considerably* sick. Yet she *bravely* appeared in the exam. Everyone praised her.
@@ -247,11 +243,9 @@ Are these pens *enough*? Do you think they are *too* many? Shall I return some o
 I am not *entirely* sure what homework the teacher gave us. I was *slightly* distracted in the class.
 ```
 
-## Select the adverb of frequency
+### (adverb-5)
 
-Tap on all the adverbs of frequency.
-
-(adverb-5)
+Select all the adverbs of frequency in the below sentences
 
 ```
 *Sometimes* they come and stay with us. But *mostly* they return to their home the same day. They *rarely* stay.

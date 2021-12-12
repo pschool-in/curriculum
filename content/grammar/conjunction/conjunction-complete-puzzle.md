@@ -1,8 +1,8 @@
-(conjunction-1)
+## Right Match
 
-## Right match
+### (conjunction-1)
 
-Choose the puzzle piece with the correct joining word.
+Choose the puzzle piece that completes the sentence.
 
 ```
 I like apples, and bananas, but bananas
@@ -30,11 +30,7 @@ I am sick, and not going to school, but not going to school
 He practiced a lot, but did not win, and did not win
 ```
 
-(conjunction-2)
-
-## Right match
-
-Choose the puzzle piece with the correct conjunction.
+### (conjunction-2)
 
 ```
 I like drawing, and painting, so painting

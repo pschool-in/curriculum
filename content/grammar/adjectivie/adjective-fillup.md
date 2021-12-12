@@ -1,7 +1,6 @@
-## Fill in the blanks
+## Fill in the blanks (factual, appropriate, contextual)
 
-Click on the blank and select the appropriate adjective to complete the
-sentence.
+Click on the blank and select the appropriate adjective.
 
 ### (adjective-2)
 
@@ -31,78 +30,9 @@ Wolf is a *dangerous (pretty)* animal.
 These bananas are *sweet (sour)*.
 ```
 
-```
-In the morning, the *heavy (plump) snow was covering the ground.
-Suresh is a *lazy (smart)* boy and always fails in the exam.
-The *rich (poor)* man has got a lot of money.
-The sums are *difficult (easy)* to solve in the given time.
-The ball is *round (rectangle)* in shape.
-These boxes are *heavy (light)* and I cannot lift them myself.
-My mom bought a *pretty (ugly)* dress for my birthday.
-Rabbits are *cute (dangerous)* animals.
-My brother gave money to the *poor (rich)* beggar.
-That *naughty (sincere)* boy broke our balcony window.
-```
-
 ### (adjective-3)
 
-```
-Manisha is wearing a *beautiful (tall)* dress.
-She loves to eat *fresh (rotten)* apples.
-Rahul has *curly (deep)* hair.
-A ball is *round (curly)* in shape.
-Birds have *beautiful (high)* feathers.
-The blanket is *soft (round)*.
-There was very *little (huge)* water in the bottle.
-I wore a *red (short)* saree for my friend's wedding.
-Ravi is an *obedient (white)* student.
-My dad is wearing a *black (square)* coat.
-```
-
-```
-Harish saw a *funny (clumsy)* clown.
-Jasmines have *white (black)* petals.
-The shape of the earth is *round (oval)*.
-Grandma gave me a *sweet (sour)* chocolate.
-The book is very *colorful (ill)*.
-Priya loves to eat *sweet (grey)* mangoes.
-A dog is an *honest (sour)* animal.
-Neeta is a *clever (round)* girl.
-Paddy fields are very *green (blue)*.
-The *black (blue)* soil is rich in nutrients.
-```
-
-### (adjective-4)
-
-```
-A car has *four (three)* wheels.
-Coffee is hot but ice is *cold ( black)*.
-I like to sleep on a *soft (hard)* bed.
-The Indian team was *happy (sad)* when they won the match.
-I saw some *black (green)* clouds.
-An *angry (black)* tiger jumped out of the cage.
-My mom cooks *tasty (beautiful)* payasam.
-A squirrel is a *small (huge)* animal.
-The earth is *round(square)* in shape.
-My cousin's house is very *big (fat)*.
-```
-
-```
-My mother packed *healthy (unhealthy)* snacks for the picnic.
-I read an *interesting (rich)* book today in the library.
-I washed my face with *cold (dirty)* water after playing.
-I wore my *warm (hot)* mittens in the snow while skiing.
-My mom helped me make *delicious (raw)* sweets for Diwali.
-My *furry (curly)* cat made me sneeze.
-The *untidy (neat)* man lived on the streets near my area.
-Sangeeta is a *bright (tall)* student who does her work on time.
-Students are *happy (lazy)* when lunchtime begins in school.
-Mumbai has *huge (deep)* skyscrapers when compared to other cities.
-```
-
-(adjective-5)
-
-## Fill - adjective of quantity
+adjective of quantity
 
 Click on the blank and choose an appropriate adjective of quantity to complete
 the sentence.
@@ -146,12 +76,9 @@ We have *little (few)* time left to catch the train to Bangalore.
 I have a *little (few)* money left to buy the ice cream from the shop.
 ```
 
-(adjective-5)
+### (adjective-4)
 
-## Fill - demonstrative adjective
-
-Click on the blank and choose an appropriate demonstrative adjective in the
-sentence.
+(hidden: demonstrative adjective)
 
 ```
 *Those (This)* sheep are running away.
@@ -179,60 +106,85 @@ My dad presented *that (those)* book on my birthday.
 *These (That)* clothes are wet due to sudden drizzling in the afternoon.
 ```
 
-## Fill up (old activity)
-
-Click on the blanks and choose the right option.
-
 ```
-Vijay is the *tallest (tall, taller)* boy in the class.
-Vijay is a *tall(taller, tallest)* boy.
-Vijay is *taller (tall, tallest)* than Ramu.
-Dogs are the *most (more)* faithful animals.
-Tamil is *older (old, oldest)* than English.
-Tamil is an *old (older, oldest)* language.
-Tamil is one of the *oldest (old, older)* languages in the world.
-The Himalayas is the *tallest(tall, taller)* mountain range.
-The Himalayas is a *tall(taller, tallest)* mountain range.
-The Himalayas is *taller(tall, tallest)* than the Alps.
+Manisha is wearing a *beautiful (tall)* dress.
+She loves to eat *fresh (rotten)* apples.
+Rahul has *curly (deep)* hair.
+A ball is *round (curly)* in shape.
+Birds have *beautiful (high)* feathers.
+The blanket is *soft (round)*.
+There was very *little (huge)* water in the bottle.
+I wore a *red (short)* saree for my friend's wedding.
+Ravi is an *obedient (white)* student.
+My dad is wearing a *black (square)* coat.
 ```
 
 ```
-India is a *large( larger, largest)* Democracy.
-Hari is a *smart( smarter, smartest)* boy.
-India is the *largest( large, larger)* Democracy.
-Hari is *smarter( smart, smartest)* than Gopal.
-Bangladesh is not as *big (bigger, biggest)* as India.
-Ostrich is *larger( large,largest )* than penguin.
-Ostrich is a *large( larger, largest)* bird.
-Hari is the *smartest( smart, smarter)* boy in the class.
-India is a *larger( large, largest )* Democracy than the USA.
-Ostrich is the *largest( large,larger )* bird.
+Harish saw a *funny (clumsy)* clown.
+Jasmines have *white (black)* petals.
+The shape of the earth is *round (oval)*.
+Grandma gave me a *sweet (sour)* chocolate.
+The book is very *colorful (ill)*.
+Priya loves to eat *sweet (grey)* mangoes.
+A dog is an *honest (sour)* animal.
+Neeta is a *clever (round)* girl.
+Paddy fields are very *green (blue)*.
+The *black (blue)* soil is rich in nutrients.
 ```
 
 ```
-Taj Mahal is a *famous(more famous)* monument in India.
-Bheem is the *bravest(braver, brave)* boy among his friends.
-Diamond is a *costly(costlier, costliest)* stone.
-Taj Mahal is *more(most)* famous than Qutub Minar.
-Bheem is *braver(brave, bravest)* than Kalia.
-The Pacific Ocean is *deeper (deep, deepest)* than the Arctic ocean.
-Diamond is *costlier(costly, costliest)* than ruby.
-Taj Mahal is one of the *most(more)* famous monuments in India.
-Bheem is a *brave(braver, bravest)* boy in Dholakpur.
-Diamond is the *costliest(costly,costlier)* stone.
+In the morning, the *heavy (plump) snow was covering the ground.
+Suresh is a *lazy (smart)* boy and always fails in the exam.
+The *rich (poor)* man has got a lot of money.
+The sums are *difficult (easy)* to solve in the given time.
+The ball is *round (rectangle)* in shape.
+These boxes are *heavy (light)* and I cannot lift them myself.
+My mom bought a *pretty (ugly)* dress for my birthday.
+Rabbits are *cute (dangerous)* animals.
+My brother gave money to the *poor (rich)* beggar.
+That *naughty (sincere)* boy broke our balcony window.
 ```
 
 ```
-Mumbai is a *busier(busy, busiest)* city than Bengaluru.
-Lead is one of the *heaviest(heavy, heavier)* metals.
-Mani can run *faster(fast, fastest)* than Gopal.
-Mumbai is a *busy(busiest, busier)* city.
-Mani can run *fast(faster, fastest)*.
-Lead is *heavier(heavy, heaviest)* than iron.
-A pen is *mightier (might, mightiest)* than a sword.
-Lead is a *heavy(heavier, heaviest)* metal.
-Mumbai is one of the *busiest(busier, busy)* cities in the world.
-Mani is the *fastest(fast, faster)* boy in our class.
+Coffee is hot but ice is *cold ( black)*.
+I like to sleep on a *soft (hard)* bed.
+The Indian team was *happy (sad)* when they won the match.
+I saw some *black (green)* clouds.
+An *angry (black)* tiger jumped out of the cage.
+My mom cooks *tasty (beautiful)* payasam.
+A squirrel is a *small (huge)* animal.
+The earth is *round(square)* in shape.
+My cousin's house is very *big (fat)*.
+```
+
+```
+My mother packed *healthy (unhealthy)* snacks for the picnic.
+I read an *interesting (rich)* book today in the library.
+I washed my face with *cold (dirty)* water after playing.
+I wore my *warm (hot)* mittens in the snow while skiing.
+My mom helped me make *delicious (raw)* sweets for Diwali.
+My *furry (curly)* cat made me sneeze.
+The *untidy (neat)* man lived on the streets near my area.
+Sangeeta is a *bright (tall)* student who does her work on time.
+Students are *happy (lazy)* when lunchtime begins in school.
+Mumbai has *huge (deep)* skyscrapers when compared to other cities.
+```
+
+### (adjective-4)
+
+(Fill up in Story)
+
+```
+Once upon a time, an *old (new)* porcupine lived in a *large (tall)* wood with his sons.
+One day, one of the porcupines went into the *deep (long)* jungle to fetch some *fresh (spoiled)* vegetables.
+He was a slow walker and he had just reached a *huge (black)* cabbage, when from behind the *green (stale)* leaves, out popped a *big (stripped)* hare.
+He said, I hope you are quicker at eating, or will it take a year to finish the cabbage! The porcupine paid little attention to the hare's words and left from there.
+```
+
+```
+Once upon a time, there lived a *beautiful (new)* stag. Like all other stags, he had *long (brief)*, *slender (round)* legs.
+One day he was grazing peacefully on *tender (stern)* shoots. Suddenly, he heard the howling of *dangerous (pretty)* wolves!
+He knew, he had to escape. So he started running. Suddenly his *large (fluffy)* antlers got stuck in the low-hanging branch and he was unable to escape. Finally, the wolves caught the stag.
 ```
 
 # Draft

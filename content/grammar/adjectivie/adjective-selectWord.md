@@ -64,7 +64,9 @@ I lost my *gold* bracelet.
 
 ### (adjective-3)
 
-(hidden: adjective of quality)
+Select the Adjective of Quantity
+
+Select the adjective of quantity in the sentence.
 
 ```
 Chandan gave *all* his pens to Manish.
@@ -181,6 +183,11 @@ He sells these fruits in a *big* supermarket.
 
 ### (adjective-5)
 
+Identify Adjectives
+
+Identify the adjectives given in the passage. There can be zero or more. Select
+all and Submit.
+
 ```
 Once upon a time... there lived a woman who had no children.
 She dreamed of having a *little* girl.
@@ -197,68 +204,4 @@ She was named Thumbelina. She had a walnut shell for the bed, *violet* petals fo
 One night, as Thumbelina was fast asleep, a *large* frog hopped in through the window.
 She said to herself, how *pretty* Thumbelina is!
 Later, she picked up Thumbelina and hopped back into the wetlands.
-```
-
-# Draft
-
-## Identify - degrees of comparison-1
-
-Select the comparative degree of adjective in the sentence.
-
-(adjective-5)
-
-```
-My house is *bigger than* yours.
-I am *smarter than* my brother.
-The summer is *warmer than* winter.
-Tortoises live *longer than* cats.
-My sister is *more intelligent than* my brother.
-Mumbai is *bigger than* Delhi.
-A rose is *more beautiful* than a hibiscus.
-Shiva is *cleverer than* Subrat.
-Tortoises live *longer than* cats.
-My mom is *taller than* my grandmom.
-```
-
-```
-Iceland is *colder than* Spain.
-I drive *more carefully than* my father.
-English is *easier than* Japanese.
-My son is *taller than* his father.
-An elephant is *stronger than* Kangaroo.
-The earth is *larger than* moon.
-Nupur is *more polite than* Rishi.
-My hair is *longer than* yours.
-Roads in the city are *wider than* roads in the villages.
-I am *more tired than* yesterday due to busy work.
-```
-
-## Identify - degrees of comparison-2
-
-Select the superlative degree of adjective in the sentence.
-
-```
-The cheetah is *the fastest* animal in the world.
-May is *the hottest* month of the year.
-Which mountain is *the highest* in the world?
-Dhruv is *the noisiest* student in the school.
-This is *the best* book I have read.
-December is *the coldest* month of the year.
-Mango is *the juiciest* fruit of all.
-Mount Everest is *the highest* peak in the world.
-Chandan is *the most hardworking* student in the class.
-Vihaan is *the tallest* boy in the class.
-```
-
-```
-Friday is *the busiest* day of the week.
-Mrs. Sunita is *the most polite* teacher I have ever met.
-Madan is *the slowest* runner in our class.
-Hyderabad is *the most beautiful* city in Telangana.
-February is *the shortest* month of the year.
-The Ganga is *the longest* river in India.
-Jupiter is *the biggest* planet in the solar system.
-My aunt is *the shortest* person in my family.
-Karthik is *the most handsome* boy in our class.
-This is *the most interesting* movie I have ever watched.
 ```

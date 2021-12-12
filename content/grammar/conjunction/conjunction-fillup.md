@@ -1,6 +1,8 @@
-(conjunction-1)
-
 ## Fill in the blanks
+
+Click on the blanks and fill it with the correct options.
+
+### (conjunction-1)
 
 ```
 I want to go, *but (and)* it is too far.
@@ -28,11 +30,7 @@ Priya lives in the city *and (but)* visits her grandma every Sunday.
 She plays *and (but)* walks in the park.
 ```
 
-(conjunction-2)
-
-## Fill up
-
-Tap on each blank for options.
+### (conjunction-2)
 
 ```
 Pink *and (or, but)* yellow are colors.
@@ -60,100 +58,11 @@ Siya *or (but, so)* Sameer did this.
 He was ill *so (but, and)* he did not go to school.
 ```
 
-(conjunction-2)
+#### collection-2
 
-## Complete the passage
+And, Or, But
 
-Tap on each blank for options. Choose the correct conjunction.
-
-```
-All of my friends are going to Richa's party. *But (So)* she has not invited me. *So (And)* we have decided that *neither (either)* me *nor (or)* my best friend will go. I bought a present for her, *but (or)* now I'll give it to my best friend.
-```
-
-```
-Everyone loves Sundays. That is *because (so)* it’s a holiday. *But (Or)* for me, Sunday is the most boring day of the week. This is *because (either)* my parents take me to the farm every weekend. It was fun at first. *But (And)* now I don't like going there. This is *because (so)* all my friends are in the city.
-```
-
-```
-I know that we should save water. *But (And)* I forget to turn off the tap. *So (Or)* I wrote a note *and (or)* stick it on the wall near the tap. Now I'll always remember to turn it off.
-```
-
-```
-Neena loves chocolate. *But (So)* her mother doesn't let her eat much. She likes it because it's sweet *and (so)* tasty. Her mother hides the chocolate *or (so)* gives it to her friends. Her friends share the chocolate with her. *So (Or)* she gets to eat it.
-```
-
-```
-The teacher asked us to be quiet *and (or)* study. *But (So)* the naughty boy in the class did not listen. He *and (or)* his friends went to the ground. *So (And)* the teacher got angry *and (but)* punished them.
-```
-
-## Complete the passage
-
-(conjunction-4)
-
-Complete the passage with the correct conjunction. Tap each blank for options.
-
-```
-I take my dog for a walk every evening. I put on its leash *and (but)* walk out of the door. Next, I take it to the park *and (but)* we walk. *But (And)* it tries to unleash *and (but)* run across the park. People ask me to unleash it *but (and)* it may bite someone. After our walk, I take off his leash.
-```
-
-```
-My neighbor is my best friend. He is going on vacation *and (or)* asked me to go with him. *But (So)* I have exams next month, *so (or)* my parents are not allowing. They said I can *either (neither)* study *or (nor)* go with him. *So (But)* I won't be going.
-```
-
-```
-My favorite cartoon is Tom and Jerry. I watch it before going to school *or (so)* in the evening. I don't like when Tom *and (or)* Jerry tease each other. *But (So)* it makes me laugh out loud. *Not only (Even)* they fight a lot, *but also (or)* help each other. *So (Or)* they care about each other a lot.
-```
-
-```
-Raj lives in a small town *and (but)* the closest big city is an hour away. Raj likes going to the city *because (or)* they find cattle on the way. Raj loves cattle *so (or)* knows everything about them. A baby is called a calf, a female is called a cow, *and (so)* a male is called an ox. A group of cattle is called a herd. He knows that cattle are sound *and (but)* quiet animals *and (so)* graze on grass.
-```
-
-```
-I love reading books *so (and)* I go to the library. I found a very interesting book *so (because)* I borrowed it for one week. Today, I have to return it *but (so)* I haven't completed it. I will go *and (so)* issue it again in the evening.
-```
-
-(conjunction-4)
-
-## Fillup with options
-
-Tap each blank and choose the correct conjunction.
-
-```
-He is *both (not, not only)* smart and intelligent.
-I can either write *or (nor, and)* watch TV.
-*Neither (Either, Only)* mom nor dad are going.
-I don't know whether she sings *or (nor, so)* not.
-*Not only (Both, Whether)* he's smart, but also very intelligent.
-I will *either (neither, for)* go to the party or the movie.
-I like neither coffee *nor (or, and)* tea.
-Not only he lied, *but also (and, so)* shouted at me.
-I can both sing *and (or, for)* dance.
-She will *either (neither, but)* stay or leave.
-I can *neither (either, only)* study nor concentrate on sports.
-*Not only (Both, So)* my friend is intelligent, but also helps me in studies.
-I don't know whether she'll come *or (and, but)* not.
-```
-
-```
-I will either eat *or (nor, and)* sleep.
-She can *both (either, neither)* draw and paint.
-You can go by train *or (but, because)* bus.
-Our neighbors are good *and (so, or)* friendly.
-My dad won't come *but (or, because)* my mom will.
-She is *so (or, very)* tall that she can touch the ventilator.
-She ran fast *and (but, or)* won the race.
-She left *because (if, and)* they were laughing.
-The teacher entered *and (but, because)* the students stood up.
-He got hurt *because (if, so)* he fell down.
-I will either wash clothes *or (nor, and)* do the dishes.
-I slept *and (but, or)* skipped my homework.
-```
-
-(conjunction-1)
-
-## And, Or, But
-
-Click on the blanks and pick the correct preposition.
+Click on the blanks and pick the correct connecting word.
 
 ```
 I wanted to wash my shoes, *but* I forgot to do it.
@@ -168,9 +77,9 @@ He has a ball *but* not a bat.
 Please bring a paper *and* a pencil.
 ```
 
-(conjunction-4)
+#### collection-2
 
-## So vs Because
+So vs Because
 
 Click on the blanks and pick the correct conjunction.
 
@@ -211,4 +120,85 @@ I didn't complete the homework *because* I forgot about it.
 She doesn't like him *because* he isn't honest.
 The water wasn't clean *so* we didn't swim.
 My mom quit her job *so* she is looking for a new job.
+```
+
+### (conjunction-4)
+
+```
+He is *both (not, not only)* smart and intelligent.
+I can either write *or (nor, and)* watch TV.
+*Neither (Either, Only)* mom nor dad are going.
+I don't know whether she sings *or (nor, so)* not.
+*Not only (Both, Whether)* he's smart, but also very intelligent.
+I will *either (neither, for)* go to the party or the movie.
+I like neither coffee *nor (or, and)* tea.
+Not only he lied, *but also (and, so)* shouted at me.
+I can both sing *and (or, for)* dance.
+She will *either (neither, but)* stay or leave.
+I can *neither (either, only)* study nor concentrate on sports.
+*Not only (Both, So)* my friend is intelligent, but also helps me in studies.
+I don't know whether she'll come *or (and, but)* not.
+```
+
+```
+I will either eat *or (nor, and)* sleep.
+She can *both (either, neither)* draw and paint.
+You can go by train *or (but, because)* bus.
+Our neighbors are good *and (so, or)* friendly.
+My dad won't come *but (or, because)* my mom will.
+She is *so (or, very)* tall that she can touch the ventilator.
+She ran fast *and (but, or)* won the race.
+She left *because (if, and)* they were laughing.
+The teacher entered *and (but, because)* the students stood up.
+He got hurt *because (if, so)* he fell down.
+I will either wash clothes *or (nor, and)* do the dishes.
+I slept *and (but, or)* skipped my homework.
+```
+
+#### collection-2
+
+Fill Up on Passage
+
+Click on the blanks and fill it with the correct options.
+
+```
+I take my dog for a walk every evening. I put on its leash *and (but)* walk out of the door. Next, I take it to the park *and (but)* we walk. *But (And)* it tries to unleash *and (but)* run across the park. People ask me to unleash it *but (and)* it may bite someone. After our walk, I take off his leash.
+```
+
+```
+My neighbor is my best friend. He is going on vacation *and (or)* asked me to go with him. *But (So)* I have exams next month, *so (or)* my parents are not allowing. They said I can *either (neither)* study *or (nor)* go with him. *So (But)* I won't be going.
+```
+
+```
+My favorite cartoon is Tom and Jerry. I watch it before going to school *or (so)* in the evening. I don't like when Tom *and (or)* Jerry tease each other. *But (So)* it makes me laugh out loud. *Not only (Even)* they fight a lot, *but also (or)* help each other. *So (Or)* they care about each other a lot.
+```
+
+```
+Raj lives in a small town *and (but)* the closest big city is an hour away. Raj likes going to the city *because (or)* they find cattle on the way. Raj loves cattle *so (or)* knows everything about them. A baby is called a calf, a female is called a cow, *and (so)* a male is called an ox. A group of cattle is called a herd. He knows that cattle are sound *and (but)* quiet animals *and (so)* graze on grass.
+```
+
+```
+I love reading books *so (and)* I go to the library. I found a very interesting book *so (because)* I borrowed it for one week. Today, I have to return it *but (so)* I haven't completed it. I will go *and (so)* issue it again in the evening.
+```
+
+#### collection-3
+
+```
+All of my friends are going to Richa's party. *But (So)* she has not invited me. *So (And)* we have decided that *neither (either)* me *nor (or)* my best friend will go. I bought a present for her, *but (or)* now I'll give it to my best friend.
+```
+
+```
+Everyone loves Sundays. That is *because (so)* it’s a holiday. *But (Or)* for me, Sunday is the most boring day of the week. This is *because (either)* my parents take me to the farm every weekend. It was fun at first. *But (And)* now I don't like going there. This is *because (so)* all my friends are in the city.
+```
+
+```
+I know that we should save water. *But (And)* I forget to turn off the tap. *So (Or)* I wrote a note *and (or)* stick it on the wall near the tap. Now I'll always remember to turn it off.
+```
+
+```
+Neena loves chocolate. *But (So)* her mother doesn't let her eat much. She likes it because it's sweet *and (so)* tasty. Her mother hides the chocolate *or (so)* gives it to her friends. Her friends share the chocolate with her. *So (Or)* she gets to eat it.
+```
+
+```
+The teacher asked us to be quiet *and (or)* study. *But (So)* the naughty boy in the class did not listen. He *and (or)* his friends went to the ground. *So (And)* the teacher got angry *and (but)* punished them.
 ```

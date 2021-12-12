@@ -1,10 +1,10 @@
-(conjunction-1)
+## True or False
 
-## Identify
+True or False: The below sentence has a connecting word.
 
-Identify if these sentences have joining words or not.'
+### (conjunction-1)
 
-Yes
+True
 
 ```
 Brush your teeth and put on your pajamas.
@@ -21,7 +21,7 @@ The trees and plants have lots of leaves.
 We get milk from cows and buffalos.
 ```
 
-No
+False
 
 ```
 My name is Raj.
@@ -38,13 +38,10 @@ We should keep our room clean.
 We have a blackboard in the class.
 ```
 
-(conjunction-2)
+### (conjunction-2)
 
-## Identify
+True
 
-Identify if the below sentences have conjunction or not.
-
-Yes
 ```
 We wake up early and see the sunrise.
 I love school but I hate maths class.
@@ -66,7 +63,8 @@ Who's smarter, Priya or Raj?
 My mom and dad are doctors.
 ```
 
-No
+False
+
 ```
 I can play. I can eat.
 I like playing with my friends a lot.

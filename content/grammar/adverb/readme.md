@@ -28,7 +28,7 @@ Identify the type of adverb
 ## Introduction to Adverb (adverb-3)
 
 1. Reading Passage
-2. Identify the adverb
+2. Select the Adverb
 3. What does the underlined adverb modify? (Verb, Adjective, another Adverb)
 4. Drag and Drop: Adjective vs Adverb
 5. Complete the word based on the root word.
@@ -36,14 +36,16 @@ Identify the type of adverb
 ## Adverb of Place, Time and Manner (adverb-4)
 
 1. Reading Passage
-2. Identify the adverb
-3. Classify Adverb type
-4. Select all adverbs in the sentences
+2. Classify the given adverbs as Adverb of Place and Time
+3. Identify the adverb present in the below setence.
+4. Fill in the blanks with the right adverb
+5. Select all adverbs of manners
+6. Select all adverbs of place
 
 ## Adverb of Degree and Frequency (adverb-5)
 
 1. Reading Passage
-2. Identify the adverb
+2. Select the Adverb
    1. Adverb of Frequncy (hidden)
    2. Adverb of Degree (hidden)
 3. Drag and Drop - Adverb of Frequency or not

@@ -1,8 +1,8 @@
-(conjunction-1)
-
 ## Select Word
 
 Tap on the joining words in these sentences.
+
+### (conjunction-1)
 
 ```
 I have a black shirt *and* blue jeans.

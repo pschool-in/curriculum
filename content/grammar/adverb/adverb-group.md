@@ -1,8 +1,8 @@
 (adverb-3)
 
-## Drag and Drop
+## Adverb vs Adjective
 
-Identify which are adverbs of manner and which are adjectives.
+Classify the below words.
 
 Adjective
 
@@ -26,19 +26,20 @@ Softly, Beautifully, Normally, Personally
 
 (adverb-4)
 
-## Drag and Drop (label)
+## Classify the Adverbs (label)
 
-Classify the adverbs as adverb of place and time. (title)
-```
-Time: Yesterday, Still, While, Soon
-
-Place: North, South, Around, Up
-```
+Adverb of Time
 
 ```
-Time: Tomorrow, Last week, When, Hourly
+Yesterday, Still, While, Soon
+Tomorrow, Last week, When, Hourly
+```
 
-Place: Behind, Above, Below, East
+Adverb of Place
+
+```
+North, South, Around, Up
+Behind, Above, Below, East
 ```
 
 ## Drag and Drop

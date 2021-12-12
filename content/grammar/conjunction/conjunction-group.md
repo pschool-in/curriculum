@@ -1,24 +1,24 @@
-(conjunction-2)
+## Group
+
+### (conjunction-2)
+
+Classify the given words as conjunction or not.
+
+Conjunction
+
+```
+And, But, Or, So, Because
+```
+
+Not a Conjunction
+
+```
+Can, May, Shall, Will, Become
+```
 
 ## Drag and Drop
 
-Identify if these words are conjunctions or not.
-
-Yes
-
-```
-And, But, Or, So
-```
-
-No
-
-```
-Can, May, Shall, Will
-```
-
-## Drag and Drop
-
-(conjunction-4)
+### (conjunction-4)
 
 Identify which of the following are conjunctions and which ones are not.
 

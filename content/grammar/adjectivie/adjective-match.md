@@ -5,27 +5,35 @@
 Match the describing word with the related naming word.
 
 ```
-Big, Elephant
-Dark, Night
-Small, Ant
-Pleasant, Weather
-Loud, Lion
+five, stars
+big, tree
+kind, girl
+true, friend
+white, milk
 ```
 
 ```
-Clean, Room
-Smart, Student
-Long, Train
-Ugly, Pig
-Round, Ball
+big, elephant
+dark, night
+small, ant
+green, light
+fresh, fruits
 ```
 
 ```
-Red, Colour
-Two, Hands
-Soft, Toy
-Long, Hair
-Sweet, Mango
+clean, room
+smart, student
+long, train
+ugly, pig
+round, ball
+```
+
+```
+red, colour
+two, hands
+soft, toy
+long, hair
+sweet, mango
 ```
 
 ### (adjective-2)
@@ -73,7 +81,6 @@ steep, hill
 ```
 leather, belt
 naughty, kid
-Porcelain, cup
 sour, grapes
 brown, bear
 red, rose
@@ -82,39 +89,37 @@ red, rose
 ### (adjective-3)
 
 ```
-Cheerful, boy
-Tall, building
-Sweet, mangoes
-Colorful, umbrella
-Black, dog
-Pretty, women
+cheerful, boy
+tall, building
+sweet, mangoes
+colorful, umbrella
+black, dog
+pretty, women
 ```
 
 ```
-New, dress
-Clever, girl
-Yellow, flowers
-Brick, house
-Green, parrot
-Crunchy, chips
+new, dress
+clever, girl
+yellow, flowers
+brick, house
+green, parrot
 ```
 
 ```
-Black, board
-Tall, tree
-Narrow, road
-Pretty, girl
-Colorful, kite
-Strong, bull
+black, board
+tall, tree
+narrow, road
+pretty, girl
+colorful, kite
+strong, bull
 ```
 
 ```
-Blue, sky
-Big, room
-Soft, carpet
-Thorny, bush
-Brown, bear
-Wild, dog
+blue, sky
+big, room
+thorny, bush
+brown, bear
+pleasant, weather
 ```
 
 ### (adjective-4)
