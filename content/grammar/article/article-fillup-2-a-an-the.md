@@ -33,7 +33,7 @@ I am reading *a* really good book.
 ```
 I am *a* school student.
 He is *the* best student in the class.
-*the* camel is the ship of the desert.
+*The* camel is the ship of the desert.
 This book has won *the* Noble Prize.
 Please inform me about *the* next exam.
 Gold is *a* precious metal.

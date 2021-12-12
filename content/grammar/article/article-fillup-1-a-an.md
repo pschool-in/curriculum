@@ -89,7 +89,7 @@ I bought *an* umbrella for my brother.
 Aladdin had *a* magic lantern.
 I saw *a* big lion at the zoo.
 She has written *a* story.
-I saw *a* Peacock in KBR park today.
+I saw *a* peacock in KBR park today.
 I have *an* inkpot on my study table.
 It is *an* ancient fort in Hyderabad.
 I am *a* pilot.

@@ -7,7 +7,7 @@
 ```
 *-* man is mortal.
 Can you tell me *a* story?
-She goes to the temple in *-* mornings.
+She goes to *-*school every day.
 I am fond of *-* music.
 I will go to school by *-* walk.
 Ashoka was *an* honest king.
@@ -76,11 +76,11 @@ Ravi met with *an* accident yesterday.
 ```
 There is a spider on *the* roof.
 Karthik can play *the* guitar.
-*The (-, an, a)* AC has stopped working.
+*The (-, An, A)* AC has stopped working.
 Please open *the* window.
 She is *an* architect.
 He can play *the* flute.
-*The (-)* Himalayas lie in the North of India.
+*The (-, An, A)* Himalayas lie in the North of India.
 Sanskrit is *a* difficult language.
 The children found *an* egg in the bird's nest.
 * - (The, An, A)* Mount Everest is the highest mountain peak in the world.

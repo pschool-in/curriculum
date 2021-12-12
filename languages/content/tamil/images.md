@@ -1,5 +1,8 @@
 # விலங்குகள்
 
+## level 1
+
+
 ```
 cat, பூனை
 dog, நாய்
@@ -11,72 +14,57 @@ elephant, யானை
 lion, சிங்கம்
 monkey, குரங்கு
 tiger, புலி
+fox, நரி
+zebra, வரிக்குதிரை
+bear, கரடி
+camel, ஒட்டகம்
+fish, மீன்
+frog, தவளை
+snake, பாம்பு
+squirrel, அணில்
+tortoise, ஆமை
+rat, எலி
+buffallo, எருமை
+butterfly, வண்ணத்துப்பூச்சி
+cow, பசு
+donkey, கழுதை
+giraffe, ஒட்டகச்சிவிங்கி
+mosquito, கொசு
+fly, ஈ
+ant, எறும்பு
+lizard, பல்லி
+rabbit, முயல்
+cockroach, கரப்பான் பூச்சி
+antelope, மான்
+
 ```
 
 ```
 hippo, நீர்யானை
 rhino, காண்டாமிருகம்
-fox, நரி
 crocodile, முதலை
-zebra, வரிக்குதிரை
-bear, கரடி
-camel, ஒட்டகம்
 shark, சுறாமீன்
 whale, திமிங்கிலம்
 dragonfly, தட்டான்
-```
-
-```
-fish, மீன்
-frog, தவளை
 crab, நண்டு
-snake, பாம்பு
-squirrel, அணில்
-tortoise, ஆமை
-rat, எலி
 winged-termites, ஈசல்
-ant, எறும்பு
-fly, ஈ
-```
-
-```
 bat, வௌவால்
-buffallo, எருமை
-butterfly, வண்ணத்துப்பூச்சி
 cheetah,
-cow, மாடு
-donkey, கழுதை
-giraffe, ஒட்டகச்சிவிங்கி
 kangaroo, கங்காரு
 leopard, சிறுத்தை
 mongoose, கீரிப்பிள்ளை
-mosquito, கொசு
-
-```
-
-```
 octopus, ஆக்டோபஸ்
 wolf, ஓநாய்
-cockroach, கரப்பான் பூச்சி
 garden-lizard, ஓணான்
-lizard, பல்லி
-rabbit, முயல்
-```
-
-```
 alligator, 
 boar, காட்டுப் பன்றி
 cricket,
 hyena, கழுதைப் புலி
 polarbear, பனிக்கரடி
-antelope, மான்
 bug, வண்டு
 jackal, நரி
 prawn, இறால்
 baboon, வாலில்லாக் குரங்கு
-```
-
-```
 bull, காளை
 dinosaur, டைனோசர்
 python, மலைப்பாம்பு
@@ -87,9 +75,6 @@ bee, தேனீ
 goldfish, தங்கமீன்
 jellyfish, 
 tigerfish,
-```
-
-```
 ladybug, 
 seahorse, கடற்குதிரை
 hamster, வெள்ளெலி

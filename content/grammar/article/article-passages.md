@@ -48,16 +48,16 @@ thing. These articles do not specify a particular person or a thing. "A" and
 "An" is used to introduce a noun or naming words and are also used to mention
 singular countable nouns.
 
-"a" is used before singular nouns beginning with consonant sounds.
+"A" is used before singular nouns beginning with consonant sounds.
 
-"an" is used before singular nouns beginning with vowel sounds.
+"An" is used before singular nouns beginning with vowel sounds.
 
 ## Definite article:
 
 We use the definite article "the" when we are talking about a specific person or
 a thing.
 
-"the" is used for countable and uncountable nouns/singular and plural nouns.
+"The" is used for countable and uncountable nouns/singular and plural nouns.
 
 # No Article Rules
 
@@ -125,6 +125,21 @@ For example:
 
 Ramesh made "just a few" mistakes in his test. There is "only a little" ice
 cream left in the fridge.
+
+
+
+# Article - Quantifiers ( NEW Passage in test app)
+
+
+The usage of article before words like 'few' or 'little' changes the meaning of the sentence.
+
+I have few candies, so I am not sharing with you.
+
+I have a few candies and I can share it with you.
+
+There is little chance for rain today. So no need to bring an umbrella.
+
+There is a little chance for rain today. So please bring an umbrella.
 
 ---
 
