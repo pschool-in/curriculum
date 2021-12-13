@@ -12,10 +12,10 @@ That is a *big* ground.
 I like *yellow* roses.
 I like *raw* mangoes.
 
-I took *some* chalk pieces from the desk.
-Priya has *little* interest in reading storybooks.
-We spent *few* hours planning for the birthday party.
-*Many* people visit Tirupathi every day.
+Meera has a *brown* cat as a pet.
+Our math teacher is an *old* woman who teaches excellently.
+Prakash is a *clever* boy in the class.
+My mom made *tasty* jalebis for the party.
 ```
 
 Adjective of quantity
@@ -26,10 +26,10 @@ We have *enough* time for the completion of homework.
 I know very *little* about folk songs.
 Add *some* sugar to the tea.
 
-Meera has a *brown* cat as a pet.
-Our math teacher is an *old* woman who teaches excellently.
-Prakash is a *clever* boy in the class.
-My mom made *tasty* jalebis for the party.
+I took *some* chalk pieces from the desk.
+Priya has *little* interest in reading storybooks.
+We spent *few* hours planning for the birthday party.
+*Many* people visit Tirupathi every day.
 ```
 
 ### (adjective-4)
