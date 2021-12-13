@@ -54,7 +54,7 @@ Fill in the blanks by moving the words given at the bottom.
 
 ```
 He is a *short* boy.
-She wore a *beautiful* dress.
+She wore a *cotton* dress.
 She bought a *big* kite.
 I saw a *green* parrot in the zoo.
 There is a *black* board in my classroom.
