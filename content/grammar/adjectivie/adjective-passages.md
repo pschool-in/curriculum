@@ -31,9 +31,9 @@ Adjectives usually come before a noun and make them more specific.
 For example:
 
 ```
-It is a "big" tree.
+1. It is a "big" tree.
 2. Manish is a "smart" boy.
-3. My sister has "long" hairs.
+3. My sister has "long" hair.
 ```
 
 The words "small", "smart", "long" are called adjectives.
