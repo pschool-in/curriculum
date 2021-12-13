@@ -58,7 +58,7 @@ We live in a *small* village.
 My father is a *tall* man.
 My village has *narrow* roads.
 These bananas are very *raw*.
-My Grandfather sat on a *broken* chair.
+My grandfather sat on a *broken* chair.
 I lost my *gold* bracelet.
 ```
 
