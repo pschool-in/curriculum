@@ -28,7 +28,7 @@ Coconut trees are *tall*.
 A lion roars very *loudly*.
 A goods train is very *long*.
 A *poor* man was sitting on the roadside.
-We had a *pleasant* weather.
+We had *pleasant* weather yesterday.
 A *small* rat lives in our house.
 I have a *purple* dress.
 The *hungry* baby was crying for his bottle.
