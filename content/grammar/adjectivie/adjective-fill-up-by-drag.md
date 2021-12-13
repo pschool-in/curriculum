@@ -151,6 +151,69 @@ He knew he had to escape. So he started running. Suddenly his *large (fluffy)* a
 
 ### (adjective-5)
 
+#### Collection 1
+
+Appropriate Adjective
+
+Put the adjectives given in the bottom at the right place.
+
+```
+An ostrich lays the *biggest* eggs!
+The clown in the circus wore *colourful* clothes.
+I have an *orange* persian cat.
+Our neighbours have a *beautiful* garden.
+Puja's school is on a *wide* road.
+```
+
+```
+Did you know that giraffes have *blue* tongues?
+The boy was wearing a sweater of *soft* wool.
+My mother's *favourite* ice cream is vanilla.
+The blue whale is the *largest* mammal.
+The lime juice is very *sour*.
+```
+
+```
+This road is very *wide*.
+These books are very *old*.
+Where are you going, my *pretty* maid?
+The *brave* soldier died fighting for his country.
+The *thirsty* crow could not reach the water in the pot.
+```
+
+```
+This *short* path will lead right into the forest.
+Her cupboard has *many* shelves.
+The farmer's geese walked in a *straight* line!
+The children are sitting on the *green* grass.
+Please wear a *clean* shirt before you go out.
+```
+
+#### Collection 2
+
+(adjective-5 ( changed from MCQ to FB)
+
+Click on the blank and fill in the appropriate adjective to complete the
+sentence.
+
+```
+The mangoes are *sweet*.
+The lion has *sharp* claws.
+The car is moving *fast*.
+Can you give me *little* water?
+The dress is very *colorful*.
+```
+
+```
+The *tall* man bought apples.
+We have a *tough* exam tomorrow.
+The *red* ball rolled down the stairs.
+These are *blunt* scissors.
+This is a *sweet* mango.
+```
+
+#### Collection 3
+
 Choose the correct adjective
 
 Drag and drop the correct adjective to complete the sentence.
@@ -177,27 +240,4 @@ Aditya has *four* books on his shelf which he borrowed from the library.
 Bhavya wore a *traditional* dress for Diwali celebrations in society.
 Mahesh was very *gentle* while cleaning his laptop.
 Mihira is a *naughty* girl in her class.
-```
-
-#### Collection 2
-
-(adjective-5 ( changed from MCQ to FB)
-
-Click on the blank and fill in the appropriate adjective to complete the
-sentence.
-
-```
-The mangoes are *sweet*.
-The lion has *sharp* claws.
-The car is moving *fast*.
-Can you give me *little* water?
-The dress is very *colorful*.
-```
-
-```
-The *tall* man bought apples.
-We have a *tough* exam tomorrow.
-The *red* ball rolled down the stairs.
-These are *blunt* scissors.
-This is a *sweet* mango.
 ```

@@ -23,7 +23,7 @@ passages.
 
 # Playlists
 
-## Describing Words (adjective-1)
+## Describing Word (adjective-1)
 
 1. passage
 2. Connect the letters and form the describing word.

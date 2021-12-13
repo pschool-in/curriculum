@@ -39,7 +39,7 @@ passages.
 6. True or False: The below sentence has a connecting word.
 7. Right Match: Choose the puzzle piece that completes the sentence.
 
-## Conjunction Pairs (conjunction-3)
+## Conjunction Pairs (conjunction-4)
 
 1. Passage
 2. Match the Pairs

@@ -42,7 +42,7 @@ given word. And then ask for the right word that goes with the given article.
 5. Fill in the blanks (a/an)
 6. Presence of Article - Identify whether the sentences have articles or not.
 
-## Definite and Indefinite Article ((article-2))
+## Definite and Indefinite Article (article-2)
 
 1. passage
 2. Drag and drop the correct Article.
