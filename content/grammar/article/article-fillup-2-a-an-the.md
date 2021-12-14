@@ -178,38 +178,36 @@ Are you coming to *the* library tomorrow?
 ```
 Once upon *a* time, there was *a* little girl called Meera. She lived in *a* village with her parents.
 *The (An, A)* village was near *a* sea. Meera had *an* aunt who lived near her house.
-One day *a* man came to *the* village with *an* elephant. He took *the* children for *a* ride on *the* elephant.
-*The (An, A)* children enjoyed *the* ride and had lots of fun.
+One day *a* man came to *the* village with *an* elephant. He took *the* children for *a* ride on *the* elephant. *The (An, A)* children enjoyed *the* ride and had lots of fun.
+```
+
+```
 Abhi and his dad went fishing one day. Abhi took *the* fishing rod and his dad took some worms.
 They got on *a* small boat and set for a sail. Abhi's dad drove *the* boat.
-```
-
-```
-
 He knows where to find *the* fish. Abhi liked *the* boat ride.
 Abhi put *a* worm on *the* hook of *the* fishing rod and put it in water.
 He felt *the* pole pull but when he reeled back *the* rod it was not *a* fish but *an* old can.
-Ram went on *a* trip with his parents to Nepal. This was Ram's first plane trip. They took *a* cab to *the* airport.
-Ram got down from *the* cab and was amazed to see *the* big and beautiful airport.
-Ram boarded *the* plane and found his seat and buckled his seat belt.
 ```
 
 ```
-
+Ram went on *a* trip with his parents to Nepal. This was Ram's first plane trip. They took *a* cab to *the* airport. Ram got down from *the* cab and was amazed to see *the* big and beautiful airport.
+Ram boarded *the* plane and found his seat and buckled his seat belt. 
 *The(An, A)* plane's engines rumbled and roared! *The(An, A)* plane moved faster and faster and then - whoosh!
 On *the* ground, cars and houses looked like toys. Ram had great fun on this trip.
+```
+
+```
 One day *a* hunter set *a* net to catch *the* birds. He placed grains and rice over *the* net.
 After some time *a* flock of pigeons started eating *the* grains and got caught in *the* net.
 They tried to free themselves but could not. Then their leader asked them to fly together up in *the* sky.
 So, they flew along with *the* net and reached their friend's home. Their friend was *a* mouse.
+*The(An, A)* mouse cut *the* net and freed the pigeons.
 ```
 
 ```
-*The(An, A)* mouse cut *the* net and freed the pigeons.
 Once upon *a* time, there lived two friends. One day they were crossing *the* jungle.
 After some time they found *a* giant bear coming towards them.
-Then, one of *the* friends quickly climbed *the* tree but *the* other friend did not know how to climb *a* tree.
-So he lay on *the* ground holding his breath. *The* bear approached *the* friend and sniffed him.
+Then, one of *the* friends quickly climbed *the* tree but *the* other friend did not know how to climb *a* tree. So he lay on *the* ground holding his breath. *The* bear approached *the* friend and sniffed him.
 After some time *the* bear left thinking *the* man was dead.
 ```
 

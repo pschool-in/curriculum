@@ -133,7 +133,7 @@ The *black (blue)* soil is rich in nutrients.
 ```
 
 ```
-In the morning, the *heavy (plump) snow was covering the ground.
+In the morning, the *heavy (plump)* snow was covering the ground.
 Suresh is a *lazy (smart)* boy and always fails in the exam.
 The *rich (poor)* man has got a lot of money.
 The sums are *difficult (easy)* to solve in the given time.
