@@ -2,7 +2,7 @@
 
 ## Match the pairs
 
-Match the pronouns that have same meaning.
+Match the pronouns that have the same meaning.
 
 ```
 I, Me
@@ -16,7 +16,7 @@ Match the pairs
 
 (pronoun-2)
 
-Match the subject with the correct pronoun. (title)
+Match the naming words with the correct pronoun. (title)
 
 ```
 Reena, She
@@ -90,7 +90,7 @@ To whom, should I address this letter?
 
 
 Which, is the song you like?
-What, is this flavour called?
+What, is this flavor called?
 Whose is, this trophy?
 What is, your score?
 Whose are, these folders?
@@ -98,7 +98,7 @@ Whose are, these folders?
 
 (miscellaneous)
 
-Identify which pronouns are these. (title)
+Identify the type of these pronouns. (title)
 
 ```
 Me You, Personal

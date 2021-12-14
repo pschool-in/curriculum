@@ -2,7 +2,7 @@
 
 ### (conjunction-2)
 
-Classify the given words as conjunction or not.
+Classify the given words as a conjunction or not.
 
 Conjunction
 

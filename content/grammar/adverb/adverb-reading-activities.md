@@ -84,7 +84,7 @@ State whether the following statements are true or false. (title)
 ```
 True:
 Adverb of frequency tells us how many times an action has occurred in the past.
-Adverb of frequency tells us how many times does an action occur in the present.
+Adverb of frequency tells us how many times does an action occurs in the present.
 Adverb of frequency tells us how many times will an action occur in the future.
 
 False:

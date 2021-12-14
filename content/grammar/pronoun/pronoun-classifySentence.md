@@ -2,7 +2,7 @@
 
 (pronoun-1)
 
-True or False: The below sentence has personal pronoun.
+True or False: The below sentence has a personal pronoun.
 
 True
 
@@ -11,7 +11,7 @@ She is a good girl.
 It is a good book.
 They are in the park.
 It is on the table.
-She has kept it safely.
+Sakshi has kept it safely.
 
 He is sleeping.
 The book belongs to her.
@@ -50,7 +50,7 @@ The girls are sleeping.
 
 (pronoun-2)
 
-True or False: The below sentence has demonstrative pronoun.
+True or False: The below sentence has a demonstrative pronoun.
 
 True
 
@@ -162,7 +162,7 @@ Interrogative pronoun
 Please tell me who took my book.
 Whom are you calling?
 Which one is your house?
-What is this flavour called?
+What is this flavor called?
 Whose voice was that?
 ```
 
@@ -231,7 +231,7 @@ Interrogative
 To *whom* are you speaking?
 *Whose* socks are those?
 
-*Who* wants ice-cream?
+*Who* wants ice cream?
 *Which* of these people have you met?
 ```
 

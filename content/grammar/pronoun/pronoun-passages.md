@@ -138,7 +138,7 @@ These are used to ask questions. The sentences with interrogative pronouns alway
 Some examples of interrogative pronouns:
 
 1. What is your name?
-2. Which is your favourite food?
+2. Which is your favorite food?
 3. Who did this?
 4. Whom did you meet yesterday?
 5. Whose bike is this?

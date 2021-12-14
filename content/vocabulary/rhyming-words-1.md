@@ -36,13 +36,13 @@ Cow, How, *Now*
 Slow, *Blow*, Flow
 *Shame*, Fame, Name
 Make, *Bake*, Cake
-Read, Red, *Bed*
+Dead, Red, *Bed*
 ```
 
 ```
 Caller, *Taller*, Smaller
 *Well*, Sell, Tell
-Reign, *Rain*, Pain
+Pain, *Rain*, Gain
 Three, Tree, *Free*
 Dove, *Love*, Glove
 ```
@@ -51,8 +51,8 @@ Dove, *Love*, Glove
 *Mall*, Fall, Tall
 Hot, *Not*, Pot
 Moat, Goat, *Boat*
-Fight, *Kite*, Height
-*Skip*, Drip, Lip
+Fight, *Light*, Height
+*Slip*, Drip, Lip
 ```
 
 ```
@@ -60,14 +60,14 @@ Bridge, *Fridge*, Midge
 Hole, Mole, *Stole*
 Dish, *Wish*, Fish
 *Ten*, Hen, Pen
-Too, *Shoe*, Too
+Two, *Shoe*, Too
 ```
 
 ```
 *Cool*, Wool, Fool
 Rig, *Dig*, Big
 Pale, Male, *Bail*
-Bed, *Led*, Said
+Bed, *Led*, Fed
 Sell, Well, *Tell*
 ```
 
@@ -82,56 +82,48 @@ Sake, Bake, *Stake*
 ```
 Pies, Fries, *Lies*
 Million, *Billion*, Trillion
-*Suit*, Boot, Loot
-Band, *Stand*, Grand
+*Hoot*, Boot, Loot
+Band, *Stand*, Strand
 Star, Bar, *Car*
 ```
 
 ```
-Thigh, Eye, *Sky*
+Eye, Bye, *Sky*
 Toes, Nose, *Bows*
-*Broom*, Vroom, Zoom
-True, *Guru*, Bamboo
-Clone, *Bone*, Drone
+*Broom*, Vroom, Groom
+Crew, *Drew*, Screw
+*Bone*, Cone, Zone
 ```
 
 ```
 *Heart*, Fart, Mart
 Bend, Mend, *Defend*
-Spend, *Send*, Offend
 *Blow*, Slow, Glow
-Yay, Bay, *Grey*
+Spend, *Send*, Offend
+Yay, Bay, *Say*
 ```
 
 ```
 About, Turnout, *Workout*
 Chart, *Part*, Start
-Four, *Tore*, Score
-*Aim*, Claim, Fame
-Crime, Decline, *Assign*
+Four, *Core*, Score
+*Blame*, Claim, Flame
+Crime, Mime, *Prime*
 ```
 
 ```
 Ore, *Shore*, Snore
-Essay, Obey, *Relay*
 Black, *Sack*, Track
 *Frock*, Lock, Sock
 *Blow*, Flow, Slow
+Row, *Grow*, Show
 ```
 
 ```
-Row, *Grow*, Show
 *Curl*, Burl, Purl
-Blew, *Chew*, Few
 Brain, Plain, *Stain*
 Vein, *Rain*, Sprain
-```
-
-```
-Curl, Churl, *Pearl*
-Coo-coo, *Shampoo*, Bamboo
 Lack, Sack, *Back*
-Same, *Shame*, Lame
 Cream, *Scream*, Dream
 ```
 
@@ -178,11 +170,13 @@ Ball, Crawl
 Casket, Basket
 ```
 
+(Riya: We can clarify that rhyming words may also have different spellings and introduce these activities.)
+
 ## Odd One Out (label) (right option template)
 
 Choose the odd one out. (title)
 ```
-Ant, Sat, Rat, Chat
+Ant, Sat, Rat, Cat
 Bat, Bow, Now, Vow
 Brain, Candle, Handle, Sandal
 Main, Frog, Log, Jog
@@ -218,7 +212,7 @@ Hey, Harm, Charm, Farm
 She, Hay, Bay, Way
 Blow, Ice, Twice, Thrice
 Fern, Idol, Tidal, Bridal
-Bend, Dice, Price, Dice
+Bend, Dice, Price, Rice
 ```
 
 ```
@@ -239,7 +233,7 @@ Fish, Squat, Spot, Shot
 
 ```
 Frown, Long, Song, Wrong
-Air, Bite, Spite, Tight
+Air, Bite, Spite, Fright
 English, Along, Belong, Daylong
 Braid, Duster, Buster, Cluster
 Bush, Fast, Last, Cast
@@ -254,7 +248,7 @@ Aunt, Custard, Mustard, Clustered
 ```
 
 ```
-Blush, Noise, Boys, Toys
+Blush, Annoys, Boys, Toys
 Fate, Name, Tame, Flame
 Run, Nice, Rice, Vice
 Bush, Shut, Gut, But
@@ -266,7 +260,7 @@ Nice, Ouch, Couch, Pouch
 Bias, Oil, Boil, Foil
 First, Soil, Spoil, Coil
 Fame, Pain, Cain, Gain
-Lmae, Prime, Slime, Climb
+Lame, Prime, Slime, Climb
 ```
 
 ```
@@ -294,7 +288,7 @@ Just, Raid, Weighed, Strayed
 ```
 
 ```
-Pour, Relay, Gray, Sleigh
+Pour, Ray, Gray, Sleigh
 Monkey, Slave, Shave, Stave
 Fame, Cake, Shake, Bake
 Great, Same, Name, Shame

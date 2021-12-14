@@ -3,22 +3,22 @@
 Select the pronoun in the below sentence. (pronoun-1)
 
 ```
-*I* am very happy.
-*She* is going home.
-*He* is playing.
-*They* are nice people.
-Ravi is playing with *him*.
+*I* am very happy for *her*.
+*She* is going to *her* friend's home.
+Raj is playing with *his* sister.
+*They* are very nice to *me*.
+Ravi is playing with *him* and *his* brother.
 Do not touch the water. *It* is hot.
-*I* am waiting for the train.
-The teacher thinks that *he* is a smart boy.
-My mom told my brother that *she* is a good dancer.
+*I* am waiting for the train. *It* is running late.
+*I* think that *he* is a smart boy.
+*She* told my brother that *she* is a good dancer.
 ```
 
 ```
-Please give the pen to *me*.
-*I* am sitting on the chair.
-The guests arrived while *we* were watching the cricket match.
-Are *you* from Hyderabad?
+Please give the pen to *me*. *It* belongs to *me*.
+*I* am sitting on the chair. *It* is very comfortable.
+The guests arrived while *we* were watching the cricket match. *They* brought gifts.
+Is *he* from Hyderabad? *I* might know *him*.
 *It* is an amazing movie.
 ```
 
@@ -34,6 +34,7 @@ Meera thinks that *she* is very intelligent.
 Priya was shy at first but *she* is running very fast.
 Did *you* water the plants?
 *She* likes to dance.
+My brother would like *those*, please.
 ```
 
 ```
@@ -73,10 +74,6 @@ Eat *these* chocolates after lunch.
 Could you help me move *these*?
 *That* looks like a rat.
 Throw *those* rolls away.
-```
-
-```
-My brother would like *those*, please.
 *These* are nice flowers.
 Raju told everyone *that* the party is tomorrow.
 *This* is crazy!
@@ -130,7 +127,7 @@ My dad gave *me* *this* map. *He* told *me* *it* was *his*. *I* need to find dir
 *We* don't like to go out for dinner. *We* cook dinner by *ourselves*.
 *This* brush is *mine*. *I* stare at *myself* in the mirror while brushing.
 *This* garage is *mine*. *Me* and my dad painted *it* *ourselves*.
-The children love holidays. *They* buy all the new things for *themselves*. *That* time is *their* favourite.
+The children love holidays. *They* buy all the new things for *themselves*. *That* time is *their* favorite.
 Prateek is very lazy. *He* copied *his* friend's project instead of doing *it* *himself*.
 ```
 
@@ -177,7 +174,7 @@ I will do the job *myself*.
 Did you write the poem *yourself*?
 I carried the heavy box by *myself*.
 My brother and I looked at *ourselves* in the mirror.
-I introduced *myself* to my neighbours.
+I introduced *myself* to my neighbors.
 Let's clean the room *ourselves*.
 Can you tell me about *yourself*?
 Amrita baked this cake *herself*.
@@ -194,7 +191,7 @@ I love *myself*.
 Harish lives in a big house by *himself*.
 I don't like eating by *myself*.
 Let's complete this work *ourselves*.
-The AC turned off by *itself*.
+The AC is turned off by *itself*.
 We will build the treehouse by *ourselves*.
 ```
 

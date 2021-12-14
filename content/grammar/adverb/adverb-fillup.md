@@ -42,7 +42,7 @@ Fill in the blanks with the most suitable word.
 The bushes are in *front (behind)* of the house.
 The flowers are *behind (between)* the bench.
 The client is *still (never)* waiting for the meeting.
-The entry is *through* the window.
+The entry is *through (thorough)* the window.
 Do you take the bus *everyday (never)*?
 Did you submit your project *yet (still)*?
 We go to a restaurant *weekly (once)*.
@@ -71,7 +71,7 @@ She went to the church *yesterday (tomorrow)*.
 *Tomorrow (Yesterday)*, I will clean my house.
 She visits her grandparents *weekly (week)*.
 Richa completed her homework *independently (independence, freedom)* .
-The girl walked *smartly (smart, confidence)*.
+The girl walked *smartly (smart, confident)*.
 The old lady feeds *kindly (kind, gentle)* to the street animals.
 The turtle moves *slowly (slow, fast)*.
 The teacher *clearly (clear, elaborate)* explained the topic.

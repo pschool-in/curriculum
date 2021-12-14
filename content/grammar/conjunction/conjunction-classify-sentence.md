@@ -66,7 +66,7 @@ My mom and dad are doctors.
 False
 
 ```
-I can play. I can eat.
+I can go out. I can eat.
 I like playing with my friends a lot.
 My family eats dinner together.
 Natasha is a good girl.
