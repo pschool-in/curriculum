@@ -46,8 +46,8 @@ Don’t use electrical objects in the *bathroom*.
 4. Never push other children or cause any harm.
 5. If there are many children playing on the same slide or swing, wait patiently for your turn.
 6. Do not go too close to the swing when someone is using it.
-7. Never jump of a moving swing and hold onto the chains with both hands.
-8. If you are playing in the school ground, do not leave the area without teachers permission.
+7. Never jump off a moving swing and hold onto the chains with both hands.
+8. If you are playing in the school grounds, do not leave the area without the teacher's permission.
 
 ## Fill in the blanks 
 ```
