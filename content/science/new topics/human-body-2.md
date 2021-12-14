@@ -39,7 +39,7 @@ False:
 Ears help us to smell things.
 Arms help us to run.
 ```
-## Mutliple Choice Questions
+## Multiple Choice Questions
 ```
 What helps us to hold things and turn pages?
 fingers, leg, wrist
@@ -47,7 +47,7 @@ fingers, leg, wrist
 What are external organs?
 body parts we can see outside, body parts inside our body
 
-Are sense organs considered as external body part?
+Are sense organs considered as external body parts?
 yes, no 
 ```
 ## Reference 

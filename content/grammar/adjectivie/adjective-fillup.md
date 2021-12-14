@@ -124,16 +124,16 @@ Harish saw a *funny (clumsy)* clown.
 Jasmines have *white (black)* petals.
 The shape of the earth is *round (oval)*.
 Grandma gave me a *sweet (sour)* chocolate.
-The book is very *colorful (ill)*.
+The book is very *colorful (round)*.
 Priya loves to eat *sweet (grey)* mangoes.
-A dog is an *honest (sour)* animal.
-Neeta is a *clever (round)* girl.
+A dog is a *domestic (wild)* animal.
+Neeta is a *clever (old)* girl.
 Paddy fields are very *green (blue)*.
 The *black (blue)* soil is rich in nutrients.
 ```
 
 ```
-In the morning, the *heavy (plump) snow was covering the ground.
+In the morning, the *heavy (plump)* snow was covering the ground.
 Suresh is a *lazy (smart)* boy and always fails in the exam.
 The *rich (poor)* man has got a lot of money.
 The sums are *difficult (easy)* to solve in the given time.

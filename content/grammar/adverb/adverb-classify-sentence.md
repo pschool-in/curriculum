@@ -69,7 +69,7 @@ He always keeps himself busy.
 The child ran towards his mother happily.
 Gopi calmly explained his point of view.
 
-They speak English fluently.
+They speak Hindi fluently.
 The tortoise moves slowly.
 He answered all questions correctly.
 ```
@@ -87,7 +87,7 @@ Rohan decided to leave immediately.
 You must reach there by tomorrow.
 
 Is Kamala still sleeping?
-We have holiday tomorrow.
+We have a holiday tomorrow.
 I am happy today.
 ```
 
@@ -135,6 +135,6 @@ Latha likes Italy very much.
 
 Your dinner is *almost* ready.
 Our class teacher has an *extremely* busy schedule.
-Our store room is *fully* loaded.
+Our storeroom is *fully* loaded.
 This job is *quite* interesting.
 ```

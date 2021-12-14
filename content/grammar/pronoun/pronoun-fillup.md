@@ -11,14 +11,11 @@ The doll is on the shelf. *It* is pretty.
 Tommy is my pet dog. *It* plays with a ball.
 Rohit and Mohit are two brothers. *They* live together.
 The cars are there. *They* need cleaning.
-```
-
-```
 Tim is a good boy. *He* always works hard.
 Ravi is my friend. *He* is a bright young man.
-Mrs Durga makes dresses. *She* makes doll dresses too.
+Mrs. Durga makes dresses. *She* makes doll dresses too.
 My mom and my brother love cooking. *They* cook tasty food.
-Mango is my favourite fruit. *It* is very tasty.
+Mango is my favorite fruit. *It* is very tasty.
 I have a squirrel. *It* eats nuts.
 ```
 
@@ -29,16 +26,13 @@ I, We, You
 Choose the correct pronoun.
 
 ```
-*I* am a good singer.
-*You* can do your work tomorrow.
+My father thinks *I* am a good singer.
 *I* love my family.
+The teacher said that *you* can do your work tomorrow.
 *We* love our school.
+In the school library, *we* have many books.
 *You* must bring your book daily.
-*We* have many books in our class.
-```
-
-```
-*I* play with my elder brother.
+On Sundays, *I* play with my elder brother.
 *We* enjoyed our picnic.
 Congratulations! *You* are such a good dancer.
 *We* have to finish our work soon.
@@ -55,7 +49,7 @@ Choose the correct pronoun.
 ```
 *This* is my younger brother. (near)
 *Those* plastic bottles are old. (far)
-*These* are old newspaper. (near)
+*These* are old newspapers. (near)
 *That* is our school. (far)
 *This* is my cat. (near)
 *Those* children are playing happily. (far)
@@ -67,7 +61,7 @@ Choose the correct pronoun.
 
 I vs Me
 
-Fill in the blanks with 'I' and 'me'.
+Fill in the blanks with 'I' or 'me' to complete the sentence.
 
 ```
 Could you pass *me* the salt?
@@ -79,27 +73,27 @@ She asked *me* a question.
 She walks to the park with *me*.
 My dad makes *me* laugh.
 Savitha and *I* eat lunch together.
-*Me (I)* and my brother play together in ground.
+*Me (I)* and my brother play together on the ground.
 ```
 
 ```
-*I (Me)* went to library.
-*I (Me)* really want that ice-cream.
+*I (Me)* went to the library.
+*I (Me)* really want that ice cream.
 You and *I* are good friends.
 Is that present for *me*?
 Will you play with *me* tomorrow?
 *I (Me)* am going to the movie tonight.
-My mom and *I* love burger.
+My mom and *I* love burgers.
 This is a photo of *me* and my sister.
 Pranish invited Abhi and *me* for his birthday party.
 Please have breakfast with *me*.
 ```
 
 ```
-Can *I* have a chocolate?
+Can *I* have chocolate?
 Everybody is happy for *me*.
 Will you help *me* with my homework.
-Dad dropped *me* to school today.
+Dad dropped *me* at school today.
 *I (Me)* bought a new dress.
 ```
 
@@ -107,7 +101,7 @@ Dad dropped *me* to school today.
 
 We vs Us
 
-Fill in the blanks with 'we' and 'us'.
+Fill in the blanks with 'we' or 'us' to complete the sentence.
 
 ```
 Let *us* cross the road.
@@ -161,7 +155,7 @@ I didn't recognize *him*.
 
 She vs Her
 
-Fill in the blanks with 'she' and 'her'.
+Fill in the blanks with 'she' or 'her'.
 
 ```
 I gave *her* the books.
@@ -175,7 +169,7 @@ I will talk to *her* about this issue.
 
 They vs Them
 
-Fill in the blanks with 'they' and 'them'.
+Fill in the blanks with 'they' or 'them'.
 
 ```
 We asked *them* to keep the door open.
@@ -185,7 +179,19 @@ What do *they* want?
 I have lost my keys. I can't find *them* anywhere.
 ```
 
-#### collection-6
+## He vs Him
+
+Fill in the blanks with 'he' or 'him'.
+
+```
+If you see David, give *him* these books.
+Does *he* want some coffee?
+*He (Him)* is a wise man.
+Did Mohan get the promotion *he* wanted?
+I didn't recognize *him*.
+```
+
+(pronoun-2)
 
 Fill up
 
@@ -308,7 +314,7 @@ This pen is *mine(theirs)*.
 *He (They)* sings beautifully.
 I folded my clothes by *myself(themselves)*.
 *Who(What)* is the new teacher?
-*Which(Who)* is your favourite food?
+*Which(Who)* is your favorite food?
 *I (Me)* went to the library.
 Is that present for *me (I)*?
 ```

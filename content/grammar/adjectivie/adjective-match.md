@@ -160,7 +160,7 @@ round, table
 
 ## Match - Adjectives and Opposites
 
-Match the adjectives with with it opposites.
+Match the adjectives with their opposites.
 
 ### (adjective-2)
 

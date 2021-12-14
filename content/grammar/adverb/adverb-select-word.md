@@ -153,7 +153,7 @@ Harsh *patiently* waited for his mother to arrive. They *happily* headed home to
 
 ```
 Raj fell down. We helped him to sit on the chair *comfortably*. I ran *quickly* and told my teacher.
-I had a fight with my friend. We were shouting *loudly*. His mom told us to talk *nicely* with each other.
+I fought with my friend. We were shouting *loudly*. His mom told us to talk *nicely* with each other.
 I was *hardly* able to focus on my homework. Then my friend explained it to me very *easily*. I can *simply* solve it now.
 She was dressed *smartly* for the party. She also danced *beautifully*. Everyone clapped and praised her.
 He scored well in exams. He told his parents *proudly*. They decided to celebrate by going to a restaurant.
@@ -169,14 +169,14 @@ I got hurt. So I *rapidly* put a gel on the wound. I am doing my tasks *carefull
 Select the adverbs of place and time in these sentences.
 
 ```
-The cat is *under* the sofa. It went there *when* it was time to bath.
+The cat is *under* the sofa. It went there *when* it was time to bathe.
 I will clean my house *tomorrow*. I am very tired *now*.
 The children are playing *outside*. They have been playing *since* evening.
 I am studying in this school *since* fourth grade. The school is *in* the city.
 We rowed the boat towards *north*, *where* the waves were not high.
 She came *running* to me *when* she saw a dog. I laughed.
 I had my lunch over *there* *yesterday*. I will eat *here* *today*.
-He *never* drinks milk. His mom sends him *at* my house. He drinks it with me.
+He *never* drinks milk. His mom sends him *to* my house. He drinks it with me.
 We are meeting *behind* the school *next week*. We will play cricket *there*.
 *Since* she moved *across* the street, we have become friends. We play *in* the park *every day*.
 The car is moving *backwards*. I will move aside *when* it will come closer.
@@ -222,7 +222,7 @@ I like this book. I *really* admire the author. I will now read all the books he
 Our teacher decided to teach us even during the lunch break. And now we all are *literally* starving.
 The artist *minutely* observed my painting. He said it was good *enough*. I felt *immense* joy.
 I *strongly* believe that we should obey our elders. It is because they know about *so* many things.
-My friend *highly* recommended me this book. I *just* finished reading. I think it is *very* interesting.
+My friend *highly* recommended this book to me. I *just* finished reading. I think it is *very* interesting.
 The teacher *thoroughly* checked my answer sheet. I answered *almost* all the questions correctly.
 I became *slightly* uncomfortable when the guests came. I am *simply* shy. So, I left within 5 minutes.
 Rahul is *rather* quiet. But his brother is *pretty* talkative. He is also *very* outgoing.

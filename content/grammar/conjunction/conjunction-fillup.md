@@ -33,7 +33,7 @@ She plays *and (but)* walks in the park.
 ### (conjunction-2)
 
 ```
-Pink *and (or, but)* yellow are colors.
+Pink *and (or, but)* yellow are my favorite colors.
 I think there are two *or (and, so)* three pens.
 Tie your laces *so (and, or)* you don't fall.
 I like shoes *but (so, or)* my sister likes sandals.
@@ -71,7 +71,7 @@ Her name is Priya *or* Maya.
 She travels abroad once *or* twice a year.
 She has a lot of talent, *but* she is very lazy.
 My mom is either in the kitchen *or* in the garden.
-I spent an hour *or* so cleaning my room.
+I spent an hour *or* two cleaning my room.
 He switched off the light *and* went to bed.
 He has a ball *but* not a bat.
 Please bring a paper *and* a pencil.
@@ -99,7 +99,7 @@ She went home early *because* she had to attend a function.
 ```
 The rat ran fast *because* a cat was chasing it.
 He drank cold water *so* he got a cough.
-He missed his purse *so* he was sad.
+She lost her purse *so* she is sad.
 I was late *because* there was heavy traffic.
 He lost the key *so* he couldn't open his room.
 I worked hard *so* I got the promotion.

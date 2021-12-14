@@ -54,7 +54,7 @@ Yes
 Rarely, Weekly, Usually, Monthly
 Thrice, Sometimes, Ever, Always
 Twice, Never, Seldom, Often
-Ocassionally, Normally, Now, Often
+Occasionally, Normally, Now, Often
 Soon, Today, Generally, Ever
 ```
 

@@ -13,17 +13,17 @@ The government has three branches the legislature, the executive and the judicia
 It is not possible for a single government to look after the entire country. Therefore, there are three levels of govenment in India, local government, state government and the central government.
 
 ### Types of government
-Democracy: It is the people who give the government the power to take decesions and enforce laws. They do this through elections.
-Monarchy: It is the rule of kings and queens. A rulers position in a monarchy is hereditary, that is after the parent,m the child becomes the ruler. All the power is in the hands of the ruler.
+Democracy: It is the people who give the government the power to take decisions and enforce laws. They do this through elections.
+Monarchy: It is the rule of kings and queens. A ruler's position in a monarchy is hereditary, that is after the parent, the child becomes the ruler. All the power is in the hands of the ruler.
 Dictatorship: A dictatorship is a government where one person makes all the rules and takes the decisions without consulting anyone. This one person has total control over the administration of the country.
 
 ## Fill in the blanks (drag and drop)
 ```
-In monarchy, the rulers position is *heriditary*.
+In monarchy, the rulers position is *hereditary*.
 The branch of government that makes the laws is the *legislature*.
 *Monarchy* is the rule of kings and queens.
 The *Supreme* court is the highest court in the land.
-To vote, one must be over *18* yaers old.
+To vote, one must be over *18* years old.
 ```
 # Reference
 new green tree class 5

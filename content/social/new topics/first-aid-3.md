@@ -5,14 +5,14 @@
 # Grade - 3
 ## First Aid - Reading
 ### First Aid
-The immediate helps that can be given to an injured person before further teatment is called first aid. After giving first aid an injured person must be immediately taken to the hospital. First aid plays and important role in every day life. The type of first aid given varies for different injuries.
+The immediate help that can be given to an injured person before further treatment is called first aid. After giving first aid an injured person must be immediately taken to the hospital. First aid plays an important role in everyday life. The type of first aid given varies for different injuries.
 
 ### For cuts and wounds
 1. You must wash your hands thoroughly before giving first aid to an injured person.
-2. In case of deep wound, first remove all the dirt from areas around the wound.
+2. In case of a deep wound, first remove all the dirt from areas around the wound.
 3. Then clean the skin around the wound with a cotton swab dipped in antiseptic lotion.
 4. Now tie a bandage around the wound to stop bleeding.
-5. In case of small wound use a band-aid to cover the wound.
+5. In case of a small wound use a band-aid to cover the wound.
 
 ### For minor burns
 1. Hold the burned area under cool running water.
@@ -27,7 +27,7 @@ The immediate helps that can be given to an injured person before further teatme
 ### If someone faints
 1. When someone faints quickly lie them on the ground with their head at a lower level that the body.
 2. Do not crowd around the person and allow fresh air to enter.
-3. Sprinkle cold water on the persons face.
+3. Sprinkle cold water on the person's face.
 
 ### For a nose bleed
 1. Pinch the nose for 7-8 minutes and lean forward.
@@ -35,7 +35,7 @@ The immediate helps that can be given to an injured person before further teatme
 3. Breathe trough the mouth.
 
 ### First-aid Box
-First-aid box are found in all public places. We should also have one at home. We can buy a first aid kit from the store or make one at home. The basic constituents in a first aid kit is antiseptic lotion, sterilized gausze, cotton pads, a pair of scissors, band-aids, crepe bandage, burn cream, calamine lotion and basic fever medecine.
+First-aid boxes are found in all public places. We should also have one at home. We can buy a first aid kit from the store or make one at home. The basic constituents in a first aid kit is an antiseptic lotion, sterilized gauze, cotton pads, a pair of scissors, band-aids, crepe bandage, burn cream, calamine lotion and basic fever medicine.
 
 ## Cuts and Wounds (sorting)
 Arrange the steps in first-aid in the correct order.
@@ -77,7 +77,7 @@ First Aid is given in order to
 3. To prevent the condition of the patient from getting worse: - A person who has met with an accident needs medical attention immediately. If there is no doctor nearby, the condition of the injured person can become critical so first aid is given to prevent his condition from getting worse.
 
 ### Snake Bite
-When a snake bites someone, it injects poison into the victim. The poison enters the blood stream and affects the entire body.
+When a snake bites someone, it injects poison into the victim. The poison enters the bloodstream and affects the entire body.
 
 1. Don’t move the victim as it causes the poison to spread faster.
 2. Tie a piece of cloth on the bitten part to slow down the movement of the infected blood towards the heart.
@@ -115,7 +115,7 @@ do not move the patient, tie a cloth on the bite, take to a doctor, give anti-ve
 ## Do and Don't
 ```
 Do:
-After first aid immediately take the patient to a hospital.
+After first aid, immediately take the patient to a hospital.
 Clean the area around the wound to reduce infections.
 Always use antiseptic to clean wounds.
 

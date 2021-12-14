@@ -13,17 +13,17 @@ This house is *ours*.
 ```
 
 ```
-I paid for my book, so it is *mine*.
+I paid for this book, so it is *mine*.
 Pick any of these chocolates, the choice is *yours*.
 The cricket bat belongs to Ram. It is *his*.
 We bought this music player together. So it is *ours*.
-All my cousins love cricket. Playing cricket is a favourite pass time of *theirs*.
+My cousins love cricket. These balls are *theirs*.*.
 ```
 
 ```
 She bought a new bicycle. It is *hers* now.
 That book is *mine*. He thought it was *his*.
-We bought many new balls yesterday. All of them are *ours*.
+We bought many toffees yesterday. All of them are *ours*.
 That pen is not mine. It may be *yours*.
 They go to the village in the car. It is *theirs*.
 ```

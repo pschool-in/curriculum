@@ -1,6 +1,6 @@
 ## Match the pairs
 
-Match the pronouns that have same meaning.
+Match the pronouns that have the same meaning.
 
 ### (pronoun-1)
 
@@ -90,7 +90,7 @@ To whom, should I address this letter?
 
 
 Which, is the song you like?
-What, is this flavour called?
+What, is this flavor called?
 Whose is, this trophy?
 What is, your score?
 Whose are, these folders?
@@ -102,7 +102,7 @@ Whose are, these folders?
 
 Match Pronouns
 
-Match the related pronouns
+Identify the type of these pronouns. (title)
 
 ```
 Me & You, Personal

@@ -41,7 +41,7 @@ We can walk, or run, so run
 I will listen, and write, but write
 I like tea, and coffee, so coffee
 He is poor, but honest, so honest
-I came early, so cleaned my desk, or cleaned my desk
+I came early, so I cleaned my desk, or I cleaned my desk
 I love pizza, but not chips, so not chips
 ```
 

@@ -69,28 +69,28 @@ Select the comparative degree of adjective in the sentence.
 (adjective-5)
 
 ```
-My house is *bigger than* yours.
-I am *smarter than* my brother.
-The summer is *warmer than* winter.
-Tortoises live *longer than* cats.
-My sister is *more intelligent than* my brother.
-Mumbai is *bigger than* Delhi.
-A rose is *more beautiful* than a hibiscus.
-Shiva is *cleverer than* Subrat.
-Tortoises live *longer than* cats.
-My mom is *taller than* my grandmom.
+My house is *bigger (big, biggest)* than yours.
+I am *smarter (smart, smartest)* than my brother.
+The summer is *warmer (warm, warmest) than winter.
+Tortoises live *longer (long, longest)* than cats.
+My sister is *more intelligent (intelligent, most intelligent)* than my brother.
+Mumbai is *bigger (big, biggest)* than Delhi.
+A rose is *more beautiful (beautiful, most beautiful)* than a hibiscus.
+Shiva is *cleverer (clever, cleverest)* than Subrat.
+Tortoises live *longer (long, longest)* than cats.
+My mom is *taller (tall, taller)* than my grandmom.
 ```
 
 ```
-Iceland is *colder than* Spain.
-I drive *more carefully than* my father.
-English is *easier than* Japanese.
-My son is *taller than* his father.
-An elephant is *stronger than* Kangaroo.
-The earth is *larger than* moon.
-Nupur is *more polite than* Rishi.
-My hair is *longer than* yours.
-Roads in the city are *wider than* roads in the villages.
+Iceland is *colder (cold, coldest)* than Spain.
+I drive *more carefully (carefully, most carefully)* than my father.
+English is *easier (easy, easiest)* than Japanese.
+My son is *taller (tall, tallest)* than his father.
+An elephant is *stronger (strong, strongest)* than Kangaroo.
+The earth is *larger (large, largest)* than moon.
+Nupur is *more polite (polite, most polite)* than Rishi.
+My hair is *longer (long, longest)* than yours.
+Roads in the city are *wider (wide, widest)* than roads in the villages.
 I am *more tired than* yesterday due to busy work.
 ```
 
@@ -99,27 +99,27 @@ Identify - degrees of comparison-2
 Select the superlative degree of adjective in the sentence.
 
 ```
-The cheetah is *the fastest* animal in the world.
-May is *the hottest* month of the year.
-Which mountain is *the highest* in the world?
-Dhruv is *the noisiest* student in the school.
-This is *the best* book I have read.
-December is *the coldest* month of the year.
-Mango is *the juiciest* fruit of all.
-Mount Everest is *the highest* peak in the world.
-Chandan is *the most hardworking* student in the class.
-Vihaan is *the tallest* boy in the class.
+The cheetah is the *fastest (fast, faster)* animal in the world.
+May is the *hottest (hot, hotter)* month of the year.
+Which mountain is the *highest (high, higher)* in the world?
+Dhruv is the *noisiest (noisy, noisier)* student in the school.
+This is the *best (good, better)* book I have read.
+December is the *coldest (cold, colder)* month of the year.
+Mango is the *juiciest (juicy, juicier)* fruit of all.
+Mount Everest is the *highest (high, higher)* peak in the world.
+Chandan is the *most hardworking (hardworking, more hardworking)* student among the class.
+Vihaan is the *tallest (tall, taller)* boy in the class.
 ```
 
 ```
-Friday is *the busiest* day of the week.
-Mrs. Sunita is *the most polite* teacher I have ever met.
-Madan is *the slowest* runner in our class.
-Hyderabad is *the most beautiful* city in Telangana.
-February is *the shortest* month of the year.
-The Ganga is *the longest* river in India.
-Jupiter is *the biggest* planet in the solar system.
-My aunt is *the shortest* person in my family.
-Karthik is *the most handsome* boy in our class.
-This is *the most interesting* movie I have ever watched.
+Friday is the *busiest (busy, busier)* day of the week.
+Mrs. Sunita is the *most polite (polite, more polite)* teacher I have ever met.
+Madan is the *slowest (slow, slower)* runner in our class.
+Hyderabad is the *most beautiful (beautiful, more beautiful)* city in Telangana.
+February is the *shortest (short, shorter)* month of the year.
+The Ganga is the *longest (long, longer)* river in India.
+Jupiter is the *biggest (big, bigger)* planet in the solar system.
+My aunt is the *shortest (short, shortest)* person in my family.
+Karthik is the *most handsome (handsome, more handsome)* boy in our class.
+This is the *most interesting (interesting, more interesting)* movie I have ever watched.
 ```

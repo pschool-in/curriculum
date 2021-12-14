@@ -1,6 +1,6 @@
 ## Select Word
 
-Tap on the joining words in these sentences.
+Select the joining words in these sentences.
 
 ### (conjunction-1)
 

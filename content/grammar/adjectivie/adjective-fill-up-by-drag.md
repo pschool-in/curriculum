@@ -41,7 +41,7 @@ Complete the story by filling the blanks with suitable adjectives.
 Sita was a *young* girl. She lived in a *small* village in Karnataka.
 One day, on a *cloudy* morning, she went for a walk into the nearby fields.
 She was wearing a *white* frock and a red ribbon. After some time, she came across a hut.
-It was a *small* hut but was *warm* inside. Sita was feeling *tired*.
+It was a small hut but was *warm* inside. Sita was feeling *tired*.
 So, she went inside the hut and slept on the cot.
 Soon a *loud* bang on the door woke her up!
 ```
@@ -54,7 +54,7 @@ Fill in the blanks by moving the words given at the bottom.
 
 ```
 He is a *short* boy.
-She wore a *beautiful* dress.
+She wore a *cotton* dress.
 She bought a *big* kite.
 I saw a *green* parrot in the zoo.
 There is a *black* board in my classroom.
@@ -200,7 +200,7 @@ sentence.
 The mangoes are *sweet*.
 The lion has *sharp* claws.
 The car is moving *fast*.
-Can you give me *little* water?
+Can you give me *some* water?
 The dress is very *colorful*.
 ```
 
@@ -235,7 +235,7 @@ I bought *twelve* oranges from the supermarket yesterday.
 ```
 
 ```
-We learned a *new* recipe in the cooking class today.
+We learned an *Italian* recipe in the cooking class today.
 Aditya has *four* books on his shelf which he borrowed from the library.
 Bhavya wore a *traditional* dress for Diwali celebrations in society.
 Mahesh was very *gentle* while cleaning his laptop.
