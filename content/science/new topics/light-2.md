@@ -36,7 +36,7 @@ Shadow is formed when light passes through objects.
 Which of the following is an artificial source of light?
 torch, sun , fire
 
-What is the most powerfu; source of light?
+What is the most powerful source of light?
 sun, moon, lamp
 
 What is a shadow?
