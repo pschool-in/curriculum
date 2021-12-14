@@ -168,14 +168,14 @@ Choose the appropriate options to complete the sentence.
 },
 {
     qText: 'I have _______ pencils.',
-    options: 'five big, big five, wooden big'
+    options: 'five big, big five,'
 },
 {
     qText: 'The _______ kitten was lost.',
     options: 'little pink, pink little'
 },
 {
-    qText: 'My dad is a ______ man.',
-    options: 'tall Indian, Indian tall'
+    qText: 'I have ______ rose plants in my garden.',
+    options: 'five beautiful, beautiful five'
 }
 ```
