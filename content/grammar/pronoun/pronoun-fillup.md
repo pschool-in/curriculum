@@ -1,8 +1,8 @@
-## He, She, It, They
+### (pronoun-1)
 
-(pronoun-1)
+He, She, It, They
 
-Choose the correct pronoun. (title)
+Choose the correct pronoun.
 
 ```
 Peter is a cook. *He* cooks well.
@@ -22,11 +22,11 @@ Mango is my favourite fruit. *It* is very tasty.
 I have a squirrel. *It* eats nuts.
 ```
 
-## I, We, You
+#### collection-2
 
-(pronoun-1)
+I, We, You
 
-Choose the correct pronoun. (title)
+Choose the correct pronoun.
 
 ```
 *I* am a good singer.
@@ -46,11 +46,11 @@ Congratulations! *You* are such a good dancer.
 *You* can go back to your seat.
 ```
 
-## This, That, These, Those
+#### collection-3
 
-(pronoun-1)
+This, That, These, Those
 
-Choose the correct pronoun. (title)
+Choose the correct pronoun.
 
 ```
 *This* is my younger brother. (near)
@@ -63,9 +63,9 @@ Choose the correct pronoun. (title)
 *Those* are giraffes. (far)
 ```
 
-(pronoun-2)
+### (pronoun-2)
 
-## I vs Me
+I vs Me
 
 Fill in the blanks with 'I' and 'me'.
 
@@ -103,7 +103,9 @@ Dad dropped *me* to school today.
 *I (Me)* bought a new dress.
 ```
 
-## We vs Us
+#### collection-2
+
+We vs Us
 
 Fill in the blanks with 'we' and 'us'.
 
@@ -141,31 +143,9 @@ My grandfather told *us* an interesting story.
 *We (Us)* went to see the circus yesterday.
 ```
 
-## She vs Her
+#### collection-3
 
-Fill in the blanks with 'she' and 'her'.
-
-```
-I gave *her* the books.
-*She (Her)* doesn't have a pen.
-*She (Her)* is so clever.
-If I tell Roshima, *she* might tell Sunitha.
-I will talk to *her* about this issue.
-```
-
-## They vs Them
-
-Fill in the blanks with 'they' and 'them'.
-
-```
-We asked *them* to keep the door open.
-If you build it, *they* will come.
-*They (Them)* are very nice people.
-What do *they* want?
-I have lost my keys. I can't find *them* anywhere.
-```
-
-## He vs Him
+He vs Him
 
 Fill in the blanks with 'he' and 'him'.
 
@@ -177,11 +157,40 @@ Did Mohan get the promotion *he* wanted?
 I didn't recognize *him*.
 ```
 
-(pronoun-2)
+#### collection-4
 
-## Fill up
+She vs Her
+
+Fill in the blanks with 'she' and 'her'.
+
+```
+I gave *her* the books.
+*She (Her)* doesn't have a pen.
+*She (Her)* is so clever.
+If I tell Roshima, *she* might tell Sunitha.
+I will talk to *her* about this issue.
+```
+
+#### collection-5
+
+They vs Them
+
+Fill in the blanks with 'they' and 'them'.
+
+```
+We asked *them* to keep the door open.
+If you build it, *they* will come.
+*They (Them)* are very nice people.
+What do *they* want?
+I have lost my keys. I can't find *them* anywhere.
+```
+
+#### collection-6
+
+Fill up
 
 Fill in the blanks with the correct pronoun.
+
 ```
 I bought *that (these, those)* tool yesterday.
 I like *these (this, that)* books.
@@ -195,7 +204,7 @@ Are *those (them, this)* your books?
 *That (Them, Those)* was such a good experience.
 ```
 
-(pronoun-3)
+### (pronoun-3)
 
 Click on the blank and fill in the correct possessive pronoun.
 
@@ -228,7 +237,7 @@ Pooja and Saanvi have a kitchen set. It is *theirs (us)*.
 
 ```
 
-(pronoun-4)
+### (pronoun-4)
 
 Click on the blanks and choose the correct reflexive pronoun.
 
@@ -257,7 +266,7 @@ We cooked biryani *ourselves (themselves)* for the guests.
 
 ```
 
-(pronoun-5)
+### (pronoun-5)
 
 Click on the blank and fill in the correct interrogative pronoun.
 
@@ -287,12 +296,11 @@ To *whom (what)* did he give his watch?
 
 ```
 
-(pronoun-5)
+#### collection-2
 
 Click on the blank and fill in the right pronoun.
 
 ```
-
 *Her(His)* name is Sita.
 *You (They)* are my best friend.
 This pen is *mine(theirs)*.
@@ -303,11 +311,9 @@ I folded my clothes by *myself(themselves)*.
 *Which(Who)* is your favourite food?
 *I (Me)* went to the library.
 Is that present for *me (I)*?
-
 ```
 
 ```
-
 *We (Us)* are going to Corbett National Park on Sunday.
 *We (Us)* live in a small house.
 *She (He)* is a smart girl.
@@ -321,7 +327,6 @@ Look at my shoes. *They (It)* are so colorful.
 ```
 
 ```
-
 Saranya likes to cook. Everyone likes *her (his) * cooking.
 Kumar and his brother enjoy watching action films. This movie is for *them(they) *.
 Do you like movies? Please join *us (them) * at the theatre.
@@ -342,6 +347,8 @@ Every Sunday, we meet *them (they)* at the seashore.
 
 ```
 
+#### collection-3
+
 (miscellaneous)
 
 Click on the blank and fill in the right pronoun.
@@ -356,6 +363,10 @@ The dog fetches the stick *itself (himself)*.
 *These (Them)* shoes are very comfortable.
 She asked *what (when)* we wanted for lunch.
 The building *itself (herself)* is very tall.
+
+```
+
+```
 Her writing is so much better than *mine (my)*.
 *You (Yours)* are the best player on the team.
 *Who (Whom)* will win the championship?

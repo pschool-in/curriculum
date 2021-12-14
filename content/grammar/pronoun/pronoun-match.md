@@ -1,8 +1,8 @@
-(pronoun-1)
-
 ## Match the pairs
 
 Match the pronouns that have same meaning.
+
+### (pronoun-1)
 
 ```
 I, Me
@@ -12,11 +12,11 @@ They, Them
 We, Us
 ```
 
+### (pronoun-2)
+
 Match the pairs
 
-(pronoun-2)
-
-Match the subject with the correct pronoun. (title)
+Match the subject with the correct pronoun.
 
 ```
 Reena, She
@@ -58,7 +58,7 @@ You and Ram, You
 You and I, We
 ```
 
-(pronoun-4)
+### (pronoun-4)
 
 Match the pronouns with the correct reflexive pronouns.
 
@@ -77,7 +77,7 @@ me, myself
 
 ```
 
-(pronoun-5)
+### (pronoun-5)
 
 Match the Sentence
 
@@ -96,20 +96,24 @@ What is, your score?
 Whose are, these folders?
 ```
 
+#### collection-2
+
 (miscellaneous)
 
-Identify which pronouns are these. (title)
+Match Pronouns
+
+Match the related pronouns
 
 ```
-Me You, Personal
-This That, Demonstrative
-Mine Hers, Possessive
-Herself, Myself, Reflexive
-What whom, Interrogative
+Me & You, Personal
+This & That, Demonstrative
+Mine & Hers, Possessive
+Herself & Myself, Reflexive
+What & Whom, Interrogative
 
-He She, Personal
-These Those, Demonstrative
-Theirs Ours, Possessive
-Themselves Yourself, Emphatic
-Which Whose, Interrogative
+He & She, Personal
+These & Those, Demonstrative
+Theirs & Ours, Possessive
+Themselves & Yourself, Emphatic
+Which & Whose, Interrogative
 ```

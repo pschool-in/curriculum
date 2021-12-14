@@ -1,8 +1,9 @@
-# Joining Words
+### (conjunction-1)
 
-(conjunction-1)
+#### Joining Words
 
-Joining words are used to join two or more words and sentences. The two common joining words are 'and' and 'but'.
+Joining words are used to join two or more words and sentences. The two common
+joining words are 'and' and 'but'.
 
 'And' is used when we are adding something to our statement. For example,
 
@@ -16,11 +17,53 @@ Joining words are used to join two or more words and sentences. The two common j
 2. I want to go to the party _but_ I'm tired.
 3. I like Ravi _but_ I hate his brother.
 
+### (conjunction-2)
+
+(old existing one)
+
+#### Conjunction
+
+A conjunction is a word that is used for joining other words, phrases or
+sentences.
+
+# And, Or, But
+
+'And' means 'also', 'added to'; 'or' means 'any one of the two'; 'but' is used
+to say something opposite.
+
+1. I like coffee _and_ tea.
+2. I like to have coffee _or_ tea.
+3. I don't like coffee, _but_ I like tea.
+
+# So vs Because
+
+'Because' is used to explain the reason for the first event. 'So' is used to
+explain the result of the first event.
+
+1. I cannot go out _because_ it is raining.
+2. It was raining _so_ I got wet.
+
+# Conjunction Pairs
+
+Sometimes conjunctions are used in pairs:
+
+Either/or, both/and, whether/or, neither/nor, not only/but also.
+
+1. You can _either_ call me _or_ message me.
+2. He was _both_ honest _and_ talented.
+3. I didn't know _whether_ he will come _or_ not.
+4. He is _neither_ tall _nor_ short.
+5. _Not only_ he came late, _but also_ he forgot the gift.
+
+# Draft
+
 # Conjunctions
 
 (conjunction-2) (grade2 and 3)
 
-The word that joins two or more words or sentences is called a conjunction. In simple words, conjunctions are joining words. The most common conjunctions are 'and', 'but', 'so', and 'or'.
+The word that joins two or more words or sentences is called a conjunction. In
+simple words, conjunctions are joining words. The most common conjunctions are
+'and', 'but', 'so', and 'or'.
 
 For example:
 
@@ -41,36 +84,3 @@ Some more examples are;
 6. I will complete my HW today _or_ tomorrow.
 7. My mother is late _so_ I'm waiting for her.
 8. We're going to the park in the evening, _so_ I'll take a nap in the noon.
-
-# Reading passage (old existing one)
-
-A conjunction is a word that is used for joining other words, phrases or
-sentences.
-
-# And, Or, But
-
-'And' means 'also', 'added to'; 'or' means 'any one of the two'; 'but' is used to say something opposite.
-
-1. I like coffee _and_ tea. 
-2. I like to have coffee _or_ tea. 
-3. I don't like coffee, _but_ I like tea.
-
-# So vs Because
-
-'Because' is used to explain the reason for the first event. 'So' is used to explain the result of the first event.
-
-1. I cannot go out _because_ it is raining. 
-2. It was raining _so_ I got wet.
-
-# Conjunction Pairs
-
-Sometimes conjunctions are used in pairs: 
-
-Either/or, both/and, whether/or, neither/nor, not only/but also.
-
-1. You can _either_ call me _or_ message me.
-2. He was _both_ honest _and_ talented.
-3. I didn't know _whether_ he will come _or_ not.
-4. He is _neither_ tall _nor_ short.
-5. _Not only_ he came late, _but also_ he forgot the gift.
-

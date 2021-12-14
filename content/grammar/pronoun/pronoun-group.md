@@ -1,6 +1,6 @@
 ## Pronoun or Not
 
-(pronoun-2)
+### (pronoun-2)
 
 Drag the given words and put it in the right boxes.
 
@@ -20,7 +20,7 @@ Stand, Talk, Jump, Bump
 Drive, Car, Jam, Dog
 ```
 
-(pronoun-2)
+#### collection-2
 
 Drag the given words and put it in the right boxes.
 
@@ -36,7 +36,7 @@ Plural
 These, Those, They, Them
 ```
 
-(pronoun-3)
+### (pronoun-3)
 
 Drag the given words and put it in the right boxes.
 
@@ -52,7 +52,7 @@ Not a possessive pronoun
 He, She, Me, I, It, We, Us
 ```
 
-(pronoun-4)
+### (pronoun-4)
 
 Drag the given words and put it in the right boxes.
 
@@ -68,7 +68,7 @@ Non-reflexive pronoun
 He, Mine, She, Her, Them, They, Me, Him
 ```
 
-(pronoun-5)
+### (pronoun-5)
 
 Drag the given words and put it in the right boxes.
 

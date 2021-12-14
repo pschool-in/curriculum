@@ -26,7 +26,7 @@
 
 # Playlists
 
-## Pronoun - Introduction (pronoun-1)
+## Introduction to Pronoun (pronoun-1)
 
 1. passage
 2. fill up (He, She, It, They) (I, We, You)

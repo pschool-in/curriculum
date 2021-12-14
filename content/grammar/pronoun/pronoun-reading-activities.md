@@ -3,6 +3,7 @@
 ## True or False (label) (classify template)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 'This, That, These, Those' are demonstrative pronouns.
@@ -18,6 +19,7 @@ Demonstrative and personal pronouns are the same.
 ## Multiple Choice Questions (MCQs)
 
 Choose the correct pronoun for these sentences. (title)
+
 ```
 ____ are playing outside.
 They, He, This, These
@@ -49,6 +51,7 @@ She, They, These, Those
 ## Multiple Choice Questions (MCQs)
 
 Choose the correct answer. (title)
+
 ```
 Which pronouns denote the 1st person?
 I We Me, You, She He They
@@ -67,21 +70,23 @@ Me Us You, He It They, I We She
 ## True or False (label) (classify template)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 Possessive pronouns indicate ownership.
-'This is his car.' is an example of a possessive pronoun. 
+'This is his car.' is an example of a possessive pronoun.
 'Mine' is a possessive pronoun.
 
 False:
 Possessive pronouns indicate rulership.
-'My name is Raj.' is an example of a possessive pronoun. 
+'My name is Raj.' is an example of a possessive pronoun.
 'My' is a possessive pronoun.
 ```
 
 ## Multiple Choice Questions (MCQs)
 
 Choose the correct pronoun for these sentences. (title)
+
 ```
 That is ____ car.
 his, it, my, you
@@ -100,6 +105,7 @@ hers, her, him, he
 ## True or False (label) (classify template)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 Reflexive and emphatic pronouns are similar.
@@ -129,6 +135,7 @@ On removing the reflexive pronouns, the meaning of the sentence remains the same
 ## True or False (label) (classify template)
 
 State whether the following statements are true or false. (title)
+
 ```
 True:
 Interrogative pronouns are used to ask questions.

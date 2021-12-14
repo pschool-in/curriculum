@@ -77,7 +77,7 @@ He has a ball *but* not a bat.
 Please bring a paper *and* a pencil.
 ```
 
-#### collection-2
+#### collection-3
 
 So vs Because
 
