@@ -5,7 +5,7 @@
 ## Light and Sound - Reading
 ### Light
 Light helps us to see different objects. Sun is the natural source of light and heat. It emits its own light. All stars are natural sources of Light. When natural light is not available, we use candles, torch, bulbs, etc. These are man-made sources of light. There are many objects around us which do not emit light at all such as tables, chairs, paper and clothes.
-Objects thst emit their own light are called luminous objects while those that do not emit their own light are called non-luminous objects. As the moon reflects the light of the sun, it is a non-luminous object.
+Objects that emit their own light are called luminous objects while those that do not emit their own light are called non-luminous objects. As the moon reflects the light of the sun, it is a non-luminous object.
 When light falls on objects, some objects allow light to pass through them while some do not. These are called transparent and opaque objects. Glass is transparent whereas wood is opaque.
 
 ### Shadows
@@ -51,9 +51,9 @@ voice box, stomach, tongue, lungs
 ## Fill in the blanks (drag and drop)
 ```
 A *shadow* is formed when an object blocks the path of light.
-Transparent objects do not form shadow because light *pass* through them.
+Transparent objects do not form shadows because light *pass* through them.
 The shadow formed due to the sun is *shortest* at noon.
-The moon shines due to light of the *sun*.
+The moon shines due to the light of the *sun*.
 ```
 ## True or False
 ```
