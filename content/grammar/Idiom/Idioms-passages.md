@@ -1,6 +1,6 @@
 # Idiom
 
-## ### Reading Notes
+##  Reading Notes
  An idiom is an expression, a word or a phrase that doesn't mean exactly what the words say. It is also known as an idiomatic expression. For example "it's raining cats and dogs", doesn't mean that cats and dogs are falling from sky, but it is a metaphorical expression that means that it is raining heavily. 
  
  Some commonly used idioms and their meanings are given below:
@@ -29,3 +29,15 @@ Usage of the above mentioned idioms in a sentence:
 9. You are such a copy cat! Do your own work. 
 10. Sarah is such an early bird! She gets up daily before the sunrises.
 
+
+# Proverbs
+
+## Reading Notes 
+A proverb is a small saying that is generally used in conversation to convey a general truth about a person or the situation. They are mostly used by adults in daily conversations. 
+
+Below are a few examples of proverbs
+1. All that glitters is not gold.
+2. When in Rome, do as Romans do.
+3. First come, first served.
+4. It's no use crying over the spilled milk. 
+5. Still water runs deep.
