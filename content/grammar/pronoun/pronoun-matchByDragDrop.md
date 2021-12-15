@@ -1,8 +1,8 @@
-(pronoun-3)
-
 ## Drag and Drop
 
 Choose the right possessive pronoun.
+
+### (pronoun-3)
 
 ```
 I have a new crayon box. It is *mine*.
@@ -44,7 +44,7 @@ This skateboard belongs to my brother Jatin. This is *his*.
 This bag belongs to me and my sister. This bag is *ours*.
 ```
 
-(pronoun-4)
+### (pronoun-4)
 
 Fill in the blanks by dragging the options given at the bottom.
 
@@ -62,6 +62,8 @@ Lohit finished the project by *himself*.
 The dog let *itself* into our room.
 
 ```
+
+### (pronoun-5)
 
 (miscellaneous)
 

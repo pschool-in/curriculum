@@ -1,6 +1,8 @@
 ## Select the pronoun
 
-Select the pronoun in the below sentence. (pronoun-1)
+Select the pronoun in the below sentence.
+
+### (pronoun-1)
 
 ```
 *I* am very happy for *her*.
@@ -22,7 +24,7 @@ Is *he* from Hyderabad? *I* might know *him*.
 *It* is an amazing movie.
 ```
 
-(pronoun-2)
+### (pronoun-2)
 
 ```
 *He* wants to buy a new cycle.
@@ -83,7 +85,7 @@ Raju told everyone *that* the party is tomorrow.
 
 Select all the pronouns present in the below text.
 
-(pronoun-1)
+### (pronoun-1)
 
 ```
 *It* is *her* pen.
@@ -92,11 +94,11 @@ Please give *it* to *me*.
 The principal told *us* that *she* is *our* new teacher.
 ```
 
-(pronoun-2)
+### (pronoun-2)
 
 TODO: add more activities
 
-(pronoun-3)
+### (pronoun-3)
 
 ```
 *She* tries to steal everyone's chocolates. *She* lies and says *they* are *hers*.
@@ -115,6 +117,7 @@ My parents teach *me*, "What is rightfully *yours* will surely be *yours*.
 ```
 
 (pronoun-4)
+
 ```
 This* book is *mine*. *I* read the whole book all by *myself*. *I* like *this* book.
 *That* is my father. *This* car is *his*. *I* washed *it* all by *myself*.
@@ -131,11 +134,9 @@ The children love holidays. *They* buy all the new things for *themselves*. *Tha
 Prateek is very lazy. *He* copied *his* friend's project instead of doing *it* *himself*.
 ```
 
-## Select the possessive pronoun
+Select the possessive pronoun
 
 Select the possessive pronoun in the sentence.
-
-(pronoun-3)
 
 ```
 My aunt Laksmi has a blue car. The blue car is *hers*.
@@ -163,11 +164,29 @@ That headphone is *mine*.
 This bangle is *hers*.
 ```
 
-## Select the reflexive pronoun
+### (pronoun-4)
+
+```
+This* book is *mine*. *I* read the whole book all by *myself*. *I* like *this* book.
+*That* is my father. *This* car is *his*. *I* washed *it* all by *myself*.
+My dad gave *me* *this* map. *He* told *me* *it* was *his*. *I* need to find directions by *myself*.
+*He* wanted to impress the teacher. So, *he* baked the cake by *himself*. The recipe was *mine*.
+*Those* bags are *hers*. *She* goes shopping all by *herself*.
+```
+
+```
+*We* don't like to go out for dinner. *We* cook dinner by *ourselves*.
+*This* brush is *mine*. *I* stare at *myself* in the mirror while brushing.
+*This* garage is *mine*. *Me* and my dad painted *it* *ourselves*.
+The children love holidays. *They* buy all the new things for *themselves*. *That* time is *their* favourite.
+Prateek is very lazy. *He* copied *his* friend's project instead of doing *it* *himself*.
+```
+
+#### collection-2
+
+Select the reflexive pronoun
 
 Select the reflexive pronoun in the sentence.
-
-(pronoun-4)
 
 ```
 I *myself* will do the job.

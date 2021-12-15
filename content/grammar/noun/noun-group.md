@@ -1,124 +1,99 @@
-grade-1
+### (noun-1)
 
-## Drag and drop
+Classify Noun or Not
 
-Identify which of these words are nouns and which are not. (title)
-```
-Nouns: Book, Boy, City, House, Dog
+Drop the words given at the botton in the right boxes.
 
-Not Nouns: Big, Little, Sleep, Eat, Pretty
-```
+Noun
 
 ```
-Nouns: Sakshi, School, Cat, Pen, Eraser
-
-Not Nouns: Small, Play, Dance, Run, Jump
+Book, Boy, City, House, Dog
+Sakshi, School, Cat, Pen, Eraser
+Nita, Delhi, Tiger, Ring, Phone
+Dog, Cat, Puppy, Cow, Pig
+Kitten, Birds, Flowers, Fruits
 ```
 
-```
-Nouns: Nita, Delhi, Tiger, Ring, Phone
-
-Not Nouns: Walk, Talk, Speak, Teach, Repeat
-```
+Not a Noun
 
 ```
-Nouns: Dog, Cat, Puppy, Cow, Pig
-
-Not Nouns: Dance, Sing, Drink, Lie
+Big, Little, Sleep, Eat, Pretty
+Small, Play, Dance, Run, Jump
+Walk, Talk, Speak, Teach, Repeat
+Dance, Sing, Drink, Lie
+Beautiful, Black, Slept, Sit
 ```
 
+### (noun-4)
+
+Concrete vs Abstract
+
+Classify these nouns as concrete or abstract.
+
+Concrete
+
 ```
-Nouns: Kitten, Birds, Flowers, Fruits
-
-Not Nouns: Beautiful, Black, Slept, Sit
-```
-
-grade-4
-
-## Drag and Drop (label)
-
-Identify these nouns as concrete and abstract. (title)
-```
-Concrete:
 Phone, Police, Cat, Pen
-
-Abstract:
-Clever, Courage, Loyalty, Bravery
-```
-
-```
-Concrete:
 Girl, Boy, Bowl, Bird
-
-Abstract:
-Hope, Love, Angry, Trust
-```
-
-```
-Concrete:
 Soldier, Friend, Artist, Judge
-
-Abstract:
-Peace, Justice, Artistry, Friendship
-```
-
-```
-Concrete:
 Table, Feet, Melody, Pie
-
-Abstract:
-Luxury, Joy, Maturity, Work
-```
-
-```
-Concrete:
 Fish, Grapes, Soap, Stairs
+```
 
-Abstract:
+Abstract
+
+```
+Clever, Courage, Loyalty, Bravery
+Hope, Love, Angry, Trust
+Peace, Justice, Artistry, Friendship
+Luxury, Joy, Maturity, Work
 Happiness, Dinner, Habit, Manners
 ```
 
-grade-5
+### (noun-5)
 
-## Drag and Drop (label)
+Common vs Neuter Gender
 
-Classify these nouns as common gender and neuter gender. (title)
+Classify these nouns as common or neuter gender.
+
+Common
+
 ```
-Common:
 Singer, Parent, Cat, Teacher
-
-Neuter:
-Chair, Table, Tree, Star
-```
-
-```
-Common:
 Deer, Bird, Fish, Cub
-
-Neuter:
-Mountain, Street, Book, Car
-```
-
-```
-Common:
 Enemy, Infant, Leader, Member
-
-Neuter:
-Paper, Computer, School, Pencil
-```
-
-```
-Common:
 Servant, Neighbour, Cousin, Friend
-
-Neuter:
-Bus, TV, Speaker, Box
-```
-
-```
-Common:
 Doctor, Teacher, Minister, Painter
+```
 
-Neuter:
+Neuter
+
+```
+Chair, Table, Tree, Star
+Mountain, Street, Book, Car
+Paper, Computer, School, Pencil
+Bus, TV, Speaker, Box
 Ocean, Words, Train, Road
+```
+
+#### collection-2
+
+Gender Bender!
+
+Drag and drop the below words in the respective boxes.
+
+Masculine
+
+```
+ram, gander, boy, bull, prince, waiter
+son, sir, actor, colt, priest
+tiger, duke, man, master, monk
+```
+
+Feminine
+
+```
+czarina, spinster, hen, wife, queen
+filly, princess, heroine, lady
+niece, aunt, bride, sister
 ```

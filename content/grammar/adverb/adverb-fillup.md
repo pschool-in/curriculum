@@ -34,7 +34,7 @@ He danced *wonderfully (wonderful)*.
 
 Fill in the blanks with the most suitable word.
 
-(adverb-4)
+### (adverb-4)
 
 (hidden: adverb of place and time)
 
@@ -78,7 +78,7 @@ The teacher *clearly (clear, elaborate)* explained the topic.
 The dog runs *quickly (quick, slowly)*.
 ```
 
-## Identify
+### (adverb-5)
 
 Choose the correct adverb of frequency. Tap on each blank to view options.
 

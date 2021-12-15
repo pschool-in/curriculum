@@ -31,18 +31,18 @@ I throw the stick *but* my dog never runs to get it.
 ```
 
 ```
-Neha is friends with all the boys *and* girls in the class.
+Neha is friend with all the boys *and* girls in the class.
 We burn crackers *and* eat sweets on Diwali.
 We have a dog *but* I also want a cat.
 Mohan is a smart boy *but* he is not good at sports.
 I like reading books *and* eating vegetables.
 ```
 
-(conjunction-1)
+### (conjunction-2)
 
-## Find Conjunction
+Find Conjunction
 
-Click on the word in the sentence, which is a conjunction.
+Select the conjunction in the below sentence.
 
 ```
 I love to swim *and* play tennis.
