@@ -62,7 +62,7 @@ House, Room, Bed, Book, Pencil, Eraser
 Mobile, Boy, Laptop, Girl, Spoon, Bowl
 ```
 
-#### Seelect the noun (label)
+#### Select the noun (label)
 
 Select the nouns in the below sentences. (title)
 ```

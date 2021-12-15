@@ -6,7 +6,7 @@ To get familiar with what pronouns are and in what context they're used.
 
 We are already familiar with nouns. We know that nouns are naming words. Nouns are names of a person, place, animal, or thing.
 
-Pronouns are the words that replace the naming words. It means that pronouns can be used in place of nouns. Example:
+Pronouns are the words that replace the naming words. It means that pronouns can be used in place of nouns. The purpose of using pronouns is to avoid the repetition of naming words. Example:
 
 Ishaan is a punctual boy. Ishaan comes to school on time.
 
@@ -23,7 +23,7 @@ Plural- They, Them
 ```
 Pronouns for 1st person:
 ```
-I, Me, Myself, Mine, My, We, Us, Our, and Ourselves.
+I, Me, Myself, Mine, We, Us, Our, and Ourselves.
 ```
 Pronouns for 2nd person:
 ```
