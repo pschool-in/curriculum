@@ -38,11 +38,9 @@ Don't under-estimate your *strength*.
 
 Classify the Underlined Noun
 
-Classify whether the underlined nouns are concrete or abstract.
-
-Concrete
-
+Identify whether the underlined nouns are concrete or abstract. (title)
 ```
+Concrete:
 An *apple* is kept on the *table.*
 There are tons of *books* in the *library.*
 A *dog* is a very common pet.
@@ -50,11 +48,8 @@ The *sweater* is made of *wool.*
 I saw *banana trees* on the way.
 She reads three *books* in a week.
 The *elephant* is very big.
-```
 
-Abstract
-
-```
+Abstract:
 He is not telling the *truth.*
 People lose *faith* when you lie.
 He will *defeat* her.
@@ -62,4 +57,21 @@ They laughed at my *joke.*
 Pia is *afraid* of heights.
 She is *angry.*
 The girls love to *gossip.*
+```
+
+Identify whether the below nouns are countable or uncountable. (title)
+```
+Countable:
+There are a few Chinese *restaurants* in the city.
+Priya took many *pictures* on her vacation.
+Many *books* are kept on the table.
+The *beds* we have are very old.
+My *phone* is not working properly.
+
+Uncountable:
+Do you have a *water* bottle?
+I like *butter* on my bread slice.
+The police need *information* about the thief.
+Her *intelligence* is undoubtful.
+The *milk* is in the bottle.
 ```
