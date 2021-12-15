@@ -16,11 +16,11 @@ Select the clause in the below sentence.
 *Do not play* with older children.
 *Hyderabad is a city* of pearls.
 *She listened to me* with great curiosity.
-*She is eating* in a plate.
+*She is eating* on a plate.
 ```
 
 ```
-*She arrived to work on time* in spite of leaving home so late.
+*She arrived to work on time* despite leaving home so late.
 *I was standing* near the gate.
 *She made coffee* for the guests.
 *He bought a scarf* for a friend.
@@ -42,7 +42,7 @@ Select the clause in the below sentence.
 *They are dancing* to the disco song.
 *She is cooking* in the kitchen.
 *I saw a snake* in the street.
-*He threw* a piece of paper in the class.
+*The cat is sleeping* on the mat.
 ```
 
 
@@ -53,17 +53,17 @@ Select the independent clause (IC) from each sentence
 ```
 *I am saving my money* because I wanted to buy a new mobile. 
 When I arrived, *Meera was surprised to see me*.
-Because I don't know how to do my homework, * I need to call Kiran for help*. 
-*Priya loves to read*.
+*Karan is a good football player*.
+*Priya loves to read* before going to bed.
 Although we were late, *we decided to watch the match anyway*.
 ```
 
 ```
 *I forgot most of the items I needed* because I forgot my list. 
-*Tomorrow is going to be an exciting day* because I am going to a movie. 
-If you want to ride with Meena and Ravi, *you need to let them know*. 
-*Nobody knows the answer to that question*. 
-*I went to the park*.
+*She walked to the grocery store* to buy a box of chocolates. 
+When Ramesh got home, *he ate lunch*.
+*I like to sit in the balcony* while the warm breeze blows.
+*I went to the park* in the evening.
 ```
 
 

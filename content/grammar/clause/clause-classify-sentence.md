@@ -13,7 +13,7 @@ The gardner said *that all the plants had been pruned neatly*.
 I wondered *if she was free*.
 The boys *who misbehaved in the class* were suspended.
 This is the homework assignment *that you missed last week*.
-*When I went to the zoo*, I looked at the animals
+*When I went to the zoo*, I looked at the animals.
 The teacher *who lives next door to Raj* is Mrs. Iyer.
 ```
 
