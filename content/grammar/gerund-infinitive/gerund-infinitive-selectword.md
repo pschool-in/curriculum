@@ -1,17 +1,20 @@
 ## Identify-Gerund
 
+
+### (gerund-infinitve)
+
 Identify the gerund in each sentence
 
 ```
-Gaurav avoids *driving* in highways as much as possible.
+Gaurav avoids *driving* on highways as much as possible.
 Grandma enjoyed *meeting* new people.
-Kavitha has developed interest in *cooking*.
+Kavitha has developed an interest in *cooking*.
 My mother says *eating* fresh vegetables is good for health. 
 She likes *painting*.
 My mom is always been afraid of *flying*.
 *Swimming* is a good exercise.
-My brother gave up *smoking* few years ago.
-What about *going* to museum tomorrow?
+My brother gave up *smoking* a few years ago.
+What about *going* to the museum tomorrow?
 My father was happy *seeing* his mom after a long time.
 ```
 
@@ -35,8 +38,8 @@ Did you miss *watching* TV?
 Dentists recommend *cleaning* teeth twice a day.
 He was so noisy, I asked him to stop *talking*.
 She delayed *going* to the hospital.
-I miss *going* to the school.
-My car needs *washing*. Could you do for me?
+I miss *going* to school.
+My car needs *washing*. Could you do that for me?
 I spend my free time *collecting* old stamps.
-She denied *having* an ice-cream at night.
+She denied *having* an ice cream at night.
 ```

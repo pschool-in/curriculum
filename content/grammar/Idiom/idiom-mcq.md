@@ -1,8 +1,10 @@
-# Idiom
+
 
 ## Identify the meanings (MCQ)
 
 Identify the correct meanings of the idioms from the options given below.
+
+### (idiom)
 
 ```
 Once in a blue moon
@@ -18,12 +20,12 @@ To feel under the weather
 not feeling well, feeling excited, feeling amazing
 
 Back to square one
-To start the process all over again, to complete the process, to hold the process in the middle 
+to start the process all over again, to complete the process, to hold the process in the middle 
 ```
 
 ```
 Beating around the bush
-Not speaking directly about the issue, speaking directly about the issue, not speaking at all
+not speaking directly about the issue, speaking directly about the issue, not speaking at all
 
 Hit the hay
 go to sleep, go to play, go to the farm
@@ -43,7 +45,7 @@ Crack someone up
 to make someone laugh, to make someone cry, to make someone eat
 
 Out of the blue
-Something that occurs unexpectedly, something that occurs frequently, something that occurs very regularly
+something that occurs unexpectedly, something that occurs frequently, something that occurs very regularly
 
 Hold your horses
 be patient, be aggressive, be emotional 
@@ -60,7 +62,7 @@ Fishy
 strange, ordinary, familiar
 
 Rat race
-Competitive struggle, no struggle, no challenge 
+competitive struggle, no struggle, no challenge 
 
 Hard nut to crack
 difficult to understand, easy to understand, clear to understand

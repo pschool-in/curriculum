@@ -1,6 +1,8 @@
 ## Gerund or infinitive (fill up with options) 
 
-Complete each sentence using the gerund or infinitve form as appropriate.
+### (gerund-infinitve)
+
+Fill in the blanks with the appropriate form.
 
 ```
 Karthik didn't know what *to do (doing)* when the fire broke out. 
@@ -12,7 +14,7 @@ I offered *to help (help)* my friend.
 He admitted *stealing (steal)* the money from the purse.
 I would love *to come (coming)* with you to Hyderabad.
 At last, I managed *to finish (finish)* my work for the day.
-They practised *speaking (speak)* sanksrit.
+They practised *speaking (speak)* sanskrit.
 ```
 
 ```
@@ -33,7 +35,7 @@ I can't stand *waiting (wait)* in queues.
 Jatin likes *working (work)* in Canada.
 I forgot *to buy (buying)* milk. 
 Taman gave up *smoking (smoke)* years ago.
-My cousin offered *to take (take)* us to airport.
+My cousin offered *to take (take)* us to the airport.
 It appears *to be (be)* drizzling.
 We are *planning (to plan)* to visit our village this weekend.
 It tends *to rain (raining)* a lot in Kerala.
@@ -42,7 +44,7 @@ Tanish completed *painting (paint)* his flat.
 ```
 
 ```
-Tanvi refused *to help (help)* in completion of the project.
+Tanvi refused *to help (help)* in the completion of the project.
 Everybody really enjoyed *dancing (dance)* to Bollywood beats.
 Manish admitted *eating (to eat)* my chocolate cake.
 My mother demanded *to see (see)* the hotel manager.
@@ -51,5 +53,5 @@ My mom chose *to work (work)* in this school.
 My brother postponed *doing (do)* his homework.
 My cousin would be *arriving (arrive)* tomorrow from Delhi.
 I remember *going (go)* to my first movie when I was 13.
-Would you mind *passing (pass)* the salt from the table.
+Would you mind *passing (pass)* the salt from the table?
 ```
