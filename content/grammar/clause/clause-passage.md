@@ -1,13 +1,15 @@
-# Clause
+
 
 ## Reading Notes 
 
+### (clause)
+
 A clause is a group of words that consists of a subject and a verb. A clause may form part of a sentence or it may be a complete sentence in itself. For example:
 
-1. I see you.
-2. She ran away.
-3. They sang beautifully
-4. Ram won a bicycle race.
+1. "I see you".
+2. "She ran away".
+3. "They sang beautifully".
+4. "Ram won" a bicycle race.
 
 ## Types of Clauses
 There are two types of clauses  

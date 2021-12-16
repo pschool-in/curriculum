@@ -1,8 +1,10 @@
  
  
  ## Sentences with Simile (drag and drop)
+
+ ### (simile)
  
- Use each word to make a simile in each sentence given below
+ Put the words given in the bottom at the right place.
  
  ```
  Shhh! You must be as *quiet* as a mouse! The baby is asleep. 
