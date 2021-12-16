@@ -189,37 +189,37 @@ Select the reflexive pronoun
 Select the reflexive pronoun in the sentence.
 
 ```
-I will do the job *myself*.
+I *myself* will do the job.
 Did you write the poem *yourself*?
-I carried the heavy box by *myself*.
+I *myself* carried the heavy box.
 My brother and I looked at *ourselves* in the mirror.
 I introduced *myself* to my neighbors.
 Let's clean the room *ourselves*.
 Can you tell me about *yourself*?
-Amrita baked this cake *herself*.
+Amrita *herself* baked this cake.
 We bought *ourselves* a new car.
-I went to the bank by *myself*.
+I *myself* went to the bank.
 ```
 
 ```
 My sister dressed *herself* without any help.
+I don't like eating by *myself*.
 Amit hurt *himself* while playing.
 Meena and Mahesh did the project all by *themselves*.
-She went to the park by *herself*.
+She *herself* went to the park to scold him.
 I love *myself*.
-Harish lives in a big house by *himself*.
-I don't like eating by *myself*.
 Let's complete this work *ourselves*.
-The AC is turned off by *itself*.
-We will build the treehouse by *ourselves*.
+The AC is turned *itself* off.
+We *ourselves* will build the treehouse.
+Harish lives in a big house by *himself*.
 ```
 
 ```
 I cannot do it *myself*.
 Rudra can paint the picture *himself* because he is good at painting.
 Suhaani, did you make the kheer *yourself*?
-Manisha made a video about gardening *herself*.
 We enjoyed *ourselves* very much at the party.
+Manisha made a video about gardening *herself*.
 She poured *herself* some milk.
 I dressed *myself* for the party.
 I made lunch all by *myself*.

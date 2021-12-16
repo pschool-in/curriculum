@@ -129,6 +129,7 @@ Reflexive pronouns are used for emphasizing the noun or pronoun.
 On removing the reflexive pronouns, the meaning of the sentence remains the same.
 'She herself made the cake' is an example of a reflexive pronoun.
 ```
+// (Since interrogative and relative pronouns are the same, we can have a combined reading material activity. PS: we don't have relative pronoun deployed or converted into JS yet.)
 
 # Pronoun-5
 
@@ -136,14 +137,83 @@ On removing the reflexive pronouns, the meaning of the sentence remains the same
 
 State whether the following statements are true or false. (title)
 
-```
 True:
+```
 Interrogative pronouns are used to ask questions.
-Sentences with interrogative pronouns always end with question marks.
+Relative pronouns are used to refer to the nouns mentioned previously.
 'What is your name?' is an example of an interrogative pronoun.
 
+Sentences with interrogative pronouns always end with question marks.
+Relative pronouns can also be used to join sentences.
+'Take whichever you want' is an example of a relative pronoun.
+```
+
 False:
-Interrogative pronouns are used to express emotions.
-Sentences with interrogative pronouns always end up with an exclamation mark.
-'What a pleasant weather!' is an example of an interrogative pronoun.
+```
+Relative pronouns are used to ask questions.
+Interrogative pronouns are used to refer to the nouns mentioned previously.
+'What is your name?' is an example of a relative pronoun.
+
+Sentences with relative pronouns always end up with a question mark.
+Interrogative pronouns can also be used to join sentences.
+'Take whichever you want' is an example of an interrogative pronoun.
+```
+
+# Draft
+
+(indefinite pronouns)
+
+## True or False (label) (classify template)
+
+State whether the following statements are true or false. (title)
+
+True:
+```
+Indefinite pronouns are used in a general way.
+Distributive pronouns refer to one person or thing at a time.
+Indefinite pronouns are both singular and plural.
+
+Distributive pronouns are always singular.
+Singular indefinite pronouns are used with singular verbs.
+Distributive pronouns are followed by singular verbs.
+```
+
+False:
+```
+Distributive pronouns are used in a general way.
+Indefinite pronouns refer to one person or thing at a time.
+Distributive pronouns are both singular and plural.
+
+Indefinite pronouns are always singular.
+Singular indefinite pronouns are used with plural verbs.
+Indefinite pronouns are followed by singular verbs.
+```
+
+## Multiple Choice Questions (MCQs)
+
+Choose the correct pronoun. (title)
+```
+We know ____ about this subject.
+____ are waiting for him.
+All, Raj and Rohan, Sheena
+little, her, them
+I'm sure ____ attend him respectfully.
+others, they, Ram
+Are there ____ waiting?
+any, cake, you
+____ people have seen her dance before.
+Few, You, The
+```
+
+```
+I like ____ in this room.
+everyone, Raj, Mohan
+I may buy ____ of these gifts.
+either, those, them
+You can't have ____ of these.
+any, only, soon
+____ of you will be awarded.
+Each, May, They
+____ of them is wrong.
+Neither, So, Raj
 ```

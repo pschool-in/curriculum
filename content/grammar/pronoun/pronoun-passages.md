@@ -212,10 +212,26 @@ Sample sentences:
 6. Take _whichever_ you want.
 7. This is the place _where_ we met.
 
-The relative pronoun can be confused with the interrogative pronoun. The
-difference between them is that the relative pronoun is used to connect the
-phrases to the noun or pronoun. On the other hand, interrogative pronouns are
-used to ask questions. Example: A woman _who_ lost her purse is at the police
-station. In this sentence, 'who' is a relative pronoun.
+The relative pronoun can be confused with the interrogative pronoun. The difference between them is that the relative pronoun is used to connect the phrases to the noun or pronoun. On the other hand, interrogative pronouns are used to ask questions.
 
-_Who_ are you? In this sentence, "who" is an interrogative pronoun.
+Example:
+A woman _who_ lost her purse is at the police station.
+In this sentence, 'who' is a relative pronoun.
+
+_Who_ are you?
+In this sentence, "who" is an interrogative pronoun.
+
+## Distributive Pronouns
+
+Pronouns that refer to one person or thing at a time are called distributive pronouns.
+
+Examples: each, either, everyone, any, none, neither, etc.
+
+Distributive pronouns are always singular and are followed by singular verbs.
+
+Examples of distributive pronouns in sentences are:
+1. I may buy _either_ of these gifts.
+2. _Each_ of you will be awarded.
+3. You can't have _any_ of these.
+4. _Neither_ of them is wrong.
+5. I like _everyone_ in this room.
