@@ -36,9 +36,10 @@ lizard, பல்லி
 rabbit, முயல்
 cockroach, கரப்பான் பூச்சி
 antelope, மான்
+spider, சிலந்தி
 
 ```
-
+## level 2
 ```
 hippo, நீர்யானை
 rhino, காண்டாமிருகம்
@@ -79,7 +80,6 @@ ladybug,
 seahorse, கடற்குதிரை
 hamster, வெள்ளெலி
 mole, 
-spider, சிலந்தி
 caterpillar, கம்பளிப்பூச்சி
 panda, பாண்டா
 starfish, நட்சத்திர மீன்
@@ -89,6 +89,7 @@ stingray, திருக்கை மீன்
 ```
 
 # Birds
+## level 1
 
 ```
 crow, காகம்
@@ -97,38 +98,40 @@ duck, வாத்து
 hen, கோழி
 parrot, கிளி
 peacock, மயில்
-penguin
 sparrow, சிட்டுக்குருவி
 chick, கோழிக்குஞ்சு
 crane, கொக்கு
-flamingo,
+goose, வாத்து
+rooster, சேவல்
+```
+## level 2
+```
 kingfisher, மீன் கொத்தி
 myna, மைனா
 ostrich, நெருப்புக்கோழி
 owl, ஆந்தை
-rooster, சேவல்
 vulture, கழுகு
 wood-pecker, மரங்கொத்தி
-hornbill,
 cuckoo, குயில்
-pheasant, 
 falcon, பருந்து
 swan, அன்னப்பறவை
-bulbul,
 spotted-dove, மணிப்புறா
-felican,
-humming-bird,
 robin, கருஞ்சிட்டு
-swallow,  தகைவிலாங் குருவி
-blue-jay,
 seagull, கடற்பறவை
-canary,
-goose, வாத்து
 turkey, வான்கோழி
 hawk, பருந்து
-cardinal,
 parakeet, பெரிய பச்சைக்கிளி
-
+penguin
+bulbul,
+flamingo,
+hornbill,
+felican,
+humming-bird,
+swallow
+blue-jay,
+canary,
+pheasant, 
+cardinal,
 ```
 
 # பழங்கள்
@@ -137,9 +140,6 @@ parakeet, பெரிய பச்சைக்கிளி
 apple, ஆப்பிள்
 grapes, திராட்சை
 banana, வாழைப்பழம்
-cherry
-avocado, வெண்ணைப்பழம்
-strawberry
 guava, கொய்யாப்பழம்
 jackfruit, பலாப்பழம்
 mango, மாம்பழம்
@@ -148,15 +148,21 @@ papaya, பப்பாளி
 pineapple, அன்னாசிப்பழம்
 pomegranate, மாதுளை
 watermelon, தர்பூசணி
-fig, அத்திப்பழம்
 custard-apple, சீதாப்பழம்
-plum, ஊட்டி ஆப்பிள்
+sugarcane, கரும்பு
+```
+## level 2
+```
+cherry
+avocado,
+strawberry
+
+plum, 
 dates, பேரிச்சம்பழம்
 muskmelon,
 star-fruit, 
 dragon-fruit, விருத்திரப்பழம் 
 passion-fruit, 
-sugarcane, 
 peach, 
 sweet-potato,  சர்க்கரை வள்ளி கிழங்கு 
 jamun, நாவல் பழம்
@@ -165,14 +171,9 @@ water-chesnut,
 jujube, இலந்தைப்பழம்
 sapotta, சப்போட்டா
 tapioca, மரவள்ளிக்கிழங்கு
-blueberry, அவுரிநெல்லி
+fig, அத்திப்பழம்
+blueberry
 ```
-
-
-gooseberry, நெல்லிக்காய்
-lemon, எலுமிச்சம் பழம்
-palm fruit, பனம் பழம்
-wood apple, விளாம்பழம்
 
 # காய்கறிகள்
 
@@ -222,6 +223,22 @@ elephant-yam, சேனைக்கிழங்கு
 
 ```
 
+```
+broad-beans, அவரைக்காய் 
+ashgourd, பூசணிக்காய் 
+ridgegourd, பீர்க்கங்காய்
+raw-banana, வாழைக்காய்
+drumstick-leaves, முருங்கைக்கீரை
+tulsi, துளசி
+banana-flower, வாழைப்பூ 
+bottlegourd, சுரைக்காய்
+ivygourd, கோவைக்காய்
+kohlrabi, நூல்கோல்
+snake-gourd, புடலங்காய்
+spring-onion, வெங்காயத்தாள்
+banana-stem, வாழைத்தண்டு
+cluster-beans, கொத்தவரங்காய்
+```
 
 # பூக்கள்
 
@@ -232,7 +249,7 @@ sunflower, சூரியகாந்தி
 marigold, சாமந்தி
 hibiscus, செம்பருத்தி
 mogra, குண்டு மல்லி
-jasmine, மல்லி
+jasmine, முல்லை
 tulip,
 zinnia,
 daffodil,
@@ -311,29 +328,27 @@ soap, சவர்க்காரம்
 washing-machine, துணி துவைக்கும் இயந்திரம்
 backpack,
 pillow,தலையணை
-shoe, காலணி
+shoe, காலணி 
 ```
 
 ```
-sock,
-boots,
-basket,
-dustbin,
-pyjama,
+sock,காலுறை
+basket, கூடை
+dustbin, குப்பை தொட்டி
+pyjama,இரவு உடுப்பு
 bed-lamp,
-gloves,
-scarf,
-sweater,
+gloves, கையுறைகள்
+scarf, கழுத்துத்துண்டு
+sweater, கம்பளிச்சட்டை
 bib,
 ```
 
 ```
 handbag,
-shirt,
-jacket,
-hat,
-trousers,
-dress
+shirt, சட்டை
+hat, தொப்பி
+trousers, கால்சட்டை
+dress, உடை
 ```
 
 # School
@@ -461,8 +476,8 @@ washerman, சலவை செய்பவர்
 flute, புல்லாங்குழல்
 piano,
 tabla, தபேலா
-violin, நரம்பிசைக்கருவி
-guitar, ஆறு நரம்பள்ள இசைக்கருவி
+violin, 
+guitar, 
 saxophone,
 trumpet,
 xylophone
@@ -560,29 +575,17 @@ coin, நாணயம்
 ```
 
 # More image request
-
-```
-குயில் 
-Broad beans, அவரைக்காய் 
-Ash gourd, பூசணிக்காய் 
-Ridge Gourd, பீர்க்கங்காய்
-rawbanana, வாழைக்காய்
-drumstick leaves, முருங்கை கீரை
-basil, துளசி
-banana flower, வாழைப்பூ 
-bottlegourd, சுரைக்காய்
-clusterbeans, கொத்தவரங்காய்
-ivygourd, கோவைக்காய்
-Kohl Rabi, நூல்கோல்
-snakegourd, புடலங்காய்
-Spring Onion, வெங்காயத்தாள்
-Banana stem, வாழைத்தண்டு
-
-
 lily--waterlily, ஆம்பல், அல்லி, வெள்ளாம்பல்
 Blue water lily, நீலாம்பல்
+gooseberry, நெல்லிக்காய்
+lemon, எலுமிச்சம் பழம்
+palm fruit, பனம் பழம்
+wood apple, விளாம்பழம்
 ```
 
 
 
 ---
+
+pics to be added
+
