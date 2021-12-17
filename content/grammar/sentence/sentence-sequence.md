@@ -1,4 +1,3 @@
-
 ## Find the Sentence
 
 ### (sentence)
@@ -118,17 +117,14 @@ her father is very kind
 the road is very narrow
 keep the pebbles safe
 the President's speech was humorous
-students has become notorious 
+students has become notorious
 poor farmer had little food
 diamonds are precious stones
 Roy dreamt of gigantic monster
 police investigated the criminals
 ```
 
-
-
 ### (sentence-2)
-
 
 ```
 the report was sent yesterday

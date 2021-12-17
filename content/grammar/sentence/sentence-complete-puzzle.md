@@ -1,4 +1,4 @@
-### (sentence-4)
+### (sentence-3)
 
 Match the right part that goes with the subject.
 
@@ -27,6 +27,8 @@ John and his parents| are coming. | is coming.
 All students in our classroom | are present. | is present.
 The kitchen in our house | is empty. | are empty.
 ```
+
+### (sentence-4)
 
 ```
 The boys| like playing| likes playing
