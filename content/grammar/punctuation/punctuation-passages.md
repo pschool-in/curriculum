@@ -3,10 +3,10 @@
 We use a full stop or period at the end of a statement. For example,
 
 1. I like eating apples.
-2. My mom wakes up at 6 o’clock in the morning.
+2. My mom wakes up at 6 a.m.
 3. I go to school every day.
 
-We also use period in front of abbreviations. For example,
+We also use periods in front of abbreviations. For example,
 
 1. Mr. Malik
 2. Mrs. Sharma
@@ -17,7 +17,7 @@ We also use period in front of abbreviations. For example,
 (grade-2)
 
 It is used to show strong feelings of joy, sadness, confusion, surprise, etc.
-This mark can be used after a word, phrase or sentence. The sentences ending
+This mark can be used after a word, phrase, or sentence. The sentences ending
 with an exclamation mark are called exclamatory sentences. A few examples of
 such sentences are:
 
@@ -29,7 +29,7 @@ such sentences are:
 ## Capital letters
 
 The first letter of a sentence should always be capital. The word ‘I’ is also
-written in capital. In addition, names of special places, people and titles also
+written in capital. In addition, names of special places, people, and titles also
 start with a capital letter. Some examples are;
 
 1. My name is Richa.
@@ -78,7 +78,7 @@ State whether these statements are true or false. (title)
 ```
 True:
 We use a question mark when we ask questions.
-Full stop is used at the end of abbreviations.
+A full stop is used at the end of abbreviations.
 Commas are used in dates.
 
 False:
@@ -91,7 +91,7 @@ A full stop can always be replaced by a question mark.
 True:
 Exclamation marks are used to show strong feelings.
 A question mark is used at the end of a sentence.
-Name of a person always starts with a capital letter.
+The name of a person always starts with a capital letter.
 
 False:
 Full stop and period are different punctuation marks.
@@ -102,20 +102,20 @@ Sentences ending with exclamation marks are called explanatory sentences.
 ```
 True:
 Commas are used in between the series of words.
-Name of a country always starts with a capital letter.
+The name of a country always starts with a capital letter.
 ‘Wow’ is an expression.
 
 False:
 A comma is used at the end of a sentence.
 Punctuations are not important.
-Period is used in the middle of a sentence.
+A period is used in the middle of a sentence.
 ```
 
 ```
 True:
 The first word of a sentence always starts with a capital letter.
 Sentences ending with exclamation marks are called exclamatory sentences.
-Full stop is also called a period.
+A full stop is also called a period.
 
 False:
 The word ‘You’ always starts with a capital letter.

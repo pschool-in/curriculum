@@ -72,17 +72,17 @@ Select the dependent clause from each sentence
 
 ```
 My mother is a nurse *since* *she* *likes* *to* *help* *people*. 
-*After* *the* *storm* there were branches in the streets.
+*After* *the* *storm*, there were branches in the streets.
 I asked the question *that* *no* *one* *else* *wanted* *to* *ask*.
 Ravi eats carrots *when* *he* *wants* *to* *have* *a* *snack*.
-*If* *you* *want* *to* *be* *my* *friend* you will tell me the truth. 
+*If* *you* *want* *to* *be* *my* *friend*, you will tell me the truth. 
 ```
 
 ```
 I am not cleaning the dishes *unless* *pavan* *helps*.
 I made good money *until* *I* *lost* *my* job*. 
 *After* *swimming* *in* *the* *pool*. 
-*Because* *he* *ran* he was able to catch the bus. 
+*Because* *he* *ran*, he was able to catch the bus. 
 *Until* *the* *sun* *sets*, we are going to play. 
 ```
 

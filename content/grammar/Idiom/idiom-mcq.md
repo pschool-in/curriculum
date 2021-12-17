@@ -70,7 +70,7 @@ difficult to understand, easy to understand, clear to understand
 In a nutshell
 to sum up, to serve in a shell, to eat in a shell
 
-Black out
+Blackout
 to lose consciousness, to gain consciousness, to sleep 
 ```
 

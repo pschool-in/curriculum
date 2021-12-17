@@ -10,7 +10,7 @@
  3. ABC - means elementary knowledge
  4. Apple of one's eye - means valuable things 
  5. Crocodile tears - artificial tears or hypocritical tears
- 6. A feather in one's cap - an honour 
+ 6. A feather in one's cap - an honor 
  7. A man of letters - a literary man
  8. Black sheep - unaccepted group member
  9. Copy cat - someone copies another

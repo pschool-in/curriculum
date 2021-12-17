@@ -20,7 +20,7 @@ Have you completed your homework *? (., !)*
 ```
 What a beautiful day *! (., ?)*
 How old are you *? (., !)*
-Alas *! (., ?)* My holidays are cancelled.
+Alas *! (., ?)* My holidays are canceled.
 My name is Sheena *. (?, !)*
 Oh my God *! (., ?)*
 ```
@@ -48,7 +48,7 @@ Non- exclamatory: What, How, When, Whom
 
 #### Fill in the blanks (fill with options) (label)
 
-Choose the correct punctuation. Tap on each blank for options. (title)
+Choose the correct punctuation. Click on each blank for options. (title)
 
 ```
 Mr. Tarak is a firefighter *. (!, ?)*
@@ -68,17 +68,17 @@ Are you coming to my house *? (., !)*
 
 ```
 My little brother is very annoying *. (!, ?)*
-Are you going to her farm house *? (., !)*
+Are you going to her farmhouse *? (., !)*
 I love drawing *. (?, !)*
 What is this *? (., !)*
-She comes late everyday *. (?, !)*
+She comes late every day *. (?, !)*
 ```
 
 ### Activities
 
 #### Fill in the blanks (fill with options) (label)
 
-Choose the correct option. Tap on each blank for options. (title)
+Choose the correct option. Click on each blank for options. (title)
 
 ```
 My name is *Reena (reena)*.
@@ -136,7 +136,7 @@ I am, I’m
 
 #### Fill in the blanks (fill with options) (label)
 
-Choose the correct option. Tap on each blank for options. (title)
+Choose the correct option. Click on each blank for options. (title)
 
 ```
 *I’m (Im’)* a student.
@@ -176,37 +176,37 @@ Dun’t, Amn’t, Not’ng
 
 ## Fill in the blanks (fill with options) (label)
 
-Choose the correct punctuation. Tap on each blank for options. (title)
+Choose the correct punctuation. Click on each blank for options. (title)
 
 ```
 I have my exams from November *, (., ?)* 21.
-He likes cricket, kho-kho, and hockey *. (,, ?)*.
+He likes cricket, kho-kho, and hockey *. (!, ?)*.
 January 31 *, (., ?)* 2024.
-May i come in *? (., ,)*
+May i come in *? (., !)*
 She carries lunch *, (., ?)* bottle, and bag to school.
 ```
 
 ```
 He will eat *, (., ?)* play, and complete his homework.
 She has a lot of notebooks, pens *, (., ?)* and pencils.
-I'm very good at racing and singing *. (?, ,)*
-Do you have a tape and a scissors *? (., ,)*
+I'm very good at racing and singing *. (?, !)*
+Do you have tape and scissors *? (., !)*
 I like eating bananas *, (., ?)* chocolates *, (., ?)* and apples.
 ```
 
 ```
-Today's date is November 22 *, (., ?)* 2022 *. (?, ,)*
-How old is your brother *? (., ,)*
+Today's date is November 22 *, (., ?)* 2022 *. (?, !)*
+How old is your brother *? (., !)*
 I love my mom *, (., ?)* my dad *, (., ?)* and my friends.
-My name is Rakesh *. (?, ,)*
-He is always late *. (?, ,)*
+My name is Rakesh *. (?, !)*
+He is always late *. (?, !)*
 ```
 
 ### Activities
 
 #### Fill in the blanks (fill with options) (label)
 
-Choose the correct punctuation. Tap on each blank for options. (title)
+Choose the correct punctuation. Click on each blank for options. (title)
 
 ```
 What is this *? (., !)*
@@ -228,19 +228,19 @@ What do you like *? (., !)*
 
 Insert the correct punctuation in the passage. (title)
 ```
-I saw a cat *. (, , !)* It had green eyes *, (., !)* brown fur *, (., !)* and small tail *. (,, !)* Do you know that cats like milk *? (., !)* I love cats *! (,, ?)* They are very cute *. (!, ?)*
+I saw a cat *. (?, !)* It had green eyes *, (., !)* brown fur *, (., !)* and small tail *. (?, !)* Do you know that cats like milk *? (., !)* I love cats *! (., ?)* They are very cute *. (!, ?)*
 ```
 
 ```
-My house is very clean *. (!, ?)* There are three rooms *, (., !)* a kitchen *, (., !)* and a bathroom *. (,, ?)* There are beautiful flowers in the garden *. (!, ?)* I love living in my house *. (?, !)* What is your house like *? (., !)*
+My house is very clean *. (!, ?)* There are three rooms *, (., !)* a kitchen *, (., !)* and a bathroom *. (!, ?)* There are beautiful flowers in the garden *. (!, ?)* I love living in my house *. (?, !)* What is your house like *? (., !)*
 ```
 
 ```
-My school is 20 minutes away from my home *. (,, ?)* I love going to school *. (,, !)* I meet all my friends there *. (!, ?)* My teachers are very helping *. (?, !)* My classroom is very big *, (., !)* clean *, (., ?)* and colorful *. (!, ?)*
+My school is 20 minutes away from my home *. (!, ?)* I love going to school *. (?, !)* I meet all my friends there *. (!, ?)* My teachers are very helpful *. (?, !)* My classroom is very big *, (., !)* clean *, (., ?)* and colorful *. (!, ?)*
 ```
 
 ```
-Do you like milk *? (., !)* I drink milk every morning *. (?, !)* It is good for our health *. (,, !)* Sometimes *, (., !)* I add chocolate flavour *, (., !)* sugar *, (., !)* in the milk *. (!, ?)*
+Do you like milk *? (., !)* I drink milk every morning *. (?, !)* It is good for our health *. (?, !)* Sometimes *, (., !)* I add chocolate flavour *, (., !)* sugar *, (., !)* in the milk *. (!, ?)*
 ```
 
 # References

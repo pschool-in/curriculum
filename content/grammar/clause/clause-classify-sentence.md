@@ -11,7 +11,7 @@ Dependent Clause
 Mahita bought some flowers *which she wanted to give her mother since morning*.
 He drove fast *so that he could reach the airport on time*.
 I don't know the reason *why she dislikes me*.
-The gardner said *that all the plants had been pruned neatly*. 
+The gardener said *that all the plants had been pruned neatly*. 
 I wondered *if she was free*.
 The boys *who misbehaved in the class* were suspended.
 This is the homework assignment *that you missed last week*.

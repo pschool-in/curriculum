@@ -5,10 +5,10 @@
 ```
 A sentence is usually a group of words connected to form a meaningful idea. Any written text is made up of a collection of sentences. Sentences can be classified into 4 types.
 # Declarative
-A declarative sentence simply makes a statement or expresses an opinion. It other words, it just declares something. This is the most common and frequently used type of sentence. eg:
+A declarative sentence simply makes a statement or expresses an opinion. In other words, it just declares something. This is the most common and frequently used type of sentence. eg:
 I am reading a book.
 # Imperative
-An  imperative sentence gives a command or makes a request. Usually in imperative sentences, the subject is hidden and understood. eg:
+An imperative sentence gives a command or makes a request. Usually, in imperative sentences, the subject is hidden and understood. eg:
 Please sit down.
 # Interrogative
 An interrogative sentence asks a question. It usually ends with a question mark. eg:
@@ -24,7 +24,7 @@ Wow! I really like it!
 `Every sentence has two parts: a subject and a predicate.
 The subject is what (or whom) the sentence is about.
 The predicate tells something about the subject.
-In the below sentences, the highlighted part is subject and the remaining is predicate.`,
+In the below sentences, the highlighted part is subject and the remaining is the predicate.`,
           {
             type: 'html',
             text: `eg: <br>
@@ -33,7 +33,7 @@ In the below sentences, the highlighted part is subject and the remaining is pre
 <b>It</b> is raining.<br>
 <b>I</b> like dogs.`
           },
-          `Subjects can be made up of more than one words too.`,
+          `Subjects can be made up of more than one word too.`,
           {
             type: 'html',
             text: `eg: <br>
@@ -46,7 +46,7 @@ In the below sentences, the highlighted part is subject and the remaining is pre
             text: `<b>My dad's cell phone ringtone</b> is funny.`
           },
           `The above sentence is not about 'dad' or 'cell phone'. It is about the ringtone. The other words are modifiers of 'ringtone'.
-Usually the subject comes at the beginning of a sentence, but sometimes it comes at the end.`,
+Usually, the subject comes at the beginning of a sentence, but sometimes it comes at the end.`,
           {
             type: 'html',
             text: `Out of the woods came <b>a tiger</b>.<br>
