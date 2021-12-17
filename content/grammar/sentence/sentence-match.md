@@ -1,6 +1,4 @@
-(subject-verb)
-
-### Match the following (label)
+### (sentence-4)
 
 Match the pairs to form correct sentences. (title)
 
@@ -8,7 +6,7 @@ Match the pairs to form correct sentences. (title)
 The flowers, smell lovely.
 My brother, is sleeping.
 You, are late.
-He is, playing.
+He, is playing.
 ```
 
 ```

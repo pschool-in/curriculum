@@ -1,4 +1,3 @@
-
 ## Find the Sentence
 
 ### (sentence)
@@ -125,9 +124,7 @@ Roy dreamt of a gigantic monster
 police investigated the criminals
 ```
 
-
 ### (sentence-2)
-
 
 ```
 the report was sent yesterday

@@ -32,9 +32,14 @@
 5. Find the Sentence (by connecting words)
 6. Classify Sentence Type
 
+TODO: right subject that goes with the predicate
+
 ## Subject Verb Agreement (sentence-4)
 
 1. Passage (TODO)
-2. Choose the puzzle piece that completes the sentence.
+2. completePuzzle - Choose the puzzle piece that completes the sentence.
 3. Little big sentence (sorting)
-4. Drag and drop: Fill the blanks with the appropriate word. (misc)
+4. Match the pairs to form correct sentences.
+5. Drag and drop: Fill the blanks with the appropriate word. (misc)
+
+TODO: right subject that goes with the predicate

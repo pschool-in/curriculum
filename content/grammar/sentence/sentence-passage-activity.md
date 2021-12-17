@@ -7,7 +7,7 @@ State whether the following statements are true or false. (title)
 ```
 True:
 Declarative sentences and statements are the same.
-Orders and commands come under imperative sentences.
+Orders and commands are called imperative sentences.
 'Please sit down.' is an imperative sentence.
 
 False:
@@ -25,8 +25,10 @@ Interrogative sentences always end with a question mark.
 False:
 Interrogative and imperative sentences are the same.
 Sentences are of 5 types.
-'What a pleasant day' is an interrogative sentence.
+'What a pleasant day!' is an interrogative sentence.
 ```
+
+# Draft
 
 # subject-verb
 
