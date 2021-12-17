@@ -1,6 +1,8 @@
  ## Simile or Not a simile
+
+ ### (simile)
  
- Identify whether the given sentence is a simile or not a simile
+ Classify whether the given sentence is a simile or not a simile
  
  ```
  Simile:
@@ -9,7 +11,7 @@
  She swims like a fish.
  
  Not a simile:
- You are are my sunshine.
+ You are my sunshine.
  My life is an open book.
  ```
  

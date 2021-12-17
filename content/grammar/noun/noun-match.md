@@ -19,7 +19,7 @@ tiger, tigress
 ```
 
 ```
-host , hostess
+host, hostess
 goddess, god
 stepson, stepdaughter
 maidservant, manservant

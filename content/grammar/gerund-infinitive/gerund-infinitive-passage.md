@@ -1,11 +1,13 @@
+### (gerund-infinitve)
+
 # The Gerund
-### Reading Notes
-Gerund is that form of the verb which ends in -ing and acts a noun and verb. Therefore Gerund is also called as Verb-noun. Gerund might be present either at the beginning, middle or at the end of the sentence. 
+## Reading Notes
+The gerund is that form of the verb which ends in -ing and acts as a noun and verb. Therefore gerund is also called a Verb-noun. Gerund might be present either at the beginning, middle or at the end of the sentence. 
 
 For example 
-1. *Swimming* is a very good exercise. 
-2. I like *reading* poetry. 
-3. I like *watching* TV.
+1. "Swimming" is a very good exercise. 
+2. I like "reading" poetry. 
+3. I like "watching" TV.
 
 (Hide For now)
 Gerund functions as a subject, object, object  of preposition, or subject complement.
@@ -40,7 +42,7 @@ Examples are
 
  ### Notes
 
-An infinitve is a verb that functions as a noun, adjective, or adverb in order to express an opinion, purpose of an object or action or answers the questions, who, what or why.
+An infinitive is a verb that functions as a noun, adjective, or adverb in order to express an opinion, purpose of an object or action or answers the questions, who, what or why.
 The infinitve usually begins with the word "to" and is followed by base form of the verb.
 
 Some examples of infinitive include 

@@ -37,9 +37,9 @@ A *forest* of trees
 
 ## Same Basket
 
-Drag and drop words, so that nouns of same group are together.
+Drag and drop words, so that nouns of the same group are together.
 
-Todo: This can done for lower grades
+Todo: This can be done for lower grades
 
 ### (noun-5)
 

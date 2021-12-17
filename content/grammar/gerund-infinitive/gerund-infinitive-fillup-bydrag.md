@@ -1,6 +1,8 @@
 ## Fill up (Drag and drop activity) 
 
-Complete each sentence using an appropriate gerund
+### (gerund-infinitve)
+
+ Fill in the blanks by moving the words given at the bottom.
 
 ```
 *Developing* the new software is taking longer than expected.
@@ -11,7 +13,7 @@ Studying and *completing* the assignment made Tarun tired and hungry.
 ```
 
 ```
-*Keeping* the school premises neat and tidy is the primary job of administrative department.
+*Keeping* the school premises neat and tidy is the primary job of the administrative department.
 I suggested *discussing* the matter in the next meeting.
 Mrs.Sharma is keen on *setting* up a restaurant nearby her place.
 Before *leaving*, Mrs.Reddy said goodbye to each of us.

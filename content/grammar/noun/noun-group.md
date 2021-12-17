@@ -2,7 +2,7 @@
 
 Classify Noun or Not
 
-Drop the words given at the botton in the right boxes.
+Drop the words given at the bottom in the right boxes.
 
 Noun
 

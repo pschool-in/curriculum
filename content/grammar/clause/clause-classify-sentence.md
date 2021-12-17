@@ -1,12 +1,14 @@
 
 ## Classify
 
-Identify the underlined part of the sentence as a dependent clause (DC) or independent clause (IC)
+### (clause)
+
+Classify the underlined part of the sentence as a dependent clause (DC) or independent clause (IC)
 
 Dependent Clause
 
 ```
-Mahita bought some flowers *which she wanted to give her mother*.
+Mahita bought some flowers *which she wanted to give her mother since morning*.
 He drove fast *so that he could reach the airport on time*.
 I don't know the reason *why she dislikes me*.
 The gardner said *that all the plants had been pruned neatly*. 

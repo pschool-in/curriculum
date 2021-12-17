@@ -14,13 +14,14 @@
 
 # Playlist
 
-## Simile (new alignment in js)
+## simile
 
 1. Passage
-2. Match
-3. Classify sentence
-4. select word
-5. Fill up (drag and drop)
+2. Fill up (drag and drop)
+3. select word
+4. Match
+5. Classify sentence
+ 
 
 
 
