@@ -6,7 +6,7 @@ Fill in the blanks with the appropriate form.
 
 ```
 Karthik didn't know what *to do (doing)* when the fire broke out. 
-Bhavya dreams about *studying (to study)* in Harvard University.
+Bhavya dreams about *studying (to study)* at Harvard University.
 Tired after work, my mother didn't like *cooking (cook)* her dinner.
 Few people could afford *to buy (buy)* a house as big as that.
 Arun admitted *leaving (leave)* the last question unanswered.
@@ -14,7 +14,7 @@ I offered *to help (help)* my friend.
 He admitted *stealing (steal)* the money from the purse.
 I would love *to come (coming)* with you to Hyderabad.
 At last, I managed *to finish (finish)* my work for the day.
-They practised *speaking (speak)* sanskrit.
+They practised *speaking (speak)* Sanskrit.
 ```
 
 ```
@@ -23,8 +23,8 @@ Mahesh recommended *writing (write)* down my own notes.
 Richa said she needed *to borrow (borrow)* some money from Deepthi.
 Mrs. Naidu didn't like *making (make)* promises that she knew she couldn't keep. 
 Sam decided *to take (take)* the test online.
-Priya really hates *studying (study)*.
-We stopped *to buy (buy)* a newspaper at the bus station.
+Priya hates *studying (study)*.
+We stopped *buying (to buy)* newspapers from the bus station.
 Mihir denied *breaking (break)* the porcelain cup.
 We were very excited *boarding (board)* the plane for the first time.
 She wanted *to buy (buy)* expensive sandals.
@@ -45,7 +45,7 @@ Tanish completed *painting (paint)* his flat.
 
 ```
 Tanvi refused *to help (help)* in the completion of the project.
-Everybody really enjoyed *dancing (dance)* to Bollywood beats.
+Everybody enjoyed *dancing (dance)* to Bollywood beats.
 Manish admitted *eating (to eat)* my chocolate cake.
 My mother demanded *to see (see)* the hotel manager.
 I tried *to understand (understand)* but I just couldn't.

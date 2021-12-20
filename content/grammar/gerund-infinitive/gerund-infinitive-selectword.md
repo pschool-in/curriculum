@@ -9,7 +9,7 @@ Identify the gerund in each sentence
 Gaurav avoids *driving* on highways as much as possible.
 Grandma enjoyed *meeting* new people.
 Kavitha has developed an interest in *cooking*.
-My mother says *eating* fresh vegetables is good for health. 
+My mother says *eating* fresh vegetables are good for health. 
 She likes *painting*.
 My mom is always been afraid of *flying*.
 *Swimming* is a good exercise.

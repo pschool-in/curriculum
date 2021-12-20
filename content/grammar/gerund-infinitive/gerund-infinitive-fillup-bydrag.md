@@ -6,7 +6,7 @@
 
 ```
 *Developing* the new software is taking longer than expected.
-*Reading* motivational stories keeps Amit busy in the afternoon.
+*Reading* motivational stories keep Amit busy in the afternoon.
 Studying and *completing* the assignment made Tarun tired and hungry.
 *Sunbathing* helps the body absorb vitamin D.
 *Singing* in front of the crowd made Neha a bit nervous.

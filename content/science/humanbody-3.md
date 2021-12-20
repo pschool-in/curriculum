@@ -298,3 +298,22 @@ Toothbrush, toothpaste
 Rotting, loose teeth
 Infection, pus
 ```
+*****************************************************************************************************************************************************************************
+# Humanbody-3 (new activities)
+
+## Sense Organs (Connect words)
+```
+They help us to see the things around us.| EYES
+We are able to hear the sounds around us with the help of ____.| EARS
+____ helps us to breathe.| NOSE
+______ helps our to enjoy our food.| TONGUE
+____ is the largest organ as it is located throughout our body.| SKIN
+```
+## Parts of the Body (Complete words)
+```
+The chest, abdomen and back together make up the ____.| TORSO| T___O
+The fingers are part of the ___.| HAND| H___
+Toes are part of the ___.| FOOT| F___
+The teeth we get when we are small are called ____ teeth.| MILK| M___
+Our ________ tells us that something is hot.| SKIN| S___
+```

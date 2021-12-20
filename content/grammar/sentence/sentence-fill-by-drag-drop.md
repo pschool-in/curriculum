@@ -1,6 +1,6 @@
 ### (sentence-2)
 
-Drag and drop the sentence types at right places.
+Drag and drop the sentence types at the right places.
 
 ```
 What an amazing experience! *Exclamatory*

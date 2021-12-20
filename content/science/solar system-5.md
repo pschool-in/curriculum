@@ -265,4 +265,22 @@ waxing moon, waning moon, tithi
 What is the period from one full moon to the next new moon called?
 waning moon, lunar eclipse, waxing moon
 ```
+*******************************************************************************************************************************************************************************
+# Solar system - 5 (new activities)
 
+## Planets (complete word)
+```
+The planets nearer to the sun are very ___. |HOT| _O_
+The planets away from the sun are very ____. | COLD| C___
+_____ is called Earth’s twin.| VENUS| _E_U_
+____ is described as the Red planet. |MARS| _A_S
+Earth is called the _____ planet.|BLUE| _L__
+```
+## Earth (complete word)
+```
+The motion of Earth around itself.| ROTATION| R___T__N
+The motion of Earth around the sun.| REVOLUTION| _E__L___O_
+The imaginary line on which Earth rotates. | AXIS OF ROTATION| A_I_ O_ R_T___O_
+The imaginary circle that divides Earth into two equal parts.| EQUATOR| E___T__
+Every day of lunar month.|TITHI| _I__I
+```

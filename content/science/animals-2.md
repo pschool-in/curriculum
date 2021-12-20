@@ -805,3 +805,32 @@ White, rare species
 Green, formerly endangered
 
 ```
+*****************************************************************************************************************************************************************************
+# Animals-3 (new activities)
+
+## Shelters (complete-word)
+```
+A bird lives in a _____. | NEST| N__T
+A honeybee lives in a ____________.| HONEYCOMB| H__E_C__B
+A rat lives in a ______.| HOLE| H___
+A lion lives in a ____.| DEN| D__
+A leopard lives in a ______.| CAVE| _A_E
+```
+## Connect words 
+```
+A cow lives in a ______. |SHED
+The shelter for _____ is called chicken coop.| HENS
+They use grass , straws and twigs to build their nest.| BIRDS
+A stable is built for a ______.| HORSE
+A cobra lives in a ______. | HOLE
+```
+## Who am I? (Complete word)
+```
+I have strong, sharp, curved beak to catch prey and tear its flesh.| EAGLE| _A__E
+I have 2 toes in front and 2 at the back. My claws are long and curved. Who am I?| WOODPECKER| W__D__C__R
+I have webbed feet with a little toe at the back. Who am I? | DUCK| D___
+I have 8 arms and I live in the sea. Who am I?| OCTOPUS| O__O___
+I am a bird but I cannot fly. I can swim very well. Who am I?| PENGUIN| P__G___
+I am the largest animal in the sea. Who am I?| WHALE| W__L_
+I have wings but I am not a bird. Who am I?| BUTTERFLY| B__T__F__
+```

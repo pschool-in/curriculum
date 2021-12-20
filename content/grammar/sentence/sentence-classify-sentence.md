@@ -99,7 +99,7 @@ Snow is white.
 
 India won the match.
 Ram is a brave fighter.
-God is love.
+I have faith in God.
 I am a student.
 
 The sun rises in the east.
@@ -107,26 +107,26 @@ Leaves are green in color.
 Today is a holiday.
 
 These grapes are sour.
-Hen lays eggs.
+Hens lay eggs.
 He is a popular singer.
 
 Books are kept on the table.
 Children are playing in the garden.
 She is a very clever girl.
-My favourite colour is yellow.
+My favorite color is yellow.
 
 London is the capital of England.
 I want to know where he is.
 Ashok was working at night.
 
-There is no life in any other planets.
+There is no life on any other planets.
 The teacher asked us to form a circle.
 The Principal knows every student in our school.
 
 Julie is a really smart girl.
 New Delhi is the capital of India.
 Flowers in the garden are well maintained.
-Mother had gone to office.
+Mother had gone to the office.
 
 The boy crossed the road safely.
 Priya likes the diamond ring.
@@ -157,7 +157,7 @@ Pass the bag.
 Go now!
 
 Don’t sit there!
-Don’t forget your homework.
+Don't forget to complete your homework.
 Pass the salt.
 
 Wait for me.
@@ -165,15 +165,15 @@ Give me some water.
 Close the window!
 Enjoy your dinner.
 
-Kindly, have your food on time.
+Kindly, eat your food on time.
 Show me your marks.
-Sanitise your hands.
+Sanitize your hands.
 
 Be careful while crossing the road.
 Help each other.
-Everybody look at him.
+Everybody, look at him.
 
-You keep out of this.
+You stay out of this.
 Somebody answer the phone.
 Do forgive me.
 Let the dance begin.
@@ -221,7 +221,7 @@ Was it late yesterday to home?
 Were they on leave for a week?
 Was he writing an email?
 
-Is she a classic dancer?
+Is she a classical dancer?
 Have you completed your homework?
 Has he submitted the assignment?
 
@@ -242,7 +242,7 @@ Fruits and vegetables are good for health.
 Father came to school yesterday.
 
 John got a new watch as his birthday gift.
-Taylor is punctual everyday.
+Taylor is punctual every day.
 My pet parrot is sleeping on the couch.
 
 I watched TV and forgot the homework.
@@ -250,10 +250,10 @@ John brushes his teeth twice a day.
 Papers are torn by the child.
 
 
-Table lamp was on all day.
-She is a humble girl and never wear costly dresses.
+The table lamp was on all day.
+She is a humble girl and never wears costly dresses.
 Food was spoiled because it was kept open all day.
-Teacher is so strict and won't excuse even small mistakes.
+The teacher is so strict and won't excuse even small mistakes.
 
 John wakes up early in the morning.
 There was heavy rain in the morning.
@@ -273,7 +273,7 @@ Stop feeding the dog from the table.
 Please consider my opinion.
 
 Go straight ahead and take the second left.
-Don't eat too much of junk food.
+Don't eat too much junk food.
 Get out of my sight.
 Don't touch without washing your hands.
 
@@ -281,7 +281,7 @@ Nobody can stop the time.
 Stop biting your fingernails.
 Stop blabbering in front of people.
 
-Have grit to solve the problems.
+Have the grit to solve the problems.
 Hand me the file.
 Be there at 8’0 clock.
 
@@ -294,7 +294,7 @@ Wash your clothes.
 Interrogative
 
 ```
-Had they reached home on time?
+Did they reach home on time?
 Who will raise the flag on important occasions?
 Does she have difficulties in maths?
 Do you want to come for the tour?
