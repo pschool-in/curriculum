@@ -285,3 +285,22 @@ Identify what will sink and float in water. (title)
 Sink: Sand, Turmeric powder, Mud, Eraser, Stone
 Float: Leaves, Thin stick, Pencil, Flower, Paper
 ```
+**************************************************************************************************************************************************************************
+# Water -3 (new activities)
+
+## Water Cycle (Complete word).
+```
+Continuous movement of water from the Earth to the atmosphere and back to the Earth.|WATER CYCLE | W_T__ _Y__E
+The process in which water is changed into water vapour by the heat of the sun.|EVAPORATION| E____R____N
+The process of converting water vapour into water on cooling.|CONDENSATION|C___E___T___
+The water droplets join together to form _____.| CLOUDS| C___D_
+```
+## Water Sources (complete word)
+```
+Made on the banks of river to save water.| BUNDS| B____
+Responsible for water availability across the city.| PIPES| P_P__
+Extracts ground water through motors.| BOREWELL| B_R__E__
+Free drinking water on roadsides.|PANPOI|P__P__
+Stores water as well as generates energy.|DAMS| D___
+Most common storage in big buildings.|TANKS|T___S
+```
