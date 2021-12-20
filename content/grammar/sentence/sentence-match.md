@@ -6,7 +6,7 @@ Match the pairs to form correct sentences. (title)
 The flowers, smell lovely.
 My brother, is sleeping.
 You, are late.
-He, is playing.
+He, plays well.
 ```
 
 ```

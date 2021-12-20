@@ -31,7 +31,7 @@ Ram is *a pilot*.
 An object (O) is the receiver of an action.
 
 ```
-I read *newspaper*.
+I read the *newspaper*.
 Sarah ate *cake*.
 ```
 

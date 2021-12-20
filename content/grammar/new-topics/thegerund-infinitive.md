@@ -16,13 +16,13 @@ For example
 ## Uses of gerund: 
 Gerund can be used as a 
 
-### subject of verb
+### The subject of verb
  Examples are
  1. *Walking* is good exercise for health.
- 2. *Reading* books increases your knowledge.
+ 2. *Reading* books increase your knowledge.
  3. *Working* hard makes you successful.
 
-### Object of verb
+### The object of verb
 Examples are
 1. He dislike *sleeping* long.
 2. I hate *telling* lies.
@@ -48,7 +48,7 @@ Examples are
  
  ### Notes
 
-An infinitve is a verb that functions as a noun, adjective, or adverb in order to express an opinion, purpose of an object or action or answers the questions, who, what or why.
+An infinitve is a verb that functions as a noun, adjective, or adverb in order to express an opinion, purpose of an object or action or answers the questions, who, what, or why.
 The infinitve usually begins with the word "to" and is followed by base form of the verb.
 
 Some examples of infinitive include 

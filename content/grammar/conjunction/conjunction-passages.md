@@ -53,7 +53,7 @@ Either/or, both/and, whether/or, neither/nor, not only/but also.
 2. He was _both_ honest _and_ talented.
 3. I didn't know _whether_ he will come _or_ not.
 4. He is _neither_ tall _nor_ short.
-5. _Not only_ he came late, _but also_ he forgot the gift.
+5. _Not only_ did he come late _but also_ he forgot the gift.
 
 # Draft
 

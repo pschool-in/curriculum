@@ -59,7 +59,7 @@ Geeta and Gopal *are friends.*
 Her dress *is beautiful.*
 Tommy *is a dog.*
 The water *is very cold.*
-They are *buying gifts.*
+They *are buying gifts.*
 The drama *was funny.*
 ```
 

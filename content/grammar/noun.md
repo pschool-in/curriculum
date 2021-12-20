@@ -22,7 +22,7 @@ city, dog, pencil
 
 ### Abstract Noun
 
-An abstract noun is a noun which refers to ideas, qualities, and conditions -
+An abstract noun is a noun that refers to ideas, qualities, and conditions -
 things that cannot be seen or touched. eg: beauty, time, truth, danger,
 
 ### Collective Noun

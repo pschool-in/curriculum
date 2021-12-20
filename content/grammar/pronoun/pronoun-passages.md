@@ -2,16 +2,9 @@
 
 Introduction to Pronoun
 
-Priyanka is a good girl. Priyaka lives near our school. Priyanka comes to school
-walking.
-
-In the above paragraph, the word Priyanka is repeated multiple times. To avoid
-repeating the noun, we use pronoun.
-
-Priyanka is a good girl. She lives near our school. She comes to school walking.
-
-Pronouns are used in the place of noun.
-
+Priyanka is a good girl. Priyanka lives near our school. Priyanka comes to school walking.
+In the above paragraph, the word 'Priyanka' is repeated multiple times. To avoid repeating the noun, we use a pronoun.
+Priyanka is a good girl. She lives near our school. She comes to school walking. Pronouns are used in the place of a noun.
 Some of the commonly used pronouns are:
 
 I, me, he, she, it, we, us, they, them, these, those, you, your
@@ -20,7 +13,7 @@ I, me, he, she, it, we, us, they, them, these, those, you, your
 
 Personal Pronoun
 
-Pronoun used in the position of name, place or thing is called personal pronoun.
+Pronouns used in the position of name, place, or thing is called personal pronoun.
 
 First Person:
 
@@ -112,11 +105,7 @@ He went to the market by *himself*.
 
 Emphatic Pronouns
 
-They are used to put emphasis on the subject. So usually they follow the
-subject.
-
-This is very similar to reflexive pronoun. But the difference is, if we remove
-the emphatic pronoun, the sentence will still be meaningful.
+They are used to emphasize the subject. So usually they follow the subject. This is very similar to a reflexive pronoun. But the difference is, if we remove the emphatic pronoun, the sentence will still be meaningful.
 
 ```
 She *herself* cooked the food.

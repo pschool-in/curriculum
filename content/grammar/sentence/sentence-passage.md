@@ -24,12 +24,12 @@ Wow! I really like it!
 `Every sentence has two parts: a subject and a predicate.
 The subject is what (or whom) the sentence is about.
 The predicate tells something about the subject.
-In the below sentences, the highlighted part is subject and the remaining is the predicate.`,
+In the below sentences, the highlighted part is the subject and the remaining is the predicate.`,
           {
             type: 'html',
             text: `eg: <br>
 <b>John</b> plays cricket.<br>
-<b>Rabbits</b> like carrot.<br>
+<b>Rabbits</b> like carrots.<br>
 <b>It</b> is raining.<br>
 <b>I</b> like dogs.`
           },

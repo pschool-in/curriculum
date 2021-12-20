@@ -5,7 +5,7 @@
 ### Parts of Speech
 
 A sentence is made up of words. Each word does a function to make the sentence
-work. How the word function in a sentence can be classified into eight types.
+work. How the word functions in a sentence can be classified into eight types.
 They are known as parts of speech.
 
 ### Noun
@@ -46,7 +46,7 @@ An interjection is a word used to express emotion. eg: oh!, wow!, oops!
 
 ### Context
 
-Same word can perform different functions in different sentences.
+The same word can perform different functions in different sentences.
 
 Stones are hard to break. - Noun They built a stone wall. - Adjective
 

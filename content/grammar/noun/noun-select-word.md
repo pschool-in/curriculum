@@ -89,7 +89,7 @@ I live in *Canada.*
 His uncle lives in *France.*
 These paintings are done by *Usha.*
 The carpenter went to *Mark's* house.
-Seetha got chocolates from the *United States.*
+She got chocolates from the *United States.*
 My favorite cartoon is *Shin Chan.*
 I was born in *April.*
 *Geetha* is happy with her birthday presents.

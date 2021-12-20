@@ -81,5 +81,5 @@ What, Who, Whom, Which, Whose
 Possessive
 
 ```
-His, Her, Mine, Yours, Ours
+His, Hers, Mine, Yours, Ours
 ```

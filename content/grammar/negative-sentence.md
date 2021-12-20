@@ -19,8 +19,8 @@ The jug has no water.
 The jug is empty.
 ```
 
-The first sentence is known as negative sentence and the second sentence is
-known as positive sentence.
+The first sentence is known as a negative sentence and the second sentence is
+known as a positive sentence.
 
 ### some vs any
 
@@ -36,7 +36,7 @@ Would you like some tea?
 We use 'any' when asking a question.
 
 ```
-Do you have any pen?
+Do you have any pens?
 ```
 
 ### Contractions

@@ -17,7 +17,7 @@ What is that *noise* ?
 In this sentence, the word noise is a concrete noun because we can hear it.
 
 Another example is;
-You need *patience* to read a *book*.
+You need the *patience* to read a *book*.
 In this sentence, patience is an abstract noun because it is not physically present. On the other hand, the book is a concrete noun because we can see, touch and feel it.
 
 Some more examples of concrete nouns are:

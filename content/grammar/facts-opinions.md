@@ -80,7 +80,7 @@ No one can hit six like Dhoni.
 I think it will rain tomorrow.
 I like dogs more than cat.
 
-I think, the teacher doesn't like me.
+I think the teacher doesn't like me.
 Arun is the best math teacher in the whole world.
 It may rain tomorrow.
 He may be fifty years old.
