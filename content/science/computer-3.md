@@ -183,6 +183,22 @@ The *left* mouse button is used to point to any menu tool, icon, or for the sele
 The *scroll* button is used to scroll the page up and down.
 The *right* mouse button is used to invoke the shortcut menu.
 ```
+******************************************************************************************************************************************************************************
+# (NEW ACTIVITIES)
 
-
-
+## Who am I? (Complete word)
+```
+It is the brain of the computer.|CPU| _P_
+It is used to pick items on the screen.|MOUSE| _O__E
+It has keys that we use to type numbers and letters.|KEYBOARDS| K_Y__A__S
+It acts as a display screen.| MONITOR| M_N__O_
+It lets you hear the sounds from a computer.|SPEAKER| S___K__
+```
+## Shortcuts (Connect)
+```
+______ key is used to finish a line and move to the next line on the page.|ENTER
+The ______ key is a modifier key present on both sides of the keyboard.|SHIFT
+The ______ mouse button is used to point to any menu tool, icon, or for the selection of text.|LEFT
+The ______ button is used to scroll the page up and down.|SCROLL
+The ______ mouse button is used to invoke the shortcut menu.|RIGHT
+```
