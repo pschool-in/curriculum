@@ -1,0 +1,24 @@
+{
+  "window.zoomLevel": 1,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.jsxBracketSameLine": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.proseWrap": "always",
+  "files.associations": {
+    "*.pschool": "json"
+  },
+  "git.ignoreWindowsGit27Warning": true,
+  "prettier.enable": true,
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.inactiveBackground":"#dee200",
+    "titleBar.inactiveForeground": "#ffffff"
+  }
+}

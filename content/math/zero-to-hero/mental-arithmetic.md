@@ -273,8 +273,8 @@ xxx-x+x
 xxx-x-x
 xxx-100+x
 xxx+100-x
-1000+x0-x
-1000+x00-x
+x000+x0-x
+x000+x00-x
 
 
 xxx+x0-x0  (arithmetic-5)
