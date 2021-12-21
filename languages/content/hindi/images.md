@@ -1,7 +1,9 @@
 https://pschpsch.netlify.app/author/images
 
 # animals जानवर
+
 level-1
+
 ```
 cat| बिल्ली
 dog| कुत्ता
@@ -41,7 +43,9 @@ cheetah|
 cow|गाय
 donkey|गधा
 ```
+
 level-2
+
 ```
 giraffe|
 kangaroo|कंगेरू
@@ -88,7 +92,9 @@ stingray|
 ```
 
 # birds पक्षी
+
 level-1
+
 ```
 crow|कौआ
 dove| कबूतर
@@ -109,7 +115,9 @@ owl| उल्लू
 rooster| मुर्गा
 vulture | गिद्ध
 ```
+
 level-2
+
 ```
 woodpecker|कठफोड़वा
 hornbill|
@@ -132,11 +140,13 @@ turkey|
 hawk|बाज
 cardinal|
 parakeet|
-macaw|
+macow|
 ```
 
 # fruits फल
+
 level-1
+
 ```
 apple| सेब
 grapes| अंगूर
@@ -158,7 +168,7 @@ plum| आलूबुखारा
 dates| खजूर
 muskmelon| खरबूज
 star-fruit| कमरख
-dragon-fruit| पिताया 
+dragon-fruit| पिताया
 passion-fruit| कृष्णा फल
 sugarcane|ईख
 peach|सतालू
@@ -173,7 +183,9 @@ blueberry |नीलबदरी
 ```
 
 # vegetables सब्जि
+
 level-1
+
 ```
 carrot| गाजर
 beetroot| चुकंदर
@@ -196,7 +208,9 @@ cashewnut| काजू
 chilli| हरी मिर्च
 coconut| नारियल
 ```
+
 level-2
+
 ```
 corianderleaf| धनिया पत्ता
 curryleaf| करी पत्ता
@@ -227,12 +241,14 @@ raw-banana|
 tulsi|तुलसी
 bottlegourd|लौकी
 ivygourd|कुंदरू
-ridgegourd|तुरई 
+ridgegourd|तुरई
 vegetables|सब्जियां
 ```
 
 # flowers पुष्प
+
 level-2
+
 ```
 rose | गुलाब
 lotus | कमल
@@ -240,7 +256,7 @@ sunflower | सूर्यमुखी
 marigold | गेंदा
 hibiscus | गुडहल
 mogra| मोगरा
-tulip| 
+tulip|
 zinnia|
 daffodil| नरगिस
 gulmohar|गुलमोहर
@@ -254,7 +270,9 @@ water-lily|नीलकमल
 ```
 
 # vehicles वाहन
+
 level-2
+
 ```
 aeroplane| हवाईजहाज
 boat| नाव
@@ -277,8 +295,11 @@ bulldozer|
 rocket|
 submarine|
 ```
+
 # house मकान
+
 level-1
+
 ```
 man| आदमी
 woman| औरत
@@ -316,7 +337,9 @@ handbag|
 ```
 
 # dress पोशाक
+
 level-1
+
 ```
 dress|
 coat|
@@ -333,8 +356,11 @@ jacket|
 hat|टोपी
 trousers|पतलून
 ```
+
 # school विद्यालय
+
 level-2
+
 ```
 eraser| रबड़
 pen| कलम
@@ -352,13 +378,15 @@ ink|स्याही
 ```
 
 # kitchen रसोईघर
+
 level-1
+
 ```
 stove| चूल्हा
 fork| कांटा
 knife| छुरी
 pan| कड़ाही
-spoon | चम्मच 
+spoon | चम्मच
 pot| मटका
 butter| मक्खन
 plate|थाली
@@ -389,7 +417,9 @@ soup|
 ```
 
 # gadgets
+
 level-2
+
 ```
 camera|
 headphone|
@@ -403,7 +433,9 @@ web-camera|
 ```
 
 # bodyParts शरीर के अंग
+
 level-1
+
 ```
 ear| कान
 eye| आँख
@@ -414,8 +446,11 @@ mouth| मुँह
 nose| नाक
 tooth| दांत
 ```
+
 # tools उपकरण
+
 level-2
+
 ```
 axe| कुल्हाडी
 balance| तराज़ू
@@ -452,7 +487,9 @@ xylophone|
 ```
 
 # jobs नौकरियां
+
 level-2
+
 ```
 astronaut|अंतरिक्ष यात्री
 clown|
@@ -475,8 +512,11 @@ soldier|सैनिक
 barber|नाई
 washerman|धोबी
 ```
+
 # nature प्रकृति
+
 level-1
+
 ```
 sun| सूर्य
 moon| चांद
@@ -494,7 +534,9 @@ rainbow|इंद्रधनुष
 ```
 
 # others अन्य
+
 level-1
+
 ```
 ring| अंगूठी
 brush| कूंचा
@@ -514,23 +556,25 @@ wheel| चक्का
 whistle| सीटी
 yazl|
 ```
+
 level-2
+
 ```
 bullock-cart|बैलगाड़ी
 warrior|योद्धा
 knight|क्षत्रिय
 chariot|रथ
 park|बाग
-garden|उद्यान 
+garden|उद्यान
 horse-carriage|घोड़ागाड़ी
 touch-me-not|छुई मुई
 yagna|यज्ञ
 yarn-ball |ऊन
-bow| धनुष 
+bow| धनुष
 arrow| बाण
 fountain|
 pouch|थैली
-top|लट्टू 
+top|लट्टू
 hexagon|षटकोण
 trident|त्रिशूल
 damaru|डमरू
@@ -548,4 +592,3 @@ toothpaste|
 box|डिब्बा
 coin|सिक्का
 ```
-

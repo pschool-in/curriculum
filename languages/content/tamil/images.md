@@ -6,7 +6,6 @@
 cat, பூனை
 dog, நாய்
 goat, ஆடு
-sheep, செம்மறி ஆடு
 horse, குதிரை
 pig, பன்றி
 elephant, யானை
@@ -14,7 +13,6 @@ lion, சிங்கம்
 monkey, குரங்கு
 tiger, புலி
 fox, நரி
-zebra, வரிக்குதிரை
 bear, கரடி
 camel, ஒட்டகம்
 fish, மீன்
@@ -30,16 +28,20 @@ donkey, கழுதை
 giraffe, ஒட்டகச்சிவிங்கி
 mosquito, கொசு
 fly, ஈ
+earthworm, மண்புழு
 ant, எறும்பு
 lizard, பல்லி
 rabbit, முயல்
 cockroach, கரப்பான் பூச்சி
 antelope, மான்
 spider, சிலந்தி
+zebra, வரிக்குதிரை
+```
+
+## level 2
 
 ```
-## level 2
-```
+sheep, செம்மறி ஆடு
 hippo, நீர்யானை
 rhino, காண்டாமிருகம்
 crocodile, முதலை
@@ -56,7 +58,7 @@ mongoose, கீரிப்பிள்ளை
 octopus, ஆக்டோபஸ்
 wolf, ஓநாய்
 garden-lizard, ஓணான்
-alligator, 
+alligator,
 boar, காட்டுப் பன்றி
 cricket,
 hyena, கழுதைப் புலி
@@ -73,16 +75,16 @@ chameleon, பச்சோந்தி
 pocupine, முள்ளம்பன்றி
 bee, தேனீ
 goldfish, தங்கமீன்
-jellyfish, 
+jellyfish,
 tigerfish,
-ladybug, 
+ladybug,
 seahorse, கடற்குதிரை
 hamster, வெள்ளெலி
-mole, 
+mole,
 caterpillar, கம்பளிப்பூச்சி
 panda, பாண்டா
 starfish, நட்சத்திர மீன்
-earthworm, மண்புழு
+
 hedgehog, முள்ளெலி
 stingray, திருக்கை மீன்
 ```
@@ -98,29 +100,32 @@ duck, வாத்து
 hen, கோழி
 parrot, கிளி
 peacock, மயில்
-sparrow, சிட்டுக்குருவி
-chick, கோழிக்குஞ்சு
 crane, கொக்கு
 goose, வாத்து
 rooster, சேவல்
+cuckoo, குயில்
+eagle, கழுகு
+myna, மைனா
+owl, ஆந்தை
 ```
+
 ## level 2
+
 ```
 kingfisher, மீன் கொத்தி
-myna, மைனா
+chick, கோழிக்குஞ்சு
 ostrich, நெருப்புக்கோழி
-owl, ஆந்தை
-vulture, கழுகு
+vulture
 wood-pecker, மரங்கொத்தி
-cuckoo, குயில்
+sparrow, சிட்டுக்குருவி
 falcon, பருந்து
 swan, அன்னப்பறவை
 spotted-dove, மணிப்புறா
-robin, கருஞ்சிட்டு
-seagull, கடற்பறவை
+robin
+seagull
 turkey, வான்கோழி
-hawk, பருந்து
-parakeet, பெரிய பச்சைக்கிளி
+hawk,
+parakeet
 penguin
 bulbul,
 flamingo,
@@ -130,11 +135,13 @@ humming-bird,
 swallow
 blue-jay,
 canary,
-pheasant, 
+pheasant,
 cardinal,
+macaw, பஞ்சவர்ணக்கிளி
 ```
 
 # பழங்கள்
+
 ## level 1
 
 ```
@@ -149,35 +156,41 @@ papaya, பப்பாளி
 pineapple, அன்னாசிப்பழம்
 pomegranate, மாதுளை
 watermelon, தர்பூசணி
-custard-apple, சீதாப்பழம்
 sugarcane, கரும்பு
 ```
+
 ## level 2
+
 ```
+wood-apple, விளாம்பழம்
+gooseberry, நெல்லிக்காய்
+lemon, எலுமிச்சம்
+custard-apple, சீதாப்பழம்
 dates, பேரிச்சம்பழம்
-sweet-potato,  சர்க்கரை வள்ளி கிழங்கு 
+sweet-potato,  சர்க்கரைவள்ளி கிழங்கு
 jamun, நாவல் பழம்
-pear, பேரிக்காய் 
+pear, பேரிக்காய்
 jujube, இலந்தைப்பழம்
 sapotta, சப்போட்டா
 tapioca, மரவள்ளிக்கிழங்கு
 fig, அத்திப்பழம்
-water-chesnut, 
+water-chesnut,
 blueberry
 cherry
 avocado,
 strawberry
 plum,
-muskmelon,
+muskmelon, முலாம்பழம்
 star-fruit,
 dragon-fruit
-passion-fruit, 
-peach, 
+passion-fruit,
+peach,
 ```
 
 # காய்கறிகள்
 
-## level 1                
+## level 1
+
 ```
 carrot, காரட்
 beetroot, பீட்ரூட்
@@ -186,48 +199,43 @@ tomato, தக்காளி
 potato, உருளைக்கிழங்கு
 cabbage, முட்டைகோசு
 raw-banana, வாழைக்காய்
-cauliflower, காலிப்பிளார்
 garlic, பூண்டு
 ginger, இஞ்சி
-beans, பீன்ஸ்
+radish, முள்ளங்கி
 bitter-gourd, பாகற்காய்
 brinjal, கத்திரி
 chilli, பச்சைமிளகாய்
 coconut, தேங்காய்
-radish, முள்ளங்கி
 ladies-finger, வெண்டைக்காய்
 drumstick, முருங்கைக்காய்
-greenpeas, பச்சை பட்டாணி
-peanut, வேர்க்கடலை
+tamarind, புளி
+mushroom, காளான்
 curryleaf, கருவேப்பிலை
 corianderleaf, கொத்தமல்லி
 mintleaf, புதினா
 spinach, கீரை
-fenugreek, வெந்தயக்கீரை
-drumstick-leaves, முருங்கைக்கீரை
 tulsi, துளசி
-mustard-greens 
+mustard-greens
 turmeric, மஞ்சள்
-turnip, 
-tamarind, புளி
-elephant-yam, சேனைக்கிழங்கு
-mushroom, காளான்
+turnip,
+
 
 ```
 
 ## level 2
+
 ```
 chickpea, கொண்டைக்கடலை
 almond, பாதாம்
 cashewnut, முந்திரி
-pumpkin, பரங்கிக்காய் 
+pumpkin, பரங்கிக்காய்
 capsicum, குடைமிளகாய்
 cucumber, வெள்ளரிக்காய்
 corn, மக்காச்சோளம்
-broad-beans, அவரைக்காய் 
-ashgourd, பூசணிக்காய் 
+broad-beans, அவரைக்காய்
+ashgourd, பூசணிக்காய்
 ridgegourd, பீர்க்கங்காய்
-banana-flower, வாழைப்பூ 
+banana-flower, வாழைப்பூ
 bottlegourd, சுரைக்காய்
 ivygourd, கோவைக்காய்
 kohlrabi, நூல்கோல்
@@ -235,11 +243,19 @@ snake-gourd, புடலங்காய்
 spring-onion, வெங்காயத்தாள்
 banana-stem, வாழைத்தண்டு
 cluster-beans, கொத்தவரங்காய்
+cauliflower, காலிப்பிளார்
+beans, பீன்ஸ்
+fenugreek, வெந்தயக்கீரை
+drumstick-leaves, முருங்கைக்கீரை
+elephant-yam, சேனைக்கிழங்கு
+greenpeas, பச்சை பட்டாணி
+peanut, வேர்க்கடலை
 ```
 
 # பூக்கள்
 
 ## level 1
+
 ```
 rose, ரோஜா
 lotus, தாமரை
@@ -248,6 +264,7 @@ hibiscus, செம்பருத்தி
 mogra, குண்டு மல்லி
 jasmine, முல்லை
 ```
+
 ## level 2
 
 ```
@@ -268,6 +285,7 @@ daisy,
 # வாகனங்கள்
 
 ## level 1
+
 ```
 bus, பேருந்து
 car, மகிழுந்து
@@ -278,22 +296,25 @@ helicopter, வானூர்தி (not right)
 bullock-cart, மாட்டு வண்டி
 motorbike,
 ship, கப்பல்
-auto, 
+auto,
 train, தொடர்வண்டி
 ```
+
 ## level 2
+
 ```
 ambulance, அவசர ஊர்தி
 tractor, இழுவை இயந்திரம்
 cart, கட்டை வண்டி
 fire-engine, தீயணைப்பு வாகனம்
 lorry, சரக்குந்து
-bulldozer, 
+bulldozer,
 rocket, ஏவுகனை
 submarine, நீர்மூழ்கிக் கப்பல்
 excavator,
 van
 ```
+
 # house
 
 ```
@@ -308,6 +329,7 @@ boy, சிறுவன்
 girl, சிறுமி
 man, ஆண்
 ```
+
 ```
 woman, பெண்
 ball, பந்து
@@ -327,7 +349,7 @@ sofa, நீள் சாய்வு இருக்கை
 bucket, வாளி
 toilet, கழிப்பறை
 soap, சவர்க்காரம்
-washing-machine, துணி துவைக்கும் இயந்திரம்
+washing-machine,
 backpack,
 pillow,தலையணை
 basket, கூடை
@@ -336,19 +358,11 @@ bed-lamp,
 handbag,
 
 ```
-# dress
-## level 1
 
-```
-pyjama, இரவு உடுப்பு
-gloves, கையுறைகள்
-scarf, கழுத்துத்துண்டு
-sweater, கம்பளிச்சட்டை
-coat, மேலங்கி
-shoe, காலணி 
-bib,
-```
+# dress
+
 ## level 2
+
 ```
 shoe, காலணி
 shirt, சட்டை
@@ -356,22 +370,31 @@ hat, தொப்பி
 trousers, கால்சட்டை
 dress, உடை
 sock,காலுறை
+coat, மேலங்கி
+
+pyjama,
+gloves,
+scarf,
+sweater,
+bib,
 ```
 
 # School
 
-## level 1
+## level 2
+
 ```
-eraser, அழிப்பான்
+
 pen, பேனா
 pencil, எழுதுகோல்
 ruler, அளவுகோல்
+eraser, அழிப்பான்
+book, புத்தகம்
+ink, மை
 schoolbag, புத்தகப்பை
 scissors, கத்தரிக்கோல்
 waterbottle, தண்ணீர் குடுவை
 calculator, கணிப்பான்
-book, புத்தகம்
-ink, மை
 sharpener,
 color-pencils,
 crayons,
@@ -380,16 +403,17 @@ crayons,
 # Kitchen
 
 ## level 1
+
 ```
-stove, அடுப்பு
-spoon, கரண்டி
 pot, பானை
 knife,கத்தி
 plate, தட்டு
 butter, வெண்ணெய்
 lid, மூடி
+stove, அடுப்பு
+spoon,
 bowl, கிண்ணம்
-tap, நீர்க்குழாய்
+tap, குழாய்
 lentils, பருப்பு
 rice,அரிசி
 salt, உப்பு
@@ -398,20 +422,22 @@ bread, ரொட்டி
 soup, சூப்
 cup, கோப்பை
 sugar,சர்க்கரை
-chicken, கோழி
-lollipop, குச்சி மிட்டாய்
+chicken
+lollipop
 ```
+
 ## level 2
+
 ```
-fork, முள் கரண்டி
-pan, வாணலி 
-blender, கலப்பான்
-cheese, பாலாடைக்கட்டி
-fridge, குளிர்சாதன பெட்டி
-salad,
-ice-cream, பனிக்கூழ்
 meat, இறைச்சி
 juice, பழச்சாறு
+fork, முள் கரண்டி
+pan, வாணலி
+ice-cream, பனிக்கூழ்
+blender,
+cheese,
+fridge, குளிர்சாதன பெட்டி
+salad,
 sandwich,
 cake,
 flour, மாவு
@@ -419,6 +445,8 @@ flour, மாவு
 ```
 
 # Gadgets
+
+## level 2
 
 ```
 camera, புகைப்பட கருவி
@@ -431,9 +459,11 @@ tablet,
 torch,
 web-camera,
 ```
+
 # உடல் உறுப்புகள்
 
 ## level 1
+
 ```
 ear, காது
 eye, கண்
@@ -448,6 +478,13 @@ tooth, பல்
 # கருவிகள்
 
 ## level 1
+
+```
+
+```
+
+## level 2
+
 ```
 balance, தராசு
 blackboard, கரும்பலகை
@@ -455,11 +492,7 @@ hose, குழாய்
 needle, ஊசி
 axe, கோடரி
 thermometer, வெப்பமானி
-saw, இரம்பம்
-```
-
-## level 2
-```
+saw, ரம்பம்
 
 microscope, நுண்ணோக்கி
 oven,
@@ -467,21 +500,23 @@ plier, இடுக்கி
 Plough, கலப்பை
 spade, மண்வெட்டி
 stethoscope,
-telescope, தொலைநோக்கி
-test-tube, சோதனை குழாய்
+
 
 trowel, கரணை
 walkie-talkie
 awl, குத்தூசி
 compass, திசைகாட்டி
 easel,
-hacksaw, வெட்டும் ரம்பம்
+hacksaw
 scalpel,
 screw, திருகு
 screwdriver, திருப்புளி
-
+telescope, தொலைநோக்கி
+test-tube, சோதனை குழாய்
 ```
+
 # jobs
+
 ## level 1
 
 ```
@@ -490,49 +525,54 @@ teacher, ஆசிரியர்
 nurse, செவிலியர்
 chef, சமையல்காரர்
 doctor, மருத்துவர்
-police, காவல்
+police, காவலர்
 fisherman, மீனவர்
-barber, முடி திருத்துபவர்
-washerman, சலவை செய்பவர்
+sailor, மாலுமி
 carpenter, தச்சர்
+weaver, நெசவாளர்
 ```
+
 ## level 2
+
 ```
 astronaut, விண்வெளி வீரர்
 clown, கோமாளி
+barber, முடி திருத்துபவர்
+washerman, சலவை செய்பவர்
 blacksmith, கொல்லன்
-cobbler, செருப்புத் தொழிலாளி
+cobbler, செருப்புதைப்பவர்
 goldsmith, பொற்கொல்லர்
 potter, குயவன்
-weaver, நெசவாளர்
-diver, நீரில் மூழ்குவோர்
-sailor, மாலுமி
-soldier, படைவீரன்
+
+diver,
+
+soldier, சிப்பாய்
 ```
 
 # instruments
 
 ## level 2
+
 ```
 conch, சங்கு
 drums, முரசு
 dhol, மத்தளம்
 flute, புல்லாங்குழல்
 tabla, தபேலா
-violin, வயலின் 
+violin, வயலின்
 yazl, யாழ்
 damaru, உடுக்கை
-guitar, 
+guitar, கிட்டார்
 piano,
 saxophone,
 trumpet,
 xylophone
 ```
 
-
 # Others
 
 ## level 1
+
 ```
 sun, சூரியன்
 moon, நிலா
@@ -560,10 +600,12 @@ top, பம்பரம்
 stick, குச்சி
 whistle, ஊதல்
 chocolate, மிட்டாய்
-box, பெட்டி 
+box, பெட்டி
 coin, நாணயம்
 ```
+
 ## level 2
+
 ```
 fountain, நீரூற்று
 pouch, சுருக்குப்பை
@@ -580,17 +622,16 @@ palanquin, பல்லக்கு
 medicine, மருந்து
 radio, வானொலி
 toothbrush, பற்குச்சி
-toothpaste, பற்பசை 
+toothpaste, பற்பசை
 trolley,
 ```
 
 # More image request
-lily--waterlily, ஆம்பல், அல்லி, வெள்ளாம்பல்
-Blue water lily, நீலாம்பல்
-gooseberry, நெல்லிக்காய்
-lemon, எலுமிச்சம் பழம்
-palm fruit, பனம் பழம்
-wood apple, விளாம்பழம்
+
+lily--waterlily, ஆம்பல், அல்லி, வெள்ளாம்பல் Blue water lily, நீலாம்பல்
+gooseberry, நெல்லிக்காய் lemon, எலுமிச்சம் பழம் palm fruit, பனம் பழம் wood
+apple, விளாம்பழம்
+
 ```
 
 
@@ -599,3 +640,30 @@ wood apple, விளாம்பழம்
 
 
 
+```
+
+## Not so right answer
+
+```
+hawk, பருந்து (falcon)
+parakeet, பெரிய பச்சைக்கிளி
+seagull, கடற்பறவை
+robin, கருஞ்சிட்டு
+
+pyjama, இரவு உடுப்பு
+gloves, கையுறைகள்
+scarf, கழுத்துத்துண்டு
+sweater, கம்பளிச்சட்டை
+
+spoon, கரண்டி
+chicken, கோழி
+
+blender, கலப்பான்
+cheese, பாலாடைக்கட்டி
+
+hacksaw, வெட்டும் ரம்பம்
+washing-machine, துணி துவைக்கும் இயந்திரம்
+
+lollipop, குச்சி மிட்டாய்
+diver, நீரில் மூழ்குவோர்
+```

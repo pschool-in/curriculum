@@ -1,6 +1,7 @@
 # Animals - മൃഗങ്ങൾ
 
 Level-1
+
 ```
 cat| പൂച്ച
 dog| നായ
@@ -16,13 +17,13 @@ hippo| നീര്ക്കുതിര
 rhino| കാണ്ടാമൃഗം
 fox| കുറുക്കൻ
 crocodile| മുതല
-zebra| 
+zebra|
 bear| കരടി
 camel| ഒട്ടകം
 shark| സ്രാവ്
 whale| തിമിംഗലം
-dolphin| 
-dragonfly| തുമ്പി 
+dolphin|
+dragonfly| തുമ്പി
 fish| മത്സ്യം
 frog| തവള
 crab| ഞണ്ട്
@@ -40,9 +41,11 @@ cheetah| ചീറ്റ
 cow| പശു
 donkey| കഴുത
 ```
+
 Level-2
+
 ```
-giraffe| 
+giraffe|
 kangaroo|
 leopard| പുള്ളിപ്പുലി
 mongoose| കീരി
@@ -85,8 +88,11 @@ earthworm| മണ്ണിര
 hedgehog|
 stingray| തിരണ്ടി
 ```
+
 # Birds - പക്ഷികൾ
+
 Level-1
+
 ```
 crow| കാക്ക
 dove| പ്രാവ്
@@ -94,12 +100,12 @@ duck| താറാവ്
 hen| കോഴി
 parrot| തത്ത
 peacock| മയിൽ
-penguin| 
+penguin|
 sparrow| കുരുവി
 chick| കോഴിക്കുഞ്ഞ്
 crane| കൊക്ക്
 eagle| പരുന്ത്
-flamingo| 
+flamingo|
 kingfisher| പൊന്‍മാന്‍
 myna| മൈന
 ostrich| ഒട്ടകപ്പക്ഷി
@@ -110,29 +116,30 @@ woodpecker| മരംകൊത്തി
 hornbill| വേഴാമ്പൽ
 koel| കരിങ്കുയില്‍
 cuckoo| കുയില്‍
-pheasant| 
-falcon| 
+pheasant|
+falcon|
 swan| ഹംസം
-bulbul| 
+bulbul|
 spotted-dove| പുള്ളിപ്രാവ്
-pelican| 
-humming-bird| 
-robin| 
+pelican|
+humming-bird|
+robin|
 swallow| കടൽകാക്ക
-blue-jay| 
-seagull| 
-canary| 
+blue-jay|
+seagull|
+canary|
 goose| വാത്ത്
 turkey| തുര്‍ക്കിക്കോഴി
-hawk| 
-cardinal| 
-parakeet| 
-macaw| 
+hawk|
+cardinal|
+parakeet|
+macaw|
 ```
 
 # Fruits - പഴങ്ങൾ
 
 Level-1
+
 ```
 apple| ആപ്പിൾ
 grapes| മുന്തിരി
@@ -146,37 +153,39 @@ mango| മാമ്പഴം
 orange| ഓറഞ്ച്
 papaya| പപ്പായ
 pineapple| കൈതച്ചക്ക
-pomegranate| മാതളം 
+pomegranate| മാതളം
 watermelon| തണ്ണിമത്തൻ
 fig| അത്തിപ്പഴം
-custard-apple| 
-plum| 
+custard-apple|
+plum|
 dates| ഈത്തപ്പഴം
-muskmelon| 
-star-fruit| 
-dragon-fruit| 
-passion-fruit| 
+muskmelon|
+star-fruit|
+dragon-fruit|
+passion-fruit|
 sugarcane| കരിമ്പ്
-peach| 
+peach|
 sweet-potato| മധുരക്കിഴങ്ങ്
-jamun| 
+jamun|
 pear| സബര്ജില്ലി
-water-chesnut| 
+water-chesnut|
 sapotta| സപ്പോട്ട
 tapioca| മരച്ചീനി
-blueberry|   
+blueberry|
 ```
+
 # Vegetables - പച്ചക്കറികൾ
 
 Level-1
+
 ```
 carrot| കാരറ്റ്
 beetroot| ബീറ്റ്റൂട്ട്
 onion| ഉള്ളി
 tomato| തക്കാളി
 potato| ഉരുളക്കിഴങ്ങ്
-cabbage| മുട്ടക്കൂസ് 
-cauliflower| 
+cabbage| മുട്ടക്കൂസ്
+cauliflower|
 corn| ചോളം
 cucumber| വെള്ളരിക്ക
 garlic| വെളുത്തുള്ളി
@@ -186,21 +195,23 @@ almond| ബദാം
 beans| പയർ
 bitter-gourd| പാവയ്ക്ക
 brinjal| വഴുതന
-capsicum| 
+capsicum|
 cashewnut| കശുവണ്ടി
 chilli| മുളക്
 coconut| നാളികേരം
 ```
+
 Level-2
+
 ```
 corianderleaf| മല്ലിയില
 curryleaf| കറിവേപ്പില
 drumstick| മുരിങ്ങ
-greenpeas| 
+greenpeas|
 ladies-finger| വെണ്ടയ്‌ക്കാ
 mintleaf| പുതിന
 peanut| കപ്പലണ്ടി
-raddish| മുള്ളങ്കി  
+raddish| മുള്ളങ്കി
 spinach| ചീര
 chickpea| കടല
 mustard-greens| കടുക് ഇല
@@ -213,69 +224,75 @@ ashgourd| കുമ്പളങ്ങ
 broad-beans| വാളരി പയർ
 snake-gourd| പടവളങ്ങ
 banana-flower| വാഴപ്പൂവ്
-cluster-beans| 
-kohlrabi| 
-spring-onion| കുഞ്ഞുള്ളി 
+cluster-beans|
+kohlrabi|
+spring-onion| കുഞ്ഞുള്ളി
 banana-stem| വാഴ തണ്ട്
 drumstick-leaves| മുരിങ്ങയില
 raw-banana| പച്ച കായ്
 tulsi| തുളസി
 bottlegourd| ചുരക്ക
-ivygourd| കോവയ്ക്ക 
+ivygourd| കോവയ്ക്ക
 ridgegourd|  പീച്ചിങ്ങ
 vegetables| പച്ചക്കറികൾ
 ```
+
 # Flowers - പൂക്കൾ
 
 Level-2
+
 ```
 rose| റോസാപ്പൂവ്
 lotus| താമര
-sunflower| സൂര്യകാന്തി 
+sunflower| സൂര്യകാന്തി
 marigold|  ജമന്തിപ്പൂവ്
 hibiscus|  ചെമ്പരത്തി
 mogra| കൊട മുല്ല
-tulip| 
+tulip|
 zinnia| സിന്നിയ
-daffodil|  
-gulmohar| 
+daffodil|
+gulmohar|
 lily| വെള്ളാമ്പല്‍
-pansy| 
-poppy| 
-daisy| 
+pansy|
+poppy|
+daisy|
 jasmine| മുല്ലപ്പൂ
-magnolia| 
+magnolia|
 periwinkle| ശവം നാറി
-water-lily| ആമ്പൽ 
+water-lily| ആമ്പൽ
 ```
+
 # Vehicles - വാഹനം
 
 Level-2
+
 ```
 aeroplane| വിമാനം
 boat| വള്ളം
-bus| 
+bus|
 car| കാർ
 cycle| സൈക്കിൾ
-helicopter| 
-motorbike| 
+helicopter|
+motorbike|
 ship| കപ്പൽ
-tractor| 
+tractor|
 train| തീവണ്ടി
-ambulance| 
+ambulance|
 auto| ഓട്ടോറിക്ഷ
 cart| ഉന്തുവണ്ടി
-excavator| 
-fire-engine| 
+excavator|
+fire-engine|
 lorry| ലോറി
-van| 
-bulldozer| 
-rocket| 
+van|
+bulldozer|
+rocket|
 submarine| മുങ്ങിക്കപ്പൽ
 ```
+
 # House - വീട്
 
 Level-1
+
 ```
 man| പുരുഷൻ
 woman| വനിത
@@ -292,7 +309,7 @@ baby| കുഞ്ഞ്
 ball| പന്ത്
 glasses| കണ്ണട
 clock| ഘടികാരം
-watch| 
+watch|
 flower-pot| പൂച്ചട്ടി
 umbrella| കുട
 door| വാതിൽ
@@ -311,46 +328,52 @@ dustbin| ചവറ്റുകുട്ട
 bed-lamp|
 handbag|കൈസഞ്ചി
 ```
+
 # Dress - വസ്ത്രം
 
 Level-1
+
 ```
-dress| ഉടുപ്പ് 
+dress| ഉടുപ്പ്
 coat| കുപ്പായം
 shoe| ചെരുപ്പ്
 sock| കാലുറ
 boots| പാദരക്ഷ
-pyjama| 
+pyjama|
 gloves| കയ്യുറകൾ
-scarf| 
-sweater| 
-bib| 
+scarf|
+sweater|
+bib|
 shirt| ഷർട്ട്
-jacket| 
+jacket|
 hat| തൊപ്പി
-trousers| 
+trousers|
 ```
+
 # School - വിദ്യാലയം
 
 Level-2
+
 ```
 eraser|  മയിപ്പ്
 pen| പേന
 pencil| പെൻസിൽ
-sharpener| 
-ruler| 
-schoolbag| 
+sharpener|
+ruler|
+schoolbag|
 scissors| കത്രിക
 waterbottle| കുപ്പി
-calculator| 
+calculator|
 book| പുസ്തകം
-color-pencils | 
-crayons| 
+color-pencils |
+crayons|
 ink| മഷി
 ```
+
 # Kitchen - അടുക്കള
 
 Level-1
+
 ```
 stove| അടുപ്പ്
 fork| മുള്ക്കരണ്ടി
@@ -360,17 +383,17 @@ spoon |  കരണ്ടി
 pot| കലം
 butter| വെണ്ണ
 plate| പാത്രം
-tap| 
+tap|
 lid| അടപ്പ്
 blender|
 cheese| പാൽക്കട്ടി
 fridge|
-lollipop| 
+lollipop|
 salad| സലാഡ്
 sugar| പഞ്ചസാര
 bowl| കോപ്പ
 chicken| കോഴി
-ice-cream| 
+ice-cream|
 meat| ഇറച്ചി
 salt| ഉപ്പ്
 sweets| മധുരം
@@ -378,16 +401,18 @@ bread| അപ്പം
 cup| കപ്പ്
 juice| നീര്
 mushroom| കൂൺ
-sandwich| 
-cake| 
+sandwich|
+cake|
 flour| മാവ്
 lentils| പരിപ്പ്
 rice| അരി
-soup| 
+soup|
 ```
+
 # Gadgets
 
 Level-2
+
 ```
 camera|
 headphone|
@@ -399,59 +424,65 @@ tablet|
 torch|
 web-camera|
 ```
+
 # Body Parts - ശരീരഭാഗങ്ങൾ
 
 Level-1
+
 ```
 ear| ചെവി
 eye| കണ്ണ്
 foot| പാദം
 hair| മുടി
-hand| കൈ 
+hand| കൈ
 mouth| വായ
 nose| മൂക്ക്
 tooth| പല്ല്
 ```
+
 # Tools - ഉപകരണങ്ങൾ
 
 Level-2
+
 ```
 axe| കോടാലി
 balance| തുലാസ്
-blackboard | 
-hose | 
+blackboard |
+hose |
 microscope| സൂക്ഷ്മദർശിനി
 needle | സൂചി
-oven | 
+oven |
 plier| പ്ലയർ
 plough | കലപ്പ
 saw| അറപ്പുവാള്‍
 spade| മണ്‍കോരി
-stethoscope | 
+stethoscope |
 telescope| ദൂരദർശിനി
-testube | 
-thermometer| 
+testube |
+thermometer|
 trowel| കുമ്മായക്കരണ്ടി
-walkie-talkie | 
+walkie-talkie |
 awl | തോലുളി
 compass| വടക്കുനോക്കി യന്ത്രം
 easel| ചിത്രപീഠം
-hacksaw| 
-scalpel| 
+hacksaw|
+scalpel|
 screw| പിരിയാണി
-screwdriver| 
+screwdriver|
 flute| ഓടക്കുഴൽ
-piano| 
+piano|
 tabla| തബല
 violin| സാരംഗി
 guitar| ഗിത്താര്‍
-saxophone| 
-trumpet| 
-xylophone| 
+saxophone|
+trumpet|
+xylophone|
 ```
+
 # Jobs - ഉദോഗം
 
 Level-2
+
 ```
 astronaut| ബഹിരാകാശ സഞ്ചാരി
 clown| വിദൂഷകൻ
@@ -474,9 +505,11 @@ soldier| സൈനികൻ
 barber| ക്ഷുരകന്‍
 washerman| അലക്കുകാരൻ
 ```
+
 # Nature - പ്രകൃതി
 
 Level-1
+
 ```
 sun| സൂര്യൻ
 moon| ചന്ദ്രൻ
@@ -492,9 +525,11 @@ water-drop| വെള്ളത്തുള്ളി
 waterfall| വെള്ളച്ചാട്ടം
 rainbow| മഴവില്ല്
 ```
+
 # Other Pictures - മറ്റ് ചിത്രങ്ങൾ
 
 Level-1
+
 ```
 ring| മോതിരം
 brush| തൂലിക
@@ -514,18 +549,20 @@ wheel| ചക്രം
 whistle| വിസിൽ
 yazl|
 ```
+
 Level-2
+
 ```
 bullock-cart| കാളവണ്ടി
 warrior| യോദ്ധാവ്
-knight| 
+knight|
 chariot| രഥം
 park| ഉദ്യാനം
 garden| പൂന്തോട്ടം
 horse-carriage| കുതിരവണ്ടി
 touch-me-not| തൊട്ടാവാടി
 yagna| യജ്ഞം
-yarn-ball | 
+yarn-ball |
 bow| വില്ലു
 arrow| അമ്പ്
 fountain| ജലധാര
@@ -533,19 +570,18 @@ pouch| സഞ്ചി
 top| പമ്പരം
 hexagon| ഷഡ്ഭുജം
 trident| ത്രിശൂലം
-damaru| 
-trolley| തള്ളുവണ്ടി 
+damaru|
+trolley| തള്ളുവണ്ടി
 stick| വടി
 twig|  ചില്ല
-dhol| 
+dhol|
 palanquin| പല്ലക്ക്
 medicine| ഔഷധം
 balloon| ബലൂൺ
-radio| 
-toothbrush| 
-chocolate| 
-toothpaste| 
+radio|
+toothbrush|
+chocolate|
+toothpaste|
 box| പെട്ടി
 coin| നാണയം
 ```
-
