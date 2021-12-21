@@ -68,3 +68,22 @@ Chilika, salt lake
 ```
 # Reference 
 hues - class 3 semester 2
+***********************************************************************************************************************************************************************
+# India-5 (new activities)
+
+## Capitals (complete word)
+```
+The capital of Odisha is ___________.|BHUBANESWAR|B__B__E__A_
+The capital of Gujarat is ____________.|GANDHINAGAR|G__D__N_G__
+The capital of Rajasthan is _______.|JAIPUR|J__P__
+______________ is the capital of Haryana and Punjab.|CHANDIGARH|C___D__A__
+The capital of Kerala is ________________.|THIRUVANANTHAPURAM|T___U__N__T__P__A_
+```
+## Dance form (connect)
+```
+Giddha is the dance form of _________.|PUNJAB
+Mohinniyattam is the dance form of __________.|KERALA
+__________ is the dance form of Rajasthan.|GHOOMAR
+_________ is the dance form of Gujarat.|GARBA
+_________ is the dance form of Odisha.|ODISSI
+```
