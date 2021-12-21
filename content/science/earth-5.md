@@ -271,4 +271,22 @@ Petra, Jordan
 Machu Picchu, Peru
 Colosseum, Rome
 ```
+***************************************************************************************************************************************************************************
+# Earth-5 (NEW ACTIVITIES)
 
+## Continents (complete word)
+```
+It is the largest continents.|ASIA| _S__
+Also called The Dark Continent.|AFRICA|A__I__
+It is also called the White Continent or the Frozen Continent.|ANTARTICA|A__A____A
+Only continent to have all climatic types.|NORTH AMERICA| N____ A_____A
+The Amazon rainforest covers most of the __________.|SOUTH AMERICA| S____ A___I__
+```
+## World (connect)
+```
+World’s largest coffee producer.|BRAZIL
+World’s longest river.|NILE
+World’s largest dessert.|SAHARA
+The Great Wall of ______.|CHINA
+Taj Mahal is situated in ______.|AGRA
+```
