@@ -2,7 +2,6 @@
 
 ## level 1
 
-
 ```
 cat, பூனை
 dog, நாய்
@@ -89,6 +88,7 @@ stingray, திருக்கை மீன்
 ```
 
 # Birds
+
 ## level 1
 
 ```
@@ -135,6 +135,7 @@ cardinal,
 ```
 
 # பழங்கள்
+## level 1
 
 ```
 apple, ஆப்பிள்
@@ -153,30 +154,30 @@ sugarcane, கரும்பு
 ```
 ## level 2
 ```
-cherry
-avocado,
-strawberry
-
-plum, 
 dates, பேரிச்சம்பழம்
-muskmelon,
-star-fruit, 
-dragon-fruit, விருத்திரப்பழம் 
-passion-fruit, 
-peach, 
 sweet-potato,  சர்க்கரை வள்ளி கிழங்கு 
 jamun, நாவல் பழம்
 pear, பேரிக்காய் 
-water-chesnut, 
 jujube, இலந்தைப்பழம்
 sapotta, சப்போட்டா
 tapioca, மரவள்ளிக்கிழங்கு
 fig, அத்திப்பழம்
+water-chesnut, 
 blueberry
+cherry
+avocado,
+strawberry
+plum,
+muskmelon,
+star-fruit,
+dragon-fruit
+passion-fruit, 
+peach, 
 ```
 
 # காய்கறிகள்
 
+## level 1                
 ```
 carrot, காரட்
 beetroot, பீட்ரூட்
@@ -184,52 +185,48 @@ onion, வெங்காயம்
 tomato, தக்காளி
 potato, உருளைக்கிழங்கு
 cabbage, முட்டைகோசு
+raw-banana, வாழைக்காய்
 cauliflower, காலிப்பிளார்
-corn, மக்காச்சோளம்
-cucumber, வெள்ளரிக்காய்
 garlic, பூண்டு
-```
-
-```
 ginger, இஞ்சி
-pumpkin, பரங்கிக்காய்
-almond, பாதாம்
 beans, பீன்ஸ்
 bitter-gourd, பாகற்காய்
 brinjal, கத்திரி
-capsicum, குடை மிளகாய்
-cashewnut, முந்திரி
 chilli, பச்சைமிளகாய்
 coconut, தேங்காய்
-corianderleaf, கொத்தமல்லி
-```
-
-```
-curryleaf, கருவேப்பிலை
+radish, முள்ளங்கி
+ladies-finger, வெண்டைக்காய்
 drumstick, முருங்கைக்காய்
 greenpeas, பச்சை பட்டாணி
-ladies-finger, வெண்டைக்காய்
-mintleaf, புதினா
 peanut, வேர்க்கடலை
-radish, முள்ளங்கி
+curryleaf, கருவேப்பிலை
+corianderleaf, கொத்தமல்லி
+mintleaf, புதினா
 spinach, கீரை
-chickpea, கொண்டைக்கடலை
-mustard-greens, கடுகு கீரை 
+fenugreek, வெந்தயக்கீரை
+drumstick-leaves, முருங்கைக்கீரை
+tulsi, துளசி
+mustard-greens 
 turmeric, மஞ்சள்
 turnip, 
-fenugreek, வெந்தயக்கீரை
 tamarind, புளி
 elephant-yam, சேனைக்கிழங்கு
+mushroom, காளான்
 
 ```
 
+## level 2
 ```
+chickpea, கொண்டைக்கடலை
+almond, பாதாம்
+cashewnut, முந்திரி
+pumpkin, பரங்கிக்காய் 
+capsicum, குடைமிளகாய்
+cucumber, வெள்ளரிக்காய்
+corn, மக்காச்சோளம்
 broad-beans, அவரைக்காய் 
 ashgourd, பூசணிக்காய் 
 ridgegourd, பீர்க்கங்காய்
-raw-banana, வாழைக்காய்
-drumstick-leaves, முருங்கைக்கீரை
-tulsi, துளசி
 banana-flower, வாழைப்பூ 
 bottlegourd, சுரைக்காய்
 ivygourd, கோவைக்காய்
@@ -242,56 +239,62 @@ cluster-beans, கொத்தவரங்காய்
 
 # பூக்கள்
 
+## level 1
 ```
 rose, ரோஜா
 lotus, தாமரை
 sunflower, சூரியகாந்தி
-marigold, சாமந்தி
 hibiscus, செம்பருத்தி
 mogra, குண்டு மல்லி
 jasmine, முல்லை
+```
+## level 2
+
+```
+marigold, சாமந்தி
+mangolia, செண்பகப்பூ
+periwinkle, நித்தியகல்யாணிப்பூ
+water-lily, அல்லி
 tulip,
 zinnia,
 daffodil,
 gulmohar,
-lily,அல்லி
+lily,
 pansy,
 poppy,
 daisy,
-jasmine,
-mangolia, செண்பகப்பூ
-periwinkle, நித்தியகல்யாணிப்பூ
-water-lily, அல்லி
 ```
 
 # வாகனங்கள்
 
+## level 1
 ```
-aeroplane, விமானம்
-boat, படகு
 bus, பேருந்து
 car, மகிழுந்து
 cycle, மிதிவண்டி
+aeroplane, விமானம்
+boat, படகு
 helicopter, வானூர்தி (not right)
+bullock-cart, மாட்டு வண்டி
 motorbike,
 ship, கப்பல்
-tractor, இழுவை இயந்திரம்
+auto, 
 train, தொடர்வண்டி
-
+```
+## level 2
+```
 ambulance, அவசர ஊர்தி
-auto, ஆட்டோ
+tractor, இழுவை இயந்திரம்
 cart, கட்டை வண்டி
-excavator,
 fire-engine, தீயணைப்பு வாகனம்
 lorry, சரக்குந்து
-van,
-bulldozer, நிலச் சமன் பொறி
+bulldozer, 
 rocket, ஏவுகனை
 submarine, நீர்மூழ்கிக் கப்பல்
+excavator,
+van
 ```
-
-
-# House
+# house
 
 ```
 house, வீடு
@@ -308,7 +311,6 @@ man, ஆண்
 ```
 woman, பெண்
 ball, பந்து
-coat, மேலங்கி
 glasses, மூக்கு கண்ணாடி
 clock, கடிகாரம்
 watch, கைக்கடிகாரம்
@@ -328,31 +330,37 @@ soap, சவர்க்காரம்
 washing-machine, துணி துவைக்கும் இயந்திரம்
 backpack,
 pillow,தலையணை
-shoe, காலணி 
-```
-
-```
-sock,காலுறை
 basket, கூடை
 dustbin, குப்பை தொட்டி
-pyjama,இரவு உடுப்பு
 bed-lamp,
+handbag,
+
+```
+# dress
+## level 1
+
+```
+pyjama, இரவு உடுப்பு
 gloves, கையுறைகள்
 scarf, கழுத்துத்துண்டு
 sweater, கம்பளிச்சட்டை
+coat, மேலங்கி
+shoe, காலணி 
 bib,
 ```
-
+## level 2
 ```
-handbag,
+shoe, காலணி
 shirt, சட்டை
 hat, தொப்பி
 trousers, கால்சட்டை
 dress, உடை
+sock,காலுறை
 ```
 
 # School
 
+## level 1
 ```
 eraser, அழிப்பான்
 pen, பேனா
@@ -360,56 +368,53 @@ pencil, எழுதுகோல்
 ruler, அளவுகோல்
 schoolbag, புத்தகப்பை
 scissors, கத்தரிக்கோல்
-sharpener,
 waterbottle, தண்ணீர் குடுவை
 calculator, கணிப்பான்
 book, புத்தகம்
+ink, மை
+sharpener,
 color-pencils,
 crayons,
-ink, மை
 ```
 
 # Kitchen
 
+## level 1
 ```
 stove, அடுப்பு
-fork, முள் கரண்டி
-knife,கத்தி
-pan, உலோகத்தட்டு
 spoon, கரண்டி
 pot, பானை
+knife,கத்தி
+plate, தட்டு
 butter, வெண்ணெய்
-plate,  தட்டு
-tap, நீர்க்குழாய்
 lid, மூடி
-```
-
-```
-blender, கலப்பான்
-cheese, பாலாடைக்கட்டி
-fridge, குளிர்சாதன பெட்டி
-lollipop, குச்சி மிட்டாய்
-salad,
-sugar,சர்க்கரை
 bowl, கிண்ணம்
-chicken, கோழி
-ice-cream, பனிக்கூழ்
-meat, இறைச்சி
-```
-
-```
+tap, நீர்க்குழாய்
+lentils, பருப்பு
+rice,அரிசி
 salt, உப்பு
 sweets,இனிப்பு
 bread, ரொட்டி
+soup, சூப்
 cup, கோப்பை
+sugar,சர்க்கரை
+chicken, கோழி
+lollipop, குச்சி மிட்டாய்
+```
+## level 2
+```
+fork, முள் கரண்டி
+pan, வாணலி 
+blender, கலப்பான்
+cheese, பாலாடைக்கட்டி
+fridge, குளிர்சாதன பெட்டி
+salad,
+ice-cream, பனிக்கூழ்
+meat, இறைச்சி
 juice, பழச்சாறு
-mushroom, காளான்
 sandwich,
 cake,
 flour, மாவு
-lentils, பருப்பு
-rice,அரிசி,
-soup, சூப்
 
 ```
 
@@ -428,6 +433,7 @@ web-camera,
 ```
 # உடல் உறுப்புகள்
 
+## level 1
 ```
 ear, காது
 eye, கண்
@@ -439,77 +445,94 @@ nose, மூக்கு
 tooth, பல்
 ```
 
-# TooLs
+# கருவிகள்
 
+## level 1
 ```
-axe, கோடரி
 balance, தராசு
 blackboard, கரும்பலகை
 hose, குழாய்
-microscope, நுண்ணோக்கி
 needle, ஊசி
-oven,
-plier, இடுக்கி
-Plough, கலப்பை
+axe, கோடரி
+thermometer, வெப்பமானி
 saw, இரம்பம்
 ```
 
+## level 2
 ```
+
+microscope, நுண்ணோக்கி
+oven,
+plier, இடுக்கி
+Plough, கலப்பை
 spade, மண்வெட்டி
 stethoscope,
 telescope, தொலைநோக்கி
-testtube, சோதனை குழாய்
-thermometer, வெப்பமானி
+test-tube, சோதனை குழாய்
+
 trowel, கரணை
-walkie-talkie, நடந்துகொண்டே பேசும் கருவி
+walkie-talkie
 awl, குத்தூசி
 compass, திசைகாட்டி
 easel,
 hacksaw, வெட்டும் ரம்பம்
 scalpel,
-```
-```
 screw, திருகு
 screwdriver, திருப்புளி
-barber, முடி திருத்துபவர்
-washerman, சலவை செய்பவர்
-flute, புல்லாங்குழல்
-piano,
-tabla, தபேலா
-violin, 
-guitar, 
-saxophone,
-trumpet,
-xylophone
+
 ```
 # jobs
+## level 1
 
+```
+postman, தபால்காரர்
+teacher, ஆசிரியர்
+nurse, செவிலியர்
+chef, சமையல்காரர்
+doctor, மருத்துவர்
+police, காவல்
+fisherman, மீனவர்
+barber, முடி திருத்துபவர்
+washerman, சலவை செய்பவர்
+carpenter, தச்சர்
+```
+## level 2
 ```
 astronaut, விண்வெளி வீரர்
 clown, கோமாளி
-fisherman, மீனவர்
-postman, தபால்காரர்
-teacher, ஆசிரியர்
 blacksmith, கொல்லன்
 cobbler, செருப்புத் தொழிலாளி
 goldsmith, பொற்கொல்லர்
 potter, குயவன்
 weaver, நெசவாளர்
-```
-
-```
-carpenter, தச்சர்
 diver, நீரில் மூழ்குவோர்
-nurse, செவிலியர்
 sailor, மாலுமி
-chef, சமையல்காரர்
-doctor, மருத்துவர்
-police, காவல்
 soldier, படைவீரன்
 ```
 
+# instruments
+
+## level 2
+```
+conch, சங்கு
+drums, முரசு
+dhol, மத்தளம்
+flute, புல்லாங்குழல்
+tabla, தபேலா
+violin, வயலின் 
+yazl, யாழ்
+damaru, உடுக்கை
+guitar, 
+piano,
+saxophone,
+trumpet,
+xylophone
+```
+
+
 # Others
 
+## level 1
 ```
 sun, சூரியன்
 moon, நிலா
@@ -517,15 +540,9 @@ rain, மழை
 star, நட்சத்திரம்
 milk, பால்
 ring, மோதிரம்
-brush, தூரிகை
-bone, எலும்பு துண்டு
-auvai, ஔவை
 bell, மணி
-```
-```
 bird, பறவை
-conch, சங்கு
-drums, முரசு
+balloon, பலூன்
 five, ஐந்து
 food, உணவு
 fruits, பழங்கள்
@@ -533,45 +550,38 @@ king, அரசன்
 kite, பட்டம்
 ladder, ஏணி
 laddu, லட்டு
-```
-
-```
 leaf, இலை
-rishi, முனிவர்
 wheel, சக்கரம்
-whistle, ஊதல்
 world, உலகம்
-yazl, யாழ்
-bullock-cart, மாட்டு வண்டி
-touch-me-not, தொட்டாற் சிணுங்கி
-yagna, யாகம்
-yarn-ball, நூல் கண்டு
-```
-```
+auvai, ஔவை
 bow, வில்
 arrow, அம்பு
-fountain, நீரூற்று
-pouch, சுருக்குப்பை
 top, பம்பரம்
-hexagon, அறுகோணம்
-trident, திரிசூலம்
-damaru,  உடுக்கை
-trolley,
 stick, குச்சி
-```
-
-```
-twig, கிளை
-dhol, மத்தளம்
-palanquin, பல்லக்கு
-medicine, மருந்து
-balloon, பலூன்
-radio, வானொலி
-toothbrush, பற்குச்சி
+whistle, ஊதல்
 chocolate, மிட்டாய்
-toothpaste, பற்பசை 
 box, பெட்டி 
 coin, நாணயம்
+```
+## level 2
+```
+fountain, நீரூற்று
+pouch, சுருக்குப்பை
+yagna, யாகம்
+yarn-ball, நூல் கண்டு
+rishi, முனிவர்
+brush, தூரிகை
+touch-me-not, தொட்டாற் சிணுங்கி
+bone, எலும்பு துண்டு
+hexagon, அறுகோணம்
+trident, திரிசூலம்
+twig, கிளை
+palanquin, பல்லக்கு
+medicine, மருந்து
+radio, வானொலி
+toothbrush, பற்குச்சி
+toothpaste, பற்பசை 
+trolley,
 ```
 
 # More image request
@@ -587,5 +597,5 @@ wood apple, விளாம்பழம்
 
 ---
 
-pics to be added
+
 
