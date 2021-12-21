@@ -204,3 +204,22 @@ I paint walls. *Painter (Artist)*
 I repair pipes and taps. *Plumber (Cobbler)*
 I guard houses and people. *Watchman (Milkman)*
 ```
+***************************************************************************************************************************************************************************
+# Job-3 (new activities)
+
+## People who help us (complete word)
+```
+They design buildings like houses, offices and schools as per the requirements of people who will live, work or study there.|ENGINEERS|E____E__S
+They work in fields all year long for everyone to get food.|FARMERS|F__M__S
+They enlighten us with knowledge and values.|TEACHERS|T__C___S
+It protects our rights and provides justice.|COURT|C__R_
+They take charge of maintaining law and order.|POLICE|P_L__E
+```
+## Who am I? (connect)
+```
+I stitch and sew clothes.|TAILOR
+Produces crops in the field.|FARMET
+Takes care of our health.|DOCTOR
+Provides justice.|JUDGE
+I paint walls.|PAINTER
+```
