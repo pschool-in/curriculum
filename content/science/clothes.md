@@ -300,3 +300,22 @@ It is *rainy (cold)*. Take your umbrella.
 ## Wordsearch
 
 www.pschool.in/1629978796959
+****************************************************************************************************************************************************************************
+# Clothes-4 (new activities)
+
+## Who am I? (complete words)
+```
+I wear a white coat and examine patients.|DOCTOR|_O__O_
+I wear blue clothes and put out fires.|FIREFIGHTER| F___F___T__
+You always see me in khaki clothes. I go wherever there is a fight.|POLICE|_O__C_
+I work in a hospital and take care of patients.|NURSE|_U_S_
+I am always ready to protect the country.|SOLDIER|_O___E_
+```
+## Clothes (connect)
+```
+What do we wear to protect our feet?|SHOES
+What do we wear when we go to bed?|PYJAMAS
+What do we wear to protect ourselves from cold?|SWEATER
+What do we wear to provide shade from sunlight?|HAT
+What do we wear to protect our hands from cold?|GLOVES
+```
