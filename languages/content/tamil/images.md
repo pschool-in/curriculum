@@ -66,7 +66,7 @@ polarbear, பனிக்கரடி
 bug, வண்டு
 jackal, நரி
 prawn, இறால்
-baboon, வாலில்லாக் குரங்கு
+baboon, வாலில்லாக்குரங்கு
 bull, காளை
 dinosaur, டைனோசர்
 python, மலைப்பாம்பு
@@ -294,6 +294,7 @@ aeroplane, விமானம்
 boat, படகு
 helicopter, வானூர்தி (not right)
 bullock-cart, மாட்டு வண்டி
+horse-carriage, குதிரைவண்டி
 motorbike,
 ship, கப்பல்
 auto,
@@ -316,22 +317,19 @@ van
 ```
 
 # house
-
+## Level 1
 ```
 house, வீடு
 table, மேசை
 bed, மெத்தை
 candle, மெழுகுவர்த்தி
-chair, நாற்காலி
-shelf, அலமாரி
 baby, குழந்தை
 boy, சிறுவன்
 girl, சிறுமி
 man, ஆண்
-```
-
-```
 woman, பெண்
+bucket, வாளி
+toilet, கழிப்பறை
 ball, பந்து
 glasses, மூக்கு கண்ணாடி
 clock, கடிகாரம்
@@ -339,15 +337,12 @@ watch, கைக்கடிகாரம்
 flower-pot, பூத்தொட்டி
 umbrella, குடை
 door, கதவு
-broom, துடைப்பம்
-```
-
-```
 window, ஜன்னல்
+chair, நாற்காலி
+broom, துடைப்பம்
+shelf, அலமாரி
 air-conditioner, குளிரூட்டி
 sofa, நீள் சாய்வு இருக்கை
-bucket, வாளி
-toilet, கழிப்பறை
 soap, சவர்க்காரம்
 washing-machine,
 backpack,
@@ -477,12 +472,6 @@ tooth, பல்
 
 # கருவிகள்
 
-## level 1
-
-```
-
-```
-
 ## level 2
 
 ```
@@ -543,9 +532,8 @@ blacksmith, கொல்லன்
 cobbler, செருப்புதைப்பவர்
 goldsmith, பொற்கொல்லர்
 potter, குயவன்
-
 diver,
-
+warrior, போர்வீரர்
 soldier, சிப்பாய்
 ```
 
