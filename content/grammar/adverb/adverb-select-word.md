@@ -45,7 +45,41 @@ Please come *forward* and answer.
 
 ### (adverb-4)
 
-TODO: No activity for adverb-4 playlist
+Select the adverb of time in the below sentence.
+
+```
+I will clean my room *tomorrow*.
+I saw you *yesterday*, at the restaurant.
+My uncle lived in London for a *year*.
+I *often* eat sea food.
+Karan *never* drinks milk.
+I am *seldom* late.
+We should *always* respect our elders.
+My sister *rarely* lies.
+I *frequently* visit my grandma's house.
+I go to the playground *occasionally*.
+```
+
+```
+I *normally* listen to the rock music.
+*Often*, I go for morning walks.
+I go to the canteen *regularly*.
+I *sometimes* sleep very late.
+My brother *usually* enjoy being with his friends.
+I haven't met him *yet*.
+Do you *still* work in that company?
+I will call you *later*.
+She *often* falls asleep during class.
+*Generally*, I don't like green vegetables.
+```
+
+```
+I was sleeping *then*.
+*Now* I am going to his party.
+I waited for a *few* minutes.
+She said she would be sleeping for a *while*.
+I am going to the market *now*.
+```
 
 ### (adverb-5)
 
@@ -287,3 +321,9 @@ My sister *often* reads a book *weekly*. She loves poetry and novels.
 Even though they have to get up *early*, they *rarely* go to bed on time. They *generally* watch TV at night.
 The teacher said that she'll clear my doubt *later*. I can come back in *sometime*.
 ```
+
+# References
+
+1. https://www.ef.com/wwen/english-resources/english-grammar/adverbs-time/
+2. https://www.learngrammar.net/a/examples-of-adverb-of-time
+3. 

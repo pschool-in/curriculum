@@ -224,3 +224,14 @@ Examples of distributive pronouns in sentences are:
 3. You can't have _any_ of these.
 4. _Neither_ of them is wrong.
 5. I like _everyone_ in this room.
+
+# References
+
+1. https://www.youtube.com/watch?v=S_1aReVV9TQ
+2. https://www.englishclub.com/grammar/pronouns-indefinite.htm
+3. https://www.twinkl.co.in/teaching-wiki/indefinite-pronouns
+4. https://www.grammar-monster.com/glossary/indefinite_pronoun.htm
+5. https://www.kidsworldfun.com/learn-english/relative-pronouns.php
+6. https://www.youtube.com/watch?v=S_1aReVV9TQ
+7. https://www.youtube.com/watch?v=S_1aReVV9TQ
+8. https://www.teachingbanyan.com/grammar/distributive-pronoun/
