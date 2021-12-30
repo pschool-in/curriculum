@@ -124,7 +124,7 @@ We have to get up *early (earlily, soon)*.
 Our teacher arrives *late (lately, soonly)* for class.
 He ate his meal *quickly (quick, quickily)*.
 He is very *talented (talent, talents)*.
-They missed the bus, *unfortunately (unfortunate, fortunately)*.
+*Unfortunately (Unfortunate, Fortunately)*, they missed the bus. 
 They waited *patiently (patient, patience)* until 1 pm.
 She tried on her new dress *happily (happyly, happy)*.
 ```
