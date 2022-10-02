@@ -65,3 +65,7 @@ shepherd, staff
 fisherman, net
 
 ```
+## Reading
+A profession is a job at which someone works and for which they have had training. People often study for years to do their job. Everyone in this world has his own likes and dislikes. So is the case with choosing one’s profession. As a child, everyone talks of becoming something which they like or which amuses them but choosing a career is a serious task. It is quite difficult to choose a profession. Examples of a profession would be a teacher or a lawyer etc.,
+
+

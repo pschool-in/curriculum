@@ -21,6 +21,11 @@ The lady is climbing *up* the ladder., The lady is climbing *in* the ladder.
 The dog kept *following* him home., The dog is walking with him *to* his home.
 The teacher is scolding him *for* his bad behavior., The teacher is scolding him *about* his bad behavior.
 The boy is sleeping *during* the class., The boy is sleeping *on* the class.
+He is late *for* his flight., He is late *in* his flight.
+The shoes are lying *underneath* the bench., The shoes are lying *below the bench.
+The baby is crawling *across* the floor., The baby is crawling *in* the floor.
+Sheenu is leaning *against* the wall., Sheenu is leaning *on* the wall.
+We are going *outside* for some fresh air., We are going *around* for some fresh air.
 ```
 
 # Reference
