@@ -63,3 +63,29 @@ Eg:
 2. List of 100 simple antonyms for class-2
 3. Simple addition problems for class-3
 4. Short paragraphs on 10 leaders for class-4
+
+# Important Pages
+
+1. [Activity](/guidelines/activity.md)
+2. [Types of Templates](/guidelines/templates.md)
+3. [Playlist](/guidelines/playlist.md)
+4. [Curriculum](/guidelines/curriculum.md)
+
+# Content Developers
+
+1. [General Instructions to Content Developers](/guidelines/instructions.md)
+2. [English Content](/guidelines/english.md)
+3. [Math Content](/math/README.md)
+4. [Science Content](/science/README.md)
+5. [Social Content](/social/README.md)
+6. [General Knowledge Content](/gk/README.md)
+7. [Fun Activities](/fun/README.md)
+
+# Tech Releated Pages
+
+1. [Understanding Rich and Plain Text](/guidelines/tech/rich-vs-plain-text.md)
+2. [MarkUp Language](/guidelines/tech/markdown.md)
+3. [JSON - Introduction](/guidelines/tech/json-introduction.md)
+4. [Dev Notes - General](/guidelines/tech/dev-notes.md)
+5. [Structure of Playlist JSON](/guidelines/tech/playlist-structure.md)
+6. [More on Playlist JSON](/guidelines/tech/playlist-structure-2.md)
