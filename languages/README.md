@@ -13,33 +13,6 @@ support the below languages.
 
 (Note: This list may expand based on popular demand and feasibility)
 
-# About PSchool
-
-[www.pschool.in](https://pschool.in) is a learning app for kids. It has
-thousands of learning activities. Presently we have content from kg to 5th
-standard. In future, we will add content till 12th. We keep lot of activities as
-free, and by paying Rs 500/- (per year) the user can unlock more content.
-Presently we are focusing more on Math and English.
-
-We support Hindi and other regional languages of India. We do have sample
-activities in our pschool showcase page. We frequently get request to support
-more languages and add more activities for the exisiting languages. But due to
-resource constraints and unfamiliarity with different languages, our team cannot
-do it independently.
-
-So we decided to keep this project (language-apps) as an open source project.
-The goal is to develop a separate app for each language. We request volunteers
-to help us to complete this project.
-
-# Scope
-
-1. The content prepared by this project will always be available as a free app.
-2. We will prepare between 500 to 1000 activities for each language.
-3. The activities may vary from kg to 5th standard
-4. In PSchool app, all activities are template based. And we manage the source
-   code and content separating. Here we are making only the 'content' as open
-   source and not the 'source code' of the project.
-
 # What we cover
 
 1. How to write different letters. (which are the building blocks of any
@@ -59,7 +32,7 @@ to help us to complete this project.
 # How it works?
 
 Step 1: The subject expert will prepare the content in google doc or directly in
-github. The content should fit into any of the 18 available templates.
+github. The content should fit into any of the available templates.
 
 Step 2: Our technical person will convert the content into template format
 (json), and publish as app
@@ -71,21 +44,27 @@ server to avoid hosting cost)
 
 # Templates
 
-We have 18 different templates which will be explained in our
+We have different templates which are explained in our
 [template page.](templates.md)
 
-We kindly request the language experts to go through the 18 types of activites
-we have. Any content which doesn't fall within this 18 template will be outside
-the scope of this project.
+We kindly request the language experts to go through them and prepare content
+accordingly. Any content which doesn't fall within these templates will be
+outside the scope of this project.
 
 ## Image and Sound based activities
 
-1. We display the image and the word with the first letter missing. The student has to pick the first letter from the option. (The options should not be very easy and have different unique set of options) (ta-picture/animals)
+1. We display the image and the word with the first letter missing. The student
+   has to pick the first letter from the option. (The options should not be very
+   easy and have different unique set of options) (ta-picture/animals)
 2. Match image with its first letter. (ta-picture/match-animals)
-3. Drag and drop the words given at the bottom to the right images (ta-picture-3/dragDrop-animal)
-4. Complete the word based on the image, through the keypad input (ta-picture-2/animals)
-5. Based on the image find the word by connecting the letters. (ta-picture-2/connect-animals)
-6. Read-only activity. Slide through the images with the associated sounds. (ta-sound/animals)
+3. Drag and drop the words given at the bottom to the right images
+   (ta-picture-3/dragDrop-animal)
+4. Complete the word based on the image, through the keypad input
+   (ta-picture-2/animals)
+5. Based on the image find the word by connecting the letters.
+   (ta-picture-2/connect-animals)
+6. Read-only activity. Slide through the images with the associated sounds.
+   (ta-sound/animals)
 7. Select the right image based on the played sound. (ta-sound/pick-animal)
 8. Select the right word based on the played sound. (ta-word-2/sound)
 9. Dictionary - listen to the sound and type the word.(ta-picture-3/dictation-2)

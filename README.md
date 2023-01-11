@@ -1,45 +1,65 @@
-# About PSchool
+# PSchool Generic Curriculum (PGC)
 
-[www.pschool.in](https://pschool.in) is a learning app for kids. It has
-thousands of learning activities. Presently we have content from kg to 5th
-standard. In future, we will add content till 12th.
+_Note: This project is in the early stage._
 
-We are basically a technology company and we don't want to be the authority of
-content. So we keep our content as open source. It means any person who is
-interested can contribute to add more content or to make the existing content
-better.
+## Brief History
 
-# Separate App for Languages
+In Jan 2018, we started PSchool App as a simple web app where the students can
+practice what they learn in the class room. As teachers, we observed students
+forget what they learn in the classroom after a week or a month. So we build an
+App that students can practice the concepts and retain their learning. PSchool
+means Practice School.
 
-We want to have separate app for different Indian languages.
+## Our Mantras
 
-We will support the below languages.
+```
+No Student Left Behind.
+Every thing is Teachable. Everyone is Teachable.
+Practice make the learning Permanent.
+```
 
-1. Hindi
-2. Telugu
-3. Tamil
-4. Malayalam
-5. Kannada
-6. Marathi
-7. Bengali
+## Why PSchool Generic Curriculum (PGC)?
 
-(Note: This list may expand based on popular demand and feasibility)
+Just like generic medicine, we need generic curriculum for teaching subjects
+like maths, english & science.
 
-# Common Activities
+This allows teachers and parents to get assess to quality curriculum and
+content.
 
-The below are the minimum types of activities we want to cover.
+We define the content in layman's term so that it is easy to follow for
+everyone.
 
-- writing: How to write different letters. (which are the building blocks of any
-  language)
-- picture: Getting to know the words and their spelling based on pictures.
-  (fruits, vegetables, flowers, animals, etc). It is limited to the stack images
-  we have. (www.pschool.in/author/images)
-- words : connect letter to form words
-- More about words. Antonyms, Synonyms, correct spelling, confusing words,
-  connecting letters to form words etc
-- More about sentences. Tense, question & answer
-- Simple reading exercises. Common poems etc
-- Simple activities in Science (Drag and Drop)
-- Simple activities in Social
-- wordsearch (20 count)
-- crossword (20 count)
+This curriculum is not rigid and we encourage experts to have discussion around
+the various points, so that it evolves over a period of time.
+
+Diversity in the approach is encouraged. There are multiple ways to approach a
+problem.
+
+## Prerequisite Mapping
+
+Some students are not able to do well because pre-requisites are not met. For
+example, if the students are not comfortable with tables, they cannot do
+multiplications. To address this, each learning unit should be mapped with a
+list of pre-requisites.
+
+## Zero to Hero
+
+We need to scientifically order the content so that we can take students from
+level zero to level 100, one step at a time.
+
+## Parent Friendly
+
+We want to define the curriculum and content in a simple way so that parents,
+senior students should be able to follow it.
+
+## Result Oriented
+
+We don't prescribe or discuss teaching methodologies. Instead we focus on what
+the student should learn. How the student is taught is upto the teacher.
+
+Eg:
+
+1. What are the 3-letter words that a 5-year-old should be familiar with?
+2. List of 100 simple antonyms for class-2
+3. Simple addition problems for class-3
+4. Short paragraphs on 10 leaders for class-4
