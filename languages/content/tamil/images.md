@@ -9,7 +9,7 @@ goat, ஆடு
 horse, குதிரை
 cow, பசு
 pig, பன்றி
-buffallo, எருமை
+buffalo, எருமை
 donkey, கழுதை
 bull, காளை
 camel, ஒட்டகம்
@@ -65,7 +65,7 @@ crocodile, முதலை
 wolf, ஓநாய்
 zebra, வரிக்குதிரை
 hyena, கழுதைப் புலி
-pocupine, முள்ளம்பன்றி
+porcupine, முள்ளம்பன்றி
 polarbear, பனிக்கரடி
 ```
 
@@ -173,14 +173,13 @@ dates, பேரிச்சம்பழம்
 
 ```
 sweet-potato,  சர்க்கரைவள்ளி கிழங்கு
+tapioca, மரவள்ளிக்கிழங்கு
 jamun, நாவல் பழம்
 pear, பேரிக்காய்
 wood-apple, விளாம்பழம்
 jujube, இலந்தைப்பழம்
 sapotta, சப்போட்டா
-tapioca, மரவள்ளிக்கிழங்கு
 fig, அத்திப்பழம்
-pears, பேரிக்காய்
 water-chesnut,
 blueberry
 cherry
@@ -412,7 +411,7 @@ candle, மெழுகுவர்த்தி
 glasses, மூக்கு கண்ணாடி
 clock, கடிகாரம்
 watch, கைக்கடிகாரம்
-flower-pot, பூத்தொட்டி
+flower-pot, பூந்தொட்டி
 broom, துடைப்பம்
 shelf, அலமாரி
 air-conditioner, குளிரூட்டி
@@ -522,7 +521,6 @@ salt, உப்பு
 flour, மாவு
 paddy, நெல்
 wheat, கோதுமை
-paddy, நெல்
 pepper, மிளகு,
 //lentils, பருப்பு
 ```
@@ -608,7 +606,7 @@ saw, ரம்பம்
 microscope, நுண்ணோக்கி
 oven,
 plier, இடுக்கி
-Plough, கலப்பை
+plough, கலப்பை
 spade, மண்வெட்டி
 stethoscope,
 
@@ -793,7 +791,6 @@ toothbrush, பற்குச்சி
 toothpaste, பற்பசை
 water-tower, தண்ணீர் தொட்டி
 ```
-
 
 # More image request
 

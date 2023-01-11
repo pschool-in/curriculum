@@ -4,41 +4,28 @@ Level 1 is for grade 1 & 2. It has to be simple and not confusing
 
 ```
 cat, kat
+dog, dag
+goat, gote,
+sheep, sheap
+cow, cov,
+fox, fex, focx
+fly, fli
 apple, aple
 box, bok
 can, caan
+```
+
+```
 ball, bal
 egg, eg
 grapes,graps
 home,hom
 ice,icc
 zebra,zibra
-```
-
-```
 class, clas
 cold, kold, colt
-memory, memary
-butter, buter
 sugar, suger
 water, watar
-once, onse
-cattle, catle
-wheat, wheet
-meals, meels
-```
-
-```
-doctor, doktor
-bomb, bom
-ghost, gost
-potatoes, potatos
-listen, lisen
-tomatoes, tomatos
-catch, katch
-what, wat
-when, wen
-how, hou
 ```
 
 ```
@@ -132,11 +119,50 @@ coin, coen, cain
 cheap, cheep, ceeph
 ```
 
+```
+happy, hapy, hoppy
+potatoes, potatos
+once, onse
+wolf, volf
+rabbit, rabit, rabbet
+parrot, paret, parret
+duck, duk, dock
+salad, saled, salat
+rocket, rockat, roket
+house, houce, hause
+```
+
+```
+buffalo, bufalo
+donkey, dankey, danky
+horse, harse
+elephant, elephent, elepant
+lion, lien
+monkey, mankey, monkay
+tiger, tigar
+kangaroo, kangaro, kancaro
+leopard, lepard
+butter, buter
+```
+
+```
+memory, memary
+cattle, catle
+wheat, wheet
+meals, meels
+tomatoes, tomatos
+catch, katch
+what, wat
+when, wen
+how, hou
+doctor, doktor
+```
+
 # Level 2
 
 ```
 absence, abcense, absense
-queue, que
+queue, que, qu
 column, colum, colunm
 extreme, extreem, exstream
 almost, allmost
@@ -154,65 +180,41 @@ awesome, ausom
 giraffe, girafee
 meaning, meening
 address, adress, addrass
-acceptable, acceptible
-accidentally, accidentaly, accidentelly
-accommodate, accomodate, acommodate
 achieve, acheive, acchive
-```
-
-```
-acknowledge , acknowlege, aknowledge
-acquire, aquire, acquaire
-argument, arguement, arguemant
 because, becuase, becase
 believe, beleive, bilieve
 business, buisness, bisness
-category, catagory, cetagory
+```
+
+```
 chief, cheif, cheef
-colleague, collaegue, colligue
 coming, comming, camming
-```
-
-```
-congratulate, congradulate
-rhyme, rime
-rhythm, rythm, rythem
-committed, commited
-comparison, comparsion
-controversy, contraversy
-deceive, decieve
-definite, definate
-desperate, desparate
-dilemma, dilema
-```
-
-```
+bomb, bom
+ghost, gost
+listen, lisen
 disappoint, dissapoint
 separate, seperate
 similar, similer
-skilful, skilfull
+skilful, skilfull, skillful
 speech, speach
+```
+
+```
 successful, succesful, successfull
 tomorrow, tommorow, tommorrow
 twelfth, twelth
 until, untill
-vacuum, vaccuum, vaccum
+experience, experiance
+foreign, foriegn
+guidance, guidence
+harass, harrass
+humor, humer
+ignorance, ignorence
 ```
 
 ```
-equipment, equiptment
-       exceed, excede
-       experience, experiance
-       foreign, foriegn
-       guidance, guidence
-       harass, harrass
-       humor, humer
-       ignorance, ignorence
-       imitate, immitate
-       immediately, imediately
-```
-
-```
+imitate, immitate
+immediately, imediately
 independent, independant
 intelligence, inteligence
 library, libary
@@ -221,11 +223,11 @@ lightning, lightening
 maintenance, maintainance, maintnance
 misspell, mispell, misspel
 necessary, neccessary, necessery
-niece, neice
-noticeable, noticable
 ```
 
 ```
+niece, neice
+noticeable, noticable
 occasion, occassion
 omission, ommision, omision
 original, orignal
@@ -234,11 +236,11 @@ pastime, passtime, pasttime
 presence, presance
 promise, promiss
 pronunciation, pronounciation
-proof, prufe
-quarantine, quarentine
 ```
 
 ```
+proof, prufe
+quarantine, quarentine
 really, realy
 receive, recieve
 recommend, recomend, reccommend
@@ -247,19 +249,62 @@ reference, referance, refrence
 relevant, relevent, revelant
 religious, religous, religius
 repetition, repeatition, repitition
-restaurant, restarant, restaraunt
-secretary, secratary, secretery
 ```
 
 ```
-weather, wether, whether
+weather, wether
 weird, wierd
 welfare, wellfare, welfair
 writing, writting, writeing
 tongue, tounge
 truly, truely
 therefore, therefour, therefor
-remember, rember, remeber
-occurrence, occurreance, occureance
+remember, remeber
+thrill, trill
 knowledge, noledge, knowlege
+```
+
+```
+
+```
+
+# level3
+
+```
+acknowledge , acknowlege, aknowledge
+acquire, aquire, acquaire
+argument, arguement, arguemant
+congratulate, congradulate
+rhyme, rime
+rhythm, rythm, rythem
+committed, commited
+comparison, comparsion
+controversy, contraversy
+deceive, decieve
+```
+
+```
+definite, definate
+desperate, desparate
+dilemma, dilema
+category, catagory, cetagory
+colleague, collaegue, colligue
+acceptable, acceptible
+accidentally, accidentaly, accidentelly
+accommodate, accomodate, acommodate
+vacuum, vaccuum, vaccum
+equipment, equiptment
+```
+
+```
+exceed, excede
+secretary, secratary, secretery
+restaurant, restarant, restaraunt
+occurrence, occurreance, occureance
+license, lisence, lisense
+privilege, previlege, previlage, privilage
+relevant, relevent, revelant
+separate, seperate
+embarrass, embarass
+imitate, immitate
 ```

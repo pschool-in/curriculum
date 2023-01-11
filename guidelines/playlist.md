@@ -4,7 +4,7 @@ Simply put, Playlist is a collection of activities.
 
 It looks more like a Table of Content (TOC).
 
-Activities can be given as singular or as a set.
+Activities can be given as singular or as a group.
 
 # Unique
 

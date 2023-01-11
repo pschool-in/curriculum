@@ -4,394 +4,396 @@ To understand what are rhyming words and to be able to identify them.
 
 ## Rhyming words
 
-Rhyming words are the ones that have the same sound when we pronounce them. They have different meanings and different spellings. Examples of rhyming words are:
+Rhyming words are the ones that have the same sound when we pronounce them. They
+have different meanings and different spellings. Examples of rhyming words are:
 
-Van, Pan, Fan, Tan
-Bus, Fuss
-Joy, Boy, Toy
-Cap, Lap, Map, Tap
-Fat, Hat, Mat, Pat
+van, pan, fan, tan bus, fuss joy, boy, toy cap, lap, map, tap fat, hat, mat, pat
 
 ## Drag and Drop (label) (fill up by drag)
 
 Drag the correct option in each blank. (title)
+
 ```
-Very, Vary, *Berry*
-Hill, *Bill*, Kill
-*Nine*, Wine, Fine
-Sing, *Wing*, King
-Ad, Add, *Sad*
+very, vary, *berry*
+hill, *bill*, kill
+*nine*, wine, fine
+sing, *wing*, king
+ad, add, *sad*
 ```
 
 ```
-Pet, *Met*, Set
-*Seven*, Heaven, Eleven
-Rock, *Shock*, Chalk
-Face, Pace, *Lace*
-Bare, *Bare*, Share
+pet, *met*, set
+*seven*, heaven, eleven
+rock, *shock*, chalk
+face, pace, *lace*
+bare, *bare*, share
 ```
 
 ```
-Cow, How, *Now*
-Slow, *Blow*, Flow
-*Shame*, Fame, Name
-Make, *Bake*, Cake
-Dead, Red, *Bed*
+cow, how, *now*
+slow, *blow*, flow
+*shame*, fame, name
+make, *bake*, cake
+dead, red, *bed*
 ```
 
 ```
-Caller, *Taller*, Smaller
-*Well*, Sell, Tell
-Pain, *Rain*, Gain
-Three, Tree, *Free*
-Dove, *Love*, Glove
+caller, *taller*, smaller
+*well*, sell, tell
+pain, *rain*, gain
+three, tree, *free*
+dove, *love*, glove
 ```
 
 ```
-*Mall*, Fall, Tall
-Hot, *Not*, Pot
-Moat, Goat, *Boat*
-Fight, *Light*, Height
-*Slip*, Drip, Lip
+*mall*, fall, tall
+hot, *not*, pot
+moat, goat, *boat*
+fight, *light*, height
+*slip*, drip, lip
 ```
 
 ```
-Bridge, *Fridge*, Midge
-Hole, Mole, *Stole*
-Dish, *Wish*, Fish
-*Ten*, Hen, Pen
-Two, *Shoe*, Too
+bridge, *fridge*, midge
+hole, mole, *stole*
+dish, *wish*, fish
+*ten*, hen, pen
+two, *shoe*, too
 ```
 
 ```
-*Cool*, Wool, Fool
-Rig, *Dig*, Big
-Pale, Male, *Bail*
-Bed, *Led*, Fed
-Sell, Well, *Tell*
+*cool*, wool, fool
+rig, *dig*, big
+pale, male, *bail*
+bed, *led*, fed
+sell, well, *tell*
 ```
 
 ```
-Cow, How, *Now*
-Day, *Bay*, Hay
-*Hike*, Bike, Spike
-Duck, *Buck*, Stuck
-Sake, Bake, *Stake*
+cow, how, *now*
+day, *bay*, hay
+*hike*, bike, spike
+duck, *buck*, stuck
+sake, bake, *stake*
 ```
 
 ```
-Pies, Fries, *Lies*
-Million, *Billion*, Trillion
-*Hoot*, Boot, Loot
-Band, *Stand*, Strand
-Star, Bar, *Car*
+pies, fries, *lies*
+million, *billion*, trillion
+*hoot*, boot, loot
+band, *stand*, strand
+star, bar, *car*
 ```
 
 ```
-Eye, Bye, *Sky*
-Toes, Nose, *Bows*
-*Broom*, Vroom, Groom
-Crew, *Drew*, Screw
-*Bone*, Cone, Zone
+eye, bye, *sky*
+toes, nose, *bows*
+*broom*, vroom, groom
+crew, *drew*, screw
+*bone*, cone, zone
 ```
 
 ```
-*Heart*, Fart, Mart
-Bend, Mend, *Defend*
-*Blow*, Slow, Glow
-Spend, *Send*, Offend
-Yay, Bay, *Say*
+*heart*, fart, mart
+bend, mend, *defend*
+*blow*, slow, glow
+spend, *send*, offend
+yay, bay, *say*
 ```
 
 ```
-About, Turnout, *Workout*
-Chart, *Part*, Start
-Four, *Core*, Score
-*Blame*, Claim, Flame
-Crime, Mime, *Prime*
+about, turnout, *workout*
+chart, *part*, start
+four, *core*, score
+*blame*, claim, flame
+crime, mime, *prime*
 ```
 
 ```
-Ore, *Shore*, Snore
-Black, *Sack*, Track
-*Frock*, Lock, Sock
-*Blow*, Flow, Slow
-Row, *Grow*, Show
+ore, *shore*, snore
+black, *sack*, track
+*frock*, lock, sock
+*blow*, flow, slow
+row, *grow*, show
 ```
 
 ```
-*Curl*, Burl, Purl
-Brain, Plain, *Stain*
-Vein, *Rain*, Sprain
-Lack, Sack, *Back*
-Cream, *Scream*, Dream
+*curl*, burl, purl
+brain, plain, *stain*
+vein, *rain*, sprain
+lack, sack, *back*
+cream, *scream*, dream
 ```
 
 ## Match The Following (label)
 
 Match the rhyming words. (title)
+
 ```
-Eight, Skate
-Six, Sticks
-Two, Shoe
-Four, Door
-Ten, Hen
+eight, skate
+six, sticks
+two, shoe
+four, door
+ten, hen
 ```
 
 ```
-Ball, Call
-Said, Bed
-One, Gun
-Coat, Float
-Bump, Lump
+ball, call
+said, bed
+one, gun
+coat, float
+bump, lump
 ```
 
 ```
-Hole, Stole
-Cook, Look
-Bird, Herd
-Wool, Fool
-Hop, Pop
+hole, stole
+cook, look
+bird, herd
+wool, fool
+hop, pop
 ```
 
 ```
-Sheet, Feet
-Win, Bin
-Dish, Wish
-Meet, Greet
-Dig, Big
+sheet, feet
+win, bin
+dish, wish
+meet, greet
+dig, big
 ```
 
 ```
-Apple, Chappel
-Plane, Crane
-Main, Again
-Ball, Crawl
-Casket, Basket
+apple, chappel
+plane, crane
+main, again
+ball, crawl
+casket, basket
 ```
 
-(Riya: We can clarify that rhyming words may also have different spellings and introduce these activities.)
+(Riya: We can clarify that rhyming words may also have different spellings and
+introduce these activities.)
 
 ## Odd One Out (label) (right option template)
 
 Choose the odd one out. (title)
+
 ```
-Ant, Sat, Rat, Cat
-Bat, Bow, Now, Vow
-Brain, Candle, Handle, Sandal
-Main, Frog, Log, Jog
-Data, Drums, Gums, Bums
+ant, sat, rat, cat
+bat, bow, now, vow
+brain, candle, handle, sandal
+main, frog, log, jog
+data, drums, gums, sums
 ```
 
 ```
-Aim, Date, Great, Wait
-Crane, Dust, Crust, Adjust
-Man, Fish, Wish, Dish
-Barn, Dog, Jog, Smog
-Churn, Arm, Harm, Charm
+aim, date, great, wait
+crane, dust, crust, adjust
+man, fish, wish, dish
+barn, dog, jog, smog
+churn, arm, harm, charm
 ```
 
 ```
-Garden, Grapes, Apes, Shapes
-Face, Garden, Pardon, Harden
-Dam, Throat, Float, Wrote
-Ham, Use, Goose, Juice
-Quit, Been, Queen, Screen
+garden, grapes, apes, shapes
+face, garden, pardon, harden
+dam, throat, float, wrote
+ham, use, goose, juice
+quit, been, queen, screen
 ```
 
 ```
-Basket, Teen, Seen, Lean
-Apple, Cave, Save, Slave
-Attic, Game, Tame, Shame
-Bullet, Hat, Pat, That
-Juice, Horn, Born, Torn
+basket, teen, seen, lean
+apple, cave, save, slave
+attic, game, tame, shame
+bullet, hat, pat, that
+juice, horn, born, torn
 ```
 
 ```
-Hey, Harm, Charm, Farm
-She, Hay, Bay, Way
-Blow, Ice, Twice, Thrice
-Fern, Idol, Tidal, Bridal
-Bend, Dice, Price, Rice
+hey, harm, charm, farm
+she, hay, bay, way
+blow, ice, twice, thrice
+fern, idol, tidal, bridal
+bend, dice, price, rice
 ```
 
 ```
-Game, Joke, Folk, Poke
-Card, Soak, Spoke, Stroke
-Farm, Am, Jam, Scam
-Ask, Joker, Broker, Smoker
-Bash, Just, Rust, Trust
+game, joke, folk, poke
+card, soak, spoke, stroke
+farm, am, jam, scam
+ask, joker, broker, smoker
+bash, just, rust, trust
 ```
 
 ```
-Folk, Kite, Quite, Light
-Crane, Flight, Night, Slight
-Dutch, Wife, Life, Strife
-Elephant, Yacht, Bought, Caught
-Fish, Squat, Spot, Shot
+folk, kite, quite, light
+crane, flight, night, slight
+dutch, wife, life, strife
+elephant, yacht, bought, caught
+fish, squat, spot, shot
 ```
 
 ```
-Frown, Long, Song, Wrong
-Air, Bite, Spite, Fright
-English, Along, Belong, Daylong
-Braid, Duster, Buster, Cluster
-Bush, Fast, Last, Cast
+frown, long, song, wrong
+air, bite, spite, fright
+english, along, belong, daylong
+braid, duster, buster, cluster
+bush, fast, last, cast
 ```
 
 ```
-Vast, Merge, Urge, Verge
-Merge, Sleeve, Weave, Grieve
-Mast, Pain, Rain, Sane
-Blast, Master, Faster, Plaster
-Aunt, Custard, Mustard, Clustered
+vast, merge, urge, verge
+merge, sleeve, weave, grieve
+mast, pain, rain, sane
+blast, master, faster, plaster
+aunt, custard, mustard, clustered
 ```
 
 ```
-Blush, Annoys, Boys, Toys
-Fate, Name, Tame, Flame
-Run, Nice, Rice, Vice
-Bush, Shut, Gut, But
-Brain, Fist, Gist, Wrist
+blush, annoys, boys, toys
+fate, name, tame, flame
+run, nice, rice, vice
+bush, shut, gut, but
+brain, fist, gist, wrist
 ```
 
 ```
-Nice, Ouch, Couch, Pouch
-Bias, Oil, Boil, Foil
-First, Soil, Spoil, Coil
-Fame, Pain, Cain, Gain
-Lame, Prime, Slime, Climb
+nice, ouch, couch, pouch
+bias, oil, boil, foil
+first, soil, spoil, coil
+fame, pain, cain, gain
+lame, prime, slime, climb
 ```
 
 ```
-Hut, Put, Foot, Input
-Braid, Praise, Blaze, Days
-First, Point, Joint, Appoint
-Egg, Pet, Let, Sweat
-Brush, Push, Bush, Shush
+hut, put, foot, input
+braid, praise, blaze, days
+first, point, joint, appoint
+egg, pet, let, sweat
+brush, push, bush, shush
 ```
 
 ```
-Plum, Paint, Faint, Saint
-Pain, Quest, Fest, Vest
-Queen, West, Guest, Rest
-Blast, Quench, Bench, French
-Cat, Quit, Bit, Spit
+plum, paint, faint, saint
+pain, quest, fest, vest
+queen, west, guest, rest
+blast, quench, bench, french
+cat, quit, bit, spit
 ```
 
 ```
-Crane, Night, Quite, Bright
-Danger, Rain, Grain, Sprain
-Garlic, Rush, Crush, Flush
-Joke, Aid, Blade, Paid
-Just, Raid, Weighed, Strayed
+crane, night, quite, bright
+danger, rain, grain, sprain
+garlic, rush, crush, flush
+joke, aid, blade, paid
+just, raid, weighed, strayed
 ```
 
 ```
-Pour, Ray, Gray, Sleigh
-Monkey, Slave, Shave, Stave
-Fame, Cake, Shake, Bake
-Great, Same, Name, Shame
-Genius, Spark, Bark, Park
+pour, ray, gray, sleigh
+monkey, slave, shave, stave
+fame, cake, shake, bake
+great, same, name, shame
+genius, spark, bark, park
 ```
 
 ## Pick the Rhyming Word (label)
 
 Choose the puzzle piece with the correct rhyming word. (title)
+
 ```
-Cool, Pool, Shawl
-Well, Jewel, School
-Door, Snore, Share
-Floor, Store, Scare
-Chore, Four, Stand
+cool, pool, shawl
+well, jewel, school
+door, snore, share
+floor, store, scare
+chore, four, stand
 ```
 
 ```
-Crane, Train, Choir
-Sail, Tail, Shower
-Pale, Detail, Main
-Sake, Snake, Sale
-Wake, Bake, Bale
+crane, train, choir
+sail, tail, shower
+pale, detail, main
+sake, snake, sale
+wake, bake, bale
 ```
 
 ```
-Crow, Brow, Sand
-Knot, Shot, Air
-Dot, Spot, Hair
-Mop, Chop, Chap
-Crop, Drop, Soap
+crow, brow, sand
+knot, shot, air
+dot, spot, hair
+mop, chop, chap
+crop, drop, soap
 ```
 
 ```
-Blog, Log, Tame
-Fog, Hog, Chain
-Odd, Squad, Add
-Knit, Bit, Sat
-Sit, Slit, Scam
+blog, log, tame
+fog, hog, chain
+odd, squad, add
+knit, bit, sat
+sit, slit, scam
 ```
 
 ```
-Bin, Skin, Same 
-Pin, Win, Tame
-Clue, Through, Bought
-Small, Mall, Made
-Made, Maid, Male
+bin, skin, same
+pin, win, tame
+clue, through, bought
+small, mall, made
+made, maid, male
 ```
 
 ```
-View, Flew, Zoo
-Knew, Few, Shoe
-Bet, Wet, Sat
-Jet, Set, Got
-Get, Net, Ball
+view, flew, zoo
+knew, few, shoe
+bet, wet, sat
+jet, set, got
+get, net, ball
 ```
 
 ```
-Den, Then, Sane
-Ten, When, Where
-Fell, Gel, Get
-Tell, Spell, Spit
-Tray, Spray, Ground
+den, then, sane
+ten, when, where
+fell, gel, get
+tell, spell, spit
+tray, spray, ground
 ```
 
 ```
-Lay, Clay, Lie
-Spy, Lie, Girl
-May, Pray, Pulse
-Straw, Flaw, Frame
-Are, Car, Jam
+lay, clay, lie
+spy, lie, girl
+may, pray, pulse
+straw, flaw, frame
+are, car, jam
 ```
 
 ```
-Jar, Guitar, Flute
-Cop, Crop, Cap
-Flop, Stop, Jump
-Clap, Slap, Just
-Lap, Map, Fur
+jar, guitar, flute
+cop, crop, cap
+flop, stop, jump
+clap, slap, just
+lap, map, fur
 ```
 
 ```
-Rap, Trap, Tram
-Dip, Skip, Same
-Lip, Zip, Air
-Chip, Trip, Grain
-Grip, Skip, Train
+rap, trap, tram
+dip, skip, same
+lip, zip, air
+chip, trip, grain
+grip, skip, train
 ```
 
 ```
-Drag, Flag, Flip
-Call, Fall, Fell
-Dad, Mad, Make
-Lab, Slab, Slip
-Ban, Tan, Tim
+drag, flag, flip
+call, fall, fell
+dad, mad, make
+lab, slab, slip
+ban, tan, tim
 ```
 
 ```
-Pan, Plan, Plain
-Sat, Rat, Child
-Chat, That, Wish
-Wish, Dish, Splash
-Dash, Hash, Mine
+pan, plan, plain
+sat, rat, child
+chat, that, wish
+wish, dish, splash
+dash, hash, mine
 ```
 
 # References
