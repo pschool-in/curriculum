@@ -7,8 +7,7 @@
 
 ### Herbs, Shrubs and Trees
 
-The plants that we see around us can be classified into herbs, shrubs or trees based on the height of the plant, the nature of the stem and based on the point of branching.
-The plants which are short with green and tender stems are catergorized as herbs.They may not have many branches. Trees are very tall with thick and hard stem. For trees the branching points appear higher up on the thick and hardened stem. Shrubs have moderate height with a hard stem but branching points appear at the base of the stem.
+The plants that we see around us can be classified into herbs, shrubs or trees based on the height of the plant, the nature of the stem and based on the point of branching. The plants which are short with green and tender stems are catergorized as herbs.They may not have many branches. Trees are very tall with thick and hard stem. For trees the branching points appear higher up on the thick and hardened stem. Shrubs have moderate height with a hard stem but branching points appear at the base of the stem.
 
 ### Stem
 
@@ -32,10 +31,8 @@ The most prominent and colourful part of a flower are called petals. The smal le
 3. Leaf usually has a petiole and lamina.
 4. The pattern of veins on the leaf is called venation. It can be reticulate or parallel.
 5. Leaves give out water vapour through the process of transpiration.
-6. Green leaves make their food by the process of photosynthesis using
-carbon dioxide and water in the presence of sunlight.
-7. Roots absorb water and minerals from the soil. They also anchor the
-plant firmly in the soil.
+6. Green leaves make their food by the process of photosynthesis using carbon dioxide and water in the presence of sunlight.
+7. Roots absorb water and minerals from the soil. They also anchor the plant firmly in the soil.
 8. Roots are mainly of two types: tap root and fibrous root.
 9. Plants having leaves with reticulate venation have tap roots while plants having leaves with parallel venation have fibrous roots.
 10. The stem conducts water from roots to the leaves (and other parts) and food from leaves to other parts of the plant.
