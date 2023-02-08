@@ -195,3 +195,24 @@ Test for starch
 Test for carbohydrate
 
 ```
+### Match the following. 
+Match the deficency to the disorder.
+
+```
+Vitamin A, Night blindness
+Vitamin B1, Beriberi
+Vitamin C, Scurvy
+Vitamin D, Rickets
+Iodiee, Goiter
+```
+### Answer in one word. (by drag and drop)
+Find the deficiency disorder from the sysmptoms displayed.
+
+```
+Poor visison, loss of vision in darkness - *night blindness*
+Weak muscles and very little energy to work - *beriberi*
+Bleeding gums, wounds take longer to heal - *scurvy*
+Bones become soft and bent - *rickets*
+Weakness - *anaemia*
+```
+
