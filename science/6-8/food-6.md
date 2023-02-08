@@ -10,12 +10,10 @@
 There is so much variety in the food we eat. Some dishes only require two materials or ingredients whereas some food items are made with many ingredients. Some ingredients we use in our daily life are salt, sugar, spices, rice, vegetables, oil etc.
 
 ### Food materials and sources
-Plants are the sources of food ingredients like grains, cereals,vegetables and fruits. Animals provide us with milk, meat products and eggs. Cows, goats and buffaloes are some
-common animals which give us milk. Milk and milk products like butter, cream, cheese and curd are used all over the world.
+Plants are the sources of food ingredients like grains, cereals,vegetables and fruits. Animals provide us with milk, meat products and eggs. Cows, goats and buffaloes are some common animals which give us milk. Milk and milk products like butter, cream, cheese and curd are used all over the world.
 
 ### Plant products and Animal products as food
-Plants are one source of our food. We eat fruits of some plants and leafy veagetables of some other plants. Sometimes we also consume roots, stems and even flowers of plants. Some plants have more than one edible parts. For example, seeds of mustard plants give us oil and the leaves are used as a vegetable. Some common animalproducts we eat are eggs, milk and honey.
-Bees collect nectar from flowers, convert it into honey and store it in their hive. We collect the food stored by the bees as honey and use as an ingredient.
+Plants are one source of our food. We eat fruits of some plants and leafy veagetables of some other plants. Sometimes we also consume roots, stems and even flowers of plants. Some plants have more than one edible parts. For example, seeds of mustard plants give us oil and the leaves are used as a vegetable. Some common animal products we eat are eggs, milk and honey. Bees collect nectar from flowers, convert it into honey and store it in their hive. We collect the food stored by the bees as honey and use as an ingredient.
 
 ### What do animals eat?
 Animals which eat only plants are called herbivores. Animals which eat only animals are called carnivores.Animals which eat both plants as well as other animals are called omnivores.
@@ -147,9 +145,7 @@ Eating too much fatty foods may lead to *obesity*
 ## Answer the following in one word (By drag drop)
 
 ```
-Diseases that occur due to lack of
-nutrients over a long period are called
-*deficiency diseases*.
+Diseases that occur due to lack of nutrients over a long period are called *deficiency diseases*.
 Diet containing all necessary nutrients is called *balanced diet*.
 Ginger is rich in *iodine*.
 Lemon is rich in *Vitamin C*.
