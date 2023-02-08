@@ -6,10 +6,15 @@
 4. To understand how drought and floods are caused
 5. To laern about conservation of water
 6. To understand rain water harvesting
+7. To understand the amount of water we use daily
 
 # Grade - 6
 
 ## Water - Reading
+
+### How much water do we use?
+In our daily life we use a lot of water for many activities. We need water for drinking, brushing, bathing, washing utensils, washin clothes, cleaning floors etc. Water is used in industries for producing almost all the things that we use. So, we need water not only for our daily activities but also for producing many things. Water is an essential part of our life so it is important to use water carefully and conserve water.
+
 
 ### Where do we get water from?
 
@@ -33,14 +38,11 @@ Some drops of water become so heavy that they begin to fall to form rain.
 
 Most of the water that falls on the land as rain and snow
 sooner or later goes back to the oceans. This happens in many ways. Snow in the mountains melts into water. This water flows down the mountains in the form of streams and
-rivers. Some of the water that falls on land as rain, also flows in the form of rivers and streams. Most of the rivers cover long distances on land and ultimately fall into a sea or an ocean. However, water of some rivers flows
-into lakes. A part of the rainwater gets absorbed by the ground and seems to disappear in the soil. Some of this water is brought back to the air by the process of evaporation and transpiration. The rest seeps into the ground. Most of this water becomes available to us as ground water. 
-Excessive rains may cause floods while lack of it for long periods may cause droughts.
+rivers. Some of the water that falls on land as rain, also flows in the form of rivers and streams. Most of the rivers cover long distances on land and ultimately fall into a sea or an ocean. However, water of some rivers flows into lakes. A part of the rainwater gets absorbed by the ground and seems to disappear in the soil. Some of this water is brought back to the air by the process of evaporation and transpiration. The rest seeps into the ground. Most of this water becomes available to us as ground water. Excessive rains may cause floods while lack of it for long periods may cause droughts.
 
 ### Conservation of water
 
-The demand for water is increasing day-by-day. The number of people using water is increasing with rising population. In many cities, long queues for collection of water are a common site. Also, more and more water is being used for producing food and by the industries. These factors are leading to shortage of water in many parts of
-the world. Hence, it is very important that water is used carefully. We should take care not to waste water
+The demand for water is increasing day-by-day. The number of people using water is increasing with rising population. In many cities, long queues for collection of water are a common site. Also, more and more water is being used for producing food and by the industries. These factors are leading to shortage of water in many parts of the world. Hence, it is very important that water is used carefully. We should take care not to waste water
 
 ### Rainwater Harvesting
 
@@ -105,4 +107,16 @@ No rainfall for a year or more may lead to *drought* in that region.
 Excessive rains may cause *floods*.
 The circulation of water between ocean and land is known as the *water cycle*.
 Rain, hail and snow *replenish* water in rivers, lakes, ponds, wells and soil.
+```
+### Fill in the blanks (by options)
+
+```
+Water vapour gets added to air by *evaporation (rain)* and transpiration.
+The water vapour in the air condenses to form tiny droplets of water, which appear as *clouds (mist)*. 
+Many tiny water droplets come together and fall down as *rain (cloud)*, snow or hail.
+Rain, hail and snow *replenish (diminish)* water in rivers, lakes, ponds, wells and soil.
+The circulation of water between ocean and land is known as the
+*water (vapour)* cycle.
+Excessive rains may cause *floods (droughts)*.
+The amount of usable water on earth is *limited (unlimited)* so it needs to be used carefully.
 ```
