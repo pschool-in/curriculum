@@ -24,20 +24,6 @@ Roots act as an anchor that hold the plant firmly to the soil. Different types o
 ### Flower
 The most prominent and colourful part of a flower are called petals. The smal leaf like stuctures that are seen on a flower are called sepals. The innermost part of a flower is called the pistil. Stamens usually surround the pistil. Pistil contains the ovary, style and stigma. The ovary contains ovules.
 
-### Points to remember
-
-1. Plants are usually grouped into herbs, shrubs and trees based on their height, nature of stem and branches.
-2. The stem bears leaves, flowers and fruits.
-3. Leaf usually has a petiole and lamina.
-4. The pattern of veins on the leaf is called venation. It can be reticulate or parallel.
-5. Leaves give out water vapour through the process of transpiration.
-6. Green leaves make their food by the process of photosynthesis using carbon dioxide and water in the presence of sunlight.
-7. Roots absorb water and minerals from the soil. They also anchor the plant firmly in the soil.
-8. Roots are mainly of two types: tap root and fibrous root.
-9. Plants having leaves with reticulate venation have tap roots while plants having leaves with parallel venation have fibrous roots.
-10. The stem conducts water from roots to the leaves (and other parts) and food from leaves to other parts of the plant.
-11. The parts of a flower are sepals, petals, stamens and pistil.
-
 ### Multiple Choice Questions.
 
 ```
@@ -105,4 +91,43 @@ Leaf usually has a *petiole (sepal)* and lamina.
 The pattern of veins on the leaf is called *venation (veins)*. 
 Plants having leaves with reticulate venation have *tap (fibrous)* roots.
 Plants having leaves with parallel venation have *fibrous (tap)* roots.
+```
+### Crossword
+www.pschool.in/1675927443769
+
+### Match the following (by drag and drop)
+Drag and drop to match parts and their food
+```
+Roots → *Carrot*
+Flowers → *Cauliflower*
+Fruits → *Mango*
+Grains → *Wheat*
+Leaves→ *Spinach*
+Stem → *Sugarcane*
+```
+### True or False
+```
+True: The leaves, seeds and flower of mustard is edible
+Tomato is a fruit.
+Carrot is a root.
+
+False:
+Potato is an edible fruit
+Cauliflower is an edible leaf. 
+Clove is an edible seed.
+
+```
+### Parts of flower - Image (drag and drop)
+
+### Parts of plant (drag and drop)
+
+```
+*Veins (lamina)* are branch out from the midrib.
+*Petiole (sepal)*joins the leaf to the main stem.
+*Stomata (leaf)* are used to exchange gases.
+*Chlorophyll (anthocyanin)* is the green pigment in plants.
+The lines on a leaf are called *veins (lamina)*. 
+The prominent line in the middle of the leaf is a *midrib (vein)*.
+The design made by the veins in a leaf is called the leaf *venation (veination)*.
+
 ```
