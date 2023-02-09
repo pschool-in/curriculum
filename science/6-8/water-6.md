@@ -114,3 +114,32 @@ The circulation of water between ocean and land is known as the *water (vapour)*
 Excessive rains may cause *floods (droughts)*.
 The amount of usable water on earth is *limited (unlimited)* so it needs to be used carefully.
 ```
+### Water cycle - Image (drag and drop)
+
+## Water Cycle (Complete word).
+```
+The ontinuous movement of water from the Earth to the atmosphere and back to the Earth.|WATER CYCLE | W_T__ _Y__E
+The process in which water is changed into water vapour by the heat of the sun.|EVAPORATION| E____R____N
+The process of converting water vapour into water on cooling.|CONDENSATION|C___E___T___
+The water droplets join together to form _____.| CLOUDS| C___D_
+```
+## Water Sources (complete word)
+```
+Made on the banks of river to save water.| BUNDS| B____
+Responsible for water availability across the city.| PIPES| P_P__
+Extracts ground water through motors.| BOREWELL| B_R__E__
+Stores water as well as generates energy.|DAMS| D___
+Most common storage in big buildings.|TANKS|T___S
+```
+### Back to the ocean (drag and drop)
+```
+Most of the water that falls on the land as rain and snow sooner or later goes back to the *oceans*.
+Snow in the mountains *melts* into water which flows down the mountains in the form of streams and *rivers*.
+A part of the *rainwater* gets absorbed by the ground and seems to disappear in the soil.
+*Groundwater* is brought back to the air by the process of evaporation and transpiration. 
+Excessive rains may cause *floods* while lack of it for long periods may cause *droughts*.
+```
+### Water Cycle (sorting)
+```
+Evapouration, Condensation, Sublimation, Precipitation
+```
