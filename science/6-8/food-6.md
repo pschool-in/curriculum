@@ -102,22 +102,14 @@ Take a small quantity of a food item.
 Wrap it in a piece of paper and crush it. Take care that the paper does not tear. An oily patch on paper shows that the food item contains fat. The food items may sometimes contain a little water. Therefore, after you have rubbed an item on paper, let the paper dry for a while. If there were any water that may have come from food, it would dry up after some time. If no oily patch shows up after this, the food item does not contain any fat.
 
 ### What do various nutrients do for our body?
-Carbohydrates mainly provide energy
-to our body. Fats also give us energy. In fact, fats give much more energy as compared to the same amount of carbohydrates. Foods containing  fats and carbohydrates are also called ‘energy giving foods’. Proteins are needed for the growth and repair of our body.Proteins are often called ‘body building foods’. Vitamins help in protecting our body against diseases. Vitamins also help in
-keeping our eyes, bones, teeth and gums healthy. Vitamins are of different kinds known by different names. Some of these are Vitamin A, Vitamin C, Vitamin D, Vitamin E and K. There is also a group of vitamins called Vitamin B-complex. Our body needs all types of vitamins in small quantities. Vitamin A keeps our
-skin and eyes healthy. Vitamin C helps body to fight against many diseases. Vitamin D helps our body to use calcium for bones and teeth. Minerals are needed by our body in small amounts. Each one is essential for proper growth of body and to
-maintain good health. Besides these nutrients, our body needs dietary fibres and water. Dietary fibres are also known as roughage. Roughage is mainly provided by plant products in our foods. Whole grains and pulses, potatoes, fresh fruits and vegetables are main sources of roughage. Roughage does not provide any nutrient to our body, but is an essential component of our food and adds to its bulk. This helps our body get rid of undigested food. Water helps our body to absorb nutrients from food. It also helps in throwing out some wastes from body as
+Carbohydrates mainly provide energy to our body. Fats also give us energy. In fact, fats give much more energy as compared to the same amount of carbohydrates. Foods containing  fats and carbohydrates are also called ‘energy giving foods’. Proteins are needed for the growth and repair of our body.Proteins are often called ‘body building foods’. Vitamins help in protecting our body against diseases. Vitamins also help in keeping our eyes, bones, teeth and gums healthy. Minerals are needed by our body in small amounts. Besides these nutrients, our body needs dietary fibres and water. Roughage does not provide any nutrient to our body but helps our body get rid of undigested food. Water helps our body to absorb nutrients from food. It also helps in throwing out some wastes from body as
 urine and sweat.
 
 ### Balance Diet
 For growth and maintenance of good health, our diet should have all the nutrients that our body needs, in right quantities.  The diet should also contain a good amount of roughage and water. Such a diet is called a balanced diet. It can be very harmful for us to eat too much of fat rich foods and we may end up suffering from a condition called obesity.
 
 ### Deficency Diseases
-Diseases that occur due to lack of nutrients over a long period are called
-deficiency diseases. If a person does not get enough proteins in their food for a long time, they are likely to have stunted growth, swelling of face discolouration of hair, skin diseases and diarrhoea. If the diet is deficient in both carbohydrates and proteins for a long
-period of time, the growth may stop completely. Such a person becomes very
-lean and thin and so weak that he/she
-may not even be able to move. Deficiency of different vitamins and minerals may also result in certain diseases or disorders.
+Diseases that occur due to lack of nutrients over a long period are called deficiency diseases. If a person does not get enough proteins in their food for a long time, they are likely to have stunted growth, swelling of face discolouration of hair, skin diseases and diarrhoea. If the diet is deficient in both carbohydrates and proteins for a long period of time, the growth may stop completely. Such a person becomes very lean and thin and so weak that he/she may not even be able to move. Deficiency of different vitamins and minerals may also result in certain diseases or disorders.
 
 
 
@@ -211,4 +203,6 @@ Bleeding gums, wounds take longer to heal - *scurvy*
 Bones become soft and bent - *rickets*
 Weakness - *anaemia*
 ```
+### Crossword
+www.pschool.in/1675927443769
 
