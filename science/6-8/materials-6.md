@@ -76,10 +76,10 @@ Leaf *floats* on the surface of water while a coin *sinks* to the bottom.
 ```
 ### Odd one out
 ```
+*Sand*, Sugar, Salt, Copper sulphate
 *Baby*, Chair, Bed, Table, Cupboard
 *Boat*, Rose, Jasmine, Marigold, Lotus
 *Sand*, Aluminium, Iron, Copper, Silver
-*Sand*, Sugar, Salt, Copper sulphate
 ```
 ### Float or Sink
 Classify the given materials  based on if they float or sink in water.
@@ -150,7 +150,7 @@ Soft
 Hard
 Opaque
 
-What are materils through which we can not see are called?
+What are the materials through which we can not see are called?
 Opaque
 Transparent
 Transclusent
