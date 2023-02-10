@@ -65,8 +65,7 @@ Fabric from yarns is made by *weaving* and knitting.
 ### Answer in one word (drag and drop)
 ```
 The process of making yarn from fibres is called: *spinning*
-The process of arranging two sets of yarns together to
-make a fabric is called: *weaving*
+The process of arranging two sets of yarns together to make a fabric is called: *weaving*
 The process of removing seed from cotton is called: *ginning*
 The process by which a single yarn is used to make a peice of cloth is called: *knitting*
 ```
@@ -147,6 +146,5 @@ In ancient Egypt, cotton as well as flax were cultivated near the river Nile and
 The early Indians wore fabrics made out of *cotton (jute)* that grew in the regions near the river Ganga. 
 Flax is also a plant that gives *natural (synthetic)* fibres. 
 In ancient *Egypt (India)* , cotton as well as flax were cultivated near the river *Nile (Ganga)* and were used for making fabrics.
-To popularise and promote khadi, the Government of India
-constituted a body called Khadi and Village Industries Commission in *1956 (1965)*.
+To popularise and promote khadi, the Government of *India (Egypt)* constituted a body called Khadi and Village Industries Commission in *1956 (1965)*.
 ```
