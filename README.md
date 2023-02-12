@@ -5,7 +5,7 @@ _Note: This project is in the early stage._
 ## Brief History
 
 In Jan 2018, we started PSchool App as a simple web app where the students can
-practice what they learn in the class room. As teachers, we observed students
+practice what they learn in the classroom. As teachers, we observed students
 forget what they learn in the classroom after a week or a month. So we build an
 App that students can practice the concepts and retain their learning. PSchool
 means Practice School.
