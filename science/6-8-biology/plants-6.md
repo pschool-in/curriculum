@@ -6,19 +6,15 @@
 ## Getting to know plants - Reading
 
 ### Herbs, Shrubs and Trees
-
 The plants that we see around us can be classified into herbs, shrubs or trees based on the height of the plant, the nature of the stem and based on the point of branching. The plants which are short with green and tender stems are catergorized as herbs.They may not have many branches. Trees are very tall with thick and hard stem. For trees the branching points appear higher up on the thick and hardened stem. Shrubs have moderate height with a hard stem but branching points appear at the base of the stem.
 
 ### Stem
-
 Stem supports a plant and bear leaves, branches, buds, flowers and fruits.Plants with weak stems that cannot stand upright but spread on the ground are called creepers, while those that take support and climb up are called climbers. Stem helps in upward movement of water. The water and minerals go to the leaves and other plant parts attached to the stem.
 
 ### Leaf
-
 Leaves are attached to the stem by a structure called petiole. The broad green part of the leaf is called lamina. The lines on a leaf are called veins. The prominent line in the middle of the leaf is a midrib. The design made by the veins in a leaf is called the leaf venation. If the design is net like on both sides of the midrib then the venation is said to be reticulate. If the design is parallel to one another as in grass, then the venation is called parallel venation. Water comes out of eaves in the form of vapour by a process called transpiration. Leaves prepare their food in the presence of sunlight and a green coloured substance present in them. For this, they also use water and carbon dioxide. This process is called photosynthesis. Oxygen is given out in this process. The food prepared by leaves ultimately gets stored in different parts of plant.
 
 ### Root
-
 Roots act as an anchor that hold the plant firmly to the soil. Different types of plants have different stucture for roots as well. The two main type of roots are tap root and fibrous root. In a tap root system the main root is called tap root and the smaller roots are called lateral roots. In fibrous root system the plant lacks a main root and the roots seem similar. These are called fibrous roots. Roots of some plants such as carrot, radish, sweet potato, turnip and tapioca are edible.
 
 ### Flower
@@ -28,29 +24,19 @@ The most prominent and colourful part of a flower are called petals. The smal le
 
 ```
 Which of the following is not a criteria used to distinguish between herbs, shrubs and trees?
-Colour
-Branches
-Nature of stem
+Colour, Branches, Nature of stem
 
 What are plants with weak stem that spread on the ground called?
-Creepers
-Climbers
-Shrubs
+Creepers, Climbers, Shrubs
 
 What is the part of the leaf that is attached to the stem called?
-Petiole
-Lamina
-Midrib
+Petiole, Lamina, Midrib
 
 What is the broad, green part of the leaf called?
-Lamina
-Veins
-Buds
+Lamina, Veins, Buds
 
 What is the design made by veins in the leaf called?
-Leaf venation
-Leaf petiole
-Veins
+Leaf venation, Leaf petiole, Veins
 
 ```
 ### Fill in the blanks (drag and drop)
@@ -119,7 +105,7 @@ Clove is an edible seed.
 ```
 ### Parts of flower - Image (drag and drop)
 
-### Parts of plant (drag and drop)
+### Parts of plant (options)
 
 ```
 *Veins (lamina)* are branch out from the midrib.
