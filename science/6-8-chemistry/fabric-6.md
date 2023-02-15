@@ -103,34 +103,24 @@ Wool, Sheep
 Cotton, Fruit
 Jute, Stem
 Silk, Silkworm
-Nylon, Synthetc
+Nylon, Synthetic
 ```
 ### Multiple Choice Questions
 ```
 Which of the following is not a synthetic fibre?
-Jute
-Nylon
-Polyster
+Jute, Nylon, Polyster
 
 Which is the process used to make yarns?
-Spinning
-Ginning
-Knitting
+Spinning, Ginning, Knitting
 
 Which process uses a single yarn to make a peice of cloth?
-Knitting
-Weaving
-Ginning
+Knitting, Weaving, Ginning
 
 Which part of the cotton plant gives us cotton fbres?
-Fruit
-Stem
-Flower
+Fruit, Stem, Flower
 
 Which part of the jute plant is used to make jute fibres?
-Stem
-Leaf
-Fruit
+Stem, Leaf, Fruit
 ```
 
 ## History of Clothing Material - Reading
