@@ -76,9 +76,9 @@ Smoke: Burning of garbage
 Burning of cigarette
 Burning of fossil fuel
 
-Dust: viable particles
-mineral particles
-metallic particles
+Dust: Viable particles
+Mineral particles
+Metallic particles
 ```
 ### Oxygen or Carbon Dioxide
 Classify which component of air is used in the given process.
@@ -94,64 +94,34 @@ Fire extinguisher
 ### Multiple Choice Questions
 ```
 What are the properties of air?
-It occupies space
-It is present everywhere around us
-It has no colour and is transparent
-*All of the above
+It occupies space, It is present everywhere around us, It has no colour and is transparent, *All of the above
 
 Moving air is called
-wind
-dust
-smoke
-nitrogen
+wind, dust, smoke, nitrogen
 
-Properties of oxygen gas is
-colourless
-tasteless
-odourless
-*all of these
+Which of the following is a property of oxygen?
+colourless, tasteless, odourless, *all of these
 
 The composition of nitrogen gas in the atmosphere is
-78%
-21%
-1%
-0.01%
+78%, 21%, 1%, 0.01%
 
 Oxygen is a supporter of
-combustion
-nitrogen
-smoke
-dust
+combustion, nitrogen, smoke, dust
 
 Smoke is produced mainly by burning
-wood
-coal
-kerosene
-*all of these
+wood, coal, kerosene, *all of these
 
 The two gases which together make up about 99 per cent of the air are
-nitrogen and oxygen
-nitrogen and carbon dioxide
-nitrogen and ozone
-carbon dioxide and oxygen
+nitrogen and oxygen, nitrogen and carbon dioxide, nitrogen and ozone, carbon dioxide and oxygen
 
 Mountaineers carry oxygen cylinder with them because
-there is deficiency of oxygen on mountains at high altitude
-oxygen is used for cooking
-oxygen keeps them warm at low temperature
-there is no oxygen on high mountains
+there is deficiency of oxygen on mountains at high altitude, oxygen is used for cooking, oxygen keeps them warm at low temperature, there is no oxygen on high mountains
 
 Which components of air are harmful to living organisms?
-Dust and smoke
-Oxygen and carbon dioxide
-Smoke and water vapour
-Nitrogen and oxygen
+Dust and smoke, Oxygen and carbon dioxide, Smoke and water vapour, Nitrogen and oxygen
 
 The gas released by the green plants during photosynthesis is
-oxygen
-carbon dioxide
-helium
-nitrogen
+oxygen, carbon dioxide, helium, nitrogen
 ```
 ## Oxygen - Reading
 ### How does oxygen become available to animals and plants?
