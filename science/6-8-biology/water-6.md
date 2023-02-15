@@ -17,31 +17,24 @@ In our daily life we use a lot of water for many activities. We need water for d
 
 
 ### Where do we get water from?
-
 Each of us may be getting water into our homes in different ways. But, finally, all of us get water from the same sources such as ponds, lakes, rivers and wells.
 
 ### Water Cycle
-
 The circulation of water between ocean and land is known as the water cycle. 
 
 ### Loss of Water by Plants
-
 Plants use a part of the water they absorb to prepare their food and retain some of it in their different parts. Remaining part of this water is released by the plants into air, as water vapour through the process of transpiration.
 
 ### How are clouds formed? 
-
 At sufficient heights, the air becomes so cool that the water vapour present in it condenses to form tiny drops of water called droplets. It is these tiny droplets that remain floating in air and appear to us as clouds. Many drops of water join together to faorm large drops of water. Some drops of water become so heavy that they begin to fall to form rain.
 
 ### Back to the ocean
-
 Most of the water that falls on the land as rain and snow sooner or later goes back to the oceans. This happens in many ways. Snow in the mountains melts into water. This water flows down the mountains in the form of streams and rivers. Some of the water that falls on land as rain, also flows in the form of rivers and streams. Most of the rivers cover long distances on land and ultimately fall into a sea or an ocean. However, water of some rivers flows into lakes. A part of the rainwater gets absorbed by the ground and seems to disappear in the soil. Some of this water is brought back to the air by the process of evaporation and transpiration. The rest seeps into the ground. Most of this water becomes available to us as ground water. Excessive rains may cause floods while lack of it for long periods may cause droughts.
 
 ### Conservation of water
-
 The demand for water is increasing day-by-day. The number of people using water is increasing with rising population. In many cities, long queues for collection of water are a common site. Also, more and more water is being used for producing food and by the industries. These factors are leading to shortage of water in many parts of the world. Hence, it is very important that water is used carefully. We should take care not to waste water.
 
 ### Rainwater Harvesting
-
 One way of increasing the availability of water is to collect rainwater and store it for later use. Collecting rainwater in this way is called rainwater harvesting.
 
 1. Rooftop rainwater harvesting: In this system the rainwater is collected from the rooftop to a storage tank, through pipes. This water may contain soil from the roof and need filtering before it is used. Instead of collecting rainwater in the tank, the pipes can go directly into a pit in the ground. This then seeps into the soil to recharge or refill the ground water.
@@ -51,27 +44,18 @@ One way of increasing the availability of water is to collect rainwater and stor
 
 ### Multiple Choice Questions 
 
-
 ```
 What is formed when the water vapour in air condenses to form droplets of water?
-Cloud
-Hail
-Snow
+Cloud, Hail, Snow
 
 What will happen when there is excessive rainfall?
-Flood
-Drought
-Hailstrom
+Flood, Drought, Hailstrom
 
 What will happen when there is no rainfall for a long period of time?
-Drought
-Flood
-Eartquake
+Drought, Flood, Eartquake
 
 Which process leads to loss of water from plants?
-Transpiration
-Respiration
-Evapouration
+Transpiration, Respiration, Evapouration
 ```
 ### Evapouration or Condensation
 
@@ -118,7 +102,7 @@ The amount of usable water on earth is *limited (unlimited)* so it needs to be u
 
 ## Water Cycle (Complete word).
 ```
-The ontinuous movement of water from the Earth to the atmosphere and back to the Earth.|WATER CYCLE | W_T__ _Y__E
+The continuous movement of water from the Earth to the atmosphere and back to the Earth.|WATER CYCLE | W_T__ _Y__E
 The process in which water is changed into water vapour by the heat of the sun.|EVAPORATION| E____R____N
 The process of converting water vapour into water on cooling.|CONDENSATION|C___E___T___
 The water droplets join together to form _____.| CLOUDS| C___D_
