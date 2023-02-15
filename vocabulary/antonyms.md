@@ -275,3 +275,258 @@ scatter, collect
 serious, trivial
 virtue, vice
 ```
+# level - 4
+
+```
+fix, break
+resist, yield
+lead, follow
+arrest, release
+concentrate, daydream
+appropriate, improper
+```
+
+```
+assist, prevent
+grim, pleasant
+steer, follow
+magnificient, ugly
+observe, glance
+scheduled, unplanned
+```
+
+```
+contain, exclude
+cling, detach
+predator, prey
+victory, failure
+trust, distrust
+poised, anxious
+```
+
+```
+corrupt, principled
+deposit, withdraw
+massive, miniature
+constant, unstable
+climax, letdown
+detach, link
+```
+```
+pedestrian, motorist
+eligible, disqualified
+debate, agree
+criticize, praise
+havoc, peace
+excavate, bury
+```
+```
+zig-zag, straight
+accomplish, blunder
+maximum, merest
+available, absent
+myth, truth
+soar, land
+```
+```
+multiply, lessen
+misunderstand, grasp
+manual, automated
+impressive, insignificant
+gigantic, tiny
+minute, immense
+```
+```
+bravery, cowardice
+crooked, straight
+stain, purify
+ancestor, descendant
+exposure, shelter
+cruel, kind
+```
+```
+written, oral
+master, servant
+haste, delay
+vague, clear
+punish, reward
+arrival, departure
+```
+```
+attract, repel
+common, uncommon
+attack, defend
+ability, inability
+imperfect, perfect
+flaw, perfection
+```
+# level - 5
+
+```
+bicker, concur
+distress, pleasure
+captivity, freedom
+limp, stiff
+substantial, insignificant
+quench, parch
+```
+```
+fiasco, triumph
+utmost, minimal
+infamous, glorious
+inevitable, avoidable
+onset, conclusion
+concise, wordy
+```
+```
+arrogant, modest
+offbeat, regular
+terminate, initiate
+generate, demolish
+conserve, squander
+crude, refined
+```
+```
+dominate, submit
+efficient, unproductive
+solitary, together
+fatigue, liveliness
+exhibit, conceal
+squash, expand
+```
+```
+agony, comfort
+myriad, scarcity
+gratify, disappoint
+cultivate, neglect
+admire, detest
+persist, quit
+```
+```
+absurd, sensible
+dainty, clumsy
+economise, waste
+frosty, sweltering
+yoke, release
+wilt, revive
+```
+```
+vicious, cordial
+keen, insipid
+subsequent, former
+justify, invalidate
+punishment, bounty
+amnesty, blame
+```
+```
+anxiety, relief
+radical, conservative
+charity, theft
+abnormal, customary
+famous, anonymous
+diligent, lazy
+```
+```
+fantastic, sober
+preference, dislike
+furious, calm
+moderate, extreme
+mischievous, well-behaved
+militant, peaceful
+```
+```
+migrant, immovable
+coarse, fine
+foe, friend
+immaculate, dirty
+gratitude, ungratefulness
+gaunt, plump
+```
+# level - 6
+
+```
+murky, luminous
+nurture, neglect
+astute, ignorant
+lavish, economical
+abrupt, gradual
+abet, discourage
+```
+```
+abolition, establishment
+feasible, impossible
+wary, rash
+recede, advance
+irate, content
+resolute, indecisive
+```
+```
+ajar, airtight
+dowdy, fashionable
+sullen, upbeat
+chide, compliment
+boisterous, quiet
+deteriorate, upgrade
+```
+```
+drastic, mild
+consent, modern
+primitive, soothe
+provoke, fickle
+propel, retreat
+desperate, hopeful
+```
+```
+hazardous, secure
+novice, expert
+callous, compassionate
+zealous, indifferent
+vestige, plethora
+industrious, idle
+```
+```
+perish, revive
+taunt, compliment
+summit, bottom
+athletic, frail
+prosper, oppose
+attic, cellar
+```
+```
+exclude, cherish
+forbid, permit
+elementary, advanced
+remain, vanish
+continue, interrupt
+wondrous, commonplace
+```
+```
+pompous, humble
+motley, uniform
+flourish, dwindle
+tyranny, democracy
+bustle, inactivity
+adjunct, principal
+```
+```
+dictate, request
+conceal, expose
+sterile, fruitful
+consecutive, interrupted
+courteous, rude
+monotonous, interesting
+```
+```
+momentous, unimportant
+flippant, respectful
+eternal, transient
+ecstasy, misery
+dormant, awake
+```
+```
+congested, clear
+conflict, peace
+jubilant, dejected
+impartial, partial
+amateur, professional
+
