@@ -117,3 +117,21 @@ The prominent line in the middle of the leaf is a *midrib (vein)*.
 The design made by the veins in a leaf is called the leaf *venation (veination)*.
 
 ```
+### Parts of Plant (Complete Word)
+```
+The process by which plants loose water |TRANSPIRATION| T___S________
+The process by which plants make food |PHOTOSYNTHESIS| P____S_____S__
+The part of leaf that attaches it to the stem |PETIOLE| P______
+The part that holds the plant upright |STEM| S___
+The lines on a leaf |VEINS| ___N_
+```
+### Leaf (drag and drop)
+```
+Leaves are attached to the stem by a structure called *petiole*. 
+The broad green part of the leaf is called *lamina*. 
+The lines on a leaf are called *veins*. 
+The prominent line in the middle of the leaf is a *midrib*.
+The design made by the veins in a leaf is called the leaf *venation*.
+Water comes out of eaves in the form of vapour by a process called *transpiration*.
+```
+

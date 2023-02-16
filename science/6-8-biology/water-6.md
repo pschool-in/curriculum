@@ -127,3 +127,18 @@ Excessive rains may cause *floods* while lack of it for long periods may cause *
 ```
 Evapouration, Condensation, Sublimation, Precipitation
 ```
+### Yes or No 
+Does the following activities help in the conservation of water?
+```
+Yes: Take five minutes or less for showers.
+Use plants that require less water.
+Turn off sink faucet while scrubbing dishes and pots.
+Install new toilets that use less than 1.6 gallons per flush.
+Turn off water while brushing teeth.
+
+No: Taking long showers.
+Leaky pipes.
+Letting water running while brushing teeth.
+Ignoring faulty faucets.
+```
+
