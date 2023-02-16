@@ -117,7 +117,7 @@ The prominent line in the middle of the leaf is a *midrib (vein)*.
 The design made by the veins in a leaf is called the leaf *venation (veination)*.
 
 ```
-### Parts of Plant (Complete Word)
+### Plants (Complete Word)
 ```
 The process by which plants loose water |TRANSPIRATION| T___S________
 The process by which plants make food |PHOTOSYNTHESIS| P____S_____S__
