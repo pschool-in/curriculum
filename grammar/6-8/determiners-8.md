@@ -53,6 +53,7 @@ I want to buy *this (its)* necklace for my sister.
 All the presents are here. I will ask Aleema to pack *these (those)* gifts quickly.
 Neha is in Assam. I ran into *her (his)* cousin at the market yesterday and he told me.
 Who is that young woman? She is *your (its)* assistant, I presume.
+
 The boys were very noisy. She wanted *those (them)* boys to go away.
 There is a tea shop across the street. Arya likes *that (this)* tea shop.
 I don’t know where Sruthy and Abishek live. Let’s ask Kiara. She knows *their (your)* address.
@@ -67,6 +68,7 @@ I thought *my* water bottle was Lost. (I)
 The college is famous for *its* education and placement. (College)
 I said to Maira, ‘I think *this* is your pencil.’ (Mahira’s)
 Please don’t take those. Those are *my* color pencils, not yours. (I)
+
 This is *his* car, isn’t it? (Arman’s)
 The Mehta brothers are wealthy. This is *their* estate. (Mehta brothers)
 They have finished *their* meeting yesterday.(Mehta brothers)
@@ -108,16 +110,17 @@ Fill in the blanks with appropriate question words.
 *Which* book do you think is more interesting?
 *What* filling do you want in your sandwich?
 *Which* color do you like the most five?
+
 *How* many baskets of mangoes did you collect from the grove?
 *Whose* bag is that blue one?
 *What* language books she was reading in the library?
 *Whose* family has a house near the cinema?
 *How* much water do you drink a day?
+
 *Which* country does the football star Son Heungmin play for?
 *Whose* mother is she?
 *What* ice cream do you like better, chocolate or mintchoco?
 *Which* book are you reading now?
-
 *How* much noodles should we cook?
 ```
 ### Fill up using determiners
@@ -161,6 +164,7 @@ Ritika danced with *every* celebrity present in the function.
 Can you sing *a* song for me?
 *This* story is really intriguing.
 Nobody understood anything *the* teacher taught.
+
 There are *some* books in the class.
 I just had *an* apple and *some* orange juice.
 Do you have *any* food left?
@@ -176,6 +180,7 @@ He has only *a few* friends.
 A poor man has *little* money to waste.
 There is *a little* work left to complete.
 *The little* work left yesterday has been completed.
+
 It is the end of the month, but I still have *a few* rupees left.
 We have *a few* trees in our school.
 He is very busy. He has *little* time to watch TV.

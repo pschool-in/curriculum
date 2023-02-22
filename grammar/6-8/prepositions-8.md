@@ -31,6 +31,7 @@ There is a fence *around* the garden.
 We stood *at* the bus stop.
 The jewels are kept *in* a box.
 Have you looked *under* the bed?
+
 We waited *in* the reception hall for two hours.
 The painting *on* the roof of the church are incredible.
 I live in *Kerala *in* a town called Alappuzha.
@@ -47,6 +48,7 @@ We will get the finished product *in* May.
 Will you visit us *at* Diwali?
 *During* summer, it becomes very hot and humid in the plains.
 What did you discuss *at* the meeting.
+
 He has been living here *for* five years
 We had a holiday *on* 18 April.
 We reached *in* time to catch the train.
@@ -75,6 +77,7 @@ He did not fulfil his promise *until (by)* it was too late.
 Many think Jackson looks *like (as)* Park Jihoon.
 Rishi was employed *as (like)* my brothers’s secretary.
 Tony spends money freely *as if (as)* it grew on trees.
+
 Jake came first in his class *as (like)* everyone expected.
 You are free to keep the book *until (by)* Tuesday, but I must have it back *by (until)* Wednesday.
 Jay orders his friends about, *as if (as)* they were his servants.
@@ -83,6 +86,7 @@ There are many diseases caused *by (of)* dirt and filth.
 Jessi was the main cause *of (by)* Ron's misery.
 Athiya went to Tokyo *at (in)* the age of 3. 
 You will receive the payment *within (during)* 30 days of joining. 
+
 In the absence of professional experience, you will be *at (in)* a disadvantage here. 
 I have not seen her *for (since)* the last nine months. 
 You must travel by the train to reach *on (in)* time. 
@@ -98,6 +102,7 @@ I would rather have chocholate milkshake *instead of (instead from)* cold coffee
 *In case of (In case)* fire, break the glass to escape.
 I am standing here *on behalf of (on behalf)* my colleagues.
 Renuka solved the problem *by means of (by means)* a new device developed by the engineers at her company.
+
 *On the whole (By the whole)*, Meera had a happy childhood.
 Can you help Riya *in any way (any way)*?
 Mary didn’t allow cancer to discourage her. *On the contrary (By the contrary)*, she began to work twice as hard.
@@ -123,6 +128,7 @@ We will stop at many attractions *along* the way.
 The kids are hiding *behind* the tree.
 Walk *toward* the garage and then turn left.
 Place a check mark *within* the box.
+
 The gas station is *by* the grocery store.
 The park is *near* her house.
 There is a deer *between* the two trees.
