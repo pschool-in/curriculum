@@ -77,3 +77,21 @@ Unless you tell me your problems, I cannot help.
 If I had come to the party, I could have met my friend.
 If you excercise daily, you will reduce weight faster.
 ```
+### Multiple Choice Questions
+Complete the sentences using appropriate clauses.
+```
+Sangitha sang _________________.
+like a professional, as a professional, thinking as a professional
+
+Akash hid the box ___________________.
+under the table, at under the table, in the table
+
+Kartika left the office _______________.
+after finishing her work, finishing her work, at finishng her work
+
+Parvathi is a girl ______________________.
+who is good at dance, is good at dance, good at dance
+
+_____________________, we can go home together.
+If we meet after class, We meet after class, Meet after class
+```
