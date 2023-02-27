@@ -33,45 +33,24 @@ attorney,barrister/solicitor
 cookie, biscuit
 hood, bonnet
 trunk, boot
-suspenders,braces
 
-janitor, caretaker
-drug store, chemist's
-french fries, chips
 the movies, the cinema
 patrolman, constable
-
 stove, cooker
-wheat, corn/wheat
 crib, cot
-thread, cotton
 wreck, crash
 
 intersection, crossroads
 drapes, curtains
-checkers, draughts
 thumbtack, drawing pin
-divided highway, dual carriageway
-
-pacifier, dummy
-trashcan, dustbin
-garbage collector, dustman
 generator, dynamo
-motor, engine
 
-engineer, engine driver
 movie, film
 apartment, flat
 overpass, flyover
 yard, garden
 
-gear-shift, gear-lever
-alumnus, graduate
 boiler, grill
-first floor, ground floor
-rubbers, gumshoes/wellington boots
-
-sneakers, gym shoes/tennis-shoes
 purse, handbag
 billboard, hoarding
 vacation, holiday
@@ -86,82 +65,44 @@ elevator, lift
 truck, lorry
 baggage, luggage
 raincoat, mackintosh
-crazy, mad
 highway, main road
 
 corn, maize
-math, maths
-stingy, mean
-freeway, motorway
 diaper, nappy
-
 vicious/mean, nasty
 noplace, nowhere
-private hospital, nursing home
 optometrist, optician
 
-liquor store, off-license
-kerosene, paraffin
 sidewalk, pavement
 peek, peep
-gasoline, petrol
-
 mail, post
 mailbox, postbox
 mailman, postman
-potato chips, crisps
 
 baby carriage, pram
-bar, pub
 restroom, public toilet
 blow-out, puncture
-stroller, push-chair
-
 line, queue
-railroad, railway
-railway car, railway carriage
-spool of thread, reel of cotton
-
-round trip, return (ticket)
-call collect, reverse charges
-raise, rise 
-pavement, road surface
 
 traffic circle, roundabout
 eraser, rubber
-garbage, rubbish
-sedan, saloon (car)
 Scotch tape, cellotape
-
 store, shop
-muffler, silencer
-one-way, single (ticket)
-someplace, somewhere
 wrench, spanner
 
 faculty, staff 
-oil pan, sump
 dessert, sweet
 candy, sweets
 faucet, tap
-
-spigot, tap 
 cab, taxi
+
 dish-towel, tea-towel
 semester, term
-pantyhose, tights
-
 schedule, timetable
 can, tin
-turnpike, toll motorway
 flashlight, torch
-hobo, tramp
 
 pants, trousers
-cuffs, turn-ups
-subway, underground railway
-shorts, underpants
-
 vest, waistcoat
 closet, wardrobe
 windshield, windscreen
@@ -175,9 +116,7 @@ I'd like to hang the *drapes (curtains)* tonight. Do you have time?
 We took the *elevator (lift)* to the 10th floor.
 Would you like to see a *movie (film)* tonight?
 Have you seen Tom's new *apartment (flat)* yet? It's very nice.
-Run down to the *drug store (chemist's)* and buy some aspirin, please.
 
-Let's go to the *bar (pub)* and get a drink.
 I'll take the *garbage (rubbish)* out before I leave tomorrow morning.
 Take the second exit at the *traffic circle (roundabout)*.
 Let's get have some *potato chips (crisps)* with lunch. 
@@ -187,7 +126,6 @@ Peter wore a pair of slim fitting *pants (trousers)* to the party.
 She opened the *tap (spigot)* and watered the garden.
 Have you ever worn a *vest (waistcoat)* with a suit?
 I'll pick up the *mail (post)* on the way home from work.
-Could you buy me a pair of *pantyhose (tights)* at the mall?
 ```
 ### British English (options)
 Fill in the blanks using words in British English
@@ -196,12 +134,10 @@ We need to find a *public toilet (restroom)* soon.
 Let's get the *pram (baby carriage)* and take a walk with Jennifer. 
 I'm afraid I had a *puncture (blow-out)* and had to get it fixed.
 Could you bring in that *tin (can)* of tuna over there?
-He puts his *trousers (pants)* on like any other person.
 
 She's very *mean (stingy)* with her money. Don't ask her for any help.
 I generally don't wear a suit with a *waistcoat (vest)*.
-We should ask a *constable (patrolman)* for help.
-Let's go to the *off-license (liquor store)* and get some whiskey. 
+We should ask a *constable (patrolman)* for help. 
 Get on *queue (line)* and I'll get us something to eat.
 
 Grab a *tea-towel (dish towel)* and clean that up.

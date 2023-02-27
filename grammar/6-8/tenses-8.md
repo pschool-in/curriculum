@@ -236,7 +236,7 @@ I shall break the lock open and get into the room.
 ### Correct or Incorrect
 Classify the following sentence based on the usage of tense in verb into correct or incorrect.
 ```
-Correct: He passes in English.
+Correct: He passed in English.
 Light the lamp.
 When will you take the test?
 The teacher will give us a test in English next week.
@@ -258,8 +258,7 @@ I fear he will fail.
 I looked into the bus, but saw none.
 He works hard lest he should fail.
 Our hen has laid ten eggs.
-He fell off the roof and was dead.
-
+He fell off the roof and was injured.
 
 Incorrect: He is pass in English.	
 Burn the lamp.	
@@ -283,5 +282,5 @@ I hope he will fail.
 I saw into the bus, but looked none.	
 He works hard lest he should not fail.	
 Our hen has given ten eggs.	
-He fell off the roof and died.	
+He fell off the roof and injure.	
 ```

@@ -43,7 +43,7 @@ Meera reached home late, *yet* she looked very energetic.
 Do you like black olives *or* green olives?
 Jay is sure that he locked the door, *but* he cannot remember if he took the keys.
 
-Vernon neither wrote *nor* called.
+Vernon neither replied to my message *nor* called me back.
 I am very tired *for* I have been working all day.
 He not only bought us a drink *but* also gave us a lift in his car.
 They not only looted the shop *but* also set fire to it.
