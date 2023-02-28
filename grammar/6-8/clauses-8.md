@@ -95,3 +95,36 @@ who is good at dance, is good at dance, good at dance
 _____________________, we can go home together.
 If we meet after class, We meet after class, Meet after class
 ```
+## Relative Clauses - Reading
+Relative clauses are non-essential parts of a sentence. They may add meaning, but if they are removed, the sentence will still function grammatically.
+1. A defining clause tells us which specific person or thing we are talking about in a larger group of people or things.
+Example - The woman who visited me in the hospital was very kind.
+2. A non-defining clause gives us more information about the person or thing we are talking about.
+Example - The farmer, whose name was Ram, sold us five pounds of cherries.
+
+### Identify
+Identify the relative clauses from the following sentences.
+```
+The woman *who visited me in the hospital* was very kind.
+The umbrella *that I bought last week* is already broken.
+The man *who stole my backpack* has been arrested.
+The weather *that we had this summer* was beautiful.
+
+The farmer, *whose name was Ram*, sold us five pounds of cherries.
+Elephants, *which are the largest land mammals*, live in herds of ten or more.
+The author, *who graduated from the same university as I did*, gave a wonderful motivation speech.
+My mother, *who is fifty*, lives in Dubai.
+```
+### Defining or Non-defining
+Classify the following sentences based on the type of relative clause used.
+```
+Defining: The woman who visited me in the hospital was very kind.
+The umbrella that I bought last week is already broken.
+The man who stole my backpack has been arrested.
+The weather that we had this summer was beautiful.
+
+Non-defining: The farmer, whose name was Ram, sold us five pounds of cherries.
+Elephants, which are the largest land mammals, live in herds of ten or more.
+The author, who graduated from the same university as I did, gave a wonderful motivation speech.
+My mother, who is fifty, lives in Dubai.
+```
