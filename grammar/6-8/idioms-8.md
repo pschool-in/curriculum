@@ -1,8 +1,11 @@
-# Grade - 8 
+# Grade - 8
+
 ## Idioms - Reading
-Examples of some idioms are given below: 
+
+Examples of some idioms are given below:
+
 1. Eat humble pie - to apologize humbly; to yeild under humiliating circumstances
-2. Eat your words - to take back what you have said 
+2. Eat your words - to take back what you have said
 3. Meet you half-way - come to a compromise with you
 4. Put me on my mettle - roused me to do my best
 5. Not worth his salt - quite worthless
@@ -12,8 +15,10 @@ Examples of some idioms are given below:
 9. By hook or by crook - by any means; by fair means or foul
 10. Strained every nerve - used his atmost efforts
 
-### Multiple Choice Questions 
+### Multiple Choice Questions
+
 Choose the correct meaning of the following Idioms.
+
 ```
 To have a dig at
 To criticise someone, To sow seeds in a pot, To praise someone
@@ -48,20 +53,23 @@ To meditate, To contrive against someone, To die on duty, To inculcate virtues
 ‘To pull through’ means
 To recover, To pull with strength, To use a lot of energy, To control
 
-A fish out of water 
-In want of a house, Determined to live, In a strange situation
+A fish out of water
+In a strange situation, In want of a house, Determined to live
 
 ‘A wild goose chase’ is
 A useless enterprise, A violent chase, A pleasurable hunt, A harsh gesture
 
-Make hay while the sun shines 
-Be active during the day, Be merry during the summer, Make maximum use of a given opportunity
+Make hay while the sun shines
+Make maximum use of a given opportunity, Be active during the day, Be merry during the summer
 
 To bank upon
 To depend, To hope, To harness, To invest
 ```
+
 ### Fill in the blanks (drag and drop)
+
 Complete the sesntence using suitable idioms.
+
 ```
 I was feeling a bit *under the weather*.
 It was her chance to speak and she was *getting cold feet*.
@@ -99,7 +107,7 @@ She was just *beating a dead horse* in thinking she could change his mind.
 *Speak of the devil*! Here he comes.
 
 The police had warned us to *let sleeping dogs lie* and move ahead with our lives.
-Ameer just let the *cat out of the bag* by revealing the gender of the baby.
+Ameer just let the *cat out of the bag* by revealing that he is dropping out of college.
 We had to identify the *elephant in the room* before we made a decision.
 The teacher asked us to quote the findings *in a nutshell*.
 Every word of what you say is worth its *weight in gold*.
