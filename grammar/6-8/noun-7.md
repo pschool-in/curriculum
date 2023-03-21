@@ -184,6 +184,131 @@ Duke, Prince, King, Queen
 
 ```
 
+### Collective noun (drag and drop)
+
+```
+The captain guided the *team* to play better.
+The *flock* of sheep was grazing in the fields.
+My father brought a *bouquet* of lilies for my mother.
+A *pack* of wolves howled at night.
+A *swarm* of bees flew into the garden.
+
+The hunter carries a *quiver* of arrows.
+Our cat gave birth to a *litter* of kittens.
+The *army* marched forward on the battlefield.
+Can you pass me the *bunch* of keys?
+The French destroyed the Armenian *fleet*.
+
+Do you know about the *cast* of this movie?
+The *crew* struggled to lead the ship past the stormy waves.
+The *board* decided to appoint Riya as the Manager.
+Please clean the *pile* of garbage.
+The entire medical *staff* got infected by the Coronavirus.
+
+The Beatles is a famous *band*.
+The *troupe* performed the Macbeth drama.
+The Andaman and Nicobar Islands comprise a *group* of 573 islands.
+The *jury* passed a unanimous decision.
+A *cloud* of dust swirled up during the storm.
+
+```
+
+### Complete Word - Collective noun
+
+```
+A number of people listening to a lecture/concert | AUDIENCE
+A group of people who sing in the church or public platforms | CHOIR
+A number of judges who are engaged in a case | JURY
+A collection of tools | SET
+A collection of poems | ANTHOLOGY
+
+A collection of different types of books | LIBRARY
+A number of grapes or nuts on a bunch | CLUSTER
+A collection of ducks, chickens or fowls | POULTRY
+A number of directors of any institution | BOARD
+A number of lions | PRIDE
+
+A number of stars in the sky | CONSTELLATION
+A group of bacteria | CULTURE
+A group of penguins | COLONY
+A group of fish | SCHOOL
+A number of cards | DECK
+
+```
+
+### Abstract Noun
+
+Identify the abstract noun from the following sentences.
+
+```
+His wife resented his *devotion* to his job.
+If she had more *determination*, she could be a *success* at anything.
+The bad *weather* detained us for several hours.
+*Punishment* is not necessarily a deterrent.
+I finally overcame the *difficulty* of meeting people.
+
+The doctor’s *dilemma* was whether he should tell the patient the *truth*.
+We must respect the *dignity* of the high court.
+She spoke with *confidence*.
+We were frightened by her ominous *prediction*.
+
+That was a splendid *performance*.
+His *happiness* knew no bounds.
+There is some *misunderstanding* between the two brothers.
+```
+
+### Gender (complete word)
+
+Change the words in bold from feminine to masculine.
+
+```
+The *girl* looks very much like her mother. | BOY
+The girl looks very much like her *mother*. | FATHER
+The mistress gave her *maidservant* a present. | MANSERVANT
+The *mistress* gave her maidservant a present. | MASTER
+The *nun* is talking to my grandmother. | MONK
+The nun is talking to my *grandmother*. | GRANDFATHER
+My aunt was an airplane *stewardess* once. | STEWARD
+The *cow* was chased by the vixen. | BULL
+The cow was chased by the *vixen*. | FOX
+My maternal *aunt* is a spinster. | UNCLE
+My *niece* has a pet tabby-cat. | NEPHEW
+This *actress* played the part of the heroine in the movie. | ACTOR
+This actress played the part of the *heroine* in the movie. | HERO
+This girl is the *bride*. | GROOM
+Ms. Lee is our *headmistress*. | HEADMASTER
+```
+
+### Countable vs Uncountable
+
+```
+Countable: The *children* are playing in the garden.
+*Scientists* say that the environment is threatened by pollution.
+There are a lot of *windows* in our classroom.
+The *waiters* in this restaurant are very professional.
+
+My father drinks two big *glasses* of water every morning.
+*Drivers* must be careful; the road is slippery.
+Some *policemen* are organizing road traffic to avoid any accidents.
+I bought three *bottles* of mineral water for our picnic.
+
+Successful *candidates* will join the camp later this year.
+The *exercises* on this website are interesting.
+I met some nice *people* when I was walking along the beach.
+
+Uncountable: I don't like *milk*.
+I prefer *tea*.
+My mother uses *butter* to prepare cakes.
+
+We need some *glue* to fix this vase.
+The *bread* my mother prepares is delicious.
+I'd like some *juice* please!
+
+A rise in *oil* prices is inevitable since there is more and more world demand for energy.
+Dehydrated babies must drink a lot of *water*.
+
+```
+
 ## Making Plurals - Reading
 
 There are some rules for changing a singular noun to plural form.
@@ -307,6 +432,7 @@ Given below are few sentences, identify the case of the noun for them.
 ```
 Possesive: *Pari's* book is kept on the bed.
 The *farmer's* crops yielded a good profit.
+
 *Student's* ID card lost.
 *Uncle's* wallet was found by the police.
 This is my mother's *watch*.
@@ -314,12 +440,14 @@ This is my mother's *watch*.
 Nominative: *President* is going to Japan today.
 *Dessert* smells so good.
 The *mother* teaches the child in the morning.
+
 *Priyanka* is busy with school work.
 The *lawyer* will talk to the judge later.
 
 Objective: The mother teaches the *child* in the morning.
 Chetan Bhagat writes *novels*.
 The teacher punished the *boy*.
+
 The plate is on the *table.
 Gagan has lost his *wallet*.
 The river flows into the *sea*.
