@@ -1,4 +1,6 @@
-## Noun - Grade 4
+# Grade 4
+
+## Noun
 
 Countable nouns have singular and plural forms.
 one ruler - two rulers
@@ -292,3 +294,90 @@ try | TRIED
    Were you at school yesterday? No, I _wasn't_!
    Where _was_ James last week?
    There _was_ a lot of traffic in the street.
+
+### Choose the correct option. (options)
+
+```
+The weather is good today, but yesterday it *was (wasn't, were)* terrible.
+I *wasn't (was, weren't)* at school on Monday because I was ill.
+William Shakespeare *was (were, weren't)* a famous writer.
+They *weren't (was, wasn't)* on the bus; they were on the train.
+We enjoyed the meal. We *were (was, weren't)* very hungry!
+There *weren't (was, wasn't)* any milk in the fridge. It was empty.
+You *were (was, wasn't)* tired yesterday. Are you okay today?
+I didn't have an omelette. There *weren't (was, wasn't)* any eggs in the cupboard.
+Mike was happy because the exam *wasn't (was, weren't)* very difficult.
+Those people *weren't (was, wasn't)* students; they were teachers!
+The school *was (wasn't, were)* very noisy at two o'clock but now it's very quiet.
+```
+
+## Simple Past Tense: irregular verbs
+
+1. There are no rules for the affirmative past simple form of irregular verbs.
+   go - went; buy - bought; take - took; have - had
+   We _went_ on holiday to Luxor in 2011.
+   My dad _took_ a lot of photos there.
+2. We make the past simple negative and question forms of irregular verbs like regular verbs. We use didn't and did + the infinitive.
+   I was late, so I _didn't have_ breakfast.
+   _Did_ you _buy_ a T-shirt?
+
+### Fill in the blanks (no options)
+
+Complete Harry's story with the past simple forms of the verb in brackets.
+
+```
+Everything *went* (go) wrong yesterday.I *got* (get) up late, because my brother *did not set* (not set) the alarm clock. I *had* (have) a shower but the water *was* (be) cold.
+
+I *left* (leave) the house at 8.30, so of course I *missed* (miss) the bus. I *walked* (walk) to school. It *took* (take) me 30 minutes, and I *did not arrive* (not arrive) on time. My teacher was angry and *gave* (give) me a detention.
+
+In the morning, we *had* (have) a listening
+test in French. I *did not understand* (not understand) anything and I *got* (get) all the answers wrong!
+
+In the afternoon, we *had* (have) a PE lesson, but it *rained* (rain) and I *got* (get) very wet. Normally, I love PE but I *did not enjoy* (not enjoy) it yesterday.
+
+I *stayed* (stay) at school for an extra hour because of my detention. Then I *waited* (wait) at the bus stop for the bus but it *did not comr* (not come). I *walked* (walk) home.
+
+My parents *were* (be) worried because I was late. But my mum *made* (make) a nice dinner. I *felt* (feel) much better after that.
+```
+
+## Time Expressions
+
+1. We often use time expressions to say when something happened. We use them with the past simple when we talk about an action or situation which is finished.
+   in: I started school _in_ 2010.
+   last: They moved house _last_ year.
+   yesterday: I finished the book _yesterday_.
+   on: They arrived in Mumbai _on_ 24 January.
+   ago: She broke her arm three weeks _ago_.
+2. We put the time before ago, not after it.
+   I went to China two years ago. _Correct_
+   I went to China ago two years. _Incorrect_
+
+### Choose the correct option (mcq)
+
+Choose the correct word to complete the expression.
+
+```
+____ week
+last, ago, in, on
+
+__ 18 July.
+on, in, ago, last
+
+two years ___
+ago, in , last, on
+
+____ year
+last, ago, in, on
+
+six weeks ___
+ago, in, on, last
+
+__ 11 November
+on, ago, in, last
+
+__ 2010
+in, on, last, ago
+
+four days ___
+ago, in, last, on
+```
