@@ -131,37 +131,23 @@ Matchbox
 ### Multiple Choice Questions
 ```
 Which of the following is a tranparent material?
-Glass
-Wood
-Metal
+Glass, Wood, Metal
 
 Which of the following is transclusent?
-Plastic bag
-Glass
-Silver
+Plastic bag, Glass, Silver
 
 Which is not soluble in water?
-Sand
-Sugar
-Salt
+Sand, Sugar, Salt
 
 What are materials that are easily compressed called?
-Soft
-Hard
-Opaque
+Soft, Hard, Opaque
 
 What are the materials through which we can not see are called?
-Opaque
-Transparent
-Transclusent
+Opaque, Transparent, Transclusent
 
 Which of the following material is not  normally used in making of a pen?
-Wood
-Plastic
-Metal
+Wood, Plastic, Metal
 
 Which of the following is the most suitable material for making a chair?
-Wood
-Glass
-Leather
+Wood, Glass, Leather
 ```

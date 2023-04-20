@@ -22,7 +22,7 @@ The method of preparing compost with the help of redworms is called vermicompost
 6. Vermicompost ready within 3-4 weeks.
 
 ### Redworms
-Redworms do not have teeth. They have a structure called gizzard, which helps them in grinding their food. Powdered egg shells or sea shells could be mixed with the wastes. This would help redworms in grinding their food. A redworm can eat food equal to its own weight, in a day. Redworms do not survive in very hot or very cold surroundings. They also need moisture around them. If you take good care of your worms, in a month’sntime their number will double.
+Redworms do not have teeth. They have a structure called gizzard, which helps them in grinding their food. Powdered egg shells or sea shells could be mixed with the wastes. This would help redworms in grinding their food. A redworm can eat food equal to its own weight, in a day. Redworms do not survive in very hot or very cold surroundings. They also need moisture around them. If you take good care of your worms, in a month’s time their number will double.
 
 ### Think and Throw
 The garbage can be sorted before it is disposed off. Things that can be recycled like paper and things that can be reused needs to be separated out to reduce the bulk of garbage.
@@ -31,15 +31,14 @@ The garbage can be sorted before it is disposed off. Things that can be recycled
 Old newspapers, magazines, used envelopes, notebooks and any other paper materials can be recycled to obtain usefull products. The paper can be torn, made into a paste by submerging in water for a day and then spread on wire mesh and dried in the sun to form recycled paper.
 
 ### Plastics
-Some plastics can be recycled but not all. Consuming food packed in reused plastic is harmfull for our health. All kind of plastics give out harmful gases, upon heating or burning. These gases may cause many health problems,
-including cancer, in humans. Stray animals may swallow plastics bags and sometimes die due to this. Plastics may enter sewer system and block drains.
+Some plastics can be recycled but not all. Consuming food packed in reused plastic is harmfull for our health. All kind of plastics give out harmful gases, upon heating or burning. These gases may cause many health problems, including cancer, in humans. Stray animals may swallow plastics bags and sometimes die due to this. Plastics may enter sewer system and block drains.
 
 ### Fill in the blanks. (by drag and drop)
 ```
 *Landfill* is an area where the garbage collected from a city or town is dumped. 
 The area  used as a landfill is later converted into a *park*.
 Converting plant and animal waste including that from kitchen, into manure, is called *composting*.
-The method of making compost from kitchen garbage using redworms is called *vermicomposting8.
+The method of making compost from kitchen garbage using redworms is called *vermicomposting*.
 ```
 ### Fill in the blanks. (by options)
 ```
@@ -68,7 +67,7 @@ Recycle: Paper
 Cardboards
 Backpacks
 Batteries
-Alumiium cans
+Aluminium cans
 
 Reuse: Jute carrybags
 Handkercheif
@@ -105,49 +104,36 @@ Tear into bits, Submerge overnight in water, Pound to thick paste, Spread of wir
 Pick the better alternative from the two.
 ```
 Which of the following is the better alternative?
-Using banana leaves
-Using plastic plates
+Using banana leaves, Using plastic plates
 
 Which of the following is the better alternative?
-Using biodegradable bags for waste disposal
-Using polythene bags for waste disposal
+Using biodegradable bags for waste disposal, Using polythene bags for waste disposal
 
 Which of the following is the better alternative?
-Using jute or cotton carry bags
-Using disposable plastic bags.
+Using jute or cotton carry bags, Using disposable plastic bags.
 
 Which of the following is the better alternative?
-Using steel tiffin boxes and water bottles
-Using Plastic containers and botteles.
+Using steel tiffin boxes and water bottles, Using Plastic containers and botteles.
 
 Which of the following is the better alternative?
-Using cotton bags to store vegetables
-Using plastics bags to store vegetbles.
+Using cotton bags to store vegetables, Using plastics bags to store vegetbles.
 ```
 ### Multiple choice questions
 ```
 Who collect garbage in garbage trucks?
-Safai karamcharis
-Saf karamcharis
-Safai charis
+Safai karamcharis, Saf karamcharis, Safai charis
 
 What is done with the usefull garbage?
-Use to make compost
-Dumped in landfill
-Disposed in water bodies.
+Use to make compost, Dumped in landfill, Disposed in water bodies.
 
 What to plastics give out on burning?
-Harmfull gases
-Oxygen
+Harmfull gases, Oxygen
 
 When plastic enters a sewer system what damage can it cause?
-It can block drains.
-Allow water to pass freely 
+It can block drains, Allow water to pass freely 
 
-What can be used tu substitute plastic carry bags?
-Jute or cotton carry bags
-Polythene bags
-Disposable plastics
+What can be used to substitute plastic carry bags?
+Jute or cotton carry bags, Polythene bags, Disposable plastics
 ```
 
 

@@ -93,52 +93,28 @@ Tea leaves separated from tea using strainer.
 ### Multiple Choice Questions
 ```
 Why are mixtures separated?
-to remove undesirable substances
-to get desirable substances
-to obtain highly pure substances
-*all of the above
+to remove undesirable substances, to get desirable substances, to obtain highly pure substances, *all of the above
 
 The method of separation used to separate stones from rice is
-handpicking
-threshing
-winnowing
-all of these
+handpicking, threshing, winnowing, all of these
 
 Butter is separated from milk by
-churning
-sedimentation
-filtration
-decantation
+churning, sedimentation, filtration, decantation
 
 The separation of grains from husk is done by the process of
-winnowing
-handpicking
-sieving
-threshing
+winnowing, handpicking, sieving, threshing
 
 Threshing is done by
-beating
-animals
-machines
-*all of these
-
+beating, animals, machines, *all of these
 
 Filtration is a method to separate the components of a
-mixture of a liquid and an insoluble substance
-solution
-pure substance
+mixture of a liquid and an insoluble substance, solution, pure substance
 
 A solid is dissolved in water. Which one of the following methods can be used to separate it?
-Evaporation
-Decantation
-Distillation
-Filteration
+Evaporation, Decantation, Distillation, Filteration
 
 Which of the following method is used when there is a difference in size and colour of desirable and undesirable constituents?
-Handpicking
-Threshing
-Filtration
-Decantation
+Handpicking, Threshing, Filtration, Decantation
 
 ```
 ### Match the following
@@ -159,7 +135,7 @@ The process of conversion of water vapour into its liquid form is called *conden
 ```
 
 ### Handpicking or Winnowing
-Classify based on the method of separatio used.
+Classify based on the method of separation used.
 ```
 Handpicking: Separating mixture of chillies and ladies finger.
 Separation stone from rice, pulses and wheat.

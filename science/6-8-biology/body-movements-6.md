@@ -8,7 +8,7 @@
 # Grade - 6
 ## Body Movements - Reading
 ### Human body and its movements
-We are able to move some parts of our body easily in various directions, some can only be moved in a single direction and some parts cannot be moved at all. We are able to bend or rotatae our body in places where two parts of our body seem to be joined together like the elbow, shoulder or neck. These places are called joints. It is not one long bone from the upper arm to uor wrist. It is different bones joined together at the elbow. Similarly, there are many bones present in each part of the body. We can bend or move our body only at those points where bones meet. There are different types of jints in our body to help us carry out different movements and activites.
+We are able to move some parts of our body easily in various directions, some can only be moved in a single direction and some parts cannot be moved at all. We are able to bend or rotatae our body in places where two parts of our body seem to be joined together like the elbow, shoulder or neck. These places are called joints. It is not one long bone from the upper arm to our wrist. It is different bones joined together at the elbow. Similarly, there are many bones present in each part of the body. We can bend or move our body only at those points where bones meet. There are different types of joints in our body to help us carry out different movements and activites.
 
 ### Ball and socket joints
 When the rounded end of one bone fits into the cavity or hollow space of the other bone it forms the ball and socket joint. Such a joint allows movements in all directions.
@@ -23,11 +23,10 @@ Hinge joints only allow back and forth movements. The elbow has a hinge joint.
 Some joints between bones in our head are different from the other joints . The bones cannot move at these joints. Such joints are called fixed joints. The joint between the upper jaw and the rest of the head is a fixed joint.
 
 ### Skeleton
-All the bones in our body form a framework that gives shape to our body. This frame work is called the skeleton. We can get an idea about the shape and number of bones in some parts of our body by feeling the. One away to know the shape better would be to look at X-ray images of the human body. When we are hurt, or have an accident, doctors use X-ray images to find out about any possible injuries that might have happened to the bones.
-The skeleton is made  up of many bones, joints and cartilages.
+All the bones in our body form a framework that gives shape to our body. This frame work is called the skeleton. We can get an idea about the shape and number of bones in some parts of our body by feeling them. One away to know the shape better would be to look at X-ray images of the human body. When we are hurt, or have an accident, doctors use X-ray images to find out about any possible injuries that might have happened to the bones. The skeleton is made  up of many bones, joints and cartilages.
 
 ### Different types of bones
-1. Several small bones that formsthe framework of our hand are called *carples*.
+1. Several small bones that forms the framework of our hand are called *carples*.
 2.  Our rib bones are bent to join the chestbone and the backbone together to form a box. This is called the *rib cage*. There are 12 ribs on each side of the chest. They protect some important internal organs.
 3. The *back bone* is made up of many small bones called *vertebrae*. The back bone consits of 33 vertebrae. The rib cage is joined to these bones. 
 4. The are two prominent bones on the back where the shoulders lie. They are called *shoulder bones*.
@@ -38,7 +37,7 @@ The skeleton is made  up of many bones, joints and cartilages.
 Some parts of the skeleton are not as hard as the bones and can be bent. These are called cartilage. Our ear is composed of cartilage. Cartilages are also found in the joints of the body.
 
 ### Musle movement
-The bone is covered by muscles. The muscle work together to move a bone. When you bent your hand, The muscle is bulged due to contaction. That is it beacme smaller in length. When contracted, the muscle becomes shorter, stiffer and thicker. It pulls the bone. Muscles work in pairs. When one of them contracts, the bone is pulled in that direction. The other muscle of the pair relaxes. To move the bone in the opposite direction, the relaxed muscle contracts to pull the bone towards its  original position, while the first relaxes. A muscle can only pull. It cannot push. Thus, two muscles have to work together to move a bone. 
+The bone is covered by muscles. The muscle work together to move a bone. When you bent your hand, the muscle is bulged due to contaction. That is it beacme smaller in length. When contracted, the muscle becomes shorter, stiffer and thicker. It pulls the bone. Muscles work in pairs. When one of them contracts, the bone is pulled in that direction. The other muscle of the pair relaxes. To move the bone in the opposite direction, the relaxed muscle contracts to pull the bone towards its  original position, while the first relaxes. A muscle can only pull. It cannot push. Thus, two muscles have to work together to move a bone. 
 
 ### Answer in one word (by drag and drop)
 
@@ -72,7 +71,7 @@ Skull, Brain
 
 ```
 True: The forearm has two bones.
-Cockroaches have an outer skeleton
+Cockroaches have an outer skeleton.
 
 False: The movement and locomotion of all animals are the same.
 The finger bones do not have joints.
@@ -91,39 +90,25 @@ Slithers - *Snake*
 
 ```
 How many ribs do we have in total?
-24
-12
-42
+24, 12, 42
 
 What is not a part of skeleton?
-Heart
-Bone
-Cartilage
+Heart, Bone, Cartilage
 
 What protects the brain?
-Skull
-Ribcage
-Pelvis
+Skull, Ribcage, Pelvis
 
 Which bone encloses the portion of body below the stomach?
-Pelvic bones
-Backbones
-Shoulder bones
+Pelvic bones, Backbones, Shoulder bones
 
 How many vertebraes do we have?
-33
-22
-11
+33, 22, 11
 
 Which of the following is a ball and socket joint?
-Shoulder
-Neck
-Elbow
+Shoulder, Neck, Elbow
 
 What are the small joints in our hand called?
-Carples
-Tarples
-Pattela
+Carples, Tarples, Pattela
 
 ```
 ### Fill in the blanks (drag and drop)
@@ -161,8 +146,8 @@ The Gait of Animals is a book written by the ancient Greek philosopher Aristotle
 ### Fill in the blanks (by drag and drop)
 
 ```
-Snakes have a long *backbone*.
-Strong muscles and light bones work together to help the *birds* fly.  *Fish* swim by forming loops alternately on two sides of the body.
+Strong muscles and light bones work together to help the *birds* fly.  
+*Fish* swim by forming loops alternately on two sides of the body.
 *Snakes* slither on the ground by looping sideways. 
 The body and legs of *cockroaches* have hard coverings forming an outer skeleton. 
 *Earthworms* move by alternate extension and contraction of the body using muscles. 
@@ -173,29 +158,19 @@ Tiny *bristles* on the underside of the body of the earthworm help in gripping t
 ### Multiple Choice Questions 
 ```
 Which of the following animal has a long backbone?
-Snake
-Earthworm
-Snail
+Snake, Earthworm, Snail
 
 Which animal has a body made of rings?
-Earthworm
-Snail
-Cockroach
+Earthworm, Snail, Cockroach
 
 Who wrote the book "The Gait of Animals"?
-Aristotle
-Martin
-Scrooge
+Aristotle, Martin, Scrooge
 
 Which animal loops itself to move forward?
-Snake
-Snail
-Lizard
+Snake, Snail, Lizard
 
 Which of the following can not fly?
-Penguin
-Crow
-Cocckroach
+Penguin, Crow, Cocckroach
 ```
 ### Fill in the blanks. (drag and drop)
 ```
