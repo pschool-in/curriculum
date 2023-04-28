@@ -101,10 +101,10 @@ A sheet of paper
 A spherical ball
 A straight stick
 
-Kaleidoscope works due to
-multiple reflection
-regular reflection
-diffused reflection
+Kaleidoscope works due to _______ reflection.
+multiple
+regular
+diffused
 
 A ray of light can be practically same as
 a narrow beam of light
@@ -185,10 +185,10 @@ procedure simpler and safer.
 
 ## Eye Care
 
-Too light or too much light is bad for eyes. Insufficient light causes eyestrain
-and headaches. Too much light, like Sun or powerful lamp can injure the retina.
-Never rub your eyes hard. If particles of dust go into your eyes, wash with
-clean water. Always read at the normal distance (25 cm).
+Too little light or too much light is bad for eyes. Insufficient light causes
+eyestrain and headaches. Too much light, like Sun or powerful lamp can injure
+the retina. Never rub your eyes hard. If particles of dust go into your eyes,
+wash with clean water. Always read at the normal distance (25 cm).
 
 ## Do you know?
 
@@ -263,9 +263,10 @@ Movies are usually shown at the rate of ____ pictures per second.
 24, 16, 12
 
 Which of the following cannot be corrected by wearing glasses?
+Cataract
 Can't see nearby objects
 Can't see distant objects
-Cataract
+
 
 There is a blind spot due to ______.
 absense of sensory cells
