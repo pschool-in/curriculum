@@ -15,6 +15,128 @@ Examples of some idioms are given below:
 9. By hook or by crook - by any means; by fair means or foul
 10. Strained every nerve - used his atmost efforts
 
+## More Idioms
+
+1. Under the weather : feeling ill or unwell.
+2. Getting cold feet : feeling nervous or hesitant about something, usually a big decision or event.
+3. The apple of my eye refers to someone who is cherished above all others, often a loved one.
+4. Set the record straight : to clarify or correct any misunderstandings or misrepresentations.
+5. Trying to kill two birds with one stone : attempting to accomplish two things at the same time.
+6. Snowed under : overwhelmed with work or responsibilities.
+7. Broke my bubble : a realization or event that shatters one's confidence or optimism.
+8. Walking on eggshells : being cautious or careful with someone or something, often because they are sensitive or easily upset.
+9. Bite the bullet : to endure or face something difficult or unpleasant with courage and determination.
+10. Make two ends meet : to manage finances so that expenses do not exceed income.
+11. Be at loggerheads : to strongly disagree or be in conflict with someone.
+12. Cost a pretty penny : to be expensive or costly.
+13. Break a leg is a way to wish someone good luck, especially before a performance or competition.
+14. Through thick and thin : to remain loyal and supportive through difficult or challenging times.
+15. Beating around the bush : to avoid discussing a topic directly or to speak indirectly.
+16. Hang in there : to persevere or hold on during a difficult situation.
+17. Cut corners : to take shortcuts or reduce quality in order to save time or money.
+18. Steal someone's thunder : to take credit for someone else's idea or achievement.
+19. Call it a day : to stop working or end an activity for the day.
+20. Better late than never : it is better to do something late than to never do it at all.
+21. Stick to his guns : to hold firm to one's beliefs or decisions, even in the face of opposition or criticism.
+22. Leave no stone unturned : to search thoroughly or exhaustively for something.
+23. Clouds on the horizon : that there are potential problems or challenges ahead.
+24. A blessing in disguise : a seemingly negative event or situation that ultimately results in a positive outcome.
+25. Blue in the face : to talk or argue excessively without making any progress or achieving any results.
+26. Cut the long story short : to summarize or get to the point quickly.
+27. Cup of tea refers to someone's preference or liking for something.
+28. Beating a dead horse : to continue to pursue a topic or issue that has already been resolved or is no longer relevant.
+29. Speak of the devil is an expression used when someone appears just after they have been mentioned.
+30. Let sleeping dogs lie : to leave a situation alone and not to provoke or stir up any trouble.
+31. Let the cat out of the bag : to reveal a secret or information that was meant to be kept confidential.
+32. The elephant in the room refers to an issue or problem that everyone is aware of but no one wants to acknowledge or address.
+33. In a nutshell : to summarize something in a brief and concise manner.
+34. Worth its weight in gold : something that is very valuable or useful.
+35. Stand strong and weather the storm : to persevere and endure through difficult times.
+36. A piece of cake : something that is easy or effortless to do.
+37. Get your act together : to organize oneself and get one's life or behavior in order.
+38. Cost an arm and a leg : something that is extremely expensive.
+39. On top of the world : to feel extremely happy or successful.
+40. Time is money : that time is a valuable resource and should not be wasted.
+41. Out of hand : something that is out of control or has become too extreme.
+42. Two peas in a pod refers to two people or things that are very similar or alike.
+43. Which way the wind blows : to be uncertain or unsure about something, often due to changing circumstances or opinions.
+44. Hit the nail on the head : to accurately identify or address a problem or issue.
+45. You can catch more flies with honey than you can with vinegar : that it is better to be kind and gentle in order to persuade or influence others, rather than using harsh or aggressive tactics.
+46. Off the hook : to escape or avoid punishment or blame.
+47. Riding a bicycle : doing something that is easy or comes naturally, often due to practice or experience.
+48. Blame one's tools : to attribute one's failure or mistakes to external factors, rather than taking responsibility for one's own actions.
+49. Not rocket science : something that is easy to understand or do.
+50. Spilled the beans : to reveal a secret or information that was meant to be kept confidential.
+51. Get the show on the road : to begin or start a task or project.
+52. Pull the last straw : to reach a breaking point or a limit of tolerance.
+53. The ship has sailed : that an opportunity has passed and cannot be regained.
+54. It is always the darkest before dawn : that things often seem the bleakest just before they improve.
+55. Head in the clouds : to be unrealistic or dreamy, often to the point of ignoring practical considerations.
+56. On thin ice : to be in a risky or precarious situation, often due to one's own actions.
+57. A cold shoulder : to be treated with indifference or hostility, often due to a perceived slight or offense.
+58. Cannot make an omelet without breaking some eggs : that sometimes achieving a desired outcome requires sacrifice or the acceptance of some negative consequences.
+59. Once bitten, twice shy : that after a negative experience, one becomes cautious or hesitant to repeat it.
+60. When it rains, it pours : that when one thing goes wrong, other things tend to go wrong as well, often in quick succession.
+61. Miss the boat: to miss an opportunity or chance
+62. Pulling his leg: joking with someone by telling a lie
+63. No pain, no gain: nothing worth having comes without effort
+64. See eye to eye: to agree or share the same opinion
+65. Wear heart on one's sleeve: to openly express one's emotions or feelings
+66. It takes two to tango: both parties are responsible for a situation or problem
+67. Come rain or shine: regardless of the weather or circumstances
+68. So far so good: things are going well up to this point
+69. Comparing apples to oranges: comparing two things that are completely different
+70. Pigs would fly: something that is impossible or unlikely to happen
+71. Curiosity killed the cat: being too curious or prying can lead to harm
+72. The best of both worlds: to have the advantages of two different things at the same time
+73. Burning bridges: to damage a relationship beyond repair
+74. Sell the whole nine yards: to give all the available information or effort
+75. Grass is always greener on the other side: people often think that others have it better than themselves
+76. Every dog has his day: everyone gets their chance to succeed or have good luck
+77. Counting the chickens before they hatch: to assume success before it actually happens
+78. Go down in flames: to fail spectacularly or embarrassingly
+79. Adding fuel to the fire: to make a situation worse by adding more negativity or criticism
+80. Wrap her head around the fact: to understand or accept a fact
+81. Cut the mustard: to meet expectations or requirements
+82. Jumping off the frying pan into the fire: to go from one bad situation to an even worse one
+83. No use crying over spilled milk: there's no point in dwelling on a mistake that cannot be undone
+84. A method to his madness: despite appearing odd or unconventional, there is a reason or purpose behind one's actions
+85. The drop of a hat: to do something quickly or without hesitation
+86. Get wind of: to hear or find out about something
+87. Hear it from the horse's mouth: to hear information directly from the source
+88. Fit as a fiddle: to be in good physical health
+89. Believe everyone with a pinch of salt: to be skeptical of what people say and not accept everything at face value
+90. Pain in the neck: something or someone that is annoying or causes trouble.
+91. The best thing since sliced bread: Something that is considered excellent or innovative.
+92. Walk in someone’s shoes: To empathize with someone by imagining oneself in their position.
+93. Break the ice: To initiate a conversation or social interaction, usually to relieve tension or awkwardness.
+94. A monkey on my back: An addiction or a burden that is difficult to get rid of.
+95. A wild goose chase: A futile or hopeless pursuit.
+96. Raining cats and dogs: A very heavy rainstorm.
+97. Once in a blue moon: An event that occurs very rarely.
+98. Barking up the wrong tree: To make a wrong assumption or accusation about something.
+99. Ball in his court: It is up to him to take the next step or make a decision.
+100. The devil quoting the Bible: When someone uses religious texts or ideas for their own purposes, usually dishonestly.
+101. Devil's in the details: Small things can have a big impact or cause problems.
+102. Other fish in the sea: There are other options or opportunities available.
+103. A snowball's chance in hell: Something that is very unlikely to happen.
+104. Until the fat lady sings: To continue working towards something until the very end or until it is finished.
+105. Bouncing off the walls: To be very excited or hyperactive.
+106. As right as rain: To be completely satisfactory or healthy.
+107. Bent out of shape: To be overly upset or angry about something.
+108. Every cloud has a silver lining: Every difficult or negative situation has a positive aspect.
+109. The devil's advocate: A person who argues against a certain point of view, not necessarily because they believe in it, but to provoke discussion and challenge assumptions.
+110. Cross that bridge when we get to it: To not worry about a future problem until it actually arises.
+111. Caution to the wind: To take a risk or act recklessly.
+112. A penny for your thoughts: A polite way of asking someone what they are thinking about.
+113. Biting off more than he can chew: To take on more responsibilities or tasks than one can handle.
+114. Judge a book by its cover: To form an opinion about something or someone based on their appearance or first impression.
+115. Raining on someone's parade: To spoil someone's plans or enthusiasm.
+116. Skin of his teeth: To barely escape a difficult or dangerous situation.
+117. Putting all his eggs in one basket: To risk everything on one plan or course of action.
+118. Put the case on ice: To postpone or delay something for a period of time.
+119. Have the cake and eat it too: To have or enjoy two things that are usually mutually exclusive.
+
 ### Multiple Choice Questions
 
 Choose the correct meaning of the following Idioms.
