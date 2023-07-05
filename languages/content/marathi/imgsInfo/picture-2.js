@@ -5,61 +5,61 @@ export default {
     {
       id: "fruits",
       label: "Fruits",
-      text: `apple | Apple 
-grapes | Grapes
-banana | Banana
+      text: `apple | सफरचंद|Sapharacanda
+grapes | द्राक्षे|Drākṣē
+banana | केळी|Kēḷī
 cherry | Cherry
 avocado | Avocado
 strawberry | Strawberry
-guava | Guava
-jackfruit | Jackfruit
-mango | Mango
-orange | Orange
+guava | पेरू|Pērū
+jackfruit | फणस|Phaṇasa
+mango | आंबा|Āmbā
+orange | संत्रा| Santrā
 
-papaya | Papaya
-pineapple | Pineapple
-watermelon | Watermelon
-pomegranate| Pomegranate
-fig| Fig
-custard-apple| Custard Apple
-plum| Plum
-dates| Dates
-muskmelon| Muskmelon`,
+papaya | पपई|Papa'ī
+pineapple | अननस|Ananasa
+watermelon | टरबूज|Ṭarabūja
+pomegranate| डाळिंब|Ḍāḷimba
+fig| अंजीर|An̄jīra
+custard-apple| सीताफळ| Sītāphaḷa
+plum| मनुका| Manukā
+dates| तारखा| Tārakhā
+muskmelon|कस्तुरी |Kasturī`,
     },
     {
       id: "vegetables",
-      text: `carrot | Carrot
+      text: `carrot | गाजर| Gājara
 beetroot | Beetroot
-onion | Onion
-tomato | Tomato
-potato | Potato
-cabbage | Cabbage
+onion | कांदा| Kāndā
+tomato | टोमॅटो|Ṭōmĕṭō
+potato | बटाटा|Baṭāṭā
+cabbage | कोबी| Kōbī
 corn | Corn
-cucumber |Cucumber
-garlic|Garlic
-ginger|Ginger
+cucumber |काकडी| Kākaḍī
+garlic|लसूण| Lasūṇa
+ginger|आले|Ālē
 
-cauliflower| Cauliflower
-pumpkin| Pumpkin
-almond| Almond
+cauliflower| फुलकोबी|Phulakōbī
+pumpkin| भोपळा|Bhōpaḷā
+almond| बदाम| Badāma
 beans| Beans
-bitter-gourd| Bitter Gourd
-brinjal| Brinjal
-capsicum| Capsicum
-cashewnut| Cashewnut
-chilli| Chilli
-coconut | Coconut
+bitter-gourd| कारले|Kāralē
+brinjal| वांगे|Vāṅgē
+capsicum| शिमला मिर्ची| Śimalā mircī
+cashewnut| काजू| Kājū
+chilli| मिरची|Miracī
+coconut | नारळ|Nāraḷa
 
-corianderleaf | Coriander Leaf
-curryleaf | Curry Leaf
-drumstick| Drumstick
-greenpeas| Green Peas
-ladies-finger | Ladies Finger
-mintleaf| Mintleaf
-peanut| Peanut
-radish| Radish
-spinach | Spinach
-vegetables | Vegetables`,
+corianderleaf | कोथिंबीर पान|Kōthimbīra pāna
+curryleaf | कढीपत्ता| Kaḍhīpattā
+drumstick| शेवगा|Śēvagā
+greenpeas| मटार|Maṭāra
+ladies-finger | भेंडी|Bhēṇḍī
+mintleaf| पुदीना|Pudīnā
+peanut| शेंगदाणा|Śēṅgadāṇā
+radish| मुळा|Muḷā
+spinach | पालक|Pālaka
+vegetables | भाज्या|Bhājyā`,
     },
   ],
 };

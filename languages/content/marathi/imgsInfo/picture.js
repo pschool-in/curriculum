@@ -4,46 +4,46 @@ export default {
     {
       id: "animals",
       label: "Animals",
-      text: `cat | Cat
-dog | Dog
-goat| Goat
-cow| Cow
-donkey| Donkey
-horse| Horse
-pig| Pig
-elephant| Elephant
-lion | Lion
-monkey| Monkey
+      text: `cat | मांजर |Mān̄jara
+dog | कुत्रा |Kutrā
+goat| शेळी |Śēḷī
+cow| गाय| Gāya
+donkey| गाढव| Gāḍhava
+horse| घोडा|Ghōḍā 
+pig| डुक्कर|Ḍukkara
+elephant| हत्ती|Hattī
+lion |सिंह|Sinha
+monkey| माकड|Mākaḍa
 
 hippo| Hippo
-rhino| Rhino
-fox| Fox
-crocodile| Crocodile
+rhino| गेंडा|Gēṇḍā
+fox| कोल्हा|Kōl'hā
+crocodile| मगर|Magara
 zebra| Zebra
-bear| Bear
-camel| Camel
+bear| अस्वल|Asvala
+camel| उंट|Uṇṭa
 shark| Shark
-whale| Whale
+whale| देवमासा|Dēvamāsā
 dolphin| Dolphin
 
-tiger| Tiger
-sheep| Sheep
-fish| Fish
-frog| Frog
-crab| Crab
-snake| Snake
-bull | Bull
-tortoise| Tortoise
-rat| Rat
-ant| Ant
+tiger| वाघ|Vāgha
+sheep| मेंढ्या|Mēṇḍhyā
+fish| मासे| Māsē
+frog| बेडूक|Bēḍūka
+crab| खेकडा|Khēkaḍā
+snake| साप|Sāpa
+bull | बैल| Baila
+tortoise| कासव| Kāsava
+rat| उंदीर|Undīra
+ant| मुंगी| Muṅgī
 
-bat| Bat
-buffalo| Buffalo
-butterfly| Butterfly
+bat| वटवाघूळ|Vaṭavāghūḷa
+buffalo| म्हैस|Mhaisa
+butterfly| फुलपाखरू|Phulapākharū
 cheetah| Cheetah
-bee | Bee
-goldfish | Goldfish
-spider | Spider
+bee | मधमाशी|Madhamāśī
+goldfish | सोनेरी मासा| Sōnērī māsā
+spider | कोळी|Kōḷī
 panda | Panda
 giraffe| Giraffe
 kangaroo| Kangaroo`,
@@ -51,26 +51,26 @@ kangaroo| Kangaroo`,
     {
       id: "birds",
       label: "Birds",
-      text: `crow|Crow
-dove|Dove
-duck|Duck
-hen|Hen
+      text: `crow|कावळा|Kāvaḷā
+dove|पारवा|Pāravā
+duck|बदक|Badaka
+hen|कोंबडी|Kōmbaḍī
 chick| Chick
-parrot|Parrot
-peacock|Peacock
+parrot|पोपट|Pōpaṭa
+peacock|मोर|Mōra
 penguin|Penguin
-sparrow|Sparrow
+sparrow|चिमणी|Cimaṇī
 crane| Crane
 
-eagle| Eagle
+eagle| गरुड|Garuḍa
 flamingo| Flamingo
 kingfisher| Kingfisher
 myna| Myna
-ostrich| Ostrich
-owl| Owl
-rooster| Rooster
-vulture| Vulture
-woodpecker| Woodpecker
+ostrich| शहामृग|Śahāmr̥ga
+owl| घुबड|Ghubaḍa
+rooster| कोंबडा|Kōmbaḍā
+vulture| गिधाड|Gidhāḍa
+woodpecker| लाकूडपेकर|Lākūḍapēkara
 koel | Koel`,
     },
   ],

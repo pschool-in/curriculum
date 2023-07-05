@@ -4,33 +4,34 @@ export default {
   list: [
     {
       id: "nature",
-      text: `man| Man
-woman | Woman
-boy|Boy
-girl | Girl
-baby | Baby
-house| House
+      label: "Nature",
+      text: `man| माणूस|Māṇūsa
+woman | स्त्री|Strī
+boy|मुलगा|Mulagā
+girl | मुलगी|Mulagī
+baby | बाळ|Bāḷa
+house| घर|Ghara
 table|Table
-bed|Bed
-candle|Candle
-chair|Chair
+bed|पलंग|Palaṅga
+candle|मेणबत्ती|Mēṇabattī
+chair|खुर्ची|Khurcī
 shelf|Shelf
 coat|Coat
-glasses|Glasses
-clock | Clock
+glasses|चष्मा|Caṣmā
+clock | घड्याळ|Ghaḍyāḷa
 watch | Watch
-flower-pot | Flower Pot
-umbrella | Umbrella
-door | Door
-broom | Broom
-window | Window
+flower-pot | फुलदाणी|Phuladāṇī
+umbrella | छत्री|Chatrī
+door | दार|Dāra
+broom | झाडू|Jhāḍū
+window | खिडकी|Khiḍakī
 sofa | Sofa
-bucket | Bucket
-toilet | Toilet
-soap | Soap
+bucket | बादली|Bādalī
+toilet | शौचालय|Śaucālaya
+soap | साबण|Sābaṇa
 backpack | Backpack
-pillow | Pillow
-basket | Basket
+pillow | उशी| Uśī
+basket | टोपली|Ṭōpalī
 dustbin | Dustbin
 bed-lamp | Bed Lamp
 handbag | Handbag
@@ -39,73 +40,76 @@ washing-machine | Washing Machine`,
     },
     {
       id: "dress",
+      label: "Dress",
       text: `dress | Dress
 coat | Coat
-shoe | Shoe
-sock | Sock
+shoe | बूट|Būṭa
+sock | मोजे|Mōjē
 boots | Boots
 pyjama | Pyjama
-gloves | Gloves
+gloves | हातमोजा|Hātamōjā
 scarf | Scarf
 sweater | Sweater
 bib | Bib
 shirt | Shirt
 jacket | Jacket
-hat | Hat
-trousers | Trousers`,
+hat | टोपी|Ṭōpī
+trousers | पायघोळ|Pāyaghōḷa`,
     },
     {
       id: "school",
+      label: "School",
       text: `pen |Pen
 pencil|Pencil
-ruler|Ruler
-eraser|Eraser
-scissors|Scissors
+ruler|शासक|Śāsaka
+eraser|खोडरबर|Khōḍarabara
+scissors|कात्री|Kātrī
 sharpener|Sharpener
 calculator| Calculator
-book| Book
-ink | Ink
-schoolbag| Schoolbag
+book| पुस्तक|Pustaka
+ink | शाई|Śā'ī
+schoolbag| शाळेचे दप्तर|Śāḷēcē daptara
 waterbottle| Waterbottle
 color-pencils| Color Pencils
 crayons | Crayons`,
     },
     {
       id: "kitchen",
+      label: "Kitchen",
       text: `stove |Stove
-fork|Fork
-knife|Knife
+fork|काटा|Kāṭā
+knife|चाकू|Cākū
 pan|Pan
-spoon|Spoon
-pot|Pot
-butter|Butter
+spoon|चमचा|Camacā
+pot|भांडे|Bhāṇḍē
+butter|लोणी|Lōṇī
 plate | Plate
 tap | Tap
-lid | Lid
+lid | झाकण|Jhākaṇa
 
 blender | Blender
 cheese | Cheese
 fridge | Fridge
 lollipop | Lollipop
-salad | Salad
-sugar | Sugar
-bowl | Bowl
+salad | कोशिंबीर|Kōśimbīra
+sugar | साखर| Sākhara
+bowl | वाटी|Vāṭī
 chicken | Chicken
 ice-cream | Ice cream
-meat | Meat
+meat | मांस|Mānsa
 
-salt | Salt
-sweets | Sweets
+salt | मीठ|Mīṭha
+sweets | मिठाई|Miṭhā'ī
 bread | Bread
 cup | Cup
-juice | Juice
+juice | रस|Rasa
 mushroom | Mushroom
 sandwich | Sandwich
 cake | Cake
-flour | Flour
-lentils | Lentils
+flour | पीठ|Pīṭha
+lentils | मसूर|Masūra
 
-rice | Rice
+rice | तांदूळ|Tāndūḷa
 soup | Soup`,
     },
   ],

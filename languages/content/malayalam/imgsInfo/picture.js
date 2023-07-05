@@ -4,74 +4,74 @@ export default {
     {
       id: "animals",
       label: "Animals",
-      text: `cat | Cat
-dog | Dog
-goat| Goat
-cow| Cow
-donkey| Donkey
-horse| Horse
-pig| Pig
-elephant| Elephant
-lion | Lion
-monkey| Monkey
+      text: `cat | പൂച്ച|poocha
+dog | നായ|naaya
+goat| ആട്|aad
+cow| പശു|pashu
+donkey| കഴുത|kazhutha
+horse| കുതിര|kuthira
+pig| പന്നി|panni
+elephant| ആന|aana
+lion | സിംഹം|simham
+monkey| കുരങ്ങൻ|kurangan
 
 hippo| Hippo
-rhino| Rhino
-fox| Fox
-crocodile| Crocodile
-zebra| Zebra
-bear| Bear
-camel| Camel
-shark| Shark
-whale| Whale
-dolphin| Dolphin
+rhino| കാണ്ടാമൃഗം|kaandaamrgam
+fox| കുറുക്കൻ|kurukkan
+crocodile| മുതല|muthala
+zebra| സീബ്ര|sebra
+bear| കരടി|karadi
+camel| ഒട്ടകം|ottakam
+shark| സ്രാവ്|sraavu
+whale| തിമിംഗലം|thimingalam
+dolphin| ഡോൾഫിൻ|dolfin
 
-tiger| Tiger
-sheep| Sheep
-fish| Fish
-frog| Frog
-crab| Crab
-snake| Snake
-bull | Bull
-tortoise| Tortoise
-rat| Rat
-ant| Ant
+tiger| കടുവ|kaduva
+sheep| ആട്|aad
+fish| മത്സ്യം|malsyam
+frog| തവള|thavala
+crab| ഞണ്ട്|njandu
+snake| പാമ്പ്|paambu
+bull | കാള|kaala
+tortoise| ആമ|aama
+rat| എലി|eli
+ant| ഉറുമ്പ്|urumbu
 
-bat| Bat
-buffalo| Buffalo
-butterfly| Butterfly
-cheetah| Cheetah
-bee | Bee
-goldfish | Goldfish
-spider | Spider
+bat| വവ്വാൽ|vavvaal
+buffalo| പോത്ത്|pothu
+butterfly| ചിത്രശലഭം|chithrashalabham
+cheetah| ചീറ്റ|cheetta
+bee | തേനീച്ച|theneecha
+goldfish | സ്വർണ്ണമത്സ്യം|svarnnamalsyam
+spider | ചിലന്തി|chilanthi
 panda | Panda
-giraffe| Giraffe
-kangaroo| Kangaroo`,
+giraffe| ജിറാഫ്|giraffe
+kangaroo| കംഗാരു|kamgaaru`,
     },
     {
       id: "birds",
       label: "Birds",
-      text: `crow|Crow
-dove|Dove
-duck|Duck
-hen|Hen
-chick| Chick
-parrot|Parrot
-peacock|Peacock
-penguin|Penguin
-sparrow|Sparrow
-crane| Crane
+      text: `crow|കാക്ക|kaakka
+dove|പ്രാവ്|praavu
+duck|താറാവ്|tharaav
+hen|കോഴി|kozhi
+chick| കോഴിക്കുഞ്ഞ്|kozhikkunju
+parrot|തത്ത|thatha
+peacock|മയിൽ|mayil
+penguin|പെന്ഗിന് പക്ഷി|penginu pakshi
+sparrow|കുരുവി|kuruvi
+crane| കൊക്ക്|kokk
 
-eagle| Eagle
-flamingo| Flamingo
-kingfisher| Kingfisher
-myna| Myna
-ostrich| Ostrich
-owl| Owl
-rooster| Rooster
-vulture| Vulture
-woodpecker| Woodpecker
-koel | Koel`,
+eagle| പരുന്ത്|parunth
+flamingo| രാജഹംസം|rajahamsam
+kingfisher| നീലപൊൻമാൻ|neelaponmaan
+myna| മൈന|myna
+ostrich| ഒട്ടകപ്പക്ഷി|ottaka pakshi
+owl| മൂങ്ങ|moonga
+rooster| പൂവന്കോഴി|poovan kozhi
+vulture| കഴുകൻ|kazhukan
+woodpecker| മരംകുത്തി|mazham kotthi
+koel | കുയിൽ|kuyil`,
     },
   ],
 };

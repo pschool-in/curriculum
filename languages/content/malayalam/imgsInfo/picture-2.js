@@ -5,61 +5,61 @@ export default {
     {
       id: "fruits",
       label: "Fruits",
-      text: `apple | Apple 
-grapes | Grapes
-banana | Banana
-cherry | Cherry
-avocado | Avocado
-strawberry | Strawberry
-guava | Guava
-jackfruit | Jackfruit
-mango | Mango
-orange | Orange
+      text: `apple | ആപ്പിൾ|aappil
+grapes | മുന്തിരി|munthiri
+banana | വാഴപ്പഴം|vaazhappazham
+cherry | ചെറി|cheri
+avocado | അവോക്കാഡോ|avaiaakkaado
+strawberry | ഞാവൽപ്പഴം|njaavalppazham
+guava | പേരക്ക|perakka
+jackfruit | ചക്ക|chakka
+mango | മാമ്പഴം|maambazham
+orange | ഓറഞ്ച്|oranju
 
-papaya | Papaya
-pineapple | Pineapple
-watermelon | Watermelon
-pomegranate| Pomegranate
-fig| Fig
-custard-apple| Custard Apple
-plum| Plum
-dates| Dates
-muskmelon| Muskmelon`,
+papaya | പപ്പായ|pappaaya
+pineapple | കൈതച്ചക്ക|kaithachakka
+watermelon | തണ്ണിമത്തൻ|thannimathan
+pomegranate| മാതളനാരകം|maathalanaarakam
+fig| അത്തിപ്പഴം|athippazham
+custard-apple| സീതപ്പഴം|seethappazham
+plum| പ്ലം|plam
+dates| ഈന്തപ്പഴം|eenthappazham
+muskmelon| തൈക്കുമ്പലം|thaikkumbalam`,
     },
     {
       id: "vegetables",
-      text: `carrot | Carrot
-beetroot | Beetroot
-onion | Onion
-tomato | Tomato
-potato | Potato
-cabbage | Cabbage
-corn | Corn
-cucumber |Cucumber
-garlic|Garlic
-ginger|Ginger
+      text: `carrot | കാരറ്റ്|kaarattu
+beetroot | ബീറ്റ്റൂട്ട്|beetrootu
+onion | ഉള്ളി|ulli
+tomato | തക്കാളി|thakkaali
+potato | ഉരുളക്കിഴങ്ങ്| urulakkizhangu
+cabbage | മുട്ടക്കോസ്|muttakoss
+corn | ചോളം|cholam
+cucumber |വെള്ളരിക്ക|vellarikka
+garlic|വെളുത്തുള്ളി| veluthulli
+ginger|ഇഞ്ചി|inji
 
-cauliflower| Cauliflower
-pumpkin| Pumpkin
-almond| Almond
-beans| Beans
-bitter-gourd| Bitter Gourd
-brinjal| Brinjal
-capsicum| Capsicum
-cashewnut| Cashewnut
-chilli| Chilli
-coconut | Coconut
+cauliflower| കോളിഫ്ലവർ|cauliflavar
+pumpkin| മത്തങ്ങ|matthanga
+almond| ബദാം|badaam
+beans| പയർ|payar
+bitter-gourd| പാവയ്ക്ക|paavaykka
+brinjal| വഴുതന|vazhuthana
+capsicum| കാപ്സിക്കം|kaapsikkam
+cashewnut| കശുവണ്ടി|kashuvandi
+chilli| മുളക്|mulak
+coconut | നാളികേരം|naalikeram
 
-corianderleaf | Coriander Leaf
-curryleaf | Curry Leaf
-drumstick| Drumstick
-greenpeas| Green Peas
-ladies-finger | Ladies Finger
-mintleaf| Mintleaf
-peanut| Peanut
-radish| Radish
-spinach | Spinach
-vegetables | Vegetables`,
+corianderleaf | മല്ലിയില|malliyila
+curryleaf | കറിവേപ്പില|kariveppila
+drumstick| മുരിങ്ങ|muringa
+greenpeas| ഗ്രീൻ പീസ|green pees
+ladies-finger | വെണ്ടക്ക|vendakka
+mintleaf| പുതിന|puthin
+peanut| കപ്പലണ്ടി|kappalandi
+radish| മുള്ളങ്കി|mullangi
+spinach | ചീര|cheera
+vegetables | പച്ചക്കറികൾ|pachakkarikal`,
     },
   ],
 };
