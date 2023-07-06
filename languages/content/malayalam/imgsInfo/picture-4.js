@@ -1,179 +1,628 @@
 export default {
-  id: "picture-4",
-  label: "House and Others",
+  id: 'picture-4',
+  label: 'House and Others',
   list: [
     {
-      id: "nature",
-      text: `man| Man
-woman | Woman
-boy|Boy
-girl | Girl
-baby | Baby
-house| House
-table|Table
-bed|Bed
-candle|Candle
-chair|Chair
-shelf|Shelf
-coat|Coat
-glasses|Glasses
-clock | Clock
+      id: 'nature',
+      text: `man| പുരുഷൻ|purushan
+woman | സ്ത്രീ|sthree
+boy|ആൺകുട്ടി|aankutti
+girl | പെൺകുട്ടി|penkutti
+baby | ശിശു|shishu
+house| വീട്|veedu
+table|മേശ|mesha
+bed|കിടക്ക|kidakka
+candle|മെഴുകുതിരി|mezhukuthiri
+chair|കസേര|kasera
+shelf|അലമാരി|almari
+coat|ആവരണം|aavaranam
+glasses|കണ്ണട|kannada
+clock | ഘടികാരം|khadigaaram
 watch | Watch
-flower-pot | Flower Pot
-umbrella | Umbrella
-door | Door
-broom | Broom
-window | Window
-sofa | Sofa
-bucket | Bucket
-toilet | Toilet
-soap | Soap
+flower-pot | പൂച്ചട്ടി|poochatti
+umbrella | കുട| kuda
+door | വാതിൽ|vaathil
+broom | ചൂല്|chuulu
+window | ജനാല|janaala
+sofa | സോഫ|sofa
+bucket | തൊട്ടി|thotti
+toilet | കക്കൂസ്|kakkoosu
+soap | സോപ്പ്|soppu
 backpack | Backpack
-pillow | Pillow
-basket | Basket
-dustbin | Dustbin
+pillow | തലയണ|thalayana
+basket | കൊട്ട|kotta
+dustbin | ചവറ്റുകൊട്ട|chavattukotta
 bed-lamp | Bed Lamp
-handbag | Handbag
+handbag | കൈസഞ്ചി|kaisanji
 air-conditioner | Air Conditioner
-washing-machine | Washing Machine`,
+washing-machine | അലക്കുയന്ത്രം|allakuyantram`
     },
     {
-      id: "dress",
-      text: `dress | Dress
-coat | Coat
-shoe | Shoe
-sock | Sock
+      id: 'dress',
+      text: `dress | ഉടുപ്പ്‌|udup
+coat | ആവരണം|aavaranam
+shoe | പാദരക്ഷ|paadraksha
+sock | കാലുറ|kaalura
 boots | Boots
-pyjama | Pyjama
-gloves | Gloves
-scarf | Scarf
-sweater | Sweater
+pyjama | നിശാവസ്ത്രം|nishavastram
+gloves | കയ്യുറ|kayyura
+scarf | കവണി|kavani
+sweater | കമ്പിളിക്കുപ്പായം|kambilikuppayam
 bib | Bib
-shirt | Shirt
+shirt | കുപ്പായം|kuppayam
 jacket | Jacket
-hat | Hat
-trousers | Trousers`,
+hat | തൊപ്പി|thoppi
+trousers | Trousers`
     },
     {
-      id: "school",
-      text: `pen |Pen
-pencil|Pencil
+      id: 'school',
+      text: `pen |പേന|pena
+pencil|പെൻസിൽ|pensil
 ruler|Ruler
 eraser|Eraser
-scissors|Scissors
+scissors|കത്രിക|kathrika
 sharpener|Sharpener
-calculator| Calculator
-book| Book
-ink | Ink
+calculator| കണക്കുകൂട്ടല് യന്തം| kanakkootal yantram
+book| പുസ്തകം|pusthakam
+ink | മഷി|mashi
 schoolbag| Schoolbag
 waterbottle| Waterbottle
 color-pencils| Color Pencils
-crayons | Crayons`,
+crayons | Crayons`
     },
     {
-      id: "kitchen",
-      text: `stove |Stove
-fork|Fork
-knife|Knife
-pan|Pan
-spoon|Spoon
-pot|Pot
-butter|Butter
-plate | Plate
+      id: 'kitchen',
+      text: `stove |അടുപ്പ്|adupp
+fork|മുള്ക്കരണ്ടി|mulkarandi
+knife|കത്തി|kathi
+pan|ചട്ടി|chatti
+spoon|കരണ്ടി|karandi
+pot|കലം|kalam
+butter|വെണ്ണ|venna
+plate | പാത്രം|pathram
 tap | Tap
-lid | Lid
+lid | മൂടി|moodi
 
 blender | Blender
-cheese | Cheese
-fridge | Fridge
-lollipop | Lollipop
+cheese | പാല്‍ക്കട്ടി|paalkatti
+fridge | ഫ്രിഡ്ജ്|fridge
+lollipop | കോൽ മിട്ടായി|kolu mittayi
 salad | Salad
-sugar | Sugar
-bowl | Bowl
-chicken | Chicken
-ice-cream | Ice cream
-meat | Meat
+sugar | പഞ്ചസാര|panjasara
+bowl | കോപ്പ|koppa
+chicken | കോഴി|kozhi
+ice-cream | ഐസ്ക്രീം|icecream
+meat | ഇറച്ചി|irachi
 
-salt | Salt
-sweets | Sweets
-bread | Bread
-cup | Cup
-juice | Juice
-mushroom | Mushroom
+salt | ഉപ്പ്|upp
+sweets | മിഠായി|mittayi
+bread | അപ്പം|appam
+cup | കപ്പ്|kapp
+juice | സത്ത്‌|sath
+mushroom | കൂണ്|koon
 sandwich | Sandwich
-cake | Cake
-flour | Flour
-lentils | Lentils
+cake |  കേക്ക്|cake
+flour | മാവ്|maavu
+lentils | പരിപ്പ്|parippu
 
-rice | Rice
-soup | Soup`,
-    },
-  ],
+rice | അരി|ari
+soup | Soup`
+    }
+  ]
 };
-`क...  का...  कि...  की...  कु...  कू...  के...  कै...  को...  कौ...  कं...  कः...
-ख खा खि खी खु खू खे खै खो खौ खं खः
-ग
-ga	गा
-gaa	गि
-gi	गी
-gee	गु
-gu	गू
-goo	गे
-ge	गै
-gai	गो
-go	गौ
-gau	गं
-gam	गः
-gah
-`
+`Vowels (Swaras):
+അ (a)
+ആ (aa)
+ഇ (i)
+ഈ (ee)
+ഉ (u)
+ഊ (oo)
+ഋ (ru)
+എ (e)
+ഏ (ae)
+ഐ (ai)
+ഒ (o)
+ഓ (oa)
+ഔ (au)
 
-क... का... कि... की... कु... कू... के... कै... को... कौ... कं... कः
-ख... खा... खि... खी... खु... खू... खे... खै... खो... खौ... खं... खः
-ग... गा... गि... गी... गु... गू... गे... गै... गो... गौ... गं... गः
-घ... घा... घि... घी... घु... घू... घे... घै... घो... घौ... घं... घः
-च... चा... चि... ची... चु... चू... चे... चै... चो... चौ... चं... चः
-छ... छा... छि... छी... छु... छू... छे... छै... छो... छौ... छं... छः
-ज... जा... जि... जी... जु... जू... जे... जै... जो... जौ... जं... जः
+Consonants (Vyanjanas):
 
-झ... झा... झि... झी... झु... झू... झे... झै... झो... झौ... झं... झः
-त्र... त्रा... त्रि... त्री... त्रु... त्रू... त्रे... त्रै... त्रो... ञौ... ञं... ञः
-ट... टा... टि... टी... टु... टू... टे... टै... टो... टौ... टं... टः
-ठ... ठा... ठि... ठी... ठु... ठू... ठे... ठै... ठो... ठौ... ठं... ठः
-ड... डा... डि... डी... डु... डू... डे... डै... डो... डौ... डं... डः
-ढ... ढा... ढि... ढी... ढु... ढू... ढे... ढै... ढो... ढौ... ढं... ढः
-ण... णा... णि... णी... णु... णू... णे... णै... णो... णौ... णं... णः
+ക (ka)
+ഖ (kha)
+ഗ (ga)
+ഘ (gha)
+ങ (nga)
+ച (cha)
+ഛ (chha)
+ജ (ja)
+ഝ (jha)
+ഞ (nya)
+ട (ta)
+ഠ (tha)
+ഡ (da)
+ഢ (dha)
+ണ (na)
+ത (ta)
+ഥ (tha)
+ദ (da)
+ധ (dha)
+ന (na)
+പ (pa)
+ഫ (pha)
+ബ (ba)
+ഭ (bha)
+മ (ma)
+യ (ya)
+ര (ra)
+ല (la)
+വ (va)
+ശ (sha)
+ഷ (ssa)
+സ (sa)
+ഹ (ha)
+ള (lla)
+ഴ (llla)
+റ (ra)
 
-त. ता. ति. ती. तु. तू. ते. तै. तो. तौ. तं. तः
-थ. था. थि. थी. थु. थू. थे. थै. थो. थौ. थं. थः
-द. दा. दि. दी. दु. दू. दे. दै. दो. दौ. दं. दः
-ध. धा. धि. धी. धु. धू. धे. धै. धो. धौ. धं. धः
-न. ना. नि. नी. नु. नू. ने. नै. नो. नौ. नं. नः
-प. पा. पि. पी. पु. पू. पे. पै. पो. पौ. पं. पः
-फ. फा. फि. फी. फु. फू. फे. फै. फो. फौ. फं. फः
+ക (ka)
+കാ (kaa)
+കി (ki)
+കീ (kee)
+കു (ku)
+കൂ (koo)
+കെ (ke)
+കേ (kai)
+കൊ (ko)
+കോ (koa)
+കൌ (kau)
+കം (kam)
+കഃ (kah)
 
-ब
- बा
- बि
- बी  
- बु
- बू
- बे
- बै
- बो
- बौ
- बं
- बः
+ഖ (kha)
+ഖാ (khaa)
+ഖി (khi)
+ഖീ (khee)
+ഖു (khu)
+ഖൂ (khoo)
+ഖെ (khe)
+ഖേ (khai)
+ഖൊ (kho)
+ഖോ (kh oa)
+ഖൌ (kh au)
+ഖം (kham)
+ഖഃ (khah)
 
-ब... बा... बि... बी... बु... बू... बे... बै... बो... बौ... बं... बः
-भ... भा... भि... भी... भु... भू... भे... भै... भो... भौ... भं... भः
-म... मा... मि... मी... मु... मू... मे... मै... मो... मौ... मं... मः
-य... या... यि... यी... यु... यू... ये... यै... यो... यौ... यं... यः
-र... रा... रि... री... रु... रू... रे... रै... रो... रौ... रं... रः
-ल... ला... लि... ली... लु... लू... ले... लै... लो... लौ... लं... लः
-व... वा... वि... वी... वु... वू... वे... वै... वो... वौ... वं... वः
-श... शा... शि... शी... शु... शू... शे... शै... शो... शौ... शं... शः
-स... सा... सि... सी... सु... सू... से... सै... सो... सौ... सं... सः
-ह... हा... हि... ही... हु... हू... हे... है... हो... हौ... हं... हः
-ळ... ळा... ळि... ळी... ळु... ळू... ळे... ळै... ळो... ळौ... ळं... ळः
-क्ष... क्षा... क्षि... क्षी... क्षु... क्षू... क्षे... क्षै... क्षो... क्षौ... क्षं... क्षः
-ज्ञ... ज्ञा... ज्ञि... ज्ञी... ज्ञु... ज्ञू... ज्ञे... ज्ञै... ज्ञो... ज्ञौ... ज्ञं... ज्ञः
+ഗ (ga)
+ഗാ (gaa)
+ഗി (gi)
+ഗീ (gee)
+ഗു (gu)
+ഗൂ (goo)
+ഗെ (ge)
+ഗേ (gai)
+ഗൊ (go)
+ഗോ (goa)
+ഗൌ (gau)
+ഗം (gam)
+ഗഃ (gah)
+
+ഘ (gha)
+ഘാ (ghaa)
+ഘി (ghi)
+ഘീ (ghee)
+ഘു (ghu)
+ഘൂ (ghoo)
+ഘെ (ghe)
+ഘേ (ghai)
+ഘൊ (gho)
+ഘോ (ghoa)
+ഘൌ (ghau)
+ഘം (gham)
+ഘഃ (ghah)
+
+ച (cha)
+ചാ (chaa)
+ചി (chi)
+ചീ (chee)
+ചു (chu)
+ചൂ (choo)
+ചെ (che)
+ചേ (chai)
+ചൊ (cho)
+ചോ (choa)
+ചൌ (chau)
+ചം (cham)
+ചഃ (chah)
+
+ഛ (chha)
+ഛാ (chhaa)
+ഛി (chhi)
+ഛീ (chhee)
+ഛു (chhu)
+ഛൂ (chhoo)
+ഛെ (chhe)
+ഛേ (chhai)
+ഛൊ (chho)
+ഛോ (chhoa)
+ഛൌ (chhau)
+ഛം (chham)
+ഛഃ (chhah)
+
+ജ (ja)
+ജാ (jaa)
+ജി (ji)
+ജീ (jee)
+ജു (ju)
+ജൂ (joo)
+ജെ (je)
+ജേ (jai)
+ജൊ (jo)
+ജോ (joa)
+ജൌ (jau)
+ജം (jam)
+ജഃ (jah)
+
+ട (ta)
+ടാ (taa)
+ടി (ti)
+ടീ (tee)
+ടു (tu)
+ടൂ (too)
+ടെ (te)
+ടേ (tai)
+ടൊ (to)
+ടോ (toa)
+ടൌ (tau)
+ടം (tam)
+ടഃ (tah)
+
+ഠ (tha)
+ഠാ (thaa)
+ഠി (thi)
+ഠീ (thee)
+ഠു (thu)
+ഠൂ (thoo)
+ഠെ (the)
+ഠേ (thai)
+ഠൊ (tho)
+ഠോ (thoa)
+ഠൌ (thau)
+ഠം (tham)
+ഠഃ (thah)
+
+ഡ (da)
+ഡാ (daa)
+ഡി (di)
+ഡീ (dee)
+ഡു (du)
+ഡൂ (doo)
+ഡെ (de)
+ഡേ (dai)
+ഡൊ (do)
+ഡോ (doa)
+ഡൌ (dau)
+ഡം (dam)
+ഡഃ (dah)
+
+ഢ (dha)
+ഢാ (dhaa)
+ഢി (dhi)
+ഢീ (dhee)
+ഢു (dhu)
+ഢൂ (dhoo)
+ഢെ (dhe)
+ഢേ (dhai)
+ഢൊ (dho)
+ഢോ (dhoa)
+ഢൌ (dhau)
+ഢം (dham)
+ഢഃ (dhah)
+
+ണ (na)
+ണാ (naa)
+ണി (ni)
+ണീ (nee)
+ണു (nu)
+ണൂ (noo)
+ണെ (ne)
+ണേ (nai)
+ണൊ (no)
+ണോ (noa)
+ണൌ (nau)
+ണം (nam)
+ണഃ (nah)
+
+ത്ത (tta)
+ത്താ (ttaa)
+ത്തി (tti)
+ത്തീ (ttee)
+ത്തു (ttu)
+ത്തൂ (ttoo)
+ത്തെ (tte)
+ത്തേ (ttai)
+ത്തൊ (tto)
+ത്തോ (ttoa)
+ത്തൌ (ttau)
+ത്തം (ttam)
+ത്തഃ (ttah)
+
+ഥ (tha)
+ഥാ (thaa)
+ഥി (thi)
+ഥീ (thee)
+ഥു (thu)
+ഥൂ (thoo)
+ഥെ (the)
+ഥേ (thai)
+ഥൊ (tho)
+ഥോ (thoa)
+ഥൌ (thau)
+ഥം (tham)
+ഥഃ (thah)
+
+ദ (da)
+ദാ (daa)
+ദി (di)
+ദീ (dee)
+ദു (du)
+ദൂ (doo)
+ദെ (de)
+ദേ (dai)
+ദൊ (do)
+ദോ (doa)
+ദൌ (dau)
+ദം (dam)
+ദഃ (dah)
+
+ധ (dha)
+ധാ (dhaa)
+ധി (dhi)
+ധീ (dhee)
+ധു (dhu)
+ധൂ (dhoo)
+ധെ (dhe)
+ധേ (dhai)
+ധൊ (dho)
+ധോ (dhoa)
+ധൌ (dhau)
+ധം (dham)
+ധഃ (dhah)
+
+ന (na)
+നാ (naa)
+നി (ni)
+നീ (nee)
+നു (nu)
+നൂ (noo)
+നെ (ne)
+നേ (nai)
+നൊ (no)
+നോ (noa)
+നൌ (nau)
+നം (nam)
+നഃ (nah)
+
+പ (pa)
+പാ (paa)
+പി (pi)
+പീ (pee)
+പു (pu)
+പൂ (poo)
+പെ (pe)
+പേ (pai)
+പൊ (po)
+പോ (poa)
+പൌ (pau)
+പം (pam)
+പഃ (pah)
+
+ഫ (pha)
+ഫാ (phaa)
+ഫി (phi)
+ഫീ (phee)
+ഫു (phu)
+ഫൂ (phoo)
+ഫെ (phe)
+ഫേ (phai)
+ഫൊ (pho)
+ഫോ (phoa)
+ഫൌ (phau)
+ഫം (pham)
+ഫഃ (phah)
+
+ബ (ba)
+ബാ (baa)
+ബി (bi)
+ബീ (bee)
+ബു (bu)
+ബൂ (boo)
+ബെ (be)
+ബേ (bai)
+ബൊ (bo)
+ബോ (boa)
+ബൌ (bau)
+ബം (bam)
+ബഃ (bah)
+
+ഭ (bha)
+ഭാ (bhaa)
+ഭി (bhi)
+ഭീ (bhee)
+ഭു (bhu)
+ഭൂ (bhoo)
+ഭെ (bhe)
+ഭേ (bhai)
+ഭൊ (bho)
+ഭോ (bhoa)
+ഭൌ (bhau)
+ഭം (bham)
+ഭഃ (bhah)
+
+മ (ma)
+മാ (maa)
+മി (mi)
+മീ (mee)
+മു (mu)
+മൂ (moo)
+മെ (me)
+മേ (mai)
+മൊ (mo)
+മോ (moa)
+മൌ (mau)
+മം (mam)
+മഃ (mah)
+
+യ (ya)
+യാ (yaa)
+യി (yi)
+യീ (yee)
+യു (yu)
+യൂ (yoo)
+യെ (ye)
+യേ (yai)
+യൊ (yo)
+യോ (yoa)
+യൌ (yau)
+യം (yam)
+യഃ (yah)
+
+ര (ra)
+രാ (raa)
+രി (ri)
+രീ (ree)
+രു (ru)
+രൂ (roo)
+രെ (re)
+രേ (rai)
+രൊ (ro)
+രോ (roa)
+രൌ (rau)
+രം (ram)
+രഃ (rah)
+
+ല (la)
+ലാ (laa)
+ലി (li)
+ലീ (lee)
+ലു (lu)
+ലൂ (loo)
+ലെ (le)
+ലേ (lai)
+ലൊ (lo)
+ലോ (loa)
+ലൌ (lau)
+ലം (lam)
+ലഃ (lah)
+
+വ (va)
+വാ (vaa)
+വി (vi)
+വീ (vee)
+വു (vu)
+വൂ (voo)
+വെ (ve)
+വേ (vai)
+വൊ (vo)
+വോ (voa)
+വൌ (vau)
+വം (vam)
+വഃ (vah)
+
+ശ (sha)
+ശാ (shaa)
+ശി (shi)
+ശീ (shee)
+ശു (shu)
+ശൂ (shoo)
+ശെ (she)
+ശേ (shai)
+ശൊ (sho)
+ശോ (shoa)
+ശൌ (shau)
+ശം (sham)
+ശഃ (shah)
+
+സ (sa)
+സാ (saa)
+സി (si)
+സീ (see)
+സു (su)
+സൂ (soo)
+സെ (se)
+സേ (sai)
+സൊ (so)
+സോ (soa)
+സൌ (sau)
+സം (sam)
+സഃ (sah)
+
+ഹ (ha)
+ഹാ (haa)
+ഹി (hi)
+ഹീ (hee)
+ഹു (hu)
+ഹൂ (hoo)
+ഹെ (he)
+ഹേ (hai)
+ഹൊ (ho)
+ഹോ (hoa)
+ഹൌ (hau)
+ഹം (ham)
+ഹഃ (hah)
+
+ള (lla)
+ളാ (llaa)
+ളി (lli)
+ളീ (llee)
+ളു (llu)
+ളൂ (lloo)
+ളെ (lle)
+ളേ (llai)
+ളൊ (llo)
+ളോ (lloa)
+ളൌ (llau)
+ളം (llam)
+ളഃ (llah)
+
+ഴ (llla)
+ഴാ (lllaa)
+ഴി (llli)
+ഴീ (lllee)
+ഴു (lllu)
+ഴൂ (llloo)
+ഴെ (llle)
+ഴേ (lllai)
+ഴൊ (lllo)
+ഴോ (llloa)
+ഴൌ (lllau)
+ഴം (lllam)
+ഴഃ (lllah)
+
+റ (ra)
+റാ (raa)
+റി (ri)
+റീ (ree)
+റു (ru)
+റൂ (roo)
+റെ (re)
+റേ (rai)
+റൊ (ro)
+റോ (roa)
+റൌ (rau)
+റം (ram)
+റഃ (rah)
+
+ക്ഷ (ksha)
+ക്ഷാ (kshaa)
+ക്ഷി (kshi)
+ക്ഷീ (kshee)
+ക്ഷു (kshu)
+ക്ഷൂ (kshoo)
+ക്ഷെ (kshe)
+ക്ഷേ (kshai)
+ക്ഷൊ (ksho)
+ക്ഷോ (kshoa)
+ക്ഷൌ (kshau)
+ക്ഷം (ksham)
+ക്ഷഃ (kshah)
+`;
