@@ -1,9 +1,9 @@
 export default {
-  id: "picture-8",
-  label: "More Images",
+  id: 'picture-8',
+  label: 'More Images',
   list: [
     {
-      id: "gadgets",
+      id: 'gadgets',
       text: `camera |Camera
 headphone|Headphone
 pendrive|Pendrive
@@ -12,10 +12,10 @@ smartphone|Smartphone
 speaker|Speaker
 tablet|Tablet
 torch|Torch
-web-camera | Web Camera`,
+web-camera | Web Camera`
     },
     {
-      id: "others",
+      id: 'others',
       text: `knight | Knight
 chariot | Chariot
 horse-carriage | Horse Carriage
@@ -32,11 +32,10 @@ medicine | Medicine
 conch| Conch
 toothbrush | Toothbrush
 chocolate | Chocolate
-toothpaste | Toothpaste`,
+toothpaste | Toothpaste`
     },
-
     {
-      id: "flowers",
+      id: 'flowers',
       text: `daffodil | Daffodil
 gulmohar | Gulmohar
 lily | Lily
@@ -46,7 +45,22 @@ daisy | Daisy
 jasmine | Jasmine
 magnolia | Magnolia
 periwinkle | Periwinkle
-water-lily | Water Lily`,
-    },
-  ],
+water-lily | Water Lily
+aavarampoo |
+bougainvillea |
+december |
+erukkampoo |
+idlipoo |
+kanagamaram |
+kurinchipoo |
+nandiyaavattampoo |
+pichipoo |
+poosanipoo |
+poovarasampoo |
+sangupoo |
+thumbaipoo |
+vaadamalli |
+veepampoo |`
+    }
+  ]
 };

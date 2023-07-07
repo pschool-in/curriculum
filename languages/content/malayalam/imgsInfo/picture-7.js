@@ -1,52 +1,56 @@
 export default {
-  id: "picture-7",
-  label: "Vehicles and Jobs",
+  id: 'picture-7',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: "vehicles",
-      text: `aeroplane | Aeroplane
-        boat | Boat
-        bus | Bus
-        car | Car
-        cycle | Cycle
-        helicoptor | Helicopter
+      id: 'vehicles',
+      text: `aeroplane | വിമാനം| vimaanam
+        boat | വഞ്ചി|vanji
+        bus | ബസ്|bas
+        car | കാർ|car
+        cycle | സൈക്കിൾ|sayikal
+        helicoptor | ഹെലികോപ്റ്റര്‍|helicoptar
         motorbike | Motorbike
-ship | Ship
-tractor | Tractor
-lorry| Lorry
-train | Train
-ambulance| Ambulance
-auto| Auto
-cart| Cart
-excavator| Excavator
-fire-engine| Fire Engine
-van| Van
-bulldozer | Bulldozer
-rocket | Rocket
-submarine | Submarine`,
+ship | കപ്പൽ|kappal
+tractor | ട്രാക്ടർ|tractar
+lorry| ലോറി|lorri
+train | തീവണ്ടി|teevandi
+ambulance| ആംബുലന്‍സ്|aambulanse
+auto| ഓട്ടോ|ooto
+cart| ഉന്തുവണ്ടി|unthuvandi
+excavator| ഖനനയന്ത്രം|kananayantram
+fire-engine| അഗ്നിശമനയന്ത്രം|agnishamanayantram
+van| ചരക്കുവണ്ടി|charakkuvandi
+bulldozer | മണ്ണിളക്കിയന്ത്രം|manilakkuyantram
+rocket | അഗ്നിശിഖ|agnishika
+submarine | അന്തർവാഹിനി| antarvahini
+bullock-cart |കാളവണ്ടി|kaalavandi
+horse-carriage |കുതിരവണ്ടി|kuthira vandi
+palanquin |പല്ലക്ക്|pallak
+chariot |രഥം|ratham`
     },
     {
-      id: "jobs",
-      text: `astronaut | Astronaut
-        clown | Clown
-        fisherman | Fisherman
-        postman | Postman
-        teacher | Teacher
-        blacksmith | Blacksmith
-        cobbler | Cobbler
-goldsmith | Goldsmith
-potter | Potter
-weaver | Weaver
-carpenter | Carpenter
-diver | Diver
-nurse | Nurse
-sailor | Sailor
-chef | Chef
-doctor | Doctor
-police | Police
-soldier | Soldier
-barber | Barber
-washerman | Washerman`,
-    },
-  ],
+      id: 'jobs',
+      text: `astronaut | ബഹിരാകാശ സഞ്ചാരി|bahiraaksha sanjari
+        clown | വിദൂഷകൻ|vidushakan
+        fisherman | മത്സ്യത്തൊഴിലാളി|malsya thorilali
+        postman | പോസ്റ്റ്മാൻ|postman
+        teacher | അധ്യാപിക |adyapika
+        blacksmith | ഇരുമ്പുപണിക്കാരന്‍|irumbupanikaaran
+        cobbler | ചെരുപ്പുകുത്തി|cheruppukuthi
+goldsmith | തട്ടാന്‍|thattaan
+potter | കുശവന്‍|kushavan
+weaver | നെയ്ത്തുകാരൻ |neythukaaran
+carpenter | ആശാരി|aashaari
+diver | മുങ്ങല്‍ വിദഗ്‌ധന്‍|mungal videkthan
+nurse | പരിചാരിക|paricharika
+sailor | നാവികൻ|naavikan
+chef | പാചകക്കാരന്‍|pachakakaaran
+doctor | വൈദ്യന്‍|vydhyan
+police | പോലീസ്|poliss
+soldier | പട്ടാളക്കാരൻ|pattalakaran
+barber | ക്ഷുരകന്‍|kshurakan
+washerman | അലക്കുകാരൻ|allakukaaran`
+    }
+  ]
 };

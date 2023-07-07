@@ -52,7 +52,9 @@ bib | Bib
 shirt | കുപ്പായം|kuppayam
 jacket | Jacket
 hat | തൊപ്പി|thoppi
-trousers | Trousers`
+trousers | Trousers
+vetti |മുണ്ട്|mundu
+saree |സാരി|saree`
     },
     {
       id: 'school',
@@ -106,7 +108,24 @@ flour | മാവ്|maavu
 lentils | പരിപ്പ്|parippu
 
 rice | അരി|ari
-soup | Soup`
+soup | Soup
+ammi |അമ്മികല്ല്
+dosaikal |ദോശകൾ
+kudam |കുടം
+clay-stove |കളിമൺ-അടുപ്പ് 
+stone-grinder |അരക്കൽ
+arivaal |അരിവാല
+arivaal-manai |ചിരവ 
+ladle |തവി
+
+kadalai-paruppu |പരിപ്പ്
+malli |മല്ലി
+pepper |കുരുമുളക്
+seeragam |ജീരകം
+sombu |പെരുംജീരകം
+urad-dhal |ഉഴുന്ന്
+wheat |ഗോതമ്പ്
+paddy |നെല്ല്`
     }
   ]
 };
