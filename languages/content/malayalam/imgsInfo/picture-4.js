@@ -109,23 +109,23 @@ lentils | പരിപ്പ്|parippu
 
 rice | അരി|ari
 soup | Soup
-ammi |അമ്മികല്ല്
-dosaikal |ദോശകൾ
-kudam |കുടം
-clay-stove |കളിമൺ-അടുപ്പ് 
-stone-grinder |അരക്കൽ
-arivaal |അരിവാല
-arivaal-manai |ചിരവ 
-ladle |തവി
+ammi |അമ്മികല്ല്|ammikallu
+dosaikal |ദോശകൾ|dosakallu
+kudam |കുടം|kudam
+clay-stove |കളിമൺ-അടുപ്പ് |kalimann adupp
+stone-grinder |അരക്കൽ|arakallu
+arivaal |അരിവാല|arivaala
+arivaal-manai |ചിരവ |chirava
+ladle |തവി|thavi
 
-kadalai-paruppu |പരിപ്പ്
-malli |മല്ലി
-pepper |കുരുമുളക്
-seeragam |ജീരകം
-sombu |പെരുംജീരകം
-urad-dhal |ഉഴുന്ന്
-wheat |ഗോതമ്പ്
-paddy |നെല്ല്`
+kadalai-paruppu |പരിപ്പ്|paripp
+malli |മല്ലി|malli
+pepper |കുരുമുളക്|kurumulak
+seeragam |ജീരകം|jeerakam
+sombu |പെരുംജീരകം|perumjeerakam
+urad-dhal |ഉഴുന്ന്|uzhunn
+wheat |ഗോതമ്പ്|gothamb
+paddy |നെല്ല്|nellu`
     }
   ]
 };
