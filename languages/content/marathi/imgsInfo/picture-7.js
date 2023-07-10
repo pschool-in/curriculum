@@ -1,52 +1,52 @@
 export default {
-  id: "picture-7",
-  label: "Vehicles and Jobs",
+  id: 'picture-7',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: "vehicles",
-      text: `aeroplane | Aeroplane
-        boat | Boat
-        bus | Bus
-        car | Car
-        cycle | Cycle
+      id: 'vehicles',
+      text: `aeroplane | विमान|Vimāna
+        boat | बोट |boat
+        bus | बस|bus
+        car | कार|car
+        cycle | सायकल|caical
         helicoptor | Helicopter
         motorbike | Motorbike
-ship | Ship
+ship | जहाज|Jahāja
 tractor | Tractor
-lorry| Lorry
+lorry| लॉरी|Lŏrī
 train | Train
-ambulance| Ambulance
+ambulance| रुग्णवाहिका|Rugṇavāhikā
 auto| Auto
 cart| Cart
-excavator| Excavator
+excavator| उत्खनन|Utkhanana
 fire-engine| Fire Engine
 van| Van
 bulldozer | Bulldozer
 rocket | Rocket
-submarine | Submarine`,
+submarine | पाणबुडी|Pāṇabuḍī`
     },
     {
-      id: "jobs",
-      text: `astronaut | Astronaut
-        clown | Clown
-        fisherman | Fisherman
-        postman | Postman
-        teacher | Teacher
-        blacksmith | Blacksmith
-        cobbler | Cobbler
+      id: 'jobs',
+      text: `astronaut | अंतराळवीर|Antarāḷavīra
+        clown | जोकर|Jōkara
+        fisherman | मच्छीमार|Macchīmāra
+        postman | पोस्टमॅन|Pōsṭamĕna
+        teacher | शिक्षक|Śikṣaka
+        blacksmith | लोहार|Lōhāra
+        cobbler | मोची|Mōcī
 goldsmith | Goldsmith
-potter | Potter
-weaver | Weaver
-carpenter | Carpenter
+potter | कुंभार|Kumbhāra
+weaver | विणकर|Viṇakara
+carpenter | सुतार|Sutāra
 diver | Diver
-nurse | Nurse
-sailor | Sailor
-chef | Chef
-doctor | Doctor
-police | Police
-soldier | Soldier
-barber | Barber
-washerman | Washerman`,
-    },
-  ],
+nurse | परिचारिका|Paricārikā
+sailor | नाविक|Nāvika
+chef | आचारी|Ācārī
+doctor | डॉक्टर|
+police | पोलिस|Pōlīsa
+soldier | सैनिक|Sainika
+barber | न्हावी|Nhāvī
+washerman | Washerman`
+    }
+  ]
 };
