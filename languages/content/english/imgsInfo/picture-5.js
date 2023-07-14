@@ -1,70 +1,71 @@
 export default {
   id: "picture-5",
-  label: "More Animals and Birds",
+  label: "Action and Sports",
   list: [
     {
-      id: "animals",
-      text: `mongoose| Mongoose
-            mosquito| Mosquito
-            octopus| Octopus
-            wolf| Wolf
-            lizard| Lizard
-            cockroach| Cockroach
-            garden-lizard| Garden Lizard
-rabbit| Rabbit
-leopard| Leopard
-dragonfly |Dragonfly
-fly|Housefly
-squirrel|Squirrel
-dinosaur | Dinosaur
-alligator | Alligator
-boar | Boar
-cricket | Cricket
-hyena | Hyena
-polarbear | Polar Bear
-antelope | Antelope
-bug | Bug
-jackal | Jackal
-prawn | Prawn
-baboon | Baboon
-python | Python
-bison | Bison
-chameleon | Chameleon
-porcupine | Porcupine
-tigerfish | Tigerfish
-ladybug | Ladybug
-seahorse | Seahorse
-hamster | Hamster
-mole | Mole
-caterpillar | Caterpillar
-earthworm | Earthworm
-hedgehog | Hedgehog
-stingray | Stingray
-jellyfish | Jellyfish
-starfish | Starfish`,
+      id: "action",
+      label: "Actions",
+      text: `eat | Eat
+      drink | Drink
+      bend | Bend
+      climb | Climb
+      jump | Jump
+      kneel | Kneel
+      pull | Pull
+      push | Push
+      sing | Sing
+      dance | Dance
+      running | Run
+      walking | Walk
+      sit | Sit
+      party | Party
+      skipping | Skip
+      catch | Catch
+      pass | Pass
+      swim | Swim
+      swing | Swing
+      throw | Throw
+      carry | Carry
+      lifting | Lift
+      mopping | Moping
+      riding | Ride
+      sweep | Sweep
+      cough | Cough
+      sick | Sick
+      sneeze | Sneeze
+      yawn | Yawn
+      sleep | Sleep`,
     },
     {
-      id: "birds",
-      text: `hornbill | Hornbill
-            cuckoo | Cuckoo
-            pheasant | Pheasant
-            falcon | Falcon
-            swan | Swan
-            bulbul | Bulbul
-            spotted-dove | Spotted Dove
-pelican | Pelican
-hummingbird | Hummingbird
-robin | Robin
-swallow | Swallow
-blue-jay | Blue jay
-seagull | Seagull
-canary | Canary
-goose | Goose
-turkey | Turkey
-hawk | Hawk
-cardinal | Cardinal
-parakeet | Parakeet
-macaw | Macaw`,
+      id: "sports",
+      label: "Sports",
+      text: `bat2 | Bat
+      racket | Racket
+      seesaw | Seesaw
+      slide | Slide
+      carrom | Carrom
+      chess | Chess
+      cricket2 | Cricket
+      tennis | Tennis
+      football | Football
+      hockey | Hockey
+      kabaddi | Kabaddi
+      archery | Archery
+      basketball | Basket ball
+      boxing | Boxing
+      table-tennis | table-tennis
+      golf | Golf
+      wrestling | Wrestling
+      
+      
+      karate | Karate
+      surfing | Surfing
+      
+      jockey | Jockey
+      track | Track
+      
+      bandage | Bandage
+      danger | danger`,
     },
   ],
 };

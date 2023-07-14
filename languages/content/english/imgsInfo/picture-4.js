@@ -12,6 +12,17 @@ baby | Baby
 house| House
 table|Table
 bed|Bed
+mat | Map
+mop | Mop
+mug | Mug
+lock | Lock
+key | Key
+net | Net
+rope | Rope
+teapot | Teapot
+fan | Fan
+jug | Jug
+lightbulb | Bulb
 candle|Candle
 chair|Chair
 shelf|Shelf

@@ -1,52 +1,46 @@
 export default {
-  id: "picture-7",
-  label: "Vehicles and Jobs",
+  id: "picture-6",
+  label: "More Fruits and Vegetables",
   list: [
     {
-      id: "vehicles",
-      text: `aeroplane | Aeroplane
-        boat | Boat
-        bus | Bus
-        car | Car
-        cycle | Cycle
-        helicoptor | Helicopter
-        motorbike | Motorbike
-ship | Ship
-tractor | Tractor
-lorry| Lorry
-train | Train
-ambulance| Ambulance
-auto| Auto
-cart| Cart
-excavator| Excavator
-fire-engine| Fire Engine
-van| Van
-bulldozer | Bulldozer
-rocket | Rocket
-submarine | Submarine`,
+      id: "fruits",
+      text: `star-fruit | Star fruit
+dragon-fruit | Dragon fruit
+sugarcane | Sugarcane
+peach | Peach
+sweet-potato | Sweet potato
+jamun | Jamun
+pear | Pear
+water-chestnut | Water chestnut
+jujube | Jujube
+sapotta | Sapotta
+tapioca | Tapioca
+blueberry | Blueberry
+passion-fruit | Passion fruit`,
     },
     {
-      id: "jobs",
-      text: `astronaut | Astronaut
-        clown | Clown
-        fisherman | Fisherman
-        postman | Postman
-        teacher | Teacher
-        blacksmith | Blacksmith
-        cobbler | Cobbler
-goldsmith | Goldsmith
-potter | Potter
-weaver | Weaver
-carpenter | Carpenter
-diver | Diver
-nurse | Nurse
-sailor | Sailor
-chef | Chef
-doctor | Doctor
-police | Police
-soldier | Soldier
-barber | Barber
-washerman | Washerman`,
+      id: "vegetables",
+      text: `chickpea | Chickpea
+mustard-greens | Mustard greens
+turmeric | Turmeric
+turnip | Turnip
+fenugreek | Fenugreek
+tamarind | Tamarind
+elephant-yam | Elephant Yam
+ashgourd | Ashgourd
+broad-beans | Broad beans
+snake-gourd | Snake gourd
+banana-flower | Banana flower
+cluster-beans | Cluster beans
+kohlrabi | Kohlrabi
+spring-onion | Spring onion
+banana-stem | Banana stem
+drumstick-leaves | Drumstick leaves
+raw-banana | Raw banana
+tulsi | Tulsi
+bottlegourd | Bottlegourd
+ivygourd | Ivygourd
+ridgegourd | Ridgegourd`,
     },
   ],
 };

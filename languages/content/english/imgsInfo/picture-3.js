@@ -26,7 +26,18 @@ hair|Hair
 hand|Hand
 mouth|Mouth
 nose| Nose
-tooth|Tooth`,
+tooth|Tooth
+forehead
+mustache
+beard
+ankle
+elbow
+knee
+shoulder
+wrist 
+thumb
+cheek
+chin`,
     },
     {
       id: "flowers",
@@ -56,9 +67,19 @@ food| Food
 king| King
 kite| Kite
 ladder| Ladder
+quill | Quill
+  oar | Oar
+  gun | Gun
 wheel| Wheel
 park | Park
-garden | Garden`,
+garden | Garden
+brick | Brick
+gun | Gun
+oar | Oar
+quill | Quill
+statue | Statue
+
+`,
     },
   ],
 };

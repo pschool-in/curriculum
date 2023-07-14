@@ -1,52 +1,52 @@
 export default {
-  id: "picture-8",
-  label: "More Images",
+  id: "picture-7",
+  label: "Vehicles and Jobs",
   list: [
     {
-      id: "gadgets",
-      text: `camera |Camera
-headphone|Headphone
-pendrive|Pendrive
-remote|Remote
-smartphone|Smartphone
-speaker|Speaker
-tablet|Tablet
-torch|Torch
-web-camera | Web Camera`,
+      id: "vehicles",
+      text: `aeroplane | Aeroplane
+        boat | Boat
+        bus | Bus
+        car | Car
+        cycle | Cycle
+        helicoptor | Helicopter
+        motorbike | Motorbike
+ship | Ship
+tractor | Tractor
+lorry| Lorry
+train | Train
+ambulance| Ambulance
+auto| Auto
+cart| Cart
+excavator| Excavator
+fire-engine| Fire Engine
+van| Van
+bulldozer | Bulldozer
+rocket | Rocket
+submarine | Submarine`,
     },
     {
-      id: "others",
-      text: `knight | Knight
-chariot | Chariot
-horse-carriage | Horse Carriage
-yarn-ball | Yarn Ball
-bow | Bow
-arrow | Arrow
-fountain | Fountain
-pouch | Pouch
-trolley | Trolley
-whistle |Whistle
-twig | Twig
-palanquin | Palanquin
-medicine | Medicine
-conch| Conch
-toothbrush | Toothbrush
-chocolate | Chocolate
-toothpaste | Toothpaste`,
-    },
-
-    {
-      id: "flowers",
-      text: `daffodil | Daffodil
-gulmohar | Gulmohar
-lily | Lily
-pansy | Pansy
-poppy | Poppy
-daisy | Daisy
-jasmine | Jasmine
-magnolia | Magnolia
-periwinkle | Periwinkle
-water-lily | Water Lily`,
+      id: "jobs",
+      text: `astronaut | Astronaut
+        clown | Clown
+        fisherman | Fisherman
+        postman | Postman
+        teacher | Teacher
+        blacksmith | Blacksmith
+        cobbler | Cobbler
+goldsmith | Goldsmith
+potter | Potter
+weaver | Weaver
+carpenter | Carpenter
+diver | Diver
+nurse | Nurse
+sailor | Sailor
+chef | Chef
+doctor | Doctor
+police | Police
+soldier | Soldier
+barber | Barber
+washerman | Washerman`,
     },
   ],
 };
