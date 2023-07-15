@@ -4,49 +4,49 @@ export default {
   list: [
     {
       id: "vehicles",
-      text: `aeroplane | Aeroplane
-        boat | Boat
-        bus | Bus
-        car | Car
-        cycle | Cycle
-        helicoptor | Helicopter
-        motorbike | Motorbike
-ship | Ship
-tractor | Tractor
-lorry| Lorry
-train | Train
-ambulance| Ambulance
-auto| Auto
-cart| Cart
-excavator| Excavator
-fire-engine| Fire Engine
-van| Van
-bulldozer | Bulldozer
-rocket | Rocket
-submarine | Submarine`,
+      text: `aeroplane | ವಿಮಾನ |vimana
+        boat | ದೋಣಿ | doni
+        bus | ಬಸ್ |Bus
+        car | ಕಾರು | karu
+        cycle | ಬೈಸಿಕಲ್ | baisikal
+        helicoptor |ಹೆಲಿಕಾಪ್ಟರ್ | Helicopter
+        motorbike | ಬೈಕ್ | baik
+ship | ಹಡಗು | hadagu
+tractor | ಟ್ರ್ಯಾಕ್ಟರ್ | Ṭryākṭar
+lorry| ಲಾರಿ | Lāri
+train | ರೈಲು | railu
+ambulance| ಆಂಬ್ಯುಲೆನ್ಸ್ |Āmbyulens
+auto| ಆಟೋ |Auto
+cart| ಬಂಡಿ |baṇḍi
+excavator| ಅಗೆಯುವ ಯಂತ್ರ | Ageyuva yantra
+fire-engine| ಅಗ್ನಿ ಶಾಮಕ | Agni śāmaka
+van|ವ್ಯಾನ್ | Vyān
+bulldozer | ಬುಲ್ಡೋಜರ್ |Bulḍōjar
+rocket | ರಾಕೆಟ್ |Rocket
+submarine | ಜಲಾಂತರ್ಗಾಮಿ |Jalantargami`,
     },
     {
       id: "jobs",
-      text: `astronaut | Astronaut
-        clown | Clown
-        fisherman | Fisherman
-        postman | Postman
-        teacher | Teacher
+      text: `astronaut | ಗಗನಯಾತ್ರಿ |Gaganayātri
+        clown | ಹಾಸ್ಯಗಾರ |Hāsyagāra
+        fisherman | ಮೀನುಗಾರ |Mīnugāra
+        postman | ಪೋಸ್ಟ್ಮ್ಯಾನ್ |postmyan
+        teacher | ಶಿಕ್ಷಕ  |siksaka
         blacksmith | Blacksmith
-        cobbler | Cobbler
-goldsmith | Goldsmith
-potter | Potter
-weaver | Weaver
-carpenter | Carpenter
-diver | Diver
-nurse | Nurse
-sailor | Sailor
-chef | Chef
-doctor | Doctor
-police | Police
-soldier | Soldier
-barber | Barber
-washerman | Washerman`,
+        cobbler | ಚಮ್ಮಾರ | chammara
+goldsmith | ಗೋಲ್ಡ್ ಸಿಮ್ತ್  |gold simt
+potter | ಕುಂಬಾರ | kumbara
+weaver | ನೇಕಾರ |nekara
+carpenter | ಬಡಗಿ |Baḍagi
+diver | ಧುಮುಕುವವನು |Dhumukuvavanu
+nurse | ನರ್ಸ್ |Nurse
+sailor | ನಾವಿಕ  |navika
+chef | ಬಾಣಸಿಗ |Bāṇasiga
+doctor | ವೈದ್ಯರು  |vaidyaru
+police | ಪೊಲೀಸ್ | Police
+soldier | ಸೈನಿಕ  |sainika
+barber | ಕ್ಷೌರಿಕ |ksaurika
+washerman |ತೊಳೆಯುವವನು |toleyuvavanu`,
     },
   ],
 };

@@ -3,75 +3,75 @@ export default {
   list: [
     {
       id: "animals",
-      label: "Animals",
-      text: `cat | Cat
-dog | Dog
-goat| Goat
-cow| Cow
-donkey| Donkey
-horse| Horse
-pig| Pig
-elephant| Elephant
-lion | Lion
-monkey| Monkey
+      label: "Animals-ಪ್ರಾಣಿಗಳು-Pranigalu",
+            text: `cat | ಬೆಕ್ಕು |Bekku
+dog | ನಾಯಿ | Nayi
+goat| ಮೇಕೆ |meke
+cow| 	ಹಸು | hasu
+donkey| ಕತ್ತೆ | katte
+horse| ಕುದುರೆ | kudure
+pig| 	ಹಂದಿ | handi
+elephant| ಆನೆ | ane
+lion | ಸಿಂಹ |sinha
+monkey| ಕೋತಿ | koti
 
-hippo| Hippo
-rhino| Rhino
-fox| Fox
-crocodile| Crocodile
-zebra| Zebra
-bear| Bear
-camel| Camel
-shark| Shark
-whale| Whale
-dolphin| Dolphin
+hippo| ನೀರಾನೆ | nirane
+rhino| ಗೇಂಡಾಮೃಗ| gendamrga
+fox| ನರಿ | nari
+crocodile| ಮೊಸಳೆ | mosale
+zebra| ಹೇಸರಗತ್ತೆ | hesaragatte
+bear| 	ಕರಡಿ | karadi
+camel| ಒಂಟೆ | onte
+shark| ಶಾರ್ಕ್ |Shark
+whale| ತಿಮಿಂಗಿಲ |Timingila
+dolphin| ಡಾಲ್ಫಿನ್ |Dolphin
 
-tiger| Tiger
-sheep| Sheep
-fish| Fish
-frog| Frog
-crab| Crab
-snake| Snake
-bull | Bull
-tortoise| Tortoise
-rat| Rat
-ant| Ant
+tiger| ಹುಲಿ |huli
+sheep| 	ಕುರಿ | kuri
+fish| ಮೀನು |Minu
+frog| ಕಪ್ಪೆ  |kappe
+crab| ಏಡಿ |edi
+snake| ಹಾವು | havu
+bull | ಗೊಳಿ | goli
+tortoise| ಆಮೆ | ame
+rat| ಹೆಗ್ಗಣ | heggana
+ant| ಇರುವೆ |Iruve
 
-bat| Bat
-buffalo| Buffalo
-butterfly| Butterfly
-cheetah| Cheetah
-bee | Bee
-goldfish | Goldfish
-spider | Spider
-panda | Panda
-giraffe| Giraffe
-kangaroo| Kangaroo`,
+bat| ಬಾವಲಿ |Bavali
+buffalo| 	ಎಮ್ಮೆ | emme
+butterfly| ಚಿಟ್ಟೆ |Citte
+cheetah| ಚಿರತೆ |Cirate
+bee | ಜೇನು ನೊಣ |Jenunona
+goldfish | ಗೋಲ್ಡಫಿಷ್ |Goldafish
+spider | ಜೇಡ |Jeda
+panda | ಪಾಂಡಾ |Panda
+giraffe| ಜಿರಾಫೆ | Jiraphe
+kangaroo| ಕಾಂಗರೂ |Kangaroo`,
     },
     {
       id: "birds",
-      label: "Birds",
-      text: `crow|Crow
-dove|Dove
-duck|Duck
-hen|Hen
-chick| Chick
-parrot|Parrot
-peacock|Peacock
-penguin|Penguin
-sparrow|Sparrow
-crane| Crane
+      label: "Birds-ಪಕ್ಷಿಗಳು-Paksigalu",
+      text: `crow|ಕಾಗೆ | kage
+dove|ಪಾರಿವಾಳ | parivala
+duck|ಬಾತುಕೋಳಿ | batukoli
+hen|ಕೋಳಿ | koli
+chick| ಮರಿಯನ್ನು |Mariyannu
+parrot|ಗಿಣಿ | gini
+peacock|ನವಿಲು | navilu
+penguin|ಪೆಂಗ್ವಿನ್ |Pengvin
+sparrow|ಗುಬ್ಬಚ್ಚಿ |gubbacci
+crane| 	ಕೊಕ್ಕರೆ |kokkare
 
-eagle| Eagle
-flamingo| Flamingo
-kingfisher| Kingfisher
-myna| Myna
-ostrich| Ostrich
-owl| Owl
-rooster| Rooster
-vulture| Vulture
-woodpecker| Woodpecker
-koel | Koel`,
+eagle| ಹದ್ದು | haddu
+flamingo| ರಾಜಹಂಸ| Rajahansa
+kingfisher| 	ಮಿಂಚುಳ್ಳಿ | minculli
+myna| 	ಗೊರವಂಕ | goravanka
+ostrich| ಉಷ್ಟ್ರಪಕ್ಷಿ | ustrapaksi
+owl| ಗೂಬೆ | gube
+rooster| ರೂಸ್ಟರ್ |rooster
+vulture| ರಣಹದ್ದು | ranahaddu
+woodpecker| ಮರಕುಟಿಗ | marakutiga
+koel | ಕೋಯಲ್| Koyal`,
     },
   ],
 };

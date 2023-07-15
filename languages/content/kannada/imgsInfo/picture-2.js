@@ -4,62 +4,63 @@ export default {
   list: [
     {
       id: "fruits",
-      label: "Fruits",
-      text: `apple | Apple 
-grapes | Grapes
-banana | Banana
-cherry | Cherry
-avocado | Avocado
-strawberry | Strawberry
-guava | Guava
-jackfruit | Jackfruit
-mango | Mango
-orange | Orange
+      label: "Fruits-ಹಣ್ಣುಗಳು-Hannugalu",
+            text: `apple | ಸೇಬು| sebu 
+grapes | ದ್ರಾಕ್ಷಿಗಳು |draksigalu
+banana | ಬಾಳೆಹಣ್ಣು | balehannu
+cherry | ಚೆರ್ರಿ |cherry
+avocado | ಆವಕಾಡೊ | avakado
+strawberry | ಸ್ಟ್ರಾಬೆರಿ | Strawberry
+guava |ಸೀಬೆಹಣ್ಣು | sibehannu
+jackfruit | ಹಲಸು | halasu
+mango |ಮಾವು | mavu
+orange | ಕಿತ್ತಳೆ | kittale
 
-papaya | Papaya
-pineapple | Pineapple
-watermelon | Watermelon
-pomegranate| Pomegranate
-fig| Fig
-custard-apple| Custard Apple
-plum| Plum
-dates| Dates
-muskmelon| Muskmelon`,
+papaya | ಪಪ್ಪಾಯಿ |pappayi
+pineapple | ಅನಾನಸ್ |ananas
+watermelon | ಕಲ್ಲಂಗಡಿ |kallangadi
+pomegranate| ದಾಳಿಂಬೆ | dalimbe
+fig| ಅಂಜೂರ |anjura
+custard-apple| ಸೀತಾಫಲ | sitaphala
+plum| ಪ್ಲಮ್ |Plum
+dates| ದಿನಾಂಕಗಳು | dinankagalu
+muskmelon| ಕಸ್ತೂರಿ |Kasturi`,
     },
     {
       id: "vegetables",
-      text: `carrot | Carrot
-beetroot | Beetroot
-onion | Onion
-tomato | Tomato
-potato | Potato
-cabbage | Cabbage
-corn | Corn
-cucumber |Cucumber
-garlic|Garlic
-ginger|Ginger
+      label: "vegetables-ತರಕಾರಿಗಳು-Tarakarigalu",
+      text: `carrot | ಕ್ಯಾರೆಟ್|Carrot
+beetroot |ಬೀಟ್ರೂಟ್| Beetroot
+onion | ಈರುಳ್ಳಿ | irulli
+tomato | ಟೊಮೆಟೊ | Tomato
+potato | ಆಲೂಗಡ್ಡೆ | alugadde
+cabbage | ಎಲೆಕೋಸು | elekosu
+corn | ಜೋಳ | jola
+cucumber |ಸೌತೆಕಾಯಿ |sautekayi
+garlic|ಬೆಳ್ಳುಳ್ಳಿ | bellulli
+ginger|ಶುಂಠಿ | sunthi
 
-cauliflower| Cauliflower
-pumpkin| Pumpkin
-almond| Almond
-beans| Beans
-bitter-gourd| Bitter Gourd
-brinjal| Brinjal
-capsicum| Capsicum
-cashewnut| Cashewnut
-chilli| Chilli
-coconut | Coconut
+cauliflower| ಹೂಕೋಸು | hukosu
+pumpkin| ಕುಂಬಳಕಾಯಿ |kumbalakayi
+almond| ಬಾದಾಮಿ | badami
+beans| ಬೀನ್ಸ್ |Beans
+bitter-gourd| ಹಾಗಲಕಾಯಿ | hagalakayi
+brinjal| ಬದನೆಕಾಯಿ | Badanekayi
+capsicum| ದೊಣ್ಣೆ ಮೆಣಸಿನ ಕಾಯಿ |donne menasina kayi
+cashewnut| ಗೋಡಂಬಿ| godambi
+chilli| ಮೆಣಸಿನಕಾಯಿ | menasinakayi
+coconut | ತೆಂಗಿನ ಕಾಯಿ | tengina kayi
 
-corianderleaf | Coriander Leaf
-curryleaf | Curry Leaf
-drumstick| Drumstick
-greenpeas| Green Peas
-ladies-finger | Ladies Finger
-mintleaf| Mintleaf
-peanut| Peanut
-radish| Radish
-spinach | Spinach
-vegetables | Vegetables`,
+corianderleaf |ಕೊತ್ತಂಬರಿ ಎಲೆ | kottambari ele
+curryleaf | ಕರಿಬೇವಿನ ಎಲೆ |karibevina ele
+drumstick| ಡ್ರಮ್ ಸ್ಟಿಕ್| Drumstick
+greenpeas| ಹಸಿರು ಬಟಾಣಿ |hasiru batani
+ladies-finger | ಲೇಡೀಸ್ ಫಿಂಗರ್ |Ladies Finger
+mintleaf| ಪುದೀನ ಎಲೆ | Pudīna ele
+peanut| ಕಡಲೆಕಾಯಿ | Kadalekayi
+radish| ಮೂಲಂಗಿ |mulangi
+spinach | ಸೊಪ್ಪು | soppu
+vegetables | ತರಕಾರಿಗಳು |tarakarigalu `,
     },
   ],
 };

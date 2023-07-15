@@ -5,15 +5,15 @@ export default {
     {
       id: "fruits",
       label: "Fruits",
-      text: `apple | Apple 
-grapes | Grapes
-banana | Banana
-cherry | Cherry
-avocado | Avocado
-strawberry | Strawberry
-guava | Guava
-jackfruit | Jackfruit
-mango | Mango
+      text: `apple |ఆపిల్ |apil  
+grapes | ద్రాక్ష |draksa
+banana | అరటిపండు | aratipandu
+cherry | చెర్రీ|Cherry
+avocado | అవకాడో|Avocado
+strawberry | స్ట్రాబెర్రీలు Straberrilu
+guava | జామ |jama
+jackfruit | 	పనస | panasa
+mango | మామిడి | mamidi
 orange | Orange
 
 papaya | Papaya
