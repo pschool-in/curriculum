@@ -57,7 +57,7 @@ duck|	డక్ |Duck
 hen|	కోడి | Kodi
 chick| పౌల్ట్రీ |Paultri
 parrot|చిలుక |Ciluka
-peacock|	నెమలి | Nemali
+peacock| నెమలి | Nemali
 penguin|పెంగ్విన్|Penguin
 sparrow|పిచ్చుక | Piccuka
 crane| 	కొంగ |Konga
