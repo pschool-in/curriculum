@@ -4,49 +4,49 @@ export default {
   list: [
     {
       id: "gadgets",
-      text: `camera |Camera
-headphone|Headphone
-pendrive|Pendrive
-remote|Remote
-smartphone|Smartphone
+      text: `camera | కెమెరా|Camera
+headphone|హెడ్‌ఫోన్|Headphone
+pendrive|పెన్ డ్రైవ్|Pendrive
+remote|రిమోట్|Remote
+smartphone|స్మార్ట్ఫోన్|Smartphone
 speaker|Speaker
 tablet|Tablet
-torch|Torch
-web-camera | Web Camera`,
+torch|టార్చ్|Torch
+web-camera | వెబ్ కెమెరా|Web Camera`,
     },
     {
       id: "others",
-      text: `knight | Knight
-chariot | Chariot
-horse-carriage | Horse Carriage
-yarn-ball | Yarn Ball
-bow | Bow
-arrow | Arrow
+      text: `knight | నైట్|Naiṭ
+chariot | రథము|Rathamu
+horse-carriage | గుర్రపు బండి|Gurrapu baṇḍi
+yarn-ball | నూలు బంతి|Nūlu banti
+bow | విల్లు|Villu
+arrow | బాణం|Bāṇaṁ
 fountain | Fountain
-pouch | Pouch
-trolley | Trolley
-whistle |Whistle
-twig | Twig
-palanquin | Palanquin
-medicine | Medicine
-conch| Conch
-toothbrush | Toothbrush
-chocolate | Chocolate
-toothpaste | Toothpaste`,
+pouch | పర్సు|Parsu
+trolley |ట్రాలీ|Ṭrālī
+whistle |విజిల్|Vijil
+twig | చిన్న కొమ్మ|Cinna kom'ma
+palanquin | పల్లకీ|Pallakī
+medicine |మందు|Mandu
+conch| శంఖం|Śaṅkhaṁ
+toothbrush | టూత్ బ్రష్|Toothbrush
+chocolate | చాక్లెట్|Chocolate
+toothpaste | టూత్‌పేస్ట్ |toothpaste`,
     },
 
     {
       id: "flowers",
-      text: `daffodil | Daffodil
-gulmohar | Gulmohar
-lily | Lily
-pansy | Pansy
+      text: `daffodil | డాఫోడిల్|Daffodil
+gulmohar | గుల్మోహర్|Gulmōhar
+lily | 	లిల్లీ | lilli
+pansy | పాన్సీ|Pānsī
 poppy | Poppy
-daisy | Daisy
-jasmine | Jasmine
-magnolia | Magnolia
-periwinkle | Periwinkle
-water-lily | Water Lily`,
+daisy | డైసీ |daisi
+jasmine | మల్లె | malle
+magnolia | మాగ్నోలియా|Māgnōliyā
+periwinkle | పెరివింకిల్|Periviṅkil
+water-lily | 	కలువ | kaluva`,
     },
   ],
 };
