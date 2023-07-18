@@ -1,10 +1,10 @@
 export default {
-  id: "picture-2",
-  label: "Fruits and Vegetables",
+  id: 'picture-2',
+  label: 'Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
-      label: "Fruits",
+      id: 'fruits',
+      label: 'Fruits',
       text: `apple | ആപ്പിൾ|aappil
 grapes | മുന്തിരി|munthiri
 banana | വാഴപ്പഴം|vaazhappazham
@@ -24,10 +24,10 @@ fig| അത്തിപ്പഴം|athippazham
 custard-apple| സീതപ്പഴം|seethappazham
 plum| പ്ലം|plam
 dates| ഈന്തപ്പഴം|eenthappazham
-muskmelon| തൈക്കുമ്പലം|thaikkumbalam`,
+muskmelon| തൈക്കുമ്പലം|thaikkumbalam`
     },
     {
-      id: "vegetables",
+      id: 'vegetables',
       text: `carrot | കാരറ്റ്|kaarattu
 beetroot | ബീറ്റ്റൂട്ട്|beetrootu
 onion | ഉള്ളി|ulli
@@ -49,6 +49,7 @@ capsicum| കാപ്സിക്കം|kaapsikkam
 cashewnut| കശുവണ്ടി|kashuvandi
 chilli| മുളക്|mulak
 coconut | നാളികേരം|naalikeram
+lemon | നാരങ്ങ|naaranga
 
 corianderleaf | മല്ലിയില|malliyila
 curryleaf | കറിവേപ്പില|kariveppila
@@ -59,7 +60,7 @@ mintleaf| പുതിന|puthin
 peanut| കപ്പലണ്ടി|kappalandi
 radish| മുള്ളങ്കി|mullangi
 spinach | ചീര|cheera
-vegetables | പച്ചക്കറികൾ|pachakkarikal`,
-    },
-  ],
+vegetables | പച്ചക്കറികൾ|pachakkarikal`
+    }
+  ]
 };

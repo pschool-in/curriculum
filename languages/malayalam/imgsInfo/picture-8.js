@@ -1,62 +1,70 @@
 export default {
   id: 'picture-8',
-  label: 'More Images',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: 'gadgets',
-      text: `camera |Camera
-headphone|Headphone
-pendrive|Pendrive
-remote|Remote
-smartphone|Smartphone
-speaker|Speaker
-tablet|Tablet
-torch|Torch
-web-camera | Web Camera`
+      id: 'vehicles',
+      text: `aeroplane | വിമാനം| vimaanam
+boat | വഞ്ചി|vanji
+bus | ബസ്|bas
+car | കാർ|car
+cycle | സൈക്കിൾ|sayikal
+helicoptor | ഹെലികോപ്റ്റര്‍|helicoptar
+motorbike | Motorbike
+ship | കപ്പൽ|kappal
+tractor | ട്രാക്ടർ|tractar
+lorry| ലോറി|lorri
+train | തീവണ്ടി|teevandi
+ambulance| ആംബുലന്‍സ്|aambulanse
+auto| ഓട്ടോ|ooto
+cart| ഉന്തുവണ്ടി|unthuvandi
+metro | Metro
+excavator| ഖനനയന്ത്രം|kananayantram
+fire-engine| അഗ്നിശമനയന്ത്രം|agnishamanayantram
+van| ചരക്കുവണ്ടി|charakkuvandi
+bulldozer | മണ്ണിളക്കിയന്ത്രം|manilakkuyantram
+crane2 | Crane
+rocket | അഗ്നിശിഖ|agnishika
+submarine | അന്തർവാഹിനി| antarvahini
+bullock-cart |കാളവണ്ടി|kaalavandi
+horse-carriage |കുതിരവണ്ടി|kuthira vandi
+palanquin |പല്ലക്ക്|pallak
+chariot |രഥം|ratham`
     },
     {
-      id: 'others',
-      text: `knight | യോദ്ധാവ്‌|yodhav
-yarn-ball | Yarn Ball
-bow | വില്ല്|villu
-arrow | അമ്പ്|amb
-fountain | ജലധാര|jaladaara
-pouch | സഞ്ചി|sanji
-trolley | തള്ളുവണ്ടി|thalluvandi
-whistle |വിസിൽ|visil
-twig | ചില്ല|chillu
-medicine | മരുന്ന്|marunn
-conch| ശംഖ്|shank
-toothbrush | Toothbrush
-chocolate | ചോക്കലേറ്റ്‌|chokalete
-toothpaste |Toothpaste `
-    },
-    {
-      id: 'flowers',
-      text: `daffodil | Daffodil
-gulmohar | Gulmohar
-lily | ലില്ലി|lili
-pansy | Pansy
-poppy | കസ്കസ് പൂവ്|kaskas poovu
-daisy | ഡെയ്സി|daisy
-jasmine | മുല്ലപ്പൂ|mulla poovu
-magnolia | Magnolia
-periwinkle | നിത്യഹരിത|nithyaharitha
-water-lily |ആമ്പൽ |aambal
-aavarampoo |ആവരമ്പ്|aavaramb
-bougainvillea |കടലാസ്സു പൂവ്|kadalasu poovu
-december |ഡിസംബര്‍|dicember
-erukkampoo |എരുക്ക്|erukku
-kanagamaram |കനകാംബരം|kanakambaram
-kurinchipoo |നീല കുറിഞ്ഞി|neela kurinji
-nandiyaavattampoo |നന്ത്യാർവട്ടം|nanthyarvattam
-pichipoo |പിച്ചിപ്പൂ|pichipoovu
-poosanipoo |മത്തങ്ങ പുഷ്പം|mathanga pushpam
-poovarasampoo |പൂവരശ്ശ്|poovarass
-sangupoo |ശംഖുപുഷ്പം|shank pushpam
-thumbaipoo |തുമ്പ പൂവ്|thumba poovu
-vaadamalli |വാടാമല്ലി|vaada malli
-veepampoo |വേപ്പിൻ പൂവ്| veppin poovu`
+      id: 'jobs',
+      text: `astronaut | ബഹിരാകാശ സഞ്ചാരി|bahiraaksha sanjari
+clown | വിദൂഷകൻ|vidushakan
+fisherman | മത്സ്യത്തൊഴിലാളി|malsya thorilali
+postman | പോസ്റ്റ്മാൻ|postman
+teacher | അധ്യാപിക |adyapika
+blacksmith | ഇരുമ്പുപണിക്കാരന്‍|irumbupanikaaran
+cobbler | ചെരുപ്പുകുത്തി|cheruppukuthi
+goldsmith | തട്ടാന്‍|thattaan
+potter | കുശവന്‍|kushavan
+weaver | നെയ്ത്തുകാരൻ |neythukaaran
+carpenter | ആശാരി|aashaari
+diver | മുങ്ങല്‍ വിദഗ്‌ധന്‍|mungal videkthan
+nurse | പരിചാരിക|paricharika
+sailor | നാവികൻ|naavikan
+chef | പാചകക്കാരന്‍|pachakakaaran
+doctor | വൈദ്യന്‍|vydhyan
+police | പോലീസ്|poliss
+soldier | പട്ടാളക്കാരൻ|pattalakaran
+barber | ക്ഷുരകന്‍|kshurakan
+washerman | അലക്കുകാരൻ|allakukaaran
+milkman | പാൽക്കാരൻ|paalkaaran
+shopkeeper | കടയുടമ|kadayudama
+businessman | വ്യവസായി|vyavasayi
+cashier | Cashier
+electrician | Electrician
+farmer | കർഷകൻ|karshakan
+mechanic | Mechanic
+pilot | Pilot
+plumber | Plumber
+scientist | ശാസ്ത്രജ്ഞൻ|shastranjan
+seller | വിൽപ്പനക്കാരൻ|vilpanakaran
+software-developer | Software Developer`
     }
   ]
 };

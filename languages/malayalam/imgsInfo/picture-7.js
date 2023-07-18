@@ -1,56 +1,52 @@
 export default {
   id: 'picture-7',
-  label: 'Vehicles and Jobs',
+  label: 'More Fruits and Vegetables',
   list: [
     {
-      id: 'vehicles',
-      text: `aeroplane | വിമാനം| vimaanam
-        boat | വഞ്ചി|vanji
-        bus | ബസ്|bas
-        car | കാർ|car
-        cycle | സൈക്കിൾ|sayikal
-        helicoptor | ഹെലികോപ്റ്റര്‍|helicoptar
-        motorbike | Motorbike
-ship | കപ്പൽ|kappal
-tractor | ട്രാക്ടർ|tractar
-lorry| ലോറി|lorri
-train | തീവണ്ടി|teevandi
-ambulance| ആംബുലന്‍സ്|aambulanse
-auto| ഓട്ടോ|ooto
-cart| ഉന്തുവണ്ടി|unthuvandi
-excavator| ഖനനയന്ത്രം|kananayantram
-fire-engine| അഗ്നിശമനയന്ത്രം|agnishamanayantram
-van| ചരക്കുവണ്ടി|charakkuvandi
-bulldozer | മണ്ണിളക്കിയന്ത്രം|manilakkuyantram
-rocket | അഗ്നിശിഖ|agnishika
-submarine | അന്തർവാഹിനി| antarvahini
-bullock-cart |കാളവണ്ടി|kaalavandi
-horse-carriage |കുതിരവണ്ടി|kuthira vandi
-palanquin |പല്ലക്ക്|pallak
-chariot |രഥം|ratham`
+      id: 'fruits',
+      text: `star-fruit | സ്റ്റാർഫ്രൂട്ട്| star fruit
+dragon-fruit | Dragon fruit
+sugarcane | കരിമ്പ്|karimb
+peach | പീച്ച്|peech
+sweet-potato | മധുരക്കിഴങ്ങ്|madura kizhang
+jamun | Jamun
+pear | സബര്ജില്ലി|sabarjalli
+water-chestnut | Water chestnut
+jujube | ജുജുബ്|jujub
+sapotta | സപ്പോട്ട|sapotta
+tapioca | മരച്ചീനി|maracheeni
+blueberry | Blueberry
+wood-apple | Wood Apple
+gooseberry |നെല്ലിക്ക|nellika
+passion-fruit | പാഷൻ ഫ്രൂട്ട്| passion fruit`
     },
     {
-      id: 'jobs',
-      text: `astronaut | ബഹിരാകാശ സഞ്ചാരി|bahiraaksha sanjari
-        clown | വിദൂഷകൻ|vidushakan
-        fisherman | മത്സ്യത്തൊഴിലാളി|malsya thorilali
-        postman | പോസ്റ്റ്മാൻ|postman
-        teacher | അധ്യാപിക |adyapika
-        blacksmith | ഇരുമ്പുപണിക്കാരന്‍|irumbupanikaaran
-        cobbler | ചെരുപ്പുകുത്തി|cheruppukuthi
-goldsmith | തട്ടാന്‍|thattaan
-potter | കുശവന്‍|kushavan
-weaver | നെയ്ത്തുകാരൻ |neythukaaran
-carpenter | ആശാരി|aashaari
-diver | മുങ്ങല്‍ വിദഗ്‌ധന്‍|mungal videkthan
-nurse | പരിചാരിക|paricharika
-sailor | നാവികൻ|naavikan
-chef | പാചകക്കാരന്‍|pachakakaaran
-doctor | വൈദ്യന്‍|vydhyan
-police | പോലീസ്|poliss
-soldier | പട്ടാളക്കാരൻ|pattalakaran
-barber | ക്ഷുരകന്‍|kshurakan
-washerman | അലക്കുകാരൻ|allakukaaran`
+      id: 'vegetables',
+      text: `pepper | കുരുമുളക്|kurumulak
+wheat | ഗോതമ്പ്|gothamb
+paddy | നെല്ല്|nell
+rice | അരി|azhi
+chickpea | കടല|kadala
+mustard-greens | Mustard greens
+turmeric | മഞ്ഞൾ|manjal
+turnip | മധുരമുള്ളങ്കി|maduramullangi
+fenugreek | ഉലുവ|uluva
+tamarind | പുളി|puli
+elephant-yam | ചേന|chena
+ashgourd | കുമ്പളങ്ങ|kumbalanga
+broad-beans | വാളരി പയർ|vaalari payar
+snake-gourd | പടവളങ്ങ|padavalanga
+banana-flower | വാഴപ്പൂവ്|vaazhapoov
+cluster-beans |അമര |amara
+kohlrabi | Kohlrabi
+spring-onion | Spring onion
+banana-stem | വാഴത്തണ്ട്|vaazhathand
+drumstick-leaves | മുരിങ്ങയില|muringa ila
+raw-banana | പച്ച കായ്|pacha kaay
+tulsi | തുളസി|tulsi
+bottlegourd | ചുരയ്ക്ക|churayka
+ivygourd | കോവയ്ക്ക|kovayka
+ridgegourd | പീച്ചിങ്ങ|peechinga `
     }
   ]
 };
