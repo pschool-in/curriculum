@@ -1,12 +1,12 @@
 export default {
-  id: "picture-5",
-  label: "Action and Sports",
+  id: 'picture-5',
+  label: 'Action and Sports',
   list: [
     {
-      id: "action",
-      label: "Actions",
-      text: `eat | Eat
-      drink | Drink
+      id: 'action',
+      label: 'Actions',
+      text: `drink| Drink
+      eat| Eat
       bend | Bend
       climb | Climb
       jump | Jump
@@ -34,11 +34,11 @@ export default {
       sick | Sick
       sneeze | Sneeze
       yawn | Yawn
-      sleep | Sleep`,
+      sleep | Sleep`
     },
     {
-      id: "sports",
-      label: "Sports",
+      id: 'sports',
+      label: 'Sports',
       text: `bat2 | Bat
       racket | Racket
       seesaw | Seesaw
@@ -65,7 +65,7 @@ export default {
       track | Track
       
       bandage | Bandage
-      danger | danger`,
-    },
-  ],
+      danger | danger`
+    }
+  ]
 };

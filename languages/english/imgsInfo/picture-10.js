@@ -1,11 +1,21 @@
 export default {
-  id: "picture-10",
-  label: "Social and Science",
+  id: 'picture-10',
+  label: 'Social and Science',
   list: [
     {
-      id: "social",
-      label: "Social Science",
-      text: `apartment | Apartment
+      id: 'social',
+      label: 'Social Science',
+      text: `mountain | Mountain
+      seashore | Seashore
+      forest | Forest
+      desert | Desert
+      river | River
+      grassland | Grassland
+      ocean | Ocean
+      polar | Polar
+      valley | Valley
+      volcano | Volcano
+      apartment | Apartment
         bamboo-house | Bamboo House
         hut | Hut
         igloo | Igloo
@@ -35,38 +45,35 @@ export default {
         lift | Lift
         petrolbunk | Petrol Bunk
         footpath | Foot Path
-        pillar | Pillar`,
+        pillar | Pillar`
     },
     {
-      id: "sports",
-      label: "Sports",
-      text: `bat2 | Bat
-        racket | Racket
-        seesaw | Seesaw
-        slide | Slide
-        carrom | Carrom
-        chess | Chess
-        cricket2 | Cricket
-        tennis | Tennis
-        football | Football
-        hockey | Hockey
-        kabaddi | Kabaddi
-        archery | Archery
-        basketball | Basket ball
-        boxing | Boxing
-        table-tennis | table-tennis
-        golf | Golf
-        wrestling | Wrestling
-        
-        
-        karate | Karate
-        surfing | Surfing
-        
-        jockey | Jockey
-        track | Track
-        
-        bandage | Bandage
-        danger | danger`,
+      id: 'organs',
+      label: 'Organs',
+      text: `heart
+      brain
+      lungs
+      stomach
+      liver
+      kidney`
     },
-  ],
+    {
+      id: 'teeth',
+      label: 'Teeth',
+      text: `incisor | Incisor
+      canine | Canine
+      premolar | Premolar
+      molar | Molar`
+    },
+    {
+      id: 'science',
+      label: 'Science',
+      text: `windmill | Windmill
+      solar-panel | Solar Panel
+      bridge | Bridge
+      dam | Dam
+      water-tower | Water Tower
+      electricpole | Electric Pole`
+    }
+  ]
 };

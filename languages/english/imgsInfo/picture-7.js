@@ -1,9 +1,9 @@
 export default {
-  id: "picture-6",
-  label: "More Fruits and Vegetables",
+  id: 'picture-6',
+  label: 'More Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
+      id: 'fruits',
       text: `star-fruit | Star fruit
 dragon-fruit | Dragon fruit
 sugarcane | Sugarcane
@@ -16,11 +16,17 @@ jujube | Jujube
 sapotta | Sapotta
 tapioca | Tapioca
 blueberry | Blueberry
-passion-fruit | Passion fruit`,
+wood-apple | Wood Apple
+gooseberry | Gooseberry
+passion-fruit | Passion fruit`
     },
     {
-      id: "vegetables",
-      text: `chickpea | Chickpea
+      id: 'vegetables',
+      text: `pepper | Pepper
+      wheat | Wheat
+      paddy | Paddy
+      rice | Rice
+      chickpea | Chickpea
 mustard-greens | Mustard greens
 turmeric | Turmeric
 turnip | Turnip
@@ -40,7 +46,7 @@ raw-banana | Raw banana
 tulsi | Tulsi
 bottlegourd | Bottlegourd
 ivygourd | Ivygourd
-ridgegourd | Ridgegourd`,
-    },
-  ],
+ridgegourd | Ridgegourd`
+    }
+  ]
 };

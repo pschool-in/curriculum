@@ -1,15 +1,22 @@
 export default {
-  id: "picture-4",
-  label: "House and Others",
+  id: 'picture-4',
+  label: 'House and Others',
   list: [
     {
-      id: "nature",
-      text: `man| Man
-woman | Woman
-boy|Boy
+      id: 'people',
+      text: `boy|Boy
 girl | Girl
+man| Man
+woman | Woman
 baby | Baby
-house| House
+mother | Mother
+father | Father
+grandfather | Grand Father
+grandma | Grand Mother`
+    },
+    {
+      id: 'house',
+      text: `house| House
 table|Table
 bed|Bed
 mat | Map
@@ -21,11 +28,14 @@ net | Net
 rope | Rope
 teapot | Teapot
 fan | Fan
+ball | Ball
+teddy | Teddy Bear
 jug | Jug
 lightbulb | Bulb
 candle|Candle
 chair|Chair
 shelf|Shelf
+switchboard| Switchboard
 coat|Coat
 glasses|Glasses
 clock | Clock
@@ -36,20 +46,25 @@ door | Door
 broom | Broom
 window | Window
 sofa | Sofa
+kettle | Kettle
 bucket | Bucket
 toilet | Toilet
 soap | Soap
+helmet | Helmet
 backpack | Backpack
 pillow | Pillow
 basket | Basket
 dustbin | Dustbin
 bed-lamp | Bed Lamp
 handbag | Handbag
+steps | Steps
+curtains | Curtains
+watertank | Water Tank
 air-conditioner | Air Conditioner
-washing-machine | Washing Machine`,
+washing-machine | Washing Machine`
     },
     {
-      id: "dress",
+      id: 'dress',
       text: `dress | Dress
 coat | Coat
 shoe | Shoe
@@ -63,26 +78,33 @@ bib | Bib
 shirt | Shirt
 jacket | Jacket
 hat | Hat
-trousers | Trousers`,
+trousers | Trousers
+saree | Saree`
     },
     {
-      id: "school",
+      id: 'school',
       text: `pen |Pen
 pencil|Pencil
 ruler|Ruler
+blackboard | Black Board
+chalk | Chalk
+nib | Nib
 eraser|Eraser
 scissors|Scissors
 sharpener|Sharpener
 calculator| Calculator
 book| Book
 ink | Ink
+globe | Globe
 schoolbag| Schoolbag
 waterbottle| Waterbottle
 color-pencils| Color Pencils
-crayons | Crayons`,
+crayons | Crayons
+notebook | Notebook
+writingpad | Writing Pad`
     },
     {
-      id: "kitchen",
+      id: 'kitchen',
       text: `stove |Stove
 fork|Fork
 knife|Knife
@@ -95,6 +117,7 @@ tap | Tap
 lid | Lid
 
 blender | Blender
+grinder | Grinder
 cheese | Cheese
 fridge | Fridge
 lollipop | Lollipop
@@ -102,22 +125,29 @@ salad | Salad
 sugar | Sugar
 bowl | Bowl
 chicken | Chicken
+milk|Milk
+fruits|Fruits 
 ice-cream | Ice cream
 meat | Meat
-
+egg | Egg
 salt | Salt
+french-fry | French Fry
+soft-drink | Soft Drink
+pizza | Pizza
 sweets | Sweets
 bread | Bread
 cup | Cup
+ladle | Ladle
 juice | Juice
 mushroom | Mushroom
 sandwich | Sandwich
 cake | Cake
+burger | Burger
 flour | Flour
 lentils | Lentils
 
 rice | Rice
-soup | Soup`,
-    },
-  ],
+soup | Soup`
+    }
+  ]
 };

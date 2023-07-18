@@ -1,24 +1,39 @@
 export default {
-  id: "picture-3",
+  id: 'picture-3',
   list: [
     {
-      id: "nature",
+      id: 'nature',
       text: `sun |Sun
 moon|Moon 
-rain|Rain 
 star|Star 
-milk|Milk
-bird|Bird 
-fruits|Fruits 
-leaf|Leaf 
 world|World
+bird|Bird 
+rain|Rain 
+stone|Stone
+pebbles | Pebbles
+leaf|Leaf 
+tree | Tree
+log | Log
 nest |Nest 
 dew | Dew
 waterfall |Waterfall 
-rainbow |Rainbow `,
+rainbow |Rainbow 
+cloud | Cloud
+lightning | Lightning
+web | Web
+shell | Shell
+banyan | Banyan Tree
+bamboo-tree | Bamboo Tree
+banana-tree | Banana Tree
+bananaleaf | Banana Leaf
+coconut-tree | Coconut Tree
+coconutleaf | Coconut Leaf
+mangoleaf | Mango Leaf
+palm-tree | Palm Tree
+neemleaf | Neem Leaf`
     },
     {
-      id: "body-parts",
+      id: 'body-parts',
       text: `ear |Ear
 eye |Eye
 foot |Foot
@@ -27,20 +42,21 @@ hand|Hand
 mouth|Mouth
 nose| Nose
 tooth|Tooth
-forehead
-mustache
-beard
-ankle
-elbow
-knee
-shoulder
-wrist 
-thumb
-cheek
-chin`,
+forehead | Forehead
+mustache | Mustache
+beard | Beard
+ankle | Ankle
+elbow | Elbow
+knee | Knee
+shoulder | Shoulder
+wrist | Wrist
+thumb | Thumb
+cheek | Cheek
+chin | Chin
+nails | Nails`
     },
     {
-      id: "flowers",
+      id: 'flowers',
       text: `rose | Rose
         lotus | Lotus
         sunflower | Sunflower
@@ -48,23 +64,25 @@ chin`,
         hibiscus | Hibiscus
 jasmine | Jasmine
 tulip | Tulip
-zinnia | Zinnia`,
+zinnia | Zinnia`
     },
     {
-      id: "others",
+      id: 'others',
       text: `bell | Bell
 brush| Brush
 bone| Bone
-radio | Radio
 box | Box
 coin | Coin
 top | Top
 balloon | Balloon
+brick | Brick
+rooftile| Roof Tile
 stick | Stick
 ring| Ring
 drums| Drum
 food| Food
 king| King
+queen | Queen
 kite| Kite
 ladder| Ladder
 quill | Quill
@@ -73,13 +91,10 @@ quill | Quill
 wheel| Wheel
 park | Park
 garden | Garden
-brick | Brick
-gun | Gun
-oar | Oar
-quill | Quill
+sculpture | Sculpture
 statue | Statue
-
-`,
-    },
-  ],
+clay-lamp | Clay Lamp
+clay-stove | Clay Stove`
+    }
+  ]
 };

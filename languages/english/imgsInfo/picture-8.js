@@ -18,12 +18,20 @@ train | Train
 ambulance| Ambulance
 auto| Auto
 cart| Cart
+metro | Metro
 excavator| Excavator
 fire-engine| Fire Engine
+tow-truck | Tow Truck
 van| Van
 bulldozer | Bulldozer
+crane2 | Crane
 rocket | Rocket
-submarine | Submarine`,
+submarine | Submarine
+spaceship | Spaceship
+bullock-cart | Bullock Cart
+horse-carriage | Carriage
+palanquin | Palanquin
+chariot | Chariot`,
     },
     {
       id: "jobs",
@@ -46,7 +54,19 @@ doctor | Doctor
 police | Police
 soldier | Soldier
 barber | Barber
-washerman | Washerman`,
+washerman | Washerman
+milkman | Milkman
+shopkeeper | Shop Keeper
+businessman | Businessman
+cashier | Cashier
+electrician | Electrician
+farmer | Farmer
+mechanic | Mechanic
+pilot | Pilot
+plumber | Plumber
+scientist | Scientist
+seller | Seller
+software-developer | Software Developer`,
     },
   ],
 };

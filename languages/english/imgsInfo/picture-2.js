@@ -1,10 +1,10 @@
 export default {
-  id: "picture-2",
-  label: "Fruits and Vegetables",
+  id: 'picture-2',
+  label: 'Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
-      label: "Fruits",
+      id: 'fruits',
+      label: 'Fruits',
       text: `apple | Apple 
 grapes | Grapes
 banana | Banana
@@ -24,10 +24,10 @@ fig| Fig
 custard-apple| Custard Apple
 plum| Plum
 dates| Dates
-muskmelon| Muskmelon`,
+muskmelon| Muskmelon`
     },
     {
-      id: "vegetables",
+      id: 'vegetables',
       text: `carrot | Carrot
 beetroot | Beetroot
 onion | Onion
@@ -49,6 +49,7 @@ capsicum| Capsicum
 cashewnut| Cashewnut
 chilli| Chilli
 coconut | Coconut
+lemon | Lemon
 
 corianderleaf | Coriander Leaf
 curryleaf | Curry Leaf
@@ -59,7 +60,7 @@ mintleaf| Mintleaf
 peanut| Peanut
 radish| Radish
 spinach | Spinach
-vegetables | Vegetables`,
-    },
-  ],
+vegetables | Vegetables`
+    }
+  ]
 };

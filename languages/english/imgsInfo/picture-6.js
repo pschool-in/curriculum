@@ -1,16 +1,18 @@
 export default {
-  id: "picture-5",
-  label: "More Animals and Birds",
+  id: 'picture-5',
+  label: 'More Animals and Birds',
   list: [
     {
-      id: "animals",
+      id: 'animals',
       text: `mongoose| Mongoose
-            mosquito| Mosquito
-            octopus| Octopus
-            wolf| Wolf
-            lizard| Lizard
-            cockroach| Cockroach
-            garden-lizard| Garden Lizard
+mosquito| Mosquito
+octopus| Octopus
+wolf| Wolf
+lizard| Lizard
+termite | Termite
+cockroach| Cockroach
+garden-lizard| Garden Lizard
+winged-termites | Winged Termite
 rabbit| Rabbit
 leopard| Leopard
 dragonfly |Dragonfly
@@ -41,17 +43,17 @@ earthworm | Earthworm
 hedgehog | Hedgehog
 stingray | Stingray
 jellyfish | Jellyfish
-starfish | Starfish`,
+starfish | Starfish`
     },
     {
-      id: "birds",
+      id: 'birds',
       text: `hornbill | Hornbill
-            cuckoo | Cuckoo
-            pheasant | Pheasant
-            falcon | Falcon
-            swan | Swan
-            bulbul | Bulbul
-            spotted-dove | Spotted Dove
+cuckoo | Cuckoo
+pheasant | Pheasant
+falcon | Falcon
+swan | Swan
+bulbul | Bulbul
+spotted-dove | Spotted Dove
 pelican | Pelican
 hummingbird | Hummingbird
 robin | Robin
@@ -64,7 +66,7 @@ turkey | Turkey
 hawk | Hawk
 cardinal | Cardinal
 parakeet | Parakeet
-macaw | Macaw`,
-    },
-  ],
+macaw | Macaw`
+    }
+  ]
 };

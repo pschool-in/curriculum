@@ -51,7 +51,29 @@ We kindly request the language experts to go through them and prepare content
 accordingly. Any content which doesn't fall within these templates will be
 outside the scope of this project.
 
+# Topics
+
+1. Colors (ta-colors) (Tech: Familiarity with colorcode)
+2. Numbers (ta-numbers)
+3. Rhyming Words (ta-rhyme-words)
+
 ## Image and Sound based activities
+
+### Image Classification
+
+1. Animals and Birds - Basic
+2. Fruits and Vegetables - Basic
+3. Nature, Body Parts, Flowers, Others
+4. People, House, Dress, School, Kitchen
+5. Action words, Sports
+6. Animals and Birds - Advanced
+7. Fruits, Vegetables, ediables - Advanced
+8. Vehicles, Jobs
+9. Gadgets, Others, flowers- advanced
+10. Social and Science words
+11. Tools and music instruments
+
+### Activity Types
 
 1. We display the image and the word with the first letter missing. The student
    has to pick the first letter from the option. (The options should not be very
