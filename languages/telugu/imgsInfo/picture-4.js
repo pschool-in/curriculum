@@ -3,19 +3,39 @@ export default {
   label: "House and Others",
   list: [
     {
-      id: "nature",
-      text: `man| మనిషి|Maniṣi
-woman | స్త్రీ|Strī
-boy|అబ్బాయి|Abbāyi
-girl | అమ్మాయి|Am'māyi
+      id: 'people',
+      text:`boy|అబ్బాయి|Abbāyi
+      girl | అమ్మాయి|Am'māyi
+      man| మనిషి|Maniṣi
+wwoman | స్త్రీ|Strī
 baby | బేబీ|Baby
-house| ఇల్లు|Illu
+mother | Mother
+father | Father
+grandfather | Grand Father
+grandma | Grand Mother`
+    },
+    {
+      id: "house",
+      text: `house| ఇల్లు|Illu
 table|పట్టిక|Paṭṭika
 bed|మం చం|Maṁchaṁ
+mat | Map
+mop | Mop
+mug | Mug
+lock | Lock
+key | Key
+net | Net
+rope | Rope
+teapot | Teapot
+fan | Fan
+ball | Ball
+teddy | Teddy Bear
+jug | Jug
+lightbulb | Bulb
 candle|కొవ్వొత్తి|Kovvotti
 chair|కుర్చీ|Kurcī
 shelf|షెల్ఫ్|Shelf
-coat|కోటు|Kōṭu
+switchboard| Switchboard
 glasses|అద్దాలు|Addālu
 clock | గడియారం|Gaḍiyāraṁ
 watch | చేతి గడియారం |Cēti gaḍiyāraṁ
@@ -25,15 +45,20 @@ door |తలుపు|Talupu
 broom | చీపురు|Cīpuru
 window | కిటికీ|Kiṭikī
 sofa | సోఫా|Sōphā
+kettle | Kettle
 bucket |  బకెట్|Bakeṭ
 toilet | శౌచాలనం|Śaucālanaṁ
 soap |సబ్బు|Sabbu
+helmet | Helmet
 backpack | తగిలించుకునే బ్యాగులో|Tagilin̄cukunē byāgulō
 pillow | దిండు|Diṇḍu
 basket | బుట్ట|Buṭṭa
 dustbin | డస్ట్ బిన్|Ḍasṭ bin
 bed-lamp | బెడ్ లాంప్|Beḍ lāmp
 handbag | హ్యాండ్ బ్యాగ్|Hyāṇḍ byāg
+steps | Steps
+curtains | Curtains
+watertank | Water Tank
 air-conditioner | ఎయిర్ కండీషనర్|Eyir kaṇḍīṣanar
 washing-machine |వాషింగ్ మెషీన్|Vāṣiṅg meṣīn`,
     },
@@ -52,13 +77,17 @@ bib | బిబ్|Bib
 shirt | చొక్కా|Chokkā
 jacket | జాకెట్|Jākeṭ
 hat | టోపీ|Ṭōpī
-trousers | ప్యాంటు|Pyāṇṭu`,
+trousers | ప్యాంటు|Pyāṇṭu
+saree | Saree`,
     },
     {
       id: "school",
       text: `pen |పెన్|Pen
 pencil|పెన్సిల్|Pensil
 ruler|పాలకుడు|Pālakuḍu
+blackboard | Black Board
+chalk | Chalk
+nib | Nib
 eraser|రబ్బరు|Rabbaru
 scissors|కత్తెర|Kattera
 sharpener|షార్పెనర్|Ṣārpenar
@@ -68,7 +97,9 @@ ink | ఇంక్|Iṅk
 schoolbag| పాఠశాల సంచి|Pāṭhaśāla san̄ci
 waterbottle| నీటి సీసా|Nīṭi sīsā
 color-pencils| రంగు పెన్సిల్స్|Raṅgu pensils
-crayons | క్రేయాన్స్|Krēyāns`,
+crayons | క్రేయాన్స్|Krēyāns
+notebook | Notebook
+writingpad | Writing Pad`,
     },
     {
       id: "kitchen",
@@ -84,6 +115,7 @@ tap | నొక్కండి|Nokkaṇḍi
 lid | మూత|Mūta
 
 blender | బ్లెండర్|Blender
+grinder | Grinder
 cheese | చీజ్|Cīj
 fridge | ఫ్రిజ్|Phrij
 lollipop | లాలిపాప్|Lālipāp
@@ -91,20 +123,26 @@ salad | సలాడ్| Salad
 sugar | చక్కెర|Cakkera
 bowl | గిన్నె|Ginne
 chicken | చికెన్|Chicken
+milk|పాలు|Pālu
+fruits||పండ్లు|Paṇḍlu
 ice-cream | ఐస్ క్రీం|Ice cream
 meat | మాంసం|Mānsaṁ
-
+egg | Egg
 salt | ఉ ప్పు|Uppu
+french-fry | French Fry
+soft-drink | Soft Drink
+pizza | Pizza
 sweets | స్వీట్లు|Svīṭlu
 bread | బ్రెడ్|Bread
 cup | కప్పు|Kappu
+ladle | Ladle
 juice | రసం|Rasaṁ
 mushroom | పుట్టగొడుగు|Puṭṭagoḍugu
 sandwich | శాండ్విచ్|Sandwich
 cake | కేక్|Cake
+burger | Burger
 flour | పిండి|Piṇḍi
 lentils | పప్పు|Pappu
-
 rice | అన్నం|Annaṁ
 soup | సూప్|Soup`,
     },

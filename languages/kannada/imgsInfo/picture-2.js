@@ -50,6 +50,7 @@ capsicum| ದೊಣ್ಣೆ ಮೆಣಸಿನ ಕಾಯಿ |donne menasina 
 cashewnut| ಗೋಡಂಬಿ| godambi
 chilli| ಮೆಣಸಿನಕಾಯಿ | menasinakayi
 coconut | ತೆಂಗಿನ ಕಾಯಿ | tengina kayi
+lemon | 	ನಿಂಬೆ ಹಣ್ಣು \ Nimbe hannu
 
 corianderleaf |ಕೊತ್ತಂಬರಿ ಎಲೆ | kottambari ele
 curryleaf | ಕರಿಬೇವಿನ ಎಲೆ |karibevina ele

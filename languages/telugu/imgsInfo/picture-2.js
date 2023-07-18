@@ -49,7 +49,7 @@ capsicum| క్యాప్సికమ్| Capsicum
 cashewnut| జీడి పప్పు|Jīḍi pappu
 chilli| మిరప | Mirapa
 coconut | కొబ్బరి|Kobbari
-
+Lemon|నిమ్మకాయ | Nimmakaya
 corianderleaf | కొత్తిమీర ఆకు|Kottimīra āku
 curryleaf | కరివేపాకు |Karivepaku
 drumstick| మునగ| Munaga
