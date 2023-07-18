@@ -5,67 +5,63 @@ export default {
     {
       id: 'action',
       label: 'Actions',
-      text: `drink| Drink
-        eat| Eat
-        bend | Bend
-        climb | Climb
-        jump | Jump
-        kneel | Kneel
-        pull | Pull
-        push | Push
-        sing | Sing
-        dance | Dance
-        running | Run
-        walking | Walk
-        sit | Sit
-        party | Party
-        skipping | Skip
-        catch | Catch
-        pass | Pass
-        swim | Swim
-        swing | Swing
-        throw | Throw
-        carry | Carry
-        lifting | Lift
-        mopping | Moping
-        riding | Ride
-        sweep | Sweep
-        cough | Cough
-        sick | Sick
-        sneeze | Sneeze
-        yawn | Yawn
-        sleep | Sleep`
+      text: `drink| കുടിക്കുക|kudikukka
+eat| കഴിക്കുക|kazhikukka
+bend | വളയുക|valayuka
+climb | കയറുക|kyaruka
+jump | ചാടുക|chaduka
+kneel | മുട്ടുകുത്തുക|muttukuthuka
+pull | വലിക്കുക |valikuka
+push | തള്ളുക|thalluka
+sing | പാടുക|paaduka
+dance | ന്യത്തം ചെയ്യുക|nirtham cheyyuka
+running | ഓടുക|ooduka
+walking | നടക്കുക|nadakkuka
+sit | ഇരിക്കുക|izhikuka
+party | Party
+skipping | Skip
+catch | പിടിക്കുക|pidikuka
+pass | Pass
+swim | നീന്തുക|neethuka
+swing | ഊഞ്ഞാലാടുക|oonjaladuka
+throw | എറിയുക|eriyuka
+carry | എടുത്തുകൊണ്ടു പോകുക|eduthukond pokuka
+lifting | പൊക്കുക|pokkuka
+mopping | Moping
+riding | സവാരിചെയ്യുക|savari cheyyuka
+sweep | തൂത്തുവാരുക|thootuvaazhuka
+cough | ചുമയ്ക്കുക|chumaykuka
+sick | Sick
+sneeze | തുമ്മുക|thummuka
+yawn | കോട്ടുവായിടുക|kotvayiduka
+sleep | ഉറങ്ങുക|uranguka`
     },
     {
       id: 'sports',
       label: 'Sports',
-      text: `bat2 | Bat
-        racket | Racket
-        seesaw | Seesaw
-        slide | Slide
-        carrom | Carrom
-        chess | Chess
-        cricket2 | Cricket
-        tennis | Tennis
-        football | Football
-        hockey | Hockey
-        kabaddi | Kabaddi
-        archery | Archery
-        basketball | Basket ball
-        boxing | Boxing
-        table-tennis | table-tennis
-        golf | Golf
-        wrestling | Wrestling
-        
-        
-        karate | Karate
-        surfing | Surfing
-        
-        jockey | Jockey
-        track | Track
-        
-        bandage | Bandage
-        danger | danger`
+      text: `bat2 | ബാറ്റ്‌|baat
+racket | Racket
+seesaw | Seesaw
+slide | Slide
+carrom | Carrom
+chess | ചതുരംഗം|chathurangam
+cricket2 | ക്രിക്കറ്റുകളി|cricket kali
+tennis | ടെന്നീസ്‌ കളി|tennis kali
+football | കാല്‍പ്പന്തുകളി|kaalpanthkali
+hockey | ഹോക്കി|hockey
+kabaddi | കബഡി|kabadi
+archery | അമ്പെയ്ത്ത്|ambeyth
+basketball | Basket ball
+boxing | Boxing
+table-tennis | table-tennis
+golf | Golf
+wrestling | ഗുസ്തി |gusthi
+karate | Karate
+surfing | Surfing
+jockey | Jockey
+track | Track
+bandage | Bandage
+danger | ആപത്ത്‌|aapath`
     }
   ]
 };
