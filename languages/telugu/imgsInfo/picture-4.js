@@ -94,7 +94,7 @@ chicken | చికెన్|Chicken
 ice-cream | ఐస్ క్రీం|Ice cream
 meat | మాంసం|Mānsaṁ
 
-salt | ఉ ప్పు|U ppu
+salt | ఉ ప్పు|Uppu
 sweets | స్వీట్లు|Svīṭlu
 bread | బ్రెడ్|Bread
 cup | కప్పు|Kappu
