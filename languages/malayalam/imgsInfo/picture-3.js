@@ -6,17 +6,32 @@ export default {
       label: 'Nature',
       text: `sun |സൂര്യൻ|suryan
 moon|ചന്ദ്രൻ|chandran
-rain|മഴ|mazha
 star|നക്ഷത്രം|nakshathram
-milk|പാൽ|paal
-bird|പക്ഷി|pakshi 
-fruits|പഴങ്ങൾ|pazhangal
-leaf|ഇല|ila
 world|ലോകം|lokam
+bird|പക്ഷി|pakshi 
+rain|മഴ|mazha
+stone|കല്ല്|kallu
+pebbles | ഉരുളൻ കല്ലുകൾ|uzhulan kallukal
+leaf|ഇല|ila
+tree | വൃക്ഷം|vriksham
+log | മരത്തടി|marathadi
 nest |കൂട്|kood
 dew | മഞ്ഞു|manju
 waterfall |വെള്ളച്ചാട്ടം|vellachaattam
-rainbow |മഴവില്ല്|mazhavillu`
+rainbow |മഴവില്ല്|mazhavillu
+cloud | മേഘം|mekham
+lightning | മിന്നൽ|minnal
+web | ചിലന്തിവല|chilandhivala
+shell | പുറംതോട്|puramthodu
+banyan | ആൽമരം|aalmaram
+bamboo-tree | മുള |mula
+banana-tree | വാഴ |vaazha
+bananaleaf | വാഴയില|vaazhayila
+coconut-tree | തെങ്ങ്|theng
+coconutleaf | ഓല|oola
+mangoleaf | മാമ്പഴ ഇല|maanbazha ila
+palm-tree | പന|pana
+neemleaf | വേപ്പില|veeppila`
     },
     {
       id: 'body-parts',
@@ -28,16 +43,28 @@ hair|തലമുടി|thalamudi
 hand|കൈ|kai
 mouth|വായ|vaaya
 nose| മൂക്ക്|mookku
-tooth|പല്ല്|pallu`
+tooth|പല്ല്|pallu
+forehead | നെറ്റി|netti
+mustache | മീശ|meesha
+beard | താടി|thadi
+ankle | നെരിയാണി|neriyani
+elbow | കൈമുട്ട്|kaimuttu
+knee | കാല്‍മുട്ട്‌|kaalmuttu
+shoulder | തോൾ|thol
+wrist | കണങ്കൈ|kannakai
+thumb | തള്ളവിരൽ|thallaviral
+cheek | കവിൾ|kavil
+chin | താടി|thaadi
+nails | നഖം|nagam`
     },
     {
       id: 'flowers',
       label: 'Flowers',
       text: `rose | പനിനീര്പ്പൂവ്|panineerpoovu
-        lotus | താമര|thaamara
-        sunflower | സൂര്യകാന്തി|suryakaanthi
-        marigold | ജമന്തി|jamanthi
-        hibiscus | ചെമ്പരുത്തി|chembaruthi
+lotus | താമര|thaamara
+sunflower | സൂര്യകാന്തി|suryakaanthi
+marigold | ജമന്തി|jamanthi
+hibiscus | ചെമ്പരുത്തി|chembaruthi
 jasmine | മുല്ലപ്പൂ|mullappoo
 tulip | Tulip
 zinnia | സിന്നിയ|sinniya`
@@ -48,11 +75,12 @@ zinnia | സിന്നിയ|sinniya`
       text: `bell | മണി| mani
 brush| ബ്രഷ്|brash
 bone| എല്ലു| ellu
-radio | റേഡിയോ|radiyo
 box | പെട്ടി| petti
 coin | നാണയം|naanayam
 top | പമ്പരം|pambaram
 balloon | ബലൂൺ| baloon
+brick | ഇഷ്ടിക|ishtika
+rooftile| മേൽക്കൂര|melkoora
 stick | വടി|vadi
 ring| മോതിരം|mothiram
 drums| ചെണ്ട|chenda
@@ -60,9 +88,16 @@ food| ഭക്ഷണം|bhakshanam
 king| രാജാവ്|rajavu
 kite| പട്ടം|pattam
 ladder| ഏണി|eeni
+quill | തൂവല്‍|thooval
+oar | തുഴ|thuzha
+gun | തോക്ക്|thokk
 wheel| ചക്രം|chakram
-park | Park
-garden | ഉദാനം|udaanam`
+park | പൂങ്കാവ്‌|poonkavu
+garden | ഉദാനം|udaanam
+sculpture | ശില്പം|shilpam
+statue | പ്രതിമ|prathima
+clay-lamp | കളിമൺ വിളക്ക്|kaliman vilakku
+clay-stove | കളിമൺ-അടുപ്പ്|kalimann adupp`
     }
   ]
 };

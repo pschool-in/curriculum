@@ -3,18 +3,39 @@ export default {
   label: 'House and Others',
   list: [
     {
-      id: 'nature',
-      text: `man| പുരുഷൻ|purushan
-woman | സ്ത്രീ|sthree
-boy|ആൺകുട്ടി|aankutti
+      id: 'people',
+      text: `boy|ആൺകുട്ടി|aankutti
 girl | പെൺകുട്ടി|penkutti
+man| പുരുഷൻ|purushan
+woman | സ്ത്രീ|sthree
 baby | ശിശു|shishu
-house| വീട്|veedu
+mother | അമ്മ|amma
+father | അച്ഛൻ|achan
+grandfather | മുത്തച്ഛൻ|muthachan
+grandma | മുത്തശ്ശി|muthashi`
+    },
+    {
+      id: 'nature',
+      text: `house| വീട്|veedu
 table|മേശ|mesha
 bed|കിടക്ക|kidakka
+mat | പായ|paay
+mop | Mop
+mug | Mug
+lock | താഴ്|thazh
+key | താക്കോൽ|thakol
+net | വല|vala
+rope | കയർ|kayar
+teapot | ചായകോപ്പ|chayakoppa
+fan | പങ്ക|panka
+ball | പന്ത്|panth
+teddy | Teddy Bear
+jug | ജഗ്ഗ്|jag
+lightbulb | ബൾബ്|balb
 candle|മെഴുകുതിരി|mezhukuthiri
 chair|കസേര|kasera
 shelf|അലമാരി|almari
+switchboard| Switchboard
 coat|ആവരണം|aavaranam
 glasses|കണ്ണട|kannada
 clock | ഘടികാരം|khadigaaram
@@ -28,12 +49,16 @@ sofa | സോഫ|sofa
 bucket | തൊട്ടി|thotti
 toilet | കക്കൂസ്|kakkoosu
 soap | സോപ്പ്|soppu
+helmet | Helmet
 backpack | Backpack
 pillow | തലയണ|thalayana
 basket | കൊട്ട|kotta
 dustbin | ചവറ്റുകൊട്ട|chavattukotta
 bed-lamp | Bed Lamp
 handbag | കൈസഞ്ചി|kaisanji
+steps | പടി|padi
+curtains |തിരശ്ശീല|thirasheela
+watertank | ജലസംഭരണി|jalasambharani
 air-conditioner | Air Conditioner
 washing-machine | അലക്കുയന്ത്രം|allakuyantram`
     },
@@ -61,16 +86,22 @@ saree |സാരി|saree`
       text: `pen |പേന|pena
 pencil|പെൻസിൽ|pensil
 ruler|Ruler
+blackboard | Black Board
+chalk | ചോക്ക്‌|chalk
+nib | മുന|muna
 eraser|Eraser
 scissors|കത്രിക|kathrika
 sharpener|Sharpener
 calculator| കണക്കുകൂട്ടല് യന്തം| kanakkootal yantram
 book| പുസ്തകം|pusthakam
 ink | മഷി|mashi
+globe | ഭൂഗോളം|bhoogolam
 schoolbag| Schoolbag
 waterbottle| Waterbottle
 color-pencils| Color Pencils
-crayons | Crayons`
+crayons | Crayons
+notebook | പുസ്‌തകം|pusthakam
+writingpad | Writing Pad`
     },
     {
       id: 'kitchen',
@@ -86,6 +117,7 @@ tap | Tap
 lid | മൂടി|moodi
 
 blender | Blender
+grinder | Grinder
 cheese | പാല്‍ക്കട്ടി|paalkatti
 fridge | ഫ്രിഡ്ജ്|fridge
 lollipop | കോൽ മിട്ടായി|kolu mittayi
@@ -93,17 +125,24 @@ salad | Salad
 sugar | പഞ്ചസാര|panjasara
 bowl | കോപ്പ|koppa
 chicken | കോഴി|kozhi
+milk|പാൽ|paal
+fruits|പഴങ്ങൾ|pazhangal
 ice-cream | ഐസ്ക്രീം|icecream
 meat | ഇറച്ചി|irachi
 
 salt | ഉപ്പ്|upp
+french-fry | French Fry
+soft-drink | Soft Drink
+pizza | Pizza
 sweets | മിഠായി|mittayi
 bread | അപ്പം|appam
 cup | കപ്പ്|kapp
+ladle | Ladle
 juice | സത്ത്‌|sath
 mushroom | കൂണ്|koon
 sandwich | Sandwich
 cake |  കേക്ക്|cake
+burger | Burger
 flour | മാവ്|maavu
 lentils | പരിപ്പ്|parippu
 
