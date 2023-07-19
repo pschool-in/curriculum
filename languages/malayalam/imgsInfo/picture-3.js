@@ -3,7 +3,7 @@ export default {
   list: [
     {
       id: 'nature',
-      label: 'Nature',
+      label: 'പ്രകൃതി',
       text: `sun |സൂര്യൻ|suryan
 moon|ചന്ദ്രൻ|chandran
 star|നക്ഷത്രം|nakshathram
@@ -35,7 +35,7 @@ neemleaf | വേപ്പില|veeppila`
     },
     {
       id: 'body-parts',
-      label: 'Body Parts',
+      label: 'ശരീരഭാഗങ്ങൾ',
       text: `ear |ചെവി|chevi
 eye |കണ്ണ്|kannu
 foot |പാദം|paadam
@@ -59,7 +59,7 @@ nails | നഖം|nagam`
     },
     {
       id: 'flowers',
-      label: 'Flowers',
+      label: 'പൂക്കൾ',
       text: `rose | പനിനീര്പ്പൂവ്|panineerpoovu
 lotus | താമര|thaamara
 sunflower | സൂര്യകാന്തി|suryakaanthi
@@ -71,7 +71,7 @@ zinnia | സിന്നിയ|sinniya`
     },
     {
       id: 'others',
-      label: 'Others',
+      label: 'മറ്റുള്ളവ',
       text: `bell | മണി| mani
 brush| ബ്രഷ്|brash
 bone| എല്ലു| ellu

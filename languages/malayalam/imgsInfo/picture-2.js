@@ -4,7 +4,7 @@ export default {
   list: [
     {
       id: 'fruits',
-      label: 'Fruits',
+      label: 'പഴങ്ങൾ',
       text: `apple | ആപ്പിൾ|aappil
 grapes | മുന്തിരി|munthiri
 banana | വാഴപ്പഴം|vaazhappazham
@@ -27,7 +27,7 @@ dates| ഈന്തപ്പഴം|eenthappazham
 muskmelon| തൈക്കുമ്പലം|thaikkumbalam`
     },
     {
-      id: 'vegetables',
+      id: 'പച്ചക്കറികൾ',
       text: `carrot | കാരറ്റ്|kaarattu
 beetroot | ബീറ്റ്റൂട്ട്|beetrootu
 onion | ഉള്ളി|ulli

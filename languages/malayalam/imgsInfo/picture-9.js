@@ -20,7 +20,7 @@ computer | Computer
 keyboard | Keyboard`
     },
     {
-      id: 'others',
+      id: 'മറ്റുള്ളവ',
       text: `angel | മാലാഖ|maalaka
 alien | അന്യഗ്രഹജീവി|anyaghrahajeevi
 knight | യോദ്ധാവ്‌|yodhav
@@ -44,7 +44,7 @@ toothpaste |Toothpaste
 trident | ത്രിശൂലം|thrishoolam`
     },
     {
-      id: 'flowers',
+      id: 'പൂക്കൾ',
       text: `daffodil | Daffodil
 gulmohar | Gulmohar
 lily | ലില്ലി|lili

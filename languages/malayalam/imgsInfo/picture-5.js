@@ -4,7 +4,7 @@ export default {
   list: [
     {
       id: 'action',
-      label: 'Actions',
+      label: 'പ്രവര്‍ത്തികള്‍',
       text: `drink| കുടിക്കുക|kudikukka
 eat| കഴിക്കുക|kazhikukka
 bend | വളയുക|valayuka
@@ -38,7 +38,7 @@ sleep | ഉറങ്ങുക|uranguka`
     },
     {
       id: 'sports',
-      label: 'Sports',
+      label: 'കായികമല്‍സരങ്ങള്‍',
       text: `bat2 | ബാറ്റ്‌|baat
 racket | Racket
 seesaw | Seesaw
