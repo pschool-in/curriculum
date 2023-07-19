@@ -19,7 +19,7 @@ grandma | Grand Mother`
       text: `house| House
 table|Table
 bed|Bed
-mat | Map
+mat | Mat
 mop | Mop
 mug | Mug
 lock | Lock
