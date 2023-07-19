@@ -87,6 +87,7 @@ drums| ചെണ്ട|chenda
 food| ഭക്ഷണം|bhakshanam
 king| രാജാവ്|rajavu
 kite| പട്ടം|pattam
+queen | രാജ്ഞി|rajni
 ladder| ഏണി|eeni
 quill | തൂവല്‍|thooval
 oar | തുഴ|thuzha

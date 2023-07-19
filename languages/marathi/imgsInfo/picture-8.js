@@ -1,52 +1,70 @@
 export default {
   id: 'picture-8',
-  label: 'More Images',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: 'gadgets',
-      text: `camera |Camera
-headphone|Headphone
-pendrive|Pendrive
-remote|Remote
-smartphone|Smartphone
-speaker|Speaker
-tablet|Tablet
-torch|Torch
-web-camera | Web Camera`
+      id: 'vehicles',
+      text: `aeroplane | विमान|Vimāna
+        boat | बोट |boat
+        bus | बस|bus
+        car | कार|car
+        cycle | सायकल|caical
+        helicoptor | Helicopter
+        motorbike | Motorbike
+ship | जहाज|Jahāja
+tractor | Tractor
+lorry| लॉरी|Lŏrī
+train | Train
+ambulance| रुग्णवाहिका|Rugṇavāhikā
+auto| Auto
+cart| Cart
+metro | Metro
+excavator| उत्खनन|Utkhanana
+fire-engine| Fire Engine
+van| Van
+bulldozer | Bulldozer
+rocket | Rocket
+submarine | पाणबुडी|Pāṇabuḍī
+spaceship | Spaceship
+bullock-cart | Bullock Cart
+horse-carriage | Carriage
+palanquin | Palanquin
+chariot | Chariot`
     },
     {
-      id: 'others',
-      text: `knight | घोड्याचा|Ghōcāḍyā
-chariot | रथ|Ratha
-horse-carriage | घोडा-वाहून|Ghōḍā-vāhūna
-yarn-ball | नेणारा|Nēṇārā
-bow | सूत-चेंडू|Sūta-cēṇḍū
-arrow | बाण|Bāṇa
-fountain | फवारा|Phavārā
-pouch | Pouch
-trolley | Trolley
-whistle |शिट्टी|Śiṭṭī
-twig |डाळी |Ḍāḷī
-palanquin | पालखी|Pālakhī
-medicine | औषध|Auṣadha
-conch| शंख|Śaṅkha
-toothbrush | Toothbrush
-chocolate | चॉकलेट|Cŏkalēṭa
-toothpaste | Toothpaste`
-    },
-
-    {
-      id: 'flowers',
-      text: `daffodil | Daffodil
-gulmohar | Gulmohar
-lily | Lily
-pansy | Pansy
-poppy | Poppy
-daisy | Daisy
-jasmine | चमेली|Camēlī
-magnolia | Magnolia
-periwinkle | Periwinkle
-water-lily | Water Lily`
+      id: 'jobs',
+      text: `astronaut | अंतराळवीर|Antarāḷavīra
+        clown | जोकर|Jōkara
+        fisherman | मच्छीमार|Macchīmāra
+        postman | पोस्टमॅन|Pōsṭamĕna
+        teacher | शिक्षक|Śikṣaka
+        blacksmith | लोहार|Lōhāra
+        cobbler | मोची|Mōcī
+goldsmith | Goldsmith
+potter | कुंभार|Kumbhāra
+weaver | विणकर|Viṇakara
+carpenter | सुतार|Sutāra
+diver | Diver
+nurse | परिचारिका|Paricārikā
+sailor | नाविक|Nāvika
+chef | आचारी|Ācārī
+doctor | डॉक्टर|
+police | पोलिस|Pōlīsa
+soldier | सैनिक|Sainika
+barber | न्हावी|Nhāvī
+washerman | धोबी|dhobi
+milkman | दूधवाला|Dūdhavālā
+shopkeeper | दुकानदार|Dukānadāra
+businessman | उद्योगपती|Udyōgapatī
+cashier | रोखपाल|Rōkhapāla
+electrician | Electrician
+farmer | शेतकरी|Śētakarī
+mechanic | Mechanic
+pilot | Pilot
+plumber | Plumber
+scientist |शास्त्रज्ञ|Śāstrajña
+seller | विक्रेता|Vikrētā
+software-developer | Software Developer`
     }
   ]
 };

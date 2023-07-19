@@ -1,70 +1,71 @@
 export default {
   id: 'picture-5',
-  label: 'More Animals and Birds',
+  label: 'Action and Sports',
   list: [
     {
-      id: 'animals',
-      text: `mongoose| मुंगूस|Muṅgūsa
-            mosquito| डास|Ḍāsa
-            octopus| Octopus|
-            wolf| लांडगा|Lāṇḍagā
-            lizard| सरडा|Saraḍā
-            cockroach| झुरळ|Jhuraḷa
-            garden-lizard| बाग सरडा|Bāga saraḍā
-rabbit| ससा| Sasā
-leopard| बिबट्या|Bibaṭyā
-dragonfly |Dragonfly|
-fly|माशी|maashi
-squirrel|खार|char
-dinosaur | Dinosaur|
-alligator | मगर|Magara
-boar | डुक्कर|Ḍukkara
-cricket | Cricket|
-hyena | हिरवळी|Hiravalī
-polarbear | ध्रुवीय अस्वल|Dhruvīya asvala
-antelope | काळवीट|Kāḷavīṭa
-bug | किडा|Kiḍā
-jackal | Jackal|
-prawn | कोळंबी|Kōḷambī
-baboon | Baboon|
-python | अजगर|Ajagara
-bison | बिबट्या|Bibaṭyā
-chameleon | गिरगिट|Giragiṭa
-porcupine | Porcupine|
-tigerfish | Tigerfish|
-ladybug | Ladybug|
-seahorse | Seahorse|
-hamster | Hamster|
-mole | तीळ|Tīḷa
-caterpillar | सुरवंट|Suravaṇṭa
-earthworm | गांडूळ|Gāṇḍūḷa
-hedgehog | हेज हॉग|Hēja hŏga
-stingray | Stingray|
-jellyfish | Jellyfish|
-starfish | Starfish|`
+      id: 'action',
+      label: 'Actions',
+      text: `drink| पेय|Pēya
+        eat| खा|Khā
+        bend | वाकणे|Vākaṇē
+        climb | चढणे|Caḍhaṇē
+        jump | उडी|Uḍī
+        kneel | गुडघे टेकले|Guḍaghē ṭēkalē
+        pull | ओढा|Ōḍhā
+        push | ढकलणे|Ḍhakalaṇē
+        sing | गाणे|Gāṇē
+        dance | नृत्य|Nr̥tya
+        running | धावा|Dhāvā
+        walking | चालणे|Cālaṇē
+        sit | बसा|Basā
+        party | पार्टी|Pārṭī
+        skipping | वगळा|Vagaḷā
+        catch | झेल|Jhēla
+        pass | पास|Pāsa
+        swim | पोहणे|Pōhaṇē
+        swing | Swing
+        throw | फेकणे|Phēkaṇē
+        carry | वाहून नेणे|Vāhūna nēṇē
+        lifting | lift
+        mopping | Moping
+        riding | Ride
+        sweep | Sweep
+        cough | खोकला|Khōkalā
+        sick | आजारी|Ājārī
+        sneeze |शिंकणे|Śiṅkaṇē
+        yawn | जांभई|Jāmbha'ī
+        sleep | झोप|Jhōpa `
     },
     {
-      id: 'birds',
-      text: `hornbill | Hornbill|
-            cuckoo | Cuckoo|
-            pheasant |तीतर |Tītara
-            falcon | Falcon|
-            swan | हंस|Hansa
-            bulbul | बुलबुल|Bulabula
-            spotted-dove | Spotted Dove|
-pelican | Pelican|
-hummingbird | Hummingbird|
-robin | Robin|
-swallow | Swallow|
-blue-jay | Blue jay|
-seagull | Seagull|
-canary | Canary|
-goose | Goose|
-turkey | Turkey|
-hawk | Hawk|
-cardinal | Cardinal|
-parakeet | Parakeet|
-macaw | Macaw|`
+      id: 'sports',
+      label: 'Sports',
+      text: `bat2 | वटवाघूळ|Vaṭavāghūḷa
+        racket | Racket
+        seesaw | Seesaw
+        slide | Slide
+        carrom | Carrom
+        chess | बुद्धिबळ|Bud'dhibaḷa
+        cricket2 | Cricket
+        tennis | Tennis
+        football | Football
+        hockey | Hockey
+        kabaddi | Kabaddi
+        archery | धनुर्विद्या|Dhanurvidyā
+        basketball | Basket ball
+        boxing | Boxing
+        table-tennis | table-tennis
+        golf | Golf
+        wrestling | कुस्ती|Kustī
+        
+        
+        karate | Karate
+        surfing | Surfing
+        
+        jockey | Jockey
+        track | Track
+        
+        bandage | मलमपट्टी|Malamapaṭṭī
+        danger | धोका|Dhōkā`
     }
   ]
 };

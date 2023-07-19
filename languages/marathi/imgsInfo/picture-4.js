@@ -1,21 +1,42 @@
 export default {
-  id: "picture-4",
-  label: "House and Others",
+  id: 'picture-4',
+  label: 'House and Others',
   list: [
     {
-      id: "nature",
-      label: "Nature",
-      text: `man| माणूस|Māṇūsa
-woman | स्त्री|Strī
-boy|मुलगा|Mulagā
+      id: 'people',
+      text: `boy|मुलगा|Mulagā
 girl | मुलगी|Mulagī
+man| माणूस|Māṇūsa
+woman | स्त्री|Strī
 baby | बाळ|Bāḷa
-house| घर|Ghara
+mother | आई|Ā'ī
+father | वडील|Vaḍīla
+grandfather | आजोबा|Ājōbā
+grandma | आजी|Ājī`
+    },
+    {
+      id: 'nature',
+      label: 'Nature',
+      text: `house| घर|Ghara
 table|Table
 bed|पलंग|Palaṅga
+mat | चटई|Caṭa'ī
+mop | दांडपोतेरे| daandapotere
+mug | Mug
+lock | कुलूप|Kulūpa
+key | चावी|chaavi
+net | Net
+rope |दोरी|Dōrī
+teapot | चहाची भांडी|Cahācī bhāṇḍī
+fan | पंखा|Paṅkhā
+ball | चेंडू|Cēṇḍū
+teddy | Teddy Bear
+jug | गुळ|Guḷa
+lightbulb | Bulb
 candle|मेणबत्ती|Mēṇabattī
 chair|खुर्ची|Khurcī
 shelf|Shelf
+switchboard| Switchboard
 coat|Coat
 glasses|चष्मा|Caṣmā
 clock | घड्याळ|Ghaḍyāḷa
@@ -26,21 +47,26 @@ door | दार|Dāra
 broom | झाडू|Jhāḍū
 window | खिडकी|Khiḍakī
 sofa | Sofa
+kettle | Kettle
 bucket | बादली|Bādalī
 toilet | शौचालय|Śaucālaya
 soap | साबण|Sābaṇa
+helmet | शिरस्त्राण|Śirastrāṇa
 backpack | Backpack
 pillow | उशी| Uśī
 basket | टोपली|Ṭōpalī
 dustbin | Dustbin
 bed-lamp | Bed Lamp
 handbag | Handbag
+steps | पायऱ्या|Pāyaṟyā
+curtains | पडदे|Paḍadē
+watertank | पाण्याची टाकी|Pāṇyācī ṭākī
 air-conditioner | Air Conditioner
-washing-machine | Washing Machine`,
+washing-machine | Washing Machine`
     },
     {
-      id: "dress",
-      label: "Dress",
+      id: 'dress',
+      label: 'Dress',
       text: `dress | Dress
 coat | Coat
 shoe | बूट|Būṭa
@@ -54,28 +80,35 @@ bib | Bib
 shirt | Shirt
 jacket | Jacket
 hat | टोपी|Ṭōpī
-trousers | पायघोळ|Pāyaghōḷa`,
+trousers | पायघोळ|Pāyaghōḷa
+saree | Saree`
     },
     {
-      id: "school",
-      label: "School",
+      id: 'school',
+      label: 'School',
       text: `pen |Pen
 pencil|Pencil
 ruler|शासक|Śāsaka
+blackboard | Black Board
+chalk | खडू|Khaḍū
+nib | Nib
 eraser|खोडरबर|Khōḍarabara
 scissors|कात्री|Kātrī
 sharpener|Sharpener
 calculator| Calculator
 book| पुस्तक|Pustaka
 ink | शाई|Śā'ī
+globe | Globe
 schoolbag| शाळेचे दप्तर|Śāḷēcē daptara
 waterbottle| Waterbottle
 color-pencils| Color Pencils
-crayons | Crayons`,
+crayons | Crayons
+notebook | Notebook
+writingpad | Writing Pad`
     },
     {
-      id: "kitchen",
-      label: "Kitchen",
+      id: 'kitchen',
+      label: 'Kitchen',
       text: `stove |Stove
 fork|काटा|Kāṭā
 knife|चाकू|Cākū
@@ -88,6 +121,7 @@ tap | Tap
 lid | झाकण|Jhākaṇa
 
 blender | Blender
+grinder | Grinder
 cheese | Cheese
 fridge | Fridge
 lollipop | Lollipop
@@ -95,10 +129,15 @@ salad | कोशिंबीर|Kōśimbīra
 sugar | साखर| Sākhara
 bowl | वाटी|Vāṭī
 chicken | Chicken
+milk|दूध|Dūdha
+fruits|फळे|Phaḷē
 ice-cream | Ice cream
 meat | मांस|Mānsa
 
 salt | मीठ|Mīṭha
+french-fry | French Fry
+soft-drink | हलकं पेय|Halakaṁ pēya
+pizza | Pizza
 sweets | मिठाई|Miṭhā'ī
 bread | Bread
 cup | Cup
@@ -106,13 +145,14 @@ juice | रस|Rasa
 mushroom | Mushroom
 sandwich | Sandwich
 cake | Cake
+burger | Burger
 flour | पीठ|Pīṭha
 lentils | मसूर|Masūra
 
 rice | तांदूळ|Tāndūḷa
-soup | Soup`,
-    },
-  ],
+soup | Soup`
+    }
+  ]
 };
 
 क, का, कि, की, कु, कू, के, कै, को, कौ, कं, कः;
