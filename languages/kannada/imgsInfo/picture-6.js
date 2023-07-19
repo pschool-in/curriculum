@@ -1,46 +1,78 @@
 export default {
-  id: "picture-6",
-  label: "More Fruits and Vegetables",
+  id: "picture-5",
+  label: "More Animals and Birds",
   list: [
     {
-      id: "fruits",
-      text: `star-fruit | ನಕ್ಷತ್ರ ಹಣ್ಣು |Nakṣatra haṇṇu
-dragon-fruit | ಡ್ರ್ಯಾಗನ್ ಹಣ್ಣು |Ḍryāgan haṇṇu
-sugarcane | ಕಬ್ಬು|Kabbu
-peach |ಪೀಚ್| Peach
-sweet-potato | ಗೆಣಸು|Genasu
-jamun | ಕಾದಂಬರಿ ಹಣ್ಣು|Kādambari haṇṇu
-pear |	ಪೇರಳೆ ಹಣ್ಣು |Perale hannu
-water-chestnut | ನೀರಿನ ಚೆಸ್ಟ್ನಟ್| Nirina chestnat
-jujube | Jujube
-sapotta |ಸಪೋಟಾ| Sapotta
-tapioca | ಟಪಿಯೋಕಾ |Tapioca
-blueberry | ಬೆರಿಹಣ್ಣಿನ |Berihaṇṇina
-passion-fruit | ಪ್ಯಾಶನ್ ಹಣ್ಣು |Pyāśan haṇṇu`,
+      id: "animals",
+      text: `mongoose| ಮುಂಗುಸಿ |Muṅgusi
+            mosquito| ಸೊಳ್ಳೆ|Solle
+            octopus| ಆಕ್ಟೋಪಸ್| Octopus
+            wolf| ತೋಳ| Tola
+            lizard| ಹಲ್ಲಿ|Halli
+            termite | Termite
+            cockroach| ಜಿರಳೆ| Jirale
+            garden-lizard| ತೋಟದ ಹಲ್ಲಿ | Totada halli
+            winged-termites | Winged Termite
+rabbit| ಮೊಲ| mola
+leopard| ಚಿರತೆ| Cirate
+dragonfly |ಡ್ರಾಗನ್ಫ್ಲೈ|Dragonfly
+fly|ನೋಣ|nona
+squirrel|ಅಳಿಲು| Alilu
+dinosaur | ಡೈನೋಸಾರ್ |Dinosaur
+alligator | ಅಲಿಗೇಟರ್ |Alligator
+boar | ಹಂದಿ |Handi
+cricket | Cricket
+hyena | ಹೈನಾ |Hyena
+polarbear | ಹಿಮ ಕರಡಿ |Hima karaḍi
+antelope | ಹುಲ್ಲೆ |Hulle
+bug | ತಿಗಣೆ | Tigane
+jackal | ನರಿ |nari
+prawn | ಪ್ರಾನ್ |Prawn
+baboon | ಬಬೂನ್ |Baboon
+python | ಹೆಬ್ಬಾವು | Hebbavu
+bison | ಕಾಡೆಮ್ಮೆ | Kademme
+chameleon | ಗೋಸುಂಬೆ |Gosumbe
+porcupine | ಮುಳ್ಳುಹಂದಿ | Mulluhandi
+tigerfish | Tigerfish
+ladybug | Ladybug
+seahorse | ಸಮುದ್ರಕುದುರೆ| Samudrakudure
+hamster | ಹ್ಯಾಮ್ಸ್ಟರ್ |Hamster
+mole | Mole
+caterpillar | ಮರಿಹುಳು | Marihulu
+earthworm | |ಎರೆಹುಳು |Erehulu
+hedgehog | ಮುಳ್ಳುಹಂದಿ | Mulluhandi
+stingray | ಸ್ಟಿಂಗ್ರೇ|Stingray
+jellyfish | ಜೆಲ್ಲಿ ಮೀನು |Jelli mīnu
+starfish | ಸ್ಟಾರ್ಫಿಶ್ |Sṭārphiś`,
     },
     {
-      id: "vegetables",
-      text: `chickpea | ಕಡಲೆ | Kaḍale
-mustard-greens | ಸಾಸಿವೆ ಸೊಪ್ಪು |Sasive soppu
-turmeric | 	ಅರಿಶಿನ | Arisina
-turnip | ನವಿಲುಕೋಸು | Navilukosu
-fenugreek | ಮೆಂತ್ಯ |Mentya
-tamarind | ಹುಣಸೆಹಣ್ಣು|Huṇasehaṇṇu
-elephant-yam | ಸುವರ್ಣ ಗೆಡ್ದೆ |suvarna Gedde
-ashgourd | ಬೂದಿ ಸೋರೆಕಾಯಿ |Budi sorekayi
-broad-beans |ಅವರೆಕಾಯಿ|Avarekāyi
-snake-gourd | ಪಡವಲಕಾಯಿ|Padavala kaayi
-banana-flower | ಬಾಳೆ ಹೂವು |Bāḷe hūvu
-cluster-beans | ಚವಳಿಕಾಯಿ |Chavalikai
-kohlrabi | Kohlrabi
-spring-onion | ಈರುಳ್ಳಿ ಎಲೆ | Īruḷḷi ele
-banana-stem | ಬಾಳೆ ದಿಂಡು|Bale Dindu
-drumstick-leaves | ಮೊರಿಂಗಾ ಎಲೆಗಳು|Moriṅgā elegaḷu
-raw-banana | ಬಾಳೇಕಾಯಿ |Baale kaayi
-tulsi | ತುಳಸಿ |Tuḷasi
-bottlegourd | ಸೋರೆಕಾಯಿ |Sore kaaye
-ivygourd | ತೊಂಡೆಕಾಯಿ|Tondekayi
-ridgegourd | ಹೀರೆಕಾಯಿ| Hīrekāyi`,
+      id: "birds",
+      text: `hornbill | ಹಾರ್ನ್ ಬಿಲ್ | Hārn bil
+            cuckoo | ಕೋಗಿಲೆ |Kōgile
+            pheasant |ಫೆಸೆಂಟ್ | Pheasant
+            falcon | ಗಿಡುಗ| ಗಿಡುಗ
+            swan | ಸ್ವಾನ್ |Swan
+            bulbul | ಬುಲ್ಬುಲ್ |Bulbul
+            spotted-dove | ಮಚ್ಚೆಯುಳ್ಳ ಪಾರಿವಾಳ| Macceyuḷḷa pārivāḷa
+pelican | ಕೊಕ್ಕರೆ|Kokkare
+hummingbird | ಹಮ್ಮಿಂಗ್ ಬರ್ಡ್| hummingbird
+robin | ರಾಬಿನ್ |Rābin
+swallow | Swallow
+blue-jay | Blue jay
+seagull | ಕಡಲ ಹಕ್ಕಿ |Kaḍala hakki
+canary | Canary
+goose | ಹೆಬ್ಬಾತು| hebbatu
+turkey |ಟರ್ಕಿ| Turkey
+hawk | ಗಿಡುಗ  |Giduga
+cardinal | ಕಾರ್ಡಿನಲ್ |Cardinal
+parakeet | ಪ್ರಕೀತ್ |Parakeet
+macaw | ಮಕಾವ್  |makav`,
     },
   ],
 };
+
+
+
+
+
+

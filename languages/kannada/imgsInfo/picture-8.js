@@ -1,52 +1,56 @@
 export default {
-  id: "picture-8",
-  label: "More Images",
+  id: "picture-7",
+  label: "Vehicles and Jobs",
   list: [
     {
-      id: "gadgets",
-      text: `camera |ಕ್ಯಾಮೆರಾ |kyamera
-headphone|ಹೆಡ್‌ಫೋನ್‌ಗಳು |Headphonegalu
-pendrive|ಪೆನ್ ಡ್ರೈವ್ |Pendrive
-remote|ರಿಮೋಟ್|remote
-smartphone|ಸ್ಮಾರ್ಟ್ಫೋನ್ |Smartphone
-speaker|Speaker
-tablet|Tablet
-torch|ಟಾರ್ಚ್ | Torch
-web-camera |ವೆಬ್ ಕ್ಯಾಮರಾ | Web Camera`,
+      id: "vehicles",
+      text: `aeroplane | ವಿಮಾನ |vimana
+        boat | ದೋಣಿ | doni
+        bus | ಬಸ್ |Bus
+        car | ಕಾರು | karu
+        cycle | ಬೈಸಿಕಲ್ | baisikal
+        helicoptor |ಹೆಲಿಕಾಪ್ಟರ್ | Helicopter
+        motorbike | ಬೈಕ್ | baik
+ship | ಹಡಗು | hadagu
+tractor | ಟ್ರ್ಯಾಕ್ಟರ್ | Ṭryākṭar
+lorry| ಲಾರಿ | Lāri
+train | ರೈಲು | railu
+ambulance| ಆಂಬ್ಯುಲೆನ್ಸ್ |Āmbyulens
+auto| ಆಟೋ |Auto
+cart| ಬಂಡಿ |baṇḍi
+excavator| ಅಗೆಯುವ ಯಂತ್ರ | Ageyuva yantra
+fire-engine| ಅಗ್ನಿ ಶಾಮಕ | Agni śāmaka
+van|ವ್ಯಾನ್ | Vyān
+bulldozer | ಬುಲ್ಡೋಜರ್ |Bulḍōjar
+rocket | ರಾಕೆಟ್ |Rocket
+submarine | ಜಲಾಂತರ್ಗಾಮಿ |Jalantargami`,
     },
     {
-      id: "others",
-      text: `knight | ಸರ್ದಾರ್ | Sardār
-chariot | ರಥ | Ratha
-horse-carriage | Horse Carriage
-yarn-ball | ನೂಲು ಚೆಂಡು | Nūlu ceṇḍu
-bow | ಬಿಲ್ಲು |Billu
-arrow | ಬಾಣ |Bāṇa
-fountain | ಕಾರಂಜಿ |Karanji
-pouch | ಚೀಲ | Cīla
-trolley | ಟ್ರಾಲಿ | Trolley
-whistle |ಶಿಳ್ಳೆ ಹೊಡೆಯಿರಿ | Śiḷḷe hoḍeyiri
-twig | ಶಾಖೆ |Śākhe
-palanquin | ಪಲ್ಲಕ್ಕಿ | Pallakki
-medicine | ಔಷಧಿ | Auṣadhi
-conch| ಶಂಖ |Śaṅkha
-toothbrush | ಟೂತ್ ಬ್ರಷ್|  Toothbrush
-chocolate |ಚಾಕೊಲೇಟ್ | Chocolate
-toothpaste | ಟೂತ್ಪೇಸ್ಟ್ |Toothpaste`,
-    },
-
-    {
-      id: "flowers",
-      text: `daffodil | ಡ್ಯಾಫಡಿಲ್| Daffodil
-gulmohar | ಗುಲ್ಮೊಹರ್|Gulmohar
-lily | ಲಿಲಿ |lili
-pansy | ಪ್ಯಾನ್ಸಿ |Pyānsi
-poppy | Poppy
-daisy | 	ಡೈಸಿ  |daisi
-jasmine |ಮಲ್ಲಿಗೆ | mallige
-magnolia | Magnolia
-periwinkle | ಪೆರಿವಿಂಕಲ್ |Periwinkle
-water-lily | ಜಲ ನೈದಿಲೆ | jala naidile`,
+      id: "jobs",
+      text: `astronaut | ಗಗನಯಾತ್ರಿ |Gaganayātri
+        clown | ಹಾಸ್ಯಗಾರ |Hāsyagāra
+        fisherman | ಮೀನುಗಾರ |Mīnugāra
+        postman | ಪೋಸ್ಟ್ಮ್ಯಾನ್ |postmyan
+        teacher | ಶಿಕ್ಷಕ  |siksaka
+        blacksmith | Blacksmith
+        cobbler | ಚಮ್ಮಾರ | chammara
+goldsmith | ಗೋಲ್ಡ್ ಸಿಮ್ತ್  |gold simt
+potter | ಕುಂಬಾರ | kumbara
+weaver | ನೇಕಾರ |nekara
+carpenter | ಬಡಗಿ |Baḍagi
+diver | ಧುಮುಕುವವನು |Dhumukuvavanu
+nurse | ನರ್ಸ್ |Nurse
+sailor | ನಾವಿಕ  |navika
+chef | ಬಾಣಸಿಗ |Bāṇasiga
+doctor | ವೈದ್ಯರು  |vaidyaru
+police | ಪೊಲೀಸ್ | Police
+soldier | ಸೈನಿಕ  |sainika
+barber | ಕ್ಷೌರಿಕ |ksaurika
+washerman |ತೊಳೆಯುವವನು |toleyuvavanu`,
     },
   ],
 };
+
+
+
+

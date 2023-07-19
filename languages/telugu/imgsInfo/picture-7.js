@@ -1,52 +1,47 @@
 export default {
-  id: "picture-7",
-  label: "Vehicles and Jobs",
+  id: "picture-6",
+  label: "More Fruits and Vegetables",
   list: [
     {
-      id: "vehicles",
-      text: `aeroplane |విమానం|Vimānaṁ
-        boat | పడవ |padava
-        bus | బస్సు|Bassu
-        car | కారు|Kāru
-        cycle | సైకిల్ |saikil
-        helicoptor | హెలికాప్టర్|Helicopter
-        motorbike | మోటార్ సైకిల్ | motar saikil
-ship | 	ఓడ |oda
-tractor | ట్రాక్టర్|Tractor
-lorry| లారీ|Lorry
-train | 	రైలు | railu
-ambulance|అంబులెన్స్| Ambulance
-auto| Auto
-cart| Cart
-excavator|ఎక్స్కవేటర్| Excavator
-fire-engine| అగ్నిమాపక యంత్రం|Agnimāpaka yantraṁ
-van| వ్యాన్|Vyān
-bulldozer |బుల్డోజర్| Bulldozer
-rocket | రాకెట్|Rocket
-submarine | జలాంతర్గామి|Jalāntargāmi`,
+      id: "fruits",
+      text: `star-fruit |స్టార్ ఫ్రూట్|Sṭār phrūṭ
+dragon-fruit | డ్రాగన్ పండు|Ḍrāgan paṇḍu
+sugarcane | చెరుకుగడ|Cerukugaḍa
+peach | పీచు|Pīchu
+sweet-potato | చిలగడదుంప|Cilagaḍadumpa
+jamun | జామున్|Jāmun
+pear | 	పియర్ |piyar
+water-chestnut | నీటి చెస్ట్నట్|Nīṭi cesṭnaṭ
+jujube | జుజుబ్|Jujub
+sapotta | 	సపోటా | Sapota
+tapioca | టాపియోకా|Ṭāpiyōkā
+blueberry | బ్లూబెర్రీ|Blūberrī
+passion-fruit | తపన ఫలం|Tapana phalaṁ`,
     },
     {
-      id: "jobs",
-      text: `astronaut | వ్యోమగామి|Vyōmagāmi
-        clown |విదూషకుడు|Vidūṣakuḍu
-        fisherman | మత్స్యకారుడు|Matsyakāruḍu
-        postman | పోస్ట్‌మ్యాన్|Pōstmyān
-        teacher |టీచర్| Teacher
-        blacksmith | కమ్మరి|Kam'mari
-        cobbler | చెప్పులు కుట్టేవాడు|Ceppulu kuṭṭēvāḍu
-goldsmith | గోల్డ్ స్మిత్|Goldsmith
-potter | కుమ్మరి|Kum'mari
-weaver | నేత|Nēta
-carpenter | వడ్రంగి|Vaḍraṅgi
-diver | Diver
-nurse | నర్స్|Nurse
-sailor | నావికుడు|Nāvikuḍu
-chef |చెఫ్| Chef
-doctor | వైద్యుడు|Vaidyuḍu
-police | పోలీసు|Pōlīsu
-soldier | సైనికుడు|Sainikuḍu
-barber |బార్బర్| Barber
-washerman | చాకలివాడు|Chākalivāḍu`,
+      id: "vegetables",
+      text: `chickpea | చిక్పీ|Chickpea
+mustard-greens | 	ఆవపిండి ఆకుకూరలు | avapindi akukuralu
+turmeric | పసుపు | Pasupu
+turnip | టర్నిప్లు| tarniplu
+fenugreek | మెంతికూర|Mentikūra
+tamarind | చింతపండు|Cintapaṇḍu
+elephant-yam | Elephant Yam
+ashgourd | బూడిద పొట్లకాయ|Būḍida poṭlakāya
+broad-beans | Broad beans
+snake-gourd | 	పాముకాయ |pamukaya
+banana-flower | అరటి పువ్వు|Araṭi puvvu
+cluster-beans | 	క్లస్టర్ బీన్స్| klastar bins
+kohlrabi | కోల్రాబీ|Kohlrabi
+spring-onion | స్ప్రింగ్ ఆనియన్|Spriṅg āniyan
+banana-stem |
+అరటి కాండం|Araṭi kāṇḍaṁ
+drumstick-leaves | మునగ-ఆకులు|Munaga-ākulu
+raw-banana | అరటి | arati
+tulsi | తులసి|Tulasi
+bottlegourd | సొరకాయ |sorakaya
+ivygourd | దొండకాయ |Dondakaya
+ridgegourd | 	బీరకాయ | Birakaya`,
     },
   ],
 };
