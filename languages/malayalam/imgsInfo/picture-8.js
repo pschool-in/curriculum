@@ -3,7 +3,7 @@ export default {
   label: 'Vehicles and Jobs',
   list: [
     {
-      id: 'vehicles',
+      id: 'വാഹനങ്ങൾ',
       text: `aeroplane | വിമാനം| vimaanam
 boat | വഞ്ചി|vanji
 bus | ബസ്|bas
@@ -32,7 +32,7 @@ palanquin |പല്ലക്ക്|pallak
 chariot |രഥം|ratham`
     },
     {
-      id: 'jobs',
+      id: 'ജോലികൾ',
       text: `astronaut | ബഹിരാകാശ സഞ്ചാരി|bahiraaksha sanjari
 clown | വിദൂഷകൻ|vidushakan
 fisherman | മത്സ്യത്തൊഴിലാളി|malsya thorilali

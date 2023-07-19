@@ -1,10 +1,10 @@
 export default {
-  id: "picture-2",
-  label: "Fruits and Vegetables",
+  id: 'picture-2',
+  label: 'Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
-      label: "Fruits",
+      id: 'fruits',
+      label: 'Fruits',
       text: `apple | सफरचंद|Sapharacanda
 grapes | द्राक्षे|Drākṣē
 banana | केळी|Kēḷī
@@ -24,10 +24,10 @@ fig| अंजीर|An̄jīra
 custard-apple| सीताफळ| Sītāphaḷa
 plum| मनुका| Manukā
 dates| तारखा| Tārakhā
-muskmelon|कस्तुरी |Kasturī`,
+muskmelon|कस्तुरी |Kasturī`
     },
     {
-      id: "vegetables",
+      id: 'vegetables',
       text: `carrot | गाजर| Gājara
 beetroot | Beetroot
 onion | कांदा| Kāndā
@@ -49,6 +49,7 @@ capsicum| शिमला मिर्ची| Śimalā mircī
 cashewnut| काजू| Kājū
 chilli| मिरची|Miracī
 coconut | नारळ|Nāraḷa
+lemon | लिंबू|Limbū
 
 corianderleaf | कोथिंबीर पान|Kōthimbīra pāna
 curryleaf | कढीपत्ता| Kaḍhīpattā
@@ -59,7 +60,7 @@ mintleaf| पुदीना|Pudīnā
 peanut| शेंगदाणा|Śēṅgadāṇā
 radish| मुळा|Muḷā
 spinach | पालक|Pālaka
-vegetables | भाज्या|Bhājyā`,
-    },
-  ],
+vegetables | भाज्या|Bhājyā`
+    }
+  ]
 };

@@ -4,7 +4,7 @@ export default {
   list: [
     {
       id: 'social',
-      label: 'Social Science',
+      label: 'സാമൂഹിക ശാസ്ത്രം',
       text: `mountain | മല|mala
 seashore | കടൽത്തീരം|kadaltheeram
 forest | വനം|vanam
@@ -49,7 +49,7 @@ pillar | തൂണ്|thoon`
     },
     {
       id: 'organs',
-      label: 'Organs',
+      label: 'അവയവങ്ങൾ',
       text: `heart|ഹൃദയം|hridayam
 brain|തലച്ചോറ്|thalchor
 lungs|ശ്വാസകോശം|shwasakosham
@@ -59,7 +59,7 @@ kidney|വൃക്ക|vrikha`
     },
     {
       id: 'teeth',
-      label: 'Teeth',
+      label: 'പല്ലുകൾ',
       text: `incisor | Incisor
 canine | Canine
 premolar | Premolar
@@ -67,7 +67,7 @@ molar | അണപ്പല്ല്‌`
     },
     {
       id: 'science',
-      label: 'Science',
+      label: 'ശാസ്ത്രം',
       text: `windmill | കാറ്റാടിയന്ത്രം
 solar-panel | Solar Panel
 bridge | പാലം

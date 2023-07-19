@@ -1,9 +1,9 @@
 export default {
-  id: "picture",
+  id: 'picture',
   list: [
     {
-      id: "animals",
-      label: "Animals",
+      id: 'animals',
+      label: 'മൃഗങ്ങൾ',
       text: `cat | പൂച്ച|poocha
 dog | നായ|naaya
 goat| ആട്|aad
@@ -46,11 +46,11 @@ goldfish | സ്വർണ്ണമത്സ്യം|svarnnamalsyam
 spider | ചിലന്തി|chilanthi
 panda | Panda
 giraffe| ജിറാഫ്|giraffe
-kangaroo| കംഗാരു|kamgaaru`,
+kangaroo| കംഗാരു|kamgaaru`
     },
     {
-      id: "birds",
-      label: "Birds",
+      id: 'birds',
+      label: 'പക്ഷികൾ',
       text: `crow|കാക്ക|kaakka
 dove|പ്രാവ്|praavu
 duck|താറാവ്|tharaav
@@ -71,7 +71,7 @@ owl| മൂങ്ങ|moonga
 rooster| പൂവന്കോഴി|poovan kozhi
 vulture| കഴുകൻ|kazhukan
 woodpecker| മരംകുത്തി|mazham kotthi
-koel | കുയിൽ|kuyil`,
-    },
-  ],
+koel | കുയിൽ|kuyil`
+    }
+  ]
 };
