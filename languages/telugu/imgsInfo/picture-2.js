@@ -44,22 +44,23 @@ pumpkin| గుమ్మడికాయ |gummadikaya
 almond| బాదం|badam
 beans| బీన్స్ | beens
 bitter-gourd|	కాకరకాయ | kakarakaya
-brinjal| 	వంకాయ|Vaṅkāya
+brinjal| 	వంకాయ|Vankaya
 capsicum| క్యాప్సికమ్| Capsicum
-cashewnut| జీడి పప్పు|Jīḍi pappu
+cashewnut| జీడి పప్పు|Jidi pappu
 chilli| మిరప | Mirapa
 coconut | కొబ్బరి|Kobbari
 Lemon|నిమ్మకాయ | Nimmakaya
-corianderleaf | కొత్తిమీర ఆకు|Kottimīra āku
+
+corianderleaf | కొత్తిమీర ఆకు|Kottimira aku
 curryleaf | కరివేపాకు |Karivepaku
 drumstick| మునగ| Munaga
-greenpeas|ఆకుపచ్చ బటానీలు| Ākupacca baṭānīlu
+greenpeas|ఆకుపచ్చ బటానీలు| akupacca batanilu
 ladies-finger | లేడీస్ ఫింగర్|Ladies Finger
 mintleaf| 	పుదీనా |Pudina
-peanut| వేరుశెనగ|Vēruśenaga
-radish| ముల్లంగి| Mullaṅgi
+peanut| వేరుశెనగ|Verusenaga
+radish| ముల్లంగి| Mullangi
 spinach | పాల కూర |Pala kura
-vegetables | కూరగాయలు|Kūragāyalu`,
+vegetables | కూరగాయలు|Kuragayalu`,
     },
   ],
 };
