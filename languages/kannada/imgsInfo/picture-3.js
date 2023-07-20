@@ -11,27 +11,27 @@ world|ವಿಶ್ವ |vishva
 bird|ಹಕ್ಕಿ |hakki
 rain|ಮಳೆ |maley 
 stone|ಕಲ್ಲು|Kallu
-pebbles | ಉಂಡೆಗಳು|Uṇḍegaḷu
+pebbles | ಉಂಡೆಗಳು|Undegalu
 leaf|ಎಲೆ|ele
-tree | Tree
-log | Log
+tree | ಮರ|Mara
+log | ಮರದ ತುಂಡು|Marada tundu
 nest | ಗೂಡು |goodu
 dew | ಇಬ್ಬನಿ | ibbani
 waterfall |ಜಲಪಾತ |jalapatha 
 rainbow |ಕಾಮನಬಿಲ್ಲು |kamanabillu
-cloud | ಮೋಡ|Mōḍa
-lightning | ಮಿಂಚು|Min̄cu
-web |ಜೇಡರ ಬಲೆ|Jēḍara bale
-shell | ಶೆಲ್|Śel
-banyan | ಆಲದ ಮರ|Ālada mara
+cloud | ಮೋಡ|Moda
+lightning | ಮಿಂಚು|Mincu
+web |ಜೇಡರ ಬಲೆ|Jedara bale
+shell | ಶೆಲ್|sel
+banyan | ಆಲದ ಮರ|alada mara
 bamboo-tree | ಬಿದಿರು ಮರ|Bidiru mara
-banana-tree | ಬಾಳೆ ಮರ|Bāḷe mara
-bananaleaf | ಬಾಳೆ ಎಲೆ|Bāḷe ele
-coconut-tree | ತೆಂಗಿನ ಮರ|Teṅgina mara
-coconutleaf | ತೆಂಗಿನ ಎಲೆ|Teṅgina ele
-mangoleaf | ಮಾವಿನ ಎಲೆ|Māvina ele
-palm-tree | ತಾಳೆ ಮರ|Tāḷe mara
-neemleaf | ಬೇವಿನ ಎಲೆ|Bēvina ele`,
+banana-tree | ಬಾಳೆ ಮರ|Bale mara
+bananaleaf | ಬಾಳೆ ಎಲೆ|Bale ele
+coconut-tree | ತೆಂಗಿನ ಮರ|Tengina mara
+coconutleaf | ತೆಂಗಿನ ಎಲೆ|Tengina ele
+mangoleaf | ಮಾವಿನ ಎಲೆ|Mavina ele
+palm-tree | ತಾಳೆ ಮರ|Tale mara
+neemleaf | ಬೇವಿನ ಎಲೆ|Bevina ele`,
     },
     {
       id: "body-parts",
@@ -44,18 +44,18 @@ hand|ಕೈ |kai
 mouth|ಬಾಯಿ |bayi
 nose| ಮೂಗು |moogu
 tooth|ಹಲ್ಲು | hallu
-forehead | ಹಣೆ|Haṇe
-mustache | ಮೀಸೆ|Mīse
-beard | ಗಡ್ಡ|Gaḍḍa
-ankle | ಕಣಕಾಲು|Kaṇakālu
-elbow | ಮೊಣಕೈ|Moṇakai
-knee | ಮೊಣಕಾಲು|Moṇakālu
+forehead | ಹಣೆ|Hane
+mustache | ಮೀಸೆ|Mise
+beard | ಗಡ್ಡ|Gadda
+ankle | ಕಣಕಾಲು|Kanakalu
+elbow | ಮೊಣಕೈ|Monakai
+knee | ಮೊಣಕಾಲು|Monakālu
 shoulder | ಭುಜ|Bhuja
-wrist | ಮಣಿಕಟ್ಟು|Maṇikaṭṭu
-thumb |ಹೆಬ್ಬೆರಳು|Hebberaḷu
+wrist | ಮಣಿಕಟ್ಟು|Manikattu
+thumb |ಹೆಬ್ಬೆರಳು|Hebberalu
 cheek | ಕೆನ್ನೆ|Kenne
 chin | ಗದ್ದ|Gadda
-nails | ಉಗುರುಗಳು|Ugurugaḷu`,
+nails | ಉಗುರುಗಳು|Ugurugalu`,
     },
     {
       id: "flowers",
@@ -78,26 +78,26 @@ box | ಬಾಕ್ಸ್ | box
 coin | ನಾಣ್ಯ | nanya
 top |  ಬುಗುರಿ | buguri
 balloon | ಬಲೂನ್ | balloon
-brick | ಇಟ್ಟಿಗೆ|Iṭṭige
-rooftile| ರೂಫ್ ಟೈಲ್|Rūph ṭail
+brick | ಇಟ್ಟಿಗೆ|Ittige
+rooftile| ರೂಫ್ ಟೈಲ್|Ruph tail
 stick | ಸ್ಟಿಕ್ | stick
 ring| ರಿಂಗ್ | ring
 drums| ಡ್ರಮ್ | drum
 food| ಆಹಾರ | aahara
 king| ರಾಜ | raja
-queen | ರಾಣಿ|Rāṇi
+queen | ರಾಣಿ|Rani
 kite| ಗಾಳಿಪಟ | galipata
 ladder| ಏಣಿ | yeni
 quill | ಗರಿ|Gari
-  oar | ಓರ್|Ōr
+  oar | ಓರ್|oar
   gun | ಗನ್|Gan
 wheel| ಚಕ್ರ | chakra
 park |ಪಾರ್ಕ್ | park
 garden | ಉದ್ಯಾನ | udyana
-sculpture | ಶಿಲ್ಪಕಲೆ|Śilpakale
+sculpture | ಶಿಲ್ಪಕಲೆ|silpakale
 statue | ಪ್ರತಿಮೆ|Pratime
-clay-lamp |ಕ್ಲೇ ಲ್ಯಾಂಪ್|Klē lyāmp
-clay-stove |ಕ್ಲೇ ಸ್ಟೌವ್|Klē sṭauv
+clay-lamp |ಕ್ಲೇ ಲ್ಯಾಂಪ್|Kle lyamp
+clay-stove |ಕ್ಲೇ ಸ್ಟೌವ್|Kle stauv
 radio | ರೇಡಿಯೋ| radio`,
     },
   ],

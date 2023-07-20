@@ -14,7 +14,6 @@ export default {
       spanner | Spanner
       axe | Axe
 balance | Balance
-blackboard | Blackboard
 hose | Hose
 microscope | Microscope
 needle | Needle

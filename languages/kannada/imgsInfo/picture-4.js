@@ -20,17 +20,17 @@ id: "house",
 text:`house| ಮನೆ |mane
 table|ಟೇಬಲ್ |Tebal
 bed|ಹಾಸಿಗೆ |hasige
-mat | ನಕ್ಷೆ|Nakṣe
+mat | ನಕ್ಷೆ|Nakse
 mop | Mop
-mug | Mug
+mug | ಮಗ್ಗಳು |maggalu
 lock | ಲಾಕ್
 key | ಕೀ|Key
-net | Net
+net | ಬಲೆ| bale
 rope | ಹಗ್ಗ|Hagga
 teapot |ಟೀಪಾಟ್| Teapot
 fan | ವಿದ್ಯುತ್ ಫ್ಯಾನ್|Vidyut phyān
-ball | ಚೆಂಡು|Cheṇḍu
-teddy | ಟೆಡ್ಡಿ ಬೇರ್|Ṭeḍḍi bēr
+ball | ಚೆಂಡು|Chendu
+teddy | ಟೆಡ್ಡಿ ಬೇರ್|teddi bear
 jug | ಜಗ್|Jug
 lightbulb |ಬಲ್ಬ್| Bulb
 candle|ಮೋಂಬತ್ತಿ |mombatti
@@ -40,9 +40,9 @@ switchboard| ಸ್ವಿಚ್ಬೋರ್ಡ್|Switchboard
 glasses|ಕನ್ನಡಕ |Kannadaka
 clock | ಗಡಿಯಾರ | Gadiyara
 watch | ಕೈಗಡಿಯಾರ |Kaigadiyara
-flower-pot | ಹೂ ಕುಂಡ | Hu kunda
+flower-pot | ಹೂ ಕುಂಡ | Hukunda
 umbrella | ಛತ್ರಿ | Chatri
-door | ಬಾಗಿಲು | Bāgilu
+door | ಬಾಗಿಲು | Bagilu
 broom | ಬ್ರೂಮ್ |Broom
 window | ಕಿಟಕಿ |  Kitaki
 sofa | ಸೋಫಾ |Sofa
@@ -57,9 +57,9 @@ basket | ಬುಟ್ಟಿ||Butti
 dustbin | ಕಸದ ತೊಟ್ಟಿ |Kasada totti
 bed-lamp | ಬೆಡ್ ಲ್ಯಾಂಪ್ |Bed Liamp
 handbag | ಕೈಚೀಲ | Kaicila
-steps | ಮೆಟ್ಟಿಲುಗಳು|Meṭṭilugaḷu
+steps | ಮೆಟ್ಟಿಲುಗಳು|Mettilugalu
 curtains |ಕರ್ಟೈನ್ಸ್| Curtains
-watertank | ನೀರಿನ ಟ್ಯಾಂಕ್|Nīrina ṭyāṅk
+watertank | ನೀರಿನ ಟ್ಯಾಂಕ್|Nirina tyank
 air-conditioner | ಹವಾ ನಿಯಂತ್ರಣ ಯಂತ್ರ| Hava niyantrana yantra
 washing-machine | ಬಟ್ಟೆ ಒಗೆಯುವ ಯಂತ್ರ |Batte ogeyuva yantra`,
     },
@@ -79,7 +79,7 @@ shirt | ಅಂಗಿ |Angi
 jacket | ಜಾಕೆಟ್ |Jacket
 hat | ಟೋಪಿ | topi
 trousers | ಪ್ಯಾಂಟ್ |pyant
-saree | ಸೀರೆ|Sīre`,
+saree | ಸೀರೆ|Sire`,
     },
     {
       id: "school",
@@ -87,7 +87,7 @@ saree | ಸೀರೆ|Sīre`,
 pencil| ಪೆನ್ಸಿಲ್|Pencil
 ruler|ತಕ್ಕಡಿ |takkadi
 blackboard | ಕಪ್ಪು ಹಲಗೆ|Kappu halage
-chalk | ಸೀಮೆಸುಣ್ಣ|Sīmesuṇṇa
+chalk | ಸೀಮೆಸುಣ್ಣ|Simesunna
 nib | ಪೆನ್ ನಿಬ್|Pen nib
 eraser|ಎರೇಸರ್|Eraser
 scissors|ಕತ್ತರಿ |Kattari
@@ -95,12 +95,12 @@ sharpener|ಶಾರ್ಪ್ನರ್ |Sharpener
 calculator| ಕ್ಯಾಲ್ಕುಲೇಟರ್ |Calculator
 book| ಪುಸ್ತಕ |Pustaka
 ink | ಶಾಯಿ |sayi
-globe | ಗ್ಲೋಬ್|Glōb
+globe | ಗ್ಲೋಬ್|Globe
 schoolbag| ಶಾಲಾ ಚೀಲ |sala cila
 waterbottle| ನೀರಿನ ಶೀಶೆ | Nirina sise
 color-pencils| ಬಣ್ಣದ ಪೆನ್ಸಿಲ್ಗಳು |Bannada pensilgalu
 crayons |ಕ್ರಯೋನ್ಗಳು | Krayongalu
-notebook |ನೋಟ್ಬುಕ್|Nōṭbuk
+notebook |ನೋಟ್ಬುಕ್|Notbuk
 writingpad | ಬರೆಯುವ ಒತ್ತಿಗೆ|Bareyuva ottige`,
     },
     {
@@ -115,7 +115,6 @@ butter|ಬೆಣ್ಣೆ|Benne
 plate |ತಟ್ಟೆ | Tatte
 tap | ಟ್ಯಾಪ್ ಮಾಡಿ| tyap māḍi
 lid | ಮುಚ್ಚಳ |Mucchala
-
 blender | ಬ್ಲೆಂಡರ್ | Blender
 grinder | ಗ್ರೈಂಡರ್|Grinder
 cheese | ಗಿಣ್ಣು |ginnu
@@ -129,10 +128,10 @@ milk|ಹಾಲು |halu
 fruits|ಹಣ್ಣುಗಳು|hannugalu 
 ice-cream |ಐಸ್ ಕ್ರೀಮ್ |Ice cream
 meat | ಮಾಂಸ |Mansa
-egg | ಮೊಟ್ಟೆ|Moṭṭe
+egg | ಮೊಟ್ಟೆ|Motte
 salt | ಉಪ್ಪು |Uppu
 french-fry | ಫ್ರೆಂಚ್ ಫ್ರೈ|French Fry
-soft-drink |ತಂಪು ಪಾನೀಯ|Tampu pānīya
+soft-drink |ತಂಪು ಪಾನೀಯ|Tampu paniya
 pizza | ಪಿಜ್ಜಾ|Pizza
 sweets | ಸಿಹಿತಿಂಡಿಗಳು | Sihitindigalu
 bread | ಬ್ರೆಡ್ |Bread

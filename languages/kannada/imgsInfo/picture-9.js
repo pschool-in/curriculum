@@ -12,27 +12,33 @@ export default {
   speaker|Speaker
   tablet|Tablet
   torch|ಟಾರ್ಚ್ | Torch
-  web-camera |ವೆಬ್ ಕ್ಯಾಮರಾ | Web Camera`,
+  web-camera |ವೆಬ್ ಕ್ಯಾಮರಾ | Web Camera
+  radio | ರೇಡಿಯೋ|Radio
+  tv | ದೂರದರ್ಶನ|Duradarsana
+laptop | ಲ್ಯಾಪ್ಟಾಪ್|Laptop
+computer | ಕಂಪ್ಯೂಟರ್|Computer
+keyboard | ಕೀಬೋರ್ಡ್|Keyboard`,
       },
       {
         id: "others",
-        text: `knight | ಸರ್ದಾರ್ | Sardār
-  chariot | ರಥ | Ratha
-  horse-carriage | Horse Carriage
-  yarn-ball | ನೂಲು ಚೆಂಡು | Nūlu ceṇḍu
+        text: `angel |ಏಂಜೆಲ್| Angel
+        alien | Alien|Alien
+        knight | ಸರ್ದಾರ್ | Sardar
+        warrior | ಯೋಧ|Yodha
+      yarn-ball | ನೂಲು ಚೆಂಡು | Nulu cendu
   bow | ಬಿಲ್ಲು |Billu
-  arrow | ಬಾಣ |Bāṇa
+  arrow | ಬಾಣ |Bana
   fountain | ಕಾರಂಜಿ |Karanji
-  pouch | ಚೀಲ | Cīla
+  pouch | ಚೀಲ | Cila
   trolley | ಟ್ರಾಲಿ | Trolley
-  whistle |ಶಿಳ್ಳೆ ಹೊಡೆಯಿರಿ | Śiḷḷe hoḍeyiri
-  twig | ಶಾಖೆ |Śākhe
-  palanquin | ಪಲ್ಲಕ್ಕಿ | Pallakki
-  medicine | ಔಷಧಿ | Auṣadhi
-  conch| ಶಂಖ |Śaṅkha
+  whistle |ಶಿಳ್ಳೆ ಹೊಡೆಯಿರಿ | sille hodeyiri
+  twig | ಶಾಖೆ |sakhe
+   medicine | ಔಷಧಿ | Ausadhi
+  conch| ಶಂಖ |sankha
   toothbrush | ಟೂತ್ ಬ್ರಷ್|  Toothbrush
   chocolate |ಚಾಕೊಲೇಟ್ | Chocolate
-  toothpaste | ಟೂತ್ಪೇಸ್ಟ್ |Toothpaste`,
+  toothpaste | ಟೂತ್ಪೇಸ್ಟ್ |Toothpaste
+  trident | ತ್ರಿಶೂಲ|Trisula`,
       },
   
       {
@@ -40,7 +46,9 @@ export default {
         text: `daffodil | ಡ್ಯಾಫಡಿಲ್| Daffodil
   gulmohar | ಗುಲ್ಮೊಹರ್|Gulmohar
   lily | ಲಿಲಿ |lili
-  pansy | ಪ್ಯಾನ್ಸಿ |Pyānsi
+  bougainvillea | Bougainvillea
+december | December
+  pansy | ಪ್ಯಾನ್ಸಿ |Pyansi
   poppy | Poppy
   daisy | 	ಡೈಸಿ  |daisi
   jasmine |ಮಲ್ಲಿಗೆ | mallige

@@ -9,10 +9,10 @@ export default {
             octopus| ಆಕ್ಟೋಪಸ್| Octopus
             wolf| ತೋಳ| Tola
             lizard| ಹಲ್ಲಿ|Halli
-            termite | Termite
+            termite | ಗೆದ್ದಲು|Geddalu
             cockroach| ಜಿರಳೆ| Jirale
             garden-lizard| ತೋಟದ ಹಲ್ಲಿ | Totada halli
-            winged-termites | Winged Termite
+            winged-termites | ರೆಕ್ಕೆಯ ಗೆದ್ದಲು|Rekkeya geddalu
 rabbit| ಮೊಲ| mola
 leopard| ಚಿರತೆ| Cirate
 dragonfly |ಡ್ರಾಗನ್ಫ್ಲೈ|Dragonfly
@@ -33,8 +33,8 @@ python | ಹೆಬ್ಬಾವು | Hebbavu
 bison | ಕಾಡೆಮ್ಮೆ | Kademme
 chameleon | ಗೋಸುಂಬೆ |Gosumbe
 porcupine | ಮುಳ್ಳುಹಂದಿ | Mulluhandi
-tigerfish | Tigerfish
-ladybug | Ladybug
+tigerfish | ಹುಲಿಮೀನು|Huliminu
+ladybug | ಲೇಡಿಬಗ್|Ladybug
 seahorse | ಸಮುದ್ರಕುದುರೆ| Samudrakudure
 hamster | ಹ್ಯಾಮ್ಸ್ಟರ್ |Hamster
 mole | Mole
@@ -48,15 +48,15 @@ starfish | ಸ್ಟಾರ್ಫಿಶ್ |Sṭārphiś`,
     {
       id: "birds",
       text: `hornbill | ಹಾರ್ನ್ ಬಿಲ್ | Hārn bil
-            cuckoo | ಕೋಗಿಲೆ |Kōgile
+            cuckoo | ಕೋಗಿಲೆ |Kogile
             pheasant |ಫೆಸೆಂಟ್ | Pheasant
             falcon | ಗಿಡುಗ| ಗಿಡುಗ
             swan | ಸ್ವಾನ್ |Swan
             bulbul | ಬುಲ್ಬುಲ್ |Bulbul
-            spotted-dove | ಮಚ್ಚೆಯುಳ್ಳ ಪಾರಿವಾಳ| Macceyuḷḷa pārivāḷa
+            spotted-dove | ಮಚ್ಚೆಯುಳ್ಳ ಪಾರಿವಾಳ| Macceyulla parivala
 pelican | ಕೊಕ್ಕರೆ|Kokkare
 hummingbird | ಹಮ್ಮಿಂಗ್ ಬರ್ಡ್| hummingbird
-robin | ರಾಬಿನ್ |Rābin
+robin | ರಾಬಿನ್ |Robin
 swallow | Swallow
 blue-jay | Blue jay
 seagull | ಕಡಲ ಹಕ್ಕಿ |Kaḍala hakki

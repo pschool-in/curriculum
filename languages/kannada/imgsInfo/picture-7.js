@@ -4,43 +4,49 @@ export default {
   list: [
     {
       id: "fruits",
-      text: `star-fruit | ನಕ್ಷತ್ರ ಹಣ್ಣು |Nakṣatra haṇṇu
-dragon-fruit | ಡ್ರ್ಯಾಗನ್ ಹಣ್ಣು |Ḍryāgan haṇṇu
+      text: `star-fruit | ನಕ್ಷತ್ರ ಹಣ್ಣು |Naksatra hannu
+dragon-fruit | ಡ್ರ್ಯಾಗನ್ ಹಣ್ಣು |dryagan hannu
 sugarcane | ಕಬ್ಬು|Kabbu
 peach |ಪೀಚ್| Peach
 sweet-potato | ಗೆಣಸು|Genasu
-jamun | ಕಾದಂಬರಿ ಹಣ್ಣು|Kādambari haṇṇu
+jamun | ಕಾದಂಬರಿ ಹಣ್ಣು|Kadambari hannu
 pear |	ಪೇರಳೆ ಹಣ್ಣು |Perale hannu
 water-chestnut | ನೀರಿನ ಚೆಸ್ಟ್ನಟ್| Nirina chestnat
-jujube | Jujube
+jujube | ಬೋರೆಹಣ್ಣು|borehannu
 sapotta |ಸಪೋಟಾ| Sapotta
 tapioca | ಟಪಿಯೋಕಾ |Tapioca
-blueberry | ಬೆರಿಹಣ್ಣಿನ |Berihaṇṇina
-passion-fruit | ಪ್ಯಾಶನ್ ಹಣ್ಣು |Pyāśan haṇṇu`,
+blueberry | ಬೆರಿಹಣ್ಣಿನ |Berihannina
+wood-apple | ಬೇಲದ ಹಣ್ಣು|Belada hannu
+gooseberry | ನೆಲ್ಲಿಕಾಯಿ|Nellikayi
+passion-fruit | ಪ್ಯಾಶನ್ ಹಣ್ಣು |Pyasan hannu`,
     },
     {
       id: "vegetables",
-      text: `chickpea | ಕಡಲೆ | Kaḍale
+      text: `pepper | ಮೆಣಸು|Menasu
+      wheat | ಗೋಧಿ|Godhi
+      paddy | ಭತ್ತ|Bhatta
+      rice | ಅಕ್ಕಿ|Akki
+      chickpea | ಕಡಲೆ | Kadale
 mustard-greens | ಸಾಸಿವೆ ಸೊಪ್ಪು |Sasive soppu
 turmeric | 	ಅರಿಶಿನ | Arisina
 turnip | ನವಿಲುಕೋಸು | Navilukosu
 fenugreek | ಮೆಂತ್ಯ |Mentya
-tamarind | ಹುಣಸೆಹಣ್ಣು|Huṇasehaṇṇu
+tamarind | ಹುಣಸೆಹಣ್ಣು|Hunasehannu
 elephant-yam | ಸುವರ್ಣ ಗೆಡ್ದೆ |suvarna Gedde
 ashgourd | ಬೂದಿ ಸೋರೆಕಾಯಿ |Budi sorekayi
-broad-beans |ಅವರೆಕಾಯಿ|Avarekāyi
+broad-beans |ಅವರೆಕಾಯಿ|Avarekayi
 snake-gourd | ಪಡವಲಕಾಯಿ|Padavala kaayi
-banana-flower | ಬಾಳೆ ಹೂವು |Bāḷe hūvu
+banana-flower | ಬಾಳೆ ಹೂವು |Bale huvu
 cluster-beans | ಚವಳಿಕಾಯಿ |Chavalikai
 kohlrabi | Kohlrabi
-spring-onion | ಈರುಳ್ಳಿ ಎಲೆ | Īruḷḷi ele
+spring-onion | ಈರುಳ್ಳಿ ಎಲೆ | irulli ele
 banana-stem | ಬಾಳೆ ದಿಂಡು|Bale Dindu
-drumstick-leaves | ಮೊರಿಂಗಾ ಎಲೆಗಳು|Moriṅgā elegaḷu
+drumstick-leaves | ಮೊರಿಂಗಾ ಎಲೆಗಳು|Moringa elegalu
 raw-banana | ಬಾಳೇಕಾಯಿ |Baale kaayi
-tulsi | ತುಳಸಿ |Tuḷasi
+tulsi | ತುಳಸಿ |Tulasi
 bottlegourd | ಸೋರೆಕಾಯಿ |Sore kaaye
 ivygourd | ತೊಂಡೆಕಾಯಿ|Tondekayi
-ridgegourd | ಹೀರೆಕಾಯಿ| Hīrekāyi`,
+ridgegourd | ಹೀರೆಕಾಯಿ| Hirekayi`,
     },
   ],
 };
