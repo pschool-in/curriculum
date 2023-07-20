@@ -3,98 +3,98 @@ export default {
   list: [
     {
       id: 'nature',
-      text: `sun |Sun
-  moon|Moon 
-  star|Star 
-  world|World
-  bird|Bird 
-  rain|Rain 
-  stone|Stone
-  pebbles | Pebbles
-  leaf|Leaf 
-  tree | Tree
-  log | Log
-  nest |Nest 
-  dew | Dew
-  waterfall |Waterfall 
-  rainbow |Rainbow 
-  cloud | Cloud
-  lightning | Lightning
-  web | Web
-  shell | Shell
-  banyan | Banyan Tree
-  bamboo-tree | Bamboo Tree
-  banana-tree | Banana Tree
-  bananaleaf | Banana Leaf
-  coconut-tree | Coconut Tree
-  coconutleaf | Coconut Leaf
-  mangoleaf | Mango Leaf
-  palm-tree | Palm Tree
-  neemleaf | Neem Leaf`
+      text: `sun |সূর্য 
+moon|চাঁদ|Cām̐da 
+star|তারা 
+world|পৃথিবী
+bird|পাখি
+rain|বৃষ্টি
+stone|পাথর|pāthara
+pebbles |নুড়ি|nuṛi
+leaf|পাতা|pātā
+tree | গাছ|gācha
+log | Log
+nest |Nest 
+dew | শিশির|śiśira
+waterfall | জলপ্রপাত |jalaprapāta
+rainbow |রংধনু|randhanu
+cloud | মেঘ|mēgha
+lightning | বজ্র|bajra
+web | ওয়েব|ōẏēba
+shell | shell
+banyan | বটগাছ|baṭagācha
+bamboo-tree | বাঁশ গাছ| bām̐śa gācha
+banana-tree |কলা গাছ|kalā gācha
+bananaleaf | কলা পাতা| kalā pātā
+coconut-tree | নারিকেল গাছ|nārikēla gācha
+coconutleaf | নারকেল পাতা|nārakēla pātā
+mangoleaf | আমের পাতা|āmēra pātā
+palm-tree | পাম গাছ|pāma gācha
+neemleaf |  নিম পাতা|nima pātā`
     },
     {
       id: 'body-parts',
-      text: `ear |Ear
-  eye |Eye
-  foot |Foot
-  hair|Hair
-  hand|Hand
-  mouth|Mouth
-  nose| Nose
-  tooth|Tooth
-  forehead | Forehead
-  mustache | Mustache
-  beard | Beard
-  ankle | Ankle
-  elbow | Elbow
-  knee | Knee
-  shoulder | Shoulder
-  wrist | Wrist
-  thumb | Thumb
-  cheek | Cheek
-  chin | Chin
-  nails | Nails`
+      text: `ear |কান
+eye |নয়ন
+foot |পা
+hair|চুল
+hand|হাত
+mouth|মুখ
+nose| নাক
+tooth|দাঁত
+forehead | কপাল| kapāla
+mustache |  গোঁফ|gōm̐pha
+beard | দাড়ি|dāṛi
+ankle | গোড়ালি|gōṛāli
+elbow | কনুই|kanu'i
+knee | হাঁটু|hām̐ṭu
+shoulder | কাঁধ|kām̐dha
+wrist | কব্জি|kabji
+thumb | থাম্ব|thāmba
+cheek |গাল|gāla
+chin | থুতনি|thutani
+nails |নখ|nakha`
     },
     {
       id: 'flowers',
-      text: `rose | Rose
-          lotus | Lotus
-          sunflower | Sunflower
-          marigold | Marigold
-          hibiscus | Hibiscus
-  jasmine | Jasmine
-  tulip | Tulip
-  zinnia | Zinnia`
+      text: `rose | গোলাপ
+lotus | পদ্ম 
+sunflower | সূর্যমুখী
+marigold | গাঁদা
+hibiscus | জবা
+jasmine | জুঁই
+tulip | টিউলিপ
+zinnia | জিনিয়া`
     },
     {
       id: 'others',
-      text: `bell | Bell
-  brush| Brush
-  bone| Bone
-  box | Box
-  coin | Coin
-  top | Top
-  balloon | Balloon
-  brick | Brick
-  rooftile| Roof Tile
-  stick | Stick
-  ring| Ring
-  drums| Drum
-  food| Food
-  king| King
-  queen | Queen
-  kite| Kite
-  ladder| Ladder
-  quill | Quill
-    oar | Oar
-    gun | Gun
-  wheel| Wheel
-  park | Park
-  garden | Garden
-  sculpture | Sculpture
-  statue | Statue
-  clay-lamp | Clay Lamp
-  clay-stove | Clay Stove`
+      text: `bell | ঘণ্টা
+brush| Brush
+bone| হাড়
+box | Box
+coin | মুদ্রা| mudrā
+top | Top
+balloon | Balloon
+brick | ইট|iṭa
+rooftile|  ছাদ|chāda 
+stick | লাঠি| lāṭhi
+ring| আংটি
+drums| ঢাক
+food| খাদ্য|Khādya
+king| রাজা
+queen | রাণী|Rāṇī
+kite| ঘুড়ি
+ladder| মই
+quill | Quill
+oar | Oar
+gun | বন্দুক|banduka
+wheel| চাকা
+park | Park
+garden | বাগান|bāgāna
+sculpture | ভাস্কর্য| bhāskarya
+statue | মূর্তি|mūrti
+clay-lamp | মাটির প্রদীপ|māṭira pradīpa
+clay-stove | মাটির চুলা|māṭira culā`
     }
   ]
 };

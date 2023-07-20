@@ -5,62 +5,62 @@ export default {
     {
       id: 'fruits',
       label: 'Fruits',
-      text: `apple | Apple 
-  grapes | Grapes
-  banana | Banana
-  cherry | Cherry
-  avocado | Avocado
-  strawberry | Strawberry
-  guava | Guava
-  jackfruit | Jackfruit
-  mango | Mango
-  orange | Orange
-  
-  papaya | Papaya
-  pineapple | Pineapple
-  watermelon | Watermelon
-  pomegranate| Pomegranate
-  fig| Fig
-  custard-apple| Custard Apple
-  plum| Plum
-  dates| Dates
-  muskmelon| Muskmelon`
+      text: `apple | আপেল
+grapes | আঙুর
+banana | কলা
+cherry | Cherry
+avocado | Avocado
+strawberry | Strawberry
+guava | পেয়ারা
+jackfruit | কাঁঠাল
+mango | আম
+orange | কমলা লেবু
+
+papaya | পেঁপে
+pineapple | আনারস
+watermelon | তরমুজ
+pomegranate| বেদানা
+fig| ডুমুর
+custard-apple| আতা
+plum| Plum
+dates| খেজুর
+muskmelon| খরবুজ`
     },
     {
       id: 'vegetables',
-      text: `carrot | Carrot
-  beetroot | Beetroot
-  onion | Onion
-  tomato | Tomato
-  potato | Potato
-  cabbage | Cabbage
-  corn | Corn
-  cucumber |Cucumber
-  garlic|Garlic
-  ginger|Ginger
-  
-  cauliflower| Cauliflower
-  pumpkin| Pumpkin
-  almond| Almond
-  beans| Beans
-  bitter-gourd| Bitter Gourd
-  brinjal| Brinjal
-  capsicum| Capsicum
-  cashewnut| Cashewnut
-  chilli| Chilli
-  coconut | Coconut
-  lemon | Lemon
-  
-  corianderleaf | Coriander Leaf
-  curryleaf | Curry Leaf
-  drumstick| Drumstick
-  greenpeas| Green Peas
-  ladies-finger | Ladies Finger
-  mintleaf| Mintleaf
-  peanut| Peanut
-  radish| Radish
-  spinach | Spinach
-  vegetables | Vegetables`
+      text: `carrot | গাজর
+beetroot | বিট
+onion | পেঁয়াজ
+tomato | টমেটো
+potato | আলু
+cabbage | বাঁধাকপি
+corn | ভুট্টা
+cucumber |শসা
+garlic|রসুন
+ginger|আদা
+
+cauliflower| ফুলকপি
+pumpkin| কুমড়
+almond| বাদাম
+beans| Beans
+bitter-gourd| করলা
+brinjal| বেগুন
+capsicum| Capsicum
+cashewnut| কাজুবাদাম
+chilli| লঙ্কা
+coconut | নারকেল
+lemon | লেবু|Lēbu
+
+corianderleaf | ধনেপাতা 
+curryleaf | কারিপাতা 
+drumstick| সজনেডাঁটা 
+greenpeas| মটরশুটি
+ladies-finger | ভিন্ডি 
+mintleaf| পুদিনা
+peanut| চিনাবাদাম
+radish| মূলো 
+spinach | পালং শাক
+vegetables | শাকসবজি|Śākasabaji`
     }
   ]
 };
