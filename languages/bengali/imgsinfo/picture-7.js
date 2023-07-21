@@ -1,9 +1,10 @@
 export default {
-  id: 'picture-6',
-  label: 'More Fruits and Vegetables',
+  id: 'picture-7',
+  label: 'আরো ফল এবং সবজি|More Fruits and Vegetables',
   list: [
     {
-      id: 'fruits',
+      id: 'fruits-2',
+      label: 'আরো ফল |More Fruits ',
       text: `star-fruit | Star fruit
 dragon-fruit | Dragon fruit
 sugarcane | আখ|ākha
@@ -21,7 +22,8 @@ gooseberry | Gooseberry
 passion-fruit | Passion fruit`
     },
     {
-      id: 'vegetables',
+      id: 'vegetables-2',
+      label: 'আরো সবজি|More Vegetables',
       text: `pepper | মরিচ |marica
 wheat | গম | gama 
 paddy | ধান | dhāna 

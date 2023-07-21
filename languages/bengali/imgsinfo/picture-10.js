@@ -1,10 +1,10 @@
 export default {
   id: 'picture-10',
-  label: 'Social and Science',
+  label: 'সামাজিক ও বিজ্ঞান|Social and Science',
   list: [
     {
       id: 'social',
-      label: 'Social Science',
+      label: 'সামাজিক বিজ্ঞান|Social Science',
       text: `mountain | পর্বত |parbata
 seashore |  সমুদ্রতটে | samudrataṭē
 forest | বন | bana
@@ -49,7 +49,7 @@ pillar | স্তম্ভ | stambha`
     },
     {
       id: 'organs',
-      label: 'Organs',
+      label: 'অঙ্গ|Organs',
       text: `heart|হৃদয় |Hr̥daẏa
 brain|মস্তিষ্ক |mastiṣka
 lungs|শ্বাসযন্ত্র |śbāsayantra
@@ -59,7 +59,7 @@ kidney`
     },
     {
       id: 'teeth',
-      label: 'Teeth',
+      label: 'দাঁত|Teeth',
       text: `incisor | Incisor
 canine | Canine
 premolar | Premolar
@@ -67,7 +67,7 @@ molar | Molar`
     },
     {
       id: 'science',
-      label: 'Science',
+      label: 'বিজ্ঞান|Science',
       text: `windmill | Windmill
 solar-panel | Solar Panel
 bridge | সেতু |sētu

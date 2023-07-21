@@ -1,10 +1,10 @@
 export default {
   id: 'picture-5',
-  label: 'Action and Sports',
+  label: 'অ্যাকশন এবং স্পোর্টস|Action and Sports',
   list: [
     {
       id: 'action',
-      label: 'Actions',
+      label: 'অ্যাকশন|Actions',
       text: `drink| পান|Pāna
 eat| খাওয়া|khā'ōẏā 
 bend | মোড়| mōṛa 
@@ -38,7 +38,7 @@ sleep |  ঘুম|ghuma`
     },
     {
       id: 'sports',
-      label: 'Sports',
+      label: 'স্পোর্টস|Sports',
       text: `bat2 | Bat
 racket | Racket
 seesaw | Seesaw
