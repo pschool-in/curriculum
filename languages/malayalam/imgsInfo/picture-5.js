@@ -1,10 +1,10 @@
 export default {
   id: 'picture-5',
-  label: 'Action and Sports',
+  label: 'പ്രവർത്തനങ്ങളും കായികവും|Action and Sports',
   list: [
     {
       id: 'action',
-      label: 'പ്രവര്‍ത്തികള്‍',
+      label: 'പ്രവര്‍ത്തികള്‍|actions',
       text: `drink| കുടിക്കുക|kudikukka
 eat| കഴിക്കുക|kazhikukka
 bend | വളയുക|valayuka
@@ -38,7 +38,7 @@ sleep | ഉറങ്ങുക|uranguka`
     },
     {
       id: 'sports',
-      label: 'കായികമല്‍സരങ്ങള്‍',
+      label: 'കായികമല്‍സരങ്ങള്‍|sports',
       text: `bat2 | ബാറ്റ്‌|baat
 racket | Racket
 seesaw | Seesaw

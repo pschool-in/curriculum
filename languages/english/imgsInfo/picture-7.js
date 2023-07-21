@@ -3,7 +3,8 @@ export default {
   label: 'More Fruits and Vegetables',
   list: [
     {
-      id: 'fruits',
+      id: 'fruits-2',
+      label: 'More Fruits',
       text: `star-fruit | Star fruit
 dragon-fruit | Dragon fruit
 sugarcane | Sugarcane
@@ -21,7 +22,8 @@ gooseberry | Gooseberry
 passion-fruit | Passion fruit`
     },
     {
-      id: 'vegetables',
+      id: 'vegetables-2',
+      label: 'More Vegetables',
       text: `pepper | Pepper
       wheat | Wheat
       paddy | Paddy

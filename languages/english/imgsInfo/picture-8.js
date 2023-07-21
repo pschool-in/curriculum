@@ -1,9 +1,10 @@
 export default {
-  id: "picture-7",
-  label: "Vehicles and Jobs",
+  id: 'picture-7',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: "vehicles",
+      id: 'vehicles',
+      label: 'Vehicles',
       text: `aeroplane | Aeroplane
         boat | Boat
         bus | Bus
@@ -31,10 +32,11 @@ spaceship | Spaceship
 bullock-cart | Bullock Cart
 horse-carriage | Carriage
 palanquin | Palanquin
-chariot | Chariot`,
+chariot | Chariot`
     },
     {
-      id: "jobs",
+      id: 'jobs',
+      label: 'Jobs',
       text: `astronaut | Astronaut
         clown | Clown
         fisherman | Fisherman
@@ -66,7 +68,7 @@ pilot | Pilot
 plumber | Plumber
 scientist | Scientist
 seller | Seller
-software-developer | Software Developer`,
-    },
-  ],
+software-developer | Software Developer`
+    }
+  ]
 };

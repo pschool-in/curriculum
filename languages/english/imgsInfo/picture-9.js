@@ -4,6 +4,7 @@ export default {
   list: [
     {
       id: 'gadgets',
+      label: 'Gadgets',
       text: `camera |Camera
 headphone|Headphone
 pendrive|Pendrive
@@ -20,7 +21,8 @@ computer | Computer
 keyboard | Keyboard`
     },
     {
-      id: 'others',
+      id: 'others-2',
+      label: 'Others',
       text: `angel | Angel
       alien | Alien
 knight | Knight
@@ -45,7 +47,8 @@ trident | Trident`
     },
 
     {
-      id: 'flowers',
+      id: 'flowers-2',
+      label: 'More Flowers',
       text: `daffodil | Daffodil
 gulmohar | Gulmohar
 lily | Lily
