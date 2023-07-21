@@ -1,9 +1,10 @@
 export default {
-  id: "picture",
+  id: 'picture',
+  label: 'Animals and Birds',
   list: [
     {
-      id: "animals",
-      label: "Animals",
+      id: 'animals',
+      label: 'Animals',
       text: `cat | Cat
 dog | Dog
 goat| Goat
@@ -46,11 +47,11 @@ goldfish | Goldfish
 spider | Spider
 panda | Panda
 giraffe| Giraffe
-kangaroo| Kangaroo`,
+kangaroo| Kangaroo`
     },
     {
-      id: "birds",
-      label: "Birds",
+      id: 'birds',
+      label: 'Birds',
       text: `crow|Crow
 dove|Dove
 duck|Duck
@@ -71,7 +72,7 @@ owl| Owl
 rooster| Rooster
 vulture| Vulture
 woodpecker| Woodpecker
-koel | Koel`,
-    },
-  ],
+koel | Koel`
+    }
+  ]
 };

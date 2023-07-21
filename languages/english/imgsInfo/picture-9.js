@@ -1,5 +1,5 @@
 export default {
-  id: 'picture-8',
+  id: 'picture-9',
   label: 'More Images',
   list: [
     {

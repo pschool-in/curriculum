@@ -1,9 +1,10 @@
 export default {
   id: 'picture-8',
-  label: 'Vehicles and Jobs',
+  label: 'वाहने आणि नोकऱ्या|Vehicles and Jobs',
   list: [
     {
       id: 'vehicles',
+      label: 'वाहने |Vehicles ',
       text: `aeroplane | विमान|Vimāna
         boat | बोट |boat
         bus | बस|bus
@@ -33,6 +34,7 @@ chariot | Chariot`
     },
     {
       id: 'jobs',
+      label: 'नोकऱ्या|Jobs',
       text: `astronaut | अंतराळवीर|Antarāḷavīra
         clown | जोकर|Jōkara
         fisherman | मच्छीमार|Macchīmāra

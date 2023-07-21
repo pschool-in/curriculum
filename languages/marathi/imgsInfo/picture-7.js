@@ -1,9 +1,10 @@
 export default {
-  id: 'picture-6',
-  label: 'More Fruits and Vegetables',
+  id: 'picture-7',
+  label: 'अधिक फळे आणि भाज्या|More Fruits and Vegetables',
   list: [
     {
-      id: 'fruits',
+      id: 'fruits-2',
+      label: 'अधिक फळे |More Fruits ',
       text: `star-fruit | Star fruit|
 dragon-fruit | Dragon fruit|
 sugarcane | ऊस|Ūsa
@@ -21,7 +22,8 @@ gooseberry | Gooseberry
 passion-fruit | आवड-फळ|Āvaḍa-phaḷa`
     },
     {
-      id: 'vegetables',
+      id: 'vegetables-2',
+      label: 'अधिक भाज्या|More Vegetables',
       text: `pepper | मिरी|Mirī
       wheat | गहू|Gahū
       paddy | भात|Bhāta

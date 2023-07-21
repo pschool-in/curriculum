@@ -1,5 +1,5 @@
 export default {
-  id: 'picture-6',
+  id: 'picture-7',
   label: 'More Fruits and Vegetables',
   list: [
     {

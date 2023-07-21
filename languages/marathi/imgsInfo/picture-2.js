@@ -1,10 +1,10 @@
 export default {
   id: 'picture-2',
-  label: 'Fruits and Vegetables',
+  label: 'फळे आणि भाज्या|Fruits and Vegetables',
   list: [
     {
       id: 'fruits',
-      label: 'Fruits',
+      label: 'फळे|Fruits',
       text: `apple | सफरचंद|Sapharacanda
 grapes | द्राक्षे|Drākṣē
 banana | केळी|Kēḷī
@@ -28,6 +28,7 @@ muskmelon|कस्तुरी |Kasturī`
     },
     {
       id: 'vegetables',
+      label: 'भाज्या|Vegetables',
       text: `carrot | गाजर| Gājara
 beetroot | Beetroot
 onion | कांदा| Kāndā

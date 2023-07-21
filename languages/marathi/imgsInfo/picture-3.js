@@ -1,9 +1,10 @@
 export default {
   id: 'picture-3',
+  label: 'निसर्ग आणि इतर|Nature and Others',
   list: [
     {
       id: 'nature',
-      label: 'Nature',
+      label: 'निसर्ग|Nature',
       text: `sun |सूर्य|Sūrya
 moon|चंद्र|Candra
 star|तारा|Tārā
@@ -35,7 +36,7 @@ neemleaf | लीफ घ्या|Līpha ghyā`
     },
     {
       id: 'body-parts',
-      label: 'Body Parts',
+      label: 'शरीराचे अवयव|Body Parts',
       text: `ear |कान|Kāna
 eye |डोळा|Ḍōḷā
 foot |पाऊल|Pā'ūla
@@ -59,7 +60,7 @@ nails | नखे|Nakhē`
     },
     {
       id: 'flowers',
-      label: 'Flowers',
+      label: 'फुले|Flowers',
       text: `rose | गुलाब|Gulāba
         lotus | कमळ|Kamaḷa
         sunflower | सूर्यफूल|Sūryaphūla
@@ -71,7 +72,7 @@ zinnia | Zinnia`
     },
     {
       id: 'others',
-      label: 'Others',
+      label: 'इतर|Others',
       text: `bell | घंटा|Ghaṇṭā
 brush| Brush
 bone| हाड|Hāḍa
