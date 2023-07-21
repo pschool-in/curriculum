@@ -5,75 +5,75 @@ export default {
     {
       id: 'social',
       label: 'Social Science',
-      text: `mountain | Mountain
-        seashore | Seashore
-        forest | Forest
-        desert | Desert
-        river | River
-        grassland | Grassland
-        ocean | Ocean
-        polar | Polar
-        valley | Valley
-        volcano | Volcano
-        apartment | Apartment
-          bamboo-house | Bamboo House
-          hut | Hut
-          igloo | Igloo
-          tent-house | Tent House
-          tree-house | Tree House
-          road | Road
-          railway | Railway
-          well | Well
-          airport | Airport
-          bank | Bank
-          classroom | Class Room
-          factory | Factory
-          fort | Fort
-          gopuram 
-          harbour | Harbour
-          hospital | Hospital
-          library | Library
-          lighthouse | Light House
-          map | Map
-          office | Office
-          palace | Palace
-          parkinglot | Parking Lot
-          restaurant | Restaurant
-          stage | Theatre
-          supermarket | Super Market
-          escalator | Escalator
-          lift | Lift
-          petrolbunk | Petrol Bunk
-          footpath | Foot Path
-          pillar | Pillar`
+      text: `mountain | পর্বত |parbata
+seashore |  সমুদ্রতটে | samudrataṭē
+forest | বন | bana
+desert |  মরুভূমি | marubhūmi 
+river | নদী |nadī 
+grassland | তৃণভূমি | tr̥ṇabhūmi
+ocean |  মহাসাগর |mahāsāgara
+polar | মেরু |mēru
+valley | উপত্যকা |  upatyakā
+volcano | আগ্নেয়গিরি | āgnēẏagiri
+apartment | Apartment
+bamboo-house | বাঁশের ঘর |bām̐śēra ghara 
+hut | কুঁড়েঘর |kum̐ṛēghara 
+igloo | Igloo
+tent-house | তাঁবু ঘর | tām̐bu ghara 
+tree-house | গাছের ঘর |  gāchēra ghara 
+road | রাস্তা |rāstā
+railway | Railway
+well | ভাল | bhāla 
+airport |  বিমানবন্দর | bimānabandara
+bank | Bank
+classroom | শ্রেণীকক্ষ |  śrēṇīkakṣa
+factory | কারখানা | kārakhānā
+fort | দুর্গ |  durga
+gopuram 
+harbour | পোতাশ্রয় | pōtāśraẏa
+hospital | Hospital
+library | Library
+lighthouse | বাতিঘর | bātighara 
+map | মানচিত্র | mānacitra
+office |দপ্তর |daptara
+palace | প্রাসাদ |prāsāda 
+parkinglot | Parking Lot
+restaurant | Restaurant
+stage | মঞ্চ | uttōlana
+supermarket | Super Market
+escalator | Escalator
+lift | Lift
+petrolbunk | Petrol Bunk
+footpath | Foot Path
+pillar | স্তম্ভ | stambha`
     },
     {
       id: 'organs',
       label: 'Organs',
-      text: `heart
-        brain
-        lungs
-        stomach
-        liver
-        kidney`
+      text: `heart|হৃদয় |Hr̥daẏa
+brain|মস্তিষ্ক |mastiṣka
+lungs|শ্বাসযন্ত্র |śbāsayantra
+stomach|পেট |pēṭa
+liver|যকৃত |yakr̥ta
+kidney`
     },
     {
       id: 'teeth',
       label: 'Teeth',
       text: `incisor | Incisor
-        canine | Canine
-        premolar | Premolar
-        molar | Molar`
+canine | Canine
+premolar | Premolar
+molar | Molar`
     },
     {
       id: 'science',
       label: 'Science',
       text: `windmill | Windmill
-        solar-panel | Solar Panel
-        bridge | Bridge
-        dam | Dam
-        water-tower | Water Tower
-        electricpole | Electric Pole`
+solar-panel | Solar Panel
+bridge | সেতু |sētu
+dam | বাঁধ | bām̐dha 
+water-tower |জল মিনার|jala mināra
+electricpole |  বৈদ্যুতিক খুঁটি | baidyutika khum̐ṭi`
     }
   ]
 };
