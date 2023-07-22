@@ -1,9 +1,10 @@
 export default {
   id: 'picture',
+  label: 'পশু এবং পাখি|Animals and Birds',
   list: [
     {
       id: 'animals',
-      label: 'Animals',
+      label: 'পশু |Animals',
       text: `cat | বিড়াল
 dog | কুকুর
 goat| ছাগল
@@ -50,7 +51,7 @@ kangaroo| Kangaroo`
     },
     {
       id: 'birds',
-      label: 'Birds',
+      label: 'পাখি|Birds',
       text: `crow|কাক
 dove|পায়রা
 duck|হাঁস 

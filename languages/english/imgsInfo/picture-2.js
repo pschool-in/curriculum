@@ -28,6 +28,7 @@ muskmelon| Muskmelon`
     },
     {
       id: 'vegetables',
+      label: 'Vegetables',
       text: `carrot | Carrot
 beetroot | Beetroot
 onion | Onion

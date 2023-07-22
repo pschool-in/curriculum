@@ -1,8 +1,10 @@
 export default {
   id: 'picture-3',
+  label: 'Nature and Others',
   list: [
     {
       id: 'nature',
+      label: 'Nature',
       text: `sun |Sun
 moon|Moon 
 star|Star 
@@ -34,6 +36,7 @@ neemleaf | Neem Leaf`
     },
     {
       id: 'body-parts',
+      label: 'Body Parts',
       text: `ear |Ear
 eye |Eye
 foot |Foot
@@ -57,6 +60,7 @@ nails | Nails`
     },
     {
       id: 'flowers',
+      label: 'Flowers',
       text: `rose | Rose
         lotus | Lotus
         sunflower | Sunflower
@@ -68,6 +72,7 @@ zinnia | Zinnia`
     },
     {
       id: 'others',
+      label: 'Others',
       text: `bell | Bell
 brush| Brush
 bone| Bone

@@ -1,8 +1,10 @@
 export default {
   id: 'picture-3',
+  label: 'প্রকৃতি এবং অন্যান্য|Nature and Others',
   list: [
     {
       id: 'nature',
+      label: 'প্রকৃতি|Nature',
       text: `sun |সূর্য 
 moon|চাঁদ|Cām̐da 
 star|তারা 
@@ -34,6 +36,7 @@ neemleaf |  নিম পাতা|nima pātā`
     },
     {
       id: 'body-parts',
+      label: 'শরীরের অংশ|Body Parts',
       text: `ear |কান
 eye |নয়ন
 foot |পা
@@ -57,6 +60,7 @@ nails |নখ|nakha`
     },
     {
       id: 'flowers',
+      label: 'ফুল|Flowers',
       text: `rose | গোলাপ
 lotus | পদ্ম 
 sunflower | সূর্যমুখী
@@ -68,6 +72,7 @@ zinnia | জিনিয়া`
     },
     {
       id: 'others',
+      label: 'অন্যান্য|Others',
       text: `bell | ঘণ্টা
 brush| Brush
 bone| হাড়

@@ -46,8 +46,8 @@ keyboard | ಕೀಬೋರ್ಡ್|Keyboard`,
         text: `daffodil | ಡ್ಯಾಫಡಿಲ್| Daffodil
   gulmohar | ಗುಲ್ಮೊಹರ್|Gulmohar
   lily | ಲಿಲಿ |lili
-  bougainvillea | Bougainvillea
-december | December
+  bougainvillea | ಬೌಗೆನ್ವಿಲ್ಲಾ|Bougainvillea
+december | ಡಿಸೆಂಬರ್|December
   pansy | ಪ್ಯಾನ್ಸಿ |Pyansi
   poppy | Poppy
   daisy | 	ಡೈಸಿ  |daisi

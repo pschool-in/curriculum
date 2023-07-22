@@ -1,10 +1,10 @@
 export default {
   id: 'picture-11',
-  label: 'Tools and Music Instruments',
+  label: 'ഉപകരണങ്ങളും സംഗീത ഉപകരണങ്ങളും|Tools and Music Instruments',
   list: [
     {
-      id: 'ഉപകരണങ്ങൾ',
-      label: 'ജോലിക്കുള്ള ഉപകരണങ്ങൾ',
+      id: 'tools',
+      label: 'ജോലിക്കുള്ള ഉപകരണങ്ങൾ|tools',
       text: `geometrybox | Geometry Box
 compass2 | compass
 divider | വിഭേദനി|vibhedhani
@@ -37,8 +37,8 @@ hacksaw | Hacksaw
 scalpel | Scalpel`
     },
     {
-      id: 'സംഗീതോപകരണങ്ങൾ',
-      label: 'സംഗീതോപകരണങ്ങൾ',
+      id: 'instuments',
+      label: 'സംഗീതോപകരണങ്ങൾ|instuments',
       text: `violin | വയലിന്‍|vialin
 flute | ഓടക്കുഴൽ |oodakuzhal
 guitar | ഗിത്താര്‍|guithar
