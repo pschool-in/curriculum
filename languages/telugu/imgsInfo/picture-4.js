@@ -4,6 +4,7 @@ export default {
   list: [
     {
       id: 'people',
+      label: `ప్రజలు|Prajalu|people`,
       text:`boy|అబ్బాయి|Abbayi
       girl | అమ్మాయి|Ammayi
       man| మనిషి|ManiSi
@@ -16,6 +17,7 @@ grandma | అమ్మమ్మ|Ammamma`
     },
     {
       id: "house",
+      label: `ఇల్లు|Illu|house`,
       text: `house| ఇల్లు|Illu
 table|పట్టిక|Pattika
 bed|మం చం|Mamcham
@@ -64,6 +66,7 @@ washing-machine |వాషింగ్ మెషీన్|washing-machine`,
     },
     {
       id: "dress",
+      label: 'దుస్తులు|Dustulu|dress',
       text: `dress | డ్రెస్|dres
 coat |కోటు|Kotu
 shoe | షూ|shoe
@@ -82,6 +85,7 @@ saree | చీర|Cira`,
     },
     {
       id: "school",
+      label: 'పాఠశాల|Pāṭhaśāla|school',
       text: `pen |పెన్|Pen
 pencil|పెన్సిల్|Pensil
 ruler|పాలకుడు|Palakudu
@@ -104,6 +108,7 @@ writingpad | రాసుకునే పలక|Rasukune palaka`,
     },
     {
       id: "kitchen",
+      label: 'వంటగది|Vaṇṭagadi|kitchen',
       text: `stove |స్టవ్|Stove
 fork|	ఫోర్క్ |phork
 knife|కత్తి | katti

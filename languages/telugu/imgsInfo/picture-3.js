@@ -3,6 +3,7 @@ export default {
   list: [
     {
       id: "nature",
+      label: 'ప్రకృతి|Prakr̥ti|Nature',
       text: `sun |సూర్యుడు|Suryudu
 moon|చంద్రుడు|Chandrudu 
 star|నక్షత్రం|Naksatram
@@ -34,6 +35,7 @@ neemleaf |వేప ఆకు|Vepa aku`,
     },
     {
       id: "body-parts",
+      label: 'శరీర భాగాలు|sarira bhagalu|body parts',
       text: `ear |చెవి | Cevi
 eye |కన్ను | Kannu
 foot |పాదం | Padam
@@ -57,6 +59,7 @@ nails | గోర్లు|Gorlu`,
     },
     {
       id: "flowers",
+      label: 'పువ్వులు|Puvvulu|flowers',
       text: `rose |గులాబీ | gulabi
         lotus | 	కమలం |kamalam
         sunflower | పొద్దుతిరుగుడు |poddutirugudu
@@ -68,6 +71,7 @@ zinnia | జిన్నియా|Jinniya`,
     },
     {
       id: "others",
+      label:'ఇతరులు|Itharulu|others',
       text: `bell | బెల్|Bell
 brush| బ్రష్|Brush
 bone| ఎముక|Emuka
@@ -94,7 +98,7 @@ garden | తోట|Tota
 sculpture | శిల్పం|silpam
 statue | విగ్రహం|Vigraham
 clay-lamp | మట్టి దీపం|Matti dipam
-clay-stove | క్లే స్టవ్|clay-stove`,
+clay-stove | క్లే స్టవ్|clay-stove`
     },
   ],
 };

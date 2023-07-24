@@ -1,9 +1,10 @@
 export default {
-    id: "picture-8",
+    id: "picture-9",
     label: "More Images",
     list: [
       {
         id: "gadgets",
+        label: 'గాడ్జెట్లు |gadgets',
         text: `camera | కెమెరా|Camera
   headphone|హెడ్‌ఫోన్|Headphone
   pendrive|పెన్ డ్రైవ్|Pendrive
@@ -21,6 +22,7 @@ keyboard | కీబోర్డ్|Keyboard`,
       },
       {
         id: "others",
+        label: 'ఇతరులు|Itarulu|others',
         text: `angel | ఏంజెల్|Angel
         alien | విదేశీయుడు|Videsiyudu
         knight | నైట్|Nait
@@ -46,6 +48,7 @@ keyboard | కీబోర్డ్|Keyboard`,
   
       {
         id: "flowers",
+        label:'పువ్వులు|Puvvulu|flowers',
         text: `daffodil | డాఫోడిల్|Daffodil
   gulmohar | గుల్మోహర్|Gulmōhar
   lily | 	లిల్లీ | lilli

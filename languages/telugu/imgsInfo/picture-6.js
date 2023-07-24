@@ -1,9 +1,10 @@
 export default {
-  id: "picture-5",
+  id: "picture-6",
   label: "More Animals and Birds",
   list: [
     {
       id: "animals",
+      label: 'జంతువులు|Jantuvulu|animals',
       text: `mongoose| 	కిరి | kiri
             mosquito| దోమ | doma
             octopus| ఆక్టోపస్| Octopus
@@ -47,6 +48,7 @@ starfish | స్టార్ ఫిష్|Starfish`,
     },
     {
       id: "birds",
+      label: 'పక్షులు|Pakṣulu|birds',
       text: `hornbill | హార్న్‌బిల్ |hornbill
             cuckoo | కోకిల | Kokila
             pheasant | నెమలి|Nemali
