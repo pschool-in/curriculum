@@ -1,10 +1,10 @@
 export default {
   id: 'picture-2',
-  label: 'Fruits and Vegetables',
+  label: 'ফল এবং শাকসবজি|Fruits and Vegetables',
   list: [
     {
       id: 'fruits',
-      label: 'Fruits',
+      label: 'ফল |Fruits',
       text: `apple | আপেল
 grapes | আঙুর
 banana | কলা
@@ -28,6 +28,7 @@ muskmelon| খরবুজ`
     },
     {
       id: 'vegetables',
+      label: 'শাকসবজি|Vegetables',
       text: `carrot | গাজর
 beetroot | বিট
 onion | পেঁয়াজ

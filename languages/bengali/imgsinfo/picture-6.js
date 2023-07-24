@@ -1,9 +1,10 @@
 export default {
-  id: 'picture-5',
-  label: 'More Animals and Birds',
+  id: 'picture-6',
+  label: 'আরো পশু এবং পাখি|More Animals and Birds',
   list: [
     {
-      id: 'animals',
+      id: 'animals-2',
+      label: 'আরো পশু |More Animals',
       text: `mongoose| বেজি
 mosquito| মশা
 octopus| Octopus
@@ -46,7 +47,8 @@ jellyfish | Jellyfish
 starfish | Starfish`
     },
     {
-      id: 'birds',
+      id: 'birds-2',
+      label: 'আরো পাখি|More Birds',
       text: `hornbill | Hornbill
 cuckoo | Cuckoo
 pheasant |  তিতির|titira

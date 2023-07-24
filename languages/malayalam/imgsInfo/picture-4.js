@@ -1,9 +1,10 @@
 export default {
   id: 'picture-4',
-  label: 'House and Others',
+  label: 'വീടും മറ്റുളവയും |House and Others',
   list: [
     {
       id: 'people',
+      label: 'ആളുകൾ |people',
       text: `boy|ആൺകുട്ടി|aankutti
 girl | പെൺകുട്ടി|penkutti
 man| പുരുഷൻ|purushan
@@ -15,7 +16,8 @@ grandfather | മുത്തച്ഛൻ|muthachan
 grandma | മുത്തശ്ശി|muthashi`
     },
     {
-      id: 'nature',
+      id: 'house',
+      label: 'വീട് |House',
       text: `house| വീട്|veedu
 table|മേശ|mesha
 bed|കിടക്ക|kidakka
@@ -64,6 +66,7 @@ washing-machine | അലക്കുയന്ത്രം|allakuyantram`
     },
     {
       id: 'dress',
+      label: 'വസ്ത്രധാരണം |dress',
       text: `dress | ഉടുപ്പ്‌|udup
 coat | ആവരണം|aavaranam
 shoe | പാദരക്ഷ|paadraksha
@@ -83,6 +86,7 @@ saree |സാരി|saree`
     },
     {
       id: 'school',
+      label: 'വിദ്യാലയം  |school',
       text: `pen |പേന|pena
 pencil|പെൻസിൽ|pensil
 ruler|Ruler
@@ -92,7 +96,7 @@ nib | മുന|muna
 eraser|Eraser
 scissors|കത്രിക|kathrika
 sharpener|Sharpener
-calculator| കണക്കുകൂട്ടല് യന്തം| kanakkootal yantram
+calculator| കണക്കുകൂട്ടല് യന്ത്രം| kanakkootal yantram
 book| പുസ്തകം|pusthakam
 ink | മഷി|mashi
 globe | ഭൂഗോളം|bhoogolam
@@ -100,11 +104,12 @@ schoolbag| Schoolbag
 waterbottle| Waterbottle
 color-pencils| Color Pencils
 crayons | Crayons
-notebook | പുസ്‌തകം|pusthakam
+notebook | 
 writingpad | Writing Pad`
     },
     {
       id: 'kitchen',
+      label: 'അടുക്കള |kitchen',
       text: `stove |അടുപ്പ്|adupp
 fork|മുള്ക്കരണ്ടി|mulkarandi
 knife|കത്തി|kathi
@@ -153,7 +158,7 @@ dosaikal |ദോശകൾ|dosakallu
 kudam |കുടം|kudam
 clay-stove |കളിമൺ-അടുപ്പ് |kalimann adupp
 stone-grinder |അരക്കൽ|arakallu
-arivaal |അരിവാല|arivaala
+arivaal |അരിവാൾ|arivaal
 arivaal-manai |ചിരവ |chirava
 ladle |തവി|thavi
 
@@ -669,18 +674,4 @@ Consonants (Vyanjanas):
 റൌ (rau)
 റം (ram)
 റഃ (rah)
-
-ക്ഷ (ksha)
-ക്ഷാ (kshaa)
-ക്ഷി (kshi)
-ക്ഷീ (kshee)
-ക്ഷു (kshu)
-ക്ഷൂ (kshoo)
-ക്ഷെ (kshe)
-ക്ഷേ (kshai)
-ക്ഷൊ (ksho)
-ക്ഷോ (kshoa)
-ക്ഷൌ (kshau)
-ക്ഷം (ksham)
-ക്ഷഃ (kshah)
 `;

@@ -4,6 +4,7 @@ export default {
   list: [
     {
       id: 'people',
+      label: 'People',
       text: `boy|Boy
 girl | Girl
 man| Man
@@ -16,6 +17,7 @@ grandma | Grand Mother`
     },
     {
       id: 'house',
+      label: 'House',
       text: `house| House
 table|Table
 bed|Bed
@@ -65,6 +67,7 @@ washing-machine | Washing Machine`
     },
     {
       id: 'dress',
+      label: 'Dress',
       text: `dress | Dress
 coat | Coat
 shoe | Shoe
@@ -83,6 +86,7 @@ saree | Saree`
     },
     {
       id: 'school',
+      label: 'School',
       text: `pen |Pen
 pencil|Pencil
 ruler|Ruler
@@ -105,6 +109,7 @@ writingpad | Writing Pad`
     },
     {
       id: 'kitchen',
+      label: 'Kitchen',
       text: `stove |Stove
 fork|Fork
 knife|Knife

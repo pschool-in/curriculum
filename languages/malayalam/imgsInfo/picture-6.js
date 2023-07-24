@@ -1,9 +1,10 @@
 export default {
   id: 'picture-6',
-  label: 'More Animals and Birds',
+  label: 'കൂടുതൽ മൃഗങ്ങളും പക്ഷികളും|More Animals and Birds',
   list: [
     {
-      id: 'animals',
+      id: 'animals-2',
+      label: 'കൂടുതൽ മൃഗങ്ങൾ|More Animals ',
       text: `mongoose|കീരി|keeri
 mosquito| കൊതുക്|kothukk
 octopus| നീരാളി|neerali
@@ -46,7 +47,8 @@ jellyfish | Jellyfish
 starfish | നക്ഷത്രമത്സ്യം| nakshatra malsyam`
     },
     {
-      id: 'birds',
+      id: 'birds-2',
+      label: 'കൂടുതൽ പക്ഷികൾ|More Birds',
       text: `hornbill | വേഴാമ്പൽ|vezhambal
 cuckoo | Cuckoo
 pheasant | കൊറ്റി|kotti

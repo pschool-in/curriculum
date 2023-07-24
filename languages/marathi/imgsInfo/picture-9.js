@@ -1,9 +1,10 @@
 export default {
   id: 'picture-9',
-  label: 'More Images',
+  label: 'अधिक प्रतिमा|More Images',
   list: [
     {
       id: 'gadgets',
+      label: 'गॅझेट|Gadgets',
       text: `camera |Camera
 headphone|Headphone
 pendrive|Pendrive
@@ -20,7 +21,8 @@ computer | Computer
 keyboard | Keyboard`
     },
     {
-      id: 'others',
+      id: 'others-2',
+      label: 'इतर|Others',
       text: `angel | परी|Parī
       alien | Alien
       knight | घोड्याचा|Ghōcāḍyā
@@ -43,7 +45,8 @@ toothpaste | Toothpaste
 trident | त्रिशूळ|Triśūḷa`
     },
     {
-      id: 'flowers',
+      id: 'flowers-2',
+      label: 'अधिक फुले|More Flowers',
       text: `daffodil | Daffodil
 gulmohar | Gulmohar
 lily | Lily

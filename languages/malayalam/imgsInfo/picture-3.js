@@ -1,9 +1,10 @@
 export default {
   id: 'picture-3',
+  label: 'പ്രകൃതിയും മറ്റുളവയും |Nature and Others',
   list: [
     {
       id: 'nature',
-      label: 'പ്രകൃതി',
+      label: 'പ്രകൃതി|nature',
       text: `sun |സൂര്യൻ|suryan
 moon|ചന്ദ്രൻ|chandran
 star|നക്ഷത്രം|nakshathram
@@ -16,7 +17,7 @@ leaf|ഇല|ila
 tree | വൃക്ഷം|vriksham
 log | മരത്തടി|marathadi
 nest |കൂട്|kood
-dew | മഞ്ഞു|manju
+dew | മഞ്ഞ്|manju
 waterfall |വെള്ളച്ചാട്ടം|vellachaattam
 rainbow |മഴവില്ല്|mazhavillu
 cloud | മേഘം|mekham
@@ -35,7 +36,7 @@ neemleaf | വേപ്പില|veeppila`
     },
     {
       id: 'body-parts',
-      label: 'ശരീരഭാഗങ്ങൾ',
+      label: 'ശരീരഭാഗങ്ങൾ|body parts',
       text: `ear |ചെവി|chevi
 eye |കണ്ണ്|kannu
 foot |പാദം|paadam
@@ -59,7 +60,7 @@ nails | നഖം|nagam`
     },
     {
       id: 'flowers',
-      label: 'പൂക്കൾ',
+      label: 'പൂക്കൾ|flowers',
       text: `rose | പനിനീര്പ്പൂവ്|panineerpoovu
 lotus | താമര|thaamara
 sunflower | സൂര്യകാന്തി|suryakaanthi
@@ -71,7 +72,7 @@ zinnia | സിന്നിയ|sinniya`
     },
     {
       id: 'others',
-      label: 'മറ്റുള്ളവ',
+      label: 'മറ്റുള്ളവ|others',
       text: `bell | മണി| mani
 brush| ബ്രഷ്|brash
 bone| എല്ലു| ellu
@@ -93,8 +94,8 @@ quill | തൂവല്‍|thooval
 oar | തുഴ|thuzha
 gun | തോക്ക്|thokk
 wheel| ചക്രം|chakram
-park | പൂങ്കാവ്‌|poonkavu
-garden | ഉദാനം|udaanam
+park | പൂന്തോട്ടം‌|poon thottam
+garden | ഉദ്യാനം|udyaanam
 sculpture | ശില്പം|shilpam
 statue | പ്രതിമ|prathima
 clay-lamp | കളിമൺ വിളക്ക്|kaliman vilakku

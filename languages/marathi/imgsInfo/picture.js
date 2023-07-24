@@ -1,9 +1,10 @@
 export default {
-  id: "picture",
+  id: 'picture',
+  label: 'प्राणी आणि पक्षी|Animals and Birds',
   list: [
     {
-      id: "animals",
-      label: "Animals",
+      id: 'animals',
+      label: 'प्राणी|Animals',
       text: `cat | मांजर |Mān̄jara
 dog | कुत्रा |Kutrā
 goat| शेळी |Śēḷī
@@ -46,11 +47,11 @@ goldfish | सोनेरी मासा| Sōnērī māsā
 spider | कोळी|Kōḷī
 panda | Panda
 giraffe| Giraffe
-kangaroo| Kangaroo`,
+kangaroo| Kangaroo`
     },
     {
-      id: "birds",
-      label: "Birds",
+      id: 'birds',
+      label: 'पक्षी|Birds',
       text: `crow|कावळा|Kāvaḷā
 dove|पारवा|Pāravā
 duck|बदक|Badaka
@@ -71,7 +72,7 @@ owl| घुबड|Ghubaḍa
 rooster| कोंबडा|Kōmbaḍā
 vulture| गिधाड|Gidhāḍa
 woodpecker| लाकूडपेकर|Lākūḍapēkara
-koel | Koel`,
-    },
-  ],
+koel | Koel`
+    }
+  ]
 };

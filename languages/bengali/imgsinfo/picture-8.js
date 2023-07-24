@@ -1,9 +1,10 @@
 export default {
-  id: 'picture-7',
-  label: 'Vehicles and Jobs',
+  id: 'picture-8',
+  label: 'যানবাহন এবং চাকরি|Vehicles and Jobs',
   list: [
     {
       id: 'vehicles',
+      label: 'যানবাহন |Vehicles',
       text: `aeroplane | বিমান
 boat | নৌকা
 bus | বাস
@@ -35,6 +36,7 @@ chariot |রথ|ratha`
     },
     {
       id: 'jobs',
+      label: 'চাকরি|Jobs',
       text: `astronaut | মহাকাশচারী | mahākāśacārī
 clown | ভাঁড় |  bhām̐ṛa 
 fisherman | জেলে | jēlē 

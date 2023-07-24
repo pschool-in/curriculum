@@ -1,9 +1,10 @@
 export default {
   id: 'picture-4',
-  label: 'House and Others',
+  label: 'घर आणि इतर|House and Others',
   list: [
     {
       id: 'people',
+      label: 'लोक|People',
       text: `boy|मुलगा|Mulagā
 girl | मुलगी|Mulagī
 man| माणूस|Māṇūsa
@@ -15,8 +16,8 @@ grandfather | आजोबा|Ājōbā
 grandma | आजी|Ājī`
     },
     {
-      id: 'nature',
-      label: 'Nature',
+      id: 'house',
+      label: 'घर|House',
       text: `house| घर|Ghara
 table|Table
 bed|पलंग|Palaṅga
@@ -66,7 +67,7 @@ washing-machine | Washing Machine`
     },
     {
       id: 'dress',
-      label: 'Dress',
+      label: 'पोशाख|Dress',
       text: `dress | Dress
 coat | Coat
 shoe | बूट|Būṭa
@@ -85,7 +86,7 @@ saree | Saree`
     },
     {
       id: 'school',
-      label: 'School',
+      label: 'शाळा|School',
       text: `pen |Pen
 pencil|Pencil
 ruler|शासक|Śāsaka
@@ -108,7 +109,7 @@ writingpad | Writing Pad`
     },
     {
       id: 'kitchen',
-      label: 'Kitchen',
+      label: 'स्वयंपाकघर|Kitchen',
       text: `stove |Stove
 fork|काटा|Kāṭā
 knife|चाकू|Cākū

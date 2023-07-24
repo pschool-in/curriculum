@@ -1,9 +1,10 @@
 export default {
   id: 'picture',
+  label: 'മൃഗങ്ങളും പക്ഷികളും|Animals and Birds',
   list: [
     {
       id: 'animals',
-      label: 'മൃഗങ്ങൾ',
+      label: 'മൃഗങ്ങൾ|animals',
       text: `cat | പൂച്ച|poocha
 dog | നായ|naaya
 goat| ആട്|aad
@@ -27,7 +28,7 @@ whale| തിമിംഗലം|thimingalam
 dolphin| ഡോൾഫിൻ|dolfin
 
 tiger| കടുവ|kaduva
-sheep| ആട്|aad
+sheep| ചെമ്മരിയാട്|chemeriyaad
 fish| മത്സ്യം|malsyam
 frog| തവള|thavala
 crab| ഞണ്ട്|njandu
@@ -50,7 +51,7 @@ kangaroo| കംഗാരു|kamgaaru`
     },
     {
       id: 'birds',
-      label: 'പക്ഷികൾ',
+      label: 'പക്ഷികൾ|birds',
       text: `crow|കാക്ക|kaakka
 dove|പ്രാവ്|praavu
 duck|താറാവ്|tharaav
@@ -58,7 +59,7 @@ hen|കോഴി|kozhi
 chick| കോഴിക്കുഞ്ഞ്|kozhikkunju
 parrot|തത്ത|thatha
 peacock|മയിൽ|mayil
-penguin|പെന്ഗിന് പക്ഷി|penginu pakshi
+penguin|
 sparrow|കുരുവി|kuruvi
 crane| കൊക്ക്|kokk
 
@@ -70,7 +71,7 @@ ostrich| ഒട്ടകപ്പക്ഷി|ottaka pakshi
 owl| മൂങ്ങ|moonga
 rooster| പൂവന്കോഴി|poovan kozhi
 vulture| കഴുകൻ|kazhukan
-woodpecker| മരംകുത്തി|mazham kotthi
+woodpecker|മരംകൊത്തി|mazham kotthi
 koel | കുയിൽ|kuyil`
     }
   ]

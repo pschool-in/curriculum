@@ -1,10 +1,10 @@
 export default {
   id: 'picture-11',
-  label: 'Tools and Music Instruments',
+  label: 'ഉപകരണങ്ങളും സംഗീത ഉപകരണങ്ങളും|Tools and Music Instruments',
   list: [
     {
-      id: 'ഉപകരണങ്ങൾ',
-      label: 'ജോലിക്കുള്ള ഉപകരണങ്ങൾ',
+      id: 'tools',
+      label: 'ജോലിക്കുള്ള ഉപകരണങ്ങൾ|tools',
       text: `geometrybox | Geometry Box
 compass2 | compass
 divider | വിഭേദനി|vibhedhani
@@ -14,7 +14,7 @@ screwdriver | സ്ക്രൂഡ്രൈവര്‍|screwdriver
 spanner | സ്പാനര്‍|spanner
 axe | കോടാലി|kodalli
 balance | തുലാസ്‌|thulas
-blackboard | ബ്ലാക്ക്ബോര്‍ഡ്|blackboard
+blackboard |blackboard
 hose | Hose
 microscope | സൂക്ഷ്‌മദര്‍ശിനി|sookshmadarshini
 needle | സൂചി|sooji
@@ -24,7 +24,7 @@ plier | ചവണ|chavana
 plough | കലപ്പ|kalappa
 saw | അറക്കവാള്‍|arakkavaal
 spade | തൂമ്പ|thoomba
-stethoscope |സ്റ്റെതസ്‌കോപ്പ്‌|sthethescope
+stethoscope |sthethescope
 telescope | ദൂരദർശിനി|doordarshini
 test-tube | പരീക്ഷണനാളി|pareekshnaali
 thermometer | ഉഷ്‌ണമാപിനി|ushnamaapini
@@ -37,8 +37,8 @@ hacksaw | Hacksaw
 scalpel | Scalpel`
     },
     {
-      id: 'സംഗീതോപകരണങ്ങൾ',
-      label: 'സംഗീതോപകരണങ്ങൾ',
+      id: 'instuments',
+      label: 'സംഗീതോപകരണങ്ങൾ|instuments',
       text: `violin | വയലിന്‍|vialin
 flute | ഓടക്കുഴൽ |oodakuzhal
 guitar | ഗിത്താര്‍|guithar

@@ -1,10 +1,10 @@
 export default {
   id: 'picture-11',
-  label: 'Tools and Music Instruments',
+  label: 'साधने आणि संगीत वाद्ये|Tools and Music Instruments',
   list: [
     {
       id: 'tools',
-      label: 'Tools for Job',
+      label: 'नोकरीसाठी साधने|Tools for Job',
       text: `geometrybox | Geometry Box
 compass2 | Compass
 divider | दुभाजक|dubhājaka
@@ -38,7 +38,7 @@ scalpel | Scalpel`
     },
     {
       id: 'instruments',
-      label: 'Music Instruments',
+      label: 'संगीत वाद्ये|Music Instruments',
       text: `violin | Violin
 flute | बासरी|bāsarī
 guitar | Guitar

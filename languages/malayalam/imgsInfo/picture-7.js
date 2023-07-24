@@ -1,9 +1,10 @@
 export default {
   id: 'picture-7',
-  label: 'More Fruits and Vegetables',
+  label: 'കൂടുതൽ പഴങ്ങളും പച്ചക്കറികളും|More Fruits and Vegetables',
   list: [
     {
-      id: 'fruits',
+      id: 'fruits-2',
+      label: 'കൂടുതൽ പഴങ്ങൾ|More Fruits',
       text: `star-fruit | സ്റ്റാർഫ്രൂട്ട്| star fruit
 dragon-fruit | Dragon fruit
 sugarcane | കരിമ്പ്|karimb
@@ -21,7 +22,8 @@ gooseberry |നെല്ലിക്ക|nellika
 passion-fruit | പാഷൻ ഫ്രൂട്ട്| passion fruit`
     },
     {
-      id: 'vegetables',
+      id: 'vegetables-2',
+      label: 'കൂടുതൽ പച്ചക്കറികൾ|More Vegetables',
       text: `pepper | കുരുമുളക്|kurumulak
 wheat | ഗോതമ്പ്|gothamb
 paddy | നെല്ല്|nell

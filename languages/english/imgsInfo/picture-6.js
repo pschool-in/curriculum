@@ -1,9 +1,10 @@
 export default {
-  id: 'picture-5',
+  id: 'picture-6',
   label: 'More Animals and Birds',
   list: [
     {
-      id: 'animals',
+      id: 'animals-2',
+      label: 'More Animals',
       text: `mongoose| Mongoose
 mosquito| Mosquito
 octopus| Octopus
@@ -46,7 +47,8 @@ jellyfish | Jellyfish
 starfish | Starfish`
     },
     {
-      id: 'birds',
+      id: 'birds-2',
+      label: 'More Birds',
       text: `hornbill | Hornbill
 cuckoo | Cuckoo
 pheasant | Pheasant

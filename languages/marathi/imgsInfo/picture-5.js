@@ -1,10 +1,10 @@
 export default {
   id: 'picture-5',
-  label: 'Action and Sports',
+  label: 'कृती आणि क्रीडा|Action and Sports',
   list: [
     {
       id: 'action',
-      label: 'Actions',
+      label: 'कृती|Actions',
       text: `drink| पेय|Pēya
         eat| खा|Khā
         bend | वाकणे|Vākaṇē
@@ -38,7 +38,7 @@ export default {
     },
     {
       id: 'sports',
-      label: 'Sports',
+      label: 'क्रीडा|Sports',
       text: `bat2 | वटवाघूळ|Vaṭavāghūḷa
         racket | Racket
         seesaw | Seesaw
