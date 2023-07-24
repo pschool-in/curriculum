@@ -96,7 +96,7 @@ nib | മുന|muna
 eraser|Eraser
 scissors|കത്രിക|kathrika
 sharpener|Sharpener
-calculator| കണക്കുകൂട്ടല് യന്തം| kanakkootal yantram
+calculator| കണക്കുകൂട്ടല് യന്ത്രം| kanakkootal yantram
 book| പുസ്തകം|pusthakam
 ink | മഷി|mashi
 globe | ഭൂഗോളം|bhoogolam
@@ -104,7 +104,7 @@ schoolbag| Schoolbag
 waterbottle| Waterbottle
 color-pencils| Color Pencils
 crayons | Crayons
-notebook | പുസ്‌തകം|pusthakam
+notebook | 
 writingpad | Writing Pad`
     },
     {
@@ -158,7 +158,7 @@ dosaikal |ദോശകൾ|dosakallu
 kudam |കുടം|kudam
 clay-stove |കളിമൺ-അടുപ്പ് |kalimann adupp
 stone-grinder |അരക്കൽ|arakallu
-arivaal |അരിവാല|arivaala
+arivaal |അരിവാൾ|arivaal
 arivaal-manai |ചിരവ |chirava
 ladle |തവി|thavi
 
@@ -674,18 +674,4 @@ Consonants (Vyanjanas):
 റൌ (rau)
 റം (ram)
 റഃ (rah)
-
-ക്ഷ (ksha)
-ക്ഷാ (kshaa)
-ക്ഷി (kshi)
-ക്ഷീ (kshee)
-ക്ഷു (kshu)
-ക്ഷൂ (kshoo)
-ക്ഷെ (kshe)
-ക്ഷേ (kshai)
-ക്ഷൊ (ksho)
-ക്ഷോ (kshoa)
-ക്ഷൌ (kshau)
-ക്ഷം (ksham)
-ക്ഷഃ (kshah)
 `;

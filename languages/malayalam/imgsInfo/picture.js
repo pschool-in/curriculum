@@ -59,7 +59,7 @@ hen|കോഴി|kozhi
 chick| കോഴിക്കുഞ്ഞ്|kozhikkunju
 parrot|തത്ത|thatha
 peacock|മയിൽ|mayil
-penguin|പെന്ഗിന് പക്ഷി|penginu pakshi
+penguin|
 sparrow|കുരുവി|kuruvi
 crane| കൊക്ക്|kokk
 
@@ -71,7 +71,7 @@ ostrich| ഒട്ടകപ്പക്ഷി|ottaka pakshi
 owl| മൂങ്ങ|moonga
 rooster| പൂവന്കോഴി|poovan kozhi
 vulture| കഴുകൻ|kazhukan
-woodpecker| മരംകുത്തി|mazham kotthi
+woodpecker|മരംകൊത്തി|mazham kotthi
 koel | കുയിൽ|kuyil`
     }
   ]

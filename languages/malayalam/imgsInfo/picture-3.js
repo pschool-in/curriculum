@@ -17,7 +17,7 @@ leaf|ഇല|ila
 tree | വൃക്ഷം|vriksham
 log | മരത്തടി|marathadi
 nest |കൂട്|kood
-dew | മഞ്ഞു|manju
+dew | മഞ്ഞ്|manju
 waterfall |വെള്ളച്ചാട്ടം|vellachaattam
 rainbow |മഴവില്ല്|mazhavillu
 cloud | മേഘം|mekham
@@ -94,8 +94,8 @@ quill | തൂവല്‍|thooval
 oar | തുഴ|thuzha
 gun | തോക്ക്|thokk
 wheel| ചക്രം|chakram
-park | പൂങ്കാവ്‌|poonkavu
-garden | ഉദാനം|udaanam
+park | പൂന്തോട്ടം‌|poon thottam
+garden | ഉദ്യാനം|udyaanam
 sculpture | ശില്പം|shilpam
 statue | പ്രതിമ|prathima
 clay-lamp | കളിമൺ വിളക്ക്|kaliman vilakku

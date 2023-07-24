@@ -55,7 +55,7 @@ lemon | നാരങ്ങ|naaranga
 corianderleaf | മല്ലിയില|malliyila
 curryleaf | കറിവേപ്പില|kariveppila
 drumstick| മുരിങ്ങ|muringa
-greenpeas| ഗ്രീൻ പീസ|green pees
+greenpeas| ഗ്രീൻ പീസ്|green pees
 ladies-finger | വെണ്ടക്ക|vendakka
 mintleaf| പുതിന|puthin
 peanut| കപ്പലണ്ടി|kappalandi
