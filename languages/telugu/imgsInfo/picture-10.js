@@ -4,7 +4,7 @@ export default {
     list: [
       {
         id: 'social',
-        label: 'Social Science',
+        label: 'సాంఘిక శాస్త్రం|Sāṅghika śāstraṁ|Social Science',
         text: `mountain | పర్వతం|Parvatam
         seashore | సముద్ర తీరం|Samudra tiram
         forest | అడవి|Adavi
@@ -49,7 +49,7 @@ export default {
       },
       {
         id: 'organs',
-        label: 'Organs',
+        label: 'అవయవాలు|Avayavālu|Organs',
         text: `heart|గుండె|Gunde
         brain|మె ద డు|Me da du
         lungs|ఊపిరితిత్తులు|upiritittulu
@@ -59,7 +59,7 @@ export default {
       },
       {
         id: 'teeth',
-        label: 'Teeth',
+        label: 'దంతాలు|Dantālu|Teeth',
         text: `incisor | కోత|Kota
         canine | కుక్కల|Kukkala
         premolar | ప్రీమోలార్|Premolar
@@ -67,7 +67,7 @@ export default {
       },
       {
         id: 'science',
-        label: 'Science',
+        label: 'సైన్స్|Science',
         text: `windmill | విండ్మిల్|Windmill
         solar-panel | సోలార్ ప్యానల్|Solar Panel
         bridge | వంతెన|Vantena

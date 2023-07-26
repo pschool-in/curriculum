@@ -1,9 +1,10 @@
 export default {
-  id: "picture-6",
+  id: "picture-7",
   label: "More Fruits and Vegetables",
   list: [
     {
       id: "fruits",
+      label: 'పండ్లు|Pandlu|fruits',
       text: `star-fruit |స్టార్ ఫ్రూట్|Star phrut
 dragon-fruit | డ్రాగన్ పండు|dragan pandu
 sugarcane | చెరుకుగడ|Cerukugada
@@ -22,6 +23,7 @@ passion-fruit | తపన ఫలం|Tapana phalam`,
     },
     {
       id: "vegetables",
+      label:'కూరగాయలు|Kūragāyalu|vegetables',
       text: `pepper | మిరియాలు|Miriyalu
       wheat | గోధుమలు|Godhumalu
       paddy | వరి|Vari

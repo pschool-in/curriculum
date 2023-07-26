@@ -1,9 +1,10 @@
 export default {
-  id: "picture-7",
+  id: "picture-8",
   label: "Vehicles and Jobs",
   list: [
     {
       id: "vehicles",
+      label:'వాహనాలు|Vāhanālu|vehicles',
       text: `aeroplane |విమానం|Vimānaṁ
         boat | పడవ |padava
         bus | బస్సు|Bassu
@@ -35,6 +36,7 @@ chariot | రథము|Rathamu`,
     },
     {
       id: "jobs",
+      label: "ఉద్యోగం|Udyōgaṁ|jobs",
       text: `astronaut | వ్యోమగామి|Vyomagami
         clown |విదూషకుడు|Vidusakudu
         fisherman | మత్స్యకారుడు|Matsyakarudu

@@ -4,7 +4,7 @@ export default {
   list: [
     {
       id: "fruits",
-      label: "Fruits",
+      label: 'పండ్లు|Pandlu|Fruits',
       text: `apple |ఆపిల్ |apil  
 grapes | ద్రాక్ష |draksa
 banana | అరటిపండు | aratipandu
@@ -28,6 +28,7 @@ muskmelon| Muskmelonకర్బూజ| Karbūja`,
     },
     {
       id: "vegetables",
+      label:'కూరగాయలు|Kuragayalu|vegetables',
       text: `carrot | 	కారెట్ | karet
 beetroot | బీట్ రూట్ | bet rut
 onion | ఉల్లిపాయ |ullipaya

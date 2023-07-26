@@ -4,7 +4,7 @@ export default {
   list: [
     {
       id: 'action',
-      label: 'Actions',
+      label: 'చర్యలు|Caryalu|Actions',
       text: `drink| త్రాగండి|Tragandi
       eat| తినండి|Tinandi
       bend|బెండ్|Bend
@@ -38,7 +38,7 @@ export default {
     },
     {
       id: 'sports',
-      label: 'Sports',
+      label: 'క్రీడలు|Krīḍalu|Sports',
       text: `bat2 | బ్యాట్|Byat
       racket | Racket
       seesaw | Seesaw

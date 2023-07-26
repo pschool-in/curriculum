@@ -3,7 +3,7 @@ export default {
   list: [
     {
       id: "animals",
-      label: "Animals-జంతువులు-Jantuvulu",
+      label: 'జంతువులు|Jantuvulu|Animals',
       text: `cat | పిల్లి | Pilli
 dog | కుక్క | Kukka
 goat| మేక | Meka
@@ -46,11 +46,11 @@ goldfish | గోల్డ్ ఫిష్|Goldfish
 spider | సాలీడు|Salidu
 panda | పాండా|Panda
 giraffe| 	జిరాఫీ | Jiraphi
-kangaroo| 	ఒక సాదు జంతువు | oka sadu jantuvu`,
+kangaroo|ఒక సాదు జంతువు |oka sadu jantuvu`,
     },
     {
       id: "birds",
-      label: "Birds-పక్షులు-Paksulu",
+      label: 'పక్షులు|Paksulu|Birds',
       text: `crow|కాకి | Kaki
 dove|పావురం| Pavuram
 duck|	డక్ |Duck
@@ -71,7 +71,7 @@ owl| గుడ్లగూబ |Gudlaguba
 rooster| రూస్టర్ |Rooster
 vulture| రాబందు |Rabandu
 woodpecker| 	వడ్రంగిపిట్ట |Vadrangipitta
-koel |కోయెల్|  Koel`,
+koel |కోయెల్|  Koel`
     },
   ],
 };
