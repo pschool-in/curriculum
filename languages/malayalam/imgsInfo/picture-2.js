@@ -19,12 +19,12 @@ orange | ഓറഞ്ച്|oranju
 papaya | പപ്പായ|pappaaya
 pineapple | കൈതച്ചക്ക|kaithachakka
 watermelon | തണ്ണിമത്തൻ|thannimathan
-pomegranate| മാതളനാരകം|maathalanaarakam
+pomegranate| മാതളനാരങ്ങ|maathalanaaranga
 fig| അത്തിപ്പഴം|athippazham
 custard-apple| സീതപ്പഴം|seethappazham
 plum| പ്ലം|plam
 dates| ഈന്തപ്പഴം|eenthappazham
-muskmelon| തൈക്കുമ്പലം|thaikkumbalam`
+muskmelon| തയ്ക്കുമ്പളം|thaikkumbalam`
     },
     {
       id: 'vegetables',
