@@ -1,630 +1,838 @@
-# fruits
+```
 
-1. apple |सफरचंद
-2. grapes |द्राक्षे
-3. banana |केळी
-4. cherry |
-5. avocado |
-6. strawberry |
-7. guava |पेरू
-8. jackfruit |फणस
-9. mango |आंबा
-10. orange |संत्रा
-11. papaya |पपई
-12. pineapple |अननस
-13. pomegranate |अननस
-14. watermelon |टरबूज
-15. fig |अंजीर
-16. custard-apple |सीताफळ
-17. plum |मनुका
-18. dates |तारखा
-19. muskmelon |कस्तुरी
-20. star-fruit |तारा फळ
-21. dragon-fruit |
-22. passion-fruit |तारा फळ
-23. sugarcane |ऊस
-24. peach |पीच
-25. sweet-potato |रताळे
-26. jamun |जामुन
-27. pear |नाशपाती
-28. water-chestnut |पाणी चेस्टनट
-29. jujube |जुजुब
-30. sapotta |सपोटा
-31. tapioca |
-32. blueberry |
-33. wood-apple |
-34. gooseberry |
-35. lemon |लिंबू
+1. प्राणी आणि पक्षी|Animals and Birds
 
-# vegetables
 
-1. carrot |गाजर
-2. beetroot |
-3. onion |कांदा
-4. tomato |
-5. potato |बटाटा
-6. cabbage |कोबी
-7. cauliflower |फुलकोबी
-8. corn |
-9. cucumber |काकडी
-10. garlic |लसूण
-11. ginger |आले
-12. pumpkin |भोपळा
-13. almond |बदाम
-14. beans |
-15. bitter-gourd |कारले
-16. brinjal |वांगे
-17. capsicum |शिमला मिर्ची
-18. cashewnut |काजू
-19. chilli |मिरची
-20. coconut |नारळ
-21. corianderleaf |कोथिंबीर
-22. curryleaf |कढीपत्ता
-23. drumstick |शेवगा
-24. greenpeas |मटार
-25. ladies-finger |भेंडी
-26. mintleaf |पुदीना
-27. peanut |शेंगदाणा
-28. raddish |मुळा
-29. spinach |पालक
-30. mustard-greens |मोहरी हिरव्या भाज्या
-31. turmeric |हळद
-32. turnip |सलगम
-33. fenugreek |मेथी
-34. tamarind |चिंच
-35. elephant-yam |हत्ती-याम
-36. ashgourd |राख
-37. broad-beans |रुंद बीन्स
-38. snake-gourd |साप
-39. banana-flower |केळीचे फूल
-40. cluster-beans |
-41. kohlrabi |
-42. spring-onion |
-43. banana-stem |
-44. drumstick-leaves |
-45. raw-banana |कच्ची केळी
-46. tulsi |तुळशी
-47. bottlegourd |दुधीभोपळा
-48. ivygourd |आयव्ही लौकी
-49. ridgegourd |लौकी
+1.1. प्राणी|Animals
 
-# edibles
+cat | मांजर |Mān̄jara
+dog | कुत्रा |Kutrā
+goat| शेळी |Śēḷī
+cow| गाय| Gāya
+donkey| गाढव| Gāḍhava
+horse| घोडा|Ghōḍā
+pig| डुक्कर|Ḍukkara
+elephant| हत्ती|Hattī
+lion |सिंह|Sinha
+monkey| माकड|Mākaḍa
 
-1. food |अन्न
-2. milk |दूध
-3. fruits |फळे
-4. vegetables |भाज्या
-5. lollipop |
-6. salad |कोशिंबीर
-7. ice-cream |
-8. sweets |मिठाई
-9. bread |
-10. butter |लोणी
-11. juice |रस
-12. sandwich |
-13. cake |
-14. chocolate |
-15. burger |
-16. french-fry |
-17. soft-drink |हलकं पेय
-18. pizza |
-19. cheese |
-20. egg |अंडी
-21. chicken |
-22. meat |मांस
-23. soup |
-24. adirasam |आदर्शा
-25. dosai |
-26. idiyappam |
-27. idly |
-28. murukku |टॉर्क
-29. pajji |पॅटीज
-30. pongal |
-31. porotta |संघर्ष
-32. puttu-rice |
-33. vadai |जखमी
-34. ladoo |लाडू
-35. ellumittai |भ्रमनिरास
-36. kadalai-mittai |शेंगदाणा कँडी
+hippo| Hippo
+rhino| गेंडा|Gēṇḍā
+fox| कोल्हा|Kōl'hā
+crocodile| मगर|Magara
+zebra| Zebra
+bear| अस्वल|Asvala
+camel| उंट|Uṇṭa
+shark| Shark
+whale| देवमासा|Dēvamāsā
+dolphin| Dolphin
 
-# flowers
+tiger| वाघ|Vāgha
+sheep| मेंढ्या|Mēṇḍhyā
+fish| मासे| Māsē
+frog| बेडूक|Bēḍūka
+crab| खेकडा|Khēkaḍā
+snake| साप|Sāpa
+bull | बैल| Baila
+tortoise| कासव| Kāsava
+rat| उंदीर|Undīra
+ant| मुंगी| Muṅgī
 
-1. rose |गुलाब
-2. lotus |कमळ
-3. sunflower |सूर्यफूल
-4. marigold |झेंडू
-5. hibiscus |
-6. mogra |
-7. tulip |
-8. zinnia |
-9. daffodil |
-10. gulmohar |
-11. lily |
-12. pansy |
-13. poppy |खसखस
-14. daisy |डेझी
-15. jasmine |चमेली
-16. magnolia |
-17. periwinkle |
-18. water-lily |
-19. aavarampoo |
-20. bougainvillea |
-21. december |
-22. erukkampoo |
-23. idlipoo |
-24. kanagamaram |
-25. kurinchipoo |आले फूल
-26. nandiyaavattampoo |नंदीरवैथम्पू
-27. pichipoo |
-28. poosanipoo |भोपळा
-29. poovarasampoo |
-30. sangupoo |कोनफ्लॉवर
-31. thumbaipoo |तुपाचे फूल
-32. vaadamalli |
-33. veepampoo |कडुलिंबाचे फूल
+bat| वटवाघूळ|Vaṭavāghūḷa
+buffalo| म्हैस|Mhaisa
+butterfly| फुलपाखरू|Phulapākharū
+cheetah| Cheetah
+bee | मधमाशी|Madhamāśī
+goldfish | सोनेरी मासा| Sōnērī māsā
+spider | कोळी|Kōḷī
+panda | Panda
+giraffe| Giraffe
+kangaroo| Kangaroo
 
-# vehicles
 
-1. aeroplane |विमान
-2. boat |
-3. bus |
-4. car |गाडी
-5. cycle |
-6. helicoptor |
-7. motorbike |
-8. ship |जहाज
-9. tractor |
-10. train |
-11. ambulance |रुग्णवाहिका
-12. auto |
-13. cart |
-14. excavator |उत्खनन
-15. fire-engine |अग्निशामक
-16. lorry |
-17. van |
-18. bulldozer |
-19. rocket |
-20. submarine |पाणबुडी
-21. bullock-cart |बैलगाडी
-22. horse-carriage |घोडागाडी
-23. palanquin |पालखी
-24. chariot |रथ
+1.2. पक्षी|Birds
 
-# house
+crow|कावळा|Kāvaḷā
+dove|पारवा|Pāravā
+duck|बदक|Badaka
+hen|कोंबडी|Kōmbaḍī
+chick| Chick
+parrot|पोपट|Pōpaṭa
+peacock|मोर|Mōra
+penguin|Penguin
+sparrow|चिमणी|Cimaṇī
+crane| Crane
 
-1. man |माणूस
-2. woman |स्त्री
-3. boy |मुलगा
-4. girl |मुलगी
-5. house |घर
-6. grandfather |आजोबा
-7. grandma |आजी
-8. table |
-9. bed |पलंग
-10. candle |मेणबत्ती
-11. chair |खुर्ची
-12. shelf |
-13. baby |बाळ
-14. ball |चेंडू
-15. teddy |
-16. glasses |चष्मा
-17. clock |घड्याळ
-18. watch |
-19. flower-pot |फुलदाणी
-20. umbrella |छत्री
-21. door |दार
-22. broom |
-23. window |
-24. air-conditioner |
-25. sofa |
-26. bucket |
-27. toilet |
-28. soap |
-29. washing-machine |
-30. backpack |
-31. pillow |
-32. basket |
-33. dustbin |
-34. bed-lamp |
-35. handbag |
+eagle| गरुड|Garuḍa
+flamingo| Flamingo
+kingfisher| Kingfisher
+myna| Myna
+ostrich| शहामृग|Śahāmr̥ga
+owl| घुबड|Ghubaḍa
+rooster| कोंबडा|Kōmbaḍā
+vulture| गिधाड|Gidhāḍa
+woodpecker| लाकूडपेकर|Lākūḍapēkara
+koel | Koel
 
-# dress
 
-1. dress |
-2. coat |
-3. shoe |
-4. sock |
-5. boots |
-6. pyjama |
-7. gloves |
-8. scarf |
-9. sweater |
-10. bib |
-11. shirt |
-12. jacket |
-13. hat |
-14. trousers |
-15. vetti |
-16. saree |
+2. फळे आणि भाज्या|Fruits and Vegetables
 
-# school
 
-1. eraser |
-2. pen |
-3. pencil |
-4. ruler |
-5. schoolbag |
-6. scissors |
-7. sharpener |
-8. waterbottle |
-9. calculator |
-10. book |
-11. color-pencils |
-12. crayons |
-13. ink |
-14. globe |
+2.1. फळे|Fruits
 
-# kitchen
+apple | सफरचंद|Sapharacanda
+grapes | द्राक्षे|Drākṣē
+banana | केळी|Kēḷī
+cherry | Cherry
+avocado | Avocado
+strawberry | Strawberry
+guava | पेरू|Pērū
+jackfruit | फणस|Phaṇasa
+mango | आंबा|Āmbā
+orange | संत्रा| Santrā
 
-1. stove |
-2. fork |
-3. knife |
-4. pan |
-5. spoon |
-6. pot |
-7. plate |
-8. tap |
-9. lid |
-10. blender |
-11. fridge |
-12. bowl |
-13. cup |
-14. ammi |
-15. dosaikal |
-16. kudam |
-17. sembu |
-18. clay-stove |
-19. stone-grinder |
-20. arivaal |
-21. arivaal-manai |
-22. ladle |
-23. anjarai-pettiv
+papaya | पपई|Papa'ī
+pineapple | अननस|Ananasa
+watermelon | टरबूज|Ṭarabūja
+pomegranate| डाळिंब|Ḍāḷimba
+fig| अंजीर|An̄jīra
+custard-apple| सीताफळ| Sītāphaḷa
+plum| मनुका| Manukā
+dates| तारखा| Tārakhā
+muskmelon|कस्तुरी |Kasturī
 
-# kitchen-2
 
-1. sugar |
-2. salt |
-3. almond |
-4. cashewnut |
-5. mushroom |
-6. flour |
-7. chickpea |
-8. lentils |
-9. rice |
-10. kadalai-paruppu |
-11. malli |
-12. pepper |
-13. mochai |
-14. moong-dhal |
-15. pattani |
-16. seeragam |
-17. sombu |
-18. toor-dhal |
-19. urad-dhal |
-20. wheat |
-21. paddy |
+2.2. भाज्या|Vegetables
 
-# gadgets
+carrot | गाजर| Gājara
+beetroot | Beetroot
+onion | कांदा| Kāndā
+tomato | टोमॅटो|Ṭōmĕṭō
+potato | बटाटा|Baṭāṭā
+cabbage | कोबी| Kōbī
+corn | Corn
+cucumber |काकडी| Kākaḍī
+garlic|लसूण| Lasūṇa
+ginger|आले|Ālē
 
-1. camera |
-2. headphone |
-3. pendrive |
-4. remote |
-5. smartphone |
-6. speaker |
-7. tablet |
-8. torch |
-9. web-camara |
-10. tv |
-11. laptop |
-12. computer |
+cauliflower| फुलकोबी|Phulakōbī
+pumpkin| भोपळा|Bhōpaḷā
+almond| बदाम| Badāma
+beans| Beans
+bitter-gourd| कारले|Kāralē
+brinjal| वांगे|Vāṅgē
+capsicum| शिमला मिर्ची| Śimalā mircī
+cashewnut| काजू| Kājū
+chilli| मिरची|Miracī
+coconut | नारळ|Nāraḷa
+lemon | लिंबू|Limbū
 
-# animals
+corianderleaf | कोथिंबीर पान|Kōthimbīra pāna
+curryleaf | कढीपत्ता| Kaḍhīpattā
+drumstick| शेवगा|Śēvagā
+greenpeas| मटार|Maṭāra
+ladies-finger | भेंडी|Bhēṇḍī
+mintleaf| पुदीना|Pudīnā
+peanut| शेंगदाणा|Śēṅgadāṇā
+radish| मुळा|Muḷā
+spinach | पालक|Pālaka
+vegetables | भाज्या|Bhājyā
 
-1. cat |
-2. dog |
-3. goat |
-4. sheep |
-5. horse |
-6. pig |
-7. elephant |
-8. lion |
-9. monkey |
-10. tiger |
-11. hippo |
-12. rhino |
-13. fox |
-14. crocodile |
-15. zebra |
-16. bear |
-17. camel |
-18. shark |
-19. whale |
-20. dolphin |
-21. dragonfly |
-22. fish |
-23. frog |
-24. crab |
-25. snake |
-26. squirrel |
-27. tortoise |
-28. rat |
-29. winged-termites |
-30. ant |
-31. fly |
-32. bat |
-33. buffalo |
-34. butterfly |
-35. cheetah |
-36. cow |
-37. donkey |
-38. giraffe |
-39. kangaroo |
-40. leopard |
-41. mongoose |
-42. mosquito |
-43. octopus |
-44. wolf |
-45. cockroach |
-46. garden-lizard |
-47. lizard |
-48. rabbit |
-49. alligator |
-50. boar |
-51. cricket |
-52. hyena |
-53. polarbear |
-54. antelope |
-55. bug |
-56. jackal |
-57. prawn |
-58. baboon |
-59. bull |
-60. dinosaur |
-61. python |
-62. bison |
-63. chameleon |
-64. porcupine |
-65. bee |
-66. goldfish |
-67. jellyfish |
-68. tigerfish |
-69. ladybug |
-70. seahorse |
-71. hamster |
-72. mole |
-73. spider |
-74. caterpillar |
-75. panda |
-76. starfish |
-77. earthworm |
-78. hedgehog |
-79. stingray |
 
-# birds
+3. निसर्ग आणि इतर|Nature and Others
 
-1. crow |
-2. dove |
-3. duck |
-4. hen |
-5. parrot |
-6. peacock |
-7. penguin |
-8. sparrow |
-9. chick |
-10. crane |
-11. eagle |
-12. flamingo |
-13. kingfisher |
-14. myna |
-15. ostrich |
-16. owl |
-17. rooster |
-18. vulture |
-19. woodpecker |
-20. hornbill |
-21. koel |
-22. cuckoo |
-23. pheasant |
-24. falcon |
-25. swan |
-26. bulbul |
-27. spotted-dove |
-28. pelican |
-29. hummingbird |
-30. robin |
-31. swallow |
-32. blue-jay |
-33. seagull |
-34. canary |
-35. goose |
-36. turkey |
-37. hawk |
-38. cardinal |
-39. parakeet |
-40. macaw |
 
-# bodyParts
+3.1. निसर्ग|Nature
 
-1. ear |
-2. eye |
-3. foot |
-4. hairv
-5. hand |
-6. mouth |
-7. nose |
-8. tooth |
-9. forehead |
-10. mustache |
-11. beard |
+sun |सूर्य|Sūrya
+moon|चंद्र|Candra
+star|तारा|Tārā
+world|जग|Jaga
+bird|पक्षी|Pakṣī
+rain|पाऊस| Pā'ūsa
+stone|दगड|Dagaḍa
+pebbles | खडे|Khaḍē
+leaf|पान|Pāna
+tree | झाड|Jhāḍa
+log | Log
+nest |घरटे| Gharaṭē
+dew | दव|Dava
+waterfall |धबधबा|Dhabadhabā
+rainbow |इंद्रधनुष्य| Indradhanuṣya
+cloud | ढग|Ḍhaga
+lightning | Lightning
+web | Web
+shell | शंख|shank
+banyan | वडाचे झाड|Vaḍācē jhāḍa
+bamboo-tree | बांबूचे झाड|Bāmbūcē jhāḍa
+banana-tree | केळीचे झाड|Kēḷīcē jhāḍa
+bananaleaf | केळीचे पान|Kēḷīcē pāna
+coconut-tree | नारळाचे झाड|Nāraḷācē jhāḍa
+coconutleaf |नारळाचे पान|nāraḷācē pāna
+mangoleaf | लीफ हँडल|Līpha ham̐ḍala
+palm-tree | पाम चे झाड|Pāma cē jhāḍa
+neemleaf | लीफ घ्या|Līpha ghyā
 
-# tools
 
-1. axe |
-2. balance |
-3. blackboard |
-4. hose |
-5. microscope |
-6. needle |
-7. oven |
-8. plier |
-9. plough |
-10. saw |
-11. spade |
-12. stethoscope |
-13. telescope |
-14. test-tube |
-15. thermometer |
-16. trowel |
-17. walkie-talkie |
-18. awl |
-19. compass |
-20. easel |
-21. hacksaw |
-22. scalpel |
-23. screw |
-24. screwdriver |
-25. flute |
-26. piano |
-27. tabla |
-28. violin |
-29. guitar |
-30. saxophone |
-31. trumpet |
-32. xylophone |
-33. drums |
-34. yazl |
-35. damaru |
-36. dhol |
-37. mrithangam |
-38. nadaswaram |
-39. veenai |
-40. conch |
+3.2. शरीराचे अवयव|Body Parts
 
-# jobs
+ear |कान|Kāna
+eye |डोळा|Ḍōḷā
+foot |पाऊल|Pā'ūla
+hair|केस|Kēsa
+hand|हात|Hāta
+mouth|तोंड|Tōṇḍa
+nose| नाक|Nāka
+tooth|दात|Dāta
+forehead | कपाळ|Kapāḷa
+mustache | मिशी|Miśī
+beard | दाढी|Dāḍhī
+ankle | घोट्याचा|Ghōṭyācā
+elbow | कोपर|Kōpara
+knee | गुडघा|Guḍaghā
+shoulder | खांदा|Khāndā
+wrist | मनगट|Managaṭa
+thumb | अंगठा|Aṅgaṭhā
+cheek | गाल|Gāla
+chin | हनुवटी|Hanuvaṭī
+nails | नखे|Nakhē
 
-1. astronaut |
-2. clown |
-3. fisherman |
-4. postman |
-5. teacher |
-6. blacksmith |
-7. cobbler |
-8. goldsmith |
-9. potter |
-10. weaver |
-11. carpenter |
-12. diver |
-13. nurse |
-14. sailor |
-15. chef |
-16. doctor |
-17. police |
-18. soldier |
-19. barber |
-20. washerman |
-21. milkman |
-22. shopkeeper |
 
-# nature
+3.3. फुले|Flowers
 
-1. sun |
-2. moon |
-3. rain |
-4. star |
-5. bird |
-6. leaf |
-7. stone |
-8. pebbles |
-9. bone |
-10. forest |
-11. desert |
-12. river |
-13. grassland |
-14. ocean |
-15. polar |
-16. valley |
-17. volcano |
-18. world |
-19. nest |
-20. dew |
-21. waterfall |
-22. rainbow |
-23. tree |
-24. banyan |
-25. coconut-tree |
-26. palm-tree |
-27. bamboo-tree |
-28. banana-tree |
-29. bananaleaf |
-30. mangoleaf |
-31. neemleaf |
-32. coconutleaf |
-33. touch-me-not |
+rose | गुलाब|Gulāba
+lotus | कमळ|Kamaḷa
+sunflower | सूर्यफूल|Sūryaphūla
+marigold | झेंडू|Jhēṇḍū
+hibiscus | Hibiscus
+jasmine | चमेली|Camēlī
+tulip | Tulip
+zinnia | Zinnia
 
-# others
 
-1. brick |
-2. sculpture |
-3. clay-lamp |
-4. rooftile |
-5. water-tower |
-6. ring |
-7. brush |
-8. auvai |
-9. bell |
-10. five |
-11. king |
-12. kite |
-13. ladder |
-14. rishi |
-15. wheel |
-16. whistle |
-17. salangai |
-18. warrior |
-19. knight |
-20. park |
-21. garden |
-22. yagna |
-23. yarn-ball |
-24. bow |
-25. arrow |
-26. fountain |
-27. pouch |
-28. top |
-29. hexagon |
-30. trident |
-31. trolley |
-32. stick |
-33. twig |
-34. medicine |
-35. balloon |
-36. radio |
-37. toothbrush |
-38. toothpaste |
-39. box |
-40. kolam |
-41. coin |
+3.4. इतर|Others
 
-# science
+bell | घंटा|Ghaṇṭā
+brush| Brush
+bone| हाड|Hāḍa
+box | Box
+coin | नाणे|Nāṇē
+top | शीर्ष|Śīrṣa
+balloon | Balloon
+brick | वीट|Vīṭa
+rooftile| छतावरील टाइ|Chatāvarīla ṭā'ila
+stick | काठी|Kāṭhī
+ring| अंगठी|Aṅgaṭhī
+drums| Drum
+food| अन्न|Anna
+king| राजा|Rājā
+queen | राणी|Rāṇī
+kite| पतंग|Pataṅga
+ladder| शिडी|Śiḍī
+wheel| चाक|Cāka
+park | Park
+garden | बाग|Bāga
+sculpture | शिल्पकला|Śilpakalā
+statue | पुतळा|Putaḷā
+clay-lamp | मातीचा दिवा|Mātīcā divā
+clay-stove | Clay Stove
 
-1. heart |
-2. brain |
-3. lungs |
-4. stomach |
-5. liver |
-6. kidney |
-7. incisor |
-8. canine |
-9. premolar |
-10. molar |
+
+4. घर आणि इतर|House and Others
+
+
+4.1. लोक|People
+
+boy|मुलगा|Mulagā
+girl | मुलगी|Mulagī
+man| माणूस|Māṇūsa
+woman | स्त्री|Strī
+baby | बाळ|Bāḷa
+mother | आई|Ā'ī
+father | वडील|Vaḍīla
+grandfather | आजोबा|Ājōbā
+grandma | आजी|Ājī
+
+
+4.2. घर|House
+
+house| घर|Ghara
+table|Table
+bed|पलंग|Palaṅga
+mat | चटई|Caṭa'ī
+mop | दांडपोतेरे| daandapotere
+mug | Mug
+lock | कुलूप|Kulūpa
+key | चावी|chaavi
+net | Net
+rope |दोरी|Dōrī
+teapot | चहाची भांडी|Cahācī bhāṇḍī
+fan | पंखा|Paṅkhā
+ball | चेंडू|Cēṇḍū
+teddy | Teddy Bear
+jug | गुळ|Guḷa
+lightbulb | Bulb
+candle|मेणबत्ती|Mēṇabattī
+chair|खुर्ची|Khurcī
+shelf|Shelf
+switchboard| Switchboard
+coat|Coat
+glasses|चष्मा|Caṣmā
+clock | घड्याळ|Ghaḍyāḷa
+watch | Watch
+flower-pot | फुलदाणी|Phuladāṇī
+umbrella | छत्री|Chatrī
+door | दार|Dāra
+broom | झाडू|Jhāḍū
+window | खिडकी|Khiḍakī
+sofa | Sofa
+kettle | Kettle
+bucket | बादली|Bādalī
+toilet | शौचालय|Śaucālaya
+soap | साबण|Sābaṇa
+helmet | शिरस्त्राण|Śirastrāṇa
+backpack | Backpack
+pillow | उशी| Uśī
+basket | टोपली|Ṭōpalī
+dustbin | Dustbin
+bed-lamp | Bed Lamp
+handbag | Handbag
+steps | पायऱ्या|Pāyaṟyā
+curtains | पडदे|Paḍadē
+watertank | पाण्याची टाकी|Pāṇyācī ṭākī
+air-conditioner | Air Conditioner
+washing-machine | Washing Machine
+
+
+4.3. पोशाख|Dress
+
+dress | Dress
+coat | Coat
+shoe | बूट|Būṭa
+sock | मोजे|Mōjē
+boots | Boots
+pyjama | Pyjama
+gloves | हातमोजा|Hātamōjā
+scarf | Scarf
+sweater | Sweater
+bib | Bib
+shirt | Shirt
+jacket | Jacket
+hat | टोपी|Ṭōpī
+trousers | पायघोळ|Pāyaghōḷa
+saree | Saree
+
+
+4.4. शाळा|School
+
+pen |Pen
+pencil|Pencil
+ruler|शासक|Śāsaka
+blackboard | Black Board
+chalk | खडू|Khaḍū
+nib | Nib
+eraser|खोडरबर|Khōḍarabara
+scissors|कात्री|Kātrī
+sharpener|Sharpener
+calculator| Calculator
+book| पुस्तक|Pustaka
+ink | शाई|Śā'ī
+globe | Globe
+schoolbag| शाळेचे दप्तर|Śāḷēcē daptara
+waterbottle| Waterbottle
+color-pencils| Color Pencils
+crayons | Crayons
+notebook | Notebook
+writingpad | Writing Pad
+
+
+4.5. स्वयंपाकघर|Kitchen
+
+stove |Stove
+fork|काटा|Kāṭā
+knife|चाकू|Cākū
+pan|Pan
+spoon|चमचा|Camacā
+pot|भांडे|Bhāṇḍē
+butter|लोणी|Lōṇī
+plate | Plate
+tap | Tap
+lid | झाकण|Jhākaṇa
+
+blender | Blender
+grinder | Grinder
+cheese | Cheese
+fridge | Fridge
+lollipop | Lollipop
+salad | कोशिंबीर|Kōśimbīra
+sugar | साखर| Sākhara
+bowl | वाटी|Vāṭī
+chicken | Chicken
+milk|दूध|Dūdha
+fruits|फळे|Phaḷē
+ice-cream | Ice cream
+meat | मांस|Mānsa
+
+salt | मीठ|Mīṭha
+french-fry | French Fry
+soft-drink | हलकं पेय|Halakaṁ pēya
+pizza | Pizza
+sweets | मिठाई|Miṭhā'ī
+bread | Bread
+cup | Cup
+juice | रस|Rasa
+mushroom | Mushroom
+sandwich | Sandwich
+cake | Cake
+burger | Burger
+flour | पीठ|Pīṭha
+lentils | मसूर|Masūra
+
+rice | तांदूळ|Tāndūḷa
+soup | Soup
+
+
+5. कृती आणि क्रीडा|Action and Sports
+
+
+5.1. कृती|Actions
+
+drink| पेय|Pēya
+eat| खा|Khā
+bend | वाकणे|Vākaṇē
+climb | चढणे|Caḍhaṇē
+jump | उडी|Uḍī
+kneel | गुडघे टेकले|Guḍaghē ṭēkalē
+pull | ओढा|Ōḍhā
+push | ढकलणे|Ḍhakalaṇē
+sing | गाणे|Gāṇē
+dance | नृत्य|Nr̥tya
+running | धावा|Dhāvā
+walking | चालणे|Cālaṇē
+sit | बसा|Basā
+party | पार्टी|Pārṭī
+skipping | वगळा|Vagaḷā
+catch | झेल|Jhēla
+pass | पास|Pāsa
+swim | पोहणे|Pōhaṇē
+swing | Swing
+throw | फेकणे|Phēkaṇē
+carry | वाहून नेणे|Vāhūna nēṇē
+lifting | lift
+mopping | Moping
+riding | Ride
+sweep | Sweep
+cough | खोकला|Khōkalā
+sick | आजारी|Ājārī
+sneeze |शिंकणे|Śiṅkaṇē
+yawn | जांभई|Jāmbha'ī
+sleep | झोप|Jhōpa
+
+
+5.2. क्रीडा|Sports
+
+bat2 | वटवाघूळ|Vaṭavāghūḷa
+racket | Racket
+seesaw | Seesaw
+slide | Slide
+carrom | Carrom
+chess | बुद्धिबळ|Bud'dhibaḷa
+cricket2 | Cricket
+tennis | Tennis
+football | Football
+hockey | Hockey
+kabaddi | Kabaddi
+archery | धनुर्विद्या|Dhanurvidyā
+basketball | Basket ball
+boxing | Boxing
+table-tennis | table-tennis
+golf | Golf
+wrestling | कुस्ती|Kustī
+
+
+karate | Karate
+surfing | Surfing
+
+jockey | Jockey
+track | Track
+
+bandage | मलमपट्टी|Malamapaṭṭī
+danger | धोका|Dhōkā
+
+
+6. अधिक प्राणी आणि पक्षी|More Animals and Birds
+
+
+6.1. अधिक प्राणी|More Animals
+
+mongoose| मुंगूस|Muṅgūsa
+mosquito| डास|Ḍāsa
+octopus| Octopus|
+wolf| लांडगा|Lāṇḍagā
+lizard| सरडा|Saraḍā
+termite |दीमक|Dīmaka
+cockroach| झुरळ|Jhuraḷa
+garden-lizard| बाग सरडा|Bāga saraḍā
+winged-termites | पंख असलेला दीमक|Paṅkha asalēlā dīmaka
+rabbit| ससा| Sasā
+leopard| बिबट्या|Bibaṭyā
+dragonfly |Dragonfly|
+fly|माशी|maashi
+squirrel|खार|char
+dinosaur | Dinosaur|
+alligator | मगर|Magara
+boar | डुक्कर|Ḍukkara
+cricket | Cricket|
+hyena | हिरवळी|Hiravalī
+polarbear | ध्रुवीय अस्वल|Dhruvīya asvala
+antelope | काळवीट|Kāḷavīṭa
+bug | किडा|Kiḍā
+jackal | Jackal|
+prawn | कोळंबी|Kōḷambī
+baboon | Baboon|
+python | अजगर|Ajagara
+bison | बिबट्या|Bibaṭyā
+chameleon | गिरगिट|Giragiṭa
+porcupine | Porcupine|
+tigerfish | Tigerfish|
+ladybug | Ladybug|
+seahorse | Seahorse|
+hamster | Hamster|
+mole | तीळ|Tīḷa
+caterpillar | सुरवंट|Suravaṇṭa
+earthworm | गांडूळ|Gāṇḍūḷa
+hedgehog | हेज हॉग|Hēja hŏga
+stingray | Stingray|
+jellyfish | Jellyfish|
+starfish | Starfish|
+
+
+6.2. अधिक पक्षी|More Birds
+
+hornbill | Hornbill|
+cuckoo | Cuckoo|
+pheasant |तीतर |Tītara
+falcon | Falcon|
+swan | हंस|Hansa
+bulbul | बुलबुल|Bulabula
+spotted-dove | Spotted Dove|
+pelican | Pelican|
+hummingbird | Hummingbird|
+robin | Robin|
+swallow | Swallow|
+blue-jay | Blue jay|
+seagull | Seagull|
+canary | Canary|
+goose | Goose|
+turkey | Turkey|
+hawk | Hawk|
+cardinal | Cardinal|
+parakeet | Parakeet|
+macaw | Macaw|
+
+
+7. अधिक फळे आणि भाज्या|More Fruits and Vegetables
+
+
+7.1. अधिक फळे |More Fruits
+
+star-fruit | Star fruit|
+dragon-fruit | Dragon fruit|
+sugarcane | ऊस|Ūsa
+peach | जांभूळ|Jāmbhūḷa
+sweet-potato | रताळे|Ratāḷē
+jamun | Jamun|
+pear | नाशपाती |Nāśapātī
+water-chestnut | Water chestnut|
+jujube | Jujube|
+sapotta | Sapotta|
+tapioca | Tapioca|
+blueberry | Blueberry|
+wood-apple | Wood Apple
+gooseberry | Gooseberry
+passion-fruit | आवड-फळ|Āvaḍa-phaḷa
+
+
+7.2. अधिक भाज्या|More Vegetables
+
+pepper | मिरी|Mirī
+wheat | गहू|Gahū
+paddy | भात|Bhāta
+rice | तांदूळ|Tāndūḷa
+chickpea | चणे|Caṇē
+mustard-greens | Mustard greens|
+turmeric |  हळद|Haḷada
+turnip | सलगम |
+fenugreek | मेथी|Mēthī
+tamarind | चिंच|Cin̄ca
+elephant-yam | Elephant Yam|
+ashgourd | भोपळा|Bhōpaḷā
+broad-beans | नागमोडी |Nāgamōḍī
+snake-gourd | Snake-gourd|
+banana-flower | केळी-फुल|Kēḷī-phula
+cluster-beans | Cluster beans|
+kohlrabi | Kohlrabi|
+spring-onion | Spring onion|
+banana-stem | Banana stem|
+drumstick-leaves | Drumstick leaves|
+raw-banana | कच्ची केळी|Kaccī kēlī
+tulsi | तुळशी|Tuḷaśī
+bottlegourd | बाटली|Bāṭalī
+ivygourd | Ivygourd|
+ridgegourd | Ridgegourd|
+
+
+8. वाहने आणि नोकऱ्या|Vehicles and Jobs
+
+
+8.1. वाहने |Vehicles
+
+aeroplane | विमान|Vimāna
+boat | बोट |boat
+bus | बस|bus
+car | कार|car
+cycle | सायकल|caical
+helicoptor | Helicopter
+motorbike | Motorbike
+ship | जहाज|Jahāja
+tractor | Tractor
+lorry| लॉरी|Lŏrī
+train | Train
+ambulance| रुग्णवाहिका|Rugṇavāhikā
+auto| Auto
+cart| Cart
+metro | Metro
+excavator| उत्खनन|Utkhanana
+fire-engine| Fire Engine
+van| Van
+bulldozer | Bulldozer
+rocket | Rocket
+submarine | पाणबुडी|Pāṇabuḍī
+spaceship | Spaceship
+bullock-cart | Bullock Cart
+horse-carriage | Carriage
+palanquin | Palanquin
+chariot | Chariot
+
+
+8.2. नोकऱ्या|Jobs
+
+astronaut | अंतराळवीर|Antarāḷavīra
+clown | जोकर|Jōkara
+fisherman | मच्छीमार|Macchīmāra
+postman | पोस्टमॅन|Pōsṭamĕna
+teacher | शिक्षक|Śikṣaka
+blacksmith | लोहार|Lōhāra
+cobbler | मोची|Mōcī
+goldsmith | Goldsmith
+potter | कुंभार|Kumbhāra
+weaver | विणकर|Viṇakara
+carpenter | सुतार|Sutāra
+diver | Diver
+nurse | परिचारिका|Paricārikā
+sailor | नाविक|Nāvika
+chef | आचारी|Ācārī
+doctor | डॉक्टर|
+police | पोलिस|Pōlīsa
+soldier | सैनिक|Sainika
+barber | न्हावी|Nhāvī
+washerman | धोबी|dhobi
+milkman | दूधवाला|Dūdhavālā
+shopkeeper | दुकानदार|Dukānadāra
+businessman | उद्योगपती|Udyōgapatī
+cashier | रोखपाल|Rōkhapāla
+electrician | Electrician
+farmer | शेतकरी|Śētakarī
+mechanic | Mechanic
+pilot | Pilot
+plumber | Plumber
+scientist |शास्त्रज्ञ|Śāstrajña
+seller | विक्रेता|Vikrētā
+software-developer | Software Developer
+
+
+9. अधिक प्रतिमा|More Images
+
+
+9.1. गॅझेट|Gadgets
+
+camera |Camera
+headphone|Headphone
+pendrive|Pendrive
+remote|Remote
+smartphone|Smartphone
+speaker|Speaker
+tablet|Tablet
+torch|Torch
+web-camera | Web Camera
+radio | Radio
+tv | Television
+laptop | Laptop
+computer | Computer
+keyboard | Keyboard
+
+
+9.2. इतर|Others
+
+angel | परी|Parī
+alien | Alien
+knight | घोड्याचा|Ghōcāḍyā
+chariot | रथ|Ratha
+horse-carriage | घोडा-वाहून|Ghōḍā-vāhūna
+yarn-ball | नेणारा|Nēṇārā
+bow | सूत-चेंडू|Sūta-cēṇḍū
+arrow | बाण|Bāṇa
+fountain | फवारा|Phavārā
+pouch | Pouch
+trolley | Trolley
+whistle |शिट्टी|Śiṭṭī
+twig |डाळी |Ḍāḷī
+palanquin | पालखी|Pālakhī
+medicine | औषध|Auṣadha
+conch| शंख|Śaṅkha
+toothbrush | Toothbrush
+chocolate | चॉकलेट|Cŏkalēṭa
+toothpaste | Toothpaste
+trident | त्रिशूळ|Triśūḷa
+
+
+9.3. अधिक फुले|More Flowers
+
+daffodil | Daffodil
+gulmohar | Gulmohar
+lily | Lily
+pansy | Pansy
+poppy | Poppy
+daisy | Daisy
+jasmine | चमेली|Camēlī
+magnolia | Magnolia
+periwinkle | Periwinkle
+water-lily | Water Lily
+
+
+10. सामाजिक आणि विज्ञान|Social and Science
+
+
+10.1. सामाजिक विज्ञान|Social Science
+
+mountain | डोंगर|Ḍōṅgara
+seashore | समुद्रकिनारी|Samudrakinārī
+forest | वन|Vana
+desert | वाळवंट|Vāḷavaṇṭa
+river | नदी|Nadī
+grassland | गवताळ प्रदेश|Gavatāḷa pradēśa
+ocean | महासागर|Mahāsāgara
+polar | ध्रुवीय|Dhruvīya
+valley | दरी|Darī
+volcano | ज्वालामुखी|Jvālāmukhī
+apartment | सदनिका|sadnika
+bamboo-house | बांबू घर|Bāmbū ghara
+hut | झोपडी|Jhōpaḍī
+igloo | Igloo
+tent-house | Tent House
+tree-house | Tree House
+road |रस्ता|Rastā
+railway | Railway
+well | विहीर|Vihīra
+airport | विमानतळ|Vimānataḷa
+bank | Bank
+classroom | वर्ग|Varga
+factory | कारखाना|Kārakhānā
+fort | किल्ला|Killā
+gopuram
+harbour | बंदर|बंदर
+hospital | हॉस्पिटल|Hŏspiṭala
+library | Library
+lighthouse | Light House
+map | नकाशा|Nakāśā
+office | कार्यालय|Kāryālaya
+palace | राजवाडा|Rājavāḍā
+parkinglot | Parking Lot
+restaurant |उपहारगृह|Upahāragr̥ha
+stage | रंगमंच|Raṅgaman̄ca
+supermarket | Super Market
+escalator | Escalator
+lift | Lift
+petrolbunk | Petrol Bunk
+footpath | Foot Path
+pillar | खांब|Khāmba
+
+
+10.2. अवयव|Organs
+
+heart|हृदय|Hr̥daya
+brain|मेंदू| mēndū
+lungs|फुफ्फुसे|phuphphusē
+stomach| पोट| pōṭa
+liver| यकृत|yakr̥ta
+kidney|मूत्रपिंड| mūtrapiṇḍa
+
+
+10.3. दात|Teeth
+
+incisor | Incisor
+canine | Canine
+premolar | Premolar
+molar |दाढ|dāḍha
+
+
+10.4. विज्ञान|Science
+
+windmill | पवनचक्की|pavanacakkī
+solar-panel | Solar Panel
+bridge | पूल|  pūla
+dam | धरण|dharaṇa
+water-tower | Water Tower
+electricpole |  विद्युत खांब |vidyuta khāmba
+
+
+11. साधने आणि संगीत वाद्ये|Tools and Music Instruments
+
+
+11.1. नोकरीसाठी साधने|Tools for Job
+
+geometrybox | Geometry Box
+compass2 | Compass
+divider | दुभाजक|dubhājaka
+protractor | संरक्षक|sanrakṣaka
+screw | Screw
+screwdriver | पेचकस|pēcakasa
+spanner | Spanner
+axe | कुर्हाड|  kur'hāḍa
+balance | शिल्लक|śillaka
+blackboard | Blackboard
+hose | रबरी नळी|rabarī naḷī
+microscope | सूक्ष्मदर्शक|sūkṣmadarśaka
+needle | सुई |su'ī
+syringe | Syringe
+oven | Oven
+plier | पक्कड|pakkaḍa
+plough | नांगर|nāṅgara
+saw | पाहिले |pāhilē
+spade | कुदळ|kudaḷa
+stethoscope | Stethoscope
+telescope | दुर्बिणी|durbiṇī
+test-tube | परीक्षा नळी|parīkṣā naḷī
+thermometer | Thermometer
+trowel | Trowel
+walkie-talkie|Walkie talkie
+awl | Awl
+compass | होकायंत्र|hōkāyantra
+easel | चित्रफलक|citraphalaka
+hacksaw | खाचखळगे|khācakhaḷagē
+scalpel | Scalpel
+
+
+11.2. संगीत वाद्ये|Music Instruments
+
+violin | Violin
+flute | बासरी|bāsarī
+guitar | Guitar
+xylophone | Xylophone
+piano | Piano
+veenai | Veenai
+saxophone | Saxophone
+tabla | तबला| tabalā
+trumpet | कर्णा| karṇā
+
+```
