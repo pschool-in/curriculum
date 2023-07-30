@@ -15,14 +15,14 @@ stone|दगड|Dagaḍa
 pebbles | खडे|Khaḍē
 leaf|पान|Pāna
 tree | झाड|Jhāḍa
-log | Log
+log |  ओंडका | Log
 nest |घरटे| Gharaṭē
 dew | दव|Dava
 waterfall |धबधबा|Dhabadhabā
 rainbow |इंद्रधनुष्य| Indradhanuṣya
 cloud | ढग|Ḍhaga
-lightning | Lightning
-web | Web
+lightning |चमकणारी वीज | Camakaṇārī vīja
+web | जाळे | Jāḷē
 shell | शंख|shank
 banyan | वडाचे झाड|Vaḍācē jhāḍa
 bamboo-tree | बांबूचे झाड|Bāmbūcē jhāḍa
@@ -30,9 +30,9 @@ banana-tree | केळीचे झाड|Kēḷīcē jhāḍa
 bananaleaf | केळीचे पान|Kēḷīcē pāna
 coconut-tree | नारळाचे झाड|Nāraḷācē jhāḍa
 coconutleaf |नारळाचे पान|nāraḷācē pāna
-mangoleaf | लीफ हँडल|Līpha ham̐ḍala
-palm-tree | पाम चे झाड|Pāma cē jhāḍa
-neemleaf | लीफ घ्या|Līpha ghyā`
+mangoleaf | आंब्याचे पान|Āmbyācē pāna
+palm-tree | ताडाचे झाड|Tāḍācē jhāḍa
+neemleaf | कडुलिंबाचे पान|Kaḍulimbācē pāna`
     },
     {
       id: 'body-parts',
@@ -48,7 +48,7 @@ tooth|दात|Dāta
 forehead | कपाळ|Kapāḷa
 mustache | मिशी|Miśī
 beard | दाढी|Dāḍhī
-ankle | घोट्याचा|Ghōṭyācā
+ankle | घोटा|Ghōṭā
 elbow | कोपर|Kōpara
 knee | गुडघा|Guḍaghā
 shoulder | खांदा|Khāndā
@@ -62,41 +62,41 @@ nails | नखे|Nakhē`
       id: 'flowers',
       label: 'फुले|Flowers',
       text: `rose | गुलाब|Gulāba
-        lotus | कमळ|Kamaḷa
-        sunflower | सूर्यफूल|Sūryaphūla
-        marigold | झेंडू|Jhēṇḍū
-        hibiscus | Hibiscus
+lotus | कमळ|Kamaḷa
+sunflower | सूर्यफूल|Sūryaphūla
+marigold | झेंडू|Jhēṇḍū
+hibiscus |जास्वंद| Jāsvanda
 jasmine | चमेली|Camēlī
-tulip | Tulip
-zinnia | Zinnia`
+tulip | तेजस्वी फूल | tejasvee phool
+zinnia | झिनिया | Zinnia`
     },
     {
       id: 'others',
       label: 'इतर|Others',
       text: `bell | घंटा|Ghaṇṭā
-brush| Brush
+brush|ब्रश |  Brush
 bone| हाड|Hāḍa
-box | Box
+box | पेटी | Box
 coin | नाणे|Nāṇē
 top | शीर्ष|Śīrṣa
-balloon | Balloon
+balloon | फुगा | Phugā
 brick | वीट|Vīṭa
-rooftile| छतावरील टाइ|Chatāvarīla ṭā'ila
+rooftile| छतावरील फरशा|Chatāvarīla Pharaśā
 stick | काठी|Kāṭhī
 ring| अंगठी|Aṅgaṭhī
-drums| Drum
+drums | ढोल| Ḍhōla
 food| अन्न|Anna
 king| राजा|Rājā
 queen | राणी|Rāṇī
 kite| पतंग|Pataṅga
 ladder| शिडी|Śiḍī
 wheel| चाक|Cāka
-park | Park
+park | उद्यान | Udyāna
 garden | बाग|Bāga
 sculpture | शिल्पकला|Śilpakalā
 statue | पुतळा|Putaḷā
 clay-lamp | मातीचा दिवा|Mātīcā divā
-clay-stove | Clay Stove`
+clay-stove | चिकणमातीचीशेगडी | Cikaṇamātīcīśēgaḍī`
     }
   ]
 };

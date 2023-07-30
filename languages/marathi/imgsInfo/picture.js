@@ -10,22 +10,22 @@ dog | कुत्रा |Kutrā
 goat| शेळी |Śēḷī
 cow| गाय| Gāya
 donkey| गाढव| Gāḍhava
-horse| घोडा|Ghōḍā 
+horse| घोडा|Ghōḍā
 pig| डुक्कर|Ḍukkara
 elephant| हत्ती|Hattī
 lion |सिंह|Sinha
 monkey| माकड|Mākaḍa
 
-hippo| Hippo
+hippo | पाणघोडा | Hippo
 rhino| गेंडा|Gēṇḍā
 fox| कोल्हा|Kōl'hā
 crocodile| मगर|Magara
-zebra| Zebra
+zebra| ज़ीब्र| Zebra
 bear| अस्वल|Asvala
 camel| उंट|Uṇṭa
-shark| Shark
+shark | शार्क| Shark
 whale| देवमासा|Dēvamāsā
-dolphin| Dolphin
+dolphin | डॉल्फिन| Ḍŏlphina
 
 tiger| वाघ|Vāgha
 sheep| मेंढ्या|Mēṇḍhyā
@@ -41,13 +41,13 @@ ant| मुंगी| Muṅgī
 bat| वटवाघूळ|Vaṭavāghūḷa
 buffalo| म्हैस|Mhaisa
 butterfly| फुलपाखरू|Phulapākharū
-cheetah| Cheetah
+cheetah | चित्ता| Cheetah
 bee | मधमाशी|Madhamāśī
 goldfish | सोनेरी मासा| Sōnērī māsā
 spider | कोळी|Kōḷī
-panda | Panda
-giraffe| Giraffe
-kangaroo| Kangaroo`
+panda | पांडा | Panda
+giraffe | जिराफ| Giraffe
+kangaroo |  कांगारू| Kangaroo`
     },
     {
       id: 'birds',
@@ -56,23 +56,23 @@ kangaroo| Kangaroo`
 dove|पारवा|Pāravā
 duck|बदक|Badaka
 hen|कोंबडी|Kōmbaḍī
-chick| Chick
+chick| कोंबडी | Kōmbaḍī
 parrot|पोपट|Pōpaṭa
 peacock|मोर|Mōra
-penguin|Penguin
+penguin | पेंग्विन|Penguin
 sparrow|चिमणी|Cimaṇī
-crane| Crane
+crane| बगळा | Crane
 
 eagle| गरुड|Garuḍa
-flamingo| Flamingo
-kingfisher| Kingfisher
-myna| Myna
+flamingo | रोहित पक्षी| Flamingo
+kingfisher| खंड्या | Kingfisher
+myna| साळुंकी | Myna
 ostrich| शहामृग|Śahāmr̥ga
 owl| घुबड|Ghubaḍa
 rooster| कोंबडा|Kōmbaḍā
 vulture| गिधाड|Gidhāḍa
-woodpecker| लाकूडपेकर|Lākūḍapēkara
-koel | Koel`
+woodpecker| सुतारपक्षी|Sutārapakṣī
+koel |कोयल | Kōyala`
     }
   ]
 };

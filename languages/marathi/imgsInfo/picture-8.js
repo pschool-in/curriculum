@@ -6,51 +6,51 @@ export default {
       id: 'vehicles',
       label: 'वाहने |Vehicles ',
       text: `aeroplane | विमान|Vimāna
-        boat | बोट |boat
-        bus | बस|bus
-        car | कार|car
-        cycle | सायकल|caical
-        helicoptor | Helicopter
-        motorbike | Motorbike
+boat | बोट |boat
+bus | बस|bus
+car | कार|car
+cycle | सायकल|caical
+helicoptor|हेलीकॉप्टर| Helicopter
+motorbike | मोटारसायकल | Mōṭārasāyakala
 ship | जहाज|Jahāja
-tractor | Tractor
+tractor | यांत्रिक नांगर | Yāntrika nāṅgara
 lorry| लॉरी|Lŏrī
-train | Train
+train| आगगाडी | Āgagāḍī
 ambulance| रुग्णवाहिका|Rugṇavāhikā
-auto| Auto
-cart| Cart
-metro | Metro
+auto | मोटारगाडी | Mōṭāragāḍī
+cart|  गाडी | gāḍī
+metro | मेट्रो ट्रेन| Mēṭrō ṭrēna
 excavator| उत्खनन|Utkhanana
-fire-engine| Fire Engine
-van| Van
-bulldozer | Bulldozer
-rocket | Rocket
+fire-engine| Fire Engine| अग्निशामक
+Van | व्हॅन | Vhĕna
+bulldozer | चेपगाडा | Chepgada
+rocket | अग्निबाण| Agnibāṇa
 submarine | पाणबुडी|Pāṇabuḍī
-spaceship | Spaceship
-bullock-cart | Bullock Cart
-horse-carriage | Carriage
-palanquin | Palanquin
-chariot | Chariot`
+spaceship | अंतराळ जहाज | Antarāḷa jahāja
+bullock-cart | बैलगाडी | Bailagāḍī
+horse-carriage | घोडा गाडी | Ghōḍā gāḍī
+palanquin | पालखी | Pālakhī
+chariot | रथ | Ratha`
     },
     {
       id: 'jobs',
       label: 'नोकऱ्या|Jobs',
       text: `astronaut | अंतराळवीर|Antarāḷavīra
-        clown | जोकर|Jōkara
-        fisherman | मच्छीमार|Macchīmāra
-        postman | पोस्टमॅन|Pōsṭamĕna
-        teacher | शिक्षक|Śikṣaka
-        blacksmith | लोहार|Lōhāra
-        cobbler | मोची|Mōcī
-goldsmith | Goldsmith
+clown | जोकर|Jōkara
+fisherman | मच्छीमार|Macchīmāra
+postman | पोस्टमॅन|Pōsṭamĕna
+teacher | शिक्षक|Śikṣaka
+blacksmith | लोहार|Lōhāra
+cobbler | मोची|Mōcī
+goldsmith | सोनार | Sōnāra
 potter | कुंभार|Kumbhāra
 weaver | विणकर|Viṇakara
 carpenter | सुतार|Sutāra
-diver | Diver
+diver | पाणबुडया| Pāṇabuḍyā
 nurse | परिचारिका|Paricārikā
 sailor | नाविक|Nāvika
 chef | आचारी|Ācārī
-doctor | डॉक्टर|
+doctor | वैदय| Vaidya
 police | पोलिस|Pōlīsa
 soldier | सैनिक|Sainika
 barber | न्हावी|Nhāvī
@@ -61,12 +61,12 @@ businessman | उद्योगपती|Udyōgapatī
 cashier | रोखपाल|Rōkhapāla
 electrician | Electrician
 farmer | शेतकरी|Śētakarī
-mechanic | Mechanic
-pilot | Pilot
-plumber | Plumber
+mechanic | यंत्रज्ञ | Yantrajña
+pilot | वैमानिक| Vaimānika
+plumber | नळ जोडारी| Naḷa jōḍaṇī
 scientist |शास्त्रज्ञ|Śāstrajña
 seller | विक्रेता|Vikrētā
-software-developer | Software Developer`
+software-developer | सॉफ्टवेअर विकसक | Sŏphṭavē'ara vikasaka`
     }
   ]
 };

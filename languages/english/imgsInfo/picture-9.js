@@ -24,7 +24,7 @@ keyboard | Keyboard`
       id: 'others-2',
       label: 'Others',
       text: `angel | Angel
-      alien | Alien
+alien | Alien
 knight | Knight
 warrior | Warrior
 chariot | Chariot

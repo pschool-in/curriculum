@@ -6,13 +6,13 @@ export default {
       id: 'tools',
       label: 'Tools for Job',
       text: `geometrybox | Geometry Box
-      compass2 | Compass
-      divider | Divider
-      protractor | Protractor
-      screw | Screw
-      screwdriver | Screw Driver
-      spanner | Spanner
-      axe | Axe
+compass2 | Compass
+divider | Divider
+protractor | Protractor
+screw | Screw
+screwdriver | Screw Driver
+spanner | Spanner
+axe | Axe
 balance | Balance
 hose | Hose
 microscope | Microscope
@@ -20,14 +20,14 @@ needle | Needle
 syringe | Syringe
 oven | Oven
 plier | Plier
-      plough | Plough
+plough | Plough
 saw | Saw
 spade | Spade
 stethoscope | Stethoscope
 telescope | Telescope
 test-tube | Test tube
 thermometer | Thermometer
-      trowel | Trowel
+trowel | Trowel
 walkie-talkie|Walkie talkie
 awl | Awl
 compass | Compass
@@ -39,7 +39,7 @@ scalpel | Scalpel`
       id: 'instruments',
       label: 'Music Instruments',
       text: `violin | Violin
-      flute | Flute
+flute | Flute
 guitar | Guitar
 xylophone | Xylophone
 piano | Piano

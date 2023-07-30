@@ -8,9 +8,9 @@ export default {
       text: `apple | सफरचंद|Sapharacanda
 grapes | द्राक्षे|Drākṣē
 banana | केळी|Kēḷī
-cherry | Cherry
-avocado | Avocado
-strawberry | Strawberry
+cherry | चेरी | Cērī
+avocado | एव्होकाडो | Evhokado
+strawberry | स्ट्रॉबेरी| Strawberry
 guava | पेरू|Pērū
 jackfruit | फणस|Phaṇasa
 mango | आंबा|Āmbā
@@ -23,19 +23,19 @@ pomegranate| डाळिंब|Ḍāḷimba
 fig| अंजीर|An̄jīra
 custard-apple| सीताफळ| Sītāphaḷa
 plum| मनुका| Manukā
-dates| तारखा| Tārakhā
-muskmelon|कस्तुरी |Kasturī`
+dates| खजूर| Khajūra
+muskmelon|खरबूज |Kharbūj`
     },
     {
       id: 'vegetables',
       label: 'भाज्या|Vegetables',
       text: `carrot | गाजर| Gājara
-beetroot | Beetroot
+beetroot | बीटरूट |Beetroot
 onion | कांदा| Kāndā
 tomato | टोमॅटो|Ṭōmĕṭō
 potato | बटाटा|Baṭāṭā
 cabbage | कोबी| Kōbī
-corn | Corn
+corn | मका | Corn
 cucumber |काकडी| Kākaḍī
 garlic|लसूण| Lasūṇa
 ginger|आले|Ālē
@@ -43,7 +43,7 @@ ginger|आले|Ālē
 cauliflower| फुलकोबी|Phulakōbī
 pumpkin| भोपळा|Bhōpaḷā
 almond| बदाम| Badāma
-beans| Beans
+beans| शेंगा | Beans
 bitter-gourd| कारले|Kāralē
 brinjal| वांगे|Vāṅgē
 capsicum| शिमला मिर्ची| Śimalā mircī
@@ -55,7 +55,7 @@ lemon | लिंबू|Limbū
 corianderleaf | कोथिंबीर पान|Kōthimbīra pāna
 curryleaf | कढीपत्ता| Kaḍhīpattā
 drumstick| शेवगा|Śēvagā
-greenpeas| मटार|Maṭāra
+greenpeas| हिरवा वाटाणा|Hiravā vāṭāṇā
 ladies-finger | भेंडी|Bhēṇḍī
 mintleaf| पुदीना|Pudīnā
 peanut| शेंगदाणा|Śēṅgadāṇā

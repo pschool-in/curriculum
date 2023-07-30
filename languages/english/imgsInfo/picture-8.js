@@ -6,12 +6,12 @@ export default {
       id: 'vehicles',
       label: 'Vehicles',
       text: `aeroplane | Aeroplane
-        boat | Boat
-        bus | Bus
-        car | Car
-        cycle | Cycle
-        helicoptor | Helicopter
-        motorbike | Motorbike
+boat | Boat
+bus | Bus
+car | Car
+cycle | Cycle
+helicoptor | Helicopter
+motorbike | Motorbike
 ship | Ship
 tractor | Tractor
 lorry| Lorry
@@ -38,12 +38,12 @@ chariot | Chariot`
       id: 'jobs',
       label: 'Jobs',
       text: `astronaut | Astronaut
-        clown | Clown
-        fisherman | Fisherman
-        postman | Postman
-        teacher | Teacher
-        blacksmith | Blacksmith
-        cobbler | Cobbler
+clown | Clown
+fisherman | Fisherman
+postman | Postman
+teacher | Teacher
+blacksmith | Blacksmith
+cobbler | Cobbler
 goldsmith | Goldsmith
 potter | Potter
 weaver | Weaver

@@ -25,10 +25,10 @@ passion-fruit | Passion fruit`
       id: 'vegetables-2',
       label: 'More Vegetables',
       text: `pepper | Pepper
-      wheat | Wheat
-      paddy | Paddy
-      rice | Rice
-      chickpea | Chickpea
+wheat | Wheat
+paddy | Paddy
+rice | Rice
+chickpea | Chickpea
 mustard-greens | Mustard greens
 turmeric | Turmeric
 turnip | Turnip

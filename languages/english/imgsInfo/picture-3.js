@@ -62,10 +62,10 @@ nails | Nails`
       id: 'flowers',
       label: 'Flowers',
       text: `rose | Rose
-        lotus | Lotus
-        sunflower | Sunflower
-        marigold | Marigold
-        hibiscus | Hibiscus
+lotus | Lotus
+sunflower | Sunflower
+marigold | Marigold
+hibiscus | Hibiscus
 jasmine | Jasmine
 tulip | Tulip
 zinnia | Zinnia`
@@ -91,8 +91,8 @@ queen | Queen
 kite| Kite
 ladder| Ladder
 quill | Quill
-  oar | Oar
-  gun | Gun
+oar | Oar
+gun | Gun
 wheel| Wheel
 park | Park
 garden | Garden

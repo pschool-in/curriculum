@@ -5,49 +5,49 @@ export default {
     {
       id: 'tools',
       label: 'नोकरीसाठी साधने|Tools for Job',
-      text: `geometrybox | Geometry Box
-compass2 | Compass
+      text: `geometrybox | भूमिती पेटी | Bhūmitī pēṭī
+compass2 |
 divider | दुभाजक|dubhājaka
 protractor | संरक्षक|sanrakṣaka
-screw | Screw
+screw | खिळा | Khiḷā
 screwdriver | पेचकस|pēcakasa
-spanner | Spanner
+spanner | पाना | Pāna
 axe | कुर्हाड|  kur'hāḍa
 balance | शिल्लक|śillaka
-blackboard | Blackboard
+blackboard | ब्लॅकबोर्ड | Blĕkabōrḍa
 hose | रबरी नळी|rabarī naḷī
 microscope | सूक्ष्मदर्शक|sūkṣmadarśaka
 needle | सुई |su'ī
-syringe | Syringe
-oven | Oven
+syringe | पिचकारी | Syringe
+oven | भट्टी | Bhaṭṭī
 plier | पक्कड|pakkaḍa
 plough | नांगर|nāṅgara
 saw | पाहिले |pāhilē
 spade | कुदळ|kudaḷa
-stethoscope | Stethoscope
+stethoscope | परिश्रवक | Pariśravaka
 telescope | दुर्बिणी|durbiṇī
 test-tube | परीक्षा नळी|parīkṣā naḷī
-thermometer | Thermometer
-trowel | Trowel
-walkie-talkie|Walkie talkie
-awl | Awl
+thermometer | तपमापक | Tapamāpaka
+trowel | खुरपे | Trowel
+walkie-talkie|वॉकी टोकी | Vŏkī ṭōkī
+awl | आरी | Ārī
 compass | होकायंत्र|hōkāyantra
 easel | चित्रफलक|citraphalaka
 hacksaw | खाचखळगे|khācakhaḷagē
-scalpel | Scalpel`
+scalpel | तीक्ष्ण चाकू | Tīkṣṇa cākū`
     },
     {
       id: 'instruments',
       label: 'संगीत वाद्ये|Music Instruments',
-      text: `violin | Violin
+      text: `violin | व्हायोलिन | Vhāyōlina
 flute | बासरी|bāsarī
-guitar | Guitar
-xylophone | Xylophone
-piano | Piano
-veenai | Veenai
-saxophone | Saxophone
+guitar | सहातारी सतार | Sahātārī satāra
+xylophone | लाकडी पिआनो | Lākaḍī pi'ānō
+piano | पियानो | pi'ānō
+veenai | वीणा | Vīṇā
+saxophone | सॅक्सोफोन | Sĕksōphōna
 tabla | तबला| tabalā
-trumpet | कर्णा| karṇā`
+trumpet | तुतारी| Tutārī`
     }
   ]
 };

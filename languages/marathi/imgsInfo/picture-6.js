@@ -6,69 +6,69 @@ export default {
       id: 'animals-2',
       label: 'अधिक प्राणी|More Animals',
       text: `mongoose| मुंगूस|Muṅgūsa
-            mosquito| डास|Ḍāsa
-            octopus| Octopus|
-            wolf| लांडगा|Lāṇḍagā
-            lizard| सरडा|Saraḍā
-            termite |दीमक|Dīmaka
-            cockroach| झुरळ|Jhuraḷa
-            garden-lizard| बाग सरडा|Bāga saraḍā
+mosquito| डास|Ḍāsa
+octopus| ऑक्टोपस | Ŏkṭōpasa
+wolf| लांडगा|Lāṇḍagā
+lizard| सरडा|Saraḍā
+termite |दीमक|Dīmaka
+cockroach| झुरळ|Jhuraḷa
+garden-lizard| बाग सरडा|Bāga saraḍā
 winged-termites | पंख असलेला दीमक|Paṅkha asalēlā dīmaka
-            rabbit| ससा| Sasā
+rabbit| ससा| Sasā
 leopard| बिबट्या|Bibaṭyā
-dragonfly |Dragonfly|
+dragonfly | ड्रॅगनफ्लाय | Ḍrĕganaphlāya
 fly|माशी|maashi
 squirrel|खार|char
-dinosaur | Dinosaur|
+dinosaur | डायनासोर| Ḍāyanāsōra
 alligator | मगर|Magara
 boar | डुक्कर|Ḍukkara
-cricket | Cricket|
+cricket | रात किडा | Rāta kiḍā
 hyena | हिरवळी|Hiravalī
 polarbear | ध्रुवीय अस्वल|Dhruvīya asvala
 antelope | काळवीट|Kāḷavīṭa
 bug | किडा|Kiḍā
-jackal | Jackal|
+jackal |कोल्हा | Kōl'hā
 prawn | कोळंबी|Kōḷambī
-baboon | Baboon|
+baboon | मोठा वानर | Mōṭhā vānara
 python | अजगर|Ajagara
 bison | बिबट्या|Bibaṭyā
 chameleon | गिरगिट|Giragiṭa
-porcupine | Porcupine|
-tigerfish | Tigerfish|
-ladybug | Ladybug|
-seahorse | Seahorse|
-hamster | Hamster|
-mole | तीळ|Tīḷa
+porcupine | साळू | Sālū
+tigerfish | वाघमासा | Vāghamāsā
+ladybug | लेडीबग | Lēḍībaga
+seahorse | समुद्री घोडा | Samudrī ghōḍā
+hamster | हॅम्स्टर | Hĕmsṭara
+mole | चिचुंद्री | Cicundrī
 caterpillar | सुरवंट|Suravaṇṭa
 earthworm | गांडूळ|Gāṇḍūḷa
 hedgehog | हेज हॉग|Hēja hŏga
-stingray | Stingray|
-jellyfish | Jellyfish|
-starfish | Starfish|`
+stingray | स्टिंग्रे | Sṭiṅgrē
+jellyfish|जेलीफिश | Jellyfish
+starfish|तारामासा | Starfish`
     },
     {
       id: 'birds-2',
       label: 'अधिक पक्षी|More Birds',
-      text: `hornbill | Hornbill|
-            cuckoo | Cuckoo|
-            pheasant |तीतर |Tītara
-            falcon | Falcon|
-            swan | हंस|Hansa
-            bulbul | बुलबुल|Bulabula
-            spotted-dove | Spotted Dove|
-pelican | Pelican|
-hummingbird | Hummingbird|
-robin | Robin|
-swallow | Swallow|
-blue-jay | Blue jay|
-seagull | Seagull|
-canary | Canary|
-goose | Goose|
-turkey | Turkey|
-hawk | Hawk|
-cardinal | Cardinal|
-parakeet | Parakeet|
-macaw | Macaw|`
+      text: `hornbill | हॉर्नबिल | Hŏrnabila
+cuckoo |कोकिळा | Kōkiḷā
+pheasant |तीतर |Tītara
+falcon | फाल्कन| Phālkana
+swan | हंस|Hansa
+bulbul | बुलबुल|Bulabula
+spotted-dove | कलंकित कबूतर | Kalaṅkita kabūtara
+pelican | पेलिकन| Pēlikana
+hummingbird |हमिंग पक्षी | Hamiṅgabarḍa
+robin|  रॉबिन | Robin|
+swallow | स्वॅलो पक्षी | swallow bird
+blue-jay | नीलपंख | Niḷē paṅkha
+seagull | सीगल  | Sīgala
+canary|कॅनरी | Canary
+goose |कलहंस | kalahans
+turkey|टर्की पक्षी| Turkey
+hawk | बहिरी ससाणा | Bahirī sasāṇā
+cardinal | कार्डिनल | Kārḍinala
+parakeet | पॅराकीट| Pĕrākīṭa
+macaw | मकाऊ पोपट | Macaw`
     }
   ]
 };
