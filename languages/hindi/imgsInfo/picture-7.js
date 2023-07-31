@@ -1,54 +1,54 @@
 export default {
   id: 'picture-7',
-  label: 'More Fruits and Vegetables',
+  label: 'अधिक फल और सब्जियाँ',
   list: [
     {
       id: 'fruits-2',
-      label: 'More Fruits',
-      text: `star-fruit | Star fruit
-  dragon-fruit | Dragon fruit
-  sugarcane | Sugarcane
-  peach | Peach
-  sweet-potato | Sweet potato
-  jamun | Jamun
-  pear | Pear
-  water-chestnut | Water chestnut
-  jujube | Jujube
-  sapotta | Sapotta
+      label: 'अधिक फल',
+      text: `star-fruit | कमरख
+  dragon-fruit | पिताया
+  sugarcane | ईख
+  peach | सतालू
+  sweet-potato | शकरकंद
+  jamun | जामुन
+  pear | नाशपाती
+  water-chestnut | सिंघाड़ा
+  jujube | बेर
+  sapotta | चीकू
   tapioca | Tapioca
-  blueberry | Blueberry
-  wood-apple | Wood Apple
-  gooseberry | Gooseberry
-  passion-fruit | Passion fruit`
+  blueberry | नीलबदरी
+  wood-apple | बेल
+  gooseberry | करौंदा
+  passion-fruit | कृष्णा फल`
     },
     {
       id: 'vegetables-2',
-      label: 'More Vegetables',
-      text: `pepper | Pepper
-        wheat | Wheat
-        paddy | Paddy
-        rice | Rice
-        chickpea | Chickpea
-  mustard-greens | Mustard greens
-  turmeric | Turmeric
-  turnip | Turnip
-  fenugreek | Fenugreek
-  tamarind | Tamarind
+      label: 'अधिक सब्जियाँ',
+      text: `pepper | काली मिर्च
+        wheat | गेहूँ
+        paddy | धान
+        rice | चावल
+        chickpea | चना
+  mustard-greens |सरसों का पत्ता
+  turmeric | हल्दी
+  turnip | शलगम
+  fenugreek | हरी मेथी
+  tamarind | इमली
   elephant-yam | Elephant Yam
-  ashgourd | Ashgourd
-  broad-beans | Broad beans
-  snake-gourd | Snake gourd
+  ashgourd | रखिया
+  broad-beans | सेम फली
+  snake-gourd | चिचिण्डा
   banana-flower | Banana flower
-  cluster-beans | Cluster beans
-  kohlrabi | Kohlrabi
+  cluster-beans | गँवार फली
+  kohlrabi | बन्द-गोभी
   spring-onion | Spring onion
   banana-stem | Banana stem
   drumstick-leaves | Drumstick leaves
   raw-banana | Raw banana
-  tulsi | Tulsi
-  bottlegourd | Bottlegourd
-  ivygourd | Ivygourd
-  ridgegourd | Ridgegourd`
+  tulsi | तुलसी
+  bottlegourd | लौकी
+  ivygourd | कुंदरू
+  ridgegourd | तुरई`
     }
   ]
 };

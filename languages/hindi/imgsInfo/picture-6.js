@@ -1,46 +1,46 @@
 export default {
   id: 'picture-6',
-  label: 'More Animals and Birds',
+  label: 'अधिक जानवर और पक्षी',
   list: [
     {
       id: 'animals-2',
-      label: 'More Animals',
-      text: `mongoose| Mongoose
-  mosquito| Mosquito
+      label: 'अधिक जानवर',
+      text: `mongoose| नेवला
+  mosquito| मच्छर
   octopus| Octopus
-  wolf| Wolf
-  lizard| Lizard
+  wolf| भेड़िया
+  lizard| छिपकली
   termite | Termite
-  cockroach| Cockroach
-  garden-lizard| Garden Lizard
-  winged-termites | Winged Termite
-  rabbit| Rabbit
-  leopard| Leopard
-  dragonfly |Dragonfly
-  fly|Housefly
-  squirrel|Squirrel
+  cockroach| तिलचट्टा
+  garden-lizard| उद्यान छिपकली
+  winged-termites | दीमक
+  rabbit| खरगोश
+  leopard| तेंदुआ
+  dragonfly |व्याध-पतंग
+  fly|मक्खी
+  squirrel|गिलहरी
   dinosaur | Dinosaur
-  alligator | Alligator
-  boar | Boar
-  cricket | Cricket
-  hyena | Hyena
-  polarbear | Polar Bear
-  antelope | Antelope
-  bug | Bug
-  jackal | Jackal
-  prawn | Prawn
-  baboon | Baboon
-  python | Python
-  bison | Bison
-  chameleon | Chameleon
-  porcupine | Porcupine
+  alligator |घड़ियाल
+  boar | जंगली सूअर
+  cricket | झिंगुर
+  hyena | लकड़बग्धा
+  polarbear | ध्रुवीय भालू
+  antelope | बारहसिंगा
+  bug |खटमल
+  jackal | सियार
+  prawn | झींगे
+  baboon | लंगूर
+  python | अजगर
+  bison | जंगली सांड
+  chameleon | गिरगिट
+  porcupine | साही
   tigerfish | Tigerfish
   ladybug | Ladybug
-  seahorse | Seahorse
+  seahorse | समुद्री घोड़े
   hamster | Hamster
-  mole | Mole
-  caterpillar | Caterpillar
-  earthworm | Earthworm
+  mole | छछूँदर
+  caterpillar | इल्ली
+  earthworm | केंचुआ
   hedgehog | Hedgehog
   stingray | Stingray
   jellyfish | Jellyfish
@@ -48,24 +48,24 @@ export default {
     },
     {
       id: 'birds-2',
-      label: 'More Birds',
+      label: 'अधिक पक्षी',
       text: `hornbill | Hornbill
-  cuckoo | Cuckoo
-  pheasant | Pheasant
-  falcon | Falcon
-  swan | Swan
-  bulbul | Bulbul
-  spotted-dove | Spotted Dove
+  cuckoo | कोयल
+  pheasant | तीतर
+  falcon | बाज़
+  swan | हंस
+  bulbul | बुलबुल
+  spotted-dove | चित्तीदार कबूतर
   pelican | Pelican
   hummingbird | Hummingbird
   robin | Robin
   swallow | Swallow
   blue-jay | Blue jay
-  seagull | Seagull
+  seagull | सामुद्रिक चिड़िया
   canary | Canary
   goose | Goose
   turkey | Turkey
-  hawk | Hawk
+  hawk | बाज
   cardinal | Cardinal
   parakeet | Parakeet
   macaw | Macaw`

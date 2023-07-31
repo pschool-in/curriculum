@@ -1,52 +1,52 @@
 export default {
   id: 'picture-11',
-  label: 'Tools and Music Instruments',
+  label: 'उपकरण और संगीत वाद्ययंत्र',
   list: [
     {
       id: 'tools',
-      label: 'Tools for Job',
+      label: 'नौकरी के लिए उपकरण',
       text: `geometrybox | Geometry Box
         compass2 | Compass
-        divider | Divider
-        protractor | Protractor
-        screw | Screw
-        screwdriver | Screw Driver
+        divider | विभाजक
+        protractor | चांदा
+        screw | पेंच
+        screwdriver |पेंचकस
         spanner | Spanner
-        axe | Axe
-  balance | Balance
-  hose | Hose
-  microscope | Microscope
-  needle | Needle
+        axe | कुल्हाडी
+  balance | तराज़ू
+  hose | रबर का पाइप
+  microscope | सूक्ष्मदर्शी
+  needle | सुई
   syringe | Syringe
-  oven | Oven
-  plier | Plier
-        plough | Plough
-  saw | Saw
-  spade | Spade
-  stethoscope | Stethoscope
-  telescope | Telescope
-  test-tube | Test tube
-  thermometer | Thermometer
-        trowel | Trowel
+  oven | कुठला
+  plier | प्‍लास
+        plough | हल
+  saw |आरा
+  spade | कुदाल
+  stethoscope | परिश्रावक
+  telescope | दूरबीन
+  test-tube | परखनली
+  thermometer | तापमान-यंत्र
+        trowel | करनी
   walkie-talkie|Walkie talkie
-  awl | Awl
-  compass | Compass
-  easel | Easel
-  hacksaw | Hacksaw
-  scalpel | Scalpel`
+  awl | सूआ
+  compass | दिशा सूचक यंत्र
+  easel | चित्रफलक
+  hacksaw | लोहा-आरी
+  scalpel | छुरी`
     },
     {
       id: 'instruments',
-      label: 'Music Instruments',
-      text: `violin | Violin
-        flute | Flute
-  guitar | Guitar
+      label: 'संगीत वाद्ययंत्र',
+      text: `violin | वायलिन 
+        flute | बांसुरी
+  guitar | गिटार
   xylophone | Xylophone
-  piano | Piano
+  piano | पियानो
   veenai | Veenai
   saxophone | Saxophone
-  tabla | Tabla
-  trumpet | Trumpet`
+  tabla | तबला
+  trumpet | तुरही`
     }
   ]
 };

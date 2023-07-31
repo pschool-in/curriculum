@@ -1,61 +1,61 @@
 export default {
   id: 'picture-10',
-  label: 'Social and Science',
+  label: 'सामाजिक और विज्ञान',
   list: [
     {
       id: 'social',
-      label: 'Social Science',
-      text: `mountain | Mountain
-        seashore | Seashore
-        forest | Forest
-        desert | Desert
-        river | River
-        grassland | Grassland
-        ocean | Ocean
-        polar | Polar
-        valley | Valley
-        volcano | Volcano
+      label: 'सामाजिक विज्ञान',
+      text: `mountain | पहाड़
+        seashore |  समुद्र तट
+        forest | जंगल
+        desert | रेगिस्तान
+        river | नदी
+        grassland | घास स्थल
+        ocean | महासागर
+        polar | ध्रुवीय
+        valley | घाटी
+        volcano | ज्वालामुखी
         apartment | Apartment
-          bamboo-house | Bamboo House
-          hut | Hut
+          bamboo-house | बाँस-घर
+          hut | झोपड़ी
           igloo | Igloo
           tent-house | Tent House
           tree-house | Tree House
-          road | Road
+          road | सड़क
           railway | Railway
-          well | Well
-          airport | Airport
-          bank | Bank
-          classroom | Class Room
-          factory | Factory
-          fort | Fort
+          well | कुंआ
+          airport |  हवाई अड्डा
+          bank | बैंक
+          classroom | कक्षा
+          factory | कारखाना
+          fort | किला
           gopuram 
-          harbour | Harbour
-          hospital | Hospital
-          library | Library
-          lighthouse | Light House
-          map | Map
-          office | Office
-          palace | Palace
+          harbour | बंदरगाह
+          hospital | अस्पताल
+          library | पुस्तकालय
+          lighthouse | प्रकाशस्तंभ
+          map | नक्शा
+          office | कार्यालय
+          palace | महल
           parkinglot | Parking Lot
           restaurant | Restaurant
-          stage | Theatre
+          stage | मंच
           supermarket | Super Market
           escalator | Escalator
           lift | Lift
           petrolbunk | Petrol Bunk
-          footpath | Foot Path
-          pillar | Pillar`
+          footpath | पैदल पथ
+          pillar | स्तंभ`
     },
     {
       id: 'organs',
-      label: 'Organs',
-      text: `heart
-        brain
-        lungs
-        stomach
-        liver
-        kidney`
+      label: 'अंग',
+      text: `heart|दिल
+        brain|दिमाग
+        lungs|फेफड़े
+        stomach|पेट
+        liver|जिगर
+        kidney|वृक्क`
     },
     {
       id: 'teeth',
@@ -67,13 +67,13 @@ export default {
     },
     {
       id: 'science',
-      label: 'Science',
-      text: `windmill | Windmill
+      label: 'विज्ञान',
+      text: `windmill | पवनचक्की
         solar-panel | Solar Panel
-        bridge | Bridge
-        dam | Dam
+        bridge | पुल
+        dam | बाँध
         water-tower | Water Tower
-        electricpole | Electric Pole`
+        electricpole | बिजली का खंभा`
     }
   ]
 };

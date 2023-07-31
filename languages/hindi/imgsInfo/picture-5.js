@@ -1,61 +1,61 @@
 export default {
   id: 'picture-5',
-  label: 'Action and Sports',
+  label: 'क्रिया और खेल',
   list: [
     {
       id: 'action',
-      label: 'Actions',
-      text: `drink| Drink
-        eat| Eat
-        bend | Bend
-        climb | Climb
-        jump | Jump
-        kneel | Kneel
-        pull | Pull
-        push | Push
-        sing | Sing
-        dance | Dance
-        running | Run
-        walking | Walk
-        sit | Sit
+      label: 'क्रिया',
+      text: `drink| पीना
+        eat| खाना
+        bend | झुकना
+        climb | चढ़ना
+        jump | कूदना
+        kneel | घुटने टेकना
+        pull | खींचना
+        push | धकेलना
+        sing | गाना
+        dance | नृत्य
+        running | दौड़ना
+        walking | टहलना
+        sit | बैठना
         party | Party
         skipping | Skip
-        catch | Catch
+        catch | पकड़ना
         pass | Pass
-        swim | Swim
-        swing | Swing
-        throw | Throw
+        swim | तैरना
+        swing | झूला झूलना
+        throw | फेंकना
         carry | Carry
-        lifting | Lift
-        mopping | Moping
-        riding | Ride
-        sweep | Sweep
-        cough | Cough
-        sick | Sick
-        sneeze | Sneeze
-        yawn | Yawn
-        sleep | Sleep`
+        lifting | उठाना
+        mopping | पोछा लगाना
+        riding | सवारी
+        sweep | झाडू लगाना
+        cough | खाँसी
+        sick | बीमार
+        sneeze | छींक
+        yawn | जम्हाई लेना
+        sleep | सोना`
     },
     {
       id: 'sports',
-      label: 'Sports',
-      text: `bat2 | Bat
+      label: 'खेल',
+      text: `bat2 | बल्ला
         racket | Racket
         seesaw | Seesaw
         slide | Slide
-        carrom | Carrom
-        chess | Chess
-        cricket2 | Cricket
+        carrom | कैरम
+        chess | शतरंज
+        cricket2 | क्रिकेट
         tennis | Tennis
         football | Football
-        hockey | Hockey
-        kabaddi | Kabaddi
-        archery | Archery
+        hockey | हॉकी
+        kabaddi | कबड्डी
+        archery | तीरंदाजी
         basketball | Basket ball
         boxing | Boxing
         table-tennis | table-tennis
         golf | Golf
-        wrestling | Wrestling
+        wrestling | कुश्ती
         
         
         karate | Karate
@@ -64,8 +64,8 @@ export default {
         jockey | Jockey
         track | Track
         
-        bandage | Bandage
-        danger | danger`
+        bandage | पट्टी
+        danger | ख़तरा`
     }
   ]
 };
