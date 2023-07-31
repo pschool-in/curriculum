@@ -1,6 +1,6 @@
 export default {
   id: 'picture-9',
-  label: 'More Images',
+  label: 'अधिक छवियाँ',
   list: [
     {
       id: 'gadgets',
@@ -12,7 +12,7 @@ export default {
   smartphone|Smartphone
   speaker|Speaker
   tablet|Tablet
-  torch|Torch
+  torch|मशाल
   web-camera | Web Camera
   radio | Radio
   tv | Television
@@ -22,45 +22,45 @@ export default {
     },
     {
       id: 'others-2',
-      label: 'Others',
-      text: `angel | Angel
+      label: 'अन्य',
+      text: `angel | देवदूत
         alien | Alien
-  knight | Knight
-  warrior | Warrior
-  chariot | Chariot
-  horse-carriage | Horse Carriage
-  yarn-ball | Yarn Ball
-  bow | Bow
-  arrow | Arrow
+  knight | क्षत्रिय
+  warrior | योद्धा
+  chariot | रथ
+  horse-carriage | घोड़ागाड़ी
+  yarn-ball |ऊन
+  bow | धनुष
+  arrow | बाण
   fountain | Fountain
-  pouch | Pouch
+  pouch | थैली
   trolley | Trolley
-  whistle |Whistle
-  twig | Twig
-  palanquin | Palanquin
-  medicine | Medicine
-  conch| Conch
+  whistle |सीटी
+  twig | टहनी
+  palanquin | पालकी
+  medicine |दवा
+  conch| शंख
   toothbrush | Toothbrush
   chocolate | Chocolate
   toothpaste | Toothpaste
-  trident | Trident`
+  hexagon|षटकोण
+  trident | त्रिशूल`
     },
 
     {
       id: 'flowers-2',
-      label: 'More Flowers',
-      text: `daffodil | Daffodil
-  gulmohar | Gulmohar
-  lily | Lily
+      label: 'अधिक फूल',
+      text: `daffodil |नरगिस
+  gulmohar |गुलमोहर
+  lily | कुमुदनी
   bougainvillea | Bougainvillea
   december | December
-  pansy | Pansy
-  poppy | Poppy
-  daisy | Daisy
-  jasmine | Jasmine
-  magnolia | Magnolia
-  periwinkle | Periwinkle
-  water-lily | Water Lily`
+  pansy | बनफूल
+  poppy | खसखस
+  daisy | गुलबहार
+  magnolia | चम्पा
+  periwinkle | सदाबहार
+  water-lily | नीलकमल`
     }
   ]
 };
