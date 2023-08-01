@@ -8,8 +8,8 @@ export default {
       text: `apple |सेब 
   grapes | अंगूर
   banana | केला
-  cherry | Cherry
-  avocado | Avocado
+  cherry | 
+  avocado | 
   strawberry | झरबेर
   guava | अमरूद
   jackfruit | कटहल

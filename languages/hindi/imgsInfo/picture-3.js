@@ -22,7 +22,7 @@ export default {
   rainbow |इंद्रधनुष
   cloud | बादल
   lightning | बिजली 
-  web | Web
+  web | 
   shell | सीप
   banyan | बरगद
   bamboo-tree | बाँस
@@ -68,8 +68,8 @@ export default {
           hibiscus | गुडहल
           mogra| मोगरा  
   jasmine | चमेली
-  tulip | Tulip
-  zinnia | Zinnia`
+  tulip | 
+  zinnia | `
     },
     {
       id: 'others',
@@ -82,7 +82,7 @@ export default {
   top | लट्टू
   balloon | गुब्बारा
   brick | ईंट
-  rooftile| Roof Tile
+  rooftile| 
   stick | डंडा
   ring| अंगूठी
   drums| ढोल
@@ -93,7 +93,7 @@ export default {
   kite| पतंग
   ladder| सीढ़ी
   rishi| ऋषि मुनि
-  quill | Quill
+  quill | 
     oar | चप्पू
     gun | बंदूक
   wheel| चक्का

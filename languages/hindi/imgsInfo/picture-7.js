@@ -15,7 +15,7 @@ export default {
   water-chestnut | सिंघाड़ा
   jujube | बेर
   sapotta | चीकू
-  tapioca | Tapioca
+  tapioca | 
   blueberry | नीलबदरी
   wood-apple | बेल
   gooseberry | करौंदा
@@ -34,17 +34,17 @@ export default {
   turnip | शलगम
   fenugreek | हरी मेथी
   tamarind | इमली
-  elephant-yam | Elephant Yam
+  elephant-yam |
   ashgourd | रखिया
   broad-beans | सेम फली
   snake-gourd | चिचिण्डा
-  banana-flower | Banana flower
+  banana-flower | 
   cluster-beans | गँवार फली
   kohlrabi | बन्द-गोभी
-  spring-onion | Spring onion
-  banana-stem | Banana stem
-  drumstick-leaves | Drumstick leaves
-  raw-banana | Raw banana
+  spring-onion | 
+  banana-stem | 
+  drumstick-leaves |
+  raw-banana |
   tulsi | तुलसी
   bottlegourd | लौकी
   ivygourd | कुंदरू
