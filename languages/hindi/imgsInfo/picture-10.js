@@ -15,14 +15,14 @@ export default {
         polar | ध्रुवीय
         valley | घाटी
         volcano | ज्वालामुखी
-        apartment | Apartment
+        apartment | 
           bamboo-house | बाँस-घर
           hut | झोपड़ी
-          igloo | Igloo
-          tent-house | Tent House
-          tree-house | Tree House
+          igloo | 
+          tent-house | 
+          tree-house | 
           road | सड़क
-          railway | Railway
+          railway | 
           well | कुंआ
           airport |  हवाई अड्डा
           bank | बैंक
@@ -37,13 +37,13 @@ export default {
           map | नक्शा
           office | कार्यालय
           palace | महल
-          parkinglot | Parking Lot
-          restaurant | Restaurant
+          parkinglot | 
+          restaurant | 
           stage | मंच
-          supermarket | Super Market
-          escalator | Escalator
-          lift | Lift
-          petrolbunk | Petrol Bunk
+          supermarket | 
+          escalator | 
+          lift | 
+          petrolbunk |
           footpath | पैदल पथ
           pillar | स्तंभ`
     },
@@ -60,19 +60,19 @@ export default {
     {
       id: 'teeth',
       label: 'Teeth',
-      text: `incisor | Incisor
-        canine | Canine
-        premolar | Premolar
-        molar | Molar`
+      text: `incisor | 
+        canine | 
+        premolar | 
+        molar | `
     },
     {
       id: 'science',
       label: 'विज्ञान',
       text: `windmill | पवनचक्की
-        solar-panel | Solar Panel
+        solar-panel | 
         bridge | पुल
         dam | बाँध
-        water-tower | Water Tower
+        water-tower | 
         electricpole | बिजली का खंभा`
     }
   ]

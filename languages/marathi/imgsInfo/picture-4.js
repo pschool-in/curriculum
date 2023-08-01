@@ -121,8 +121,8 @@ plate | प्लेट | Plēṭa
 tap |  तोटी | Tōṭī
 lid | झाकण|Jhākaṇa
 
-blender | Blender | मिश्रिण करणारा यंत्र
-grinder | Grinder. | दळणार यंत्र
+blender | मिश्रिण करणारा यंत्र | Blender
+grinder | दळणार यंत्र | Grinder 
 cheese | Cheese
 fridge | शीतपेटी | Śītapēṭī
 lollipop | लॉलीपॉप | Lŏlīpŏpa
@@ -143,8 +143,8 @@ sweets | मिठाई|Miṭhā'ī
 bread | पाव | Pāva
 cup | कप | Kapa
 juice | रस|Rasa
-mushroom | Mushroom | आळंबे
-sandwich | Sandwich | कोंबणे
+mushroom | आळंबे | Mushroom 
+sandwich | कोंबणे | Sandwich 
 cake | केक | Kēka
 burger | बर्गर | Bargara
 flour | पीठ|Pīṭha

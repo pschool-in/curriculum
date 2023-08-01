@@ -5,19 +5,19 @@ export default {
     {
       id: 'tools',
       label: 'नौकरी के लिए उपकरण',
-      text: `geometrybox | Geometry Box
-        compass2 | Compass
+      text: `geometrybox | 
+        compass2 | 
         divider | विभाजक
         protractor | चांदा
         screw | पेंच
         screwdriver |पेंचकस
-        spanner | Spanner
+        spanner | 
         axe | कुल्हाडी
   balance | तराज़ू
   hose | रबर का पाइप
   microscope | सूक्ष्मदर्शी
   needle | सुई
-  syringe | Syringe
+  syringe | 
   oven | कुठला
   plier | प्‍लास
         plough | हल
@@ -28,7 +28,7 @@ export default {
   test-tube | परखनली
   thermometer | तापमान-यंत्र
         trowel | करनी
-  walkie-talkie|Walkie talkie
+  walkie-talkie|
   awl | सूआ
   compass | दिशा सूचक यंत्र
   easel | चित्रफलक
@@ -41,10 +41,10 @@ export default {
       text: `violin | वायलिन 
         flute | बांसुरी
   guitar | गिटार
-  xylophone | Xylophone
+  xylophone | 
   piano | पियानो
-  veenai | Veenai
-  saxophone | Saxophone
+  veenai | 
+  saxophone | 
   tabla | तबला
   trumpet | तुरही`
     }

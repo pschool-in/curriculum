@@ -45,8 +45,8 @@ export default {
   bee | मधुमक्खी
   goldfish | सुनहरी मछली
   spider | मकड़ी
-  panda | Panda
-  giraffe| Giraffe
+  panda | 
+  giraffe| 
   kangaroo| कंगेरू`
     },
     {
@@ -59,7 +59,7 @@ export default {
   chick| चूज़ा
   parrot|तोता
   peacock|मोर
-  penguin|Penguin
+  penguin|
   sparrow|गौरैया
   crane| सारस
   

@@ -21,7 +21,7 @@ auto | मोटारगाडी | Mōṭāragāḍī
 cart|  गाडी | gāḍī
 metro | मेट्रो ट्रेन| Mēṭrō ṭrēna
 excavator| उत्खनन|Utkhanana
-fire-engine| Fire Engine| अग्निशामक
+fire-engine| अग्निशामक | Fire Engine
 Van | व्हॅन | Vhĕna
 bulldozer | चेपगाडा | Chepgada
 rocket | अग्निबाण| Agnibāṇa

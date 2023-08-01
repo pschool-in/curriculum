@@ -27,7 +27,7 @@ swing | झोके | Jhōkē
 throw | फेकणे|Phēkaṇē
 carry | वाहून नेणे|Vāhūna nēṇē
 lifting |उचलणे | Ucalaṇē
-mopping | Moping | दांडपोतेरे
+mopping | दांडपोतेरे | Moping 
 riding | स्वारी | Svārī
 sweep | झाडून | Jhāḍūna
 cough | खोकला|Khōkalā
