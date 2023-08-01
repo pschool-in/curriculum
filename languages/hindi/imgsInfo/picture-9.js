@@ -1,6 +1,6 @@
 export default {
   id: 'picture-9',
-  label: 'अधिक छवियाँ',
+  label: 'अधिक छवियाँ|more images',
   list: [
     {
       id: 'gadgets',
@@ -22,7 +22,7 @@ export default {
     },
     {
       id: 'others-2',
-      label: 'अन्य',
+      label: 'अन्य|others',
       text: `angel | देवदूत
         alien | 
   knight | क्षत्रिय
@@ -49,7 +49,7 @@ export default {
 
     {
       id: 'flowers-2',
-      label: 'अधिक फूल',
+      label: 'अधिक फूल|more flowers',
       text: `daffodil |नरगिस
   gulmohar |गुलमोहर
   lily | कुमुदनी

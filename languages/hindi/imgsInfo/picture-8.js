@@ -1,10 +1,10 @@
 export default {
   id: 'picture-8',
-  label: 'वाहन और नौकरियाँ',
+  label: 'वाहन और नौकरियाँ|vehicles and jobs',
   list: [
     {
       id: 'vehicles',
-      label: 'वाहन',
+      label: 'वाहन|vehicles',
       text: `aeroplane | हवाईजहाज
           boat | नाव
           bus | बस
@@ -35,7 +35,7 @@ export default {
     },
     {
       id: 'jobs',
-      label: 'नौकरियां',
+      label: 'नौकरियां|jobs',
       text: `astronaut | अंतरिक्ष यात्री
           clown | 
           fisherman | मछुआरा
