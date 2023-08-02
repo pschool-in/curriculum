@@ -37,11 +37,11 @@ lightbulb | विजेचा दिवा | Vijēcā divā
 candle|मेणबत्ती|Mēṇabattī
 chair|खुर्ची|Khurcī
 shelf | फडताळ | Phaḍatāḷa
-switchboard| स्विचबोर्ड | विजेचा खटका
+switchboard| विजेचा खटका| विजेचा खटका
 coat| कोट | Kōṭa
 glasses|चष्मा|Caṣmā
 clock | घड्याळ|Ghaḍyāḷa
-watch | Watch | घड्याळ
+watch | 
 flower-pot | फुलदाणी|Phuladāṇī
 umbrella | छत्री|Chatrī
 door | दार|Dāra
