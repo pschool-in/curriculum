@@ -72,7 +72,7 @@ washing-machine |  धुलाई यंत्र | dhulaee yantr`
 coat | कोट | Kōṭa
 shoe | बूट|Būṭa
 sock | मोजे|Mōjē
-boots | बूट | Būṭa
+boots | 
 pyjama | पायजमा | Pyjama
 gloves | हातमोजा|Hātamōjā
 scarf | मफलर | Maphalara
