@@ -1,10 +1,10 @@
 export default {
   id: 'picture-4',
-  label: 'घर और अन्य',
+  label: 'घर और अन्य|house and others',
   list: [
     {
       id: 'people',
-      label: 'लोग',
+      label: 'लोग|people',
       text: `boy|लड़का
   girl | लड़की
   man| आदमी
@@ -17,13 +17,13 @@ export default {
     },
     {
       id: 'house',
-      label: 'मकान',
+      label: 'मकान|house',
       text: `house| मकान
   table|मेज
   bed|बिस्तर
   mat | चटाई
   mop | पोछा
-  mug | Mug
+  mug | 
   lock | ताला
   key | चाबी
   net | जाल
@@ -67,7 +67,7 @@ export default {
     },
     {
       id: 'dress',
-      label: 'पोशाक',
+      label: 'पोशाक|dress',
       text: `dress | 
   coat | 
   shoe | जूता
@@ -86,7 +86,7 @@ export default {
     },
     {
       id: 'school',
-      label: 'विद्यालय',
+      label: 'विद्यालय|school',
       text: `pen |कलम
   pencil|पेंसिल
   ruler|पेमाना
@@ -109,7 +109,7 @@ export default {
     },
     {
       id: 'kitchen',
-      label: 'रसोईघर',
+      label: 'रसोईघर|kitchen',
       text: `stove |चूल्हा
   fork|कांटा
   knife|छुरी

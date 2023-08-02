@@ -1,10 +1,10 @@
 export default {
   id: 'picture-5',
-  label: 'क्रिया और खेल',
+  label: 'क्रिया और खेल|action words and sports',
   list: [
     {
       id: 'action',
-      label: 'क्रिया',
+      label: 'क्रिया|action words',
       text: `drink| पीना
         eat| खाना
         bend | झुकना
@@ -38,7 +38,7 @@ export default {
     },
     {
       id: 'sports',
-      label: 'खेल',
+      label: 'खेल|sports',
       text: `bat2 | बल्ला
         racket | 
         seesaw | 

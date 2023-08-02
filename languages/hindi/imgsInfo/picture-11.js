@@ -1,10 +1,10 @@
 export default {
   id: 'picture-11',
-  label: 'उपकरण और संगीत वाद्ययंत्र',
+  label: 'उपकरण और संगीत वाद्ययंत्र|tools and musical instuments',
   list: [
     {
       id: 'tools',
-      label: 'नौकरी के लिए उपकरण',
+      label: 'नौकरी के लिए उपकरण|tools for jobs',
       text: `geometrybox | 
         compass2 | 
         divider | विभाजक
@@ -37,7 +37,7 @@ export default {
     },
     {
       id: 'instruments',
-      label: 'संगीत वाद्ययंत्र',
+      label: 'संगीत वाद्ययंत्र|musical instuments',
       text: `violin | वायलिन 
         flute | बांसुरी
   guitar | गिटार

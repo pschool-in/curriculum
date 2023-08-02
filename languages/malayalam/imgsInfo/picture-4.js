@@ -154,7 +154,7 @@ lentils | പരിപ്പ്|parippu
 rice | അരി|ari
 soup | Soup
 ammi |അമ്മികല്ല്|ammikallu
-dosaikal |ദോശകൾ|dosakallu
+dosaikal |ദോശക്കൽ|dosakallu
 kudam |കുടം|kudam
 clay-stove |കളിമൺ-അടുപ്പ് |kalimann adupp
 stone-grinder |അരക്കൽ|arakallu

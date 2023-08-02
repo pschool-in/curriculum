@@ -1,10 +1,10 @@
 export default {
   id: 'picture-7',
-  label: 'अधिक फल और सब्जियाँ',
+  label: 'अधिक फल और सब्जियाँ|more fruits and vegetables',
   list: [
     {
       id: 'fruits-2',
-      label: 'अधिक फल',
+      label: 'अधिक फल|more fruits',
       text: `star-fruit | कमरख
   dragon-fruit | पिताया
   sugarcane | ईख
@@ -23,7 +23,7 @@ export default {
     },
     {
       id: 'vegetables-2',
-      label: 'अधिक सब्जियाँ',
+      label: 'अधिक सब्जियाँ|more vegetables',
       text: `pepper | काली मिर्च
         wheat | गेहूँ
         paddy | धान

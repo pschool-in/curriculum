@@ -1,10 +1,10 @@
 export default {
   id: 'picture-10',
-  label: 'सामाजिक और विज्ञान',
+  label: 'सामाजिक और विज्ञान|social and science',
   list: [
     {
       id: 'social',
-      label: 'सामाजिक विज्ञान',
+      label: 'सामाजिक विज्ञान|social science',
       text: `mountain | पहाड़
         seashore |  समुद्र तट
         forest | जंगल
@@ -49,7 +49,7 @@ export default {
     },
     {
       id: 'organs',
-      label: 'अंग',
+      label: 'अंग|organs',
       text: `heart|दिल
         brain|दिमाग
         lungs|फेफड़े
@@ -67,7 +67,7 @@ export default {
     },
     {
       id: 'science',
-      label: 'विज्ञान',
+      label: 'विज्ञान|science',
       text: `windmill | पवनचक्की
         solar-panel | 
         bridge | पुल

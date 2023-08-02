@@ -1,10 +1,10 @@
 export default {
   id: 'picture-6',
-  label: 'अधिक जानवर और पक्षी',
+  label: 'अधिक जानवर और पक्षी|more animals and birds',
   list: [
     {
       id: 'animals-2',
-      label: 'अधिक जानवर',
+      label: 'अधिक जानवर|more animals',
       text: `mongoose| नेवला
   mosquito| मच्छर
   octopus| 
@@ -48,7 +48,7 @@ export default {
     },
     {
       id: 'birds-2',
-      label: 'अधिक पक्षी',
+      label: 'अधिक पक्षी|more birds',
       text: `hornbill | 
   cuckoo | कोयल
   pheasant | तीतर

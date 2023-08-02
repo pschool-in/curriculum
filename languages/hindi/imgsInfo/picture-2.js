@@ -1,10 +1,10 @@
 export default {
   id: 'picture-2',
-  label: 'फल और सब्जियां',
+  label: 'फल और सब्जियां|fruits and vegetables',
   list: [
     {
       id: 'fruits',
-      label: 'फल',
+      label: 'फल|fruits',
       text: `apple |सेब 
   grapes | अंगूर
   banana | केला
@@ -28,7 +28,7 @@ export default {
     },
     {
       id: 'vegetables',
-      label: 'सब्जि',
+      label: 'सब्जि|vegetables',
       text: `carrot | गाजर
   beetroot | चुकंदर
   onion | प्याज़
