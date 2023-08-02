@@ -13,7 +13,7 @@ smartphone| बहुउपयोगी भ्रमणध्वनी|Bahu'upay
 speaker| ध्वनिप्रक्षेपक यंत्र | Dhvaniprakṣēpaka yantra
 tablet|टॅब्लेट | Ṭĕblēṭa
 torch|दिवटी| Divaṭī
-web-camera | वेबकॅम | Vēbakĕma
+web-camera |
 radio | आकाशवाणी| Ākāśavāṇī
 tv | दूरदर्शन| Dūradarśana
 laptop |लॅपटॉप| Laptop|
@@ -28,8 +28,8 @@ alien |बाहेरचा माणूस| Bāhēracā māṇūsa
 knight | घोड्याचा|Ghōcāḍyā
 chariot | रथ|Ratha
 horse-carriage | घोडा-वाहून|Ghōḍā-vāhūna
-yarn-ball | नेणारा|Nēṇārā
-bow | सूत-चेंडू|Sūta-cēṇḍū
+yarn-ball | लोकर|Lōkara
+bow |धनुष्य |Dhanuṣya
 arrow | बाण|Bāṇa
 fountain | फवारा|Phavārā
 pouch | थैली| Thailī
@@ -50,13 +50,13 @@ trident | त्रिशूळ|Triśūḷa`
       text: `daffodil | नर्गिस | Nargisa
 gulmohar| गुलमोहर| Gulmohar
 lily | लिली | Lilī
-pansy  | पानसी | Pānasī
-poppy | पोस्ता | Pōstā
+pansy  | 
+poppy | 
 daisy | डेझी | Ḍējhī
 jasmine | चमेली|Camēlī
 magnolia | चंपा |Magnolia
 periwinkle | सदाफुली | Periwinkle
-water-lily | वॉटर लिली | Vŏṭara lilī`
+water-lily | वाॅटर लिली | Vŏṭara lilī`
     }
   ]
 };

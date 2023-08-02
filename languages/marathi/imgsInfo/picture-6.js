@@ -16,7 +16,7 @@ garden-lizard| बाग सरडा|Bāga saraḍā
 winged-termites | पंख असलेला दीमक|Paṅkha asalēlā dīmaka
 rabbit| ससा| Sasā
 leopard| बिबट्या|Bibaṭyā
-dragonfly | ड्रॅगनफ्लाय | Ḍrĕganaphlāya
+dragonfly | चतुर | चतुर
 fly|माशी|maashi
 squirrel|खार|char
 dinosaur | डायनासोर| Ḍāyanāsōra
@@ -37,11 +37,11 @@ porcupine | साळू | Sālū
 tigerfish | वाघमासा | Vāghamāsā
 ladybug | लेडीबग | Lēḍībaga
 seahorse | समुद्री घोडा | Samudrī ghōḍā
-hamster | हॅम्स्टर | Hĕmsṭara
+hamster | घूस | घूस
 mole | चिचुंद्री | Cicundrī
 caterpillar | सुरवंट|Suravaṇṭa
 earthworm | गांडूळ|Gāṇḍūḷa
-hedgehog | हेज हॉग|Hēja hŏga
+hedgehog | साळिंदर |Sāḷindara
 stingray | स्टिंग्रे | Sṭiṅgrē
 jellyfish|जेलीफिश | Jellyfish
 starfish|तारामासा | Starfish`
@@ -52,22 +52,22 @@ starfish|तारामासा | Starfish`
       text: `hornbill | हॉर्नबिल | Hŏrnabila
 cuckoo |कोकिळा | Kōkiḷā
 pheasant |तीतर |Tītara
-falcon | फाल्कन| Phālkana
+falcon | 
 swan | हंस|Hansa
 bulbul | बुलबुल|Bulabula
 spotted-dove | कलंकित कबूतर | Kalaṅkita kabūtara
-pelican | पेलिकन| Pēlikana
+pelican |
 hummingbird |हमिंग पक्षी | Hamiṅgabarḍa
 robin|  रॉबिन | Robin|
-swallow | स्वॅलो पक्षी | swallow bird
+swallow | 
 blue-jay | नीलपंख | Niḷē paṅkha
-seagull | सीगल  | Sīgala
-canary|कॅनरी | Canary
+seagull |
+canary|
 goose |कलहंस | kalahans
 turkey|टर्की पक्षी| Turkey
 hawk | बहिरी ससाणा | Bahirī sasāṇā
-cardinal | कार्डिनल | Kārḍinala
-parakeet | पॅराकीट| Pĕrākīṭa
+cardinal | 
+parakeet |
 macaw | मकाऊ पोपट | Macaw`
     }
   ]

@@ -9,12 +9,12 @@ export default {
 grapes | द्राक्षे|Drākṣē
 banana | केळी|Kēḷī
 cherry | चेरी | Cērī
-avocado | एव्होकाडो | Evhokado
+avocado | 
 strawberry | स्ट्रॉबेरी| Strawberry
 guava | पेरू|Pērū
 jackfruit | फणस|Phaṇasa
 mango | आंबा|Āmbā
-orange | संत्रा| Santrā
+orange | संत्री| Santrā
 
 papaya | पपई|Papa'ī
 pineapple | अननस|Ananasa
@@ -30,7 +30,7 @@ muskmelon|खरबूज |Kharbūj`
       id: 'vegetables',
       label: 'भाज्या|Vegetables',
       text: `carrot | गाजर| Gājara
-beetroot | बीटरूट |Beetroot
+beetroot | बीट |Bīṭa
 onion | कांदा| Kāndā
 tomato | टोमॅटो|Ṭōmĕṭō
 potato | बटाटा|Baṭāṭā

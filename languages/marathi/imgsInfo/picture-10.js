@@ -18,7 +18,7 @@ volcano | ज्वालामुखी|Jvālāmukhī
 apartment | सदनिका|sadnika
 bamboo-house | बांबू घर|Bāmbū ghara
 hut | झोपडी|Jhōpaḍī
-igloo | ईग्‍लू | Iglū
+igloo | बर्फाचे छोटे घर | Barphācē chōṭē ghara
 tent-house |तंबू घर | Tambū ghara
 tree-house | झाडाचे घर | Jhāḍācē ghara
 road |रस्ता|Rastā
@@ -40,9 +40,9 @@ palace | राजवाडा|Rājavāḍā
 parkinglot | वाहनतळ| Vāhanataḷa
 restaurant |उपहारगृह|Upahāragr̥ha
 stage | रंगमंच|Raṅgaman̄ca
-supermarket | सुपरमार्केट| Suparamārkēṭa
-escalator | एस्केलेटर| Ēskēlēṭara
-lift | उचलणे | ucalaṇē
+supermarket | मोठी बाजारपेठ | Mōṭhī bājārapēṭha
+escalator | यांत्रिक वाहिका| यांत्रिक वाहिका
+lift | उद्वाहक | ucalaṇē
 petrol pump | पेट्रोल पंप | Pēṭrōla pampa
 footpath | Foot Path | पाऊलवाट
 pillar | खांब|Khāmba`

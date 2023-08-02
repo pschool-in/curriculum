@@ -27,9 +27,9 @@ swing | झोके | Jhōkē
 throw | फेकणे|Phēkaṇē
 carry | वाहून नेणे|Vāhūna nēṇē
 lifting |उचलणे | Ucalaṇē
-mopping | दांडपोतेरे | Moping 
+mopping | पुसणी | Moping 
 riding | स्वारी | Svārī
-sweep | झाडून | Jhāḍūna
+sweep | झाडणे | Jhāḍaṇē
 cough | खोकला|Khōkalā
 sick | आजारी|Ājārī
 sneeze |शिंकणे|Śiṅkaṇē
@@ -39,9 +39,9 @@ sleep | झोप|Jhōpa`
     {
       id: 'sports',
       label: 'क्रीडा|Sports',
-      text: `bat2 | फली | Phālī
+      text: `bat2 | फळी | Phaḷī
 racket | रॅकेट | rĕkēṭa
-seesaw |  करवत | Karavata
+seesaw |  वजनतांगडी | Karavata
 slide | घसरगूंडी | Ghasaraguṇḍī
 carrom | कॅरम | Kĕrama
 chess | बुद्धिबळ|Bud'dhibaḷa

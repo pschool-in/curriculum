@@ -22,7 +22,7 @@ grandma | आजी|Ājī`
 table| मेज | Mēja
 bed|पलंग|Palaṅga
 mat | चटई|Caṭa'ī
-mop | दांडपोतेरे| daandapotere
+mop | पुसणे| Pusaṇē
 mug | मग | maga
 lock | कुलूप|Kulūpa
 key | चावी|chaavi
@@ -37,7 +37,7 @@ lightbulb | विजेचा दिवा | Vijēcā divā
 candle|मेणबत्ती|Mēṇabattī
 chair|खुर्ची|Khurcī
 shelf | फडताळ | Phaḍatāḷa
-switchboard| स्विचबोर्ड | Svicabōrḍa
+switchboard| स्विचबोर्ड | विजेचा खटका
 coat| कोट | Kōṭa
 glasses|चष्मा|Caṣmā
 clock | घड्याळ|Ghaḍyāḷa
@@ -75,7 +75,7 @@ sock | मोजे|Mōjē
 boots | बूट | Būṭa
 pyjama | पायजमा | Pyjama
 gloves | हातमोजा|Hātamōjā
-scarf | गळपट्टा | Gaḷapaṭṭā
+scarf | मफलर | Maphalara
 sweater | Sweater
 bib |लाळेरे | Lāḷērē
 shirt | सदरा | Sadarā
@@ -89,7 +89,7 @@ saree | साडी | Sāḍī`
       label: 'शाळा|School',
       text: `pen |टाक | Ṭāka
 pencil|शिसपेन्सिल |Pencil
-ruler|शासक|Śāsaka
+ruler|मोजपट्टी|Śāsaka
 blackboard | फळा | Black Board
 chalk | खडू|Khaḍū
 nib | टाकाचे टोक | Ṭākācē ṭōka
@@ -103,7 +103,7 @@ globe | पृथ्वीचा गोल | Pr̥thvīcā gōla
 schoolbag| शाळेचे दप्तर|Śāḷēcē daptara
 waterbottle| पाण्याची बाटली | Pāṇyācī bāṭalī
 color-pencils| रंगीत पेन्सिल | Raṅgīta pēnsila
-crayons | क्रेयॉन्स | Krēyŏnsa
+crayons | रंगीत खडू | Raṅgīta khaḍū
 notebook | टिपणवही | Ṭipaṇavahī
 Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
     },
@@ -117,12 +117,12 @@ pan| पॅन | pĕna
 spoon|चमचा|Camacā
 pot|भांडे|Bhāṇḍē
 butter|लोणी|Lōṇī
-plate | प्लेट | Plēṭa
+plate | ताट | Plēṭa
 tap |  तोटी | Tōṭī
 lid | झाकण|Jhākaṇa
 
-blender | मिश्रिण करणारा यंत्र | Blender
-grinder | दळणार यंत्र | Grinder 
+blender | मिश्रण यंत्र | Miśraṇa yantra
+grinder | गिरणी | Giraṇī 
 cheese | Cheese
 fridge | शीतपेटी | Śītapēṭī
 lollipop | लॉलीपॉप | Lŏlīpŏpa
