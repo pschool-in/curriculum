@@ -38,7 +38,7 @@ chariot | रथ | Ratha`
       text: `astronaut | अंतराळवीर|Antarāḷavīra
 clown | जोकर|Jōkara
 fisherman | मच्छीमार|Macchīmāra
-postman | पोस्टमॅन|Pōsṭamĕna
+postman | टपाल वाला|Pōsṭamĕna
 teacher | शिक्षक|Śikṣaka
 blacksmith | लोहार|Lōhāra
 cobbler | मोची|Mōcī

@@ -5,7 +5,7 @@ export default {
     {
       id: 'gadgets',
       label: 'गॅझेट|Gadgets',
-      text: `camera |कॅमेरा | Kĕmērā
+      text: `camera |छायाचित्रीका | Kĕmērā
 headphone|हेडफोन| Hēḍaphōna
 pendrive|स्मृतीशलाक़ा| Smr̥tīśalāqā
 remote|दूरस्थ | Dūrastha
@@ -56,7 +56,7 @@ daisy | डेझी | Ḍējhī
 jasmine | चमेली|Camēlī
 magnolia | चंपा |Magnolia
 periwinkle | सदाफुली | Periwinkle
-water-lily | वाॅटर लिली | Vŏṭara lilī`
+water-lily | जलीय लिली | Vŏṭara lilī`
     }
   ]
 };

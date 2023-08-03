@@ -113,7 +113,7 @@ Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
       text: `stove |शेगडी | Śēgaḍī
 fork|काटा|Kāṭā
 knife|चाकू|Cākū
-pan| पॅन | pĕna
+pan| तवा| pĕna
 spoon|चमचा|Camacā
 pot|भांडे|Bhāṇḍē
 butter|लोणी|Lōṇī

@@ -31,7 +31,7 @@ factory | कारखाना|Kārakhānā
 fort | किल्ला|Killā
 gopuram | गोपुरम | Gōpurama
 harbour | बंदर|Bandara
-hospital | हॉस्पिटल|Hŏspiṭala
+hospital | दवाखाना|Hŏspiṭala
 library | ग्रंथालय | Granthālaya
 lighthouse | दीपगृह | Dīpagr̥ha
 map | नकाशा|Nakāśā
