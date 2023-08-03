@@ -20,7 +20,7 @@ hippo | पाणघोडा | Hippo
 rhino| गेंडा|Gēṇḍā
 fox| कोल्हा|Kōl'hā
 crocodile| मगर|Magara
-zebra| ज़ीब्र| Zebra
+zebra| ज्ञेब्रा| Zebra
 bear| अस्वल|Asvala
 camel| उंट|Uṇṭa
 shark | शार्क| Shark
@@ -28,7 +28,7 @@ whale| देवमासा|Dēvamāsā
 dolphin | डॉल्फिन| Ḍŏlphina
 
 tiger| वाघ|Vāgha
-sheep| मेंढ्या|Mēṇḍhyā
+sheep| मेंढी |Mēṇḍhī
 fish| मासे| Māsē
 frog| बेडूक|Bēḍūka
 crab| खेकडा|Khēkaḍā
@@ -56,7 +56,7 @@ kangaroo |  कांगारू| Kangaroo`
 dove|पारवा|Pāravā
 duck|बदक|Badaka
 hen|कोंबडी|Kōmbaḍī
-chick| कोंबडी | Kōmbaḍī
+chick| कोंबडीचे पिल्लू | chick
 parrot|पोपट|Pōpaṭa
 peacock|मोर|Mōra
 penguin | पेंग्विन|Penguin
@@ -66,13 +66,13 @@ crane| बगळा | Crane
 eagle| गरुड|Garuḍa
 flamingo | रोहित पक्षी| Flamingo
 kingfisher| खंड्या | Kingfisher
-myna| साळुंकी | Myna
+myna| साळुंखी | Myna
 ostrich| शहामृग|Śahāmr̥ga
 owl| घुबड|Ghubaḍa
 rooster| कोंबडा|Kōmbaḍā
 vulture| गिधाड|Gidhāḍa
 woodpecker| सुतारपक्षी|Sutārapakṣī
-koel |कोयल | Kōyala`
+koel |कोकिळा | Kōyala`
     }
   ]
 };

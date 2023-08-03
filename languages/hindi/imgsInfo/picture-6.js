@@ -1,16 +1,16 @@
 export default {
   id: 'picture-6',
-  label: 'अधिक जानवर और पक्षी',
+  label: 'अधिक जानवर और पक्षी|more animals and birds',
   list: [
     {
       id: 'animals-2',
-      label: 'अधिक जानवर',
+      label: 'अधिक जानवर|more animals',
       text: `mongoose| नेवला
   mosquito| मच्छर
-  octopus| Octopus
+  octopus| 
   wolf| भेड़िया
   lizard| छिपकली
-  termite | Termite
+  termite | 
   cockroach| तिलचट्टा
   garden-lizard| उद्यान छिपकली
   winged-termites | दीमक
@@ -19,7 +19,7 @@ export default {
   dragonfly |व्याध-पतंग
   fly|मक्खी
   squirrel|गिलहरी
-  dinosaur | Dinosaur
+  dinosaur | 
   alligator |घड़ियाल
   boar | जंगली सूअर
   cricket | झिंगुर
@@ -34,41 +34,41 @@ export default {
   bison | जंगली सांड
   chameleon | गिरगिट
   porcupine | साही
-  tigerfish | Tigerfish
-  ladybug | Ladybug
+  tigerfish | 
+  ladybug | 
   seahorse | समुद्री घोड़े
-  hamster | Hamster
+  hamster | 
   mole | छछूँदर
   caterpillar | इल्ली
   earthworm | केंचुआ
-  hedgehog | Hedgehog
-  stingray | Stingray
-  jellyfish | Jellyfish
-  starfish | Starfish`
+  hedgehog |
+  stingray | 
+  jellyfish | 
+  starfish | `
     },
     {
       id: 'birds-2',
-      label: 'अधिक पक्षी',
-      text: `hornbill | Hornbill
+      label: 'अधिक पक्षी|more birds',
+      text: `hornbill | 
   cuckoo | कोयल
   pheasant | तीतर
   falcon | बाज़
   swan | हंस
   bulbul | बुलबुल
   spotted-dove | चित्तीदार कबूतर
-  pelican | Pelican
-  hummingbird | Hummingbird
-  robin | Robin
-  swallow | Swallow
-  blue-jay | Blue jay
+  pelican | 
+  hummingbird | 
+  robin | 
+  swallow | 
+  blue-jay | 
   seagull | सामुद्रिक चिड़िया
-  canary | Canary
-  goose | Goose
-  turkey | Turkey
+  canary | 
+  goose | 
+  turkey | 
   hawk | बाज
-  cardinal | Cardinal
-  parakeet | Parakeet
-  macaw | Macaw`
+  cardinal | 
+  parakeet | 
+  macaw | `
     }
   ]
 };

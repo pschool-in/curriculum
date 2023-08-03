@@ -1,31 +1,31 @@
 export default {
   id: 'picture-8',
-  label: 'वाहन और नौकरियाँ',
+  label: 'वाहन और नौकरियाँ|vehicles and jobs',
   list: [
     {
       id: 'vehicles',
-      label: 'वाहन',
+      label: 'वाहन|vehicles',
       text: `aeroplane | हवाईजहाज
           boat | नाव
           bus | बस
           car | गाड़ी
           cycle | साइकिल
           helicoptor | घिरनीदार विमान
-          motorbike | Motorbike
+          motorbike | 
   ship | समुंद्रीजहाज
   tractor |ट्रैक्टर
   train | रेलगाडी
   ambulance| रोगीवाहन
   auto| रिक्शा
   cart| हाथगाडी
-  metro | Metro
+  metro | 
   excavator| खोदक मशीन
   fire-engine| दमकल
-  tow-truck | Tow Truck
-  van| Van
-  bulldozer | Bulldozer
-  crane2 | Crane
-  rocket | Rocket
+  tow-truck | 
+  van| 
+  bulldozer | 
+  crane2 | 
+  rocket | 
   submarine | पनडुब्बी
   spaceship | अंतरिक्ष यान
   bullock-cart | बैलगाड़ी
@@ -35,9 +35,9 @@ export default {
     },
     {
       id: 'jobs',
-      label: 'नौकरियां',
+      label: 'नौकरियां|jobs',
       text: `astronaut | अंतरिक्ष यात्री
-          clown | Clown
+          clown | 
           fisherman | मछुआरा
           postman | डाकिया
           teacher | शिक्षक
@@ -47,7 +47,7 @@ export default {
   potter | कुम्हार
   weaver | जुलाहा
   carpenter | बढ़ई
-  diver | Diver
+  diver | 
   nurse | दाई
   sailor | नाविक
   chef | बावर्ची
@@ -62,12 +62,12 @@ export default {
   cashier | खजांची
   electrician | बिजली मिस्त्री
   farmer | किसान
-  mechanic | Mechanic
-  pilot | Pilot
-  plumber | Plumber
+  mechanic | 
+  pilot | 
+  plumber | 
   scientist | वैज्ञानिक
   seller | विक्रेता
-  software-developer | Software Developer`
+  software-developer |`
     }
   ]
 };

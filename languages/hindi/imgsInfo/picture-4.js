@@ -1,10 +1,10 @@
 export default {
   id: 'picture-4',
-  label: 'घर और अन्य',
+  label: 'घर और अन्य|house and others',
   list: [
     {
       id: 'people',
-      label: 'लोग',
+      label: 'लोग|people',
       text: `boy|लड़का
   girl | लड़की
   man| आदमी
@@ -17,13 +17,13 @@ export default {
     },
     {
       id: 'house',
-      label: 'मकान',
+      label: 'मकान|house',
       text: `house| मकान
   table|मेज
   bed|बिस्तर
   mat | चटाई
   mop | पोछा
-  mug | Mug
+  mug | 
   lock | ताला
   key | चाबी
   net | जाल
@@ -31,14 +31,14 @@ export default {
   teapot | चायदानी
   fan | पंखा
   ball | गेंद
-  teddy | Teddy Bear
+  teddy | 
   jug | सुराही
-  lightbulb | Bulb
+  lightbulb | 
   candle|मोमबत्ती
   chair|कुर्सी
   shelf|अलमारी
-  switchboard| Switchboard
-  coat|Coat
+  switchboard| 
+  coat|
   glasses|ऐनक
   clock | दीवार घड़ी
   watch | घडी
@@ -47,50 +47,50 @@ export default {
   door | दरवाजा
   broom | झाड़ू
   window | खिड़की
-  sofa | Sofa
-  kettle | Kettle
+  sofa | 
+  kettle | 
   bucket | बाल्टी
-  toilet | Toilet
+  toilet | 
   soap | साबुन
-  helmet | Helmet
-  backpack | Backpack
+  helmet | 
+  backpack | 
   pillow | तकिया
   basket | टोकरी
   dustbin | कचरे का डिब्बा
-  bed-lamp | Bed Lamp
-  handbag | Handbag
-  steps | Steps
+  bed-lamp | 
+  handbag | 
+  steps | 
   curtains | पर्दे
   watertank | पानी की टंकी
-  air-conditioner | Air Conditioner
-  washing-machine | Washing Machine`
+  air-conditioner | 
+  washing-machine | `
     },
     {
       id: 'dress',
-      label: 'पोशाक',
-      text: `dress | Dress
-  coat | Coat
+      label: 'पोशाक|dress',
+      text: `dress | 
+  coat | 
   shoe | जूता
   sock | मौज़ा
-  boots | Boots
+  boots | 
   pyjama | पजामा
   gloves | दस्ताने
   scarf | दुपट्टा
-  sweater | Sweater
-  bib | Bib
+  sweater | 
+  bib | 
   shirt | कमीज
-  jacket | Jacket
+  jacket | 
   hat | टोपी
   trousers | पतलून
   saree | साड़ी`
     },
     {
       id: 'school',
-      label: 'विद्यालय',
+      label: 'विद्यालय|school',
       text: `pen |कलम
   pencil|पेंसिल
   ruler|पेमाना
-  blackboard | Black Board
+  blackboard | 
   chalk | चाक
   nib | नोक
   eraser|रबड़
@@ -100,16 +100,16 @@ export default {
   book| किताब
   ink | स्याही
   globe | पृथ्वी
-  schoolbag| Schoolbag
-  waterbottle| Waterbottle
+  schoolbag| 
+  waterbottle| 
   color-pencils| रंग पेंसिल
   crayons | चित्रांकनी
-  notebook | Notebook
+  notebook | 
   writingpad | लेखन पत्र`
     },
     {
       id: 'kitchen',
-      label: 'रसोईघर',
+      label: 'रसोईघर|kitchen',
       text: `stove |चूल्हा
   fork|कांटा
   knife|छुरी
@@ -121,38 +121,38 @@ export default {
   tap | नल
   lid | ढक्कन
   
-  blender | Blender
+  blender | 
   grinder | चक्की
   cheese | पनीर
-  fridge | Fridge
+  fridge | 
   lollipop | टिकीया
-  salad | Salad
+  salad | 
   sugar | चीनी
   bowl | कटोरा
-  chicken | Chicken
+  chicken | 
   milk|दूध
   fruits|फल
-  ice-cream | Ice cream
+  ice-cream | 
   meat | मांस
   egg | अंडा
   salt | नमक
-  french-fry | French Fry
+  french-fry | 
   soft-drink | शीतल पेय
-  pizza | Pizza
+  pizza | 
   sweets | मिठाइयाँ
   bread | रोटी
-  cup | Cup
+  cup | 
   ladle | करछुल
   juice | रस
-  mushroom | Mushroom
-  sandwich | Sandwich
-  cake | Cake
-  burger | Burger
+  mushroom | 
+  sandwich | 
+  cake | 
+  burger | 
   flour | आटा
   lentils | दाल
   
   rice | चावल
-  soup | Soup`
+  soup | `
     }
   ]
 };

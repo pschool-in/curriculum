@@ -1,10 +1,10 @@
 export default {
   id: 'picture-10',
-  label: 'सामाजिक और विज्ञान',
+  label: 'सामाजिक और विज्ञान|social and science',
   list: [
     {
       id: 'social',
-      label: 'सामाजिक विज्ञान',
+      label: 'सामाजिक विज्ञान|social science',
       text: `mountain | पहाड़
         seashore |  समुद्र तट
         forest | जंगल
@@ -15,14 +15,14 @@ export default {
         polar | ध्रुवीय
         valley | घाटी
         volcano | ज्वालामुखी
-        apartment | Apartment
+        apartment | 
           bamboo-house | बाँस-घर
           hut | झोपड़ी
-          igloo | Igloo
-          tent-house | Tent House
-          tree-house | Tree House
+          igloo | 
+          tent-house | 
+          tree-house | 
           road | सड़क
-          railway | Railway
+          railway | 
           well | कुंआ
           airport |  हवाई अड्डा
           bank | बैंक
@@ -37,19 +37,19 @@ export default {
           map | नक्शा
           office | कार्यालय
           palace | महल
-          parkinglot | Parking Lot
-          restaurant | Restaurant
+          parkinglot | 
+          restaurant | 
           stage | मंच
-          supermarket | Super Market
-          escalator | Escalator
-          lift | Lift
-          petrolbunk | Petrol Bunk
+          supermarket | 
+          escalator | 
+          lift | 
+          petrolbunk |
           footpath | पैदल पथ
           pillar | स्तंभ`
     },
     {
       id: 'organs',
-      label: 'अंग',
+      label: 'अंग|organs',
       text: `heart|दिल
         brain|दिमाग
         lungs|फेफड़े
@@ -60,19 +60,19 @@ export default {
     {
       id: 'teeth',
       label: 'Teeth',
-      text: `incisor | Incisor
-        canine | Canine
-        premolar | Premolar
-        molar | Molar`
+      text: `incisor | 
+        canine | 
+        premolar | 
+        molar | `
     },
     {
       id: 'science',
-      label: 'विज्ञान',
+      label: 'विज्ञान|science',
       text: `windmill | पवनचक्की
-        solar-panel | Solar Panel
+        solar-panel | 
         bridge | पुल
         dam | बाँध
-        water-tower | Water Tower
+        water-tower | 
         electricpole | बिजली का खंभा`
     }
   ]

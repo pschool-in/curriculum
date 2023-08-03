@@ -13,8 +13,8 @@ screw | खिळा | Khiḷā
 screwdriver | पेचकस|pēcakasa
 spanner | पाना | Pāna
 axe | कुर्हाड|  kur'hāḍa
-balance | शिल्लक|śillaka
-blackboard | ब्लॅकबोर्ड | Blĕkabōrḍa
+balance | तराजू |Tarājū
+blackboard | काळा फळा | Kāḷā phaḷā
 hose | रबरी नळी|rabarī naḷī
 microscope | सूक्ष्मदर्शक|sūkṣmadarśaka
 needle | सुई |su'ī
@@ -22,7 +22,7 @@ syringe | पिचकारी | Syringe
 oven | भट्टी | Bhaṭṭī
 plier | पक्कड|pakkaḍa
 plough | नांगर|nāṅgara
-saw | पाहिले |pāhilē
+saw | करवत |sawing
 spade | कुदळ|kudaḷa
 stethoscope | परिश्रवक | Pariśravaka
 telescope | दुर्बिणी|durbiṇī
@@ -45,7 +45,7 @@ guitar | सहातारी सतार | Sahātārī satāra
 xylophone | लाकडी पिआनो | Lākaḍī pi'ānō
 piano | पियानो | pi'ānō
 veenai | वीणा | Vīṇā
-saxophone | सॅक्सोफोन | Sĕksōphōna
+saxophone 
 tabla | तबला| tabalā
 trumpet | तुतारी| Tutārī`
     }

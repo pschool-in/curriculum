@@ -1,10 +1,10 @@
 export default {
   id: 'picture-5',
-  label: 'क्रिया और खेल',
+  label: 'क्रिया और खेल|action words and sports',
   list: [
     {
       id: 'action',
-      label: 'क्रिया',
+      label: 'क्रिया|action words',
       text: `drink| पीना
         eat| खाना
         bend | झुकना
@@ -18,14 +18,14 @@ export default {
         running | दौड़ना
         walking | टहलना
         sit | बैठना
-        party | Party
-        skipping | Skip
+        party | 
+        skipping | 
         catch | पकड़ना
-        pass | Pass
+        pass | 
         swim | तैरना
         swing | झूला झूलना
         throw | फेंकना
-        carry | Carry
+        carry | 
         lifting | उठाना
         mopping | पोछा लगाना
         riding | सवारी
@@ -38,31 +38,31 @@ export default {
     },
     {
       id: 'sports',
-      label: 'खेल',
+      label: 'खेल|sports',
       text: `bat2 | बल्ला
-        racket | Racket
-        seesaw | Seesaw
-        slide | Slide
+        racket | 
+        seesaw | 
+        slide | 
         carrom | कैरम
         chess | शतरंज
         cricket2 | क्रिकेट
-        tennis | Tennis
-        football | Football
+        tennis | 
+        football |
         hockey | हॉकी
         kabaddi | कबड्डी
         archery | तीरंदाजी
-        basketball | Basket ball
-        boxing | Boxing
-        table-tennis | table-tennis
-        golf | Golf
+        basketball | 
+        boxing | 
+        table-tennis | 
+        golf | 
         wrestling | कुश्ती
         
         
-        karate | Karate
-        surfing | Surfing
+        karate | 
+        surfing | 
         
-        jockey | Jockey
-        track | Track
+        jockey | 
+        track | 
         
         bandage | पट्टी
         danger | ख़तरा`

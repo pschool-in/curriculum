@@ -1,1 +1,12 @@
-
+pillow|தலையணை
+towel|துண்டு
+Rugs|விரிப்புகள்
+Shadow|நிழல் 
+Telephone|தொலைபேசி
+printer
+scanner
+Magnet|காந்தம்
+Hammer|சுத்தியல்
+Uniform|சீருடை 
+Carpet|கம்பளம் 
+Blanket|போர்வை

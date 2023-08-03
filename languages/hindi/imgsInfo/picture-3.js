@@ -1,10 +1,10 @@
 export default {
   id: 'picture-3',
-  label: 'प्रकृति और अन्य',
+  label: 'प्रकृति और अन्य|nature and others',
   list: [
     {
       id: 'nature',
-      label: 'प्रकृति',
+      label: 'प्रकृति|nature',
       text: `sun |सूर्य
   moon|चांद
   star|तारा 
@@ -22,7 +22,7 @@ export default {
   rainbow |इंद्रधनुष
   cloud | बादल
   lightning | बिजली 
-  web | Web
+  web | 
   shell | सीप
   banyan | बरगद
   bamboo-tree | बाँस
@@ -36,7 +36,7 @@ export default {
     },
     {
       id: 'body-parts',
-      label: 'शरीर के अंग',
+      label: 'शरीर के अंग|body-parts',
       text: `ear |कान
   eye |आँख
   foot |पैर
@@ -60,7 +60,7 @@ export default {
     },
     {
       id: 'flowers',
-      label: 'फूल',
+      label: 'फूल|flowers',
       text: `rose | गुलाब
           lotus | कमल
           sunflower | सूर्यमुखी
@@ -68,12 +68,12 @@ export default {
           hibiscus | गुडहल
           mogra| मोगरा  
   jasmine | चमेली
-  tulip | Tulip
-  zinnia | Zinnia`
+  tulip | 
+  zinnia | `
     },
     {
       id: 'others',
-      label: 'अन्य',
+      label: 'अन्य|others',
       text: `bell | घंटी
   brush| कूंचा
   bone| हड्डी
@@ -82,7 +82,7 @@ export default {
   top | लट्टू
   balloon | गुब्बारा
   brick | ईंट
-  rooftile| Roof Tile
+  rooftile| 
   stick | डंडा
   ring| अंगूठी
   drums| ढोल
@@ -93,7 +93,7 @@ export default {
   kite| पतंग
   ladder| सीढ़ी
   rishi| ऋषि मुनि
-  quill | Quill
+  quill | 
     oar | चप्पू
     gun | बंदूक
   wheel| चक्का

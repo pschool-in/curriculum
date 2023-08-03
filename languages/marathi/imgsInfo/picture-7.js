@@ -10,7 +10,7 @@ dragon-fruit | ड्रॅगन फळ | Ḍrĕgana phaḷa
 sugarcane | ऊस|Ūsa
 peach | जांभूळ|Jāmbhūḷa
 sweet-potato | रताळे|Ratāḷē
-jamun | Jamun|जांभूळ
+jamun |जांभूळ | Jamun
 pear | नाशपाती |Nāśapātī
 water-chestnut | शिंगाडे| Singhada
 jujube |बोर | Bōra

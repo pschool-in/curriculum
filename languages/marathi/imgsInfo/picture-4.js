@@ -22,7 +22,7 @@ grandma | आजी|Ājī`
 table| मेज | Mēja
 bed|पलंग|Palaṅga
 mat | चटई|Caṭa'ī
-mop | दांडपोतेरे| daandapotere
+mop | पुसणे| Pusaṇē
 mug | मग | maga
 lock | कुलूप|Kulūpa
 key | चावी|chaavi
@@ -37,11 +37,11 @@ lightbulb | विजेचा दिवा | Vijēcā divā
 candle|मेणबत्ती|Mēṇabattī
 chair|खुर्ची|Khurcī
 shelf | फडताळ | Phaḍatāḷa
-switchboard| स्विचबोर्ड | Svicabōrḍa
+switchboard| विजेचा खटका| विजेचा खटका
 coat| कोट | Kōṭa
 glasses|चष्मा|Caṣmā
 clock | घड्याळ|Ghaḍyāḷa
-watch | Watch | घड्याळ
+watch | 
 flower-pot | फुलदाणी|Phuladāṇī
 umbrella | छत्री|Chatrī
 door | दार|Dāra
@@ -72,10 +72,10 @@ washing-machine |  धुलाई यंत्र | dhulaee yantr`
 coat | कोट | Kōṭa
 shoe | बूट|Būṭa
 sock | मोजे|Mōjē
-boots | बूट | Būṭa
+boots | 
 pyjama | पायजमा | Pyjama
 gloves | हातमोजा|Hātamōjā
-scarf | गळपट्टा | Gaḷapaṭṭā
+scarf | मफलर | Maphalara
 sweater | Sweater
 bib |लाळेरे | Lāḷērē
 shirt | सदरा | Sadarā
@@ -89,7 +89,7 @@ saree | साडी | Sāḍī`
       label: 'शाळा|School',
       text: `pen |टाक | Ṭāka
 pencil|शिसपेन्सिल |Pencil
-ruler|शासक|Śāsaka
+ruler|मोजपट्टी|Śāsaka
 blackboard | फळा | Black Board
 chalk | खडू|Khaḍū
 nib | टाकाचे टोक | Ṭākācē ṭōka
@@ -103,7 +103,7 @@ globe | पृथ्वीचा गोल | Pr̥thvīcā gōla
 schoolbag| शाळेचे दप्तर|Śāḷēcē daptara
 waterbottle| पाण्याची बाटली | Pāṇyācī bāṭalī
 color-pencils| रंगीत पेन्सिल | Raṅgīta pēnsila
-crayons | क्रेयॉन्स | Krēyŏnsa
+crayons | रंगीत खडू | Raṅgīta khaḍū
 notebook | टिपणवही | Ṭipaṇavahī
 Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
     },
@@ -113,16 +113,16 @@ Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
       text: `stove |शेगडी | Śēgaḍī
 fork|काटा|Kāṭā
 knife|चाकू|Cākū
-pan| पॅन | pĕna
+pan| तवा| pĕna
 spoon|चमचा|Camacā
 pot|भांडे|Bhāṇḍē
 butter|लोणी|Lōṇī
-plate | प्लेट | Plēṭa
+plate | ताट | Plēṭa
 tap |  तोटी | Tōṭī
 lid | झाकण|Jhākaṇa
 
-blender | Blender | मिश्रिण करणारा यंत्र
-grinder | Grinder. | दळणार यंत्र
+blender | मिश्रण यंत्र | Miśraṇa yantra
+grinder | गिरणी | Giraṇī 
 cheese | Cheese
 fridge | शीतपेटी | Śītapēṭī
 lollipop | लॉलीपॉप | Lŏlīpŏpa
@@ -143,8 +143,8 @@ sweets | मिठाई|Miṭhā'ī
 bread | पाव | Pāva
 cup | कप | Kapa
 juice | रस|Rasa
-mushroom | Mushroom | आळंबे
-sandwich | Sandwich | कोंबणे
+mushroom | आळंबे | Mushroom 
+sandwich | कोंबणे | Sandwich 
 cake | केक | Kēka
 burger | बर्गर | Bargara
 flour | पीठ|Pīṭha

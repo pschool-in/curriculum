@@ -1,10 +1,10 @@
 export default {
   id: 'picture',
-  label: 'जानवर और पक्षी',
+  label: 'जानवर और पक्षी| animals and birds',
   list: [
     {
       id: 'animals',
-      label: 'जानवर',
+      label: 'जानवर|animals',
       text: `cat | बिल्ली
   dog |कुत्ता
   goat| बकरी
@@ -24,8 +24,8 @@ export default {
   bear| भालू
   camel| ऊंट
   shark| हाँगर
-  whale| Whale
-  dolphin| Dolphin
+  whale| 
+  dolphin| 
   
   tiger| बाघ
   sheep| भेड़
@@ -41,17 +41,17 @@ export default {
   bat| चमगादड़
   buffalo| भेंस
   butterfly| तितली
-  cheetah| Cheetah
+  cheetah| 
   bee | मधुमक्खी
   goldfish | सुनहरी मछली
   spider | मकड़ी
-  panda | Panda
-  giraffe| Giraffe
+  panda | 
+  giraffe| 
   kangaroo| कंगेरू`
     },
     {
       id: 'birds',
-      label: 'पक्षी',
+      label: 'पक्षी|birds',
       text: `crow|कौआ
   dove|कबूतर
   duck|बतख़
@@ -59,7 +59,7 @@ export default {
   chick| चूज़ा
   parrot|तोता
   peacock|मोर
-  penguin|Penguin
+  penguin|
   sparrow|गौरैया
   crane| सारस
   

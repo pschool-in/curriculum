@@ -1,23 +1,23 @@
 export default {
   id: 'picture-11',
-  label: 'उपकरण और संगीत वाद्ययंत्र',
+  label: 'उपकरण और संगीत वाद्ययंत्र|tools and musical instuments',
   list: [
     {
       id: 'tools',
-      label: 'नौकरी के लिए उपकरण',
-      text: `geometrybox | Geometry Box
-        compass2 | Compass
+      label: 'नौकरी के लिए उपकरण|tools for jobs',
+      text: `geometrybox | 
+        compass2 | 
         divider | विभाजक
         protractor | चांदा
         screw | पेंच
         screwdriver |पेंचकस
-        spanner | Spanner
+        spanner | 
         axe | कुल्हाडी
   balance | तराज़ू
   hose | रबर का पाइप
   microscope | सूक्ष्मदर्शी
   needle | सुई
-  syringe | Syringe
+  syringe | 
   oven | कुठला
   plier | प्‍लास
         plough | हल
@@ -28,7 +28,7 @@ export default {
   test-tube | परखनली
   thermometer | तापमान-यंत्र
         trowel | करनी
-  walkie-talkie|Walkie talkie
+  walkie-talkie|
   awl | सूआ
   compass | दिशा सूचक यंत्र
   easel | चित्रफलक
@@ -37,14 +37,14 @@ export default {
     },
     {
       id: 'instruments',
-      label: 'संगीत वाद्ययंत्र',
+      label: 'संगीत वाद्ययंत्र|musical instuments',
       text: `violin | वायलिन 
         flute | बांसुरी
   guitar | गिटार
-  xylophone | Xylophone
+  xylophone | 
   piano | पियानो
-  veenai | Veenai
-  saxophone | Saxophone
+  veenai | 
+  saxophone | 
   tabla | तबला
   trumpet | तुरही`
     }

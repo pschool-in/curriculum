@@ -21,14 +21,14 @@ auto | मोटारगाडी | Mōṭāragāḍī
 cart|  गाडी | gāḍī
 metro | मेट्रो ट्रेन| Mēṭrō ṭrēna
 excavator| उत्खनन|Utkhanana
-fire-engine| Fire Engine| अग्निशामक
-Van | व्हॅन | Vhĕna
+fire-engine| अग्निशमन दल | अग्निशमन दल
+Van | गाडी | Gāḍī
 bulldozer | चेपगाडा | Chepgada
 rocket | अग्निबाण| Agnibāṇa
 submarine | पाणबुडी|Pāṇabuḍī
 spaceship | अंतराळ जहाज | Antarāḷa jahāja
 bullock-cart | बैलगाडी | Bailagāḍī
-horse-carriage | घोडा गाडी | Ghōḍā gāḍī
+horse-carriage | घोडा वाहक |Ghōḍā vāhaka
 palanquin | पालखी | Pālakhī
 chariot | रथ | Ratha`
     },
@@ -38,7 +38,7 @@ chariot | रथ | Ratha`
       text: `astronaut | अंतराळवीर|Antarāḷavīra
 clown | जोकर|Jōkara
 fisherman | मच्छीमार|Macchīmāra
-postman | पोस्टमॅन|Pōsṭamĕna
+postman | टपाल वाला|Pōsṭamĕna
 teacher | शिक्षक|Śikṣaka
 blacksmith | लोहार|Lōhāra
 cobbler | मोची|Mōcī

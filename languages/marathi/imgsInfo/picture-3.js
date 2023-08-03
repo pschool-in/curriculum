@@ -25,7 +25,7 @@ lightning |चमकणारी वीज | Camakaṇārī vīja
 web | जाळे | Jāḷē
 shell | शंख|shank
 banyan | वडाचे झाड|Vaḍācē jhāḍa
-bamboo-tree | बांबूचे झाड|Bāmbūcē jhāḍa
+bamboo-tree | बांबूचे बन |Bāmbūcē jhāḍa
 banana-tree | केळीचे झाड|Kēḷīcē jhāḍa
 bananaleaf | केळीचे पान|Kēḷīcē pāna
 coconut-tree | नारळाचे झाड|Nāraḷācē jhāḍa
@@ -78,7 +78,7 @@ brush|ब्रश |  Brush
 bone| हाड|Hāḍa
 box | पेटी | Box
 coin | नाणे|Nāṇē
-top | शीर्ष|Śīrṣa
+top | भोवरा|Śīrṣa
 balloon | फुगा | Phugā
 brick | वीट|Vīṭa
 rooftile| छतावरील फरशा|Chatāvarīla Pharaśā
@@ -96,7 +96,7 @@ garden | बाग|Bāga
 sculpture | शिल्पकला|Śilpakalā
 statue | पुतळा|Putaḷā
 clay-lamp | मातीचा दिवा|Mātīcā divā
-clay-stove | चिकणमातीचीशेगडी | Cikaṇamātīcīśēgaḍī`
+clay-stove | चूल | Cūla`
     }
   ]
 };
