@@ -37,11 +37,11 @@ lightbulb | विजेचा दिवा | Vijēcā divā
 candle|मेणबत्ती|Mēṇabattī
 chair|खुर्ची|Khurcī
 shelf | फडताळ | Phaḍatāḷa
-switchboard| स्विचबोर्ड | विजेचा खटका
+switchboard| विजेचा खटका| विजेचा खटका
 coat| कोट | Kōṭa
 glasses|चष्मा|Caṣmā
 clock | घड्याळ|Ghaḍyāḷa
-watch | Watch | घड्याळ
+watch | 
 flower-pot | फुलदाणी|Phuladāṇī
 umbrella | छत्री|Chatrī
 door | दार|Dāra
@@ -61,7 +61,7 @@ bed-lamp | पलंगदिवा | PalaṅgaDivā
 handbag |हातपिशवी | Hātā piśavī
 steps | पायऱ्या|Pāyaṟyā
 curtains | पडदे|Paḍadē
-water tank | पाण्याची टाकी|Pāṇyācī ṭākī
+watertank | पाण्याची टाकी|Pāṇyācī ṭākī
 air-conditioner | वातानुकूलक | Vātānukūlaka
 washing-machine |  धुलाई यंत्र | dhulaee yantr`
     },
@@ -72,7 +72,7 @@ washing-machine |  धुलाई यंत्र | dhulaee yantr`
 coat | कोट | Kōṭa
 shoe | बूट|Būṭa
 sock | मोजे|Mōjē
-boots | बूट | Būṭa
+boots | 
 pyjama | पायजमा | Pyjama
 gloves | हातमोजा|Hātamōjā
 scarf | मफलर | Maphalara
@@ -105,7 +105,7 @@ waterbottle| पाण्याची बाटली | Pāṇyācī bāṭalī
 color-pencils| रंगीत पेन्सिल | Raṅgīta pēnsila
 crayons | रंगीत खडू | Raṅgīta khaḍū
 notebook | टिपणवही | Ṭipaṇavahī
-Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
+writingpad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
     },
     {
       id: 'kitchen',
@@ -113,7 +113,7 @@ Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
       text: `stove |शेगडी | Śēgaḍī
 fork|काटा|Kāṭā
 knife|चाकू|Cākū
-pan| पॅन | pĕna
+pan| तवा| pĕna
 spoon|चमचा|Camacā
 pot|भांडे|Bhāṇḍē
 butter|लोणी|Lōṇī
@@ -138,7 +138,7 @@ meat | मांस|Mānsa
 salt | मीठ|Mīṭha
 french-fry | फ्रेंच फ्राय | Phrēn̄ca phrāya
 soft-drink | हलकं पेय|Halakaṁ pēya
-pizza | पिझ्झा. | Pijhjhā
+pizza | पिझ्झा | Pijhjhā
 sweets | मिठाई|Miṭhā'ī
 bread | पाव | Pāva
 cup | कप | Kapa

@@ -31,7 +31,7 @@ factory | कारखाना|Kārakhānā
 fort | किल्ला|Killā
 gopuram | गोपुरम | Gōpurama
 harbour | बंदर|Bandara
-hospital | हॉस्पिटल|Hŏspiṭala
+hospital | दवाखाना|Hŏspiṭala
 library | ग्रंथालय | Granthālaya
 lighthouse | दीपगृह | Dīpagr̥ha
 map | नकाशा|Nakāśā
@@ -43,8 +43,8 @@ stage | रंगमंच|Raṅgaman̄ca
 supermarket | मोठी बाजारपेठ | Mōṭhī bājārapēṭha
 escalator | यांत्रिक वाहिका| यांत्रिक वाहिका
 lift | उद्वाहक | ucalaṇē
-petrol pump | पेट्रोल पंप | Pēṭrōla pampa
-footpath | Foot Path | पाऊलवाट
+petrolbunk| पेट्रोल पंप | Pēṭrōla pampa
+footpath | पाऊलवाट | पाऊलवाट
 pillar | खांब|Khāmba`
     },
     {
