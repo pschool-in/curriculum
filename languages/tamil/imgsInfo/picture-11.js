@@ -38,15 +38,22 @@ export default {
       {
         id: 'instruments',
         label: 'இசைக்கருவிகள்',
-        text: `violin | வயலின்
-        flute |புல்லாங்குழல்
-  guitar | Guitar
-  xylophone | Xylophone
-  piano |ஆர்மோனியம்
-  veenai |வீணை
-  saxophone | சாக்ஸபோன்
-  tabla |தபேலா
-  trumpet |தாரை`
+        text: 
+        `flute |புல்லாங்குழல்
+        piano |ஆர்மோனியம்
+        tabla |தபேலா
+        violin | வயலின்
+        guitar | Guitar
+        saxophone | சாக்ஸபோன்
+        trumpet |தாரை
+        xylophone | Xylophone
+        drums|மத்தளம்
+        yazl|யாழ்
+        damaru|உடுக்கை
+        dhol| தோலக் 
+        mrithangam|மிருதங்கம்
+        nadaswaram|நாதஸ்வரம்
+  veenai |வீணை`
       }
     ]
   };

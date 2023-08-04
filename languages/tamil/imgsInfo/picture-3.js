@@ -67,8 +67,15 @@ sunflower | சூரியகாந்தி
 marigold | சாமந்திப்பூ
 hibiscus | 	செம்பருத்தி
 jasmine |	முல்லை
-tulip | Tulip
-zinnia |Jinniya`
+lily | 	 குவளை
+tulip |
+zinnia|
+pansy | 
+water-lily |  அல்லி
+mogra|குண்டு மல்லி
+poosanipoo|பூசணிப்பூ
+sangupoo|சங்குப்பூ
+vaadamalli|வாடாமல்லி`
     },
     {
       id: 'others',
@@ -84,7 +91,7 @@ brick | செங்கல்
 rooftile|ஓடு
 stick | குச்சி
 ring| மோதிரம்
-drums|Drum
+drums|முரசு
 food| உணவு
 king|அரசன்
 queen | அரசி
@@ -99,7 +106,17 @@ garden |தோட்டம்
 sculpture |சிற்பம்
 statue | சிலை
 clay-lamp | களிமண் விளக்கு
-clay-stove | களிமண் அடுப்பு`
+clay-stove | களிமண் அடுப்பு
+arivaal|அரிவாள்
+arivaal-manai|அரிவாள்  மனை
+ladle|அகப்பை
+anjarai-petti|அஞ்சறைப்பெட்டி
+stone-grinder|ஆட்டுக்கல்
+sembu|வெண்கலச்செம்பு       
+ammi|அம்மிக்கல்
+dosaikal|தோசைக்கல்
+kudam|குடம்
+salangai|சலங்கை`
     }
   ]
 };

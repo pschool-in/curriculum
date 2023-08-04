@@ -49,18 +49,25 @@ keyboard | விசைப்பலகை`
     {
       id: 'flowers',
       label: 'மலர்கள்',
-      text: `daffodil|
+      text: 
+      `daffodil|
   gulmohar | செம்மயில்கொன்றை
-  lily | 	 குவளை
-  bougainvillea | காகிதப்பூ
-december |டிசம்பர் 
-  pansy | 
-  poppy | 
+      poppy | 
   daisy | 
-  jasmine | முல்லை
   magnolia |செண்பகப்பூ
   periwinkle |நித்தியகல்யாணிப்பூ
-  water-lily |  அல்லி`
+    aavarampoo|ஆவாரம்பூ
+  bougainvillea | காகிதப்பூ
+december |டிசம்பர்
+erukkampoo|எருக்கம்பூ
+idlipoo|இட்லிப்பூ
+kanagamaram| கனகாம்பரம்
+kurinchipoo|குறிஞ்சிப்பூ          
+nandiyaavattampoo|நந்தியாவட்டை
+pichipoo|பிச்சிப்பூ
+poovarasampoo|பூவரசம்பூ
+thumbaipoo|தும்பைப்பூ
+veepampoo|வேப்பம்பூ  `
     }
   ]
 };

@@ -123,33 +123,49 @@ blender | கலப்பான்
 grinder | அரைக்கும் இயந்திரம்
 cheese | பாலாடைக்கட்டி
 fridge | குளிர்சாதனப்பெட்டி
-lollipop | குச்சி மிட்டாய்
-salad | பச்சைகாய்கறிகள்
 sugar | சர்க்கரை
 bowl | கிண்ணம்
-chicken | கோழி இறைச்சி
-milk|பால்
-fruits|பழங்கள்
-ice-cream |பனிக்கூழ்
-meat | இறைச்சி
-egg | முட்டை
 salt | உப்பு
-french-fry |
-soft-drink |குளிர்பானம்
-pizza | பீட்சா
-sweets | இனிப்புகள்
-bread | ரொட்டி
 cup |கோப்பை
 ladle | அகப்பை
-juice | பழச்சாறு
-mushroom | காளான்
-sandwich | 
-cake |
-burger | 
 flour | மாவு
 lentils | பருப்பு
-rice | அரிசி
-soup | சாறு`
+rice | அரிசி`
+    },
+    {
+      id: 'eatables',
+      label: 'உணவுப்பொருட்கள்',
+      text: `lollipop | குச்சி மிட்டாய்
+      salad | பச்சைக்காய்கறிகள்
+      chicken | கோழி இறைச்சி
+      milk|பால்
+      fruits|பழங்கள்
+      ice-cream |பனிக்கூழ்
+      meat | இறைச்சி
+      egg | முட்டை
+      french-fry |
+      soft-drink |குளிர்பானம்
+      pizza | பீட்சா
+      sweets | இனிப்புகள்
+      bread | ரொட்டி
+      soup | சூப்
+      juice | பழச்சாறு
+      sandwich | 
+cake |
+burger | 
+adirasam|அதிரசம்
+dosai|தோசை
+idiyappam|இடியாப்பம்
+idly|இட்லி
+murukku|முறுக்கு
+pajji|பஜ்ஜி   
+pongal|பொங்கல்
+porotta|பரோட்டா
+puttu-rice|புட்டு  
+vadai|வடை
+ladoo|லட்டு
+ellumittai|எள்ளு மிட்டாய்
+kadalai-mittai| கடலைமிட்டாய்     `
     }
   ]
 };

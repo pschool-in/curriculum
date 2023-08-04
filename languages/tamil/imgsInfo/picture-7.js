@@ -5,8 +5,8 @@ export default {
     {
       id: 'fruits',
       label: 'பழங்கள்',
-      text: `star-fruit 
-dragon-fruit | dr
+      text: `star-fruit|
+dragon-fruit | 
 sugarcane |கரும்பு
 peach | 
 sweet-potato | சர்க்கரைவள்ளிக்கிழங்கு
@@ -24,14 +24,10 @@ passion-fruit | `
     {
       id: 'vegetables',
       label: 'காய்கறிகள்',
-      text: `pepper | மிளகு
-      wheat | கோதுமை
-      paddy | நெல்
-      rice | அரிசி
-      chickpea | கொண்டைக்கடலை
-mustard-greens | 	கடுகு கீரை
+      text: `
+      mustard-greens | 	கடுகு கீரை
 turmeric | மஞ்சள்
-turnip | 
+turnip |
 fenugreek |வெந்தயக்கீரை
 tamarind | புளி
 elephant-yam | சேனைக்கிழங்கு
@@ -48,7 +44,16 @@ raw-banana |வாழைக்காய்
 tulsi |துளசி
 bottlegourd | சுரைக்காய்
 ivygourd | கோவக்காய்
-ridgegourd |பீர்க்கங்காய்`
+ridgegourd |பீர்க்கங்காய்
+
+pepper | மிளகு
+      wheat | கோதுமை
+      paddy | நெல்
+      rice | அரிசி
+      chickpea | கொண்டைக்கடலை
+
+
+`
     }
   ]
 };
