@@ -21,7 +21,7 @@ export default {
       party |கொண்டாட்டம்
       skipping | கயிற்றாட்டம்
       catch | பிடி
-      pass | Pass
+      pass | கைமாற்று 
       swim | நீந்துதல்
       swing | ஊஞ்சல்
       throw | எறிதல்
@@ -39,8 +39,8 @@ export default {
     {
       id: 'sports',
       label: 'விளையாட்டு',
-      text: `bat2 | பந்தடிக்கும் மட்டை
-      racket | Racket
+      text: `bat2 | மட்டை
+      racket | 
       seesaw | ஏற்றப் பலகை
       slide | சறுக்கு
       carrom | சுண்டாட்டப் பலகை
@@ -53,8 +53,8 @@ export default {
       archery | வில்வித்தை
       basketball |கூடைப்பந்து
       boxing | குத்துச்சண்டை
-      table-tennis |மேடை வரிப்பந்து
-      golf | குழிப்பந்தாட்டம்
+      table-tennis |
+      golf | 
       wrestling |மல்யுத்தம்
       karate | கராத்தே
       surfing | அலைச்சறுக்கு 

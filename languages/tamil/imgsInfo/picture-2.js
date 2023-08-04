@@ -1,9 +1,9 @@
 export default {
-  id: "picture-2",
-  label: "காய்கறிகளும் பழங்களும் ",
+  id: 'picture-2',
+  label: 'காய்கறிகளும் பழங்களும் ',
   list: [
     {
-      id: "fruits",
+      id: 'fruits',
       label: 'பழங்கள்',
       text: `apple | ஆப்பிள்  
 grapes | திராட்சை
@@ -24,11 +24,11 @@ fig| அத்திப்பழம்
 custard-apple| சீதாப்பழம்
 plum| 	plum
 dates| பேரிச்சம்பழம்
-muskmelon| முலாம்பழம்`,
+muskmelon| முலாம்பழம்`
     },
     {
-      id: "vegetables",
-      label:'காய்கறிகள்',
+      id: 'vegetables',
+      label: 'காய்கறிகள்',
       text: `carrot | 	காரட்
 beetroot | பீட்ரூட்
 onion | வெங்காயம்
@@ -61,7 +61,7 @@ mintleaf| புதினா
 peanut| வேர்க்கடலை
 radish| முள்ளங்கி
 spinach | கீரை
-vegetables |காய்கறிகள்`,
-    },
-  ],
+vegetables |காய்கறிகள்`
+    }
+  ]
 };

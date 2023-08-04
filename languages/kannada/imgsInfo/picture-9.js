@@ -23,8 +23,8 @@ keyboard | ಕೀಬೋರ್ಡ್|Keyboard`
     {
       id: 'others',
       label: 'ಇತರೆ ಚಿತ್ರಗಳು | Itare citragaḷu | Other Images',
-      text: `angel |ಏಂಜೆಲ್| Angel
-alien | Alien|Alien
+      text: `angel |ದೇವತೆ| Dēvate 
+alien | ಅನ್ಯಲೋಕದ |An'yalōkada
 knight | ಸರ್ದಾರ್ | Sardar
 warrior | ಯೋಧ|Yodha
 yarn-ball | ನೂಲು ಚೆಂಡು | Nulu cendu

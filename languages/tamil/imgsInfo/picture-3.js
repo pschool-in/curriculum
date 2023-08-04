@@ -1,8 +1,9 @@
 export default {
-  id: "picture-3",
+  id: 'picture-3',
+  label: 'இயற்கை மற்றும் செயற்கை',
   list: [
     {
-      id: "nature",
+      id: 'nature',
       label: 'இயற்கை',
       text: `sun |சூரியன்
 moon|நிலா
@@ -31,10 +32,10 @@ coconut-tree | தென்னை மரம்
 coconutleaf | தென்னை இலை
 mangoleaf|மா இலை
 palm-tree | பனை மரம்
-neemleaf |வேப்ப இலை`,
+neemleaf |வேப்ப இலை`
     },
     {
-      id: "body-parts",
+      id: 'body-parts',
       label: 'உடல் உறுப்புகள்',
       text: `ear|காது
 eye |கண்
@@ -55,23 +56,23 @@ wrist | மணிக்கட்டு
 thumb |கட்டைவிரல்
 cheek | கன்னம்
 chin | தாடை
-nails | நகங்கள்`,
+nails | நகங்கள்`
     },
     {
-      id: "flowers",
-      label: 'பூக்கள்|மலர்கள்',
+      id: 'flowers',
+      label: 'மலர்கள்',
       text: `rose |ரோஜா
-        lotus | 	தாமரை
-        sunflower | சூரியகாந்தி
-        marigold | சாமந்திப்பூ
-        hibiscus | 	செம்பருத்தி
+lotus | 	தாமரை
+sunflower | சூரியகாந்தி
+marigold | சாமந்திப்பூ
+hibiscus | 	செம்பருத்தி
 jasmine |	முல்லை
 tulip | Tulip
-zinnia |Jinniya`,
+zinnia |Jinniya`
     },
     {
-      id: "others",
-      label:'இதர|others',
+      id: 'others',
+      label: 'இன்னும் சில படங்கள்',
       text: `bell | மணி
 brush| தூரிகை
 bone| எலும்புத்துண்டு
@@ -90,8 +91,8 @@ queen | அரசி
 kite| பட்டம் 
 ladder| ஏணி
 quill | இறகு
-  oar | துடுப்பு
-  gun | துப்பாக்கி
+oar | துடுப்பு
+gun | துப்பாக்கி
 wheel| சக்கரம்
 park | பூங்கா
 garden |தோட்டம்
@@ -99,6 +100,6 @@ sculpture |சிற்பம்
 statue | சிலை
 clay-lamp | களிமண் விளக்கு
 clay-stove | களிமண் அடுப்பு`
-    },
-  ],
+    }
+  ]
 };

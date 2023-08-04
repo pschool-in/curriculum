@@ -1,29 +1,29 @@
 export default {
-  id: "picture-7",
-  label: "காய்கறிகளும் பழங்களும்-2",
+  id: 'picture-7',
+  label: 'காய்கறிகளும் பழங்களும்-2',
   list: [
     {
-      id: "fruits",
+      id: 'fruits',
       label: 'பழங்கள்',
-      text: `star-fruit |Star fruit
-dragon-fruit | dragon-fruit
+      text: `star-fruit 
+dragon-fruit | dr
 sugarcane |கரும்பு
-peach | peach
+peach | 
 sweet-potato | சர்க்கரைவள்ளிக்கிழங்கு
 jamun |  நாவல் பழம்
 pear | 	பேரிக்காய்
-water-chestnut | water-chestnut 
+water-chestnut | 
 jujube | இலந்தைப்பழம்
 sapotta |சப்போட்டா,
 tapioca |மரவள்ளிக்கிழங்கு
-blueberry | blueberry
+blueberry | 
 wood-apple | விளாம்பழம்
 gooseberry | நெல்லிக்காய்
-passion-fruit | passion-fruit`,
+passion-fruit | `
     },
     {
-      id: "vegetables",
-      label:'காய்கறிகள்',
+      id: 'vegetables',
+      label: 'காய்கறிகள்',
       text: `pepper | மிளகு
       wheat | கோதுமை
       paddy | நெல்
@@ -31,7 +31,7 @@ passion-fruit | passion-fruit`,
       chickpea | கொண்டைக்கடலை
 mustard-greens | 	கடுகு கீரை
 turmeric | மஞ்சள்
-turnip | turnip
+turnip | 
 fenugreek |வெந்தயக்கீரை
 tamarind | புளி
 elephant-yam | சேனைக்கிழங்கு
@@ -48,7 +48,7 @@ raw-banana |வாழைக்காய்
 tulsi |துளசி
 bottlegourd | சுரைக்காய்
 ivygourd | கோவக்காய்
-ridgegourd |பீர்க்கங்காய்`,
-    },
-  ],
+ridgegourd |பீர்க்கங்காய்`
+    }
+  ]
 };

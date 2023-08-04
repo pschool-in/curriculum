@@ -1,13 +1,13 @@
 export default {
-  id: "picture-4",
-  label: "வீடு",
+  id: 'picture-4',
+  label: 'வீடு',
   list: [
     {
       id: 'people',
       label: `மக்கள்`,
-      text:`boy|சிறுவன்
-      girl | சிறுமி
-      man| ஆண்
+      text: `boy|சிறுவன்
+girl | சிறுமி
+man| ஆண்
 woman | பெண்
 baby |குழந்தை
 mother | அம்மா
@@ -16,7 +16,7 @@ grandfather |தாத்தா
 grandma | பாட்டி`
     },
     {
-      id: "house",
+      id: 'house',
       label: `வீடு`,
       text: `house| வீடு
 table|மேசை
@@ -62,29 +62,29 @@ steps | படிக்கட்டுகள்
 curtains | திரைச்சீலை
 watertank |தண்ணீர் தொட்டி
 air-conditioner | குளிரூட்டி 
-washing-machine |துணி துவைக்கும் இயந்திரம்`,
+washing-machine |துணி துவைக்கும் இயந்திரம்`
     },
     {
-      id: "dress",
+      id: 'dress',
       label: 'ஆடை',
       text: `dress | ஆடை
 coat |மேல்சட்டை
 shoe | காலணி
 sock | காலுறை
-boots | boots
-pyjama | pyjama
+boots | 
+pyjama | 
 gloves | கையுறைகள்
 scarf | கழுத்துக் குட்டை
 sweater | கம்பளிச்சட்டை
-bib | Bib
+bib | 
 shirt | சட்டை
 jacket | மேலுறை
 hat | தொப்பி
 trousers | கால்சட்டை
-saree |சேலை`,
+saree |சேலை`
     },
     {
-      id: "school",
+      id: 'school',
       label: ' பள்ளிக்கூடம்',
       text: `pen |பேனா
 pencil|கரிக்கோல்
@@ -102,12 +102,12 @@ globe | உலகஉருண்டை
 schoolbag| புத்தகப்பை 
 waterbottle| தண்ணீர் குடுவை
 color-pencils|வண்ணக் கரிக்கோல்
-crayons | crayons
+crayons | 
 notebook | குறிப்பேடு
-writingpad |  எழுத ஏதுவான அட்டை`,
+writingpad |  எழுத ஏதுவான அட்டை`
     },
     {
-      id: "kitchen",
+      id: 'kitchen',
       label: 'சமையலறை',
       text: `stove|அடுப்பு
 fork|	முள் கரண்டி
@@ -119,7 +119,6 @@ butter|வெண்ணெய்
 plate | தட்டு
 tap | குழாய்
 lid |மூடி
-
 blender | கலப்பான்
 grinder | அரைக்கும் இயந்திரம்
 cheese | பாலாடைக்கட்டி
@@ -135,7 +134,7 @@ ice-cream |பனிக்கூழ்
 meat | இறைச்சி
 egg | முட்டை
 salt | உப்பு
-french-fry | French Fry
+french-fry |
 soft-drink |குளிர்பானம்
 pizza | பீட்சா
 sweets | இனிப்புகள்
@@ -144,13 +143,13 @@ cup |கோப்பை
 ladle | அகப்பை
 juice | பழச்சாறு
 mushroom | காளான்
-sandwich | Sandwich
-cake |cake
-burger | Burger
+sandwich | 
+cake |
+burger | 
 flour | மாவு
 lentils | பருப்பு
 rice | அரிசி
-soup | சாறு`,
-    },
-  ],
+soup | சாறு`
+    }
+  ]
 };

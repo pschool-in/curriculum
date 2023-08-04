@@ -1,18 +1,18 @@
 export default {
-  label: "விலங்குகளும் பறவைகளும்",
-  id: "ta-picture",
+  label: 'விலங்குகளும் பறவைகளும்',
+  id: 'ta-picture',
   list: [
     {
-      id: "animals",
-      label: "விலங்குகள்",
+      id: 'animals',
+      label: 'விலங்குகள்',
       text: `cat| பூனை 
-            dog| நாய் 
-            goat| ஆடு 
-            cow| பசு
-            donkey|  கழுதை
-            horse| குதிரை 
-            pig|பன்றி
-            elephant| யானை
+dog| நாய் 
+goat| ஆடு 
+cow| பசு
+donkey|  கழுதை
+horse| குதிரை 
+pig|பன்றி
+elephant| யானை
 lion | சிங்கம்
 monkey| குரங்கு
 hippo| நீர்யானை
@@ -46,10 +46,10 @@ goldfish | தங்கமீன்
 spider| சிலந்தி
 panda| பாண்டா
 giraffe| ஒட்டகச்சிவிங்கி
-kangaroo| கங்காரு`,
+kangaroo| கங்காரு`
     },
     {
-      id: "birds",
+      id: 'birds',
       label: 'பறவைகள்',
       text: `crow|காகம்
 dove|புறா
@@ -71,7 +71,7 @@ owl| ஆந்தை
 rooster|சேவல்
 vulture| vulture
 woodpecker| மரங்கொத்தி
-koel |குயில்`,
-    },
-  ],
+koel |குயில்`
+    }
+  ]
 };
