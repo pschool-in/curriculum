@@ -31,7 +31,7 @@ rice | तांदूळ|Tāndūḷa
 chickpea | चणे|Caṇē
 mustard-greens |मोहरी | Mōharī
 turmeric |  हळद|Haḷada
-turnip | सलगम |
+turnip | सलगम |salgam
 fenugreek | मेथी|Mēthī
 tamarind | चिंच|Cin̄ca
 elephant-yam |सुरण | Suraṇa

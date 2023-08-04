@@ -105,7 +105,7 @@ waterbottle| पाण्याची बाटली | Pāṇyācī bāṭalī
 color-pencils| रंगीत पेन्सिल | Raṅgīta pēnsila
 crayons | रंगीत खडू | Raṅgīta khaḍū
 notebook | टिपणवही | Ṭipaṇavahī
-Writing Pad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
+writingpad | लिहिण्याचे फळी | Lihiṇyācē phaḷī`
     },
     {
       id: 'kitchen',
@@ -138,7 +138,7 @@ meat | मांस|Mānsa
 salt | मीठ|Mīṭha
 french-fry | फ्रेंच फ्राय | Phrēn̄ca phrāya
 soft-drink | हलकं पेय|Halakaṁ pēya
-pizza | पिझ्झा. | Pijhjhā
+pizza | पिझ्झा | Pijhjhā
 sweets | मिठाई|Miṭhā'ī
 bread | पाव | Pāva
 cup | कप | Kapa

@@ -43,7 +43,7 @@ stage | रंगमंच|Raṅgaman̄ca
 supermarket | मोठी बाजारपेठ | Mōṭhī bājārapēṭha
 escalator | यांत्रिक वाहिका| यांत्रिक वाहिका
 lift | उद्वाहक | ucalaṇē
-petrol pump | पेट्रोल पंप | Pēṭrōla pampa
+petrolbunk| पेट्रोल पंप | Pēṭrōla pampa
 footpath | पाऊलवाट | पाऊलवाट
 pillar | खांब|Khāmba`
     },
