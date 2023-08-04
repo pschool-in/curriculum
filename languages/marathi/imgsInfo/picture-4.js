@@ -61,7 +61,7 @@ bed-lamp | पलंगदिवा | PalaṅgaDivā
 handbag |हातपिशवी | Hātā piśavī
 steps | पायऱ्या|Pāyaṟyā
 curtains | पडदे|Paḍadē
-water tank | पाण्याची टाकी|Pāṇyācī ṭākī
+watertank | पाण्याची टाकी|Pāṇyācī ṭākī
 air-conditioner | वातानुकूलक | Vātānukūlaka
 washing-machine |  धुलाई यंत्र | dhulaee yantr`
     },
