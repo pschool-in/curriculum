@@ -33,7 +33,7 @@ fish| মাছ
 frog| ব্যাঙ
 crab| কাঁকড়া
 snake| সাপ
-bull | ষাঁড়|Ṣām̐ṛa
+bull | ষাঁড়
 tortoise|  কচ্ছপ
 rat| ইঁদুর
 ant| পিঁপড়ে
@@ -42,12 +42,12 @@ bat| বাদুড়
 buffalo| মোষ
 butterfly| প্রজাপতি
 cheetah| চিতাবাঘ
-bee | মৌমাছি|maumāchi
-goldfish | Goldfish
-spider | মাকড়সা|mākaṛasā
-panda | Panda
-giraffe| Giraffe
-kangaroo| Kangaroo`
+bee | মৌমাছি
+goldfish |
+spider | মাকড়সা
+panda | 
+giraffe| 
+kangaroo| `
     },
     {
       id: 'birds',
@@ -60,11 +60,11 @@ chick| মুরগিছানা
 parrot|টিয়া পাখি
 peacock|ময়ূর
 penguin|পেঙ্গুইন
-sparrow|চড়ুই|Caṛu'i
+sparrow|চড়ুই
 crane| সারস পাখি
 
-eagle| Eagle
-flamingo| Flamingo
+eagle|
+flamingo| 
 kingfisher| মাছরাঙ্গা
 myna| মায়না
 ostrich| উটপাখি
@@ -72,7 +72,7 @@ owl| পেঁচা
 rooster| মোরগ
 vulture| শকুন
 woodpecker| কাঠঠোকরা
-koel | Koel`
+koel | `
     }
   ]
 };

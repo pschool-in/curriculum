@@ -5,62 +5,62 @@ export default {
     {
       id: 'gadgets',
       label: 'গ্যাজেট|Gadgets',
-      text: `camera |Camera
-headphone|Headphone
-pendrive|Pendrive
-remote| দূরবর্তী|dūrabartī
-smartphone|Smartphone
-speaker|Speaker
-tablet|Tablet
-torch|মশাল|maśāla
-web-camera | Web Camera
-radio | Radio
-tv | Television
-laptop | Laptop
-computer | Computer
-keyboard | Keyboard`
+      text: `camera |
+headphone|
+pendrive|
+remote| দূরবর্তী
+smartphone|
+speaker|
+tablet|
+torch|মশাল
+web-camera | 
+radio | 
+tv | 
+laptop | 
+computer | 
+keyboard | `
     },
     {
       id: 'others-2',
       label: 'অন্যান্য|Others',
-      text: `angel | দেবদূত|Dēbadūta
-alien | পরক|paraka
-knight | Knight
-warrior | যোদ্ধা |yōd'dhā
-chariot |  রথ |ratha
-horse-carriage | ঘোড়ার গাড়ি |ghōṛāra gāṛi
-yarn-ball |  সুতা-বল |sutā-bala
-bow | নম |nama
-arrow | তীর |tīra
-fountain | ঝর্ণা | jharṇā
-pouch | থলি |thali
-trolley | ট্রলি |ṭrali
-whistle |শিস |śisa
-twig | ডালপালা |ḍālapālā
-palanquin | পালকি |pālaki
-medicine | ঔষধ |auṣadha
-conch| শঙ্খ |śaṅkha
-toothbrush | Toothbrush
-chocolate | Chocolate
-toothpaste | Toothpaste
-trident | ত্রিশূল | triśūla`
+      text: `angel | দেবদূত
+alien | পরক
+knight | 
+warrior | যোদ্ধা 
+chariot |  রথ 
+horse-carriage | ঘোড়ার গাড়ি 
+yarn-ball |  সুতা-বল 
+bow | নম 
+arrow | তীর 
+fountain | ঝর্ণা 
+pouch | থলি 
+trolley | ট্রলি 
+whistle |শিস 
+twig | ডালপালা 
+palanquin | পালকি 
+medicine | ঔষধ 
+conch| শঙ্খ 
+toothbrush | 
+chocolate | 
+toothpaste | 
+trident | ত্রিশূল `
     },
 
     {
       id: 'flowers-2',
       label: 'ফুল|Flowers',
-      text: `daffodil | Daffodil
-gulmohar | Gulmohar
-lily | Lily
-bougainvillea | Bougainvillea
-december | December
-pansy | Pansy
-poppy | Poppy
-daisy | Daisy
-jasmine | জুঁই|jum̐i
-magnolia | Magnolia
-periwinkle | Periwinkle
-water-lily | শাপলা|śāpalā`
+      text: `daffodil |
+gulmohar | 
+lily | 
+bougainvillea | 
+december | 
+pansy | 
+poppy | 
+daisy | 
+jasmine | জুঁই
+magnolia |
+periwinkle | 
+water-lily | শাপলা`
     }
   ]
 };

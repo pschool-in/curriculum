@@ -5,75 +5,75 @@ export default {
     {
       id: 'social',
       label: 'সামাজিক বিজ্ঞান|Social Science',
-      text: `mountain | পর্বত |parbata
-seashore |  সমুদ্রতটে | samudrataṭē
-forest | বন | bana
-desert |  মরুভূমি | marubhūmi 
-river | নদী |nadī 
-grassland | তৃণভূমি | tr̥ṇabhūmi
-ocean |  মহাসাগর |mahāsāgara
-polar | মেরু |mēru
-valley | উপত্যকা |  upatyakā
-volcano | আগ্নেয়গিরি | āgnēẏagiri
-apartment | Apartment
-bamboo-house | বাঁশের ঘর |bām̐śēra ghara 
-hut | কুঁড়েঘর |kum̐ṛēghara 
-igloo | Igloo
-tent-house | তাঁবু ঘর | tām̐bu ghara 
-tree-house | গাছের ঘর |  gāchēra ghara 
-road | রাস্তা |rāstā
-railway | Railway
-well | ভাল | bhāla 
-airport |  বিমানবন্দর | bimānabandara
-bank | Bank
-classroom | শ্রেণীকক্ষ |  śrēṇīkakṣa
-factory | কারখানা | kārakhānā
-fort | দুর্গ |  durga
+      text: `mountain | পর্বত 
+seashore |  সমুদ্রতটে 
+forest | বন 
+desert |  মরুভূমি 
+river | নদী 
+grassland | তৃণভূমি 
+ocean |  মহাসাগর 
+polar | মেরু 
+valley | উপত্যকা 
+volcano | আগ্নেয়গিরি 
+apartment | 
+bamboo-house | বাঁশের ঘর 
+hut | কুঁড়েঘর |
+igloo | 
+tent-house | তাঁবু ঘর 
+tree-house | গাছের ঘর 
+road | রাস্তা 
+railway | 
+well | ভাল 
+airport |  বিমানবন্দর 
+bank |
+classroom | শ্রেণীকক্ষ 
+factory | কারখানা 
+fort | দুর্গ 
 gopuram 
-harbour | পোতাশ্রয় | pōtāśraẏa
-hospital | Hospital
-library | Library
-lighthouse | বাতিঘর | bātighara 
-map | মানচিত্র | mānacitra
-office |দপ্তর |daptara
-palace | প্রাসাদ |prāsāda 
-parkinglot | Parking Lot
-restaurant | Restaurant
-stage | মঞ্চ | uttōlana
-supermarket | Super Market
-escalator | Escalator
-lift | Lift
-petrolbunk | Petrol Bunk
-footpath | Foot Path
-pillar | স্তম্ভ | stambha`
+harbour | পোতাশ্রয় 
+hospital | 
+library | 
+lighthouse | বাতিঘর 
+map | মানচিত্র 
+office |দপ্তর 
+palace | প্রাসাদ 
+parkinglot |
+restaurant | 
+stage | মঞ্চ 
+supermarket 
+escalator 
+lift | 
+petrolbunk |
+footpath | 
+pillar | স্তম্ভ `
     },
     {
       id: 'organs',
       label: 'অঙ্গ|Organs',
-      text: `heart|হৃদয় |Hr̥daẏa
-brain|মস্তিষ্ক |mastiṣka
-lungs|শ্বাসযন্ত্র |śbāsayantra
-stomach|পেট |pēṭa
-liver|যকৃত |yakr̥ta
+      text: `heart|হৃদয় 
+brain|মস্তিষ্ক 
+lungs|শ্বাসযন্ত্র
+stomach|পেট 
+liver|যকৃত 
 kidney`
     },
     {
       id: 'teeth',
       label: 'দাঁত|Teeth',
-      text: `incisor | Incisor
-canine | Canine
-premolar | Premolar
-molar | Molar`
+      text: `incisor |
+canine | 
+premolar | 
+molar | `
     },
     {
       id: 'science',
-      label: 'বিজ্ঞান|Science',
-      text: `windmill | Windmill
-solar-panel | Solar Panel
-bridge | সেতু |sētu
-dam | বাঁধ | bām̐dha 
-water-tower |জল মিনার|jala mināra
-electricpole |  বৈদ্যুতিক খুঁটি | baidyutika khum̐ṭi`
+      label: 'বিজ্ঞান|',
+      text: `windmill |
+solar-panel |
+bridge | সেতু 
+dam | বাঁধ 
+water-tower |জল মিনার
+electricpole |  বৈদ্যুতিক খুঁটি `
     }
   ]
 };

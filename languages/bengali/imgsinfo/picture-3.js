@@ -6,33 +6,33 @@ export default {
       id: 'nature',
       label: 'প্রকৃতি|Nature',
       text: `sun |সূর্য 
-moon|চাঁদ|Cām̐da 
+moon|চাঁদ
 star|তারা 
 world|পৃথিবী
 bird|পাখি
 rain|বৃষ্টি
-stone|পাথর|pāthara
-pebbles |নুড়ি|nuṛi
-leaf|পাতা|pātā
-tree | গাছ|gācha
-log | Log
-nest |Nest 
-dew | শিশির|śiśira
-waterfall | জলপ্রপাত |jalaprapāta
-rainbow |রংধনু|randhanu
-cloud | মেঘ|mēgha
-lightning | বজ্র|bajra
-web | ওয়েব|ōẏēba
-shell | shell
-banyan | বটগাছ|baṭagācha
-bamboo-tree | বাঁশ গাছ| bām̐śa gācha
-banana-tree |কলা গাছ|kalā gācha
-bananaleaf | কলা পাতা| kalā pātā
-coconut-tree | নারিকেল গাছ|nārikēla gācha
-coconutleaf | নারকেল পাতা|nārakēla pātā
-mangoleaf | আমের পাতা|āmēra pātā
-palm-tree | পাম গাছ|pāma gācha
-neemleaf |  নিম পাতা|nima pātā`
+stone|পাথর
+pebbles |নুড়ি
+leaf|পাতা
+tree | গাছ
+log | 
+nest |
+dew | শিশির
+waterfall | জলপ্রপাত 
+rainbow |রংধনু
+cloud | মেঘ
+lightning | বজ্র
+web | ওয়েব
+shell | 
+banyan | বটগাছ
+bamboo-tree | বাঁশ গাছ
+banana-tree |কলা গাছ
+bananaleaf | কলা পাতা
+coconut-tree | নারিকেল গাছ
+coconutleaf | নারকেল পাতা
+mangoleaf | আমের পাতা
+palm-tree | পাম গাছ
+neemleaf |  নিম পাতা`
     },
     {
       id: 'body-parts',
@@ -45,18 +45,18 @@ hand|হাত
 mouth|মুখ
 nose| নাক
 tooth|দাঁত
-forehead | কপাল| kapāla
-mustache |  গোঁফ|gōm̐pha
-beard | দাড়ি|dāṛi
-ankle | গোড়ালি|gōṛāli
-elbow | কনুই|kanu'i
-knee | হাঁটু|hām̐ṭu
-shoulder | কাঁধ|kām̐dha
-wrist | কব্জি|kabji
-thumb | থাম্ব|thāmba
-cheek |গাল|gāla
-chin | থুতনি|thutani
-nails |নখ|nakha`
+forehead | কপাল
+mustache |  গোঁফ
+beard | দাড়ি
+ankle | গোড়ালি
+elbow | কনুই
+knee | হাঁটু
+shoulder | কাঁধ
+wrist | কব্জি
+thumb | থাম্ব
+cheek |গাল
+chin | থুতনি
+nails |নখ`
     },
     {
       id: 'flowers',
@@ -74,32 +74,32 @@ zinnia | জিনিয়া`
       id: 'others',
       label: 'অন্যান্য|Others',
       text: `bell | ঘণ্টা
-brush| Brush
+brush| 
 bone| হাড়
-box | Box
-coin | মুদ্রা| mudrā
-top | Top
-balloon | Balloon
-brick | ইট|iṭa
-rooftile|  ছাদ|chāda 
-stick | লাঠি| lāṭhi
+box |
+coin | মুদ্রা
+top | 
+balloon | 
+brick | ইট
+rooftile|  ছাদ
+stick | লাঠি
 ring| আংটি
 drums| ঢাক
-food| খাদ্য|Khādya
+food| খাদ্য
 king| রাজা
-queen | রাণী|Rāṇī
+queen | রাণী
 kite| ঘুড়ি
 ladder| মই
-quill | Quill
-oar | Oar
-gun | বন্দুক|banduka
+quill | 
+oar |
+gun | বন্দুক
 wheel| চাকা
-park | Park
-garden | বাগান|bāgāna
-sculpture | ভাস্কর্য| bhāskarya
-statue | মূর্তি|mūrti
-clay-lamp | মাটির প্রদীপ|māṭira pradīpa
-clay-stove | মাটির চুলা|māṭira culā`
+park | 
+garden | বাগান
+sculpture | ভাস্কর্য
+statue | মূর্তি
+clay-lamp | মাটির প্রদীপ
+clay-stove | মাটির চুলা`
     }
   ]
 };

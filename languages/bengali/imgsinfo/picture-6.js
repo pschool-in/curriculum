@@ -7,68 +7,68 @@ export default {
       label: 'আরো পশু |More Animals',
       text: `mongoose| বেজি
 mosquito| মশা
-octopus| Octopus
+octopus| 
 wolf| নেকড়ে বাঘ
 lizard| টিকটিকি
-termite | তিমি|Timi
+termite | তিমি
 cockroach| আরশোলা
-garden-lizard| Garden Lizard
-winged-termites | Winged Termite
+garden-lizard| 
+winged-termites | 
 rabbit| খরগোশ
-leopard| Leopard
+leopard| 
 dragonfly |ফড়িং
 fly|মাছি
 squirrel|কাঠবিড়ালি
-dinosaur | Dinosaur
-alligator | Alligator
-boar | শুয়োর|śuẏōra
-cricket | Cricket
-hyena | Hyena
-polarbear | Polar Bear
-antelope | হরিণ | hariṇa
-bug | Bug
-jackal | শিয়াল|śiẏāla
+dinosaur | 
+alligator | 
+boar | শুয়োর
+cricket | 
+hyena | 
+polarbear | 
+antelope | হরিণ | 
+bug | 
+jackal | শিয়াল
 prawn | চিংড়ি|ciṇṛi
 baboon | Baboon
 python | Python
 bison | Bison
-chameleon | গিরগিটি|giragiṭi
-porcupine | সজারু|sajāru
-tigerfish | Tigerfish
-ladybug | ভদ্রমহিলা| bhadramahilā
-seahorse | সামুদ্রিক ঘোড়া|sāmudrika ghōṛā
-hamster | Hamster
-mole |  তিল|tila
-caterpillar | শুঁয়াপোকা|śum̐ẏāpōkā
-earthworm | কেঁচো| kēm̐cō
-hedgehog | Hedgehog
-stingray | Stingray
-jellyfish | Jellyfish
-starfish | Starfish`
+chameleon | গিরগিটি
+porcupine | সজারু
+tigerfish | 
+ladybug | ভদ্রমহিলা
+seahorse | সামুদ্রিক ঘোড়া
+hamster | 
+mole |  তিল
+caterpillar | শুঁয়াপোকা
+earthworm | কেঁচো
+hedgehog | 
+stingray |
+jellyfish | 
+starfish | `
     },
     {
       id: 'birds-2',
       label: 'আরো পাখি|More Birds',
-      text: `hornbill | Hornbill
-cuckoo | Cuckoo
-pheasant |  তিতির|titira
-falcon | বাজপাখি | bājapākhi 
-swan | রাজহাঁস | rājahām̐sa
-bulbul | Bulbul
-spotted-dove | Spotted Dove
-pelican | Pelican
-hummingbird | Hummingbird
-robin | Robin
-swallow | Swallow
-blue-jay | Blue jay
-seagull | Seagull
-canary | Canary
-goose | হংস| hansa
-turkey | Turkey
-hawk | Hawk
-cardinal | Cardinal
-parakeet | Parakeet
-macaw | Macaw`
+      text: `hornbill | 
+cuckoo | 
+pheasant |  তিতির
+falcon | বাজপাখি 
+swan | রাজহাঁস 
+bulbul | 
+spotted-dove |
+pelican | 
+hummingbird | 
+robin | 
+swallow | 
+blue-jay | 
+seagull | 
+canary | 
+goose | হংস
+turkey | 
+hawk |
+cardinal |
+parakeet | 
+macaw | `
     }
   ]
 };

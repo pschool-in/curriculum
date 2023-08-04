@@ -5,67 +5,67 @@ export default {
     {
       id: 'action',
       label: 'অ্যাকশন|Actions',
-      text: `drink| পান|Pāna
-eat| খাওয়া|khā'ōẏā 
-bend | মোড়| mōṛa 
-climb | আরোহণ|ārōhaṇa
-jump | লাফ| lāpha
-kneel | হাঁটু|hām̐ṭu
-pull |  টান|ṭāna
-push | ধাক্কা|dhākkā
-sing | গাও|gā'ō
-dance | নাচ| nāca
-running | চলমান| calamāna
-walking | হাঁটা | hām̐ṭā 
-sit | বসুন|basuna
-party | Party
-skipping | এড়িয়ে যাওয়া|ēṛiẏē yā'ōẏā
-catch | ধরা|dharā
-pass | পাস|pāsa
-swim | সাঁতার|sām̐tāra
-swing | দোল|dōla
-throw | নিক্ষেপ|nikṣēpa
-carry | বহন|bahana
-lifting | উত্তোলন|uttōlana
-mopping | moping
-riding | riding
-sweep | ঝাড়ু | jhāṛu
-cough | কাশি|kāśi
-sick | অসুস্থ|asustha
-sneeze | হাঁচি| hām̐ci 
-yawn | ইয়ান|iẏāna
-sleep |  ঘুম|ghuma`
+      text: `drink| পান
+eat| খাওয়া
+bend | মোড়
+climb | আরোহণ
+jump | লাফ
+kneel | হাঁটু
+pull |  টান
+push | ধাক্কা
+sing | গাও
+dance | নাচ
+running | চলমান
+walking | হাঁটা  
+sit | বসুন
+party |
+skipping | এড়িয়ে যাওয়া
+catch | ধরা
+pass | পাস
+swim | সাঁতার
+swing | দোল
+throw | নিক্ষেপ
+carry | বহন
+lifting | উত্তোলন
+mopping | 
+riding | 
+sweep | ঝাড়ু 
+cough | কাশি
+sick | অসুস্থ
+sneeze | হাঁচি
+yawn | ইয়ান
+sleep |  ঘুম`
     },
     {
       id: 'sports',
       label: 'স্পোর্টস|Sports',
-      text: `bat2 | Bat
-racket | Racket
-seesaw | Seesaw
-slide | Slide
-carrom | Carrom
-chess | দাবা |dābā
-cricket2 | Cricket
-tennis | Tennis
-football | Football
-hockey | Hockey
-kabaddi | Kabaddi
-archery | তীরন্দাজ |tīrandāja
-basketball | Basket ball
-boxing | Boxing
-table-tennis | table-tennis
-golf | Golf
-wrestling | কুস্তি|kusti
+      text: `bat2 |
+racket |
+seesaw | 
+slide | 
+carrom | 
+chess | দাবা 
+cricket2 | 
+tennis | 
+football | 
+hockey | 
+kabaddi | 
+archery | তীরন্দাজ 
+basketball | 
+boxing |
+table-tennis | 
+golf | 
+wrestling | কুস্তি
 
 
-karate | Karate
-surfing | Surfing
+karate | 
+surfing | 
 
-jockey | Jockey
-track | Track
+jockey | 
+track | 
 
-bandage | Bandage
-danger | বিপদ |bipada`
+bandage | 
+danger | বিপদ `
     }
   ]
 };

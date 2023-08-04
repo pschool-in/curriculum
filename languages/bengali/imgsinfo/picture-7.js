@@ -5,49 +5,49 @@ export default {
     {
       id: 'fruits-2',
       label: 'আরো ফল |More Fruits ',
-      text: `star-fruit | Star fruit
-dragon-fruit | Dragon fruit
-sugarcane | আখ|ākha
-peach | পীচ|pīca
-sweet-potato |মিষ্টি আলু |miṣṭi ālu
-jamun |জামুন | jāmuna
-pear | নাশপাতি |nāśapāti
-water-chestnut | জল-বুকে | jala buka
-jujube | Jujube
-sapotta | Sapotta
-tapioca | Tapioca
-blueberry | Blueberry
-wood-apple | Wood Apple
-gooseberry | Gooseberry
-passion-fruit | Passion fruit`
+      text: `star-fruit | 
+dragon-fruit |
+sugarcane | আখ
+peach | পীচ
+sweet-potato |মিষ্টি আলু 
+jamun |জামুন 
+pear | নাশপাতি 
+water-chestnut | জল-বুকে 
+jujube | 
+sapotta | 
+tapioca | 
+blueberry | 
+wood-apple | 
+gooseberry | 
+passion-fruit | `
     },
     {
       id: 'vegetables-2',
       label: 'আরো সবজি|More Vegetables',
-      text: `pepper | মরিচ |marica
-wheat | গম | gama 
-paddy | ধান | dhāna 
-rice | ভাত | bhāta 
-chickpea | ছোলা |chōlā
-mustard-greens | সরিষা-সবুজ | sariṣā-sabuja
-turmeric | হলুদ | haluda 
-turnip |  শালগম |śālagama
-fenugreek | মেথি |mēthi 
-tamarind | তেঁতুল |tēm̐tula 
-elephant-yam | Elephant Yam
-ashgourd | Ashgourd
-broad-beans |মটরশুটি |maṭaraśuṭi
-snake-gourd |  সাপ-করলা |sāpa-karalā
-banana-flower | কলা-ফুল | kalā-phula
-cluster-beans | Cluster beans
-kohlrabi | Kohlrabi
-spring-onion | বসন্ত-পেঁয়াজ |basanta-pēm̐ẏāja
-banana-stem |  কলা-কান্ড |kalā-kānḍa
-drumstick-leaves | ঝোল পাতা| jhōla pātā
-raw-banana |  কাঁচা কলা |kām̐cā kalā
-tulsi | তুলসী |tulasī
+      text: `pepper | মরিচ 
+wheat | গম 
+paddy | ধান 
+rice | ভাত 
+chickpea | ছোলা 
+mustard-greens | সরিষা-সবুজ 
+turmeric | হলুদ 
+turnip |  শালগম 
+fenugreek | মেথি 
+tamarind | তেঁতুল 
+elephant-yam | 
+ashgourd | 
+broad-beans |মটরশুটি 
+snake-gourd |  সাপ-করলা 
+banana-flower | কলা-ফুল 
+cluster-beans | 
+kohlrabi | 
+spring-onion | বসন্ত-পেঁয়াজ 
+banana-stem |  কলা-কান্ড 
+drumstick-leaves | ঝোল পাতা
+raw-banana |  কাঁচা কলা 
+tulsi | তুলসী 
 bottlegourd | লাউ
-ivygourd | Ivygourd
+ivygourd |
 ridgegourd |ঝিঙ্গে`
     }
   ]
