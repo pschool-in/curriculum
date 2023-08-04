@@ -1,16 +1,17 @@
 export default {
-  id: "picture-7",
-  label: "Vehicles and Jobs",
+  id: 'picture-7',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: "vehicles",
+      id: 'vehicles',
+      label: 'ವಾಹನಗಳು | Vāhanagaḷu | Vehicles',
       text: `aeroplane | ವಿಮಾನ |vimana
-        boat | ದೋಣಿ | doni
-        bus | ಬಸ್ |Bus
-        car | ಕಾರು | karu
-        cycle | ಬೈಸಿಕಲ್ | baisikal
-        helicoptor |ಹೆಲಿಕಾಪ್ಟರ್ | Helicopter
-        motorbike | ಬೈಕ್ | baik
+boat | ದೋಣಿ | doni
+bus | ಬಸ್ |Bus
+car | ಕಾರು | karu
+cycle | ಬೈಸಿಕಲ್ | baisikal
+helicoptor |ಹೆಲಿಕಾಪ್ಟರ್ | Helicopter
+motorbike | ಬೈಕ್ | baik
 ship | ಹಡಗು | hadagu
 tractor | ಟ್ರ್ಯಾಕ್ಟರ್ | tractor
 lorry| ಲಾರಿ | Lari
@@ -31,17 +32,18 @@ spaceship | ಅಂತರಿಕ್ಷ ನೌಕೆ|Antariksa nauke
 bullock-cart | ಎತ್ತಿನ ಬಂಡಿ|Ettina bandi
 horse-carriage | ಕುದುರೆ ಸಾರೋಟು|Kudure sarotu
 palanquin |ಪಲ್ಲಕ್ಕಿ|Pallakki
-chariot | ರಥ|Ratha`,
+chariot | ರಥ|Ratha`
     },
     {
-      id: "jobs",
+      id: 'jobs',
+      jobs: 'ಉದ್ಯೋಗಗಳು | Udyōgagaḷu | jobs',
       text: `astronaut | ಗಗನಯಾತ್ರಿ |Gaganayatri
-        clown | ಹಾಸ್ಯಗಾರ |Hasyagara
-        fisherman | ಮೀನುಗಾರ |Minugara
-        postman | ಪೋಸ್ಟ್ಮ್ಯಾನ್ |postmyan
-        teacher | ಶಿಕ್ಷಕ  |siksaka
-        blacksmith | Blacksmith
-        cobbler | ಚಮ್ಮಾರ | chammara
+clown | ಹಾಸ್ಯಗಾರ |Hasyagara
+fisherman | ಮೀನುಗಾರ |Minugara
+postman | ಪೋಸ್ಟ್ಮ್ಯಾನ್ |postmyan
+teacher | ಶಿಕ್ಷಕ  |siksaka
+blacksmith | Blacksmith
+cobbler | ಚಮ್ಮಾರ | chammara
 goldsmith | ಗೋಲ್ಡ್ ಸಿಮ್ತ್  |gold simt
 potter | ಕುಂಬಾರ | kumbara
 weaver | ನೇಕಾರ |nekara
@@ -66,11 +68,7 @@ pilot | ಪೈಲಟ್ |Pilot
 plumber | ಕೊಳಾಯಿಗಾರ | kolayigara
 scientist | 	ವಿಜ್ಞಾನಿ |vijnani
 seller | ಮಾರಾಟಗಾರ|Maratagara
-software-developer | ಸಾಫ್ಟ್ವೇರ್ ಡೆವಲಪರ್|Software Developer`,
-    },
-  ],
+software-developer | ಸಾಫ್ಟ್ವೇರ್ ಡೆವಲಪರ್|Software Developer`
+    }
+  ]
 };
-
-
-
-

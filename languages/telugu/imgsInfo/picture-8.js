@@ -1,17 +1,17 @@
 export default {
-  id: "picture-8",
-  label: "Vehicles and Jobs",
+  id: 'picture-8',
+  label: 'Vehicles and Jobs',
   list: [
     {
-      id: "vehicles",
-      label:'వాహనాలు|Vāhanālu|vehicles',
+      id: 'vehicles',
+      label: 'వాహనాలు|Vāhanālu|vehicles',
       text: `aeroplane |విమానం|Vimānaṁ
-        boat | పడవ |padava
-        bus | బస్సు|Bassu
-        car | కారు|Kāru
-        cycle | సైకిల్ |saikil
-        helicoptor | హెలికాప్టర్|Helicopter
-        motorbike | మోటార్ సైకిల్ | motar saikil
+boat | పడవ |padava
+bus | బస్సు|Bassu
+car | కారు|Kāru
+cycle | సైకిల్ |saikil
+helicoptor | హెలికాప్టర్|Helicopter
+motorbike | మోటార్ సైకిల్ | motar saikil
 ship | 	ఓడ |oda
 tractor | ట్రాక్టర్|Tractor
 lorry| లారీ|Lorry
@@ -32,18 +32,18 @@ spaceship | అంతరిక్ష నౌక|Antariksa nauka
 bullock-cart | ఎద్దుల బండి|Eddula bandi
 horse-carriage | గుర్రపు బండి|Gurrapu bandi
 palanquin | పల్లకీ|Pallaki
-chariot | రథము|Rathamu`,
+chariot | రథము|Rathamu`
     },
     {
-      id: "jobs",
-      label: "ఉద్యోగం|Udyōgaṁ|jobs",
+      id: 'jobs',
+      label: 'ఉద్యోగం|Udyōgaṁ|jobs',
       text: `astronaut | వ్యోమగామి|Vyomagami
-        clown |విదూషకుడు|Vidusakudu
-        fisherman | మత్స్యకారుడు|Matsyakarudu
-        postman | పోస్ట్‌మ్యాన్|Postmyan
-        teacher |టీచర్| Teacher
-        blacksmith | కమ్మరి|Kammari
-        cobbler | చెప్పులు కుట్టేవాడు|Ceppulu kuttevadu
+clown |విదూషకుడు|Vidusakudu
+fisherman | మత్స్యకారుడు|Matsyakarudu
+postman | పోస్ట్‌మ్యాన్|Postmyan
+teacher |టీచర్| Teacher
+blacksmith | కమ్మరి|Kammari
+cobbler | చెప్పులు కుట్టేవాడు|Ceppulu kuttevadu
 goldsmith | గోల్డ్ స్మిత్|Goldsmith
 potter | కుమ్మరి|Kummari
 weaver | నేత|Neta
@@ -68,7 +68,7 @@ pilot | పైలట్ |Pilot
 plumber | ప్లంబర్|Plumber
 scientist | శాస్త్రవేత్త|sastravetta
 seller | విక్రేత|Vikreta
-software-developer |సాఫ్ట్వేర్ డెవలపర్| Software Developer`,
-    },
-  ],
+software-developer |సాఫ్ట్వేర్ డెవలపర్| Software Developer`
+    }
+  ]
 };

@@ -1,9 +1,10 @@
 export default {
-  id: "picture-3",
+  id: 'picture-3',
+  label: 'Nature and Other Images',
   list: [
     {
-      id: "nature",
-      label: "nature-ಪ್ರಕೃತಿ-Prakr̥ti",
+      id: 'nature',
+      label: 'ಪ್ರಕೃತಿ | Prakr̥ti | nature',
       text: `sun |ಸೂರ್ಯ |surya
 moon|ಚಂದ್ರ | chandra 
 star|ನಕ್ಷತ್ರ |nakshathra
@@ -31,11 +32,11 @@ coconut-tree | ತೆಂಗಿನ ಮರ|Tengina mara
 coconutleaf | ತೆಂಗಿನ ಎಲೆ|Tengina ele
 mangoleaf | ಮಾವಿನ ಎಲೆ|Mavina ele
 palm-tree | ತಾಳೆ ಮರ|Tale mara
-neemleaf | ಬೇವಿನ ಎಲೆ|Bevina ele`,
+neemleaf | ಬೇವಿನ ಎಲೆ|Bevina ele`
     },
     {
-      id: "body-parts",
-      label: "body-parts-ದೇಹದ ಭಾಗಗಳು-Dehada bhagagalu",
+      id: 'body-parts',
+      label: 'ದೇಹದ ಭಾಗಗಳು | Dehada bhagagalu | body-parts',
       text: `ear |ಕಿವಿ |kivi
 eye |ಕಣ್ಣು |  kannu
 foot |ಪಾದ |padha
@@ -55,22 +56,23 @@ wrist | ಮಣಿಕಟ್ಟು|Manikattu
 thumb |ಹೆಬ್ಬೆರಳು|Hebberalu
 cheek | ಕೆನ್ನೆ|Kenne
 chin | ಗದ್ದ|Gadda
-nails | ಉಗುರುಗಳು|Ugurugalu`,
+nails | ಉಗುರುಗಳು|Ugurugalu`
     },
     {
-      id: "flowers",
-      label: "flowers-ಹೂವುಗಳು-Huvugalu"
+      id: 'flowers',
+      label: 'ಹೂವುಗಳು | Huvugalu | flowers',
       text: `rose | ಗುಲಾಬಿ | gulabi
-        lotus |ಕಮಲ|kamala
-        sunflower | ಸೂರ್ಯಕಾಂತಿ |suryakanti
-        marigold | ಮಾರಿಗೋಲ್ಡ್ | marigold
-        hibiscus |ದಾಸವಾಳ| dasavala
+lotus |ಕಮಲ|kamala
+sunflower | ಸೂರ್ಯಕಾಂತಿ |suryakanti
+marigold | ಮಾರಿಗೋಲ್ಡ್ | marigold
+hibiscus |ದಾಸವಾಳ| dasavala
 jasmine | ಮಲ್ಲಿಗೆ | mallige
 tulip | ಟುಲಿಪ್| tulip
-zinnia | ಜಿನ್ನಿಯಾ | zinnia`,
+zinnia | ಜಿನ್ನಿಯಾ | zinnia`
     },
     {
-      id: "others",
+      id: 'others',
+      label: 'ಇತರೆ ಚಿತ್ರಗಳು | Itare citragaḷu | Other Images',
       text: `bell | ಗಂಟೆ | gante
 brush| ಬ್ರಷ್ |brush
 bone|ಮೂಳೆ|mule
@@ -89,8 +91,8 @@ queen | ರಾಣಿ|Rani
 kite| ಗಾಳಿಪಟ | galipata
 ladder| ಏಣಿ | yeni
 quill | ಗರಿ|Gari
-  oar | ಓರ್|oar
-  gun | ಗನ್|Gan
+oar | ಓರ್|oar
+gun | ಗನ್|Gan
 wheel| ಚಕ್ರ | chakra
 park |ಪಾರ್ಕ್ | park
 garden | ಉದ್ಯಾನ | udyana
@@ -98,7 +100,7 @@ sculpture | ಶಿಲ್ಪಕಲೆ|silpakale
 statue | ಪ್ರತಿಮೆ|Pratime
 clay-lamp |ಕ್ಲೇ ಲ್ಯಾಂಪ್|Kle lyamp
 clay-stove |ಕ್ಲೇ ಸ್ಟೌವ್|Kle stauv
-radio | ರೇಡಿಯೋ| radio`,
-    },
-  ],
+radio | ರೇಡಿಯೋ| radio`
+    }
+  ]
 };

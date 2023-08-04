@@ -1,30 +1,32 @@
 export default {
-  id: "picture-4",
-  label: "House and Others",
+  id: 'picture-4',
+  label: 'House and Others',
   list: [
     {
       id: 'people',
-            text: `boy|ಹುಡುಗ | Huduga
-              girl | ಹುಡುಗಿ |Hudugi
-             man| ಮನುಷ್ಯ | manusya
-             woman | ಮಹಿಳೆ |Mahile
-             baby |ಬೇಬಿ |Baby
-             mother | ತಾಯಿ|Tāyi
-              father | ತಂದೆ|Tande
-              grandfather | ಅಜ್ಜ ತಂದೆ|Ajja tande
-              grandma | ಅಜ್ಜಿ|Ajji`
+      label: 'ಜನರು | Janaru | people',
+      text: `boy|ಹುಡುಗ | Huduga
+    girl | ಹುಡುಗಿ |Hudugi
+    man| ಮನುಷ್ಯ | manusya
+    woman | ಮಹಿಳೆ |Mahile
+    baby |ಬೇಬಿ |Baby
+    mother | ತಾಯಿ|Tāyi
+    father | ತಂದೆ|Tande
+    grandfather | ಅಜ್ಜ ತಂದೆ|Ajja tande
+    grandma | ಅಜ್ಜಿ|Ajji`
     },
 
-{
-id: "house",
-text:`house| ಮನೆ |mane
+    {
+      id: 'house',
+      label: 'ಮನೆ |mane | house',
+      text: `house| ಮನೆ |mane
 table|ಟೇಬಲ್ |Tebal
 bed|ಹಾಸಿಗೆ |hasige
 mat | ನಕ್ಷೆ|Nakse
 mop | Mop
 mug | ಮಗ್ಗಳು |maggalu
 lock | ಲಾಕ್
-key | ಕೀ|Key
+key | ಕೀಲಿ |Kīli
 net | ಬಲೆ| bale
 rope | ಹಗ್ಗ|Hagga
 teapot |ಟೀಪಾಟ್| Teapot
@@ -61,10 +63,11 @@ steps | ಮೆಟ್ಟಿಲುಗಳು|Mettilugalu
 curtains |ಕರ್ಟೈನ್ಸ್| Curtains
 watertank | ನೀರಿನ ಟ್ಯಾಂಕ್|Nirina tyank
 air-conditioner | ಹವಾ ನಿಯಂತ್ರಣ ಯಂತ್ರ| Hava niyantrana yantra
-washing-machine | ಬಟ್ಟೆ ಒಗೆಯುವ ಯಂತ್ರ |Batte ogeyuva yantra`,
+washing-machine | ಬಟ್ಟೆ ಒಗೆಯುವ ಯಂತ್ರ |Batte ogeyuva yantra`
     },
     {
-      id: "dress",
+      id: 'dress',
+      label: 'ಉಡುಗೆ |Uduge | dress',
       text: `dress | ಉಡುಗೆ |Uduge
 coat | ಕೋಟ್|kot
 shoe | ಶೂ |shoe
@@ -79,10 +82,11 @@ shirt | ಅಂಗಿ |Angi
 jacket | ಜಾಕೆಟ್ |Jacket
 hat | ಟೋಪಿ | topi
 trousers | ಪ್ಯಾಂಟ್ |pyant
-saree | ಸೀರೆ|Sire`,
+saree | ಸೀರೆ|Sire`
     },
     {
-      id: "school",
+      id: 'school',
+      label: 'ಶಾಲೆ | Śāle | School',
       text: `pen |ಪೆನ್ |Pen
 pencil| ಪೆನ್ಸಿಲ್|Pencil
 ruler|ತಕ್ಕಡಿ |takkadi
@@ -101,10 +105,11 @@ waterbottle| ನೀರಿನ ಶೀಶೆ | Nirina sise
 color-pencils| ಬಣ್ಣದ ಪೆನ್ಸಿಲ್ಗಳು |Bannada pensilgalu
 crayons |ಕ್ರಯೋನ್ಗಳು | Krayongalu
 notebook |ನೋಟ್ಬುಕ್|Notbuk
-writingpad | ಬರೆಯುವ ಒತ್ತಿಗೆ|Bareyuva ottige`,
+writingpad | ಬರೆಯುವ ಒತ್ತಿಗೆ|Bareyuva ottige`
     },
     {
-      id: "kitchen",
+      id: 'kitchen',
+      label: 'ಅಡುಗೆಮನೆ | Aḍugemane | Kitchen',
       text: `stove |ಒಲೆ | Ole
 fork|ಫೋರ್ಕ್ |Fork
 knife|ಚಾಕು |chaku
@@ -145,7 +150,7 @@ burger | ಬರ್ಗರ್|Burger
 flour |ಹಿಟ್ಟು |hittu
 lentils | ಮಸೂರ| Masura
 rice | ಅಕ್ಕಿ |akki
-soup | ಸೂಪ್| Soup`,
-    },
-  ],
+soup | ಸೂಪ್| Soup`
+    }
+  ]
 };

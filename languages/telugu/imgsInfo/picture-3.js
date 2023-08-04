@@ -1,8 +1,9 @@
 export default {
-  id: "picture-3",
+  id: 'picture-3',
+  label: 'Nature and Other Images',
   list: [
     {
-      id: "nature",
+      id: 'nature',
       label: 'ప్రకృతి|Prakr̥ti|Nature',
       text: `sun |సూర్యుడు|Suryudu
 moon|చంద్రుడు|Chandrudu 
@@ -31,10 +32,10 @@ coconut-tree | కొబ్బరి చెట్టు|Kobbari cettu
 coconutleaf | కొబ్బరి ఆకు|Kobbari aku
 mangoleaf | మామిడి ఆకు|Mamidi āku
 palm-tree | తాటి చెట్టు|Tati cettu
-neemleaf |వేప ఆకు|Vepa aku`,
+neemleaf |వేప ఆకు|Vepa aku`
     },
     {
-      id: "body-parts",
+      id: 'body-parts',
       label: 'శరీర భాగాలు|sarira bhagalu|body parts',
       text: `ear |చెవి | Cevi
 eye |కన్ను | Kannu
@@ -55,23 +56,23 @@ wrist | మణికట్టు|Manikattu
 thumb | బొటనవేలు|Botanavelu
 cheek | చెంప|Chempa
 chin | గడ్డం|Gaddam
-nails | గోర్లు|Gorlu`,
+nails | గోర్లు|Gorlu`
     },
     {
-      id: "flowers",
+      id: 'flowers',
       label: 'పువ్వులు|Puvvulu|flowers',
       text: `rose |గులాబీ | gulabi
-        lotus | 	కమలం |kamalam
-        sunflower | పొద్దుతిరుగుడు |poddutirugudu
-        marigold | బంతి పువ్వు | banti puvvu
-        hibiscus | 	మందార | mandara
+lotus | 	కమలం |kamalam
+sunflower | పొద్దుతిరుగుడు |poddutirugudu
+marigold | బంతి పువ్వు | banti puvvu
+hibiscus | 	మందార | mandara
 jasmine |	మల్లె |malle
 tulip | తులిప్|Tulip
-zinnia | జిన్నియా|Jinniya`,
+zinnia | జిన్నియా|Jinniya`
     },
     {
-      id: "others",
-      label:'ఇతరులు|Itharulu|others',
+      id: 'others',
+      label: 'ఇతరులు|Itharulu|others',
       text: `bell | బెల్|Bell
 brush| బ్రష్|Brush
 bone| ఎముక|Emuka
@@ -90,8 +91,8 @@ queen | రాణి|Rani
 kite| గాలిపటం|Galipatam
 ladder| నిచ్చెన|Niccena
 quill | పిట్ట|Pitta
-  oar | ఓర్|oar
-  gun | తుపాకీ|Tupaki
+oar | ఓర్|oar
+gun | తుపాకీ|Tupaki
 wheel| చక్రం|Chakram
 park | పార్క్|Park
 garden | తోట|Tota
@@ -99,6 +100,6 @@ sculpture | శిల్పం|silpam
 statue | విగ్రహం|Vigraham
 clay-lamp | మట్టి దీపం|Matti dipam
 clay-stove | క్లే స్టవ్|clay-stove`
-    },
-  ],
+    }
+  ]
 };

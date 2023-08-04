@@ -1,9 +1,9 @@
 export default {
-  id: "picture-7",
-  label: "More Fruits and Vegetables",
+  id: 'picture-7',
+  label: 'More Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
+      id: 'fruits',
       label: 'పండ్లు|Pandlu|fruits',
       text: `star-fruit |స్టార్ ఫ్రూట్|Star phrut
 dragon-fruit | డ్రాగన్ పండు|dragan pandu
@@ -19,16 +19,16 @@ tapioca | టాపియోకా|tapioca
 blueberry | బ్లూబెర్రీ|Bluberri
 wood-apple | వెల్లగ పండు|Vellaga paanu
 gooseberry | గూస్బెర్రీ|Gooseberry
-passion-fruit | తపన ఫలం|Tapana phalam`,
+passion-fruit | తపన ఫలం|Tapana phalam`
     },
     {
-      id: "vegetables",
-      label:'కూరగాయలు|Kūragāyalu|vegetables',
+      id: 'vegetables',
+      label: 'కూరగాయలు|Kūragāyalu|vegetables',
       text: `pepper | మిరియాలు|Miriyalu
-      wheat | గోధుమలు|Godhumalu
-      paddy | వరి|Vari
-      rice | అన్నం|Annam
-      chickpea | చిక్పీ|Chickpea
+wheat | గోధుమలు|Godhumalu
+paddy | వరి|Vari
+rice | అన్నం|Annam
+chickpea | చిక్పీ|Chickpea
 mustard-greens | 	ఆవపిండి ఆకుకూరలు | avapindi akukuralu
 turmeric | పసుపు | Pasupu
 turnip | టర్నిప్లు| tarniplu
@@ -48,7 +48,7 @@ raw-banana | అరటి | arati
 tulsi | తులసి|Tulasi
 bottlegourd | సొరకాయ |sorakaya
 ivygourd | దొండకాయ |Dondakaya
-ridgegourd | 	బీరకాయ | Birakaya`,
-    },
-  ],
+ridgegourd | 	బీరకాయ | Birakaya`
+    }
+  ]
 };

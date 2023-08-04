@@ -1,11 +1,11 @@
 export default {
-  id: "picture-2",
-  label: "Fruits and Vegetables",
+  id: 'picture-2',
+  label: 'Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
-      label: "Fruits-ಹಣ್ಣುಗಳು-Hannugalu",
-            text: `apple | ಸೇಬು| sebu 
+      id: 'fruits',
+      label: 'ಹಣ್ಣುಗಳು | Hannugalu | Fruits',
+      text: `apple | ಸೇಬು| sebu 
 grapes | ದ್ರಾಕ್ಷಿಗಳು |draksigalu
 banana | ಬಾಳೆಹಣ್ಣು | balehannu
 cherry | ಚೆರ್ರಿ |cherry
@@ -24,11 +24,11 @@ fig| ಅಂಜೂರ |anjura
 custard-apple| ಸೀತಾಫಲ | sitaphala
 plum| ಪ್ಲಮ್ |Plum
 dates| ದಿನಾಂಕಗಳು | dinankagalu
-muskmelon| ಕಸ್ತೂರಿ |Kasturi`,
+muskmelon| ಕಸ್ತೂರಿ |Kasturi`
     },
     {
-      id: "vegetables",
-      label: "vegetables-ತರಕಾರಿಗಳು-Tarakarigalu",
+      id: 'vegetables',
+      label: 'ತರಕಾರಿಗಳು | Tarakarigalu | vegetables',
       text: `carrot | ಕ್ಯಾರೆಟ್|Carrot
 beetroot |ಬೀಟ್ರೂಟ್| Beetroot
 onion | ಈರುಳ್ಳಿ | irulli
@@ -61,7 +61,7 @@ mintleaf| ಪುದೀನ ಎಲೆ | Pudīna ele
 peanut| ಕಡಲೆಕಾಯಿ | Kadalekayi
 radish| ಮೂಲಂಗಿ |mulangi
 spinach | ಸೊಪ್ಪು | soppu
-vegetables | ತರಕಾರಿಗಳು |tarakarigalu `,
-    },
-  ],
+vegetables | ತರಕಾರಿಗಳು |tarakarigalu `
+    }
+  ]
 };

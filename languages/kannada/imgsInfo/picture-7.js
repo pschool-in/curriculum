@@ -1,9 +1,10 @@
 export default {
-  id: "picture-6",
-  label: "More Fruits and Vegetables",
+  id: 'picture-6',
+  label: 'More Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
+      id: 'fruits',
+      label: 'ಹಣ್ಣುಗಳು | Hannugalu | Fruits',
       text: `star-fruit | ನಕ್ಷತ್ರ ಹಣ್ಣು |Naksatra hannu
 dragon-fruit | ಡ್ರ್ಯಾಗನ್ ಹಣ್ಣು |dryagan hannu
 sugarcane | ಕಬ್ಬು|Kabbu
@@ -18,15 +19,16 @@ tapioca | ಟಪಿಯೋಕಾ |Tapioca
 blueberry | ಬೆರಿಹಣ್ಣಿನ |Berihannina
 wood-apple | ಬೇಲದ ಹಣ್ಣು|Belada hannu
 gooseberry | ನೆಲ್ಲಿಕಾಯಿ|Nellikayi
-passion-fruit | ಪ್ಯಾಶನ್ ಹಣ್ಣು |Pyasan hannu`,
+passion-fruit | ಪ್ಯಾಶನ್ ಹಣ್ಣು |Pyasan hannu`
     },
     {
-      id: "vegetables",
+      id: 'vegetables',
+      label: 'ತರಕಾರಿಗಳು | Tarakarigalu | vegetables',
       text: `pepper | ಮೆಣಸು|Menasu
-      wheat | ಗೋಧಿ|Godhi
-      paddy | ಭತ್ತ|Bhatta
-      rice | ಅಕ್ಕಿ|Akki
-      chickpea | ಕಡಲೆ | Kadale
+wheat | ಗೋಧಿ|Godhi
+paddy | ಭತ್ತ|Bhatta
+rice | ಅಕ್ಕಿ|Akki
+chickpea | ಕಡಲೆ | Kadale
 mustard-greens | ಸಾಸಿವೆ ಸೊಪ್ಪು |Sasive soppu
 turmeric | 	ಅರಿಶಿನ | Arisina
 turnip | ನವಿಲುಕೋಸು | Navilukosu
@@ -46,7 +48,7 @@ raw-banana | ಬಾಳೇಕಾಯಿ |Baale kaayi
 tulsi | ತುಳಸಿ |Tulasi
 bottlegourd | ಸೋರೆಕಾಯಿ |Sore kaaye
 ivygourd | ತೊಂಡೆಕಾಯಿ|Tondekayi
-ridgegourd | ಹೀರೆಕಾಯಿ| Hirekayi`,
-    },
-  ],
+ridgegourd | ಹೀರೆಕಾಯಿ| Hirekayi`
+    }
+  ]
 };

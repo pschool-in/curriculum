@@ -1,13 +1,13 @@
 export default {
-  id: "picture-4",
-  label: "House and Others",
+  id: 'picture-4',
+  label: 'House and Others',
   list: [
     {
       id: 'people',
       label: `ప్రజలు|Prajalu|people`,
-      text:`boy|అబ్బాయి|Abbayi
-      girl | అమ్మాయి|Ammayi
-      man| మనిషి|ManiSi
+      text: `boy|అబ్బాయి|Abbayi
+girl | అమ్మాయి|Ammayi
+man| మనిషి|ManiSi
 wwoman | స్త్రీ|Stri
 baby | బేబీ|Baby
 mother | తల్లి|Talli
@@ -16,7 +16,7 @@ grandfather | తాతయ్య|Tatayya
 grandma | అమ్మమ్మ|Ammamma`
     },
     {
-      id: "house",
+      id: 'house',
       label: `ఇల్లు|Illu|house`,
       text: `house| ఇల్లు|Illu
 table|పట్టిక|Pattika
@@ -62,10 +62,10 @@ steps | మెట్లు|Metlu
 curtains | కర్టెన్లు|Kartenlu
 watertank | నీళ్ళ తొట్టె|Nilla totte
 air-conditioner | ఎయిర్ కండీషనర్|air-conditioner 
-washing-machine |వాషింగ్ మెషీన్|washing-machine`,
+washing-machine |వాషింగ్ మెషీన్|washing-machine`
     },
     {
-      id: "dress",
+      id: 'dress',
       label: 'దుస్తులు|Dustulu|dress',
       text: `dress | డ్రెస్|dres
 coat |కోటు|Kotu
@@ -81,10 +81,10 @@ shirt | చొక్కా|Chokka
 jacket | జాకెట్|Jaket
 hat | టోపీ|topi
 trousers | ప్యాంటు|Pyantu
-saree | చీర|Cira`,
+saree | చీర|Cira`
     },
     {
-      id: "school",
+      id: 'school',
       label: 'పాఠశాల|Pāṭhaśāla|school',
       text: `pen |పెన్|Pen
 pencil|పెన్సిల్|Pensil
@@ -104,10 +104,10 @@ waterbottle| నీటి సీసా|Niti sisa
 color-pencils| రంగు పెన్సిల్స్|Rangu pensils
 crayons | క్రేయాన్స్|Kreyans
 notebook | నోట్బుక్|Notebook
-writingpad | రాసుకునే పలక|Rasukune palaka`,
+writingpad | రాసుకునే పలక|Rasukune palaka`
     },
     {
-      id: "kitchen",
+      id: 'kitchen',
       label: 'వంటగది|Vaṇṭagadi|kitchen',
       text: `stove |స్టవ్|Stove
 fork|	ఫోర్క్ |phork
@@ -150,7 +150,7 @@ burger | బర్గర్|Burger
 flour | పిండి|Pindi
 lentils | పప్పు|Pappu
 rice | అన్నం|Annam
-soup | సూప్|Soup`,
-    },
-  ],
+soup | సూప్|Soup`
+    }
+  ]
 };

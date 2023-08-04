@@ -1,18 +1,19 @@
 export default {
-  id: "picture-5",
-  label: "More Animals and Birds",
+  id: 'picture-5',
+  label: 'More Animals and Birds',
   list: [
     {
-      id: "animals",
+      id: 'animals',
+      label: 'ಪ್ರಾಣಿಗಳು | Pranigalu | Animals',
       text: `mongoose| ಮುಂಗುಸಿ |Muṅgusi
-            mosquito| ಸೊಳ್ಳೆ|Solle
-            octopus| ಆಕ್ಟೋಪಸ್| Octopus
-            wolf| ತೋಳ| Tola
-            lizard| ಹಲ್ಲಿ|Halli
-            termite | ಗೆದ್ದಲು|Geddalu
-            cockroach| ಜಿರಳೆ| Jirale
-            garden-lizard| ತೋಟದ ಹಲ್ಲಿ | Totada halli
-            winged-termites | ರೆಕ್ಕೆಯ ಗೆದ್ದಲು|Rekkeya geddalu
+mosquito| ಸೊಳ್ಳೆ|Solle
+octopus| ಆಕ್ಟೋಪಸ್| Octopus
+wolf| ತೋಳ| Tola
+lizard| ಹಲ್ಲಿ|Halli
+termite | ಗೆದ್ದಲು|Geddalu
+cockroach| ಜಿರಳೆ| Jirale
+garden-lizard| ತೋಟದ ಹಲ್ಲಿ | Totada halli
+winged-termites | ರೆಕ್ಕೆಯ ಗೆದ್ದಲು|Rekkeya geddalu
 rabbit| ಮೊಲ| mola
 leopard| ಚಿರತೆ| Cirate
 dragonfly |ಡ್ರಾಗನ್ಫ್ಲೈ|Dragonfly
@@ -43,17 +44,18 @@ earthworm | |ಎರೆಹುಳು |Erehulu
 hedgehog | ಮುಳ್ಳುಹಂದಿ | Mulluhandi
 stingray | ಸ್ಟಿಂಗ್ರೇ|Stingray
 jellyfish | ಜೆಲ್ಲಿ ಮೀನು |Jelli mīnu
-starfish | ಸ್ಟಾರ್ಫಿಶ್ |Sṭārphiś`,
+starfish | ಸ್ಟಾರ್ಫಿಶ್ |Sṭārphiś`
     },
     {
-      id: "birds",
-      text: `hornbill | ಹಾರ್ನ್ ಬಿಲ್ | Hārn bil
-            cuckoo | ಕೋಗಿಲೆ |Kogile
-            pheasant |ಫೆಸೆಂಟ್ | Pheasant
-            falcon | ಗಿಡುಗ| ಗಿಡುಗ
-            swan | ಸ್ವಾನ್ |Swan
-            bulbul | ಬುಲ್ಬುಲ್ |Bulbul
-            spotted-dove | ಮಚ್ಚೆಯುಳ್ಳ ಪಾರಿವಾಳ| Macceyulla parivala
+      id: 'birds',
+      label: 'ಪಕ್ಷಿಗಳು | Paksigalu | Birds',
+      text: `hornbill | ಹಾರ್ನ್ ಬಿಲ್| Hārn bil
+cuckoo | ಕೋಗಿಲೆ |Kogile
+pheasant |ಫೆಸೆಂಟ್ | Pheasant
+falcon | ಗಿಡುಗ| Giḍuga
+swan | ಸ್ವಾನ್ |Swan
+bulbul | ಬುಲ್ಬುಲ್ |Bulbul
+spotted-dove | ಮಚ್ಚೆಯುಳ್ಳ ಪಾರಿವಾಳ| Macceyulla parivala
 pelican | ಕೊಕ್ಕರೆ|Kokkare
 hummingbird | ಹಮ್ಮಿಂಗ್ ಬರ್ಡ್| hummingbird
 robin | ರಾಬಿನ್ |Robin
@@ -66,13 +68,7 @@ turkey |ಟರ್ಕಿ| Turkey
 hawk | ಗಿಡುಗ  |Giduga
 cardinal | ಕಾರ್ಡಿನಲ್ |Cardinal
 parakeet | ಪ್ರಕೀತ್ |Parakeet
-macaw | ಮಕಾವ್  |makav`,
-    },
-  ],
+macaw | ಮಕಾವ್  |makav`
+    }
+  ]
 };
-
-
-
-
-
-

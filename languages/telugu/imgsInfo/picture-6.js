@@ -1,19 +1,19 @@
 export default {
-  id: "picture-6",
-  label: "More Animals and Birds",
+  id: 'picture-6',
+  label: 'More Animals and Birds',
   list: [
     {
-      id: "animals",
+      id: 'animals',
       label: 'జంతువులు|Jantuvulu|animals',
       text: `mongoose| 	కిరి | kiri
-            mosquito| దోమ | doma
-            octopus| ఆక్టోపస్| Octopus
-            wolf| తోడేలు | todelu
-            lizard| 	బల్లి | balli
-            termite | చెదపురుగు|Cedapurugu
-            cockroach| బొద్దింక|Boddinka
-            garden-lizard| గార్డెన్ బల్లి |Garden balli
-            winged-termites | రెక్కలుగల చెదపురుగు|Rekkalugala cedapurugu
+mosquito| దోమ | doma
+octopus| ఆక్టోపస్| Octopus
+wolf| తోడేలు | todelu
+lizard| 	బల్లి | balli
+termite | చెదపురుగు|Cedapurugu
+cockroach| బొద్దింక|Boddinka
+garden-lizard| గార్డెన్ బల్లి |Garden balli
+winged-termites | రెక్కలుగల చెదపురుగు|Rekkalugala cedapurugu
 rabbit| 	కుందేలు |kundelu
 leopard| చిరతపులి | ciratapuli
 dragonfly |తూనీగ|Tuniga
@@ -44,18 +44,18 @@ earthworm | వానపాము|Vanapamu
 hedgehog | ముళ్ల ఉడుత|Mulla uduta
 stingray | స్టింగ్రే|Stingre
 jellyfish | జెల్లీ ఫిష్|Jelli phis
-starfish | స్టార్ ఫిష్|Starfish`,
+starfish | స్టార్ ఫిష్|Starfish`
     },
     {
-      id: "birds",
+      id: 'birds',
       label: 'పక్షులు|Pakṣulu|birds',
       text: `hornbill | హార్న్‌బిల్ |hornbill
-            cuckoo | కోకిల | Kokila
-            pheasant | నెమలి|Nemali
-            falcon | గద్ద|Gadda
-            swan | 	హంస | Hansa
-            bulbul | బుల్బుల్|Bulbul
-            spotted-dove | మచ్చల పావురం|Maccala pavuram
+cuckoo | కోకిల | Kokila
+pheasant | నెమలి|Nemali
+falcon | గద్ద|Gadda
+swan | 	హంస | Hansa
+bulbul | బుల్బుల్|Bulbul
+spotted-dove | మచ్చల పావురం|Maccala pavuram
 pelican | పెలికాన్|Pelikan
 hummingbird | హమ్మింగ్బర్డ్|Hummingbird
 robin | రాబిన్|Robin
@@ -68,7 +68,7 @@ turkey | టర్కీ|tarki
 hawk | 	డేగ | dega
 cardinal | కార్డినల్|Cardinal
 parakeet | చిలుక|Ciluka
-macaw | మకావ్|Macaw`,
-    },
-  ],
+macaw | మకావ్|Macaw`
+    }
+  ]
 };

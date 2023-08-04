@@ -1,10 +1,11 @@
 export default {
-  id: "picture",
+  id: 'picture',
+  label: 'Animals and Birds',
   list: [
     {
-      id: "animals",
-      label: "Animals-ಪ್ರಾಣಿಗಳು-Pranigalu",
-            text: `cat | ಬೆಕ್ಕು |Bekku
+      id: 'animals',
+      label: 'ಪ್ರಾಣಿಗಳು | Pranigalu | Animals',
+      text: `cat | ಬೆಕ್ಕು |Bekku
 dog | ನಾಯಿ | Nayi
 goat| ಮೇಕೆ |meke
 cow| 	ಹಸು | hasu
@@ -46,11 +47,11 @@ goldfish | ಗೋಲ್ಡಫಿಷ್ |Goldafish
 spider | ಜೇಡ |Jeda
 panda | ಪಾಂಡಾ |Panda
 giraffe| ಜಿರಾಫೆ | Jiraphe
-kangaroo| ಕಾಂಗರೂ |Kangaroo`,
+kangaroo| ಕಾಂಗರೂ |Kangaroo`
     },
     {
-      id: "birds",
-      label: "Birds-ಪಕ್ಷಿಗಳು-Paksigalu",
+      id: 'birds',
+      label: 'ಪಕ್ಷಿಗಳು | Paksigalu | Birds',
       text: `crow|ಕಾಗೆ | kage
 dove|ಪಾರಿವಾಳ | parivala
 duck|ಬಾತುಕೋಳಿ | batukoli
@@ -71,7 +72,7 @@ owl| ಗೂಬೆ | gube
 rooster| ರೂಸ್ಟರ್ |rooster
 vulture| ರಣಹದ್ದು | ranahaddu
 woodpecker| ಮರಕುಟಿಗ | marakutiga
-koel | ಕೋಯಲ್| Koyal`,
-    },
-  ],
+koel | ಕೋಯಲ್| Koyal`
+    }
+  ]
 };

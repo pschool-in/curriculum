@@ -1,9 +1,9 @@
 export default {
-  id: "picture-2",
-  label: "Fruits and Vegetables",
+  id: 'picture-2',
+  label: 'Fruits and Vegetables',
   list: [
     {
-      id: "fruits",
+      id: 'fruits',
       label: 'పండ్లు|Pandlu|Fruits',
       text: `apple |ఆపిల్ |apil  
 grapes | ద్రాక్ష |draksa
@@ -24,11 +24,11 @@ fig| అత్తి పండు | atti pandu
 custard-apple| సీతాఫలము | sitaphalamu
 plum| 	రేగు | Regu
 dates| తేదీలు ||Tēdīlu
-muskmelon| Muskmelonకర్బూజ| Karbūja`,
+muskmelon| Muskmelonకర్బూజ| Karbūja`
     },
     {
-      id: "vegetables",
-      label:'కూరగాయలు|Kuragayalu|vegetables',
+      id: 'vegetables',
+      label: 'కూరగాయలు|Kuragayalu|vegetables',
       text: `carrot | 	కారెట్ | karet
 beetroot | బీట్ రూట్ | bet rut
 onion | ఉల్లిపాయ |ullipaya
@@ -61,7 +61,7 @@ mintleaf| 	పుదీనా |Pudina
 peanut| వేరుశెనగ|Verusenaga
 radish| ముల్లంగి| Mullangi
 spinach | పాల కూర |Pala kura
-vegetables | కూరగాయలు|Kuragayalu`,
-    },
-  ],
+vegetables | కూరగాయలు|Kuragayalu`
+    }
+  ]
 };
