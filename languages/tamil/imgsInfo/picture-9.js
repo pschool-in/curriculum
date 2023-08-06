@@ -14,17 +14,27 @@ export default {
   tablet|
   torch|
   web-camera| 
-  radio | வானொலி       
+  telephone | தொலைபேசி
+  radio | வானொலி   
+  typewriter | தட்டச்சுப்பொறி   
 tv |தொலைக்காட்சி 
 laptop | மடிக்கணினி
 computer |கணினி
-keyboard | விசைப்பலகை`
+keyboard | விசைப்பலகை
+printer | அச்சுப்பொறி`
     },
     {
       id: 'others',
       label: 'இன்னும் சில சொற்கள்',
-      text: `angel |தேவதை
-        alien |வேற்றுகிரகமனிதன்|வேற்றுகிரகவாசி   
+      text: `
+      auvai | ஔவை
+      five | ஐந்து
+      hexagon | அறுகோணம்
+      kolam| கோலம்
+      rishi| முனிவர்
+      boomerang | வளரி
+      angel |தேவதை
+        alien |வேற்றுகிரகவாசி   
         knight | போர்வீரன்
         warrior | மாவீரர்
   chariot | தேர்
@@ -43,14 +53,16 @@ keyboard | விசைப்பலகை`
   toothbrush |பற்குச்சி
   chocolate | சாக்லேட்
   toothpaste | பற்பசை
-  trident |திரிசூலம்`
+  nandi | நந்தி
+  trident |திரிசூலம்
+  yagna| யாகம்
+  touch-me-not | தொட்டாற்சிணுங்கி`
     },
 
     {
       id: 'flowers',
       label: 'மலர்கள்',
-      text: 
-      `daffodil|
+      text: `daffodil|
   gulmohar | செம்மயில்கொன்றை
       poppy | 
   daisy | 
