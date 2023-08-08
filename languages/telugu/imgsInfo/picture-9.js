@@ -23,7 +23,7 @@ keyboard | కీబోర్డ్|Keyboard`
     {
       id: 'others',
       label: 'ఇతరులు|Itarulu|others',
-      text: `angel | ఏంజెల్|Angel
+      text: `angel | దేవత |Dēvata
 alien | విదేశీయుడు|Videsiyudu
 knight | నైట్|Nait
 warrior | యోధుడు|Yodhudu
@@ -53,7 +53,7 @@ trident | త్రిశూలం|Trisulam`
 gulmohar | గుల్మోహర్|Gulmōhar
 lily | 	లిల్లీ | lilli
 bougainvillea | బౌగెన్విల్ల |Bougainvillea
-december | డిసెంబర్|December
+december |  బెల్ పువ్వు |Bel puvvu
 pansy | పాన్సీ|Pansi
 poppy | Poppy
 daisy | డైసీ |daisi

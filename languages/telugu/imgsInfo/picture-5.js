@@ -5,31 +5,31 @@ export default {
     {
       id: 'action',
       label: 'చర్యలు|Caryalu|Actions',
-      text: `drink| త్రాగండి|Tragandi
-eat| తినండి|Tinandi
-bend|బెండ్|Bend
+      text: `drink| త్రాగటం|Trāgaṭaṁ
+eat| తినడం|Tinaḍaṁ
+bend|వంచు|Van̄cu
 climb | ఎక్కడం|Ekkadam
-jump | ఎగిరి దుముకు|Egiri dumuku
-kneel | మోకాలి|Mokali
+jump | దూకడం |Dūkaḍaṁ
+kneel | మోకాలు|Mōkālu
 pull | Pull
-push | పుష్|Pus
-sing | పాడండి|Padandi
+push | నెట్టు|Neṭṭu
+sing | పాడడం|Pāḍaḍaṁ
 dance | నృత్యం|Nrtyam
 running |నడుస్తోంది|Nadustondi
 walking | నడవడం|Nadavadam
-sit | కూర్చోండి|Kurcondi
-party | పార్టీ|Party
+sit | కూర్చోడం|Kūrcōḍaṁ
+party | వేడుక |Vēḍuka
 skipping | దాటవేయడం|Dataveyadam
-catch | క్యాచ్|Catch
-pass | పాస్|Pass
+catch | పట్టడం|Paṭṭaḍaṁ
+pass | అందించడం |Andin̄caḍaṁ
 swim | ఈత |Ita
-swing | స్వింగ్|Swing
-throw | త్రో|Throw
+swing | ఊగడం|Ūgaḍaṁ
+throw | విసరడం|Visaraḍaṁ
 carry | తీసుకువెళ్ళండి|Tisukuvellandi
 lifting | Lift
-mopping | మోపింగ్|Moping
-riding |రైడ్| Ride
-sweep | స్వీప్ చేయండి|Svip ceyandi
+mopping | తుడవడం|wiping
+riding |స్వారీ| Svārī
+sweep | ఊడ్చడం |Ūḍcaḍaṁ
 cough | దగ్గు|Daggu
 sick | అనారోగ్యం|Anarogyam
 sneeze | తుమ్ము|Tummu
@@ -42,7 +42,7 @@ sleep | నిద్ర|Nidra`
       text: `bat2 | బ్యాట్|Byat
 racket | Racket
 seesaw | Seesaw
-slide | స్లయిడ్|Slayid
+slide | జారుడ బండ|Jāruḍa baṇḍa
 carrom | క్యారమ్|Carrom
 chess | చదరంగం|Cadaraṅgaṁ
 cricket2 | క్రికెట్|Cricket
@@ -59,7 +59,7 @@ wrestling |రెజ్లింగ్|Rejling
 karate | కరాటే|Karate
 surfing | సర్ఫింగ్|Surfing
 jockey | గుర్రపు పందెం|Gurrapu pandeṁ
-track | నడుస్తున్న ట్రాక్|Nadustunna trak
+track |  పరిగెత్తే త్రోవ | Parigettē trōva
 bandage | కట్టు|Kaṭṭu
 danger | ప్రమాదం|Pramadam`
     }

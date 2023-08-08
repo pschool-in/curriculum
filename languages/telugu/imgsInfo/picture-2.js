@@ -16,15 +16,15 @@ jackfruit | 	పనస | panasa
 mango | మామిడి | mamidi
 orange | కమల పండు| Kamala pandu
 
-papaya | బొబ్బాయ | Bobbaya
+papaya | బొప్పాయి  | Bobbaya
 pineapple | అనాస పండు | anasa pandu
 watermelon | పుచ్చకాయ |Puchakaya
 pomegranate| దానిమ్మ | danimma
 fig| అత్తి పండు | atti pandu
 custard-apple| సీతాఫలము | sitaphalamu
-plum| 	రేగు | Regu
-dates| తేదీలు ||Tēdīlu
-muskmelon| Muskmelonకర్బూజ| Karbūja`
+plum| 	
+dates| ఖర్జూరం ||Tēdīlu
+muskmelon| కర్బూజ| Karbūja`
     },
     {
       id: 'vegetables',
@@ -32,7 +32,7 @@ muskmelon| Muskmelonకర్బూజ| Karbūja`
       text: `carrot | 	కారెట్ | karet
 beetroot | బీట్ రూట్ | bet rut
 onion | ఉల్లిపాయ |ullipaya
-tomato | టమాటో| tamato
+tomato | టమోటా| tamato
 potato | బంగాళాదుంప |bangaladumpa
 cabbage | క్యాబేజీని |kyabejini
 corn | మొక్క జొన్న |Mokka jonna
@@ -40,7 +40,7 @@ cucumber |దోసకాయ | dosakaya
 garlic|వెల్లుల్లి |Vellulli
 ginger|అల్లం |allam
 
-cauliflower| కాలీఫ్లవర్| Kaliphlavar
+cauliflower|
 pumpkin| గుమ్మడికాయ |gummadikaya
 almond| బాదం|badam
 beans| బీన్స్ | beens
@@ -56,7 +56,7 @@ corianderleaf | కొత్తిమీర ఆకు|Kottimira aku
 curryleaf | కరివేపాకు |Karivepaku
 drumstick| మునగ| Munaga
 greenpeas|ఆకుపచ్చ బటానీలు| akupacca batanilu
-ladies-finger | లేడీస్ ఫింగర్|Ladies Finger
+ladies-finger | బెండకాయ | Beṇḍakāya
 mintleaf| 	పుదీనా |Pudina
 peanut| వేరుశెనగ|Verusenaga
 radish| ముల్లంగి| Mullangi

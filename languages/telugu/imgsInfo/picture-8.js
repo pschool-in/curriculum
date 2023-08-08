@@ -41,7 +41,7 @@ chariot | రథము|Rathamu`
 clown |విదూషకుడు|Vidusakudu
 fisherman | మత్స్యకారుడు|Matsyakarudu
 postman | పోస్ట్‌మ్యాన్|Postmyan
-teacher |టీచర్| Teacher
+teacher |గురువు| Guruvu
 blacksmith | కమ్మరి|Kammari
 cobbler | చెప్పులు కుట్టేవాడు|Ceppulu kuttevadu
 goldsmith | గోల్డ్ స్మిత్|Goldsmith
@@ -51,24 +51,24 @@ carpenter | వడ్రంగి|Vadrangi
 diver | Diver
 nurse | నర్స్|Nurse
 sailor | నావికుడు|Navikudu
-chef |చెఫ్| Chef
+chef |వంటచేసే మనిషి | Vaṇṭacēsē maniṣi
 doctor | వైద్యుడు|Vaidyudu
 police | పోలీసు|Polisu
 soldier | సైనికుడు|Sainikudu
-barber |బార్బర్| Barber
+barber |మంగలి| Maṅgali
 washerman | చాకలివాడు|Chakalivadu
-milkman | 	మిల్క్ మాన్ |Milkman
+milkman | 	పాల వ్యాపారి |Pāla vyāpāri
 shopkeeper | 	దుకాణదారుడు |dukanadarudu
 businessman | వ్యాపారవేత్త|Vyaparavetta
-cashier | క్యాషియర్|Cashier
-electrician | 	ఎలక్ట్రీషియన్|Electrician
+cashier | 
+electrician | 	విద్యుత్ కార్మికుడు |విద్యుత్ కార్మికుడు
 farmer | 	రైతు |raitu
-mechanic | 	మెకానిక్ |Mechanic
-pilot | పైలట్ |Pilot
-plumber | ప్లంబర్|Plumber
+mechanic | 
+pilot | విమానచోదకుడు |Vimānacōdakuḍu
+plumber | 
 scientist | శాస్త్రవేత్త|sastravetta
 seller | విక్రేత|Vikreta
-software-developer |సాఫ్ట్వేర్ డెవలపర్| Software Developer`
+software-developer |`
     }
   ]
 };
