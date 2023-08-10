@@ -21,4 +21,13 @@ calander|நாள் காட்டி
 rock|பாறை
 tv Dish|
 Charger|மின்னூக்கி
-first aid kit|முதல் உதவிப் பெட்டி|
+first aid kit|முதல் உதவிப் பெட்டி
+```
+10-08
+'aralipoo|அரளி பூ, செவ்வரளி
+betel leaf|வெற்றிலை
+COLANDER|அரிகலம்
+sieve|சல்லடை
+strainer|வடிகட்டி 
+Firefly|மின்மினிப் பூச்சி 
+hundiyal,piggybank|உண்டியல்
