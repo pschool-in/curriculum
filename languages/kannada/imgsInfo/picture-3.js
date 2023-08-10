@@ -50,12 +50,12 @@ mustache | ಮೀಸೆ|Mise
 beard | ಗಡ್ಡ|Gadda
 ankle | ಕಣಕಾಲು|Kanakalu
 elbow | ಮೊಣಕೈ|Monakai
-knee | ಮೊಣಕಾಲು|Monakālu
+knee | ಮೊಣಕಾಲು|Monakalu
 shoulder | ಭುಜ|Bhuja
 wrist | ಮಣಿಕಟ್ಟು|Manikattu
 thumb |ಹೆಬ್ಬೆರಳು|Hebberalu
-cheek | ಕೆನ್ನೆ|Kenne
-chin | ಗದ್ದ|Gadda
+cheek | ಕಣ್ಣ ಪಕ್ಕ |Kanna pakka
+chin | ಮಡಕೆ |Madake
 nails | ಉಗುರುಗಳು|Ugurugalu`
     },
     {
@@ -74,17 +74,17 @@ zinnia | ಜಿನ್ನಿಯಾ | zinnia`
       id: 'others',
       label: 'ಇತರೆ ಚಿತ್ರಗಳು | Itare citragaḷu | Other Images',
       text: `bell | ಗಂಟೆ | gante
-brush| ಬ್ರಷ್ |brush
+brush| ಕುಂಚ|Kunca 
 bone|ಮೂಳೆ|mule
 box | ಬಾಕ್ಸ್ | box
 coin | ನಾಣ್ಯ | nanya
 top |  ಬುಗುರಿ | buguri
 balloon | ಬಲೂನ್ | balloon
 brick | ಇಟ್ಟಿಗೆ|Ittige
-rooftile| ರೂಫ್ ಟೈಲ್|Ruph tail
+rooftile| ಛಾವಣಿಯ|Chavaniya
 stick | ಸ್ಟಿಕ್ | stick
-ring| ರಿಂಗ್ | ring
-drums| ಡ್ರಮ್ | drum
+ring| ಉಂಗುರ|Uṅgura
+drums| ಡ್ರಮ್ | drum 
 food| ಆಹಾರ | aahara
 king| ರಾಜ | raja
 queen | ರಾಣಿ|Rani

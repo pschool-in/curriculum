@@ -9,7 +9,7 @@ export default {
     girl | ಹುಡುಗಿ |Hudugi
     man| ಮನುಷ್ಯ | manusya
     woman | ಮಹಿಳೆ |Mahile
-    baby |ಬೇಬಿ |Baby
+    baby |ಮಗು |Magu 
     mother | ತಾಯಿ|Tāyi
     father | ತಂದೆ|Tande
     grandfather | ಅಜ್ಜ ತಂದೆ|Ajja tande
@@ -124,18 +124,18 @@ blender | ಬ್ಲೆಂಡರ್ | Blender
 grinder | ಗ್ರೈಂಡರ್|Grinder
 cheese | ಗಿಣ್ಣು |ginnu
 fridge | ಫ್ರಿಜ್ |Fridge
-lollipop |ಲಾಲಿಪಾಪ್ | Lollipop
+lollipop | Lollipop
 salad | ಸಲಾಡ್ |Salaad
 sugar | ಸಕ್ಕರೆ|Sakkare
 bowl | ಬೌಲ್| Bowl
 chicken | ಚಿಕನ್ |Chickan
 milk|ಹಾಲು |halu
 fruits|ಹಣ್ಣುಗಳು|hannugalu 
-ice-cream |ಐಸ್ ಕ್ರೀಮ್ |Ice cream
+ice-cream |Ice cream
 meat | ಮಾಂಸ |Mansa
 egg | ಮೊಟ್ಟೆ|Motte
 salt | ಉಪ್ಪು |Uppu
-french-fry | ಫ್ರೆಂಚ್ ಫ್ರೈ|French Fry
+french-fry | French Fry
 soft-drink |ತಂಪು ಪಾನೀಯ|Tampu paniya
 pizza | ಪಿಜ್ಜಾ|Pizza
 sweets | ಸಿಹಿತಿಂಡಿಗಳು | Sihitindigalu
