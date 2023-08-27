@@ -23,7 +23,7 @@ rainbow |ಕಾಮನಬಿಲ್ಲು |kamanabillu
 cloud | ಮೋಡ|Moda
 lightning | ಮಿಂಚು|Mincu
 web |ಜೇಡರ ಬಲೆ|Jedara bale
-shell | ಶೆಲ್|sel
+shell | ಚಿಪ್ಪು |cippu
 banyan | ಆಲದ ಮರ|alada mara
 bamboo-tree | ಬಿದಿರು ಮರ|Bidiru mara
 banana-tree | ಬಾಳೆ ಮರ|Bale mara
@@ -64,11 +64,11 @@ nails | ಉಗುರುಗಳು|Ugurugalu`
       text: `rose | ಗುಲಾಬಿ | gulabi
 lotus |ಕಮಲ|kamala
 sunflower | ಸೂರ್ಯಕಾಂತಿ |suryakanti
-marigold | ಮಾರಿಗೋಲ್ಡ್ | marigold
+marigold | ಚೆಂಡು ಹೂವು | chenDu hoovu
 hibiscus |ದಾಸವಾಳ| dasavala
 jasmine | ಮಲ್ಲಿಗೆ | mallige
-tulip | ಟುಲಿಪ್| tulip
-zinnia | ಜಿನ್ನಿಯಾ | zinnia`
+tulip | 
+zinnia |`
     },
     {
       id: 'others',
@@ -76,31 +76,31 @@ zinnia | ಜಿನ್ನಿಯಾ | zinnia`
       text: `bell | ಗಂಟೆ | gante
 brush| ಬ್ರಷ್ |brush
 bone|ಮೂಳೆ|mule
-box | ಬಾಕ್ಸ್ | box
+box | ಪೆಟ್ಟಿಗೆ | Peṭṭige
 coin | ನಾಣ್ಯ | nanya
 top |  ಬುಗುರಿ | buguri
 balloon | ಬಲೂನ್ | balloon
 brick | ಇಟ್ಟಿಗೆ|Ittige
-rooftile| ರೂಫ್ ಟೈಲ್|Ruph tail
-stick | ಸ್ಟಿಕ್ | stick
-ring| ರಿಂಗ್ | ring
-drums| ಡ್ರಮ್ | drum
+rooftile| 
+stick | ಕೋಲು | Kōlu
+ring| ಉಂಗುರ | Uṅgura
+drums| ತಬಲ | Tabala
 food| ಆಹಾರ | aahara
 king| ರಾಜ | raja
 queen | ರಾಣಿ|Rani
 kite| ಗಾಳಿಪಟ | galipata
 ladder| ಏಣಿ | yeni
 quill | ಗರಿ|Gari
-oar | ಓರ್|oar
-gun | ಗನ್|Gan
+oar | 
+gun | 
 wheel| ಚಕ್ರ | chakra
-park |ಪಾರ್ಕ್ | park
+park |
 garden | ಉದ್ಯಾನ | udyana
 sculpture | ಶಿಲ್ಪಕಲೆ|silpakale
 statue | ಪ್ರತಿಮೆ|Pratime
-clay-lamp |ಕ್ಲೇ ಲ್ಯಾಂಪ್|Kle lyamp
-clay-stove |ಕ್ಲೇ ಸ್ಟೌವ್|Kle stauv
-radio | ರೇಡಿಯೋ| radio`
+clay-lamp |
+clay-stove |
+radio |`
     }
   ]
 };

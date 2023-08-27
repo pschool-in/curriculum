@@ -14,6 +14,7 @@ rain|Rain
 stone|Stone
 pebbles | Pebbles
 leaf|Leaf 
+grass | Grass
 tree | Tree
 log | Log
 nest |Nest 
@@ -39,6 +40,7 @@ neemleaf | Neem Leaf`
       label: 'Body Parts',
       text: `ear |Ear
 eye |Eye
+face | Face
 foot |Foot
 hair|Hair
 hand|Hand

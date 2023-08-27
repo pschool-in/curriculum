@@ -69,7 +69,7 @@ kingfisher| చల్లముద్దపక్షి| Callamuddapaksi
 myna| మైనా|Myna
 ostrich| 	ఉష్ట్రపక్షి |Ustrapaksi
 owl| గుడ్లగూబ |Gudlaguba
-rooster| రూస్టర్ |Rooster
+rooster| 
 vulture| రాబందు |Rabandu
 woodpecker| 	వడ్రంగిపిట్ట |Vadrangipitta
 koel |కోయెల్|  Koel`

@@ -8,9 +8,9 @@ export default {
       text: `apple | ಸೇಬು| sebu 
 grapes | ದ್ರಾಕ್ಷಿಗಳು |draksigalu
 banana | ಬಾಳೆಹಣ್ಣು | balehannu
-cherry | ಚೆರ್ರಿ |cherry
-avocado | ಆವಕಾಡೊ | avakado
-strawberry | ಸ್ಟ್ರಾಬೆರಿ | Strawberry
+cherry | 
+avocado | 
+strawberry |
 guava |ಸೀಬೆಹಣ್ಣು | sibehannu
 jackfruit | ಹಲಸು | halasu
 mango |ಮಾವು | mavu
@@ -22,17 +22,17 @@ watermelon | ಕಲ್ಲಂಗಡಿ |kallangadi
 pomegranate| ದಾಳಿಂಬೆ | dalimbe
 fig| ಅಂಜೂರ |anjura
 custard-apple| ಸೀತಾಫಲ | sitaphala
-plum| ಪ್ಲಮ್ |Plum
+plum| 
 dates| ದಿನಾಂಕಗಳು | dinankagalu
 muskmelon| ಕಸ್ತೂರಿ |Kasturi`
     },
     {
       id: 'vegetables',
       label: 'ತರಕಾರಿಗಳು | Tarakarigalu | vegetables',
-      text: `carrot | ಕ್ಯಾರೆಟ್|Carrot
-beetroot |ಬೀಟ್ರೂಟ್| Beetroot
+      text: `carrot | ಕ್ಯಾರೆಟ್|Kyāreṭ
+beetroot |ಬೀಟ್ರೂಟ್| Bīṭrūṭ
 onion | ಈರುಳ್ಳಿ | irulli
-tomato | ಟೊಮೆಟೊ | Tomato
+tomato | ಟೊಮೆಟೊ | Ṭomeṭo
 potato | ಆಲೂಗಡ್ಡೆ | alugadde
 cabbage | ಎಲೆಕೋಸು | elekosu
 corn | ಜೋಳ | jola
@@ -43,20 +43,20 @@ ginger|ಶುಂಠಿ | sunthi
 cauliflower| ಹೂಕೋಸು | hukosu
 pumpkin| ಕುಂಬಳಕಾಯಿ |kumbalakayi
 almond| ಬಾದಾಮಿ | badami
-beans| ಬೀನ್ಸ್ |Beans
+beans| ಬೀನ್ಸ್ |Bīns
 bitter-gourd| ಹಾಗಲಕಾಯಿ | hagalakayi
 brinjal| ಬದನೆಕಾಯಿ | Badanekayi
-capsicum| ದೊಣ್ಣೆ ಮೆಣಸಿನ ಕಾಯಿ |donne menasina kayi
+capsicum| 
 cashewnut| ಗೋಡಂಬಿ| godambi
 chilli| ಮೆಣಸಿನಕಾಯಿ | menasinakayi
 coconut | ತೆಂಗಿನ ಕಾಯಿ | tengina kayi
-lemon | 	ನಿಂಬೆ ಹಣ್ಣು | Nimbe hannu
+lemon | 	ನಿಂಬೆ | Nimbe
 
 corianderleaf |ಕೊತ್ತಂಬರಿ ಎಲೆ | kottambari ele
 curryleaf | ಕರಿಬೇವಿನ ಎಲೆ |karibevina ele
-drumstick| ಡ್ರಮ್ ಸ್ಟಿಕ್| Drumstick
+drumstick| ನುಗ್ಗೇಕಾಯಿ | Nuggēkāyi
 greenpeas| ಹಸಿರು ಬಟಾಣಿ |hasiru batani
-ladies-finger | ಲೇಡೀಸ್ ಫಿಂಗರ್ |Ladies Finger
+ladies-finger | ಬೆಂಡೆಕಾಯಿ  | Beṇḍekāyi
 mintleaf| ಪುದೀನ ಎಲೆ | Pudīna ele
 peanut| ಕಡಲೆಕಾಯಿ | Kadalekayi
 radish| ಮೂಲಂಗಿ |mulangi

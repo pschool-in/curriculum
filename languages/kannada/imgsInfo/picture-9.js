@@ -46,18 +46,18 @@ trident | ತ್ರಿಶೂಲ|Trisula`
     {
       id: 'flowers',
       label: 'ಹೂವುಗಳು | Huvugalu | flowers',
-      text: `daffodil | ಡ್ಯಾಫಡಿಲ್| Daffodil
-gulmohar | ಗುಲ್ಮೊಹರ್|Gulmohar
-lily | ಲಿಲಿ |lili
+      text: `daffodil | 
+gulmohar | 
+lily |
 bougainvillea | ಬೌಗೆನ್ವಿಲ್ಲಾ|Bougainvillea
 december | ಡಿಸೆಂಬರ್|December
 pansy | ಪ್ಯಾನ್ಸಿ |Pyansi
 poppy | Poppy
 daisy | 	ಡೈಸಿ  |daisi
-jasmine |ಮಲ್ಲಿಗೆ | mallige
+jasmine 
 magnolia | Magnolia
 periwinkle | ಪೆರಿವಿಂಕಲ್ |Periwinkle
-water-lily | ಜಲ ನೈದಿಲೆ | jala naidile`
+water-lily |`
     }
   ]
 };

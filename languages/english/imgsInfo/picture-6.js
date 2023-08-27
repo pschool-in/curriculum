@@ -44,7 +44,11 @@ earthworm | Earthworm
 hedgehog | Hedgehog
 stingray | Stingray
 jellyfish | Jellyfish
-starfish | Starfish`
+starfish | Starfish
+scorpion | Scorpion
+centipede | Centipede
+millipede | Millipede
+salamander | Salamander`
     },
     {
       id: 'birds-2',
@@ -68,7 +72,9 @@ turkey | Turkey
 hawk | Hawk
 cardinal | Cardinal
 parakeet | Parakeet
-macaw | Macaw`
+macaw | Macaw
+tailorbird | Tailor Bird
+weaverbird | Weaver Bird`
     }
   ]
 };
