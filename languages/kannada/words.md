@@ -1,6 +1,7 @@
 https://1000mostcommonwords.com/1000-most-common-kannada-words/
 
 'Kannada|in English
+
 ಮಾಹಿತಿ|as
 ನಾನು|I
 ಅವರ|his

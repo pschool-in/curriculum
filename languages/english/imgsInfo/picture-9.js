@@ -18,7 +18,10 @@ radio | Radio
 tv | Television
 laptop | Laptop
 computer | Computer
-keyboard | Keyboard`
+keyboard | Keyboard
+printer | Printer
+telephone | Telephone
+typewriter | Typewriter`
     },
     {
       id: 'others-2',
@@ -43,7 +46,18 @@ conch| Conch
 toothbrush | Toothbrush
 chocolate | Chocolate
 toothpaste | Toothpaste
-trident | Trident`
+trident | Trident
+boomerang | Boomerang
+bouquet | Bouquet
+cage | Cage
+nandi
+shadow | Shadow
+bharani
+gadha
+para
+scholor | Scholor
+uri
+babywalker | Baby Walker`
     },
 
     {

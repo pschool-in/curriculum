@@ -13,6 +13,8 @@ screw | Screw
 screwdriver | Screw Driver
 spanner | Spanner
 axe | Axe
+hammar | Hammar
+sewing-machine | Sewing Machine
 balance | Balance
 hose | Hose
 microscope | Microscope
