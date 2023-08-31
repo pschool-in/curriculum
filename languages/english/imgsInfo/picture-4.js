@@ -95,6 +95,7 @@ tie | Tie
 towel | Towel
 trousers | Trousers
 saree | Saree
+hanger | Hanger
 anklet | Anklet
 bangle | Bangle
 chain | Chain
@@ -129,7 +130,8 @@ waterbottle| Waterbottle
 color-pencils| Color Pencils
 crayons | Crayons
 notebook | Notebook
-writingpad | Writing Pad`
+writingpad | Writing Pad
+literature`
     },
     {
       id: 'kitchen',

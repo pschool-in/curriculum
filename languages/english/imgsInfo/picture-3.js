@@ -23,6 +23,9 @@ waterfall |Waterfall
 rainbow |Rainbow 
 cloud | Cloud
 lightning | Lightning
+morning | Morning
+night | Night
+flock-birds | Flock
 web | Web
 shell | Shell
 banyan | Banyan Tree
@@ -86,7 +89,6 @@ brick | Brick
 rooftile| Roof Tile
 stick | Stick
 ring| Ring
-drums| Drum
 food| Food
 king| King
 queen | Queen
@@ -101,7 +103,12 @@ garden | Garden
 sculpture | Sculpture
 statue | Statue
 clay-lamp | Clay Lamp
-clay-stove | Clay Stove`
+clay-stove | Clay Stove
+one 
+oneself
+pandit
+saint
+stamp | Stamp`
     }
   ]
 };

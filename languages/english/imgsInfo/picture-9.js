@@ -55,7 +55,7 @@ shadow | Shadow
 bharani
 gadha
 para
-scholor | Scholor
+scholar | Scholar
 uri
 babywalker | Baby Walker`
     },
