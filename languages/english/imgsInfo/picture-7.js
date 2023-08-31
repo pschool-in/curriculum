@@ -49,7 +49,8 @@ raw-banana | Raw banana
 tulsi | Tulsi
 bottlegourd | Bottlegourd
 ivygourd | Ivygourd
-ridgegourd | Ridgegourd`
+ridgegourd | Ridgegourd
+narthankai`
     }
   ]
 };

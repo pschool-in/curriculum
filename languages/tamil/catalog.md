@@ -15,6 +15,7 @@
 - writing mixed letters
 
 ## ta-grammar
+
 - Letters - Classification of different types of letters. Vowels, consonents, mixed letters, additional sanskrit letters. Three types of consonants.
 - Group letters that have long and short sounds.
 - Group words that have long and short sounds.
@@ -32,13 +33,15 @@
 - Separate words
 
 ## ta-social
+
 - Drag & Drop : Four Directions
 - Drag & Drop : Rivers of Tamil Nadu
 - Drag & Drop : Cities of Tamil Nadu
--Drag & Drop : Tourist Places of Tamil Nadu
+  -Drag & Drop : Tourist Places of Tamil Nadu
 - Match: Places and popular food in Tamil Nadu
 - Order the cities from North to South
 - Word Search on cities
 
 ## ta-gk
+
 - MCQ based GK questions
