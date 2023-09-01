@@ -29,7 +29,7 @@ boy|लड़का
 wheel|चक्का	
 umbrela|छतरी	
 ship|जहाज	
-|झंडा	
+flag|झंडा	
 tomato|टमाटर	
 trolley|ठेला	
 damaru|डमरू	
@@ -55,7 +55,7 @@ apple|सेब
 plough|हल	
 knight|क्षत्रिय	
 trident|त्रिशूल	
-|ज्ञानी`
+scholar|ज्ञानी`
     }
   ]
 };
