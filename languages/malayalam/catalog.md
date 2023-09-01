@@ -45,7 +45,7 @@
 ## ml-letter-2
 
 - identify letter based on sound (all consonents with vowel based matras)
-- comple word activity with simple and common words
+- complete word activity with simple and common words
 - match activity on mixed characters commonly used in malayalam
 
 ## ml-letter
@@ -81,7 +81,7 @@
 
 ## ml-reading
 
-- 15 traditional tales for children with moral of the storiy
+- 15 traditional tales for children with moral of the story
 
 ## ml-riddle
 
@@ -102,6 +102,7 @@
 
 - form sentence activity (2 word sentences)
 - form sentence activity (3 and 4 word sentences)
+- make sentence activity (translate from english to malayalam)
 
 ## ml-social
 
