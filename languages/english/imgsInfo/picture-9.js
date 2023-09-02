@@ -35,6 +35,7 @@ horse-carriage | Horse Carriage
 yarn-ball | Yarn Ball
 bow | Bow
 arrow | Arrow
+flag | Flag
 fountain | Fountain
 pouch | Pouch
 trolley | Trolley
