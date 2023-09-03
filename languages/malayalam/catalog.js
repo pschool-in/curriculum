@@ -1,5 +1,6 @@
 export default {
   label: 'Malayalam Catalog',
+  lang: 'ml',
   list: [
     {
       label: 'Colors (നിറം)',

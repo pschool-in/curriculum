@@ -1,5 +1,6 @@
 export default {
   label: 'Hindi Catalog',
+  lang: 'hi',
   list: [
     {
       label: 'Colors (रंग)',
