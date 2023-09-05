@@ -42,8 +42,8 @@ export default {
         Fill up activity on compound words`
     },
     {
-      label: 'Word Practice (शब्दांचा सराव)',
-      id: 'mr-word-practice',
+      label: 'Word 3 (शब्द - 3)',
+      id: 'mr-word-3',
       text: `Word forming activity (2 Letter Words)  – Practice
         Word forming activity (2 Letter Words) – More Practice
         Word forming activity (3 Letter Words) – Practice
