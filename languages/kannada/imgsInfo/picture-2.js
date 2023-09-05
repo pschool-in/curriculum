@@ -6,17 +6,17 @@ export default {
       id: 'fruits',
       label: 'ಹಣ್ಣುಗಳು | Hannugalu | Fruits',
       text: `apple | ಸೇಬು| sebu 
-grapes | ದ್ರಾಕ್ಷಿಗಳು |draksigalu
+grapes |ದ್ರಾಕ್ಷಿಗಳು |draksigalu
 banana | ಬಾಳೆಹಣ್ಣು | balehannu
 cherry | 
 avocado | 
 strawberry |
 guava |ಸೀಬೆಹಣ್ಣು | sibehannu
 jackfruit | ಹಲಸು | halasu
-mango |ಮಾವು | mavu
+mango |ಮಾವಿನ ಹಣ್ಣು|	Maavina Hannu
 orange | ಕಿತ್ತಳೆ | kittale
 
-papaya | ಪಪ್ಪಾಯಿ |pappayi
+papaya | ಪರಂಗಿ|Parangi
 pineapple | ಅನಾನಸ್ |ananas
 watermelon | ಕಲ್ಲಂಗಡಿ |kallangadi
 pomegranate| ದಾಳಿಂಬೆ | dalimbe
@@ -24,7 +24,7 @@ fig| ಅಂಜೂರ |anjura
 custard-apple| ಸೀತಾಫಲ | sitaphala
 plum| 
 dates| ದಿನಾಂಕಗಳು | dinankagalu
-muskmelon| ಕಸ್ತೂರಿ |Kasturi`
+muskmelon| 	ಖರ್ಬೂಜ|	Kharbooja `
     },
     {
       id: 'vegetables',
@@ -65,3 +65,7 @@ vegetables | ತರಕಾರಿಗಳು |tarakarigalu `
     }
   ]
 };
+
+    
+   
+

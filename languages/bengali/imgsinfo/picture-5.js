@@ -1,71 +1,71 @@
 export default {
   id: 'picture-5',
-  label: 'অ্যাকশন এবং স্পোর্টস|Action and Sports',
+  label: 'কাজ ও খেলা |Action and Sports|Kaaj O khela',
   list: [
     {
       id: 'action',
-      label: 'অ্যাকশন|Actions',
-      text: `drink| পান
-eat| খাওয়া
-bend | মোড়
-climb | আরোহণ
-jump | লাফ
-kneel | হাঁটু
-pull |  টান
-push | ধাক্কা
-sing | গাও
-dance | নাচ
-running | চলমান
-walking | হাঁটা  
-sit | বসুন
-party |
-skipping | এড়িয়ে যাওয়া
-catch | ধরা
-pass | পাস
-swim | সাঁতার
-swing | দোল
-throw | নিক্ষেপ
-carry | বহন
-lifting | উত্তোলন
-mopping | 
-riding | 
-sweep | ঝাড়ু 
-cough | কাশি
-sick | অসুস্থ
-sneeze | হাঁচি
-yawn | ইয়ান
-sleep |  ঘুম`
+      label: 'কাজ|Actions|Kāja',
+      text: `drink| পান করা|Paan kora
+eat| খাওয়া|khaowa
+bend |ঝোঁকা|Jhoka
+climb | আরোহণ|Aarohon 
+jump |লাফানো|Laphano
+kneel |হাঁটু গেড়ে বসা|Hatu Gere Bosa
+pull | টানা|Tana
+push |ধাক্কা |Dhakka
+sing | গান করা|	Gaan Kora
+dance | নাচা | Naacha
+running |দৌড়ানো |dourano
+walking | হাঁটা |Haata      
+sit | বসা |Bosa
+party |	পার্টি |Party
+skipping | লাফদড়ি খেলা |laafdori khela
+catch |ধরা|Dhora
+pass |পাস|Pass
+swim |সাঁতার|Saatar 
+swing |দোলা| Dola
+throw |ছোড়া|Chhora
+carry |বহন|Bohon
+lifting |উত্তোলন|Uttolon
+mopping |ঘর মোছা|Ghor Mochha
+riding |চাপা|riding
+sweep |ঝাড়ু দেওয়া|Jharu deowa
+cough |কাশি|kashi
+sick |অসুস্থ|asustha
+sneeze |হাঁচি|hanchi
+yawn |হাই তোলা|	hai tola
+sleep |ঘুমানো|ghumano`
     },
     {
       id: 'sports',
-      label: 'স্পোর্টস|Sports',
-      text: `bat2 |
-racket |
-seesaw | 
-slide | 
-carrom | 
-chess | দাবা 
-cricket2 | 
-tennis | 
-football | 
-hockey | 
-kabaddi | 
-archery | তীরন্দাজ 
-basketball | 
-boxing |
-table-tennis | 
-golf | 
-wrestling | কুস্তি
+      label: 'স্পোর্টস|Sports|Spōrṭasa',
+      text: `bat2|ব্যাট|Bat
+racket |র‍্যাকেট |Racket
+seesaw | নাগরদোলা	|Seesaw
+slide |স্লাইড|Slide
+carrom |ক্যারাম|Carrom
+chess |দাবা |daba
+cricket2 |ক্রিকেট|Cricket
+tennis |টেনিস	|Tennis
+football |ফুটবল|Football
+hockey |হকি	|Hockey
+kabaddi |কাবাডি|Kabadi
+archery |তিরন্দাজি |Tirondaji
+basketball |বাস্কেট বল|Basket ball
+boxing |বক্সিং|Boxing
+table-tennis|টেবিল টেনিস|table-tennis
+golf |গল্ফ |Golf      
+wrestling | কুস্তি|kusti
 
 
-karate | 
-surfing | 
+karate | ক্যারাটে|Karate
+surfing | সার্ফিং|Surfing
 
-jockey | 
-track | 
+jockey | ঘোড়সওয়ার|Ghohsowar
+track | ট্র্যাক|Track
 
-bandage | 
-danger | বিপদ `
+bandage |ব্যান্ডেজ|Bandage
+danger |বিপদ |bipada`
     }
   ]
 };

@@ -51,7 +51,7 @@
 - picture based drag and drop activity on leaders of india
 - picture based mcq activity on leaders of india
 
-## hi-grammar-3
+## hi-grammar
 
 - reading passage on gender nouns
 - match activity on gernder nouns
@@ -59,6 +59,9 @@
 - reading passage on singular and plural noun
 - match activity on singular and plural noun
 - classify singular and plural noun
+
+## hi-grammr-2
+
 - reading passage on parts of speech
 - classify verb and noun
 - classify pronoun and adjective
@@ -69,7 +72,7 @@
 - reading passage on one word substitutions
 - mcq on one word substitutions
 
-## hi-grammar-4
+## hi-grammar-3
 
 - reading passage on homonyms
 - mcq on homonyms
@@ -84,6 +87,9 @@
 - fillup activity based on proper noun
 - fillup activity based on common noun
 - fillup activity based on abstract noun
+
+## hi-grammar-4
+
 - passage on types of pronouns
 - classify reflexive pronouns and personal pronouns
 - fill up based on reflexive pronouns
@@ -125,6 +131,9 @@
 - classify if the sentences are in future tense or not
 - classify if the sentences are in present tense or not
 - classify if the sentences are in past tense or not
+
+## hi-grammar-6
+
 - reading passage on gender, singular and plural nouns
 - reading passage on types of gender nouns
 - match activity based on gender
@@ -141,7 +150,7 @@
 - reading passage on creating compound words
 - mcq on compound words
 
-## hi-grammar-practice
+## hi-grammar-7
 
 - reading passage on gender nouns
 - match activity on gender nouns
@@ -177,7 +186,7 @@
 - connect letters to find the number names
 - arrange number names in ascending order
 
-## hi-numbers-practice
+## hi-numbers-3
 
 - match number names with devangri numerals
 
@@ -267,10 +276,6 @@
 - fill up using antonyms
 - fill up using synonyms
 
-## hi-sentence-practice
-
-- form sentence activity (more practice)
-
 ## hi-social
 
 - match activity on states and monuments
@@ -302,6 +307,9 @@
 - match activity on number names (1-100)
 - match activity on colors
 - match activity on days of the week
+
+## hi-word-3
+
 - match synonyms
 - match antonyms
 - fill up on one word substitutions
@@ -327,7 +335,7 @@
 - fill up based on one word substitutions
 - fill up based on one word many meanings
 
-## hi-word-practice
+## hi-word
 
 - jumbled word activity (क-घ)
 - jumbled word activity (च-झ)
@@ -337,6 +345,9 @@
 - jumbled word activity (य-स)
 - jumbled word activity (ह-ज्ञ)
 - jumbled word activity (simple words)
+
+## hi-word-6
+
 - match antonyms
 - match synonyms
 

@@ -50,12 +50,12 @@ mustache | ಮೀಸೆ|Mise
 beard | ಗಡ್ಡ|Gadda
 ankle | ಕಣಕಾಲು|Kanakalu
 elbow | ಮೊಣಕೈ|Monakai
-knee | ಮೊಣಕಾಲು|Monakālu
+knee | ಮೊಣಕಾಲು|Monakalu
 shoulder | ಭುಜ|Bhuja
 wrist | ಮಣಿಕಟ್ಟು|Manikattu
 thumb |ಹೆಬ್ಬೆರಳು|Hebberalu
-cheek | ಕೆನ್ನೆ|Kenne
-chin | ಗದ್ದ|Gadda
+cheek | ಕಣ್ಣ ಪಕ್ಕ |Kanna pakka
+chin | ಮಡಕೆ |Madake
 nails | ಉಗುರುಗಳು|Ugurugalu`
     },
     {
@@ -74,7 +74,7 @@ zinnia |`
       id: 'others',
       label: 'ಇತರೆ ಚಿತ್ರಗಳು | Itare citragaḷu | Other Images',
       text: `bell | ಗಂಟೆ | gante
-brush| ಬ್ರಷ್ |brush
+brush| ಕುಂಚ|Kunca 
 bone|ಮೂಳೆ|mule
 box | ಪೆಟ್ಟಿಗೆ | Peṭṭige
 coin | ನಾಣ್ಯ | nanya

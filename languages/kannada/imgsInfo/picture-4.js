@@ -9,7 +9,7 @@ export default {
     girl | ಹುಡುಗಿ |Hudugi
     man| ಮನುಷ್ಯ | manusya
     woman | ಮಹಿಳೆ |Mahile
-    baby |ಬೇಬಿ |Baby
+    baby |ಮಗು |Magu 
     mother | ತಾಯಿ|Tāyi
     father | ತಂದೆ|Tande
     grandfather | ಅಜ್ಜ |Ajja 
