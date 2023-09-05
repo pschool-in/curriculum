@@ -29,6 +29,7 @@ wheat | Wheat
 paddy | Paddy
 rice | Rice
 chickpea | Chickpea
+mustard | Mustard
 mustard-greens | Mustard greens
 turmeric | Turmeric
 turnip | Turnip
@@ -48,7 +49,8 @@ raw-banana | Raw banana
 tulsi | Tulsi
 bottlegourd | Bottlegourd
 ivygourd | Ivygourd
-ridgegourd | Ridgegourd`
+ridgegourd | Ridgegourd
+narthankai`
     }
   ]
 };

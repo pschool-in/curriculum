@@ -24,6 +24,7 @@ cloud | மேகம்
 lightning | மின்னல்
 web | சிலந்தி வலை
 shell |கிளிஞ்சல்
+shadow | நிழல்
 banyan | ஆலமரம்
 bamboo-tree | மூங்கில்மரம்
 banana-tree | வாழைமரம்
@@ -116,7 +117,14 @@ sembu|வெண்கலச்செம்பு
 ammi|அம்மிக்கல்
 dosaikal|தோசைக்கல்
 kudam|குடம்
-salangai|சலங்கை`
+anklet | கொலுசு
+bangle | வளையல்
+chain | சங்கிலி
+earring | காதணி
+salangai|சலங்கை
+cage | கூண்டு
+bouquet | மலர்கொத்து
+babywalker | நடைவண்டி `
     }
   ]
 };

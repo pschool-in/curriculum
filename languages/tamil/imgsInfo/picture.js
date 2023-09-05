@@ -46,7 +46,11 @@ goldfish | தங்கமீன்
 spider| சிலந்தி
 panda| பாண்டா
 giraffe| ஒட்டகச்சிவிங்கி
-kangaroo| கங்காரு`
+kangaroo| கங்காரு
+scorpion |  தேள்
+centipede | பூரான்
+millipede | மரவட்டை
+`
     },
     {
       id: 'birds',
@@ -63,13 +67,13 @@ sparrow|சிட்டுக்குருவி
 crane| கொக்கு
 
 eagle|கழுகு
-flamingo|flamingo
+flamingo|
 kingfisher| மீன் கொத்தி
 myna|மைனா
 ostrich| நெருப்புக்கோழி
 owl| ஆந்தை
 rooster|சேவல்
-vulture| vulture
+vulture| 
 woodpecker| மரங்கொத்தி
 koel |குயில்`
     }

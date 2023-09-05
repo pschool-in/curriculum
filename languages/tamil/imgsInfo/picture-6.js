@@ -35,7 +35,7 @@ bison |காட்டெருமை
 chameleon | பச்சோந்தி
 porcupine | முள்ளம்பன்றி
 tigerfish | 
-ladybug | கரும்பள்ளிவண்டு
+ladybug | பொன்வண்டு
 seahorse | கடற்குதிரை
 hamster |வெள்ளெலி
 mole | அகழெலி
@@ -52,9 +52,11 @@ starfish |நட்சத்திர மீன்`
       text: `hornbill | இருவாட்சி
 cuckoo |
 pheasant |
+weaverbird | தூக்கணாங்குருவி
+tailorbird | தையல் பறவை
 falcon | பருந்து
 swan |அன்னப்பறவை
-bulbul | கொன்டைக்குருவி 
+bulbul | கொண்டைக்குருவி 
 spotted-dove | மணிப்புறா 
 pelican |நாரை
 hummingbird |ரீங்காரச்சிட்டு

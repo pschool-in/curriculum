@@ -9,7 +9,7 @@ export default {
 compass2 | Compass
 divider | డివైడర్|Divider
 protractor | ప్రొట్రాక్టర్|Protractor
-screw | స్క్రూ|Screw
+screw | మేకు |Mēku
 screwdriver | స్క్రూ డ్రైవర్|Screw Driver
 spanner | స్పానర్|Spanner
 axe | గొడ్డలి|Goḍḍali
@@ -19,9 +19,9 @@ microscope | సూక్ష్మదర్శిని|Sūkṣmadarśini
 needle | సూది|Sūdi
 syringe | సిరంజి|Syringe
 oven | పొయ్యి|Poyyi
-plier | బెండ్|Beṇḍ
+plier | 
 plough | నాగలి|Nagali
-saw | రంబం|Rambam
+saw | రంపం|Rampaṁ
 spade | చేతిపార|Chetipara
 stethoscope | స్టెతస్కోప్|Stethoscope
 telescope | టెలిస్కోప్|Telescope
@@ -43,8 +43,8 @@ flute | వేణువు|Venuvu
 guitar | గిటార్|Guitar
 xylophone | జిలోఫోన్|Xylophone
 piano | పియానో|Piano
-veenai | వీణై|Veenai
-saxophone | శాక్సోఫోన్|Saxophone
+veenai | వీణ|Veenai
+saxophone | 
 tabla | తబలా|Tabla
 trumpet | ట్రంపెట్|Trumpet`
     }

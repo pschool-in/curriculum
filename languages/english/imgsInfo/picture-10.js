@@ -45,7 +45,10 @@ escalator | Escalator
 lift | Lift
 petrolbunk | Petrol Bunk
 footpath | Foot Path
-pillar | Pillar`
+pillar | Pillar
+swimmingpool | Swimming Pool
+tunnel | Tunnel
+postbox | Postbox`
     },
     {
       id: 'organs',

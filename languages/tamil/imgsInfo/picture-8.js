@@ -23,7 +23,7 @@ metro | மெட்ரோ
 excavator|
 fire-engine| தீயணைப்பு வாகனம் 
 tow-truck |
-van|van
+van|
 bulldozer |
 crane2 | பாரந்துாக்கும் கருவி
 rocket | விண்வெளிக்கலன்

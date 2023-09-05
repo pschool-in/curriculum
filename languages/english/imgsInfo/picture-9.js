@@ -18,7 +18,10 @@ radio | Radio
 tv | Television
 laptop | Laptop
 computer | Computer
-keyboard | Keyboard`
+keyboard | Keyboard
+printer | Printer
+telephone | Telephone
+typewriter | Typewriter`
     },
     {
       id: 'others-2',
@@ -32,6 +35,7 @@ horse-carriage | Horse Carriage
 yarn-ball | Yarn Ball
 bow | Bow
 arrow | Arrow
+flag | Flag
 fountain | Fountain
 pouch | Pouch
 trolley | Trolley
@@ -43,7 +47,18 @@ conch| Conch
 toothbrush | Toothbrush
 chocolate | Chocolate
 toothpaste | Toothpaste
-trident | Trident`
+trident | Trident
+boomerang | Boomerang
+bouquet | Bouquet
+cage | Cage
+nandi
+shadow | Shadow
+bharani
+gadha
+para
+scholar | Scholar
+uri
+babywalker | Baby Walker`
     },
 
     {

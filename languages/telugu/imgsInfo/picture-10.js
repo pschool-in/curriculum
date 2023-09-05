@@ -11,7 +11,7 @@ forest | అడవి|Adavi
 desert | ఎడారి|Edari
 river | నది|Nadi
 grassland | గడ్డి భూములు|Gaddi bhumulu
-ocean | సముద్ర|Samudra
+ocean | సముద్రం|Samudraṁ
 polar | ధ్రువ|Dhruva
 valley | లోయ|Loya
 volcano | అగ్నిపర్వతం|Agniparvatam
@@ -23,35 +23,35 @@ tent-house | టెంట్ హౌస్|Tent House
 tree-house | చెట్టు మీద కట్టుకున్న ఇల్లు|Cettu mida kattukunna illu
 road | త్రోవ|Trova
 railway | రైల్వే|Railway
-well | బాగా|Baga
+well | బాగా|బావి
 airport | విమానాశ్రయం|Vimanasrayam
 bank | బ్యాంకు|Bank
 classroom | తరగతి గది|Taragati gadi
-factory | ఫ్యాక్టరీ|Factory
+factory | కర్మాగారం|Karmāgāraṁ
 fort | కోట|Kota
 gopuram | గోపురం|gopuram
 harbour | నౌకాశ్రయం|Naukasrayam
-hospital | ఆసుపత్రి|asupatri
+hospital | వైద్యశాల|Vaidyaśāla
 library | గ్రంధాలయం|Grandhalayam
 lighthouse | లైట్ హౌస్|Light House
-map | మ్యాప్|Map
+map | పటం|Paṭaṁ
 office | కార్యాలయం|Karyalayam
 palace | రాజభవనం|Rajabhavanam
-parkinglot | వాహనములు నిలుపు స్థలం|Vahanamulu nilupu sthalaṁ
+parkinglot | 
 restaurant | రెస్టారెంట్|Restaurant
-stage | థియేటర్|Theatre
+stage | నాటకశాల|Nāṭakaśāla
 supermarket | సూపర్ మార్కెట్|Super Market
-escalator | ఎస్కలేటర్|Escalator
+escalator | కదిలేమెట్లు |Kadilēmeṭlu
 lift | Lift
 petrolbunk | పెట్రోల్ బంక్|Petrol Bunk
-footpath | ఫుట్ పాత్|Foot Path
-pillar | పిల్లర్|Pillar`
+footpath |
+pillar | స్తంభము |Stambhamu`
     },
     {
       id: 'organs',
       label: 'అవయవాలు|Avayavālu|Organs',
       text: `heart|గుండె|Gunde
-brain|మె ద డు|Me da du
+brain| మెదడు | Medaḍu
 lungs|ఊపిరితిత్తులు|upiritittulu
 stomach|కడుపు|Kadupu
 liver|కాలేయం|Kaleyam
@@ -73,7 +73,7 @@ solar-panel | సోలార్ ప్యానల్|Solar Panel
 bridge | వంతెన|Vantena
 dam | ఆనకట్ట|anakatta
 water-tower | నీటి స్థంభం|Niti sthambham
-electricpole |ఎలక్ట్రిక్ పోల్| Electric Pole`
+electricpole |విద్యుత్ స్తంభమ| Vidyut stambhama`
     }
   ]
 };

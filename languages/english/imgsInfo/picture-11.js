@@ -13,6 +13,8 @@ screw | Screw
 screwdriver | Screw Driver
 spanner | Spanner
 axe | Axe
+hammar | Hammar
+sewing-machine | Sewing Machine
 balance | Balance
 hose | Hose
 microscope | Microscope
@@ -30,6 +32,7 @@ thermometer | Thermometer
 trowel | Trowel
 walkie-talkie|Walkie talkie
 awl | Awl
+anvil | Anvil
 compass | Compass
 easel | Easel
 hacksaw | Hacksaw
@@ -46,7 +49,9 @@ piano | Piano
 veenai | Veenai
 saxophone | Saxophone
 tabla | Tabla
-trumpet | Trumpet`
+trumpet | Trumpet
+drums| Drum
+cymbals`
     }
   ]
 };

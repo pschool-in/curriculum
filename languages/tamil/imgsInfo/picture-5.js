@@ -16,7 +16,7 @@ export default {
       sing | பாடு
       dance | நடனம்
       running |ஓடுதல்
-      walking |நடைபயிற்சி
+      walking |நடைப்பயிற்சி
       sit | உட்கார்
       party |கொண்டாட்டம்
       skipping | கயிற்றாட்டம்

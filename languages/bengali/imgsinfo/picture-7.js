@@ -1,54 +1,54 @@
 export default {
   id: 'picture-7',
-  label: 'আরো ফল এবং সবজি|More Fruits and Vegetables',
+  label: 'আরো ফল এবং সবজি|More Fruits and Vegetables|Ārō phala ēbaṁ sabaji',
   list: [
     {
       id: 'fruits-2',
-      label: 'আরো ফল |More Fruits ',
-      text: `star-fruit | Star fruit
-dragon-fruit | Dragon fruit
-sugarcane | আখ|ākha
-peach | পীচ|pīca
-sweet-potato |মিষ্টি আলু |miṣṭi ālu
-jamun |জামুন | jāmuna
-pear | নাশপাতি |nāśapāti
-water-chestnut | জল-বুকে | jala buka
-jujube | Jujube
-sapotta | Sapotta
-tapioca | Tapioca
-blueberry | Blueberry
-wood-apple | Wood Apple
-gooseberry | Gooseberry
-passion-fruit | Passion fruit`
+      label: 'আরো ফল |More Fruits| Ārō phala',
+      text: `star-fruit|কামরাঙা|Kamranga	
+dragon-fruit | ড্রাগন ফল	|Dragon fol
+sugarcane |আখ|Aakh
+peach |পিচ ফল|peach fol
+sweet-potato|রাঙা আলু	|Ranga Alu
+jamun |জাম|Jaam
+pear |নাশপাতি|Naspati
+water-chestnut |পানিফল|Panifol
+jujube |কুল|kul
+sapotta |সবেদা|Sobeda	
+tapioca |ট্যাপিওকা|Tapioca
+blueberry |ব্লুবেরি|Blueberry
+wood-apple |কদবেল|Kodbel
+gooseberry |আমলকি|Aamloki
+passion-fruit |প্যাশন ফল|Passion fol`
     },
     {
       id: 'vegetables-2',
-      label: 'আরো সবজি|More Vegetables',
-      text: `pepper | মরিচ |marica
-wheat | গম | gama 
-paddy | ধান | dhāna 
-rice | ভাত | bhāta 
-chickpea | ছোলা |chōlā
-mustard-greens | সরিষা-সবুজ | sariṣā-sabuja
-turmeric | হলুদ | haluda 
-turnip |  শালগম |śālagama
-fenugreek | মেথি |mēthi 
-tamarind | তেঁতুল |tēm̐tula 
-elephant-yam | Elephant Yam
-ashgourd | Ashgourd
-broad-beans |মটরশুটি |maṭaraśuṭi
-snake-gourd |  সাপ-করলা |sāpa-karalā
-banana-flower | কলা-ফুল | kalā-phula
-cluster-beans | Cluster beans
-kohlrabi | Kohlrabi
-spring-onion | বসন্ত-পেঁয়াজ |basanta-pēm̐ẏāja
-banana-stem |  কলা-কান্ড |kalā-kānḍa
-drumstick-leaves | ঝোল পাতা| jhōla pātā
-raw-banana |  কাঁচা কলা |kām̐cā kalā
-tulsi | তুলসী |tulasī
-bottlegourd | লাউ
-ivygourd | Ivygourd
-ridgegourd |ঝিঙ্গে`
+      label: 'আরো সবজি|More Vegetables|Ārō sabaji',
+      text: `pepper |গোলমরিচ |Golmorish
+wheat |গম|Gom
+paddy |ধান|Dhaan
+rice |ভাত|Bhaat
+chickpea |ছোলা|chola
+mustard-greens|সর্ষে শাক|Sorshe Shaak
+turmeric |হলুদ|Holud
+turnip |শালগম|Shalgom
+fenugreek |মেথি|Methi      
+tamarind|তেঁতুল|Tetul
+elephant-yam|ওলকচু|Olkochu	
+ashgourd |চালকুমড়ো	|Chaalkumro	
+broad-beans |মটরশুঁটি|Matorshuti
+snake-gourd | চিচিঙ্গা |Chichinga
+banana-flower|মোচা|Mocha
+cluster-beans |ক্লাস্টার বিন্‌স|Cluster beans
+kohlrabi|ওলকপি|Olkopi
+spring-onion |পেঁয়াজকলি|Peyajkoli
+banana-stem |থোড়|Thor
+drumstick-leaves |সজনে শাক|sojne shaak
+raw-banana |কাঁচকলা|kachkola
+tulsi |তুলসী |tulasi
+bottlegourd |লাউ|Lau
+ivygourd |কুঁদরি|Kudri
+ridgegourd|ঝিঙে|Jhinge`
     }
   ]
 };

@@ -20,7 +20,7 @@ hippo | पाणघोडा | Hippo
 rhino| गेंडा|Gēṇḍā
 fox| कोल्हा|Kōl'hā
 crocodile| मगर|Magara
-zebra| ज्ञेब्रा| Zebra
+zebra| झेब्रा | Zebra
 bear| अस्वल|Asvala
 camel| उंट|Uṇṭa
 shark | शार्क| Shark

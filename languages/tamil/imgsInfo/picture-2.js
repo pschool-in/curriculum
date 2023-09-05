@@ -22,10 +22,10 @@ watermelon |தர்பூசணி
 pomegranate|மாதுளை
 fig|அத்திப்பழம்
 custard-apple|சீதாப்பழம்
-plum|plum
+plum|
 dates|பேரிச்சம்பழம்
 muskmelon|முலாம்பழம்
-Lemon|எலுமிச்சை`
+lemon|எலுமிச்சை`
     },
     {
       id: 'vegetables',
@@ -68,22 +68,21 @@ cashewnut|முந்திரி`
     },
     {
       id: 'cooking',
-    label: 'சமையல் பொருட்கள்',
-    text:
-         `lentils|பருப்பு
-         rice|அரிசி
-         kadalai-paruppu|கடலைபருப்பு
-         malli|கொத்தமல்லி விதை
-         pepper|மிளகு
-         mochai| மொச்சை
-         moong-dhal|பாசிப்பருப்பு
-         pattani|பட்டாணி
-         seeragam|சீரகம்
-         sombu|சோம்பு
-         toor-dhal|துவரம் பருப்பு
-         urad-dhal| உளுத்தம் பருப்பு
-         wheat|கோதுமை
-         paddy|நெல்`
+      label: 'சமையல் பொருட்கள்',
+      text: `lentils|பருப்பு
+rice|அரிசி
+kadalai-paruppu|கடலைபருப்பு
+malli|கொத்தமல்லி விதை
+pepper|மிளகு
+mochai| மொச்சை
+moong-dhal|பாசிப்பருப்பு
+pattani|பட்டாணி
+seeragam|சீரகம்
+sombu|சோம்பு
+toor-dhal|துவரம் பருப்பு
+urad-dhal| உளுத்தம் பருப்பு
+wheat|கோதுமை
+paddy|நெல்`
     }
   ]
 };

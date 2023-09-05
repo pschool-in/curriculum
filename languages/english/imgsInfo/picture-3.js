@@ -14,6 +14,7 @@ rain|Rain
 stone|Stone
 pebbles | Pebbles
 leaf|Leaf 
+grass | Grass
 tree | Tree
 log | Log
 nest |Nest 
@@ -22,6 +23,9 @@ waterfall |Waterfall
 rainbow |Rainbow 
 cloud | Cloud
 lightning | Lightning
+morning | Morning
+night | Night
+flock-birds | Flock
 web | Web
 shell | Shell
 banyan | Banyan Tree
@@ -39,6 +43,7 @@ neemleaf | Neem Leaf`
       label: 'Body Parts',
       text: `ear |Ear
 eye |Eye
+face | Face
 foot |Foot
 hair|Hair
 hand|Hand
@@ -84,7 +89,6 @@ brick | Brick
 rooftile| Roof Tile
 stick | Stick
 ring| Ring
-drums| Drum
 food| Food
 king| King
 queen | Queen
@@ -99,7 +103,12 @@ garden | Garden
 sculpture | Sculpture
 statue | Statue
 clay-lamp | Clay Lamp
-clay-stove | Clay Stove`
+clay-stove | Clay Stove
+one 
+oneself
+pandit
+saint
+stamp | Stamp`
     }
   ]
 };

@@ -9,7 +9,7 @@ export default {
 moon|చంద్రుడు|Chandrudu 
 star|నక్షత్రం|Naksatram
 world|ప్రపంచం|Prapancham
-bird|పక్షి|Pakshi 
+bird|పక్షులు|Pakṣulu 
 rain|వర్షం|Varsam 
 stone|రాయి|Rayi
 pebbles | గులకరాళ్లు|Gulakarallu
@@ -23,7 +23,7 @@ rainbow ఇంద్రధనస్సు|Indradhanassu
 cloud | మేఘం|Megham
 lightning | మెరుపు|Merupu
 web | సాలెగూడు|Salegudu
-shell | షెల్|shell
+shell | శంఖులు |Śaṅkhulu
 banyan | మర్రి చెట్టు|Marri cettu
 bamboo-tree | వెదురు చెట్టు|Veduru cettu
 banana-tree | అరటి చెట్టు|Arati cettu
@@ -44,12 +44,12 @@ hair|జుట్టు |Juttu
 hand|చెయ్యి |Ceyyi
 mouth|నోరు|Noru
 nose| ముక్కు|Mukku
-tooth|పంటి|Panti
+tooth|పళ్లు|Panti
 forehead | నుదిటి|Nuditi
 mustache | మీసం|Misam
 beard | గడ్డం|Gaddam
 ankle | చీలమండ|Cilamanda
-elbow | మోచేతి|Moceti
+elbow | మోచేయి|Moceti
 knee | మోకాలి|Mokali
 shoulder | భుజం|Bhujam
 wrist | మణికట్టు|Manikattu
@@ -73,33 +73,34 @@ zinnia | జిన్నియా|Jinniya`
     {
       id: 'others',
       label: 'ఇతరులు|Itharulu|others',
-      text: `bell | బెల్|Bell
+      text: `bell | గంట |Gaṇṭa
 brush| బ్రష్|Brush
 bone| ఎముక|Emuka
 box | పెట్టె|Pette
 coin | నాణెం|Nanem
-top | టాప్|Top
+top | బొంగరం |Top
 balloon | బెలూన్|Belun
 brick | ఇటుక|Ituka
 rooftile| పైకప్పు టైల్|Paikappu tail
 stick | కర్ర|Karra
-ring| రింగ్|Ring
-drums| డ్రమ్|Drum
+ring| ఉంగరం|Uṅgaraṁ
+drums| ఢంకా|Ḍhaṅkā
 food| ఆహారం|aharam
 king| రాజు|Raju
 queen | రాణి|Rani
 kite| గాలిపటం|Galipatam
 ladder| నిచ్చెన|Niccena
-quill | పిట్ట|Pitta
+quill | ఈక |Īka
 oar | ఓర్|oar
 gun | తుపాకీ|Tupaki
 wheel| చక్రం|Chakram
-park | పార్క్|Park
+park | ఉద్యానవనం |Udyānavanaṁ
 garden | తోట|Tota
 sculpture | శిల్పం|silpam
 statue | విగ్రహం|Vigraham
 clay-lamp | మట్టి దీపం|Matti dipam
-clay-stove | క్లే స్టవ్|clay-stove`
+clay-stove | మట్టి పొయ్యి |Maṭṭi poyyi
+`
     }
   ]
 };

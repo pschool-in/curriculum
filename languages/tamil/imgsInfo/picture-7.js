@@ -14,7 +14,7 @@ jamun |  நாவல் பழம்
 pear | 	பேரிக்காய்
 water-chestnut | 
 jujube | இலந்தைப்பழம்
-sapotta |சப்போட்டா,
+sapotta |சப்போட்டா
 tapioca |மரவள்ளிக்கிழங்கு
 blueberry | 
 wood-apple | விளாம்பழம்

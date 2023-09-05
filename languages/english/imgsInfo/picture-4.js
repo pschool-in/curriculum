@@ -63,7 +63,12 @@ steps | Steps
 curtains | Curtains
 watertank | Water Tank
 air-conditioner | Air Conditioner
-washing-machine | Washing Machine`
+washing-machine | Washing Machine
+flask | Flask
+carpet | Carpet
+doormat | Doormat
+opener | Opener
+walkingstick  | Walking Stick`
     },
     {
       id: 'dress',
@@ -73,6 +78,7 @@ coat | Coat
 shoe | Shoe
 sock | Sock
 boots | Boots
+belt | Belt
 pyjama | Pyjama
 gloves | Gloves
 scarf | Scarf
@@ -80,9 +86,23 @@ sweater | Sweater
 bib | Bib
 shirt | Shirt
 jacket | Jacket
+cap | Cap
 hat | Hat
+uniform | Uniform
+raincoat| Rain coat
+karchief | Karchief
+tie | Tie
+towel | Towel
 trousers | Trousers
-saree | Saree`
+saree | Saree
+hanger | Hanger
+anklet | Anklet
+bangle | Bangle
+chain | Chain
+earring | Ear Ring
+comb | Comb
+mirror | Mirror
+kumkum | Kumkum`
     },
     {
       id: 'school',
@@ -94,6 +114,11 @@ blackboard | Black Board
 chalk | Chalk
 nib | Nib
 eraser|Eraser
+clip | Clip
+glue | Glue
+magnet | Magnet
+stapler | Stapler
+idcard | ID Card
 scissors|Scissors
 sharpener|Sharpener
 calculator| Calculator
@@ -105,7 +130,8 @@ waterbottle| Waterbottle
 color-pencils| Color Pencils
 crayons | Crayons
 notebook | Notebook
-writingpad | Writing Pad`
+writingpad | Writing Pad
+literature`
     },
     {
       id: 'kitchen',

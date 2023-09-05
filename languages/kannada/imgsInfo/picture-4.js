@@ -12,7 +12,7 @@ export default {
     baby |ಮಗು |Magu 
     mother | ತಾಯಿ|Tāyi
     father | ತಂದೆ|Tande
-    grandfather | ಅಜ್ಜ ತಂದೆ|Ajja tande
+    grandfather | ಅಜ್ಜ |Ajja 
     grandma | ಅಜ್ಜಿ|Ajji`
     },
 
@@ -20,137 +20,137 @@ export default {
       id: 'house',
       label: 'ಮನೆ |mane | house',
       text: `house| ಮನೆ |mane
-table|ಟೇಬಲ್ |Tebal
+table|ಮೇಜು |Mēju
 bed|ಹಾಸಿಗೆ |hasige
 mat | ನಕ್ಷೆ|Nakse
-mop | Mop
-mug | ಮಗ್ಗಳು |maggalu
-lock | ಲಾಕ್
-key | ಕೀಲಿ |Kīli
+mop | 
+mug | 
+lock | ಬೀಗ | Bīga
+key | ಕೀಲಿ |Kīli
 net | ಬಲೆ| bale
 rope | ಹಗ್ಗ|Hagga
-teapot |ಟೀಪಾಟ್| Teapot
-fan | ವಿದ್ಯುತ್ ಫ್ಯಾನ್|Vidyut phyān
+teapot | 
+fan | 
 ball | ಚೆಂಡು|Chendu
-teddy | ಟೆಡ್ಡಿ ಬೇರ್|teddi bear
+teddy |
 jug | ಜಗ್|Jug
 lightbulb |ಬಲ್ಬ್| Bulb
 candle|ಮೋಂಬತ್ತಿ |mombatti
 chair|ಕುರ್ಚಿ |Kurci
-shelf|ಶೆಲ್ಫ್|Shelf
-switchboard| ಸ್ವಿಚ್ಬೋರ್ಡ್|Switchboard
+shelf|
+switchboard| 
 glasses|ಕನ್ನಡಕ |Kannadaka
 clock | ಗಡಿಯಾರ | Gadiyara
 watch | ಕೈಗಡಿಯಾರ |Kaigadiyara
 flower-pot | ಹೂ ಕುಂಡ | Hukunda
 umbrella | ಛತ್ರಿ | Chatri
 door | ಬಾಗಿಲು | Bagilu
-broom | ಬ್ರೂಮ್ |Broom
+broom | ಪೊರಕೆ |Porake
 window | ಕಿಟಕಿ |  Kitaki
-sofa | ಸೋಫಾ |Sofa
-kettle | ಕೆಟಲ್|Kettle
-bucket | ಬಕೆಟ್ |Bucket
+sofa | 
+kettle | 
+bucket |
 toilet | ಶೌಚಾಲಯ |sauchalaya
 soap | ಸಾಬೂನು |Sabunu
-helmet | ಹೆಲ್ಮೆಟ್|Helmet
+helmet | 
 backpack | ಬೆನ್ನುಹೊರೆಯ |Bennuhoreya
 pillow | ದಿಂಬು |dhimbu
 basket | ಬುಟ್ಟಿ||Butti
 dustbin | ಕಸದ ತೊಟ್ಟಿ |Kasada totti
-bed-lamp | ಬೆಡ್ ಲ್ಯಾಂಪ್ |Bed Liamp
+bed-lamp | 
 handbag | ಕೈಚೀಲ | Kaicila
 steps | ಮೆಟ್ಟಿಲುಗಳು|Mettilugalu
-curtains |ಕರ್ಟೈನ್ಸ್| Curtains
-watertank | ನೀರಿನ ಟ್ಯಾಂಕ್|Nirina tyank
-air-conditioner | ಹವಾ ನಿಯಂತ್ರಣ ಯಂತ್ರ| Hava niyantrana yantra
-washing-machine | ಬಟ್ಟೆ ಒಗೆಯುವ ಯಂತ್ರ |Batte ogeyuva yantra`
+curtains |
+watertank |
+air-conditioner | 
+washing-machine |`
     },
     {
       id: 'dress',
       label: 'ಉಡುಗೆ |Uduge | dress',
       text: `dress | ಉಡುಗೆ |Uduge
-coat | ಕೋಟ್|kot
-shoe | ಶೂ |shoe
-sock | ಸಾಕ್ಸ್ |Sock
+coat | 
+shoe | ಪಾದರಕ್ಷೆ |Pādarakṣe
+sock | ಕಾಲು ಚೀಲ  |Kālu cīla
 boots | ಬೂಟುಗಳು |Butugalu
 pyjama | ಪೈಜಾಮ| Pyjama
-gloves | ಕೈಗವಸುಗಳು | Gloves
-scarf | ಸ್ಕಾರ್ಫ್ |Scarf
-sweater | ಸ್ವೆಟರ್ |Sweater
-bib | ಬಿಬ್ |Bib
+gloves | ಕೈಗವಸುಗಳು | Kaigavasugaḷu   
+scarf | 
+sweater | 
+bib | 
 shirt | ಅಂಗಿ |Angi
-jacket | ಜಾಕೆಟ್ |Jacket
+jacket | ಕವಚ |Kavaca
 hat | ಟೋಪಿ | topi
-trousers | ಪ್ಯಾಂಟ್ |pyant
+trousers |
 saree | ಸೀರೆ|Sire`
     },
     {
       id: 'school',
       label: 'ಶಾಲೆ | Śāle | School',
-      text: `pen |ಪೆನ್ |Pen
-pencil| ಪೆನ್ಸಿಲ್|Pencil
+      text: `pen |ಲೇಖನಿ |Lēkhani
+pencil| ಸೀಸದ ಕಡ್ಡಿ |Sīsada kaḍḍi
 ruler|ತಕ್ಕಡಿ |takkadi
 blackboard | ಕಪ್ಪು ಹಲಗೆ|Kappu halage
 chalk | ಸೀಮೆಸುಣ್ಣ|Simesunna
-nib | ಪೆನ್ ನಿಬ್|Pen nib
-eraser|ಎರೇಸರ್|Eraser
+nib |
+eraser|
 scissors|ಕತ್ತರಿ |Kattari
-sharpener|ಶಾರ್ಪ್ನರ್ |Sharpener
-calculator| ಕ್ಯಾಲ್ಕುಲೇಟರ್ |Calculator
+sharpener|
+calculator|
 book| ಪುಸ್ತಕ |Pustaka
 ink | ಶಾಯಿ |sayi
-globe | ಗ್ಲೋಬ್|Globe
+globe | 
 schoolbag| ಶಾಲಾ ಚೀಲ |sala cila
 waterbottle| ನೀರಿನ ಶೀಶೆ | Nirina sise
 color-pencils| ಬಣ್ಣದ ಪೆನ್ಸಿಲ್ಗಳು |Bannada pensilgalu
-crayons |ಕ್ರಯೋನ್ಗಳು | Krayongalu
-notebook |ನೋಟ್ಬುಕ್|Notbuk
-writingpad | ಬರೆಯುವ ಒತ್ತಿಗೆ|Bareyuva ottige`
+crayons |
+notebook |
+writingpad | `
     },
     {
       id: 'kitchen',
       label: 'ಅಡುಗೆಮನೆ | Aḍugemane | Kitchen',
       text: `stove |ಒಲೆ | Ole
-fork|ಫೋರ್ಕ್ |Fork
+fork|
 knife|ಚಾಕು |chaku
-pan|ಪ್ಯಾನ್ |Pyan
+pan|
 spoon|ಚಮಚ |Chamacha
 pot|ಮಡಕೆ |madake
 butter|ಬೆಣ್ಣೆ|Benne
 plate |ತಟ್ಟೆ | Tatte
-tap | ಟ್ಯಾಪ್ ಮಾಡಿ| tyap māḍi
-lid | ಮುಚ್ಚಳ |Mucchala
-blender | ಬ್ಲೆಂಡರ್ | Blender
-grinder | ಗ್ರೈಂಡರ್|Grinder
+tap | ಕೊಳಾಯಿ | Koḷāyi
+lid | ಮುಚ್ಚಳ |Muccaḷa
+blender | 
+grinder |
 cheese | ಗಿಣ್ಣು |ginnu
-fridge | ಫ್ರಿಜ್ |Fridge
-lollipop | Lollipop
-salad | ಸಲಾಡ್ |Salaad
+fridge |
+lollipop |
+salad | 
 sugar | ಸಕ್ಕರೆ|Sakkare
-bowl | ಬೌಲ್| Bowl
-chicken | ಚಿಕನ್ |Chickan
+bowl |
+chicken |
 milk|ಹಾಲು |halu
 fruits|ಹಣ್ಣುಗಳು|hannugalu 
-ice-cream |Ice cream
+ice-cream |
 meat | ಮಾಂಸ |Mansa
 egg | ಮೊಟ್ಟೆ|Motte
 salt | ಉಪ್ಪು |Uppu
-french-fry | French Fry
+french-fry |
 soft-drink |ತಂಪು ಪಾನೀಯ|Tampu paniya
-pizza | ಪಿಜ್ಜಾ|Pizza
+pizza |
 sweets | ಸಿಹಿತಿಂಡಿಗಳು | Sihitindigalu
-bread | ಬ್ರೆಡ್ |Bread
+bread | 
 cup | ಬಟ್ಟಲು | Battalu
-ladle | Ladle
-juice | ಜ್ಯೂಸ್ |Jyus
+ladle | ಸೌಟು | Sauṭu
+juice | ರಸ |Rasa
 mushroom | ಅಣಬೆ |Anabe
-sandwich | ಸ್ಯಾಂಡ್ವಿಚ್| Syandwich
-cake | ಕೇಕ್ |Cake
-burger | ಬರ್ಗರ್|Burger
+sandwich |
+cake | 
+burger |
 flour |ಹಿಟ್ಟು |hittu
-lentils | ಮಸೂರ| Masura
+lentils |
 rice | ಅಕ್ಕಿ |akki
-soup | ಸೂಪ್| Soup`
+soup | `
     }
   ]
 };

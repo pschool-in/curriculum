@@ -23,9 +23,9 @@ crocodile| ಮೊಸಳೆ | mosale
 zebra| ಹೇಸರಗತ್ತೆ | hesaragatte
 bear| 	ಕರಡಿ | karadi
 camel| ಒಂಟೆ | onte
-shark| ಶಾರ್ಕ್ |Shark
+shark| 
 whale| ತಿಮಿಂಗಿಲ |Timingila
-dolphin| ಡಾಲ್ಫಿನ್ |Dolphin
+dolphin|
 
 tiger| ಹುಲಿ |huli
 sheep| 	ಕುರಿ | kuri
@@ -42,10 +42,10 @@ bat| ಬಾವಲಿ |Bavali
 buffalo| 	ಎಮ್ಮೆ | emme
 butterfly| ಚಿಟ್ಟೆ |Citte
 cheetah| ಚಿರತೆ |Cirate
-bee | ಜೇನು ನೊಣ |Jenunona
-goldfish | ಗೋಲ್ಡಫಿಷ್ |Goldafish
-spider | ಜೇಡ |Jeda
-panda | ಪಾಂಡಾ |Panda
+bee | ಜೇನುನೊಣ |Jenunona
+goldfish |
+spider | 
+panda |
 giraffe| ಜಿರಾಫೆ | Jiraphe
 kangaroo| ಕಾಂಗರೂ |Kangaroo`
     },
@@ -58,8 +58,8 @@ duck|ಬಾತುಕೋಳಿ | batukoli
 hen|ಕೋಳಿ | koli
 chick| ಮರಿಯನ್ನು |Mariyannu
 parrot|ಗಿಣಿ | gini
-peacock|ನವಿಲು | navilu
-penguin|ಪೆಂಗ್ವಿನ್ |Pengvin
+peacock|ನವಿಲು | navilu 
+penguin|
 sparrow|ಗುಬ್ಬಚ್ಚಿ |gubbacci
 crane| 	ಕೊಕ್ಕರೆ |kokkare
 
@@ -69,7 +69,7 @@ kingfisher| 	ಮಿಂಚುಳ್ಳಿ | minculli
 myna| 	ಗೊರವಂಕ | goravanka
 ostrich| ಉಷ್ಟ್ರಪಕ್ಷಿ | ustrapaksi
 owl| ಗೂಬೆ | gube
-rooster| ರೂಸ್ಟರ್ |rooster
+rooster| ಹುಂಜ |Hun̄ja
 vulture| ರಣಹದ್ದು | ranahaddu
 woodpecker| ಮರಕುಟಿಗ | marakutiga
 koel | ಕೋಯಲ್| Koyal`
