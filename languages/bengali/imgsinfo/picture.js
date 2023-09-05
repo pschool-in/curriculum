@@ -1,78 +1,78 @@
 export default {
   id: 'picture',
-  label: 'পশু এবং পাখি|Animals and Birds',
+  label: 'পশু এবং পাখি|Animals and Birds|Paśu ēbaṁ pākhi',
   list: [
     {
       id: 'animals',
-      label: 'পশু |Animals',
-      text: `cat | বিড়াল
-dog | কুকুর
-goat| ছাগল
-cow| গোরু
-donkey| গাধা
-horse| ঘোড়া
-pig| শূকর
-elephant| হাতি
-lion | সিংহ
-monkey| বাঁদর
+      label: 'পশু |Animals|Paśu',
+      text: `cat | বিড়াল | Biral
+dog | কুকুর| Kukur 
+goat| ছাগল| Chhagol
+cow| গোরু| Goru
+donkey| গাধা| gaadha
+horse| ঘোড়া| Ghora
+pig| শূকর | Shukor
+elephant| হাতি | Hati
+lion | সিংহ|Sinha
+monkey| বাঁদর | BaNdor
 
-hippo| জলহস্তী
-rhino| গণ্ডার
-fox| শিয়াল
-crocodile| কুমির
-zebra| জেব্রা
-bear| ভালুক
-camel| উট
-shark| হাঙ্গর
-whale| তিমি মাছ
-dolphin| শুশুক
+hippo| জলহস্তী | Jalohosti
+rhino| গণ্ডার | Gondar
+fox| শিয়াল | Shiyal
+crocodile| কুমির | Kumir
+zebra| জেব্রা|জেব্রা
+bear| ভালুক | Bhaluk
+camel| উট | Oot
+shark| হাঙর | HaNgor 
+whale| তিমি মাছ | Timi Machh
+dolphin| শুশুক | Shushuk
 
-tiger| বাঘ
-sheep| ভেড়া
-fish| মাছ
-frog| ব্যাঙ
-crab| কাঁকড়া
-snake| সাপ
-bull | ষাঁড়
-tortoise|  কচ্ছপ
-rat| ইঁদুর
-ant| পিঁপড়ে
+tiger| বাঘ | Bagh
+sheep| ভেড়া | Bhera 
+fish| মাছ | Machh
+frog| ব্যাঙ | ByaNg
+crab| কাঁকড়া|Kakra
+snake| সাপ|Saap 
+bull | ষাঁড় | Saar
+tortoise| কচ্ছপ | Kochchhop
+rat| ইঁদুর | Idur
+ant| পিঁপড়ে | Pipre
 
-bat| বাদুড়
-buffalo| মোষ
-butterfly| প্রজাপতি
-cheetah| চিতাবাঘ
-bee | মৌমাছি
-goldfish |
-spider | মাকড়সা
-panda | 
-giraffe| 
-kangaroo| `
+bat| বাদুড় | Badur
+buffalo| মোষ | Mosh
+butterfly| প্রজাপতি | Projapoti
+cheetah| চিতাবাঘ | Chitabagh
+bee | মৌমাছি | Moumachhi
+goldfish |মৌমাছি | Moumachhi
+spider | মাকড়সা | Makorsha
+panda | পাণ্ডা । Panda
+giraffe| জিরাফ । Jiraf 
+kangaroo||ক্যাঙারু|Kangaroo `
     },
     {
       id: 'birds',
-      label: 'পাখি|Birds',
-      text: `crow|কাক
-dove|পায়রা
-duck|হাঁস 
-hen|মুরগি
-chick| মুরগিছানা
-parrot|টিয়া পাখি
-peacock|ময়ূর
-penguin|পেঙ্গুইন
-sparrow|চড়ুই
-crane| সারস পাখি
+      label: 'পাখি|Birds|Pakhi',
+      text: `crow|কাক| Kaak
+dove|পায়রা| Payra
+duck|হাঁস| Haas
+hen|মুরগি| Murgi
+chick| মুরগি ছানা| Murgi Chhana
+parrot|টিয়া |Tiya
+peacock|ময়ূর| Moyur
+penguin|পেঙ্গুইন| 
+sparrow|চড়ুই| Chorui
+crane| সারস| Saros
 
-eagle|
-flamingo| 
-kingfisher| মাছরাঙ্গা
-myna| মায়না
-ostrich| উটপাখি
-owl| পেঁচা
-rooster| মোরগ
-vulture| শকুন
-woodpecker| কাঠঠোকরা
-koel | `
+eagle|ঈগল| igol
+flamingo| ফ্লেমিংগো|Flamingo
+kingfisher| মাছরাঙা| MachhraNga
+myna| ।শালিক| Shalik
+ostrich|উটপাখি| Utpakhi
+owl| পেঁচা| PeNcha
+rooster| মোরগ| Morog
+vulture| শকুন| Shokun
+woodpecker| কাঠঠোকরা| Kaththokra
+koel |কোকিল। Kokil `
     }
   ]
 };
