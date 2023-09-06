@@ -5,8 +5,8 @@ export default {
     {
       id: 'fruits-2',
       label: 'अधिक फळे |More Fruits ',
-      text: `star-fruit | तारा फळ | Tārā phaḷa
-dragon-fruit | ड्रॅगन फळ | Ḍrĕgana phaḷa
+      text: `star-fruit | 
+dragon-fruit |
 sugarcane | ऊस|Ūsa
 peach | जांभूळ|Jāmbhūḷa
 sweet-potato | रताळे|Ratāḷē

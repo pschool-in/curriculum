@@ -37,7 +37,7 @@ lightbulb | विजेचा दिवा | Vijēcā divā
 candle|मेणबत्ती|Mēṇabattī
 chair|खुर्ची|Khurcī
 shelf | फडताळ | Phaḍatāḷa
-switchboard| विजेचा खटका| विजेचा खटका
+switchboard|
 coat| कोट | Kōṭa
 glasses|चष्मा|Caṣmā
 clock | घड्याळ|Ghaḍyāḷa
@@ -136,7 +136,7 @@ ice-cream | Ice cream
 meat | मांस|Mānsa
 
 salt | मीठ|Mīṭha
-french-fry | फ्रेंच फ्राय | Phrēn̄ca phrāya
+french-fry | 
 soft-drink | हलकं पेय|Halakaṁ pēya
 pizza | पिझ्झा | Pijhjhā
 sweets | मिठाई|Miṭhā'ī
