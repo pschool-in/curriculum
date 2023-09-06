@@ -27,7 +27,7 @@ flower-pot|गमला
 watch|घड़ी	
 boy|लड़का	
 wheel|चक्का	
-umbrela|छतरी	
+umbrella|छतरी	
 ship|जहाज	
 flag|झंडा	
 tomato|टमाटर	
