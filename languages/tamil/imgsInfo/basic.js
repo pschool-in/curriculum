@@ -1,12 +1,11 @@
 export default {
-    id: 'picture-12',
-    label: 'எழுத்தும் படமும்',
-    list: [
-      {
-        id: 'vowels',
-        label: 'உயிர் எழுத்துக்கள் ',
-        text: `
-        mother|அம்மா
+  id: 'ta-basic',
+  label: 'எழுத்தும் படமும்',
+  list: [
+    {
+      id: 'vowels',
+      label: 'உயிர் எழுத்துக்கள் ',
+      text: `mother|அம்மா
         goat|ஆடு
         leaf|இலை
         fly|ஈ
@@ -18,12 +17,11 @@ export default {
         camel| ஒட்டகம்
         rooftile|ஓடு
         auvai|ஔவை`
-      },
-      {
-        id: 'consonants',
-        label: 'மெய் எழுத்துக்கள்',
-        text: 
-        `wheel|சக்கரம்
+    },
+    {
+      id: 'consonants',
+      label: 'மெய் எழுத்துக்கள்',
+      text: `wheel|சக்கரம்
         conch|சங்கு
         stick|குச்சி
          ginger|இஞ்சி
@@ -41,13 +39,11 @@ export default {
          cucumber|வெள்ளரிக்காய்
          chair|நாற்காலி
          fish|மீன்`
-      },
-      {
-        id: 'consonants1',
-        label: 'உயிர் மெய் எழுத்துக்கள்',
-        text: 
-        `
-        donkey|  கழுதை
+    },
+    {
+      id: 'consonants1',
+      label: 'உயிர் மெய் எழுத்துக்கள்',
+      text: `donkey|  கழுதை
          ங|
          salangai|சலங்கை
          ஞ|
@@ -65,7 +61,6 @@ export default {
          corn|சோளம்
          bird|பறவை 
          rainbow|வானவில்`
-      }
-    ]
-  };
-  
+    }
+  ]
+};

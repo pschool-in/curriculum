@@ -59,14 +59,14 @@ milkman | दूधवाला|Dūdhavālā
 shopkeeper | दुकानदार|Dukānadāra
 businessman | उद्योगपती|Udyōgapatī
 cashier | रोखपाल|Rōkhapāla
-electrician | Electrician
+electrician 
 farmer | शेतकरी|Śētakarī
 mechanic | यंत्रज्ञ | Yantrajña
 pilot | वैमानिक| Vaimānika
 plumber | नळ जोडारी| Naḷa jōḍaṇī
 scientist |शास्त्रज्ञ|Śāstrajña
 seller | विक्रेता|Vikrētā
-software-developer | सॉफ्टवेअर विकसक | Sŏphṭavē'ara vikasaka`
+software-developer `
     }
   ]
 };

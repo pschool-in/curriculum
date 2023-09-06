@@ -6,7 +6,7 @@ export default {
       id: 'tools',
       label: 'नोकरीसाठी साधने|Tools for Job',
       text: `geometrybox | भूमिती पेटी | Bhūmitī pēṭī
-compass2 |
+compass2 | 
 divider | दुभाजक|dubhājaka
 protractor | संरक्षक|sanrakṣaka
 screw | खिळा | Khiḷā

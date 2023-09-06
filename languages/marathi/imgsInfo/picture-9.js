@@ -9,8 +9,8 @@ export default {
 headphone|हेडफोन| Hēḍaphōna
 pendrive|स्मृतीशलाक़ा| Smr̥tīśalāqā
 remote|दूरस्थ | Dūrastha
-smartphone| बहुउपयोगी भ्रमणध्वनी|Bahu'upayōgī bhramaṇadhvanī
-speaker| ध्वनिप्रक्षेपक यंत्र | Dhvaniprakṣēpaka yantra
+smartphone| 
+speaker|
 tablet|टॅब्लेट | Ṭĕblēṭa
 torch|दिवटी| Divaṭī
 web-camera |
