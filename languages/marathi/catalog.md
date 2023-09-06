@@ -109,6 +109,11 @@ Numbers (अंक)
 
 Poems (कविता)
 -10 Marathi Poems
+-10 Marathi Rhymes
+
+## mr-passage
+
+-4 reading passages with mcq activity
 
 ## mr-proverb
 
@@ -165,6 +170,8 @@ Sentences (वाक्य)
 -Match words to form sentence activity
 -Connect words to form sentence activity
 -Translate English sentences to Marathi activity
+-Match up activity on idioms
+-mcq activity on idioms
 
 ## mr-tense
 
@@ -201,7 +208,7 @@ Words (शब्द)
 -mcq Antonyms
 -Complete the word by reading the hint
 
-## mr-word-practice
+## mr-word-3
 
 Word Practice (शब्दांचा सराव)
 -Word forming activity (2 Letter Words) – Practice
@@ -210,6 +217,12 @@ Word Practice (शब्दांचा सराव)
 -Word forming activity (3 Letter Words) – More Practice
 -Match up on activity on Synonyms
 -Match up activity on Antonyms
+-Reading passage on prefixes
+-Match up activity on prefix words
+-Fix puzzle activity on prefix words
+-Reading passage on suffixes
+-Match up activity on suffix words
+-Classify prefix and suffix words
 
 ## mr-wordsearch
 
