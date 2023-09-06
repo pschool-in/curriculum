@@ -67,7 +67,7 @@ sunflower | സൂര്യകാന്തി|suryakaanthi
 marigold | ജമന്തി|jamanthi
 hibiscus | ചെമ്പരുത്തി|chembaruthi
 jasmine | മുല്ലപ്പൂ|mullappoo
-tulip | Tulip
+tulip |
 zinnia | സിന്നിയ|sinniya`
     },
     {

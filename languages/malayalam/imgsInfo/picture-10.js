@@ -15,12 +15,12 @@ ocean | സമുദ്രം|samudram
 polar | ധ്രുവം|dhruvam
 valley | താഴ്വര|thaazhvazaha
 volcano | അഗ്നിപർവ്വതം|agniparvatham
-apartment | Apartment
+apartment | 
 bamboo-house | മുള വീട്|mula veedu
 hut | കുടിൽ|kudil
-igloo | Igloo
+igloo | 
 tent-house | കൂടാരം |koodaram
-tree-house | Tree House
+tree-house |
 road | റോഡ്|road
 railway |റയില്‍വഴി|rail vazhi
 well | കിണര്‍|kinar
@@ -37,13 +37,13 @@ lighthouse | വിളക്കുമാടം|vilakkumaadam
 map | ഭൂപടം |bhoopadam
 office | ഓഫീസ്|oofise
 palace | കൊട്ടാരം|kottaram
-parkinglot | Parking Lot
+parkinglot | 
 restaurant | ഭക്ഷണശാല|bhakshanashaala
 stage | തിയേറ്റർ|theater
-supermarket | Super Market
-escalator | Escalator
-lift | Lift
-petrolbunk | Petrol Bunk
+supermarket | 
+escalator | 
+lift |
+petrolbunk | 
 footpath | കാൽനട പാത|kaal nadapaatha
 pillar | തൂണ്|thoon`
     },
@@ -60,20 +60,20 @@ kidney|വൃക്ക|vrikha`
     {
       id: 'teeth',
       label: 'പല്ലുകൾ|teeth',
-      text: `incisor | Incisor
-canine | Canine
-premolar | Premolar
+      text: `incisor | 
+canine | 
+premolar | 
 molar | അണപ്പല്ല്‌`
     },
     {
       id: 'science',
       label: 'ശാസ്ത്രം|science',
       text: `windmill | കാറ്റാടിയന്ത്രം
-solar-panel | Solar Panel
+solar-panel | 
 bridge | പാലം
 dam | അണക്കെട്ട്
-water-tower | Water Tower
-electricpole | Electric Pole`
+water-tower | 
+electricpole | `
     }
   ]
 };

@@ -53,7 +53,7 @@ bucket | बादली|Bādalī
 toilet | शौचालय|Śaucālaya
 soap | साबण|Sābaṇa
 helmet | शिरस्त्राण|Śirastrāṇa
-backpack | Backpack |
+backpack |
 pillow | उशी| Uśī
 basket | टोपली|Ṭōpalī
 dustbin |कचराकुंडी| Kacarākuṇḍī
@@ -76,7 +76,7 @@ boots |
 pyjama | पायजमा | Pyjama
 gloves | हातमोजा|Hātamōjā
 scarf | मफलर | Maphalara
-sweater | Sweater
+sweater | 
 bib |लाळेरे | Lāḷērē
 shirt | सदरा | Sadarā
 jacket | जाकीट | Jākīṭa

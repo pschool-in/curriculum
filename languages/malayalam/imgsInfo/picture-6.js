@@ -34,41 +34,41 @@ python | പെരുമ്പാമ്പ് |perum paamb
 bison | കാട്ടുപോത്ത്|kattu poth
 chameleon | ഓന്ത്|onth
 porcupine |മുള്ളൻപന്നി|mullan panni
-tigerfish | Tigerfish
-ladybug | Ladybug
+tigerfish | 
+ladybug | 
 seahorse | കടൽക്കുതിര|kadal kuthira
-hamster | Hamster
+hamster | 
 mole | പെരുച്ചാഴി|perumchari
 caterpillar | ചിതശലഭപ്പുഴു|chithrashalaba puzhu
 earthworm | മണ്ണിര|mannira
-hedgehog | Hedgehog
-stingray | Stingray
-jellyfish | Jellyfish
+hedgehog | 
+stingray | 
+jellyfish | 
 starfish | നക്ഷത്രമത്സ്യം| nakshatra malsyam`
     },
     {
       id: 'birds-2',
       label: 'കൂടുതൽ പക്ഷികൾ|More Birds',
       text: `hornbill | വേഴാമ്പൽ|vezhambal
-cuckoo | Cuckoo
+cuckoo | 
 pheasant | കൊറ്റി|kotti
-falcon | Falcon
+falcon | 
 swan | ഹംസം|hamsam
-bulbul | Bulbul
+bulbul |
 spotted-dove | പുള്ളിപ്രാവ്|pulli pravu
 pelican | ഞാറപ്പക്ഷി|njarapakshi
-hummingbird | Hummingbird
+hummingbird | 
 robin | വണ്ണാത്തിക്കിളി|vannathikili
 swallow | നാരാണപ്പക്ഷി|narannapakshi
-blue-jay | Blue jay
+blue-jay | 
 seagull | കടൽകാക്ക|kadal kaakka
-canary | Canary
+canary | 
 goose | വാത്ത്|vaath
 turkey | തുര്‍ക്കിക്കോഴി|thurki kozhi
-hawk | Hawk
-cardinal | Cardinal
-parakeet | Parakeet
-macaw | Macaw`
+hawk | 
+cardinal | 
+parakeet | 
+macaw | `
     }
   ]
 };

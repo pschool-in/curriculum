@@ -5,8 +5,8 @@ export default {
     {
       id: 'tools',
       label: 'ജോലിക്കുള്ള ഉപകരണങ്ങൾ|tools',
-      text: `geometrybox | Geometry Box
-compass2 | compass
+      text: `geometrybox | 
+compass2 | 
 divider | വിഭേദനി|vibhedhani
 protractor | കോണമാപി|konamaapi
 screw | പിരിയാണി|piriyani
@@ -15,11 +15,11 @@ spanner | സ്പാനര്‍|spanner
 axe | കോടാലി|kodalli
 balance | തുലാസ്‌|thulas
 blackboard |blackboard
-hose | Hose
+hose | 
 microscope | സൂക്ഷ്‌മദര്‍ശിനി|sookshmadarshini
 needle | സൂചി|sooji
 syringe | സിറിഞ്ച്‌|sirinj
-oven | Oven
+oven | 
 plier | ചവണ|chavana
 plough | കലപ്പ|kalappa
 saw | അറക്കവാള്‍|arakkavaal
@@ -33,8 +33,8 @@ walkie-talkie|Walkie talkie
 awl | തോലുളി|tholuli
 compass | വടക്കുനോക്കി യന്ത്രം|vadakkunoki yantram
 easel | ചിത്രപീഠം|chitrapeedam
-hacksaw | Hacksaw
-scalpel | Scalpel`
+hacksaw | 
+scalpel |`
     },
     {
       id: 'instuments',
@@ -42,12 +42,12 @@ scalpel | Scalpel`
       text: `violin | വയലിന്‍|vialin
 flute | ഓടക്കുഴൽ |oodakuzhal
 guitar | ഗിത്താര്‍|guithar
-xylophone | Xylophone
+xylophone | 
 piano | പിയാനോ|piano
 veenai | വീണ|veena
-saxophone | Saxophone
+saxophone | 
 tabla | തബല|thabala
-trumpet | Trumpet`
+trumpet | `
     }
   ]
 };

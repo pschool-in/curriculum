@@ -16,7 +16,7 @@ elephant| ആന|aana
 lion | സിംഹം|simham
 monkey| കുരങ്ങൻ|kurangan
 
-hippo| Hippo
+hippo| 
 rhino| കാണ്ടാമൃഗം|kaandaamrgam
 fox| കുറുക്കൻ|kurukkan
 crocodile| മുതല|muthala
@@ -45,7 +45,7 @@ cheetah| ചീറ്റ|cheetta
 bee | തേനീച്ച|theneecha
 goldfish | സ്വർണ്ണമത്സ്യം|svarnnamalsyam
 spider | ചിലന്തി|chilanthi
-panda | Panda
+panda | 
 giraffe| ജിറാഫ്|giraffe
 kangaroo| കംഗാരു|kamgaaru`
     },
