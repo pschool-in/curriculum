@@ -170,11 +170,11 @@ Complete the Story based on tenses `
       id: 'mr-reading',
       text: `20 Marathi Fables`
     },
-    /*{
-label: 'Unseen Passage',
-id: 'mr-passage',
-text: `4 reading passages with mcq activity`
-},*/
+    {
+      label: 'Unseen Passage',
+      id: 'mr-passage',
+      text: `4 reading passages with mcq activity`
+    },
     {
       label: 'Science (विज्ञान)',
       id: 'mr-science',
