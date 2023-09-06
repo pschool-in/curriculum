@@ -18,20 +18,20 @@ dance | ന്യത്തം ചെയ്യുക|nirtham cheyyuka
 running | ഓടുക|ooduka
 walking | നടക്കുക|nadakkuka
 sit | ഇരിക്കുക|izhikuka
-party | Party
-skipping | Skip
+party | 
+skipping | 
 catch | പിടിക്കുക|pidikuka
-pass | Pass
+pass | 
 swim | നീന്തുക|neethuka
 swing | ഊഞ്ഞാലാടുക|oonjaladuka
 throw | എറിയുക|eriyuka
 carry | എടുത്തുകൊണ്ടു പോകുക|eduthukond pokuka
 lifting | പൊക്കുക|pokkuka
-mopping | Moping
+mopping | 
 riding | സവാരിചെയ്യുക|savari cheyyuka
 sweep | തൂത്തുവാരുക|thootuvaazhuka
 cough | ചുമയ്ക്കുക|chumaykuka
-sick | Sick
+sick | 
 sneeze | തുമ്മുക|thummuka
 yawn | കോട്ടുവായിടുക|kotvayiduka
 sleep | ഉറങ്ങുക|uranguka`
@@ -40,10 +40,10 @@ sleep | ഉറങ്ങുക|uranguka`
       id: 'sports',
       label: 'കായികമല്‍സരങ്ങള്‍|sports',
       text: `bat2 | ബാറ്റ്‌|baat
-racket | Racket
-seesaw | Seesaw
-slide | Slide
-carrom | Carrom
+racket | 
+seesaw | 
+slide |
+carrom | 
 chess | ചതുരംഗം|chathurangam
 cricket2 | ക്രിക്കറ്റുകളി|cricket kali
 tennis | ടെന്നീസ്‌ കളി|tennis kali
@@ -51,16 +51,16 @@ football | കാല്‍പ്പന്തുകളി|kaalpanthkali
 hockey | ഹോക്കി|hockey
 kabaddi | കബഡി|kabadi
 archery | അമ്പെയ്ത്ത്|ambeyth
-basketball | Basket ball
-boxing | Boxing
-table-tennis | table-tennis
-golf | Golf
+basketball | 
+boxing | 
+table-tennis | 
+golf | 
 wrestling | ഗുസ്തി |gusthi
-karate | Karate
-surfing | Surfing
-jockey | Jockey
-track | Track
-bandage | Bandage
+karate | 
+surfing | 
+jockey | 
+track | 
+bandage | 
 danger | ആപത്ത്‌|aapath`
     }
   ]

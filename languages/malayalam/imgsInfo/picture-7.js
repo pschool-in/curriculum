@@ -10,14 +10,14 @@ dragon-fruit | Dragon fruit
 sugarcane | കരിമ്പ്|karimb
 peach | പീച്ച്|peech
 sweet-potato | മധുരക്കിഴങ്ങ്|madura kizhang
-jamun | Jamun
+jamun | 
 pear | സബര്ജില്ലി|sabarjalli
 water-chestnut | Water chestnut
 jujube | ജുജുബ്|jujub
 sapotta | സപ്പോട്ട|sapotta
 tapioca | മരച്ചീനി|maracheeni
-blueberry | Blueberry
-wood-apple | Wood Apple
+blueberry | 
+wood-apple | 
 gooseberry |നെല്ലിക്ക|nellika
 passion-fruit | പാഷൻ ഫ്രൂട്ട്| passion fruit`
     },
@@ -29,7 +29,7 @@ wheat | ഗോതമ്പ്|gothamb
 paddy | നെല്ല്|nell
 rice | അരി|azhi
 chickpea | കടല|kadala
-mustard-greens | Mustard greens
+mustard-greens | 
 turmeric | മഞ്ഞൾ|manjal
 turnip | മധുരമുള്ളങ്കി|maduramullangi
 fenugreek | ഉലുവ|uluva
@@ -40,8 +40,8 @@ broad-beans | വാളരി പയർ|vaalari payar
 snake-gourd | പടവളങ്ങ|padavalanga
 banana-flower | വാഴപ്പൂവ്|vaazhapoov
 cluster-beans |അമര |amara
-kohlrabi | Kohlrabi
-spring-onion | Spring onion
+kohlrabi | 
+spring-onion | 
 banana-stem | വാഴത്തണ്ട്|vaazhathand
 drumstick-leaves | മുരിങ്ങയില|muringa ila
 raw-banana | പച്ച കായ്|pacha kaay

@@ -22,8 +22,8 @@ grandma | മുത്തശ്ശി|muthashi`
 table|മേശ|mesha
 bed|കിടക്ക|kidakka
 mat | പായ|paay
-mop | Mop
-mug | Mug
+mop | 
+mug | 
 lock | താഴ്|thazh
 key | താക്കോൽ|thakol
 net | വല|vala
@@ -37,11 +37,11 @@ lightbulb | ബൾബ്|balb
 candle|മെഴുകുതിരി|mezhukuthiri
 chair|കസേര|kasera
 shelf|അലമാരി|almari
-switchboard| Switchboard
+switchboard| 
 coat|ആവരണം|aavaranam
 glasses|കണ്ണട|kannada
 clock | ഘടികാരം|khadigaaram
-watch | Watch
+watch | 
 flower-pot | പൂച്ചട്ടി|poochatti
 umbrella | കുട| kuda
 door | വാതിൽ|vaathil
@@ -51,17 +51,17 @@ sofa | സോഫ|sofa
 bucket | തൊട്ടി|thotti
 toilet | കക്കൂസ്|kakkoosu
 soap | സോപ്പ്|soppu
-helmet | Helmet
-backpack | Backpack
+helmet | 
+backpack | 
 pillow | തലയണ|thalayana
 basket | കൊട്ട|kotta
 dustbin | ചവറ്റുകൊട്ട|chavattukotta
-bed-lamp | Bed Lamp
+bed-lamp | 
 handbag | കൈസഞ്ചി|kaisanji
 steps | പടി|padi
 curtains |തിരശ്ശീല|thirasheela
 watertank | ജലസംഭരണി|jalasambharani
-air-conditioner | Air Conditioner
+air-conditioner |
 washing-machine | അലക്കുയന്ത്രം|allakuyantram`
     },
     {
@@ -71,14 +71,14 @@ washing-machine | അലക്കുയന്ത്രം|allakuyantram`
 coat | ആവരണം|aavaranam
 shoe | പാദരക്ഷ|paadraksha
 sock | കാലുറ|kaalura
-boots | Boots
+boots | 
 pyjama | നിശാവസ്ത്രം|nishavastram
 gloves | കയ്യുറ|kayyura
 scarf | കവണി|kavani
 sweater | കമ്പിളിക്കുപ്പായം|kambilikuppayam
-bib | Bib
+bib | 
 shirt | കുപ്പായം|kuppayam
-jacket | Jacket
+jacket | 
 hat | തൊപ്പി|thoppi
 trousers | Trousers
 vetti |മുണ്ട്|mundu
@@ -89,23 +89,23 @@ saree |സാരി|saree`
       label: 'വിദ്യാലയം  |school',
       text: `pen |പേന|pena
 pencil|പെൻസിൽ|pensil
-ruler|Ruler
-blackboard | Black Board
+ruler|
+blackboard | 
 chalk | ചോക്ക്‌|chalk
 nib | മുന|muna
-eraser|Eraser
+eraser|
 scissors|കത്രിക|kathrika
-sharpener|Sharpener
+sharpener|
 calculator| കണക്കുകൂട്ടല് യന്ത്രം| kanakkootal yantram
 book| പുസ്തകം|pusthakam
 ink | മഷി|mashi
 globe | ഭൂഗോളം|bhoogolam
-schoolbag| Schoolbag
-waterbottle| Waterbottle
-color-pencils| Color Pencils
-crayons | Crayons
+schoolbag| 
+waterbottle| 
+color-pencils| 
+crayons | 
 notebook | 
-writingpad | Writing Pad`
+writingpad |`
     },
     {
       id: 'kitchen',
@@ -118,15 +118,15 @@ spoon|കരണ്ടി|karandi
 pot|കലം|kalam
 butter|വെണ്ണ|venna
 plate | പാത്രം|pathram
-tap | Tap
+tap |
 lid | മൂടി|moodi
 
-blender | Blender
-grinder | Grinder
+blender | 
+grinder | 
 cheese | പാല്‍ക്കട്ടി|paalkatti
 fridge | ഫ്രിഡ്ജ്|fridge
 lollipop | കോൽ മിട്ടായി|kolu mittayi
-salad | Salad
+salad | 
 sugar | പഞ്ചസാര|panjasara
 bowl | കോപ്പ|koppa
 chicken | കോഴി|kozhi
@@ -136,9 +136,9 @@ ice-cream | ഐസ്ക്രീം|icecream
 meat | ഇറച്ചി|irachi
 
 salt | ഉപ്പ്|upp
-french-fry | French Fry
-soft-drink | Soft Drink
-pizza | Pizza
+french-fry | 
+soft-drink | 
+pizza |
 sweets | മിഠായി|mittayi
 bread | അപ്പം|appam
 cup | കപ്പ്|kapp
@@ -147,12 +147,12 @@ juice | സത്ത്‌|sath
 mushroom | കൂണ്|koon
 sandwich | Sandwich
 cake |  കേക്ക്|cake
-burger | Burger
+burger | 
 flour | മാവ്|maavu
 lentils | പരിപ്പ്|parippu
 
 rice | അരി|ari
-soup | Soup
+soup | 
 ammi |അമ്മികല്ല്|ammikallu
 dosaikal |ദോശക്കൽ|dosakallu
 kudam |കുടം|kudam

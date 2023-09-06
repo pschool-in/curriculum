@@ -45,7 +45,7 @@ guitar | सहातारी सतार | Sahātārī satāra
 xylophone | लाकडी पिआनो | Lākaḍī pi'ānō
 piano | पियानो | pi'ānō
 veenai | वीणा | Vīṇā
-saxophone 
+saxophone|
 tabla | तबला| tabalā
 trumpet | तुतारी| Tutārī`
     }

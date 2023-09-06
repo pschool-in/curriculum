@@ -11,7 +11,7 @@ bus | ബസ്|bas
 car | കാർ|car
 cycle | സൈക്കിൾ|sayikal
 helicoptor | ഹെലികോപ്റ്റര്‍|helicoptar
-motorbike | Motorbike
+motorbike | 
 ship | കപ്പൽ|kappal
 tractor | ട്രാക്ടർ|tractar
 lorry| ലോറി|lorri
@@ -19,12 +19,12 @@ train | തീവണ്ടി|teevandi
 ambulance| ആംബുലന്‍സ്|aambulanse
 auto| ഓട്ടോ|ooto
 cart| ഉന്തുവണ്ടി|unthuvandi
-metro | Metro
+metro |
 excavator| ഖനനയന്ത്രം|kananayantram
 fire-engine| അഗ്നിശമനയന്ത്രം|agnishamanayantram
 van| ചരക്കുവണ്ടി|charakkuvandi
 bulldozer | മണ്ണിളക്കിയന്ത്രം|manilakkuyantram
-crane2 | Crane
+crane2 |
 rocket | അഗ്നിശിഖ|agnishika
 submarine | അന്തർവാഹിനി| antarvahini
 bullock-cart |കാളവണ്ടി|kaalavandi
@@ -58,12 +58,12 @@ washerman | അലക്കുകാരൻ|allakukaaran
 milkman | പാൽക്കാരൻ|paalkaaran
 shopkeeper | കടയുടമ|kadayudama
 businessman | വ്യവസായി|vyavasayi
-cashier | Cashier
-electrician | Electrician
+cashier | 
+electrician |
 farmer | കർഷകൻ|karshakan
-mechanic | Mechanic
-pilot | Pilot
-plumber | Plumber
+mechanic | 
+pilot | 
+plumber | 
 scientist | ശാസ്ത്രജ്ഞൻ|shastranjan
 seller | വിൽപ്പനക്കാരൻ|vilpanakaran
 software-developer | Software Developer`
