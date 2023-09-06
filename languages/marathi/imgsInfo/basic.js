@@ -58,7 +58,7 @@ hexagon|षट्कोन
 shirt|सदरा	
 chin|हनुवटी	
 baby|बाळ	
-warroir|क्षत्रिय	
+warrior|क्षत्रिय	
 saint|ज्ञानेश्वर`
     }
   ]
