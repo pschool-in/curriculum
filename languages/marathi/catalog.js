@@ -173,7 +173,7 @@ Complete the Story based on tenses `
     {
       label: 'Unseen Passage',
       id: 'mr-passage',
-      text: `4 reading passages with mcq activity`
+      text: `7 reading passages with mcq activity`
     },
     {
       label: 'Science (विज्ञान)',
@@ -185,6 +185,12 @@ Complete the Story based on tenses `
       id: 'mr-social ',
       text: `Drag and drop activity on Big Rivers, Cities, Neighbouring States, Directions, Landforms, People and Their Workplaces, People and Their Tools, States of South India, Rivers, Languages, Map - Cities
 Listening Activity - The Story of the Mango Tree, Healthy Eating Habits, What We Do, Thirsty Crow`
+    },
+    {
+      label: 'General Knowledge (सामान्य ज्ञान)',
+      id: 'mr-gk',
+      text: `Mcq activity on GK
+Drag & drop activity on GK `
     },
     {
       label: 'Wordsearch (शब्द शोध)',

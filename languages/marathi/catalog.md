@@ -113,7 +113,7 @@ Poems (कविता)
 
 ## mr-passage
 
--4 reading passages with mcq activity
+-7 reading passages with mcq activity
 
 ## mr-proverb
 
@@ -237,3 +237,9 @@ Wordsearch (शब्द शोध)
 -Wordsearch Marathi 3
 -Wordsearch Marathi 4
 -Wordsearch Marathi 5
+
+## mr-gk
+
+General Knowledge (सामान्य ज्ञान)
+-mcq activity on GK
+-drag & drop activity on GK
