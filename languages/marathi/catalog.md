@@ -243,3 +243,9 @@ Wordsearch (शब्द शोध)
 General Knowledge (सामान्य ज्ञान)
 -mcq activity on GK
 -drag & drop activity on GK
+-match up activity Maharashtrian Personalities
+-Match up activity on Marathi authors
+-Match up activity on Marathi authors & their books
+-Match up activity on Maharashtrian food & places
+-Match up activity on Shivaji Maharaj
+-Match up activity on Maharashtra State Symbols

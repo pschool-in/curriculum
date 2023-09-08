@@ -190,7 +190,8 @@ Listening Activity - The Story of the Mango Tree, Healthy Eating Habits, What We
       label: 'General Knowledge (सामान्य ज्ञान)',
       id: 'mr-gk',
       text: `Mcq activity on GK
-Drag & drop activity on GK `
+Drag & drop activity on GK
+Match activity on Marathi authors, Maharashtrian Personalities, Maharashtrian food & places, Shivaji Maharaj, Maharashtra State Symbols, Marathi authors & their books`
     },
     {
       label: 'Wordsearch (शब्द शोध)',
