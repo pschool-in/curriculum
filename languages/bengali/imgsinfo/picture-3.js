@@ -16,15 +16,15 @@ stone|পাথর|Pathor
 pebbles |নুড়ি|nuṛi
 leaf|পাতা|Pata
 tree |গাছ|gachh
-log |কাঠের গুঁড়ি।Kather Guri 
-nest |পাখির বাসা।Pakhir basa
+log |কাঠের গুঁড়ি|Kather Guri 
+nest |পাখির বাসা|Pakhir basa
 dew | শিশির|Shishir
 waterfall |জলপ্রপাত |jalopropat
 rainbow |রংধনু|rongdhonu
 cloud | মেঘ|Megh
 lightning |বজ্র|bajra
-web | জাল।Jaal
-shell | ঝিনুক।Jhinuk
+web | জাল|Jaal
+shell | ঝিনুক|Jhinuk
 banyan | বটগাছ|botgachh
 bamboo-tree | বাঁশ গাছ|BaNsh Gachh
 banana-tree |কলা গাছ|Kola gach
@@ -39,7 +39,7 @@ neemleaf |  নিম পাতা|Neem Pata`
       id: 'body-parts',
       label: 'শরীরের অংশ|Body Parts|Śarīrēra anśa',
       text: `ear |কান|Kaan
-eye |চোখ।Chokh 
+eye |চোখ|Chokh 
 foot |পা|Paa
 hair|চুল|Chul
 hand|হাত|Haat
@@ -75,7 +75,7 @@ zinnia | জিনিয়া|Zinnia`
       id: 'others',
       label: 'অন্যান্য জিনিসপত্র|Others Things|Onnyanno Jinispotro',
       text: `bell | ঘণ্টা|Ghonta
-brush|তুলি।Tuli  
+brush|তুলি|Tuli  
 bone| হাড়|Haar
 box |বাক্স|bakso
 coin | মুদ্রা|Mudra
@@ -85,7 +85,7 @@ brick | ইট|it
 rooftile| টালি|Tali
 stick | লাঠি|Lathi
 ring| আংটি|AnGti
-drums|  ড্রাম।Drum
+drums|  ড্রাম|Drum
 food| খাবার|Khabar
 king| রাজা|Raja
 queen | রাণী|Rani
@@ -95,7 +95,7 @@ quill | পালক|Palok
 oar |বইঠা|Boitha
 gun | বন্দুক|banduk
 wheel| চাকা|Chaka
-park | পার্ক। Park
+park | পার্ক| Park
 garden | বাগান|bagan
 sculpture | ভাস্কর্য|Bhaskorjyo
 statue | মূর্তি|murti

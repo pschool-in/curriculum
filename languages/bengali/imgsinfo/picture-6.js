@@ -25,7 +25,7 @@ boar | শুয়োর|Shuor
 cricket |	ঝিঁঝিঁ পোকা |Jhi Jhi poka
 hyena |হায়না|Hyena
 polarbear |মেরু ভালুক|Meru Bhaluk
-antelope |কৃষ্ণসার মৃগ।Krishnasar Mrigo
+antelope |কৃষ্ণসার মৃগ|Krishnasar Mrigo
 bug |ছারপোকা|Charpoka
 jackal |শিয়াল|Shiyal      
 prawn | চিংড়ি|Chingri

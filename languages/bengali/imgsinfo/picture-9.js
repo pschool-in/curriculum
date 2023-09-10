@@ -24,8 +24,8 @@ keyboard |কিবোর্ড|Keyboard`
       id: 'others-2',
       label: 'অন্যান্য|Others|Anyānya',
       text: `angel | দেবদূত|debdut
-alien |ভিনগ্রহবাসী।Vingrohobasi
-knight |নাইট। Knight
+alien |ভিনগ্রহবাসী|Vingrohobasi
+knight |নাইট| Knight
 warrior | যোদ্ধা |Joddha
 chariot |  রথ |Roth
 horse-carriage | ঘোড়ার গাড়ি | Ghorar Gari

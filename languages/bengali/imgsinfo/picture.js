@@ -45,8 +45,8 @@ cheetah| চিতাবাঘ | Chitabagh
 bee | মৌমাছি | Moumachhi
 goldfish |মৌমাছি | Moumachhi
 spider | মাকড়সা | Makorsha
-panda | পাণ্ডা । Panda
-giraffe| জিরাফ । Jiraf 
+panda | পাণ্ডা | Panda
+giraffe| জিরাফ | Jiraf 
 kangaroo||ক্যাঙারু|Kangaroo `
     },
     {
@@ -66,13 +66,13 @@ crane| সারস| Saros
 eagle|ঈগল| igol
 flamingo| ফ্লেমিংগো|Flamingo
 kingfisher| মাছরাঙা| MachhraNga
-myna| ।শালিক| Shalik
+myna| |শালিক| Shalik
 ostrich|উটপাখি| Utpakhi
 owl| পেঁচা| PeNcha
 rooster| মোরগ| Morog
 vulture| শকুন| Shokun
 woodpecker| কাঠঠোকরা| Kaththokra
-koel |কোকিল। Kokil `
+koel |কোকিল| Kokil `
     }
   ]
 };

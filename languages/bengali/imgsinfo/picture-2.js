@@ -22,7 +22,7 @@ watermelon | তরমুজ|Tormuj
 pomegranate| বেদানা|Bedana
 fig|ডুমুর|Dumur
 custard-apple| আতা|Ata
-plum|প্লাম।Plum 
+plum|প্লাম|Plum 
 dates| খেজুর|Khejur
 muskmelon|খরবুজ|Khorbuj`
     },

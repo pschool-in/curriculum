@@ -51,7 +51,12 @@ saxophone | Saxophone
 tabla | Tabla
 trumpet | Trumpet
 drums| Drum
-cymbals`
+cymbals
+damaru 
+dhol 
+mrithangam
+nadaswaram
+yazl`
     }
   ]
 };

@@ -95,6 +95,7 @@ tie | Tie
 towel | Towel
 trousers | Trousers
 saree | Saree
+vetti
 hanger | Hanger
 anklet | Anklet
 bangle | Bangle
@@ -146,7 +147,12 @@ butter|Butter
 plate | Plate
 tap | Tap
 lid | Lid
-
+ammi 
+anjarai-petti 
+arivaal-manai 
+arivaal 
+dosaikal
+ 
 blender | Blender
 grinder | Grinder
 cheese | Cheese
@@ -178,7 +184,16 @@ flour | Flour
 lentils | Lentils
 
 rice | Rice
-soup | Soup`
+soup | Soup
+toor-dhal
+ urad-dhal
+moong-dhal
+mochai
+kadalai-paruppu
+malli
+pattani
+seeragam
+sombu`
     }
   ]
 };

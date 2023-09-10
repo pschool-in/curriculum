@@ -58,6 +58,17 @@ gadha
 para
 scholar | Scholar
 uri
+five 
+hexagon      
+kolam 
+kudam                   
+rishi 
+salangai   
+sembu  
+stone-grinder   
+touch-me-not    
+auvai
+yagna 
 babywalker | Baby Walker`
     },
 
@@ -75,7 +86,21 @@ daisy | Daisy
 jasmine | Jasmine
 magnolia | Magnolia
 periwinkle | Periwinkle
-water-lily | Water Lily`
+water-lily | Water Lily
+mogra
+aavarampoo 
+erukkampoo
+idlipoo
+kanagamaram
+kurinchipoo
+nandiyaavattampoo
+pichipoo
+poosanipoo
+poovarasampoo
+sangupoo
+thumbaipoo
+vaadamalli
+veepampoo`
     }
   ]
 };
