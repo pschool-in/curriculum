@@ -27,8 +27,8 @@ tap| Tap
 van| Van`
     },
     {
-      id: 'simple',
-      label: 'Simple Words',
+      id: 'simple-2',
+      label: 'Simple Words 2',
       text: `apple| Apple
 ball| Ball
 clock| Clock
