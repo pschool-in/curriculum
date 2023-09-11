@@ -65,7 +65,7 @@ jockey | Jockey
 track | Track
 
 bandage | Bandage
-danger | danger`
+danger | Danger`
     }
   ]
 };

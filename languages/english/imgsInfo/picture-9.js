@@ -58,8 +58,8 @@ gadha
 para
 scholar | Scholar
 uri
-five 
-hexagon      
+five |Five
+hexagon|Hexagon      
 kolam 
 kudam                   
 rishi 

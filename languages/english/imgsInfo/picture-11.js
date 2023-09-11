@@ -13,7 +13,7 @@ screw | Screw
 screwdriver | Screw Driver
 spanner | Spanner
 axe | Axe
-hammar | Hammar
+hammar | Hammer
 sewing-machine | Sewing Machine
 balance | Balance
 hose | Hose

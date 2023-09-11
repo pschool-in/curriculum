@@ -50,7 +50,7 @@ tulsi | Tulsi
 bottlegourd | Bottlegourd
 ivygourd | Ivygourd
 ridgegourd | Ridgegourd
-narthankai`
+narthankai| Lime`
     }
   ]
 };

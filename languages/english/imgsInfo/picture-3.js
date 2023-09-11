@@ -104,8 +104,8 @@ sculpture | Sculpture
 statue | Statue
 clay-lamp | Clay Lamp
 clay-stove | Clay Stove
-one 
-oneself
+one | One
+oneself| Myself
 pandit
 saint
 stamp | Stamp`

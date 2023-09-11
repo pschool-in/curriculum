@@ -23,7 +23,8 @@ pen| Pen
 quill| Quill
 rat| Rat
 sun| Sun
-tap| Tap`
+tap| Tap
+van| Van`
     },
     {
       id: 'simple',
@@ -31,23 +32,29 @@ tap| Tap`
       text: `apple| Apple
 ball| Ball
 clock| Clock
-dog| Dog
-eat| Eat
-fan| Fan
-gun| Gun
-hat| Hat
-ink| Ink
-jug| Jug
-key| Key
-log| Log
-mat| Mat
-nib| Nib
-oar| Oar
-pen| Pen
+donkey| Donkey
+elephant| Elephant
+frog| Frog
+girl| Girl
+house| House
+ice-cream| Ice cream
+jacket| Jacket
+knife| Knife
+lion| Lion
+monkey| Monkey
+nest| Nest
+orange| Orange
+parrot| Parrot
 quill| Quill
-rat| Rat
-sun| Sun
-tap| Tap`
+rope| Rope
+swan| Swan
+train| Train
+umbrella|Umbrella
+vegetables| Vegetables
+wolf| wolf
+xylophone| Xylophone
+yawn| Yawn
+zebra| Zebra`
     }
   ]
 };

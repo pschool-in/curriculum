@@ -90,7 +90,7 @@ cap | Cap
 hat | Hat
 uniform | Uniform
 raincoat| Rain coat
-karchief | Karchief
+karchief | Handkerchief
 tie | Tie
 towel | Towel
 trousers | Trousers
@@ -103,7 +103,7 @@ chain | Chain
 earring | Ear Ring
 comb | Comb
 mirror | Mirror
-kumkum | Kumkum`
+kumkum | Saffron`
     },
     {
       id: 'school',
@@ -150,7 +150,7 @@ lid | Lid
 ammi 
 anjarai-petti 
 arivaal-manai 
-arivaal 
+arivaal|Sickle
 dosaikal
  
 blender | Blender
@@ -190,9 +190,9 @@ toor-dhal
 moong-dhal
 mochai
 kadalai-paruppu
-malli
+malli| Corriander
 pattani
-seeragam
+seeragam| Cumin
 sombu`
     }
   ]
