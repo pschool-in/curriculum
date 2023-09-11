@@ -53,7 +53,7 @@ umbrella|Umbrella
 vegetables| Vegetables
 wolf| wolf
 xylophone| Xylophone
-yawn| Yawn
+yacht| Yacht
 zebra| Zebra`
     }
   ]
