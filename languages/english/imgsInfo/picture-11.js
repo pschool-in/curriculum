@@ -46,7 +46,7 @@ flute | Flute
 guitar | Guitar
 xylophone | Xylophone
 piano | Piano
-veenai | Veenai
+veenai | Veena
 saxophone | Saxophone
 tabla | Tabla
 trumpet | Trumpet
