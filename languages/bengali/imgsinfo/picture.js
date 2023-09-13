@@ -47,7 +47,7 @@ goldfish |গোল্ডফিশ । Goldfish
 spider | মাকড়সা | Makorsha
 panda | পাণ্ডা | Panda
 giraffe| জিরাফ | Jiraf 
-kangaroo||ক্যাঙারু|Kangaroo `
+kangaroo|ক্যাঙারু|Kangaroo `
     },
     {
       id: 'birds',
@@ -66,7 +66,7 @@ crane| সারস| Saros
 eagle|ঈগল| igol
 flamingo| ফ্লেমিংগো|Flamingo
 kingfisher| মাছরাঙা| MachhraNga
-myna| |শালিক| Shalik
+myna|শালিক| Shalik
 ostrich|উটপাখি| Utpakhi
 owl| পেঁচা| PeNcha
 rooster| মোরগ| Morog
