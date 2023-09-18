@@ -371,3 +371,32 @@
 - wordsearch on historical sites
 - wordsearch on sweets
 - wordsearch on parts of the body
+
+## hi-word-sc
+
+- Complete Puzzle on compound words
+- Mcq on antonyms
+- Match activity on synonyms
+- Fill up activity on one word substitutions
+- Odd one out activity based on synonyms
+- Jumbled word activity (simple words)
+
+## hi-grammar-sc
+
+- Make sentence activity (translate from English to Hindi)
+- Fill up activity
+- Sentence based activity on synonyms
+- Sentence based activity on antonyms
+- Form sentence activity
+- Fill up using appropriate words to create meaningfull sentences
+
+## hi-sentence-sc
+
+- Comple Puzzle on gender nouns
+- Match activity on parts of speech
+- Group feminine and masculine gender
+- Mcq on one word many meanings
+- Fill up on adjective
+- Classify the types of tense
+- Match activity on borrowed words in Hindi
+- Mcq on idioms

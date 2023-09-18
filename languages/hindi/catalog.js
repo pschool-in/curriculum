@@ -26,6 +26,16 @@ Match activity based on splitting of letters in simple words`
     },
     {
       label: 'Words (शब्द)',
+      id: 'hi-word-sc',
+      text: `Complete Puzzle on compound words
+Mcq on antonyms
+Match activity on synonyms
+Fill up activity on one word substitutions
+Odd one out activity based on synonyms
+Jumbled word activity (simple words)`
+    },
+    {
+      label: 'Words (शब्द)',
       id: 'hi-word',
       text: `Jumbled word activity (क-घ)
 Jumbled word activity (च-झ)
@@ -60,11 +70,11 @@ Complete puzzle activity based on compound words`
       text: `Match antonyms
 Mcq on antonyms
 Match synonyms
-Fill up based on homonyms
+Complete Puzzle on homonyms
 Fill up based on one word substitutions
 Fill up based on one word many meanings
 Odd one out activity based on one word many meanings
-Fill up using collective words
+Complete Puzzle using collective words
 Mcq on collective words`
     },
     {
@@ -72,7 +82,7 @@ Mcq on collective words`
       id: 'hi-word-5',
       text: `Mcq on antonyms
 Match synonyms
-Fill up based on homonyms
+Complete Puzzle based on homonyms
 Fill up based on one word substitutions
 Fill up based on one word many meanings`
     },
@@ -114,6 +124,16 @@ Arrange number names in ascending order`
     },
     {
       label: 'Sentence (वाक्य)',
+      id: 'hi-sentence-sc',
+      text: `Make sentence activity (translate from English to Hindi)
+Fill up activity
+Sentence based activity on synonyms
+Sentence based activity on antonyms
+Form sentence activity
+Fill up using appropriate words to create meaningfull sentences`
+    },
+    {
+      label: 'Sentence (वाक्य)',
       id: 'hi-sentence-3',
       text: `Form sentence activity (2 and 3 word sentences)
 Reading passage on singular and plural noun
@@ -152,6 +172,18 @@ Fill up using synonyms`
     },
     {
       label: 'Grammar (व्याकरण)',
+      id: 'hi-grammar-sc',
+      text: `Comple Puzzle on gender nouns
+Match activity on parts of speech
+Group feminine and masculine gender
+Mcq on one word many meanings
+Fill up on adjective
+Classify the types of tense
+Match activity on borrowed words in Hindi
+Mcq on idioms`
+    },
+    {
+      label: 'Grammar (व्याकरण)',
       id: 'hi-grammar',
       text: `Reading passage on gender nouns
 Match activity on gender nouns
@@ -164,6 +196,8 @@ Classify singular and plural noun`
       label: 'Grammar 2 (व्याकरण)',
       id: 'hi-grammar-2',
       text: `Reading passage on parts of speech
+Group verb and noun
+Group pronoun and adjective
 Classify verb and noun
 Classify pronoun and adjective
 Match words with their respective part of speech
@@ -177,33 +211,33 @@ Mcq on one-word substitutions`
       label: 'Grammar 3 (व्याकरण)',
       id: 'hi-grammar-3',
       text: `Reading passage on homonyms
-      Mcq on homonyms
-      Reading passage on one-word substitutions
-      Mcq on one-word substitutions
-      Reading passage on one word many meanings
-      Fill up on one word many meanings
-      Reading passage on borrowed words
-      Match on borrowed words
-      Reading passage on different types of noun
-      Classify mass noun and abstract noun
-      Fill up activity based on proper noun
-      Fill up activity based on common noun
-      Fill up activity based on abstract noun`
+Mcq on homonyms
+Reading passage on one-word substitutions
+Mcq on one-word substitutions
+Reading passage on one word many meanings
+Mcq on one word many meanings
+Reading passage on borrowed words
+Match on borrowed words
+Reading passage on different types of noun
+Classify mass noun and abstract noun
+Fill up activity based on proper noun
+Fill up activity based on common noun
+Fill up activity based on abstract noun`
     },
     {
       label: 'Grammar 4 (व्याकरण)',
       id: 'hi-grammar-4',
       text: `Passage on types of pronouns
-      Classify reflexive pronouns and personal pronouns
-      Fill up based on reflexive pronouns
-      Fill up based on personal pronouns
-      Passage on types of adjective
-      Classify attributive adjectives and numerical adjectives
-      Classify possessive adjectives and demonstrative adjectives
-      Fill up based on attributive adjectives
-      Fill up based on numerical adjectives
-      Fill up based on demonstrative adjectives
-      Fill up based on adjectives`
+Classify reflexive pronouns and personal pronouns
+Fill up based on reflexive pronouns
+Fill up based on personal pronouns
+Passage on types of adjective
+Classify attributive adjectives and numerical adjectives
+Classify possessive adjectives and demonstrative adjectives
+Fill up based on attributive adjectives
+Fill up based on numerical adjectives
+Fill up based on demonstrative adjectives
+Fill up based on adjectives`
     },
     {
       label: 'Grammar 5 (व्याकरण)',
@@ -219,7 +253,8 @@ Classify collective noun and mass noun
 Fill up based on collective noun
 Fill up based on nouns
 Reading passage on types of verbs
-Identify the type of verb activity
+Classify the types of verb
+Classify the tense of the verb
 Reading passage on types of pronoun
 Classify definite pronoun and indefinite pronoun
 Classify interrogative pronouns and possessive pronouns
@@ -247,7 +282,7 @@ Fill up activity based on singular and plural nouns
 Reading passage on types of preposition
 Mcq on types of preposition
 Reading passage on non-changeable words (avikari shabd)
-Fill up activity based on non-changeable words (avikari shabd)
+Classify activity based on non-changeable words (avikari shabd)
 Match activity on idioms
 Reading passage on punctuation
 Mcq on punctuation
@@ -378,12 +413,13 @@ Picture-based mcq activity on leaders of India`
     {
       label: 'Crossword (वर्ग पहेली)',
       id: 'hi-crossword',
-      text: `Crossword on days, fruits, colors, animals, vegetables, household items, items used in the kitchen, tools, jobs, more animals, birds, more fruits, capitals, more capitals, historical places`
+      text: `Crossword on days, fruits, colors, animals, vegetables, household items, items used in the kitchen, tools, jobs, more animals, birds, more fruits, capitals, more capitals, historical places, synonyms, antonyms`
     },
     {
       label: 'Wordsearch (शब्द खोज)',
       id: 'hi-wordsearch',
-      text: `Wordserach on day of a week, fruits, animals, flowers, birds, more birds, months, colors, vegetables, cities, relatives, vehicles, household items, more household items, rivers, historical sites, sweets, parts of the body`
+      text: `Wordserach on day of a week, fruits, animals, flowers, birds, more birds, months, colors, vegetables, cities, relatives, vehicles, household items, more household items, rivers, historical sites, sweets, parts of the body
+Hint based wordsearch on riddles, same meaning words, one word substitutions, birds, tools for jobs`
     }
   ]
 };
