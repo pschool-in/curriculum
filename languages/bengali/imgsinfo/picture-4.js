@@ -58,7 +58,7 @@ backpack | পিঠের ব্যাগ| Pither Bag
 pillow | বালিশ| Balish
 basket | ঝুড়ি|jhuṛi
 dustbin |ডাস্টবিন| Dustbin
-bed-lamp | Bed Lamp
+bed-lamp |
 handbag | হাতব্যাগ| Handbag
 steps |সিঁড়ি| Siri
 curtains | পর্দা| Porda
@@ -92,7 +92,7 @@ saree |শাড়ি|Shaari
       text: `pen |কলম| Kolom
 pencil|পেনসিল|Pencil
 ruler|স্কেল| Scale
-blackboard | ব্ল্যাকবোর্ড Black Board
+blackboard | ব্ল্যাকবোর্ড |Black Board
 chalk | চক| Chok
 nib | নিব| Nib
 eraser|রাবার| Rubber
@@ -106,7 +106,7 @@ schoolbag|স্কুলব্যাগ| Schoolbag
 waterbottle| জলের বোতল| Joler Botol
 color-pencils| রঙপেন্সিল| Rong Pencil
 crayons |মোমরঙ| Momrong
-notebook |নোটবুক Notebook 
+notebook |নোটবুক |Notebook 
 writingpad | বোর্ড | Board`
     },
     {
@@ -139,7 +139,7 @@ meat | মাংস| Mangso
 egg | ডিম|ḍim 
 salt | লবণ|l Lobon
 french-fry|ফ্রেঞ্চ ফ্রাই |French Fry
-soft-drink | ঠান্ডা পানীয় Thanda paniyo
+soft-drink | ঠান্ডা পানীয় |Thanda paniyo
 pizza |পিৎজা| Pitza
 sweets | মিষ্টি| miṣṭi
 bread | রুটি| ruṭi

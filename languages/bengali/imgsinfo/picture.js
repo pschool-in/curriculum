@@ -43,7 +43,7 @@ buffalo| মোষ | Mosh
 butterfly| প্রজাপতি | Projapoti
 cheetah| চিতাবাঘ | Chitabagh
 bee | মৌমাছি | Moumachhi
-goldfish |গোল্ডফিশ । Goldfish
+goldfish |গোল্ডফিশ | Goldfish
 spider | মাকড়সা | Makorsha
 panda | পাণ্ডা | Panda
 giraffe| জিরাফ | Jiraf 
