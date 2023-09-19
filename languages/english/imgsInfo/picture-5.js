@@ -53,7 +53,7 @@ kabaddi | Kabaddi
 archery | Archery
 basketball | Basket ball
 boxing | Boxing
-table-tennis | table-tennis
+table-tennis | Table tennis
 golf | Golf
 wrestling | Wrestling
 
