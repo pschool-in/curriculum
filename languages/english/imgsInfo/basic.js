@@ -51,7 +51,7 @@ swan| Swan
 train| Train
 umbrella|Umbrella
 vegetables| Vegetables
-wolf| wolf
+wolf| Wolf
 xylophone| Xylophone
 yacht| Yacht
 zebra| Zebra`
