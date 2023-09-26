@@ -1,15 +1,3 @@
-Appearence (wrong) appearance (right)
-evapouration - evaporation
-filteration - filtration
-peice - piece
-acheive - achieve
-
-----
-
-I heard - I forget
-I saw - I remember
-I did - I understand
-
 
 am, an, as, at,   
 
