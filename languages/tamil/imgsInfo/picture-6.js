@@ -3,49 +3,47 @@ export default {
   label: 'விலங்குகளும் பறவைகளும்-2',
   list: [
     {
-      id: 'animals',
+      id: 'animals-2',
       label: 'விலங்குகள்',
-      text: `
+      text: `polarbear |பனிக்கரடி
       rhino|காண்டாமிருகம்
       zebra| 	வரிக்குதிரை
       giraffe| ஒட்டகச்சிவிங்கி
       hyena | கழுதைப்புலி
-polarbear |பனிக்கரடி
       mongoose| கீரிப்பிள்ளை
       bison |காட்டெருமை
 octopus| 
 salamander |
-
 sheep| செம்மறி ஆடு
+antelope | மறிமான்
+python | மலைப்பாம்பு
+
+porcupine | முள்ளம்பன்றி
+baboon |வாலில்லாக்குரங்கு 
+boar | காட்டுப்பன்றி
+dinosaur | டைனோசர்
+jackal |	குள்ளநரி
+
 goldfish | தங்கமீன்
 bat| வௌவால்
-termite | கரையான்
+termite | கரையான்  
 cockroach| கரப்பான்பூச்சி
 leopard| 
 dragonfly |தட்டான்
-dinosaur | டைனோசர்
-alligator | 
-boar | காட்டுப்பன்றி
+alligator |  
 
 butterfly| வண்ணத்துப்பூச்சி
 cricket | சிள்வண்டு
-
-antelope | மறிமான்
-bug | மூட்டைப்பூச்சி
-jackal |	குள்ளநரி
+bug | மூட்டைப்பூச்சி 
 centipede | பூரான்
-millipede | மரவட்டை
-prawn |இறால்
-
-baboon |வாலில்லாக்குரங்கு 
-python | மலைப்பாம்பு
-
+millipede | மரவட்டை 
+prawn |இறால் 
 chameleon | பச்சோந்தி
-porcupine | முள்ளம்பன்றி
 tigerfish | 
 ladybug | பொன்வண்டு
 seahorse | கடற்குதிரை
-hamster |வெள்ளெலி
+hamster |வெள்ளெலி  
+
 mole | 
 caterpillar | கம்பளிப்பூச்சி
 shark| சுறாமீன்
@@ -59,7 +57,7 @@ jellyfish |
 starfish |நட்சத்திரமீன்`
     },
     {
-      id: 'birds',
+      id: 'birds-2',
       label: 'பறவைகள்',
       text: `woodpecker| மரங்கொத்தி
       ostrich| நெருப்புக்கோழி

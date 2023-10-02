@@ -15,7 +15,6 @@ pig|பன்றி
 elephant| யானை
 lion | சிங்கம்
 tiger| புலி
-
 monkey| குரங்கு
 bear| கரடி
 cheetah| சிறுத்தை
@@ -35,7 +34,7 @@ snake| பாம்பு
 tortoise| ஆமை
 rat| எலி
 ant| எறும்பு
-buffalo| எருமை
+buffalo| எருமை 
 earthworm | மண்புழு
 bee | தேனீ
 fly|ஈ

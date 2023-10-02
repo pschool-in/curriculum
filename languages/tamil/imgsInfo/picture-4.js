@@ -19,16 +19,18 @@ grandma | பாட்டி`
       id: 'house',
       label: `வீடு`,
       text: `house| வீடு
+toy | பொம்மை 
 table|மேசை
 bed|மெத்தை
 mat | பாய்
-mop | துடைப்பான்
 mug | குவளை
 lock |பூட்டு
 key | சாவி
 net |வலை
 rope | கயிறு
-teapot | தேநீர்க்கெண்டி
+umbrella | குடை
+door |கதவு
+mop | துடைப்பான்
 fan |மின்விசிறி
 ball | பந்து
 teddy |கரடிபொம்மை
@@ -42,12 +44,13 @@ glasses|மூக்குக்கண்ணாடி
 clock | கடிகாரம்
 watch | கைக்கடிகாரம்
 flower-pot | பூந்தொட்டி 
-umbrella | குடை
-door |கதவு
+
 broom | துடைப்பம்
 window | ஜன்னல்
 sofa |சோபா
 kettle |
+flask | 
+basket | கூடை
 bucket |  வாளி
 carpet | கம்பளம்
 doormat | கால்மிதி
@@ -55,9 +58,8 @@ walkingstick | கைத்தடி
 toilet | கழிப்பறை
 soap |சவர்க்காரம்
 helmet | தலைக்கவசம்
-backpack | முதுகுப்பை
+backpack 
 pillow | தலையணை
-basket | கூடை
 dustbin | குப்பைத்தொட்டி
 bed-lamp |
 handbag | கைப்பை
@@ -65,42 +67,63 @@ steps | படிக்கட்டு
 curtains | திரைச்சீலை
 watertank |தண்ணீர்தொட்டி
 air-conditioner | குளிரூட்டி 
+teapot | தேநீர்க்கெண்டி
 washing-machine |`
     },
     {
       id: 'dress',
       label: 'ஆடை',
       text: `dress | ஆடை
+      vetti | வேட்டி
+saree |சேலை
+shirt | சட்டை
+trousers | கால்சட்டை
+towel | துண்டு
+karchief | கைக்குட்டை
 coat |
-shoe | காலணி
-sock | காலுறை
+
 boots | 
 pyjama | 
-gloves | கையுறை
+
 scarf | 
 sweater | 
 bib | 
-shirt | சட்டை
+
 jacket | 
 hat | தொப்பி
 cap | 
-trousers | கால்சட்டை
-vetti | வேட்டி
-saree |சேலை
+
+uniform | சீருடை
 belt | இடுப்புவார்
+shoe | காலணி
+sock | காலுறை
+gloves | கையுறை
 tie | 
-karchief | கைக்குட்டை
+hanger |
+
 raincoat |
-towel | துண்டு
-uniform | சீருடை`
+
+
+anklet | கொலுசு
+bangle | வளையல்
+chain | சங்கிலி
+earring | காதணி
+salangai|சலங்கை
+comb | சீப்பு 
+mirror | கண்ணாடி 
+kumkum | குங்குமம் `
     },
     {
       id: 'school',
       label: ' பள்ளிக்கூடம்',
       text: `pen |பேனா
-pencil|கரிக்கோல்
+pencil|பென்சில் 
 ruler|அளவுகோல்
 blackboard | கரும்பலகை
+book| புத்தகம்
+ink | மை
+globe | பூகோளம்
+magnet | காந்தம்
 chalk | 
 nib |
 eraser|அழிப்பான்
@@ -110,78 +133,91 @@ idcard | அடையாள அட்டை
 scissors|கத்தரிக்கோல்
 sharpener|கூர்மையாக்கி
 calculator| கணிப்பான் 
-book| புத்தகம்
-ink | மை
-globe | பூகோளம்
-magnet | காந்தம்
+stamp | முத்திரை 
 schoolbag| புத்தகப்பை 
 waterbottle| தண்ணீர் குடுவை
 color-pencils|
 stapler |
 crayons | 
 notebook | குறிப்பேடு
-writingpad | 
-stamp | முத்திரை`
+writingpad | `
     },
     {
       id: 'kitchen',
       label: 'சமையலறை',
-      text: `stove|அடுப்பு
-knife|கத்தி
+      text: `knife|கத்தி
+      bowl | கிண்ணம்
 pan|வாணலி 
 spoon|
 pot|பானை
-butter|வெண்ணெய்
+cup |கோப்பை
+ladle | கரண்டி 
 plate | தட்டு
-tap | குழாய்
 lid |மூடி
 blender | 
 grinder | 
-cheese | பாலாடைக்கட்டி
-fridge | குளிர்சாதனப்பெட்டி
-sugar | சர்க்கரை
-bowl | கிண்ணம்
-fork|	முள் கரண்டி
-uri | உறி
-salt | உப்பு
-cup |கோப்பை
-ladle | கரண்டி 
-flour | மாவு
-lentils | பருப்பு
-rice | அரிசி`
+clay-stove | அடுப்பு
+arivaal|அரிவாள்
+arivaal-manai|அரிவாள்மனை
+anjarai-petti|அஞ்சறைப்பெட்டி
+stone-grinder|ஆட்டுக்கல்
+ammi|அம்மி
+dosaikal|தோசைக்கல்
+kudam|குடம்
+sembu|செம்பு  
+tap | குழாய்
+fork|	முள்கரண்டி
+stove | எரிவாயு அடுப்பு 
+fridge | குளிர்சாதனப்பெட்டி`
     },
     {
       id: 'eatables',
-      label: 'உணவுப்பொருட்கள்',
-      text: `lollipop | குச்சி மிட்டாய்
+      label: 'உணவுப் பொருட்கள்',
+      text: `
+
+  
       salad | 
       chicken |
-      milk|பால்
-      fruits|பழங்கள்
-      ice-cream |பனிக்கூழ்
-      meat | இறைச்சி
-      egg | முட்டை
+ 
+      
+    
       french-fry |
-      soft-drink |குளிர்பானம்
-      pizza | பீட்சா
-      sweets | இனிப்புகள்
-      bread | ரொட்டி
-      soup | சூப்
-      juice | பழச்சாறு
+     
       sandwich | 
 cake |
 burger | 
-adirasam|அதிரசம்
+
+idly|இட்லி
 dosai|தோசை
 idiyappam|இடியாப்பம்
-idly|இட்லி
+puttu-rice|புட்டு  
+adai | அடை 
+aapam |  ஆப்பம் 
+chapati | சப்பாத்தி 
+puri | பூரி 
+sambar | சாம்பார் 
+rasam | ரசம் 
+fry | வறுவல் 
+kootu | கூட்டு 
+poriyal | பொரியல் 
+papad | அப்பளம் 
+payasam | பாயாசம் 
+
+vadai|வடை
+ladoo|லட்டு
 murukku|முறுக்கு
+adirasam|அதிரசம்
 pajji|பஜ்ஜி   
 pongal|பொங்கல்
 porotta|பரோட்டா
-puttu-rice|புட்டு  
-vadai|வடை
-ladoo|லட்டு
+soft-drink |குளிர்பானம்
+ice-cream |பனிக்கூழ்
+pizza | பீட்சா
+lollipop | குச்சி மிட்டாய்
+sweets | இனிப்புகள்
+bread | ரொட்டி
+soup | சூப்
+juice | பழச்சாறு
 ellumittai|எள்ளுமிட்டாய்
 kadalai-mittai| கடலைமிட்டாய்     `
     }

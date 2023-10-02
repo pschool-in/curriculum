@@ -21,7 +21,7 @@ export default {
     {
       id: 'consonants',
       label: 'மெய் எழுத்துக்கள்',
-      text: `wheel|சக்கரம்
+      text: `wheel|சக்கரம் 
         conch|சங்கு
         stick|குச்சி
          ginger|இஞ்சி
@@ -32,11 +32,11 @@ export default {
          hat | தொப்பி
          tree | மரம்
          mat | பாய்
-         rishi|முனிவர்
+         rishi|முனிவர் 
          stone|கல்
-         வ்|
+         chrysanthemum | செவ்வந்தி 
          yazl| யாழ்
-         cucumber|வெள்ளரிக்காய்
+         scorpion|தேள்
          chair|நாற்காலி
          fish|மீன்`
     },

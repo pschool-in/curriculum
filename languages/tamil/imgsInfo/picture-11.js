@@ -1,6 +1,6 @@
 export default {
   id: 'picture-11',
-  label: 'கருவிகள் மற்றும் இசைக்கருவிகள்',
+  label: 'கருவிகள்',
   list: [
     {
       id: 'tools',
@@ -32,6 +32,7 @@ opener | குப்பி திறப்பான்
 trowel | கரணை
 walkie-talkie|நடைபேசி
 awl | குத்தூசி
+anvil |
 compass | திசைகாட்டி
 easel | மரச்சட்டம்
 sewing-machine | தையல் இயந்திரம்
@@ -55,7 +56,8 @@ damaru|உடுக்கை
 dhol| தோலக் 
 mrithangam|மிருதங்கம்
 nadaswaram|நாதஸ்வரம்
-veenai |வீணை`
+veenai |வீணை
+cymbals | `
     }
   ]
 };

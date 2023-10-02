@@ -3,7 +3,7 @@ export default {
   label: 'செயல்கள் மற்றும் விளையாட்டு',
   list: [
     {
-      id: 'Actions',
+      id: 'actions',
       label: 'செயல்கள்',
       text: `drink| குடி
       eat| சாப்பிடு
@@ -14,11 +14,10 @@ export default {
       pull | இழு
       push |தள்ளு
       sing | பாடு
-      dance | நடனம்
+      dance | நடனமாடு 
       running |ஓடு
-      walking |நடைப்பயிற்சி
+      walking |நடைபோடு
       sit | உட்கார்
-      party |கொண்டாட்டம்
       skipping | 
       catch | பிடி
       pass | கைமாற்று 
@@ -27,6 +26,7 @@ export default {
       throw | எறி
       carry | எடுத்துச்செல்
       lifting |தூக்குதல்
+      party |கொண்டாட்டம்
       mopping |துடைத்தல்
       riding |சவாரி
       sweep | பெருக்கு
@@ -34,7 +34,7 @@ export default {
       sick |சுகமின்மை 
       sneeze |தும்மல்
       yawn | கொட்டாவி
-      sleep | துாக்கம்`
+      sleep | தூக்கம்`
     },
     {
       id: 'sports',

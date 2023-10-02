@@ -7,39 +7,45 @@ export default {
       label: 'இயற்கை',
       text: `sun |சூரியன்
 moon|நிலா
-star|நட்சத்திரம்
 world|உலகம்
 bird|பறவை
 rain|மழை
 stone|கல்
-pebbles |கூழாங்கற்கள்
+morning | காலை 
+night | இரவு 
 leaf|இலை
+grass | புல் 
+seed | விதை 
 tree | மரம்
 log | மரத்துண்டு
+star|நட்சத்திரம்
 nest |கூடு
 dew |பனித்துளி
 waterfall |அருவி 
 rainbow |வானவில்
 cloud | மேகம்
 lightning | மின்னல்
-web | சிலந்திவலை
-shell |கிளிஞ்சல்
 shadow | நிழல்
 banyan | ஆலமரம்
 bamboo-tree | மூங்கில்மரம்
 banana-tree | வாழைமரம்
-bananaleaf | வாழையிலை 
+bananaleaf |வாழையிலை
 coconut-tree | தென்னைமரம்
 coconutleaf | தென்னையோலை
-mangoleaf|மாவிலை 
+mangoleaf| மாவிலை
 palm-tree | பனைமரம்
-neemleaf |வேப்பிலை `
+neemleaf | வேப்பிலை
+pebbles |கூழாங்கற்கள்
+web | சிலந்திவலை
+shell |கிளிஞ்சல்
+flock-birds | `
     },
     {
       id: 'body-parts',
       label: 'உடல் உறுப்புகள்',
       text: `ear|காது
 eye |கண்
+face | முகம் 
 foot |பாதம்
 hair| முடி
 hand|கை
@@ -57,7 +63,7 @@ wrist | மணிக்கட்டு
 thumb |கட்டைவிரல்
 cheek | கன்னம்
 chin | தாடை
-nails | நகங்கள்`
+nails | நகம்`
     },
     {
       id: 'flowers',
@@ -65,7 +71,7 @@ nails | நகங்கள்`
       text: `rose |ரோஜா
 lotus | 	தாமரை
 sunflower | சூரியகாந்தி
-marigold | சாமந்தி
+marigold | சாமந்திப்பூ
 hibiscus | 	செம்பருத்தி
 jasmine |	முல்லை
 lily | 	 குவளை
@@ -73,18 +79,22 @@ tulip |
 zinnia|
 pansy | 
 water-lily |  அல்லி
-mogra|குண்டுமல்லி
+mogra|குண்டு மல்லி
 poosanipoo|பூசணிப்பூ
 sangupoo|சங்குப்பூ
-vaadamalli|வாடாமல்லி`
+vaadamalli|வாடாமல்லி
+idlipoo|இட்லிப்பூ
+erukkampoo|எருக்கம்பூ
+kanagamaram| கனகாம்பரம்
+bougainvillea | காகிதப்பூ`
     },
     {
       id: 'others',
       label: 'இன்னும் சில படங்கள்',
       text: `bell | மணி
 brush| தூரிகை
-bone| எலும்புத்துண்டு
 box | பெட்டி
+flag | கொடி 
 coin | நாணயம்
 top | பம்பரம்
 balloon | பலூன்
@@ -92,38 +102,27 @@ brick | செங்கல்
 rooftile|ஓடு
 stick | குச்சி
 ring| மோதிரம்
-drums|முரசு
 food| உணவு
 king|அரசன்
 queen | அரசி
 kite| பட்டம் 
 ladder| ஏணி
+cage | கூண்டு
 quill | இறகு
 oar | துடுப்பு
 gun | துப்பாக்கி
 wheel| சக்கரம்
 park | பூங்கா
 garden |தோட்டம்
-sculpture |சிற்பம்
 statue | சிலை
+uri | உறி 
 clay-lamp | அகல்விளக்கு
-clay-stove | அடுப்பு
-arivaal|அரிவாள்
-arivaal-manai|அரிவாள்மனை
-ladle|அகப்பை
-anjarai-petti|அஞ்சறைப்பெட்டி
-stone-grinder|ஆட்டுக்கல்
-sembu| செம்பு       
-ammi|அம்மி
-dosaikal|தோசைக்கல்
-kudam|குடம்
-anklet | கொலுசு
-bangle | வளையல்
-chain | சங்கிலி
-earring | காதணி
-salangai|சலங்கை
-cage | கூண்டு
 bouquet | மலர்கொத்து
+bharani | 
+gadha |
+para |
+scholar | 
+bone| எலும்புத்துண்டு
 babywalker | நடைவண்டி `
     }
   ]
