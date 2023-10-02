@@ -32,7 +32,8 @@ Mcq on antonyms
 Match activity on synonyms
 Fill up activity on one word substitutions
 Odd one out activity based on synonyms
-Jumbled word activity (simple words)`
+Jumbled word activity (simple words)
+Complete word based on one word substitutions`
     },
     {
       label: 'Words (शब्द)',
@@ -72,7 +73,8 @@ Mcq on antonyms
 Match synonyms
 Complete Puzzle on homonyms
 Fill up based on one word substitutions
-Fill up based on one word many meanings
+Complete word based on one word substitutions
+Complete word based on one word many meanings
 Odd one out activity based on one word many meanings
 Complete Puzzle using collective words
 Mcq on collective words`
@@ -84,6 +86,7 @@ Mcq on collective words`
 Match synonyms
 Complete Puzzle based on homonyms
 Fill up based on one word substitutions
+Complete word based on one word substitutions
 Fill up based on one word many meanings`
     },
     {
@@ -297,6 +300,7 @@ Mcq on compound words`
 Match activity on gender nouns
 Classify feminine and masculine gender nouns
 Match activity on splitting od compound words(sandhi vichedh)
+Complete word activity on splitting od compound words(sandhi vichedh)
 Classify noun and pronoun
 Classify verb and adverb
 Mcq on idioms
@@ -349,6 +353,7 @@ Audio story of mangoes
 Audio story on healthy eating habits
 Audio story on different occupations
 Audio story of the thirsty crow
+Picture based mcqs on favorite color, picnic and transport
 Reading passage on months and seasons
 Match activity on months and seasons
 Classify festivals celebrated in spring and summer
