@@ -32,14 +32,15 @@ printer | அச்சுப்பொறி`
       hexagon | அறுகோணம்
       kolam| கோலம்
       rishi| முனிவர்
+      scholar |
       boomerang | வளரி
       angel |தேவதை
         alien |வேற்றுகிரகவாசி   
         knight | போர்வீரன்
         warrior | மாவீரர்
   chariot | தேர்
-  horse-carriage |குதிரை வண்டி
-  yarn-ball |நூல் கண்டு
+  horse-carriage |குதிரைவண்டி
+  yarn-ball |நூல்கண்டு
   bow | வில்
   arrow | அம்பு
   fountain | நீரூற்று

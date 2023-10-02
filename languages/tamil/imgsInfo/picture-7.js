@@ -10,7 +10,7 @@ dragon-fruit |
 sugarcane |கரும்பு
 peach | 
 sweet-potato | சர்க்கரைவள்ளிக்கிழங்கு
-jamun |  நாவல் பழம்
+jamun |  நாவல்பழம்
 pear | 	பேரிக்காய்
 water-chestnut | 
 jujube | இலந்தைப்பழம்
@@ -25,7 +25,7 @@ passion-fruit | `
       id: 'vegetables',
       label: 'காய்கறிகள்',
       text: `
-      mustard-greens | 	கடுகு கீரை
+      mustard-greens | 	
 turmeric | மஞ்சள்
 turnip |
 fenugreek |வெந்தயக்கீரை

@@ -22,7 +22,7 @@ export default {
           tent-house |கூடாரம்
           tree-house |மரவீடு
           road |சாலை
-          railway | இரயில்வே
+          railway | இருப்புப்பாதை
           well | கிணறு
           airport |விமான நிலையம்
           bank | வங்கி
@@ -43,7 +43,7 @@ export default {
           restaurant | உணவகம்
           stage | மேடை
           supermarket |பல்பொருள் அங்காடி
-          escalator | இயங்கும் படிக்கட்டு
+          escalator |
           lift | 
           petrolbunk |
           footpath | நடைபாதை

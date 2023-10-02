@@ -15,23 +15,23 @@ export default {
       push |தள்ளு
       sing | பாடு
       dance | நடனம்
-      running |ஓடுதல்
+      running |ஓடு
       walking |நடைப்பயிற்சி
       sit | உட்கார்
       party |கொண்டாட்டம்
-      skipping | கயிற்றாட்டம்
+      skipping | 
       catch | பிடி
       pass | கைமாற்று 
-      swim | நீந்துதல்
+      swim | நீந்து
       swing | ஊஞ்சல்
-      throw | எறிதல்
+      throw | எறி
       carry | எடுத்துச்செல்
       lifting |தூக்குதல்
       mopping |துடைத்தல்
       riding |சவாரி
       sweep | பெருக்கு
       cough | இருமல்
-      sick |வியாதி
+      sick |சுகமின்மை 
       sneeze |தும்மல்
       yawn | கொட்டாவி
       sleep | துாக்கம்`
@@ -39,14 +39,14 @@ export default {
     {
       id: 'sports',
       label: 'விளையாட்டு',
-      text: `bat2 | மட்டை
+      text: `bat2 | 
       racket | 
-      seesaw | ஏற்றப் பலகை
+      seesaw | 
       slide | சறுக்கு
-      carrom | சுண்டாட்டப் பலகை
+      carrom |
       chess |சதுரங்கம்
       cricket2 |மட்டைப்பந்து
-      tennis | வலைப்பந்து
+      tennis | 
       football | கால்பந்து
       hockey | ஹாக்கி
       kabaddi | கபடி

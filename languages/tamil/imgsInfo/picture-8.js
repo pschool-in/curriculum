@@ -10,40 +10,40 @@ boat | படகு
 bus | பேருந்து
 car | மகிழுந்து
 cycle | மிதிவண்டி
-helicoptor | வானுார்தி
-motorbike | மோட்டார் சைக்கிள்
+helicoptor | 
+motorbike | மோட்டார்சைக்கிள்
 ship | 	கப்பல்
 tractor | இழுவை இயந்திரம்
 lorry|சரக்குந்து
 train | தொடர்வண்டி
 ambulance|அவசர ஊர்தி
 auto| ஆட்டோ
-cart| வண்டி
+cart| 
 metro | மெட்ரோ
 excavator|
-fire-engine| தீயணைப்பு வாகனம் 
+fire-engine| தீயணைப்புவாகனம் 
 tow-truck |
 van|
 bulldozer |
-crane2 | பாரந்துாக்கும் கருவி
-rocket | விண்வெளிக்கலன்
-submarine |நீர்மூழ்கிக் கப்பல்
+crane2 |
+rocket | ஏவூர்தி
+submarine |நீர்மூழ்கிக்கப்பல்
 spaceship |விண்கலம்
-bullock-cart | மாட்டு வண்டி
-horse-carriage |குதிரை வண்டி
+bullock-cart | மாட்டுவண்டி
+horse-carriage |குதிரைவண்டி
 palanquin | பல்லக்கு
 chariot |தேர்`
     },
     {
       id: 'jobs',
       label: 'தொழில்',
-      text: `astronaut |விண்வெளி வீரர்
+      text: `astronaut |விண்வெளிவீரர்
 clown |கோமாளி
 fisherman |மீனவர்
 postman | தபால்காரர்
 teacher |ஆசிரியர்
 blacksmith |கொல்லன்
-cobbler | செருப்புத் தைப்பவர்
+cobbler | செருப்புத்தைப்பவர்
 goldsmith | பொற்கொல்லர்
 potter | குயவர்
 weaver | நெசவாளர்
@@ -61,14 +61,14 @@ milkman | 	பால்காரர்
 shopkeeper | கடைக்காரர்
 businessman | தொழிலதிபர்
 cashier |காசாளர்
-electrician | மின்னியல் வல்லுநர்
+electrician | 
 farmer | விவசாயி
 mechanic | 	இயந்திர வல்லுநர்
 pilot | விமானி
-plumber |குழாய் செப்பனிடுபவர்
-scientist | அறிவியல் விஞ்ஞானி
+plumber |குழாய்செப்பனிடுபவர்
+scientist | விஞ்ஞானி
 seller | விற்பனையாளர்
-software-developer|மென்பொருள் உருவாக்குபவர்`
+software-developer|`
     }
   ]
 };

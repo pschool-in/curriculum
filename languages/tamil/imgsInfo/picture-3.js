@@ -17,23 +17,23 @@ leaf|இலை
 tree | மரம்
 log | மரத்துண்டு
 nest |கூடு
-dew |பனித்துளிகள்
+dew |பனித்துளி
 waterfall |அருவி 
 rainbow |வானவில்
 cloud | மேகம்
 lightning | மின்னல்
-web | சிலந்தி வலை
+web | சிலந்திவலை
 shell |கிளிஞ்சல்
 shadow | நிழல்
 banyan | ஆலமரம்
 bamboo-tree | மூங்கில்மரம்
 banana-tree | வாழைமரம்
-bananaleaf |வாழை இலை
-coconut-tree | தென்னை மரம்
-coconutleaf | தென்னை இலை
-mangoleaf|மா இலை
-palm-tree | பனை மரம்
-neemleaf |வேப்ப இலை`
+bananaleaf | வாழையிலை 
+coconut-tree | தென்னைமரம்
+coconutleaf | தென்னையோலை
+mangoleaf|மாவிலை 
+palm-tree | பனைமரம்
+neemleaf |வேப்பிலை `
     },
     {
       id: 'body-parts',
@@ -65,7 +65,7 @@ nails | நகங்கள்`
       text: `rose |ரோஜா
 lotus | 	தாமரை
 sunflower | சூரியகாந்தி
-marigold | சாமந்திப்பூ
+marigold | சாமந்தி
 hibiscus | 	செம்பருத்தி
 jasmine |	முல்லை
 lily | 	 குவளை
@@ -73,7 +73,7 @@ tulip |
 zinnia|
 pansy | 
 water-lily |  அல்லி
-mogra|குண்டு மல்லி
+mogra|குண்டுமல்லி
 poosanipoo|பூசணிப்பூ
 sangupoo|சங்குப்பூ
 vaadamalli|வாடாமல்லி`
@@ -106,15 +106,15 @@ park | பூங்கா
 garden |தோட்டம்
 sculpture |சிற்பம்
 statue | சிலை
-clay-lamp | களிமண் விளக்கு
-clay-stove | களிமண் அடுப்பு
+clay-lamp | அகல்விளக்கு
+clay-stove | அடுப்பு
 arivaal|அரிவாள்
-arivaal-manai|அரிவாள்  மனை
+arivaal-manai|அரிவாள்மனை
 ladle|அகப்பை
 anjarai-petti|அஞ்சறைப்பெட்டி
 stone-grinder|ஆட்டுக்கல்
-sembu|வெண்கலச்செம்பு       
-ammi|அம்மிக்கல்
+sembu| செம்பு       
+ammi|அம்மி
 dosaikal|தோசைக்கல்
 kudam|குடம்
 anklet | கொலுசு

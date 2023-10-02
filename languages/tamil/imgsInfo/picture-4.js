@@ -28,12 +28,12 @@ lock |பூட்டு
 key | சாவி
 net |வலை
 rope | கயிறு
-teapot | தேநீர்க் கெண்டி
+teapot | தேநீர்க்கெண்டி
 fan |மின்விசிறி
 ball | பந்து
-teddy |கரடி பொம்மை
+teddy |கரடிபொம்மை
 jug | கூஜா
-lightbulb | ஒளி விளக்கு
+lightbulb | மின்விளக்கு
 candle|மெழுகுவர்த்தி
 chair|நாற்காலி
 shelf|அலமாரி
@@ -41,16 +41,16 @@ switchboard|
 glasses|மூக்குக்கண்ணாடி
 clock | கடிகாரம்
 watch | கைக்கடிகாரம்
-flower-pot | பூத்தொட்டி
+flower-pot | பூந்தொட்டி 
 umbrella | குடை
 door |கதவு
 broom | துடைப்பம்
 window | ஜன்னல்
-sofa | நீள் சாய்விருக்கை
-kettle |கொதிகெண்டி
+sofa |சோபா
+kettle |
 bucket |  வாளி
 carpet | கம்பளம்
-doormat | கால் மிதி
+doormat | கால்மிதி
 walkingstick | கைத்தடி
 toilet | கழிப்பறை
 soap |சவர்க்காரம்
@@ -59,36 +59,36 @@ backpack | முதுகுப்பை
 pillow | தலையணை
 basket | கூடை
 dustbin | குப்பைத்தொட்டி
-bed-lamp |மேசை விளக்கு
+bed-lamp |
 handbag | கைப்பை
-steps | படிக்கட்டுகள்
+steps | படிக்கட்டு
 curtains | திரைச்சீலை
-watertank |தண்ணீர் தொட்டி
+watertank |தண்ணீர்தொட்டி
 air-conditioner | குளிரூட்டி 
-washing-machine |துணி துவைக்கும் இயந்திரம்`
+washing-machine |`
     },
     {
       id: 'dress',
       label: 'ஆடை',
       text: `dress | ஆடை
-coat |மேல்சட்டை
+coat |
 shoe | காலணி
 sock | காலுறை
 boots | 
 pyjama | 
-gloves | கையுறைகள்
-scarf | கழுத்துக் குட்டை
-sweater | கம்பளிச்சட்டை
+gloves | கையுறை
+scarf | 
+sweater | 
 bib | 
 shirt | சட்டை
-jacket | மேலுறை
+jacket | 
 hat | தொப்பி
 cap | 
 trousers | கால்சட்டை
 vetti | வேட்டி
 saree |சேலை
 belt | இடுப்புவார்
-tie | கழுத்து பட்டை
+tie | 
 karchief | கைக்குட்டை
 raincoat |
 towel | துண்டு
@@ -101,8 +101,8 @@ uniform | சீருடை`
 pencil|கரிக்கோல்
 ruler|அளவுகோல்
 blackboard | கரும்பலகை
-chalk | சுண்ணாம்பு
-nib |பேனா அலகு
+chalk | 
+nib |
 eraser|அழிப்பான்
 glue | பசை
 clip | 
@@ -112,38 +112,40 @@ sharpener|கூர்மையாக்கி
 calculator| கணிப்பான் 
 book| புத்தகம்
 ink | மை
-globe | உலகஉருண்டை
+globe | பூகோளம்
 magnet | காந்தம்
 schoolbag| புத்தகப்பை 
 waterbottle| தண்ணீர் குடுவை
-color-pencils|வண்ணக் கரிக்கோல்
+color-pencils|
 stapler |
 crayons | 
 notebook | குறிப்பேடு
-writingpad |  எழுத ஏதுவான அட்டை`
+writingpad | 
+stamp | முத்திரை`
     },
     {
       id: 'kitchen',
       label: 'சமையலறை',
       text: `stove|அடுப்பு
-fork|	முள் கரண்டி
 knife|கத்தி
-pan|உலோகத்தட்டு
-spoon|கரண்டி
+pan|வாணலி 
+spoon|
 pot|பானை
 butter|வெண்ணெய்
 plate | தட்டு
 tap | குழாய்
 lid |மூடி
-blender | கலப்பான்
-grinder | அரைக்கும் இயந்திரம்
+blender | 
+grinder | 
 cheese | பாலாடைக்கட்டி
 fridge | குளிர்சாதனப்பெட்டி
 sugar | சர்க்கரை
 bowl | கிண்ணம்
+fork|	முள் கரண்டி
+uri | உறி
 salt | உப்பு
 cup |கோப்பை
-ladle | அகப்பை
+ladle | கரண்டி 
 flour | மாவு
 lentils | பருப்பு
 rice | அரிசி`
@@ -152,8 +154,8 @@ rice | அரிசி`
       id: 'eatables',
       label: 'உணவுப்பொருட்கள்',
       text: `lollipop | குச்சி மிட்டாய்
-      salad | பச்சைக்காய்கறிகள்
-      chicken | கோழி இறைச்சி
+      salad | 
+      chicken |
       milk|பால்
       fruits|பழங்கள்
       ice-cream |பனிக்கூழ்
@@ -180,7 +182,7 @@ porotta|பரோட்டா
 puttu-rice|புட்டு  
 vadai|வடை
 ladoo|லட்டு
-ellumittai|எள்ளு மிட்டாய்
+ellumittai|எள்ளுமிட்டாய்
 kadalai-mittai| கடலைமிட்டாய்     `
     }
   ]

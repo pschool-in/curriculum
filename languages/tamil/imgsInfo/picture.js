@@ -14,42 +14,37 @@ horse| குதிரை
 pig|பன்றி
 elephant| யானை
 lion | சிங்கம்
-monkey| குரங்கு
-hippo| நீர்யானை
-rhino|காண்டாமிருகம்
-fox|  நரி
-crocodile|முதலை
-zebra| 	வரிக்குதிரை
-bear| கரடி
-camel| ஒட்டகம்
-shark| சுறாமீன்
-whale| திமிங்கிலம்
-dolphin| டால்பின்
-
 tiger| புலி
-sheep| செம்மறி ஆடு
+
+monkey| குரங்கு
+bear| கரடி
+cheetah| சிறுத்தை
+fox|  நரி
+bull | காளை
+camel| ஒட்டகம்
+hippo| நீர்யானை
+kangaroo| கங்காரு
+wolf| ஓநாய்
+crocodile|முதலை
+rabbit| முயல்
+lizard| பல்லி
 fish| மீன்
 frog| தவளை
 crab| நண்டு
 snake| பாம்பு
-bull | காளை
 tortoise| ஆமை
 rat| எலி
 ant| எறும்பு
-
-bat| வௌவால்
 buffalo| எருமை
-butterfly| வண்ணத்துப்பூச்சி
-cheetah| சிறுத்தை
+earthworm | மண்புழு
 bee | தேனீ
-goldfish | தங்கமீன்
+fly|ஈ
+winged-termites | ஈசல் 
+mosquito| கொசு
 spider| சிலந்தி
-panda| பாண்டா
-giraffe| ஒட்டகச்சிவிங்கி
-kangaroo| கங்காரு
 scorpion |  தேள்
-centipede | பூரான்
-millipede | மரவட்டை
+squirrel|அணில்
+garden-lizard| ஓணான் 
 `
     },
     {
@@ -59,23 +54,20 @@ millipede | மரவட்டை
 dove|புறா
 duck|வாத்து
 hen|	கோழி
-chick| கோழிக்குஞ்சு
 parrot|கிளி
 peacock|மயில்
-penguin|பென்குவின்
-sparrow|சிட்டுக்குருவி
 crane| கொக்கு
-
 eagle|கழுகு
 flamingo|
-kingfisher| மீன் கொத்தி
 myna|மைனா
-ostrich| நெருப்புக்கோழி
 owl| ஆந்தை
 rooster|சேவல்
+pelican |
 vulture| 
-woodpecker| மரங்கொத்தி
-koel |குயில்`
+falcon | பருந்து
+koel |குயில்
+turkey |வான்கோழி
+kingfisher| மீன்கொத்தி`
     }
   ]
 };

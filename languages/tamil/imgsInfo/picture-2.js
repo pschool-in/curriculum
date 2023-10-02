@@ -36,7 +36,7 @@ onion|வெங்காயம்
 tomato|தக்காளி
 potato|உருளைக்கிழங்கு
 cabbage|முட்டைகோசு
-cauliflower|காலிஃபிளவர்
+cauliflower|
 corn|மக்காச்சோளம்
 cucumber|வெள்ளரிக்காய்
 garlic|பூண்டு
@@ -54,7 +54,7 @@ curryleaf|கருவேப்பிலை
 mushroom | காளான்
 
 drumstick|முருங்கைக்காய்
-greenpeas|பச்சை பட்டாணி
+greenpeas|பச்சைபட்டாணி
 ladies-finger| வெண்டைக்காய்
 mintleaf|புதினா
 peanut|வேர்க்கடலை
@@ -72,7 +72,7 @@ cashewnut|முந்திரி`
       text: `lentils|பருப்பு
 rice|அரிசி
 kadalai-paruppu|கடலைபருப்பு
-malli|கொத்தமல்லி விதை
+malli|மல்லி
 pepper|மிளகு
 mochai| மொச்சை
 moong-dhal|பாசிப்பருப்பு
@@ -80,7 +80,7 @@ pattani|பட்டாணி
 seeragam|சீரகம்
 sombu|சோம்பு
 toor-dhal|துவரம் பருப்பு
-urad-dhal| உளுத்தம் பருப்பு
+urad-dhal| உளுந்து 
 wheat|கோதுமை
 paddy|நெல்`
     }
