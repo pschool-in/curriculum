@@ -8,7 +8,7 @@ export default {
       text: `star-fruit | 
 dragon-fruit |
 sugarcane | ऊस|Ūsa
-peach | जांभूळ|Jāmbhūḷa
+peach | 
 sweet-potato | रताळे|Ratāḷē
 jamun |जांभूळ | Jamun
 pear | नाशपाती |Nāśapātī
