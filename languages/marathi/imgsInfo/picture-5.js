@@ -51,9 +51,9 @@ football | फुटबॉल | Phuṭabŏla
 hockey |हॉकी | Hŏkī
 kabaddi | कबड्डी | Kabaddi
 archery | धनुर्विद्या|Dhanurvidyā
-basketball | Basket ball
+basketball | 
 boxing |मुष्ठियुद्ध | mushthiyuddh
-table-tennis | table-tennis
+table-tennis | 
 Golf | गोल्फ | Gōlpha
 wrestling | कुस्ती|Kustī
 
