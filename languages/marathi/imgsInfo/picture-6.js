@@ -31,7 +31,7 @@ jackal |कोल्हा | Kōl'hā
 prawn | कोळंबी|Kōḷambī
 baboon | मोठा वानर | Mōṭhā vānara
 python | अजगर|Ajagara
-bison | बिबट्या|Bibaṭyā
+bison | 
 chameleon | गिरगिट|Giragiṭa
 porcupine | साळू | Sālū
 tigerfish | वाघमासा | Vāghamāsā

@@ -123,7 +123,7 @@ lid | झाकण|Jhākaṇa
 
 blender | मिश्रण यंत्र | Miśraṇa yantra
 grinder | गिरणी | Giraṇī 
-cheese | Cheese
+cheese | 
 fridge | शीतपेटी | Śītapēṭī
 lollipop | लॉलीपॉप | Lŏlīpŏpa
 salad | कोशिंबीर|Kōśimbīra
@@ -132,7 +132,7 @@ bowl | वाटी|Vāṭī
 chicken | कोंबडीचे मांस | Kōmbaḍīcē mānsa
 milk|दूध|Dūdha
 fruits|फळे|Phaḷē
-ice-cream | Ice cream
+ice-cream | 
 meat | मांस|Mānsa
 
 salt | मीठ|Mīṭha
