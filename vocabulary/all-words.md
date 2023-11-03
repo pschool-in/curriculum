@@ -40,33 +40,27 @@ permit, plead, plentiful, practice, predict, queasy, recent, recognize, reduce, 
 
 source, sturdy, surface, survive, terror, threat, tidy, tour, tradition, tragic, typical, vacant, valiant, variety, vast, venture, weary
 
-(7)
+(7-8)
 
 abandon, abundant, access, accommodate, accumulate, adapt, adhere, agony, allegiance, ambition, ample, anguish, anticipate, anxious, apparel, appeal, apprehensive, arid, arrogant, awe
 
-barren, beacon, beneficial, blunder, boisterous, boycott, burden, campaign, capacity, capital, chronological, civic, clarity, collaborate, collide, commend, commentary, compact, composure, concise
+barren, beacon, beneficial, blunder, boisterous, boycott, burden, campaign, capacity, chronological, civic, clarity, collaborate, collide, commend, commentary, compact, composure, concise, consent
 
-consent, consequence, conserve, conspicuous, constant, contaminate, context, continuous, controversy, convenient, cope, cordial, cultivate, cumulative, declare, deluge, dense, deplete, deposit, designate
+consequence, conserve, conspicuous, constant, contaminate, context, continuous, controversy, convenient, cope, cordial, cultivate, cumulative, declare, deluge, dense, deplete, deposit, designate, desperate
 
-desperate, deteriorate, dialogue, diligent, diminish, discretion, dissent, dissolve, distinct, diversity, domestic, dominate, drastic, duration, dwell, economy, eerie, effect, efficient, elaborate
+deteriorate, dialogue, diligent, diminish, discretion, dissent, dissolve, distinct, diversity, domestic, dominate, drastic, duration, dwell, economy, eerie, effect, efficient, elaborate, eligible
 
-eligible, elude, encounter, equivalent, erupt, esteem, evolve, exaggerate, excel, exclude,
-expanse, exploit, extinct, extract, factor, former, formulate, fuse, futile, generate
+elude, encounter, equivalent, erupt, esteem, evolve, exaggerate, excel, exclude, expanse, exploit, extinct, extract, factor, former, formulate, futile, generate, genre, habitat
 
-genre, habitat, hazardous, hoax, hostile, idiom, ignite, immense, improvise, inept,
-inevitable, influence, ingenious, innovation, intimidate, jovial, knack, leeway, legislation, leisure
+hazardous, hoax, hostile, idiom, ignite, immense, improvise, inept, inevitable, influence, ingenious, innovation, intimidate, jovial, knack, leeway, legislation, leisure, liberate, likeness
 
-liberate, likeness, linger, literal, loathe, lure, majority, makeshift, manipulate, marvel,
-massive, maximum, meager, mere, migration, mimic, minute, monotonous, negotiate
+linger, literal, loathe, lure, majority, makeshift, manipulate, marvel, massive, maximum, meager, mere, migration, mimic, minute, monotonous, negotiate, obstacle, omniscient, onset
 
-obstacle, omniscient, onset, optimist, originate, painstaking, paraphrase, parody, persecute, plummet, possess, poverty, precise, predicament, predict, prejudice, preliminary, primitive, priority, prominent
+optimist, originate, painstaking, paraphrase, parody, persecute, plummet, possess, poverty, precise, predicament, predict, prejudice, preliminary, primitive, priority, prominent, propel, prosecute, prosper
 
-propel, prosecute, prosper, provoke, pursue, quest, recount, refuge, reinforce, reluctant,
-remorse, remote, resolute, restrain, retaliate, retrieve, rigorous, rural, salvage
+provoke, pursue, quest, recount, refuge, reinforce, reluctant, remorse, remote, resolute, restrain, retaliate, retrieve, rigorous, rural, salvage, sanctuary, siege, significant, solar
 
-sanctuary, siege, significant, solar, soothe, stationary, stifle, strive, subordinate, subsequent, superior, supplement, swarm, tangible, terminate, terrain, trait, transform, transport, treacherous
-
-unanimous, unique, unruly, urban, vacate, verdict, verge, vibrant, vital.
+soothe, stationary, stifle, strive, subordinate, subsequent, superior, supplement, swarm, tangible, terminate, terrain, trait, transform, transport, treacherous, unanimous, unique, unruly, urban
 
 MCQ Synonyms and Antonyms
 
