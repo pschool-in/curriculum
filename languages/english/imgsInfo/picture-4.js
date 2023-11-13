@@ -27,6 +27,7 @@ mug | Mug
 lock | Lock
 key | Key
 net | Net
+toy |
 rope | Rope
 teapot | Teapot
 fan | Fan
@@ -193,7 +194,8 @@ kadalai-paruppu
 malli| Corriander
 pattani
 seeragam| Cumin
-sombu`
+sombu
+`
     }
   ]
 };

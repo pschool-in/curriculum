@@ -43,8 +43,7 @@ mosquito| கொசு
 spider| சிலந்தி
 scorpion |  தேள்
 squirrel|அணில்
-garden-lizard| ஓணான் 
-`
+garden-lizard| ஓணான் `
     },
     {
       id: 'birds',

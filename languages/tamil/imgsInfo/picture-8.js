@@ -21,7 +21,7 @@ auto| ஆட்டோ
 cart| 
 metro | மெட்ரோ
 excavator|
-fire-engine| தீயணைப்புவாகனம் 
+fire-engine| தீயணைப்பு வாகனம் 
 tow-truck |
 van|
 bulldozer |
