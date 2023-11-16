@@ -21,7 +21,12 @@ options: 'innovative, boring, ordinary, new'
 His problem-solving *ability* is truly remarkable.`,
     antonyms: 'disability, incompetence',
     synonyms: 'capability, proficiency',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `She has the *ability* to speak five different languages fluently.`,
+        options: 'capability, stability, courage, pride'
+      }
+    ]
   },
   absorb: {
     meaning: 'take in a liquid',
@@ -29,7 +34,12 @@ His problem-solving *ability* is truly remarkable.`,
 Plants *absorb* sunlight and convert it into energy through photosynthesis.`,
     antonyms: 'release, expel',
     synonyms: 'assimilate, soak up',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Plants *absorb* sunlight and convert it into energy through photosynthesis.`,
+        options: 'assimilate, release, expel, soak up'
+      }
+    ]
   },
   accuse: {
     meaning: 'blame for wrongdoing or misbehavior',
@@ -37,7 +47,12 @@ Plants *absorb* sunlight and convert it into energy through photosynthesis.`,
 He didn't want to *accuse* anyone without concrete evidence.`,
     antonyms: 'absolve, exonerate',
     synonyms: 'blame, charge',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The prosecutor will *accuse* the suspect of theft during the trial.`,
+        options: 'blame, absolve, exonerate, judge'
+      }
+    ]
   },
   act: {
     meaning: 'behave in a certain manner',
@@ -45,7 +60,12 @@ He didn't want to *accuse* anyone without concrete evidence.`,
 The actor's performance in the play was an *act* of brilliance.`,
     antonyms: 'rest, idle',
     synonyms: 'perform, execute',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `His decision to help the community was a selfless *act* of kindness.`,
+        options: 'performance, act, execution, rest'
+      }
+    ]
   },
   active: {
     meaning: 'characterized by energetic movement',
@@ -53,7 +73,12 @@ The actor's performance in the play was an *act* of brilliance.`,
 Leading a sedentary lifestyle can lead to health issues; it's essential to stay *active*.`,
     antonyms: 'inactive, sluggish',
     synonyms: 'energetic, dynamic',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Leading a sedentary lifestyle can lead to health issues; it's essential to stay *active*.`,
+        options: 'energetic, inactive, lazy, sluggish'
+      }
+    ]
   },
   actual: {
     meaning: 'fact',
@@ -61,7 +86,12 @@ Leading a sedentary lifestyle can lead to health issues; it's essential to stay 
 The *actual* cost of the project was higher than the initial estimate.`,
     antonyms: 'imaginary, fictional',
     synonyms: 'real, genuine',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *actual* number of attendees exceeded our expectations.`,
+        options: 'real, imaginary, genuine, fictional'
+      }
+    ]
   },
   adopt: {
     meaning: `take into one's family`,
@@ -69,7 +99,12 @@ The *actual* cost of the project was higher than the initial estimate.`,
 We wouldn't be surprised to see more small businesses *adopt* this technology.`,
     antonyms: 'reject, abandon',
     synonyms: 'embrace, accept',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `They decided to *adopt* a rescue dog from the local shelter.`,
+        options: 'embrace, reject, abandon, accept'
+      }
+    ]
   },
   advantage: {
     meaning: 'the quality of having a superior or more favorable position',
@@ -77,7 +112,12 @@ We wouldn't be surprised to see more small businesses *adopt* this technology.`,
 A good education can be a valuable *advantage* in one's career.`,
     antonyms: 'disadvantage, drawback',
     synonyms: 'benefit, gain',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Having prior experience in the field gave her a significant *advantage*.`,
+        options: 'benefit, disadvantage, gain, drawback'
+      }
+    ]
   },
   advice: {
     meaning: 'a proposal for an appropriate course of action',
@@ -85,7 +125,12 @@ A good education can be a valuable *advantage* in one's career.`,
 The *advice* he received from the financial advisor helped him invest wisely.`,
     antonyms: 'misguidance, ignorance',
     synonyms: 'counsel, guidance',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `She sought *advice* from her mentor before making a major life decision.`,
+        options: 'guidance, misguidance, help, ignorance'
+      }
+    ]
   },
   ambition: {
     meaning: 'a strong drive for success',
@@ -93,7 +138,12 @@ The *advice* he received from the financial advisor helped him invest wisely.`,
 He pursued his academic goals with determination and *ambition*.`,
     antonyms: 'apathy, indifference',
     synonyms: 'aspiration, goal',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Her *ambition* was to become a successful entrepreneur and create jobs.`,
+        options: 'goal, apathy, ambition, indifference'
+      }
+    ]
   },
   ancient: {
     meaning: 'belonging to times long past',
@@ -101,7 +151,12 @@ He pursued his academic goals with determination and *ambition*.`,
 She had a collection of *ancient* books that were passed down through generations.`,
     antonyms: 'modern, contemporary',
     synonyms: 'antique, historic',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *ancient* ruins of the Mayan civilization are a popular tourist attraction.`,
+        options: 'antique, modern, ancient, contemporary'
+      }
+    ]
   },
   approach: {
     meaning: 'move towards',
@@ -109,7 +164,12 @@ She had a collection of *ancient* books that were passed down through generation
 His diplomatic *approach* to international relations was praised by many.`,
     antonyms: 'retreat, withdraw',
     synonyms: 'near, advance',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `We should *approach* the problem with a fresh perspective.`,
+        options: 'advance, retreat, near, withdraw'
+      }
+    ]
   },
   arrange: {
     meaning: 'put into a proper or systematic order',
@@ -117,7 +177,12 @@ His diplomatic *approach* to international relations was praised by many.`,
 The conference organizer had to *arrange* seating for hundreds of attendees.`,
     antonyms: 'disarrange, disorder',
     synonyms: 'organize, order',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The conference organizer had to *arrange* seating for hundreds of attendees.`,
+        options: 'organize, disarrange, set, disorder'
+      }
+    ]
   },
   arctic: {
     meaning: 'extremely cold',
@@ -125,7 +190,12 @@ The conference organizer had to *arrange* seating for hundreds of attendees.`,
 Polar bears are well adapted to the frigid waters of the *Arctic*.`,
     antonyms: 'tropical, warm',
     synonyms: 'polar, freezing',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Polar bears are well adapted to the frigid waters of the *Arctic*.`,
+        options: 'polar, tropical, freezing, warm'
+      }
+    ]
   },
   attitude: {
     meaning: 'a complex mental state involving beliefs and feelings',
@@ -133,7 +203,12 @@ Polar bears are well adapted to the frigid waters of the *Arctic*.`,
 The team's negative *attitude* affected their performance on the field.`,
     antonyms: 'apathy, indifference',
     synonyms: 'perspective, demeanor',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Her positive *attitude* and outlook on life were contagious.`,
+        options: 'demeanor, apathy, attitude, indifference'
+      }
+    ]
   },
   attract: {
     meaning: 'exert a force on',
@@ -141,7 +216,12 @@ The team's negative *attitude* affected their performance on the field.`,
 The company used a catchy slogan to *attract* more customers.`,
     antonyms: 'repel, deter',
     synonyms: 'allure, entice',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The company used a catchy slogan to *attract* more customers.`,
+        options: 'allure, repel, deter, inspire'
+      }
+    ]
   },
   average: {
     meaning: 'an intermediate scale value regarded as normal or usual',
@@ -157,7 +237,12 @@ The students' test scores were slightly above the class *average*.`,
 She decided to *avoid* taking the busy highway to work to save time.`,
     antonyms: 'confront, face',
     synonyms: 'evade, elude',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `To maintain good health, it's essential to *avoid* sugary and processed foods.`,
+        options: 'evade, confront, face, eat'
+      }
+    ]
   },
   bold: {
     meaning: 'fearless and daring',
@@ -165,7 +250,12 @@ She decided to *avoid* taking the busy highway to work to save time.`,
 Her *bold* fashion choices always turned heads.`,
     antonyms: 'timid, fearful',
     synonyms: 'courageous, daring',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Her *bold* fashion choices always turned heads.`,
+        options: 'daring, fearful, timid, scary'
+      }
+    ]
   },
   border: {
     meaning: 'the boundary of a surface',
@@ -173,7 +263,12 @@ Her *bold* fashion choices always turned heads.`,
 The intricate design along the *border* of the rug added to its beauty.`,
     antonyms: 'center, interior',
     synonyms: 'boundary, edge',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The river forms a natural *border* between the two countries.`,
+        options: 'boundary, interior, center, division'
+      }
+    ]
   },
   brief: {
     meaning: 'of short duration or distance',
@@ -181,7 +276,12 @@ The intricate design along the *border* of the rug added to its beauty.`,
 Please provide a *brief* summary of the book for the class.`,
     antonyms: 'elaborate, lengthy',
     synonyms: 'concise, short',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `He gave a *brief* presentation on the company's financial performance.`,
+        options: 'concise, elaborate, lengthy, detailed'
+      }
+    ]
   },
   brilliant: {
     meaning: 'full of light; shining intensely',
@@ -189,7 +289,12 @@ Please provide a *brief* summary of the book for the class.`,
 Her performance on the piano was nothing short of *brilliant*.`,
     antonyms: 'dull, mediocre',
     synonyms: 'bright, intelligent',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The sun's rays cast a *brilliant* light over the mountain peaks.`,
+        options: 'bright, dull, intelligent, mediocre'
+      }
+    ]
   },
   cable: {
     meaning: 'a very strong thick rope made of twisted hemp or steel wire',
@@ -197,7 +302,12 @@ Her performance on the piano was nothing short of *brilliant*.`,
 I need to call the *cable* company to fix our internet connection.`,
     antonyms: 'wireless, cordless',
     synonyms: 'wire, cord',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The ship's anchor was attached to a thick steel *cable*.`,
+        options: 'cord, wireless, cable, cordless'
+      }
+    ]
   },
   capture: {
     meaning: 'seize as if by hunting, snaring, or trapping',
@@ -205,7 +315,12 @@ I need to call the *cable* company to fix our internet connection.`,
 The police were able to *capture* the suspect after a long chase.`,
     antonyms: 'release, free',
     synonyms: 'seize, apprehend',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The photographer managed to *capture* the beauty of the sunset in his photo.`,
+        options: 'apprehend, release, take, free'
+      }
+    ]
   },
   certain: {
     meaning: 'definitely known',
@@ -213,7 +328,12 @@ The police were able to *capture* the suspect after a long chase.`,
 She was *certain* of her decision to change careers.`,
     antonyms: 'uncertain, doubtful',
     synonyms: 'sure, definite',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `It is *certain* that the sun will rise in the east tomorrow.`,
+        options: 'definite, uncertain, doubtful, unsure'
+      }
+    ]
   },
   chill: {
     meaning: 'coldness due to a cold environment',
@@ -221,7 +341,12 @@ She was *certain* of her decision to change careers.`,
 We decided to stay in and enjoy a movie on the couch to escape the winter *chill*.`,
     antonyms: 'warmth, heat',
     synonyms: 'cold, frost',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *chill* in the air made everyone reach for their jackets.`,
+        options: 'frost, cold, warmth, heat'
+      }
+    ]
   },
   clever: {
     meaning: 'mentally quick and resourceful',
@@ -229,7 +354,12 @@ We decided to stay in and enjoy a movie on the couch to escape the winter *chill
 She is known for her *clever* sense of humor and witty remarks.`,
     antonyms: 'stupid, foolish',
     synonyms: 'smart, intelligent',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `His *clever* solution to the problem impressed everyone in the meeting.`,
+        options: 'smart, foolish, stupid, unworthy'
+      }
+    ]
   },
   climate: {
     meaning: 'the weather in some location averaged over a period of time',
@@ -237,7 +367,12 @@ She is known for her *clever* sense of humor and witty remarks.`,
 *Climate* change is a global issue that affects us all.`,
     antonyms: '',
     synonyms: 'weather, atmosphere',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `*Climate* change is a global issue that affects us all.`,
+        options: 'Weather, Climate, Season, Heat'
+      }
+    ]
   },
   cling: {
     meaning: 'hold on tightly or tenaciously',
@@ -245,7 +380,12 @@ She is known for her *clever* sense of humor and witty remarks.`,
 Many people *cling* to their faith in times of grief and loss.`,
     antonyms: 'release, let go',
     synonyms: 'clutch, adhere',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Many people *cling* to their faith in times of grief and loss.`,
+        options: 'adhere, release, let go, leave'
+      }
+    ]
   },
   coast: {
     meaning: 'the shore of a sea or ocean',
@@ -253,7 +393,12 @@ Many people *cling* to their faith in times of grief and loss.`,
 The ship sailed along the picturesque *coast* as the sun set.`,
     antonyms: 'inland, interior',
     synonyms: 'shore, shoreline',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `We spent our vacation at a beautiful beach house on the *coast*.`,
+        options: 'shore, coast, inland, interior'
+      }
+    ]
   },
   confess: {
     meaning: 'admit to a wrongdoing',
@@ -261,7 +406,16 @@ The ship sailed along the picturesque *coast* as the sun set.`,
 Despite being asked repeatedly, she refused to *confess*.`,
     antonyms: 'deny, reject',
     synonyms: 'admit, acknowledge',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `He decided to *confess* his mistake and apologize to his friend.`,
+        options: 'admit, deny, reject, lie about'
+      },
+      {
+        qText: `He decided to *confess* his mistake.`,
+        options: 'deny, admit, acknowledge, accept'
+      }
+    ]
   },
   consider: {
     meaning: 'think about carefully; weigh',
@@ -269,7 +423,12 @@ Despite being asked repeatedly, she refused to *confess*.`,
 Please *consider* my likes and dislikes when you choose the movie for the movie night.`,
     antonyms: 'disregard, ignore',
     synonyms: 'contemplate, ponder',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Before making a decision, I need to *consider* all the pros and cons of this job offer.`,
+        options: 'contemplate, disregard, evaluate, ignore'
+      }
+    ]
   },
   contain: {
     meaning: 'hold or have within',
@@ -277,7 +436,12 @@ Please *consider* my likes and dislikes when you choose the movie for the movie 
 This book *contains* a wealth of information about ancient civilizations.`,
     antonyms: 'release, free',
     synonyms: 'hold, enclose',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The box *contains* a collection of rare vintage coins.`,
+        options: 'holds, release, free, enclose'
+      }
+    ]
   },
   continent: {
     meaning: 'one of the large landmasses of the earth',
@@ -285,7 +449,12 @@ This book *contains* a wealth of information about ancient civilizations.`,
 The *continents* of Europe and Asia are connected by the Ural Mountains.`,
     antonyms: '',
     synonyms: 'landmass, mainland',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Africa is the second-largest *continent* in the world by both land area and population.`,
+        options: 'landmass, continent, plain, island'
+      }
+    ]
   },
   convince: {
     meaning: 'make realize the truth or validity of something',
@@ -293,7 +462,12 @@ The *continents* of Europe and Asia are connected by the Ural Mountains.`,
 She tried to *convince* her friends to join her in the charity event.`,
     antonyms: 'dissuade, discourage',
     synonyms: 'persuade, assure',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `He used strong evidence to *convince* the jury of the defendant's guilt.`,
+        options: 'persuade, convince, dissuade, discourage'
+      }
+    ]
   },
   coward: {
     meaning: 'a person who shows fear or timidity',
@@ -301,7 +475,12 @@ She tried to *convince* her friends to join her in the charity event.`,
 Don't be a *coward*; stand up for what you believe in.`,
     antonyms: 'brave, courageous',
     synonyms: 'timid, fearful',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `He was labeled *coward* for running away from the fight.`,
+        options: 'fearful, courageous, timid, coward'
+      }
+    ]
   },
   crew: {
     meaning: 'an organized group of workers',
@@ -309,7 +488,12 @@ Don't be a *coward*; stand up for what you believe in.`,
 The flight *crew* made sure all passengers were comfortable during the long journey.`,
     antonyms: 'solo, individual',
     synonyms: 'team, group',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The film *crew* worked tirelessly to capture the perfect shot.`,
+        options: 'team, solo, individual, men'
+      }
+    ]
   },
   crumple: {
     meaning: 'gather something into small wrinkles or folds',
@@ -317,7 +501,12 @@ The flight *crew* made sure all passengers were comfortable during the long jour
 The car's front end began to *crumple* upon impact with the tree.`,
     antonyms: 'smooth, flatten',
     synonyms: 'crush, wrinkle',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `She *crumpled* the piece of paper and threw it into the trash can.`,
+        options: 'wrinkled, flattened, crushed, smoothed'
+      }
+    ]
   },
   custom: {
     meaning: 'accepted or habitual practice',
@@ -325,7 +514,12 @@ The car's front end began to *crumple* upon impact with the tree.`,
 The *custom* of exchanging gifts during the holidays is widely practiced.`,
     antonyms: 'change',
     synonyms: 'tradition, practice',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `It's a *custom* in some cultures to bow as a sign of respect.`,
+        options: 'tradition, custom, change, duty'
+      }
+    ]
   },
   decay: {
     meaning: 'the organic phenomenon of rotting',
@@ -333,7 +527,12 @@ The *custom* of exchanging gifts during the holidays is widely practiced.`,
 The *decay* of fallen leaves on the forest floor contributes to nutrient recycling.`,
     antonyms: 'growth, flourish',
     synonyms: 'deterioration, rot',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Without proper maintenance, the old house began to *decay* over time.`,
+        options: 'deteriorate, grow, flourish, grow'
+      }
+    ]
   },
   deed: {
     meaning: 'a legal document to effect a transfer of property',
@@ -349,7 +548,12 @@ The property *deed* was carefully examined by the lawyers to ensure all legal re
 It's essential to *defend* your rights and speak up when you're being treated unfairly.`,
     antonyms: 'attack, assail',
     synonyms: 'protect, guard',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The brave knight stood ready to *defend* the kingdom against the approaching dragon.`,
+        options: 'guard, defend, assail, attack'
+      }
+    ]
   },
   delicate: {
     meaning: 'developed with extreme subtlety',
@@ -357,7 +561,12 @@ It's essential to *defend* your rights and speak up when you're being treated un
 Handling antique china requires a *delicate* touch to avoid any damage.`,
     antonyms: 'sturdy',
     synonyms: 'fragile, delicate',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *delicate* embroidery on the wedding dress was exquisite, showcasing incredible attention to detail.`,
+        options: 'sturdy, fragile, delicate, durable'
+      }
+    ]
   },
   device: {
     meaning: 'an instrumentality invented for a particular purpose',
@@ -365,7 +574,12 @@ Handling antique china requires a *delicate* touch to avoid any damage.`,
 The scientist invented a groundbreaking *device* for detecting pollution in the air.`,
     antonyms: '',
     synonyms: 'gadget, instrument',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `A smartphone is a versatile *device* that allows you to communicate, browse the internet, and take photos.`,
+        options: 'gadget, device, instrument, tool'
+      }
+    ]
   },
   diagram: {
     meaning: 'a drawing intended to explain how something works',
@@ -381,7 +595,12 @@ The architect created a detailed *diagram* of the building's layout before const
 After eating, it's important to give your body time to *digest* the meal before engaging in vigorous exercise.`,
     antonyms: 'reject, expel',
     synonyms: 'absorb, assimilate',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Our digestive system helps *digest* the food we eat, breaking it down into nutrients for our body.`,
+        options: 'absorb, reject, expel, waste'
+      }
+    ]
   },
   disease: {
     meaning: 'an impairment of health',
@@ -389,7 +608,12 @@ After eating, it's important to give your body time to *digest* the meal before 
 Regular handwashing is an effective way to reduce the risk of contracting contagious *diseases*.`,
     antonyms: 'health, wellness',
     synonyms: 'illness, ailment',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Vaccines have been crucial in preventing the spread of infectious *diseases* like polio and smallpox.`,
+        options: 'illness, wellness, diseases, health'
+      }
+    ]
   },
   distant: {
     meaning: 'separated in space or coming from far away',
@@ -397,7 +621,12 @@ Regular handwashing is an effective way to reduce the risk of contracting contag
 We could hear the *distant* sound of fireworks from the nearby city.`,
     antonyms: 'near, close',
     synonyms: 'far, remote',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The mountains in the *distant* horizon looked like a hazy silhouette against the setting sun.`,
+        options: 'far, close, near, distance'
+      }
+    ]
   },
   doze: {
     meaning: 'a light fitful sleep',
@@ -405,7 +634,12 @@ We could hear the *distant* sound of fireworks from the nearby city.`,
 The rhythmic sound of the rain outside made it easy to *doze* off during the afternoon.`,
     antonyms: 'wake, rouse',
     synonyms: 'nap, sleep',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `After a long day at work, she took a short *doze* on the couch to recharge.`,
+        options: 'nap, break, wake, rouse '
+      }
+    ]
   },
   drift: {
     meaning: 'be in motion due to some air or water current',
@@ -413,7 +647,12 @@ The rhythmic sound of the rain outside made it easy to *doze* off during the aft
 In a snowstorm, it's easy for a car to *drift* off the road if not driven carefully.`,
     antonyms: 'anchor, stay',
     synonyms: 'float, wander',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The boat began to *drift* along the gentle current of the river.`,
+        options: 'wander, stay, drift, anchor'
+      }
+    ]
   },
   elegant: {
     meaning: 'refined and tasteful in appearance, behavior, or style',
@@ -421,7 +660,16 @@ In a snowstorm, it's easy for a car to *drift* off the road if not driven carefu
 The interior of the upscale restaurant was adorned with *elegant* decor and artwork.`,
     antonyms: 'clumsy, awkward',
     synonyms: 'graceful, refined',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Her *elegant* evening gown turned heads at the formal event.`,
+        options: 'graceful, awkward, clumsy, bold'
+      },
+      {
+        qText: `Her *elegant* evening gown turned heads at the formal event.`,
+        options: 'awkward, graceful, refined, bold'
+      }
+    ]
   },
   enable: {
     meaning: 'provide the means to perform some task',
@@ -429,7 +677,12 @@ The interior of the upscale restaurant was adorned with *elegant* decor and artw
 Installing the latest software update will *enable* new features on your computer.`,
     antonyms: 'disable, hinder',
     synonyms: 'empower, facilitate',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Accessible ramps and elevators *enable* people with disabilities to enter buildings easily.`,
+        options: 'facilitate, disable, hinder, block'
+      }
+    ]
   },
   examine: {
     meaning: 'observe, check out, and look over carefully or inspect',
@@ -437,7 +690,12 @@ Installing the latest software update will *enable* new features on your compute
 Before the test, students were given time to *examine* their notes and textbooks.`,
     antonyms: 'ignore, neglect',
     synonyms: 'inspect, scrutinize',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The detective carefully *examined* the crime scene for any clues that might solve the case.`,
+        options: 'inspected, ignored, examined, neglected'
+      }
+    ]
   },
   explore: {
     meaning: 'travel to or penetrate into',
@@ -445,15 +703,30 @@ Before the test, students were given time to *examine* their notes and textbooks
 NASA's Mars rover is on a mission to *explore* the Red Planet and gather data about its surface.`,
     antonyms: 'ignore',
     synonyms: 'investigate, discover',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `NASA's Mars rover is on a mission to *explore* the Red Planet and gather data about its surface.`,
+        options: 'investigate, explore, ignore, discover'
+      }
+    ]
   },
   fan: {
-    meaning: 'a device for creating a current of air by movement',
+    meaning:
+      'a device for creating a current of air by movement; a person who likes and admires someone or something in a very enthusiastic way.',
     eg: `She used a handheld *fan* to cool off during the hot summer day.
 The enthusiastic soccer *fans* cheered loudly for their favorite team.`,
     antonyms: 'critic',
     synonyms: 'enthusiast, admirer',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `She used a handheld *fan* to cool off during the hot summer day.`,
+        options: 'device, admirer, fan, enthusiast'
+      },
+      {
+        qText: `The enthusiastic soccer *fans* cheered loudly for their favorite team.`,
+        options: 'admirers, critics, enthusiasts, device'
+      }
+    ]
   },
   fatal: {
     meaning: 'bringing death',
@@ -461,7 +734,12 @@ The enthusiastic soccer *fans* cheered loudly for their favorite team.`,
 Even a seemingly minor mistake in handling chemicals can have *fatal* consequences.`,
     antonyms: 'harmless, non-lethal',
     synonyms: 'deadly, lethal',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The car accident had a *fatal* outcome, and several lives were tragically lost.`,
+        options: 'deadly, harmless, fatal, unimportant'
+      }
+    ]
   },
   fierce: {
     meaning: 'marked by extreme and violent energy',
@@ -469,15 +747,29 @@ Even a seemingly minor mistake in handling chemicals can have *fatal* consequenc
 The *fierce* competition between the two rival companies led to innovative product development.`,
     antonyms: 'gentle, mild',
     synonyms: 'ferocious, aggressive',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *fierce* storm brought strong winds and heavy rain, causing damage to homes and trees.`,
+        options: 'ferocious, mild, fierce, gentle'
+      },
+      {
+        qText: `The *fierce* competition between the two rival companies led to innovative product development.`,
+        options: 'mild, fierce, aggressive, gentle'
+      }
+    ]
   },
   flutter: {
     meaning: 'flap the wings rapidly or fly with flapping movements',
     eg: `The butterfly began to *flutter* its colorful wings as it took flight.
 The pages of the book started to *flutter* in the breeze as the window was left open.`,
     antonyms: '',
-    synonyms: 'quiver',
-    mcqs: []
+    synonyms: 'quiver, flap',
+    mcqs: [
+      {
+        qText: `The butterfly began to *flutter* its colorful wings as it took flight.`,
+        options: 'flap, fly, quiver, flutter'
+      }
+    ]
   },
   fortunate: {
     meaning: 'having unexpected good luck',
@@ -485,7 +777,16 @@ The pages of the book started to *flutter* in the breeze as the window was left 
 She considered herself *fortunate* to have a supportive and loving group of friends.`,
     antonyms: 'unlucky, unfortunate',
     synonyms: 'stillness, immobility',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Winning the lottery was an incredibly *fortunate* turn of events for the family.`,
+        options: 'unfortunate, lucky, fortunate, luck'
+      },
+      {
+        qText: `She considered herself *fortunate* to have a supportive and loving group of friends.`,
+        options: 'fortunate, unlucky, still, immobile'
+      }
+    ]
   },
   frail: {
     meaning: 'physically weak',
@@ -493,7 +794,12 @@ She considered herself *fortunate* to have a supportive and loving group of frie
 The *frail* structure of the old bridge made it unsafe for heavy vehicles.`,
     antonyms: 'fragile, delicate',
     synonyms: 'sturdy',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *frail* structure of the old bridge made it unsafe for heavy vehicles.`,
+        options: 'delicate, frail, sturdy, strong'
+      }
+    ]
   },
   gasp: {
     meaning: 'a short labored intake of breath with the mouth open',
@@ -501,7 +807,12 @@ The *frail* structure of the old bridge made it unsafe for heavy vehicles.`,
 The swimmer emerged from the water with a *gasp*, catching her breath after a long underwater dive.`,
     antonyms: 'breathe',
     synonyms: 'pant, wheeze',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The swimmer emerged from the water with a *gasp*, catching her breath after a long underwater dive.`,
+        options: 'wheeze, gasp, breathe, pant'
+      }
+    ]
   },
   glide: {
     meaning: 'move smoothly and effortlessly',
@@ -509,7 +820,12 @@ The swimmer emerged from the water with a *gasp*, catching her breath after a lo
 With the right technique, an ice skater can *glide* smoothly across the rink.`,
     antonyms: 'stop',
     synonyms: 'slide',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The graceful swan seemed to *glide* effortlessly across the tranquil pond.`,
+        options: 'slide, glide, stop, fly'
+      }
+    ]
   },
   globe: {
     meaning: 'an object with a spherical shape',
@@ -525,7 +841,16 @@ The world leaders gathered around a large *globe* to discuss global issues.`,
 She accepted the award with *grace* and humility, thanking her supporters and team.`,
     antonyms: 'clumsiness, awkwardness',
     synonyms: 'elegance, poise',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The ballet dancer moved with remarkable *grace* and precision, captivating the audience.`,
+        options: 'elegance, clumsiness, awkwardness, unaturally'
+      },
+      {
+        qText: `She accepted the award with *grace*.`,
+        options: 'awkwardness, poise, grace, clumsiness'
+      }
+    ]
   },
   gradual: {
     meaning: 'proceeding in small stages',
@@ -533,7 +858,16 @@ She accepted the award with *grace* and humility, thanking her supporters and te
 Learning a new language often involves a *gradual* improvement in vocabulary and grammar skills.`,
     antonyms: 'sudden, abrupt',
     synonyms: 'steady, slow',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *gradual* transition from day to night was marked by the slow dimming of the sky.`,
+        options: 'abrupt, steady, gradual, slow'
+      },
+      {
+        qText: `Learning a new language often involves a *gradual* improvement in vocabulary and grammar skills.`,
+        options: 'slow, sudden, gradual, abrupt'
+      }
+    ]
   },
   grasp: {
     meaning: 'hold firmly',
@@ -541,7 +875,12 @@ Learning a new language often involves a *gradual* improvement in vocabulary and
 The teacher helped her students *grasp* complex mathematical concepts through clear explanations.`,
     antonyms: 'release, let go',
     synonyms: 'grip, hold',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `He reached out to *grasp* the doorknob, but it slipped through his fingers.`,
+        options: 'hold, grasp, let go, release'
+      }
+    ]
   },
   habit: {
     meaning: 'an established custom',
@@ -549,7 +888,12 @@ The teacher helped her students *grasp* complex mathematical concepts through cl
 Breaking a bad *habit* often requires commitment and self-discipline.`,
     antonyms: '',
     synonyms: 'routine, custom',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Her morning *habit* was to start the day with a cup of freshly brewed coffee.`,
+        options: 'routine, custom, way, start'
+      }
+    ]
   },
   harsh: {
     meaning: 'disagreeable to the senses',
@@ -557,7 +901,16 @@ Breaking a bad *habit* often requires commitment and self-discipline.`,
 His *harsh* criticism of the team's performance upset some of the players.`,
     antonyms: 'gentle, mild',
     synonyms: 'severe, rough',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *harsh* winter weather made it difficult to drive on icy roads.`,
+        options: 'severe, gentle, harsh, mild'
+      },
+      {
+        qText: `His *harsh* criticism of the team's performance upset some of the players.`,
+        options: 'mild, harsh, rough, severe'
+      }
+    ]
   },
   imitate: {
     meaning: `reproduce someone's behavior or looks`,
@@ -565,15 +918,25 @@ His *harsh* criticism of the team's performance upset some of the players.`,
 The talented impressionist comedian could flawlessly *imitate* various celebrities.`,
     antonyms: '',
     synonyms: 'mimic, copy',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `Children often *imitate* their parents' behavior and speech patterns.`,
+        options: 'mimic, imitate, tease, repeat'
+      }
+    ]
   },
   individual: {
     meaning: 'being or characteristic of a single thing or person',
     eg: `Each *individual* in the group had a unique perspective on the issue.
 The company celebrated the achievements of every *individual* employee at the annual awards ceremony.`,
     antonyms: '',
-    synonyms: '',
-    mcqs: []
+    synonyms: 'member, person',
+    mcqs: [
+      {
+        qText: `Each *individual* in the group had a unique perspective on the issue.`,
+        options: 'member, person, individual, thing'
+      }
+    ]
   },
   intelligent: {
     meaning: 'having the capacity for thought and reason to a high degree',
@@ -581,7 +944,16 @@ The company celebrated the achievements of every *individual* employee at the an
 Albert Einstein was regarded as one of the most *intelligent* scientists in history.`,
     antonyms: 'stupid, foolish',
     synonyms: 'smart, clever',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `She was known for her *intelligent* problem-solving skills and insightful ideas.`,
+        options: 'clever, intelligent, foolish, stupid'
+      },
+      {
+        qText: `She was known for her *intelligent* ideas.`,
+        options: 'foolish, clever, intelligent, amazing'
+      }
+    ]
   },
   intend: {
     meaning: 'have in mind as a purpose',
@@ -589,7 +961,12 @@ Albert Einstein was regarded as one of the most *intelligent* scientists in hist
 His actions clearly showed that he did not *intend* to cause any harm.`,
     antonyms: 'abandon, neglect',
     synonyms: 'plan, purpose',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `I *intend* to complete my degree in computer science within the next two years.`,
+        options: 'plan, purpose, abandon, intend'
+      }
+    ]
   },
   journey: {
     meaning: 'the act of traveling from one place to another',
@@ -597,7 +974,16 @@ His actions clearly showed that he did not *intend* to cause any harm.`,
 Life is a continuous *journey*, and every day brings new experiences.`,
     antonyms: '',
     synonyms: 'trip, expedition',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The *journey* across the country by train provided breathtaking views of diverse landscapes.`,
+        options: 'expedition, journey, tour, adventure'
+      },
+      {
+        qText: `Life is a continuous *journey*, and every day brings new experiences.`,
+        options: 'adventure, trip, journey, expedition'
+      }
+    ]
   },
   launch: {
     meaning: 'propel with force',
@@ -613,7 +999,12 @@ The space agency prepared to *launch* the spacecraft into orbit.`,
 The doctor advised him to *limit* his intake of sugary foods for the sake of his health.`,
     antonyms: 'boundless, limitless',
     synonyms: 'restriction, boundary',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `There's a *limit* to how much weight the bridge can support before it becomes unsafe.`,
+        options: 'restriction, limit, boundary, limitless'
+      }
+    ]
   },
   locate: {
     meaning: 'determine the place of by searching or examining',
@@ -621,7 +1012,12 @@ The doctor advised him to *limit* his intake of sugary foods for the sake of his
 He needed to *locate* his misplaced car keys before he could leave for work.`,
     antonyms: 'lose, misplace',
     synonyms: 'find',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The treasure hunters used a map to *locate* the buried chest of gold.`,
+        options: 'find, locate, lose, misplace'
+      }
+    ]
   },
   loyal: {
     meaning: 'steadfast in allegiance or duty',
@@ -629,7 +1025,12 @@ He needed to *locate* his misplaced car keys before he could leave for work.`,
 The dog's *loyal* devotion to its owner was evident in its unwavering affection.`,
     antonyms: 'disloyal, unfaithful',
     synonyms: 'faithful, devoted',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `A *loyal* friend stands by you through both good times and bad, offering support and trust.`,
+        options: 'faithful, loyal, unfaithful, good'
+      }
+    ]
   },
   magnificent: {
     meaning: 'characterized by grandeur',
@@ -637,7 +1038,12 @@ The dog's *loyal* devotion to its owner was evident in its unwavering affection.
 The sunset over the ocean painted a *magnificent* panorama of colors in the sky.`,
     antonyms: 'mediocre, ordinary',
     synonyms: 'grand, splendid',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The sunset over the ocean painted a *magnificent* panorama of colors in the sky.`,
+        options: 'grand, ordinary, magnificent, mediocre'
+      }
+    ]
   },
   marsh: {
     meaning: 'low-lying wet land with grassy vegetation',
@@ -645,7 +1051,16 @@ The sunset over the ocean painted a *magnificent* panorama of colors in the sky.
 We had to carefully navigate through the muddy *marsh* during our hike.`,
     antonyms: 'desert, arid land',
     synonyms: 'swamp, wetland',
-    mcqs: []
+    mcqs: [
+      {
+        qText: `The nature reserve was home to a beautiful, serene *marsh* with diverse wildlife.`,
+        options: 'wetland, marsh, arid land, desert'
+      },
+      {
+        qText: `We had to carefully navigate through the *marsh* during our hike.`,
+        options: 'arid land, wetland, swamp, mudland'
+      }
+    ]
   },
   method: {
     meaning: 'a way of doing something, especially a systematic way',
@@ -653,723 +1068,10 @@ We had to carefully navigate through the muddy *marsh* during our hike.`,
 The best *method* for controlling weeds is having a goat.`,
     antonyms: 'chaos, disorder',
     synonyms: 'procedure, approach',
-    mcqs: []
-  },
-  mischievous: {
-    meaning: 'showing a fondness for causing trouble in a playful way',
-    eg: `These children are very *mischievous*`,
-    antonyms: 'kind, well-behaved',
-    synonyms: 'naughty, playful',
     mcqs: [
       {
-        qText: 'These children are very *mischievous*',
-        options: 'naughty, funny, kind, comical'
-      },
-      {
-        qText: 'These children are very *mischievous*',
-        options: 'kind, naughty, funny'
-      }
-    ]
-  },
-  enormous: {
-    meaning: 'very large in size or quantity',
-    eg: `The new building is *enormous*!`,
-    antonyms: 'small, tiny',
-    synonyms: 'huge, gigantic',
-    mcqs: [
-      {
-        qText: 'The new building is *enormous*!',
-        options: 'huge, dirty, colorful, vivid'
-      },
-      {
-        qText: 'The new building is *enormous*!',
-        options: 'small, huge, colorful'
-      }
-    ]
-  },
-  dazzling: {
-    meaning:
-      'extremely bright, especially in a way that is temporarily blinding',
-    eg: `The white clothes are *dazzling* in the sun!`,
-    antonyms: 'dull',
-    synonyms: 'radiant, brilliant',
-    mcqs: [
-      {
-        qText: `The white clothes are *dazzling* in the sun!`,
-        options: 'shining, hot, huge, dull'
-      },
-      {
-        qText: `The white clothes are *dazzling*!`,
-        options: 'dull, shining, huge'
-      }
-    ]
-  },
-  capsize: {
-    meaning: 'overturn in the water',
-    eg: `The boat was about to *capsize*.`,
-    antonyms: 'stabilize',
-    synonyms: 'sink, overturn',
-    mcqs: [
-      {
-        qText: 'The boat was about to *capsize*.',
-        options: 'sink, move fast, rotate, stabilize'
-      },
-      {
-        qText: 'The boat was about to *capsize*.',
-        options: 'stabilize, sink, rotate'
-      }
-    ]
-  },
-  burgled: {
-    meaning:
-      'broken into a building with the intent to commit a crime, usually theft',
-    eg: `The bank was *burgled* in broad daylight!`,
-    antonyms: 'secure',
-    synonyms: 'robbed, looted',
-    mcqs: [
-      {
-        qText: 'The bank was *burgled* in broad daylight!',
-        options: 'robbed, crowded, locked, secure'
-      },
-      {
-        qText: 'The bank was *burgled*.',
-        options: 'secure, robbed, locked'
-      }
-    ]
-  },
-  broad: {
-    meaning: 'wide in extent or scope',
-    eg: `City roads are usually quite *broad*.`,
-    antonyms: 'narrow',
-    synonyms: 'wide, expansive',
-    mcqs: [
-      {
-        qText: 'City roads are usually quite *broad*.',
-        options: 'wide, narrow, dirty, clean'
-      },
-      {
-        qText: 'City roads are usually quite *broad*.',
-        options: 'narrow, wide, dirty'
-      }
-    ]
-  },
-  stunning: {
-    meaning: 'extremely impressive or attractive',
-    eg: `The view of the valley was *stunning*!`,
-    antonyms: 'unimpressive, ordinary',
-    synonyms: 'amazing, breathtaking',
-    mcqs: [
-      {
-        qText: 'The view of the valley was *stunning*!',
-        options: 'amazing, dangerous, dark, ordinary'
-      },
-      {
-        qText: 'The view of the valley was *stunning*!',
-        options: 'unimpressive, amazing, dark'
-      }
-    ]
-  },
-  invite: {
-    meaning: 'ask (someone) to go somewhere or do something',
-    eg: `Prem did not *invite* Arun to his party.`,
-    antonyms: 'exclude',
-    synonyms: 'call, ask',
-    mcqs: [
-      {
-        qText: `Prem did not *invite* Arun to his party.`,
-        options: 'call, ask, come, go'
-      },
-      {
-        qText: `Prem did not *invite* Arun.`,
-        options: 'exclude, call, come'
-      }
-    ]
-  },
-  sighted: {
-    meaning: 'seen or observed',
-    eg: `We *sighted* three tiger cubs in the distance.`,
-    antonyms: 'lost sight of',
-    synonyms: 'saw, observed',
-    mcqs: [
-      {
-        qText: 'We *sighted* three tiger cubs in the distance.',
-        options: 'saw, heard, walked, caught'
-      },
-      {
-        qText: 'We *sighted* three tiger cubs.',
-        options: 'lost sight of, saw, walked'
-      }
-    ]
-  },
-  communicate: {
-    meaning: 'convey information or exchange ideas',
-    eg: `The telephone is an instrument to *communicate*.`,
-    antonyms: '',
-    synonyms: 'talk, convey',
-    mcqs: [
-      {
-        qText: 'The telephone is an instrument to *communicate*.',
-        options: 'talk, see, travel, find'
-      }
-    ]
-  },
-  annoyed: {
-    meaning: 'irritated or slightly angry',
-    eg: `My mother was quite *annoyed* with me!`,
-    antonyms: 'pleased',
-    synonyms: 'irritated, bothered',
-    mcqs: [
-      {
-        qText: 'My mother was quite *annoyed* with me!',
-        options: 'irritated, kind, polite, happy'
-      },
-      {
-        qText: 'My mother was quite *annoyed* with me!',
-        options: 'pleased, irritated, polite'
-      }
-    ]
-  },
-  route: {
-    meaning:
-      'a way or course taken in getting from a starting point to a destination',
-    eg: `Which is the shortest *route* to school?`,
-    antonyms: '',
-    synonyms: 'way',
-    mcqs: [
-      {
-        qText: 'Which is the shortest *route* to school?',
-        options: 'way, transport, bus, street'
-      }
-    ]
-  },
-  live: {
-    meaning: 'reside in a particular place',
-    eg: `This is where I *live*.`,
-    antonyms: '',
-    synonyms: 'stay, exist',
-    mcqs: [
-      {
-        qText: 'This is where I *live*.',
-        options: 'stay, sleep, play, eat'
-      }
-    ]
-  },
-  favorite: {
-    meaning: 'preferred above all others',
-    eg: `Potato chips are Tanya's *favorite* snack.`,
-    antonyms: 'hated, disliked',
-    synonyms: 'best, beloved',
-    mcqs: [
-      {
-        qText: "Potato chips are Tanya's *favorite* snack.",
-        options: 'best, hated, disliked, unlike'
-      },
-      {
-        qText: "Potato chips are Tanya's *favorite* snack.",
-        options: 'hated, best, loved'
-      }
-    ]
-  },
-  appear: {
-    meaning: 'come into sight; become visible or noticeable',
-    eg: `Metals like copper will *appear* dull if not polished.`,
-    antonyms: 'disappear, vanish',
-    synonyms: 'look, seem',
-    mcqs: [
-      {
-        qText: 'Metals like copper will *appear* dull if not polished.',
-        options: 'look, think, take, disappear'
-      }
-    ]
-  },
-  delicious: {
-    meaning: 'highly pleasant to the taste',
-    eg: `The food in this restaurant is very *delicious*!`,
-    antonyms: 'unpalatable, tasteless',
-    synonyms: 'tasty, appetizing',
-    mcqs: [
-      {
-        qText: 'The food in this restaurant is very *delicious*!',
-        options: 'tasty, hot, colorful, unpalatable'
-      },
-      {
-        qText: 'The food in this restaurant is very *delicious*!',
-        options: 'tasteless, tasty, colorful'
-      }
-    ]
-  },
-  ruined: {
-    meaning: 'destroyed or severely damaged',
-    eg: `The tailor has *ruined* my dress!`,
-    antonyms: 'improved, restored',
-    synonyms: 'spoilt, destroyed',
-    mcqs: [
-      {
-        qText: 'The tailor has *ruined* my dress!',
-        options: 'spoilt, lost, forgot, torn'
-      },
-      {
-        qText: 'The tailor has *ruined* my dress!',
-        options: 'improved, spoilt, forgot'
-      }
-    ]
-  },
-  extremely: {
-    meaning: 'to a very high degree',
-    eg: `Her father likes his food *extremely* hot.`,
-    antonyms: 'little',
-    synonyms: 'very',
-    mcqs: [
-      {
-        qText: 'Her father likes his food *extremely* hot.',
-        options: 'very, little, tasty, few'
-      }
-    ]
-  },
-  scurried: {
-    meaning: 'moved hurriedly with short quick steps',
-    eg: `As soon as he switched on the light, the cockroaches *scurried* away!`,
-    antonyms: 'strolled',
-    synonyms: 'ran, hurried',
-    mcqs: [
-      {
-        qText:
-          'As soon as he switched on the light, the cockroaches *scurried* away!',
-        options: 'ran, jumped, hid, crawled'
-      }
-    ]
-  },
-  illusion: {
-    meaning: 'a false idea or belief',
-    eg: `The video game is designed to give the *illusion* that you are in control of an airplane`,
-    antonyms: '',
-    synonyms: 'fantasy',
-    mcqs: [
-      {
-        qText:
-          'The video game is designed to give the *illusion* that you are in control of an airplane',
-        options: 'fantasy, reality, enchanting, mesmerising'
-      }
-    ]
-  },
-  meticulous: {
-    meaning: 'showing great attention to detail; very careful and precise',
-    eg: `She is always *meticulous* about her work.`,
-    antonyms: 'careless',
-    synonyms: 'precise, thorough',
-    mcqs: [
-      {
-        qText: 'She is always *meticulous* about her work.',
-        options: 'careful and precise, unattentive, focused, distracted'
-      },
-      {
-        qText: 'She is always *meticulous* about her work.',
-        options: 'careless, careful, unattentive'
-      }
-    ]
-  },
-  enthusiasm: {
-    meaning: 'intense and eager enjoyment, interest, or approval',
-    eg: `The students showed great *enthusiasm* during the science experiment.`,
-    antonyms: 'apathy',
-    synonyms: '',
-    mcqs: [
-      {
-        qText:
-          'The students showed great *enthusiasm* during the science experiment.',
-        options: 'eagerness, ambitious, alarmed, distracted'
-      },
-      {
-        qText:
-          'The students showed great *enthusiasm* during the science experiment.',
-        options: 'apathy, ambitious, alarmed'
-      }
-    ]
-  },
-  agility: {
-    meaning: 'ability to move quickly and easily',
-    eg: `The athlete displayed remarkable *agility* during the competition.`,
-    antonyms: 'clumsy',
-    synonyms: 'speed, dexterity',
-    mcqs: [
-      {
-        qText:
-          'The athlete displayed remarkable *agility* during the competition.',
-        options: 'speed, slow, lazy, strength'
-      },
-      {
-        qText: 'The athlete was *agile* during the competition.',
-        options: 'clumsy, quick, lazy'
-      }
-    ]
-  },
-  fragrant: {
-    meaning: 'having a pleasant or sweet smell',
-    eg: `The garden was filled with *fragrant* flowers.`,
-    antonyms: 'foul smelling',
-    synonyms: 'pleasant smelling, aromatic',
-    mcqs: [
-      {
-        qText: 'The garden was filled with *fragrant* flowers.',
-        options: 'pleasant smelling, colourful, vibrant, sweet'
-      },
-      {
-        qText: 'The garden was filled with *fragrant* flowers.',
-        options: 'foul smelling, colourless, dull'
-      }
-    ]
-  },
-  deafening: {
-    meaning: 'extremely loud; making it impossible to hear anything else',
-    eg: `The music at the party was *deafening*.`,
-    antonyms: 'extremely quiet',
-    synonyms: 'extremely loud,thunderous',
-    mcqs: [
-      {
-        qText: 'The music at the party was *deafening*.',
-        options: 'extremely loud, extremely quiet, defective, harmonious'
-      },
-      {
-        qText: 'The music at the party was *deafening*.',
-        options: 'extremely quiet, extremely loud, defective'
-      }
-    ]
-  },
-  apathy: {
-    meaning: 'lack of interest or emotion',
-    eg: "Her *apathy* towards the political situation was evident when she didn't vote in the election.",
-    antonyms: 'interest, enthusiasm',
-    synonyms: 'indifference, unconcern',
-    mcqs: [
-      {
-        qText:
-          "Her *apathy* towards the political situation was evident when she didn't vote in the election.",
-        options: `lack of interest or emotion
-thinking from a different perspective`
-      }
-    ]
-  },
-  hypothesis: {
-    meaning: 'proposed explanation made on the basis of limited evidence',
-    eg: "The scientist's *hypothesis* was that the chemical reaction would yield a certain compound.",
-    antonyms: 'fact, certainty',
-    synonyms: 'theory, conjecture',
-    mcqs: [
-      {
-        qText:
-          "The scientist's *hypothesis* was that the chemical reaction would yield a certain compound.",
-        options: `proposed explanation made on the basis of limited evidence
-theory backed up by concrete evidence`
-      }
-    ]
-  },
-  ambiguous: {
-    meaning: 'double meaning',
-    eg: 'The *ambiguous* message left us unsure of what to do.',
-    antonyms: 'clear, definite',
-    synonyms: 'vague, unclear',
-    mcqs: [
-      {
-        qText: `The *ambiguous* message left us unsure of what to do.`,
-        options: `double meaning
-single definition`
-      }
-    ]
-  },
-  inevitable: {
-    meaning: 'unavoidable',
-    eg: 'With the dark clouds gathering, rain seemed *inevitable*.',
-    antonyms: 'avoidable, uncertain',
-    synonyms: 'certain, unavoidable',
-    mcqs: [
-      {
-        qText: 'With the dark clouds gathering, rain seemed *inevitable*.',
-        options: `unavoidable
-unsure`
-      }
-    ]
-  },
-  innovate: {
-    meaning: 'make changes by introducing new methods or ideas to',
-    eg: 'The company decided to *innovate* its marketing strategy to attract a younger audience.',
-    antonyms: 'maintain, preserve',
-    synonyms: 'introduce, revolutionize',
-    mcqs: [
-      {
-        qText:
-          'The company decided to *innovate* its marketing strategy to attract a younger audience.',
-        options: `make changes by introducing new methods or ideas to
-discovering something new or novel in`
-      }
-    ]
-  },
-  juxtapose: {
-    meaning: 'to place',
-    eg: 'The artist liked to *juxtapose* bright colors next to dark ones in her paintings.',
-    antonyms: 'remove, separate',
-    synonyms: 'place, set side by side',
-    mcqs: [
-      {
-        qText:
-          'The artist liked to *juxtapose* bright colors next to dark ones in her paintings.',
-        options: `to place 
-to replace`
-      }
-    ]
-  },
-  nostalgia: {
-    meaning: 'a sentimental longing for the past',
-    eg: 'Visiting her childhood home filled her with a sense of *nostalgia*.',
-    antonyms: 'disinterest, apathy',
-    synonyms: 'sentimentality, reminiscence',
-    mcqs: [
-      {
-        qText:
-          'Visiting her childhood home filled her with a sense of *nostalgia*.',
-        options: `a sentimental longing for the past
-deep resentment`
-      }
-    ]
-  },
-  quarantine: {
-    meaning: 'period of isolation',
-    eg: 'After returning from a trip abroad, they were required to undergo a 14-day *quarantine*.',
-    antonyms: 'freedom, release',
-    synonyms: 'isolation, seclusion',
-    mcqs: [
-      {
-        qText: `After returning from a trip abroad, they were required to undergo a 14-day *quarantine*.`,
-        options: `period of isolation 
-imprisonment of people affected by a contagious disease.`
-      }
-    ]
-  },
-  vivid: {
-    meaning: 'very colorful and amusing',
-    eg: 'The *vivid* description of the sunset made us feel like we were there.',
-    antonyms: 'dull, drab',
-    synonyms: 'colorful, lively',
-    mcqs: [
-      {
-        qText:
-          'The *vivid* description of the sunset made us feel like we were there.',
-        options: `powerful feelings in
-very colorful and amusing.`
-      }
-    ]
-  },
-  whimsical: {
-    meaning: 'playfully quaint',
-    eg: 'Her *whimsical* artwork often featured magical creatures.',
-    antonyms: 'serious, practical',
-    synonyms: 'fanciful, playful',
-    mcqs: [
-      {
-        qText: 'Her *whimsical* artwork often featured magical creatures.',
-        options: `playfully quaint 
-weird or strange.`
-      }
-    ]
-  },
-  discrepancy: {
-    meaning: 'lack of compatibility',
-    eg: 'The report revealed a significant *discrepancy* between the estimated and actual costs.',
-    antonyms: 'compatibility, agreement',
-    synonyms: 'disagreement, variance',
-    mcqs: [
-      {
-        qText:
-          'The report revealed a significant *discrepancy* between the estimated and actual costs.',
-        options: `lack of compatibility
-lack of proof.`
-      }
-    ]
-  },
-  empathy: {
-    meaning: 'ability to understand and share the feelings',
-    eg: 'His *empathy* for her situation made him a great counselor.',
-    antonyms: 'indifference, apathy',
-    synonyms: 'compassion, understanding',
-    mcqs: [
-      {
-        qText: 'His *empathy* for her situation made him a great counselor.',
-        options: `ability to understand and share the feelings 
-ability to foresee the future.`
-      }
-    ]
-  },
-  synchronize: {
-    meaning: 'operate at the same time or rate their',
-    eg: 'The dancers needed to *synchronize* movements to the music.',
-    antonyms: 'desynchronize, stagger',
-    synonyms: 'coordinate, align',
-    mcqs: [
-      {
-        qText: 'The dancers needed to *synchronize* movements to the music.',
-        options: `operate at the same time or rate their
-have a strong desire to improve`
-      }
-    ]
-  },
-  exaggerate: {
-    meaning: 'represent being better than he really is at',
-    eg: 'He tended to *exaggerate* his achievements, making them sound more remarkable than they were.',
-    antonyms: 'minimize, downplay',
-    synonyms: 'overstate, amplify',
-    mcqs: [
-      {
-        qText:
-          'He tended to *exaggerate* his achievements, making them sound more remarkable than they were.',
-        options: `represent being better than he really is at
-take ownership of someone else's work as`
-      }
-    ]
-  },
-  'oblivious to': {
-    meaning: 'not concerned about',
-    eg: "She was so *oblivious to* the noise that she didn't hear the fire alarm.",
-    antonyms: 'aware of, conscious',
-    synonyms: 'unmindful of, inattentive to',
-    mcqs: [
-      {
-        qText: `She was so *oblivious to* the noise that she didn't hear the fire alarm.`,
-        options: `not concerned about 
-disregarding to a warning.`
-      }
-    ]
-  },
-  diligent: {
-    meaning: 'hardworking and conscientious',
-    eg: 'The *diligent* student consistently scored the highest grades in the class.',
-    antonyms: 'lazy, negligent',
-    synonyms: 'industrious, meticulous',
-    mcqs: [
-      {
-        qText:
-          'The *diligent* student consistently scored the highest grades in the class.',
-        options: `hardworking and conscientious 
-disregard one's responsibilities.`
-      }
-    ]
-  },
-  tenacious: {
-    meaning: 'firm hold or adhering',
-    eg: 'Her *tenacious* grip on the rope helped her climb the mountain.',
-    antonyms: 'weak, feeble',
-    synonyms: 'persistent, determined',
-    mcqs: [
-      {
-        qText:
-          'Her *tenacious* grip on the rope helped her climb the mountain.',
-        options: `firm hold or adhering 
-adhering tricks`
-      }
-    ]
-  },
-  alleviate: {
-    meaning: 'make less severe',
-    eg: 'The medication was prescribed to *alleviate* her pain.',
-    antonyms: 'intensify, worsen',
-    synonyms: 'ease, relieve',
-    mcqs: [
-      {
-        qText: 'The medication was prescribed to *alleviate* her pain.',
-        options: `make less severe
-to cause more suffering to`
-      }
-    ]
-  },
-  'voracious appetite': {
-    meaning: 'wanting or devouring great quantities of food',
-    eg: 'His *voracious appetite* led him to try every dish on the menu.',
-    antonyms: 'moderate appetite, picky eater',
-    synonyms: 'insatiable hunger, ravenous',
-    mcqs: [
-      {
-        qText:
-          'His *voracious appetite* led him to try every dish on the menu.',
-        options: `wanting or devouring great quantities of food
-being very fickle-minded`
-      }
-    ]
-  },
-  aid: {
-    meaning: 'assistance or support',
-    eg: 'The humanitarian organization provided *aid* to the earthquake victims.',
-    antonyms: 'hindrance, obstruction',
-    synonyms: 'help, relief',
-    mcqs: [
-      {
-        qText:
-          'The humanitarian organization provided *aid* to the earthquake victims.',
-        options: `assistance or support.
-no assistance.`
-      }
-    ]
-  },
-  eager: {
-    meaning: 'showing keen interest',
-    eg: 'The children were *eager* to open their Christmas presents.',
-    antonyms: 'indifferent, apathetic',
-    synonyms: 'enthusiastic, excited',
-    mcqs: [
-      {
-        qText: 'The children were *eager* to open their Christmas presents.',
-        options: `showing keen interest
-lacking enthusiasm`
-      }
-    ]
-  },
-  fragile: {
-    meaning: 'easy to break',
-    eg: 'The antique vase is extremely *fragile*, so handle it with care.',
-    antonyms: 'sturdy, robust',
-    synonyms: 'delicate, breakable',
-    mcqs: [
-      {
-        qText:
-          'The antique vase is extremely *fragile*, so handle it with care.',
-        options: `easy to break
-lightweight but strong`
-      }
-    ]
-  },
-  harmony: {
-    meaning: 'a state of peaceful coexistence or agreement',
-    eg: 'The musical performance was a perfect example of *harmony*.',
-    antonyms: 'discord, conflict',
-    synonyms: 'peace, unity',
-    mcqs: [
-      {
-        qText: 'The musical performance was a perfect example of *harmony*.',
-        options: `a state of peaceful coexistence or agreement
-one dominating or overpowering the others`
-      }
-    ]
-  },
-  illuminate: {
-    meaning: 'provide light or clarity to',
-    eg: 'The candles *illuminate* the room during the power outage.',
-    antonyms: 'darken, obscure',
-    synonyms: 'light up, brighten',
-    mcqs: [
-      {
-        qText: 'The candles *illuminate* the room during the power outage.',
-        options: `provide light or clarity to
-set fire or arson to`
-      }
-    ]
-  },
-  loyal: {
-    meaning: 'faithful and committed',
-    eg: 'He remained *loyal* to his friends through thick and thin.',
-    antonyms: 'unfaithful, disloyal',
-    synonyms: 'devoted, steadfast',
-    mcqs: [
-      {
-        qText: 'He remained *loyal* to his friends through thick and thin.',
-        options: `faithful and committed 
-not ready to surrender or listen to anybody`
+        qText: `The best *method* for controlling weeds is having a goat.`,
+        options: 'approach, procedure, method, system'
       }
     ]
   }
