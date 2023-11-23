@@ -7,12 +7,8 @@ She couldn't hide her *misery* when her favorite book was lost.`,
     synonyms: 'agony, distress',
     mcqs: [
       {
-        qText: `The refugee's life was filled with *misery* as they struggled to find safety and stability.`,
+        qText: `The old beggar's eyes reflected a lifetime of *misery* and hardship.`,
         options: 'agony, delight, misery, pleasure'
-      },
-      {
-        qText: `She couldn't hide her *misery* when her favorite book was lost.`,
-        options: 'distress, pleasure, misery, delight'
       }
     ]
   },
@@ -24,12 +20,8 @@ To keep the skin hydrated, it's important to use a moisturizer that locks in *mo
     synonyms: 'dampness, wetness',
     mcqs: [
       {
-        qText: `The *moisture* on the window indicated a humid day.`,
-        options: 'aridity, dampness, moisture, dryness'
-      },
-      {
-        qText: `To keep the skin hydrated, it's important to use a moisturizer that locks in *moisture*.`,
-        options: 'wetness, dryness, dampness, moisture'
+        qText: `After the rain, the *moisture* in the air gave the garden a refreshing scent.`,
+        options: 'wetness, dryness, dampness, humidity'
       }
     ]
   },
@@ -41,12 +33,8 @@ The *mural* on the side of the building depicted a colorful jungle scene.`,
     synonyms: 'fresco, painting',
     mcqs: [
       {
-        qText: `The artist spent weeks working on a stunning *mural* that covered an entire wall of the art gallery.`,
+        qText: `The artist spent weeks creating a beautiful *mural* on the side of the building.`,
         options: 'painting, blank wall, fresco, bare surface'
-      },
-      {
-        qText: `The *mural* on the side of the building depicted a colorful jungle scene.`,
-        options: 'fresco, blank wall, painting, bare surface'
       }
     ]
   },
@@ -58,12 +46,8 @@ The cryptic message in the old book continued to *mystify* researchers for years
     synonyms: 'perplex, bewilder',
     mcqs: [
       {
-        qText: `The magician made the rabbit disappear. It *mystified* the audience.`,
-        options: 'bewildered, explained, mystified, clarified'
-      },
-      {
-        qText: `The cryptic message in the old book continued to *mystify* researchers for years.`,
-        options: 'perplex, clarify, bewilder, mystify'
+        qText: `The magician's tricks never failed to *mystify* the audience.`,
+        options: 'bewilder, explain, perplex, clarify'
       }
     ]
   },
@@ -75,7 +59,7 @@ The bees diligently collected *nectar* from the blossoms to make honey.`,
     synonyms: 'ambrosia, honey',
     mcqs: [
       {
-        qText: `The sweet *nectar* of the flowers attracted a variety of colorful butterflies.`,
+        qText: `The hummingbird hovered near the flower, sipping *nectar* with its delicate beak.`,
         options: 'honey, toxin, ambrosia, poison'
       }
     ]
@@ -88,29 +72,8 @@ It's crucial to *observe* safety regulations when using equipment to prevent acc
     synonyms: 'watch, perceive',
     mcqs: [
       {
-        qText: `Birdwatchers often spend hours in the park to *observe* different bird species in their natural habitat.`,
-        options: 'perceive, overlook, watch, ignore'
-      },
-      {
-        qText: `It's crucial not to *observe* safety regulations when using equipment to prevent accidents.`,
-        options: 'ignore, watch, perceive, overlook'
-      }
-    ]
-  },
-  opponent: {
-    meaning: 'the opposite team or a person with whom we compete',
-    eg: `In the boxing ring, the determined fighter faced a formidable *opponent*.
-The political *opponent* delivered a passionate speech in response to the proposed legislation.`,
-    antonyms: 'ally, supporter',
-    synonyms: 'adversary, rival',
-    mcqs: [
-      {
-        qText: `In the boxing ring, the determined fighter faced a formidable *opponent*.`,
-        options: 'rival, supporter, adversary, ally'
-      },
-      {
-        qText: `The political *opponent* delivered a passionate speech in response to the proposed legislation.`,
-        options: 'ally, adversary, rival, supporter'
+        qText: `Scientists often observe nature to better understand the world around us.`,
+        options: 'watch, perceive, overlook, ignore'
       }
     ]
   },
@@ -119,8 +82,13 @@ The political *opponent* delivered a passionate speech in response to the propos
     eg: `Surviving a plane crash in the wilderness was a harrowing *ordeal* for the passengers.
 He survived the *ordeal* and eventually wrote a book about it.`,
     antonyms: 'comfort, ease',
-    synonyms: '',
-    mcqs: []
+    synonyms: 'hardship, challenge',
+    mcqs: [
+      {
+        qText: `Surviving the shipwreck was a harrowing *ordeal* that tested their strength and resilience.`,
+        options: 'challenge, comfort, ease, memmory'
+      }
+    ]
   },
   origin: {
     meaning: 'the place where something begins',
@@ -130,11 +98,11 @@ Understanding the *origin* of a word can provide insight into its meaning and us
     synonyms: 'source, beginning',
     mcqs: [
       {
-        qText: `The *origin* of the ancient artifact was traced back to a lost civilization.`,
+        qText: `The archaeologist was determined to uncover the *origin* of the ancient artifact.`,
         options: 'end, source, beginning, conclusion'
       },
       {
-        qText: `Understanding the *origin* of a word can provide insight into its meaning and usage.`,
+        qText: `The archaeologist was determined to uncover the *origin* of the ancient artifact.`,
         options: 'source, conclusion, end, beginning'
       }
     ]
@@ -147,11 +115,7 @@ The success of a project often depends on the effort put into achieving a favora
     synonyms: 'result, consequence',
     mcqs: [
       {
-        qText: `The *outcome* of the negotiation was a mutually beneficial agreement for both parties.`,
-        options: 'origin, result, consequence, cause'
-      },
-      {
-        qText: `The success of a project often depends on the effort put into achieving a favorable *outcome*.`,
+        qText: `The team worked hard, and the positive *outcome* was a well-deserved victory.`,
         options: 'result, origin, consequence, cause'
       }
     ]
@@ -164,7 +128,7 @@ Playing board games is a popular *pastime* for families, promoting quality time 
     synonyms: 'recreation, entertainment',
     mcqs: [
       {
-        qText: `Reading is a beloved *pastime* for many people, allowing them to escape into different worlds.`,
+        qText: `Reading had always been her favorite *pastime*, providing an escape into different worlds.`,
         options: 'recreation, duty, entertainment, chore'
       }
     ]
@@ -177,12 +141,8 @@ Take a moment to *pause* and reflect on your goals before making a decision.`,
     synonyms: 'stop, halt',
     mcqs: [
       {
-        qText: `The music conductor signaled for a brief *pause* before the orchestra continued playing.`,
+        qText: `The speaker took a momentary *pause* to gather thoughts before continuing the presentation.`,
         options: 'stop, continue, halt, proceed'
-      },
-      {
-        qText: `Take a moment to *pause* and reflect on your goals before making a decision.`,
-        options: 'proceed, reflect, stop, halt'
       }
     ]
   },
@@ -194,12 +154,8 @@ The surgical team worked tirelessly to *perform* a life-saving operation.`,
     synonyms: 'execute, enact',
     mcqs: [
       {
-        qText: `The talented musician was set to *perform* a concert in front of a large audience.`,
-        options: 'enact, fail, neglect, perform'
-      },
-      {
-        qText: `The surgical team worked tirelessly to *perform* a life-saving operation.`,
-        options: 'execute, fail, perform, neglect'
+        qText: `The musicians were ready to *perform* their new composition in front of a live audience.`,
+        options: 'execute, enact, fail, neglect'
       }
     ]
   },
@@ -211,12 +167,8 @@ The village girls are not afraid to *plunge* into the well. They are great swimm
     synonyms: 'dive, submerge',
     mcqs: [
       {
-        qText: `The thrill-seekers decided to *plunge* into the icy waters of the mountain lake.`,
-        options: 'dive, emerge, plunge, surface'
-      },
-      {
-        qText: `The village girls are not afraid to *plunge* into the well. They are great swimmers.`,
-        options: 'submerge, emerge, surface, plunge'
+        qText: `The brave diver decided to *plunge* into the deep ocean to explore its mysteries.`,
+        options: 'dive, emerge, submerge, surface'
       }
     ]
   },
@@ -228,8 +180,8 @@ The bird of prey is a skilled *predator*, soaring high in the sky in search of s
     synonyms: 'hunter, carnivore',
     mcqs: [
       {
-        qText: `Lions are known as fierce *predators* in the African savanna, hunting for their prey.`,
-        options: 'hunters, herbivores, predators, preys'
+        qText: `The lion, as a skilled *predator*, patiently waited for its prey in the tall grass.`,
+        options: 'hunters, herbivores, victim, preys'
       }
     ]
   },
@@ -241,12 +193,8 @@ Experts try to *predict* the economic trends based on various factors and data.`
     synonyms: 'forecast, foresee',
     mcqs: [
       {
-        qText: `Meteorologists use advanced technology to *predict* the weather, helping people prepare for storms.`,
-        options: 'forecast, improvise, guess, foresee'
-      },
-      {
-        qText: `Experts try to *predict* the economic trends based on various factors and data.`,
-        options: 'guess, foresee, forecast, improvise'
+        qText: `Economists *predict* a gradual recovery for the global economy in the coming year.`,
+        options: 'foresee, forecast, improvise, guess'
       }
     ]
   },
@@ -258,12 +206,8 @@ The security measures in place are designed to *prevent* unauthorized access to 
     synonyms: 'hinder, stop',
     mcqs: [
       {
-        qText: `Regular exercise and a healthy diet can help *prevent* many common health issues.`,
-        options: 'permit, hinder, stop, allow'
-      },
-      {
-        qText: `The security measures in place are designed to *prevent* unauthorized access to the building.`,
-        options: 'hinder, allow, stop, permit'
+        qText: `Installing a security system can help *prevent* burglaries and protect your home.`,
+        options: 'stop, permit, hinder, allow'
       }
     ]
   },
@@ -275,11 +219,11 @@ The *primary* goal of the project was to reduce carbon emissions and promote sus
     synonyms: 'main, principal',
     mcqs: [
       {
-        qText: `Education is a *primary* focus in a child's development, setting the foundation for future success.`,
-        options: 'secondary, main, subordinate, primary'
+        qText: `Learning to read is a *primary* skill that forms the foundation of education.`,
+        options: 'secondary, main, subordinate, worthless'
       },
       {
-        qText: `The *primary* goal of the project was to reduce carbon emissions and promote sustainability.`,
+        qText: `Learning to read is a *primary* skill that forms the foundation of education.`,
         options: 'main, subordinate, secondary, primary'
       }
     ]
@@ -292,12 +236,12 @@ Being able to travel and explore new cultures is a *privilege* that broadens one
     synonyms: 'advantage, benefit',
     mcqs: [
       {
-        qText: `Having access to quality education is a *privilege* that not everyone in the world enjoys.`,
-        options: 'hardship, benefit, disadvantage, privilege'
+        qText: `It is a *privilege* to have the opportunity to travel and experience different cultures.`,
+        options: 'hardship, benefit, opportunity, advantage'
       },
       {
-        qText: `Being able to travel and explore new cultures is a *privilege* that broadens one's perspective.`,
-        options: 'benefit, hardship, disadvantage, privilege'
+        qText: `It is a *privilege* to have the opportunity to travel and experience different cultures.`,
+        options: 'benefit, hardship, disadvantage, opportunity'
       }
     ]
   },
@@ -309,7 +253,7 @@ Cooking a meal requires following a specific *process* of chopping, seasoning, a
     synonyms: 'procedure, method',
     mcqs: [
       {
-        qText: `The manufacturing *process* involves multiple stages, from design to production.`,
+        qText: `Cooking is a step-by-step *process* that requires patience and attention to detail.`,
         options: 'procedure, chaos, method, disorder'
       }
     ]
@@ -322,12 +266,12 @@ A *rare* astronomical event, like a solar eclipse, is a captivating sight.`,
     synonyms: 'uncommon, scarce',
     mcqs: [
       {
-        qText: `The *rare* gemstone found in the cave was one of the most valuable discoveries in years.`,
-        options: 'abundant, uncommon, rare, common'
+        qText: `The blue moon was a *rare* occurrence, captivating everyone who gazed at the night sky.`,
+        options: 'common, abundant, uncommon, scarce'
       },
       {
-        qText: `A *rare* astronomical event, like a solar eclipse, is a captivating sight.`,
-        options: 'uncommon, common, rare, abundant'
+        qText: `The blue moon was a *rare* occurrence, captivating everyone who gazed at the night sky.`,
+        options: 'uncommon, common, scarce, abundant'
       }
     ]
   },
@@ -339,12 +283,8 @@ The car manufacturer issued a *recall* of a certain model due to a safety concer
     synonyms: 'remember, recollect',
     mcqs: [
       {
-        qText: `She struggled to *recall* the name of the book she read years ago but could remember the plot.`,
-        options: 'remember, forget, erase, recall'
-      },
-      {
-        qText: `The car manufacturer issued a *recall* of a certain model due to a safety concern.`,
-        options: 'recollection, erase, forget, recall'
+        qText: `It took a moment for her to *recall* the details of the conversation from the previous day.`,
+        options: 'remember, forget, erase, forsee'
       }
     ]
   },
@@ -356,7 +296,7 @@ Businesses *rely* on customer feedback to improve their products and services.`,
     synonyms: 'depend, trust',
     mcqs: [
       {
-        qText: `In times of need, you can *rely* on your close friends to provide support.`,
+        qText: `In times of trouble, friends often *rely* on each other for support.`,
         options: 'depend, trust, doubt, distrust'
       }
     ]
@@ -369,11 +309,7 @@ She made a humorous *remark* that lightened the mood in the room.`,
     synonyms: 'comment, observation',
     mcqs: [
       {
-        qText: `His *remark* during the meeting sparked a thoughtful discussion among the team members.`,
-        options: 'disregard, comment, ignore, observation'
-      },
-      {
-        qText: `She made a humorous *remark* that lightened the mood in the room.`,
+        qText: `His insightful *remark* added depth to the ongoing discussion.`,
         options: 'comment, disregard, ignore, remark'
       }
     ]
@@ -386,8 +322,8 @@ A *resident* of the town for over 30 years, he had witnessed many changes over t
     synonyms: 'inhabitant, occupant',
     mcqs: [
       {
-        qText: `A *resident* of the town for over 30 years, he had witnessed many changes over time.`,
-        options: 'inhabitant, visitor, resident, occupant'
+        qText: `The new *resident* quickly became part of the close-knit neighborhood.`,
+        options: 'occupant, guest, visitor, resident'
       }
     ]
   },
@@ -399,8 +335,8 @@ The teacher earned the *respect* of her students through her dedication and fair
     synonyms: 'esteem, admiration',
     mcqs: [
       {
-        qText: `The teacher earned the *respect* of her students through her dedication and fairness.`,
-        options: 'esteem, disrespect, contempt, respect'
+        qText: `It is essential to treat others with kindness and *respect*.`,
+        options: 'admiration, disrespect, contempt, esteem'
       }
     ]
   },
@@ -412,25 +348,8 @@ Parents must teach their children to be *responsible* for their actions.`,
     synonyms: 'accountable, reliable',
     mcqs: [
       {
-        qText: `Being *responsible* for a project means taking ownership of its success or failure.`,
+        qText: `Being a pet owner means being *responsible* for the well-being of your animals.`,
         options: 'accountable, irresponsible, reliable, unreliable'
-      }
-    ]
-  },
-  reverse: {
-    meaning: 'change to the contrary',
-    eg: `The company decided to *reverse* its previous decision and rehire the experienced employee.
-The movie's plot took an unexpected *reverse* in the final act, surprising the audience.`,
-    antonyms: 'maintain, uphold',
-    synonyms: 'invert, overturn',
-    mcqs: [
-      {
-        qText: `The company decided to *reverse* its previous decision and rehire the experienced employee.`,
-        options: 'uphold, maintain, reverse, overturn'
-      },
-      {
-        qText: `The movie's plot took an unexpected *reverse* in the final act, surprising the audience.`,
-        options: 'overturn, maintain, reverse, invert'
       }
     ]
   },
@@ -442,12 +361,8 @@ A good night's sleep can help you *revive* your energy and mental alertness.`,
     synonyms: 'rejuvenate, resuscitate',
     mcqs: [
       {
-        qText: `The quick administration of CPR helped to *revive* the unconscious swimmer at the pool.`,
-        options: 'resuscitate, kill, extinguish, revive'
-      },
-      {
-        qText: `A good night's sleep can help you *revive* your energy and mental alertness.`,
-        options: 'rejuvenate, kill, revive, extinguish'
+        qText: `The rain helped *revive* the wilting plants in the garden.`,
+        options: 'rejuvenate, resuscitate, kill, extinguish'
       }
     ]
   },
@@ -459,12 +374,12 @@ Crossing a busy street without using the crosswalk is a dangerous *risk* to one'
     synonyms: 'hazard, peril',
     mcqs: [
       {
-        qText: `Investing in the stock market carries a certain level of financial *risk* due to market fluctuations.`,
-        options: 'security, hazard, peril, risk'
+        qText: `Investing in the stock market carries a certain level of financial *risk*.`,
+        options: 'security, hazard, peril, alternative'
       },
       {
-        qText: `Crossing a busy street without using the crosswalk is a dangerous *risk* to one's safety.`,
-        options: 'hazard, safety, risk, security'
+        qText: `Investing in the stock market carries a certain level of financial *risk*.`,
+        options: 'hazard, safety, peril, security'
       }
     ]
   },
@@ -476,12 +391,8 @@ The children were told not to *scatter* their toys all over the living room.`,
     synonyms: 'disperse, distribute',
     mcqs: [
       {
-        qText: `The strong wind caused the leaves to *scatter* in all directions, creating a colorful spectacle.`,
+        qText: `The wind caused the leaves to *scatter* in all directions.`,
         options: 'disperse, collect, scatter, gather'
-      },
-      {
-        qText: `The children were told not to *scatter* their toys in the living room.`,
-        options: 'gather, disperse, scatter, collect'
       }
     ]
   },
@@ -493,7 +404,7 @@ The school's *schedule* includes classes in the morning and extracurricular acti
     synonyms: 'timetable, agenda',
     mcqs: [
       {
-        qText: `I have a busy *schedule* this week, with meetings and deadlines every day.`,
+        qText: `Planning a *schedule* is crucial for managing time effectively.`,
         options: 'agenda, disorder, timetable, unscheduled'
       }
     ]
@@ -506,7 +417,7 @@ It's crucial to be *sensitive* to the feelings of others and avoid hurtful comme
     synonyms: 'responsive, perceptive',
     mcqs: [
       {
-        qText: `It's crucial to be *sensitive* to the hurtful comments.`,
+        qText: `Some people are more *sensitive* to criticism.`,
         options: 'numb, responsive, sensitive, indifferent'
       }
     ]
@@ -519,12 +430,8 @@ Nonverbal *signals*, like body language, can convey important messages in a conv
     synonyms: 'sign, indication',
     mcqs: [
       {
-        qText: `The traffic light changed from red to green, giving the *signal* for the cars to proceed.`,
+        qText: `The traffic light turned red, serving as a *signal* for drivers to stop.`,
         options: 'indication, quiet, sign, silence'
-      },
-      {
-        qText: `Nonverbal *signals*, like body language, can convey important messages in a conversation.`,
-        options: 'signs, silence, indication, quiet'
       }
     ]
   },
@@ -536,7 +443,7 @@ The *solution* to the puzzle required careful thought and creativity.`,
     synonyms: 'resolution, answer',
     mcqs: [
       {
-        qText: `The scientist worked tirelessly to find a *solution* to the environmental problem.`,
+        qText: `The puzzle was challenging, but she eventually found the *solution*.`,
         options: 'answer, dilemma, resolution, problem'
       }
     ]
@@ -549,8 +456,8 @@ It's important not to *spoil* children with excessive gifts, as it may lead to e
     synonyms: 'ruin, decay',
     mcqs: [
       {
-        qText: `Leaving food out in the sun can cause it to *spoil* quickly, making it unsafe to eat.`,
-        options: 'decay, enhance, improve, spoil'
+        qText: `Excessive pampering can *spoil* a child and lead to a sense of entitlement.`,
+        options: 'ruin, decay, enhance, improve'
       }
     ]
   },
@@ -562,12 +469,12 @@ The decision to *starve* themselves in protest drew attention to the hunger stri
     synonyms: 'hunger, famish',
     mcqs: [
       {
-        qText: `In times of famine, people may *starve* due to the scarcity of food.`,
-        options: 'famish, hunger, feast, starve'
+        qText: `It's important to feed your body with nutritious food and not *starve* yourself.`,
+        options: 'famish, hunger, feast, hunger'
       },
       {
-        qText: `The decision to *starve* themselves in protest drew attention.`,
-        options: 'feast, hunger, starve, indulge'
+        qText: `It's important to feed your body with nutritious food and not *starve* yourself.`,
+        options: 'feast, famish, hunger, hunger'
       }
     ]
   },
@@ -579,12 +486,8 @@ As the captain of the ship, he had to *steer* the vessel safely through treacher
     synonyms: 'guide, navigate',
     mcqs: [
       {
-        qText: `Parents often *steer* their children toward positive life choices.`,
-        options: 'guide, mislead, steer, veer'
-      },
-      {
-        qText: `As the captain of the ship, he shoudn't have *steered* the vessel through treacherous waters.`,
-        options: 'mislead, navigate, steer, veer'
+        qText: `The captain had to *steer* the ship through rough waters to reach the harbor.`,
+        options: 'guide, mislead, halt, veer'
       }
     ]
   },
@@ -596,8 +499,8 @@ Despite the *struggle*, they persevered and achieved their goals.`,
     synonyms: 'strive, endeavor',
     mcqs: [
       {
-        qText: `The journey to overcome addiction can be a long and challenging *struggle*.`,
-        options: 'endeavor, strive, surrender, struggle'
+        qText: `Overcoming adversity often involves a persistent *struggle* to achieve success.`,
+        options: 'strive, endeavor, surrender, struggle'
       }
     ]
   },
@@ -609,11 +512,7 @@ The spacious and well-lit room was *suitable* for hosting a productive business 
     synonyms: 'appropriate, fitting',
     mcqs: [
       {
-        qText: `The attire was *suitable* for the wedding ceremony.`,
-        options: 'unsuitable, fitting, appropriate, inappropriate'
-      },
-      {
-        qText: `The spacious and well-lit room was *suitable* for hosting a productive business meeting.`,
+        qText: `Finding a *suitable* job requires a combination of skills and passion.`,
         options: 'appropriate, unsuitable, fitting, inappropriate'
       }
     ]
@@ -626,7 +525,7 @@ The annual customer satisfaction *survey* revealed areas for improvement in the 
     synonyms: 'examine, inspect',
     mcqs: [
       {
-        qText: `Researchers conducted a *survey* to gather opinions from the public on environmental issues.`,
+        qText: `Researchers conducted a *survey* to gather opinions on the new policy.`,
         options: 'inspection, examination, survey, neglect'
       }
     ]
@@ -639,12 +538,8 @@ The cheetah is known for its incredible *swift* speed in pursuit of prey.`,
     synonyms: 'fast, rapid',
     mcqs: [
       {
-        qText: `The *swift* response of the firefighters prevented the wildfire from spreading further.`,
+        qText: `The cheetah is known for its *swift* and graceful movements when hunting.`,
         options: 'fast, slow, rapid, sluggish'
-      },
-      {
-        qText: `The cheetah is known for its incredible *swift* speed in pursuit of prey.`,
-        options: 'rapid, sluggish, swift, slow'
       }
     ]
   },
@@ -656,12 +551,8 @@ The red heart is a common *symbol* of love and affection.`,
     synonyms: 'emblem, representation',
     mcqs: [
       {
-        qText: `The dove is often seen as a *symbol* of peace and harmony in many cultures.`,
-        options: 'emblem, chaos, symbol, representation'
-      },
-      {
-        qText: `The red heart is a common *symbol* of love and affection.`,
-        options: 'chaos, emblem, symbol, representation'
+        qText: `The dove is a universal *symbol* of peace.`,
+        options: 'emblem, chaos, idol, representation'
       }
     ]
   },
@@ -673,8 +564,8 @@ Her artistic *talent* shone through her beautifully painted landscapes.`,
     synonyms: 'ability, skill',
     mcqs: [
       {
-        qText: `The young musician displayed a remarkable *talent* for playing the piano, captivating the audience.`,
-        options: 'skill, incompetence, talent, ability'
+        qText: `Her extraordinary *talent* for painting was recognized at a young age.`,
+        options: 'skill, incompetence, ineptitude, ability'
       }
     ]
   },
@@ -686,12 +577,8 @@ The *theory* of relativity, formulated by Albert Einstein, revolutionized the fi
     synonyms: 'hypothesis, concept',
     mcqs: [
       {
-        qText: `In science, a *theory* is a well-established explanation that has undergone extensive testing.`,
-        options: 'fact, hypothesis, reality, theory'
-      },
-      {
-        qText: `The *theory* of relativity, formulated by Albert Einstein, revolutionized the field of physics.`,
-        options: 'reality, concept, theory, fact'
+        qText: `Scientists develop *theories* to explain and understand natural phenomena.`,
+        options: 'concepts, facts, hypothesis, reality '
       }
     ]
   },
@@ -703,12 +590,8 @@ Achieving a long-term goal can bring a deep sense of *thrill* and accomplishment
     synonyms: 'excitement, exhilaration',
     mcqs: [
       {
-        qText: `The roller coaster ride provided an adrenaline-pumping *thrill* as it sped down steep drops and sharp turns.`,
-        options: 'exhilaration, monotony, thrill, boredom'
-      },
-      {
-        qText: `Achieving a long-term goal can bring a deep sense of *thrill*.`,
-        options: 'boredom, excitement, thrill, monotony'
+        qText: `The roller coaster ride provided an exhilarating *thrill* for the amusement park visitors.`,
+        options: 'excitement, exhilaration, monotony, boredom'
       }
     ]
   },
@@ -720,8 +603,8 @@ The old journal contained clues to a lost family *treasure* hidden in the attic.
     synonyms: 'valuable, gem',
     mcqs: [
       {
-        qText: `The pirate legend spoke of hidden *treasure* buried on a remote island.`,
-        options: 'valuables, worthless, gem, treasure'
+        qText: `The old map led them to a hidden cave where they discovered a *treasure* chest.`,
+        options: 'valuable, worthless, gem, trash'
       }
     ]
   },
@@ -733,29 +616,8 @@ The successful launch of the spacecraft was a *triumph* for the entire space age
     synonyms: 'victory, success',
     mcqs: [
       {
-        qText: `The athlete's hard work and determination led to a *triumph* in the championship race.`,
-        options: 'victory, defeat, loss, failure'
-      },
-      {
-        qText: `The launch of the spacecraft was a *triumph* for the entire space agency.`,
-        options: 'failure, success, victory, triumph'
-      }
-    ]
-  },
-  value: {
-    meaning: 'the quality that renders something desirable',
-    eg: `Honesty and integrity are qualities highly *valued* in both personal and professional relationships.
-The antique vase had great *value* due to its historical significance and craftsmanship.`,
-    antonyms: 'insignificance, worthlessness',
-    synonyms: 'worth, importance',
-    mcqs: [
-      {
-        qText: `Honesty and integrity are qualities highly *valued* in both personal and professional relationships.`,
-        options: 'important, worthless, valued, insignificant'
-      },
-      {
-        qText: `The antique vase had *value* due to its historical significance and craftsmanship.`,
-        options: 'insignificance, value, worth, importance'
+        qText: `After years of hard work and dedication, winning the championship was a *triumph* for the team.`,
+        options: 'success, failure, victory, defeat'
       }
     ]
   },
@@ -767,8 +629,8 @@ The visionary leader had a grand *vision* for the future of the company.`,
     synonyms: 'sight, perception',
     mcqs: [
       {
-        qText: `The visionary leader had a grand *vision* for the future of the company.`,
-        options: 'perception, vision, sight, ignorance'
+        qText: `A clear *vision* of goals helps individuals stay focused on their aspirations.`,
+        options: 'perception, blindness, sight, ignorance'
       }
     ]
   },
@@ -780,8 +642,8 @@ Many *volunteer* firefighters responded to the emergency, bravely combating the 
     synonyms: 'contribute, offer',
     mcqs: [
       {
-        qText: `She decided to *volunteer* at the local animal shelter to help care for abandoned pets.`,
-        options: 'contribute, volunteer, refuse, decline'
+        qText: `Many people generously *volunteer* their time to help those in need.`,
+        options: 'contribute, misuse, refuse, decline'
       }
     ]
   },
@@ -793,12 +655,8 @@ When you *wander* through the city streets, you may stumble upon charming shops 
     synonyms: 'roam, explore',
     mcqs: [
       {
-        qText: `The hikers chose to *wander* through the forest, exploring its hidden trails and natural beauty.`,
-        options: 'roam, stay, wander, remain'
-      },
-      {
-        qText: `When you *wander* through the city streets, you may stumble upon charming shops and cafes.`,
-        options: 'explore, remain, wander, stay'
+        qText: `It's enjoyable to *wander* through the streets of a new city, exploring its culture.`,
+        options: 'roam, stay, explore, remain'
       }
     ]
   },
@@ -810,8 +668,8 @@ Seeking advice from someone with *wisdom* can provide guidance in making importa
     synonyms: 'knowledge, insight',
     mcqs: [
       {
-        qText: `With age comes *wisdom*, as life experiences teach valuable lessons.`,
-        options: 'insight, knowledge, wisdom, ignorance'
+        qText: `The elderly are often respected for their *wisdom* and life experiences.`,
+        options: 'insight, knowledge, foolishness, ignorance'
       }
     ]
   },
@@ -823,12 +681,8 @@ The stand-up comedian's clever *wit* had the audience in stitches.`,
     synonyms: 'humor, cleverness',
     mcqs: [
       {
-        qText: `Her *wit* and sense of humor made her the life of the party.`,
-        options: 'stupidity, humor, wit, dullness'
-      },
-      {
-        qText: `The stand-up comedian's clever *wit* had the audience in stitches.`,
-        options: 'humor, cleverness, stupidity, wit'
+        qText: `His *wit* and clever remarks kept the entire room entertained throughout the evening.`,
+        options: 'humor, cleverness, stupidity, dullness'
       }
     ]
   },
@@ -840,8 +694,8 @@ Economic *woe* can result from financial instability and market downturns.`,
     synonyms: 'sorrow, misery',
     mcqs: [
       {
-        qText: `The loss of a loved one brought deep *woe* and sorrow to the grieving family.`,
-        options: 'sorrow, misery, woe, happiness'
+        qText: `The tragic story was filled with *woe*, leaving the audience in tears.`,
+        options: 'sorrow, misery, joy, happiness'
       }
     ]
   }
