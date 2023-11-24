@@ -518,21 +518,6 @@ imprisonment of people affected by a contagious disease.`
       }
     ]
   },
-  vivid: {
-    meaning: 'very colorful and amusing',
-    eg: `The sunset painted the sky in *vivid* shades of orange and pink.
-Her *vivid* description of the adventure made it feel as though the reader was right there with the characters.`,
-    antonyms: 'dull, drab',
-    synonyms: 'colorful, lively',
-    mcqs: [
-      {
-        qText:
-          'The *vivid* description of the sunset made us feel like we were there.',
-        options: `powerful feelings in
-very colorful and amusing.`
-      }
-    ]
-  },
   whimsical: {
     meaning: 'playfully quaint',
     eg: `The garden was filled with *whimsical* sculptures and colorful flowers.
@@ -829,6 +814,7 @@ After a challenging climb, they finally reached the *summit* of the mountain, en
       }
     ]
   },
+  // doubt: too easy
   quickly: {
     meaning: 'in a fast or speedy manner',
     eg: `In order to catch the train, she had to pack her bags *quickly* and dash to the station.
@@ -894,6 +880,7 @@ In their busy lives, they would *often* meet for coffee to catch up and share st
       }
     ]
   },
+  // doubt: too easy
   early: {
     meaning: 'before the usual or expected time',
     eg: `The students arrived *early* for the exam, eager to review their notes before it began.
@@ -920,6 +907,7 @@ They reached the summit just in time to witness the *dawn* breaking over the hor
       }
     ]
   },
+  // doubt: too easy
   daily: {
     meaning: 'occurring every day',
     eg: `She made it a habit to practice the piano *daily* to improve her musical skills.

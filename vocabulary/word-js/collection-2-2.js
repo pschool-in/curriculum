@@ -618,20 +618,6 @@ The festivals are a time for reflection and *gratitude* for the blessings in lif
       }
     ]
   },
-  peaceful: {
-    meaning:
-      'calm and free from disturbance; characterized by tranquility and absence of violence',
-    eg: `The garden provided a *peaceful* retreat where one could relax and unwind.
-After a hectic day, a *peaceful* walk in the park helped clear the mind.`,
-    antonyms: 'chaotic, turbulent',
-    synonyms: 'calm, serene',
-    mcqs: [
-      {
-        qText: 'The *peaceful* atmosphere of the park was soothing.',
-        options: 'calm and free from disturbance, chaotic and noisy'
-      }
-    ]
-  },
   adventure: {
     meaning:
       'exciting and daring experience; an unusual and exciting or daring experience',
