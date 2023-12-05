@@ -18,11 +18,11 @@ A good dictionary provides *accurate* definitions and examples of words.`,
     eg: `I will *address* the issue with the customer and find a solution.
 She *addressed* the audience with a heartfelt speech.`,
     antonyms: 'avoid, ignore',
-    synonyms: 'location, residence',
+    synonyms: 'communicate',
     mcqs: [
       {
         qText: 'She could not *address* the issue during the meeting.',
-        options: 'ignore, solve, create, avoid'
+        options: 'communicate, solve, create, avoid'
       }
     ]
   },
@@ -91,7 +91,7 @@ The reasons for the problem became *apparent* after a thorough investigation.`,
       {
         qText:
           'The solution to the problem became *apparent* after careful examination.',
-        options: 'hidden, clear, ambiguous, confusing'
+        options: 'evident, clear, ambiguous, confusing'
       }
     ]
   },
@@ -132,7 +132,7 @@ The *arrest* was made in accordance with the law and legal procedures.`,
     mcqs: [
       {
         qText: 'The police officer had to *arrest* the suspect for stealing.',
-        options: 'release, free, pardon, convict'
+        options: 'apprehend, free, pardon, convict'
       }
     ]
   },
@@ -145,7 +145,7 @@ The hot air balloon began to *ascend* into the clear blue sky.`,
     mcqs: [
       {
         qText: 'It took a lot of effort to *ascend* the mountain peak.',
-        options: 'descend, rise, climb, fall'
+        options: 'climb, descend, rise, fall'
       }
     ]
   },
@@ -186,7 +186,7 @@ A well-designed website is more *attractive* to users and visitors.`,
     mcqs: [
       {
         qText: 'The beautiful garden was *attractive* to visitors.',
-        options: 'unappealing, appealing, dull, boring'
+        options: 'appealing, unappealing, dull, boring'
       }
     ]
   },
@@ -201,7 +201,7 @@ Maintaining a *balance* between work and personal life is essential for well-bei
       {
         qText:
           'A healthy lifestyle requires a *balance* of exercise and proper nutrition.',
-        options: 'imbalance, stability, equilibrium, instability'
+        options: 'equilibrium, imbalance, stability, instability'
       }
     ]
   },
@@ -228,7 +228,7 @@ One of the *benefits* of the new policy is improved access to healthcare.`,
     mcqs: [
       {
         qText: 'Regular exercise has numerous health *benefits*.',
-        options: 'risks, drawbacks, advantage, disadvantages'
+        options: 'advantages, risks, drawbacks, disadvantages'
       }
     ]
   },
@@ -257,20 +257,6 @@ Chemical reactions often involve the breaking and forming of *bonds* between ato
         qText:
           'The strong friendship created a deep emotional *bond* between them.',
         options: 'connection, separation, detachment, isolation'
-      }
-    ]
-  },
-  brief: {
-    meaning: 'of short duration or distance',
-    eg: `The meeting was *brief*, lasting only 15 minutes.
-She provided a *brief* summary of the main points in the report.`,
-    antonyms: 'lengthy, extended',
-    synonyms: 'concise, short',
-    mcqs: [
-      {
-        qText:
-          'She provided a *brief* summary of the main points in the presentation.',
-        options: 'lengthy, short, detailed, comprehensive'
       }
     ]
   },
@@ -354,7 +340,7 @@ The author *cited* several historical documents to support the argument.`,
     mcqs: [
       {
         qText: 'He decided to *cite* the research paper in his own article.',
-        options: 'ignore, copy, reference, plagiarize'
+        options: 'mention, ignore, copy, plagiarize'
       }
     ]
   },
@@ -437,7 +423,7 @@ To determine the cost, you must *calculate* the expenses and revenues.`,
       {
         qText:
           'They needed to *calculate* the total cost before making a decision.',
-        options: 'estimate, compute, guess, assume'
+        options: 'compute, estimate, guess, assume'
       }
     ]
   },
@@ -450,7 +436,7 @@ The team members are all highly *capable* professionals in their respective fiel
     mcqs: [
       {
         qText: 'A good leader is *capable* of inspiring and guiding the team.',
-        options: 'inept, skilled, talented, competent'
+        options: 'competent, inept, skilled, talented '
       }
     ]
   },
@@ -567,12 +553,12 @@ It's important to *concentrate* on your studies to excel in your exams.`,
     eg: `Environmental *concerns* have led to a push for sustainability.
 The safety of the employees is a top *concern* for the company.`,
     antonyms: 'unconcern, indifference',
-    synonyms: 'worry',
+    synonyms: 'worry, anxiety',
     mcqs: [
       {
         qText:
           'Environmental *concern* is growing due to climate change and pollution.',
-        options: 'indifference, carelessness, care, awareness'
+        options: 'anxiety, indifference, carelessness, care, '
       }
     ]
   },
@@ -793,7 +779,7 @@ The circus aims to *entertain* both children and adults with acrobatics and perf
     mcqs: [
       {
         qText: `The comedian's performance was sure to *entertain* the audience.`,
-        options: 'bore, amuse, dull, irritate'
+        options: 'amuse, bore, dull, irritate'
       }
     ]
   },

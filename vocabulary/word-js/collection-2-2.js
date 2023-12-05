@@ -9,27 +9,6 @@ Children often come up with *creative* solutions to problems that adults may not
       {
         qText: `The artist's work is very *creative*.`,
         options: 'innovative, boring, ordinary, new'
-      },
-      {
-        qText: `The artist's work is very *creative*.`,
-        options: 'unimaginative, dull, ordinary'
-      }
-    ]
-  },
-  enthusiasm: {
-    meaning: 'intense and eager enjoyment, interest, or approval',
-    eg: `Her *enthusiasm* for learning new things led her to explore a variety of hobbies and interests.
-The team tackled the project with great *enthusiasm*, eager to achieve success.`,
-    antonyms: 'apathy, indifference',
-    synonyms: 'eagerness, excited',
-    mcqs: [
-      {
-        qText: `The teacher's *enthusiasm* made the class exciting.`,
-        options: 'eagerness, apathy, indifference, excited'
-      },
-      {
-        qText: `The teacher's *enthusiasm* made the class boring.`,
-        options: 'apathy, indifference, disinterest'
       }
     ]
   },
@@ -43,10 +22,6 @@ The author used *vivid* descriptions to bring the characters and settings in the
       {
         qText: `The author's *vivid* descriptions brought the story to life.`,
         options: 'colorful, dull, lifeless, natural'
-      },
-      {
-        qText: `The author's *vivid* descriptions made the story more gloomy.`,
-        options: 'dull, lifeless, colorless'
       }
     ]
   },
@@ -60,10 +35,6 @@ Birds in the garden sang *melodious* tunes, adding to the beauty of the surround
       {
         qText: `The music at the party was *melodious*.`,
         options: 'harmonious, discordant, noisy, loud'
-      },
-      {
-        qText: 'The music at the party was *melodious*.',
-        options: 'discordant, noisy, unpleasant'
       }
     ]
   },
@@ -78,10 +49,6 @@ Her *intuition* told her that something was wrong, prompting her to investigate 
       {
         qText: `The detective's *intuition* helped solve the case.`,
         options: 'insight, ignorance, blindness, visionary'
-      },
-      {
-        qText: `The detective's *intuition* made it difficlut to solve the case.`,
-        options: 'ignorance, blindness, confusion'
       }
     ]
   },
@@ -108,10 +75,6 @@ Her *fascination* with history led her to visit museums and read historical nove
       {
         qText: 'She has a *fascination* for ancient history.',
         options: 'obsession, disinterest, disliking, temptation'
-      },
-      {
-        qText: 'She has a *fascination* for ancient history.',
-        options: 'disliking, aversion, hatred'
       }
     ]
   },
@@ -125,10 +88,6 @@ Meditation and deep breathing exercises can help promote a *peaceful* state of m
       {
         qText: 'The serene lake was a *peaceful* place to relax.',
         options: 'calm, turbulent, chaotic, rumble'
-      },
-      {
-        qText: 'The serene lake was a *peaceful* place to relax.',
-        options: 'turbulent, chaotic, noisy'
       }
     ]
   },
@@ -142,10 +101,6 @@ In chess, a well-thought-out *strategy* is essential for success.`,
       {
         qText: `The company's *strategy* led to increased profits.`,
         options: 'plan, confusion, disorder, chaos'
-      },
-      {
-        qText: `The company's *strategy* led to decreased profits.`,
-        options: 'disorder, confusion, chaos'
       }
     ]
   },
@@ -160,10 +115,6 @@ His *penchant* for adventure led him to explore uncharted territories.`,
       {
         qText: 'The explorer had a *penchant* for adventure.',
         options: 'liking, aversion, hatred, dislike'
-      },
-      {
-        qText: 'The explorer had a *penchant* for adventure.',
-        options: 'aversion, hatred, dislike'
       }
     ]
   },
@@ -178,10 +129,6 @@ The *persistent* rain continued throughout the day, causing flooding in low-lyin
       {
         qText: 'His *persistent* efforts paid off in the end.',
         options: 'continuous, sporadic, occasional, temporary'
-      },
-      {
-        qText: 'His *persistent* efforts paid off in the end.',
-        options: 'sporadic, occasional, infrequent'
       }
     ]
   },
@@ -195,10 +142,6 @@ The speaker delivered a *powerful* message that resonated with the audience.`,
       {
         qText: 'The film had a *powerful* impact on the audience.',
         options: 'strong, weak, feeble, agile'
-      },
-      {
-        qText: 'The film had a *powerful* impact on the audience.',
-        options: 'weak, feeble, ineffective'
       }
     ]
   },
@@ -212,10 +155,6 @@ Her *dedication* to the cause inspired others to join the charitable initiative.
       {
         qText: `The athlete's *dedication* to training was impressive.`,
         options: 'commitment, indifference, neglect, ignore'
-      },
-      {
-        qText: `The athlete's *dedication* to training cost him the match.`,
-        options: 'neglect, indifference, laziness'
       }
     ]
   },
@@ -230,10 +169,6 @@ In physics class, they discussed the *theory* of relativity and its implications
       {
         qText: `The scientist's *theory* revolutionized the field.`,
         options: 'hypothesis, fact, truth, thesis'
-      },
-      {
-        qText: `The scientist's *theory* revolutionized the field.`,
-        options: 'fact, truth, reality'
       }
     ]
   },
@@ -247,10 +182,6 @@ The firefighter displayed immense *courage* while rescuing people from the burni
       {
         qText: 'The mountain climbers showed great *courage*.',
         options: 'bravery, fear, cowardice, fearless'
-      },
-      {
-        qText: 'The mountain climbers showed great *courage*.',
-        options: 'fear, cowardice, timidity'
       }
     ]
   },
@@ -277,10 +208,6 @@ Through his *eloquent* writing, the author conveyed complex emotions with clarit
       {
         qText: 'Her *eloquent* speech left the audience in awe.',
         options: 'articulate, inarticulate, speechless, elegant'
-      },
-      {
-        qText: 'Her *eloquent* speech left the audience in awe.',
-        options: 'inarticulate, speechless, mute'
       }
     ]
   },
@@ -294,10 +221,6 @@ The chef added *fragrant* herbs to the dish, enhancing its flavor.`,
       {
         qText: 'The garden was filled with *fragrant* flowers.',
         options: 'pleasant-smelling, stinking, colourful, sweet'
-      },
-      {
-        qText: 'The garden was filled with *fragrant* flowers.',
-        options: 'foul-smelling, stinking, repugnant'
       }
     ]
   },
@@ -312,10 +235,6 @@ The antique necklace passed down through generations is a *priceless* family hei
       {
         qText: 'The museum displayed *priceless* artifacts.',
         options: 'invaluable, worthless, cheap, expensive'
-      },
-      {
-        qText: 'The museum displayed *priceless* artifacts.',
-        options: 'worthless, cheap, expendable'
       }
     ]
   },
@@ -329,10 +248,6 @@ The *suspenseful* atmosphere in the novel intensified with every chapter.`,
       {
         qText: 'The novel had a *suspenseful* plot.',
         options: 'thrilling, predictable, boring, mystical'
-      },
-      {
-        qText: 'The novel had a *suspenseful* plot.',
-        options: 'predictable, boring, uninteresting'
       }
     ]
   },
@@ -347,10 +262,6 @@ Artists often find inspiration through *collaboration* with others in the creati
       {
         qText: `The team's *collaboration* led to success.`,
         options: 'cooperation, competition, rivalry, nemesis'
-      },
-      {
-        qText: `The team's *collaboration* led to success.`,
-        options: 'competition, rivalry, disagreement'
       }
     ]
   },
@@ -364,10 +275,6 @@ A simple act of kindness can have a *profound* effect on someone's day.`,
       {
         qText: 'She has a *profound* understanding of the topic.',
         options: 'deep, superficial, shallow, little'
-      },
-      {
-        qText: 'She has a *profound* understanding of the topic.',
-        options: 'superficial, shallow, trivial'
       }
     ]
   },
@@ -382,10 +289,6 @@ The policy change had a *significant* impact on improving environmental conditio
       {
         qText: 'The storm caused *significant* damage to the town.',
         options: 'major, minor, trivial, little'
-      },
-      {
-        qText: 'The storm caused *significant* damage to the town.',
-        options: 'minor, trivial, negligible'
       }
     ]
   },
@@ -399,10 +302,6 @@ The artist created an *exquisite* painting, showcasing skill and attention to de
       {
         qText: 'His *exquisite* taste in fashion was well-known.',
         options: 'beautiful, ordinary, ugly, deformed'
-      },
-      {
-        qText: 'His *exquisite* taste in fashion was well-known.',
-        options: 'ugly, ordinary, unattractive'
       }
     ]
   },
@@ -416,10 +315,6 @@ The film's *captivating* cinematography and storyline made it a box office succe
       {
         qText: `The orchestra's performance was *captivating*.`,
         options: 'fascinating, dull, uninteresting, boring'
-      },
-      {
-        qText: `The orchestra's performance was *captivating*.`,
-        options: 'uninteresting, dull, boring'
       }
     ]
   },
@@ -558,21 +453,6 @@ The employee was commended for his *honesty* in admitting a mistake and taking r
       {
         qText: `The *honesty* of the witness was crucial in the court case.`,
         options: 'truthfulness and integrity, deceit and dishonesty'
-      }
-    ]
-  },
-  resilience: {
-    meaning:
-      'the ability to recover and adapt; the capacity to withstand difficulty and bounce back',
-    eg: `*Resilience* is essential in overcoming challenges and bouncing back from adversity.
-The community showed remarkable *resilience* in rebuilding after the natural disaster.`,
-    antonyms: 'adaptability, toughness',
-    synonyms: 'fragility, vulnerability',
-    mcqs: [
-      {
-        qText:
-          'The *resilience* of the community was tested during the disaster.',
-        options: 'ability to recover and adapt, vulnerability and fragility'
       }
     ]
   },

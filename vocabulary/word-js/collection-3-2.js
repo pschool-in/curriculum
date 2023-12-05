@@ -9,27 +9,6 @@ Despite the challenging circumstances, Sarah remained *jovial* and kept a positi
       {
         qText: 'The young boy was *jovial* at the party.',
         options: 'cheerful, gloomy, silent, upset'
-      },
-      {
-        qText: 'The young boy was *jovial* at the party.',
-        options: 'gloomy, cheerful, silent'
-      }
-    ]
-  },
-  captivating: {
-    meaning: 'engaging',
-    eg: `The book's *captivating* plot kept me hooked from the first page to the last.
-The *captivating* beauty of the sunset left everyone in awe.`,
-    antonyms: 'boring, tiresome, lazy',
-    synonyms: 'engaging, enchanting',
-    mcqs: [
-      {
-        qText: 'The novel had a *captivating* storyline.',
-        options: 'engaging, boring, tiresome, lazy'
-      },
-      {
-        qText: 'The novel had a *captivating* storyline.',
-        options: 'boring, engaging, tiresome'
       }
     ]
   },
@@ -43,27 +22,6 @@ The *challenging* puzzle took hours to solve, but it was a satisfying accomplish
       {
         qText: 'She found the puzzle to be quite *challenging*.',
         options: 'demanding, easy, uncomplicated, trivial'
-      },
-      {
-        qText: 'She found the puzzle to be quite *challenging*.',
-        options: 'easy, demanding, uncomplicated'
-      }
-    ]
-  },
-  magnificent: {
-    meaning: 'grand',
-    eg: `The view from the mountaintop was absolutely *magnificent*, with breathtaking landscapes all around.
-The ballroom was decorated in a *magnificent* style for the royal gala.`,
-    antonyms: 'mediocre, ordinary',
-    synonyms: 'grand, splendid',
-    mcqs: [
-      {
-        qText: 'The artwork was truly *magnificent*.',
-        options: 'grand, mediocre, ordinary, worthless'
-      },
-      {
-        qText: 'The artwork was *magnificent*.',
-        options: 'ordinary, grand, mediocre'
       }
     ]
   },
@@ -77,10 +35,6 @@ Watching a funny movie with friends is always a *hilarious* experience.`,
       {
         qText: `The comedian's jokes were *hilarious*.`,
         options: 'amusing, dull, humorless, boring'
-      },
-      {
-        qText: `The comedian's jokes were *hilarious*.`,
-        options: 'humorless, amusing, dull'
       }
     ]
   },
@@ -94,10 +48,6 @@ The teacher gave a *comprehensive* explanation of the scientific concept.`,
       {
         qText: `The teacher's explanation was *comprehensive*.`,
         options: 'thorough, incomplete, superficial, ordinary'
-      },
-      {
-        qText: `The teacher's explanation was *comprehensive*.`,
-        options: 'superficial, thorough, incomplete'
       }
     ]
   },
@@ -111,44 +61,6 @@ After a yoga session, I felt *serene* and at peace.`,
       {
         qText: 'The forest was filled with *serene* beauty.',
         options: 'peaceful, chaotic, turbulent, intriguing'
-      },
-      {
-        qText: 'The forest was filled with *serene* beauty.',
-        options: 'turbulent, peaceful, chaotic'
-      }
-    ]
-  },
-  profound: {
-    meaning: 'deep',
-    eg: `The philosopher shared a *profound* insight into the nature of existence.
-The movie's ending had a *profound* impact on the audience.`,
-    antonyms: 'shallow, superficial',
-    synonyms: 'deep, thoughtful',
-    mcqs: [
-      {
-        qText: 'She had a *profound* understanding of the topic.',
-        options: 'deep, shallow, superficial, incomplete'
-      },
-      {
-        qText: 'She had a *profound* understanding of the topic.',
-        options: 'superficial, deep, shallow'
-      }
-    ]
-  },
-  meticulous: {
-    meaning: 'careful',
-    eg: `The artist was *meticulous* in every brushstroke, creating a masterpiece.
-The chef's *meticulous* preparation resulted in a perfectly plated dish.`,
-    antonyms: 'careless, sloppy',
-    synonyms: 'careful, precise',
-    mcqs: [
-      {
-        qText: 'The project required *meticulous* attention to detail.',
-        options: 'careful, careless, sloppy, clumsy'
-      },
-      {
-        qText: 'The project had a *meticulous* attention to detail.',
-        options: 'sloppy, careful, careless'
       }
     ]
   },
@@ -162,10 +74,6 @@ The company was known for its *exceptional* customer service.`,
       {
         qText: 'The performance was *exceptional*.',
         options: 'outstanding, average, mediocre, ordinary'
-      },
-      {
-        qText: 'The performance was *exceptional*.',
-        options: 'mediocre, outstanding, average'
       }
     ]
   },
@@ -179,14 +87,6 @@ The performance of the acrobat was *breathtaking* as she soared through the air.
       {
         qText: 'The mountain view was *breathtaking*.',
         options: 'stunning, unimpressive, ordinary, worthless'
-      },
-      {
-        qText: 'The mountain view was *breathtaking*.',
-        options: 'ordinary, stunning, unimpressive'
-      },
-      {
-        qText: 'The sunsets in this place are *breathtaking*.',
-        options: 'breathtaking, majestic, sublime'
       }
     ]
   },
@@ -200,10 +100,6 @@ The student's performance in the exam was *commendable*, earning her the top sco
       {
         qText: 'His generosity was *commendable*.',
         options: 'praiseworthy, blameworthy, reprehensible, irresponsible'
-      },
-      {
-        qText: 'His generosity was *commendable*.',
-        options: 'reprehensible, praiseworthy, blameworthy'
       }
     ]
   },
@@ -217,10 +113,6 @@ The documentary on wildlife was both educational and *riveting*.`,
       {
         qText: 'The novel had a *riveting* plot.',
         options: 'engrossing, uninteresting, tedious, predictable'
-      },
-      {
-        qText: 'The novel had a *riveting* plot.',
-        options: 'tedious, engrossing, uninteresting'
       }
     ]
   },
@@ -234,10 +126,6 @@ The aroma of freshly baked cookies filled the kitchen, promising a *delicious* t
       {
         qText: 'The recipe produced *delicious* results.',
         options: 'tasty, unappetizing, bland, bitter'
-      },
-      {
-        qText: 'The recipe produced *delicious* results.',
-        options: 'bland, tasty, unappetizing'
       }
     ]
   },
@@ -251,10 +139,6 @@ The *prompt* response from the emergency services saved lives.`,
       {
         qText: 'Her response was *prompt*.',
         options: 'quick, delayed, sluggish, irrelevant'
-      },
-      {
-        qText: 'Her response was *prompt*.',
-        options: 'sluggish, quick, delayed'
       }
     ]
   },
@@ -268,10 +152,6 @@ The dancer's *spectacular* performance left the audience in awe.`,
       {
         qText: `The movie's special effects were *spectacular*.`,
         options: 'impressive, unremarkable, ordinary, ubiquitous'
-      },
-      {
-        qText: `The movie's special effects were *spectacular*.`,
-        options: 'ordinary, impressive, unremarkable'
       }
     ]
   },
@@ -285,10 +165,6 @@ The beautiful sunrise over the mountains was truly *inspiring*.`,
       {
         qText: 'His speech was *inspiring*.',
         options: 'motivating, uninspiring, discouraging, demotivating'
-      },
-      {
-        qText: 'His speech was *inspiring*.',
-        options: 'discouraging, motivating, uninspiring'
       }
     ]
   },
@@ -302,10 +178,6 @@ The athlete's *electrifying* sprint to the finish line secured a victory.`,
       {
         qText: 'The concert was *electrifying*.',
         options: 'thrilling, dull, lifeless, ugly'
-      },
-      {
-        qText: 'The concert was *electrifying*.',
-        options: 'lifeless, thrilling, dull'
       }
     ]
   },
@@ -319,10 +191,6 @@ The *innovative* design of the new smartphone set it apart from competitors.`,
       {
         qText: 'The solution was *innovative*.',
         options: 'creative, conventional, unimaginative, repetative'
-      },
-      {
-        qText: 'The solution was *innovative*.',
-        options: 'unimaginative, creative, conventional'
       }
     ]
   },
@@ -493,21 +361,6 @@ The detective's *acumen* helped solve the complex case.`,
         qText:
           'His *acumen* in business allowed him to make strategic decisions that led to success.',
         options: 'keen insight or shrewdness, lack of knowledge or expertise'
-      }
-    ]
-  },
-  persistence: {
-    meaning: 'continued determination and effort',
-    eg: `With *persistence* and hard work, she overcame numerous challenges in her career.
-The scientist's *persistence* in research eventually led to groundbreaking discoveries.`,
-    antonyms: 'quitting, inconstancy',
-    synonyms: 'tenacity, perseverance',
-    mcqs: [
-      {
-        qText:
-          "The candidate's *persistence* throughout the campaign impressed many voters.",
-        options:
-          'continued determination and effort, frequent changes in direction'
       }
     ]
   },

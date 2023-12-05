@@ -99,10 +99,6 @@ Understanding the *origin* of a word can provide insight into its meaning and us
     mcqs: [
       {
         qText: `The archaeologist was determined to uncover the *origin* of the ancient artifact.`,
-        options: 'end, source, beginning, conclusion'
-      },
-      {
-        qText: `The archaeologist was determined to uncover the *origin* of the ancient artifact.`,
         options: 'source, conclusion, end, beginning'
       }
     ]
@@ -220,10 +216,6 @@ The *primary* goal of the project was to reduce carbon emissions and promote sus
     mcqs: [
       {
         qText: `Learning to read is a *primary* skill that forms the foundation of education.`,
-        options: 'secondary, main, subordinate, worthless'
-      },
-      {
-        qText: `Learning to read is a *primary* skill that forms the foundation of education.`,
         options: 'main, subordinate, secondary, primary'
       }
     ]
@@ -235,10 +227,6 @@ Being able to travel and explore new cultures is a *privilege* that broadens one
     antonyms: 'disadvantage, hardship',
     synonyms: 'advantage, benefit',
     mcqs: [
-      {
-        qText: `It is a *privilege* to have the opportunity to travel and experience different cultures.`,
-        options: 'hardship, benefit, opportunity, advantage'
-      },
       {
         qText: `It is a *privilege* to have the opportunity to travel and experience different cultures.`,
         options: 'benefit, hardship, disadvantage, opportunity'
@@ -265,10 +253,6 @@ A *rare* astronomical event, like a solar eclipse, is a captivating sight.`,
     antonyms: 'common, abundant',
     synonyms: 'uncommon, scarce',
     mcqs: [
-      {
-        qText: `The blue moon was a *rare* occurrence, captivating everyone who gazed at the night sky.`,
-        options: 'common, abundant, uncommon, scarce'
-      },
       {
         qText: `The blue moon was a *rare* occurrence, captivating everyone who gazed at the night sky.`,
         options: 'uncommon, common, scarce, abundant'
@@ -375,10 +359,6 @@ Crossing a busy street without using the crosswalk is a dangerous *risk* to one'
     mcqs: [
       {
         qText: `Investing in the stock market carries a certain level of financial *risk*.`,
-        options: 'security, hazard, peril, alternative'
-      },
-      {
-        qText: `Investing in the stock market carries a certain level of financial *risk*.`,
         options: 'hazard, safety, peril, security'
       }
     ]
@@ -418,7 +398,7 @@ It's crucial to be *sensitive* to the feelings of others and avoid hurtful comme
     mcqs: [
       {
         qText: `Some people are more *sensitive* to criticism.`,
-        options: 'numb, responsive, sensitive, indifferent'
+        options: 'responsive, numb, perceptive, indifferent'
       }
     ]
   },
@@ -471,10 +451,6 @@ The decision to *starve* themselves in protest drew attention to the hunger stri
       {
         qText: `It's important to feed your body with nutritious food and not *starve* yourself.`,
         options: 'famish, hunger, feast, hunger'
-      },
-      {
-        qText: `It's important to feed your body with nutritious food and not *starve* yourself.`,
-        options: 'feast, famish, hunger, hunger'
       }
     ]
   },
@@ -566,19 +542,6 @@ Her artistic *talent* shone through her beautifully painted landscapes.`,
       {
         qText: `Her extraordinary *talent* for painting was recognized at a young age.`,
         options: 'skill, incompetence, ineptitude, ability'
-      }
-    ]
-  },
-  theory: {
-    meaning: 'a belief that can guide behavior',
-    eg: `In science, a *theory* is a well-established explanation that has undergone extensive testing.
-The *theory* of relativity, formulated by Albert Einstein, revolutionized the field of physics.`,
-    antonyms: 'fact, reality',
-    synonyms: 'hypothesis, concept',
-    mcqs: [
-      {
-        qText: `Scientists develop *theories* to explain and understand natural phenomena.`,
-        options: 'concepts, facts, hypothesis, reality '
       }
     ]
   },

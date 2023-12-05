@@ -216,7 +216,7 @@ The students' test scores were slightly above the class *average*.`,
     mcqs: [
       {
         qText: `The student's grades were consistently *average* throughout the semester.`,
-        options: 'exceptional, poor, best, worst'
+        options: 'moderate, poor, best, worst'
       }
     ]
   },
@@ -437,7 +437,7 @@ Don't be a *coward*; stand up for what you believe in.`,
     mcqs: [
       {
         qText: `Running away from challenges doesn't make you a *coward*.`,
-        options: 'courageous, fearful, timid, scared'
+        options: 'timid, courageous, fearful, scared'
       }
     ]
   },
@@ -690,10 +690,6 @@ The *fierce* competition between the two rival companies led to innovative produ
       {
         qText: `The dragon's eyes glowed with a *fierce* intensity as it defended its lair from intruders.`,
         options: 'ferocious, mild, soft, gentle'
-      },
-      {
-        qText: `The competition for the championship was *fierce*.`,
-        options: 'mild, ferocious, aggressive, gentle'
       }
     ]
   },
@@ -714,8 +710,8 @@ She considered herself *fortunate* to have a supportive and loving group of frie
     meaning: 'physically weak',
     eg: `The *frail* elderly woman needed assistance with daily tasks due to her weakened physical condition.
 The *frail* structure of the old bridge made it unsafe for heavy vehicles.`,
-    antonyms: 'fragile, delicate',
-    synonyms: 'sturdy',
+    antonyms: 'sturdy',
+    synonyms: 'fragile, delicate',
     mcqs: [
       {
         qText: `The old woman appeared *frail* but possessed great inner strength.`,
@@ -746,10 +742,6 @@ She accepted the award with *grace* and humility, thanking her supporters and te
       {
         qText: `The ballerina moved with *grace* and precision, captivating the audience with her performance.`,
         options: 'elegance, clumsiness, awkwardness, unaturally'
-      },
-      {
-        qText: `The ballerina moved with *grace*.`,
-        options: 'awkwardness, poise, elegance, clumsiness'
       }
     ]
   },
@@ -883,19 +875,6 @@ He needed to *locate* his misplaced car keys before he could leave for work.`,
       }
     ]
   },
-  loyal: {
-    meaning: 'steadfast in allegiance or duty',
-    eg: `A *loyal* friend stands by you through both good times and bad, offering support and trust.
-The dog's *loyal* devotion to its owner was evident in its unwavering affection.`,
-    antonyms: 'disloyal, unfaithful',
-    synonyms: 'faithful, devoted',
-    mcqs: [
-      {
-        qText: `Dogs are known for their *loyal* and devoted nature towards their owners.`,
-        options: 'faithful, disloyal, unfaithful, good'
-      }
-    ]
-  },
   magnificent: {
     meaning: 'characterized by grandeur',
     eg: `The grand, *magnificent* palace was a testament to the wealth and power of the royal family.
@@ -919,10 +898,6 @@ We had to carefully navigate through the muddy *marsh* during our hike.`,
       {
         qText: `The *marshland* was home to a diverse range of plant and animal species.`,
         options: 'wetland, marsh, arid land, desert'
-      },
-      {
-        qText: `The *marshland* was home to a diverse range of plant and animal species.`,
-        options: 'arid land, wetland, swamp, mudland'
       }
     ]
   },

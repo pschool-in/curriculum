@@ -9,10 +9,6 @@ The *mischievous* grin on her face revealed that she had played a prank on her c
       {
         qText: 'These children are very *mischievous*',
         options: 'naughty, funny, kind, comical'
-      },
-      {
-        qText: 'These children are very *mischievous*',
-        options: 'kind, naughty, funny'
       }
     ]
   },
@@ -26,10 +22,6 @@ The warehouse was filled with an *enormous* amount of boxes.`,
       {
         qText: 'The new building is *enormous*!',
         options: 'huge, dirty, colorful, vivid'
-      },
-      {
-        qText: 'The new building is *enormous*!',
-        options: 'small, huge, colorful'
       }
     ]
   },
@@ -44,10 +36,6 @@ As the sun set, the city lights began to create a *dazzling* display of colors a
       {
         qText: `The white clothes are *dazzling* in the sun!`,
         options: 'shining, hot, huge, dull'
-      },
-      {
-        qText: `The white clothes are *dazzling*!`,
-        options: 'dull, shining, huge'
       }
     ]
   },
@@ -61,10 +49,6 @@ The sailors worked frantically to prevent the ship from *capsizing* in the turbu
       {
         qText: 'The boat was about to *capsize*.',
         options: 'sink, move fast, rotate, stabilize'
-      },
-      {
-        qText: 'The boat was about to *capsize*.',
-        options: 'stabilize, sink, rotate'
       }
     ]
   },
@@ -79,10 +63,6 @@ The police were called to investigate the *burgled* store.`,
       {
         qText: 'The bank was *burgled* in broad daylight!',
         options: 'robbed, crowded, locked, secure'
-      },
-      {
-        qText: 'The bank was *burgled*.',
-        options: 'secure, robbed, locked'
       }
     ]
   },
@@ -96,10 +76,6 @@ His *broad* knowledge of various subjects made him interesting.`,
       {
         qText: 'City roads are usually quite *broad*.',
         options: 'wide, narrow, dirty, clean'
-      },
-      {
-        qText: 'City roads are usually quite *broad*.',
-        options: 'narrow, wide, dirty'
       }
     ]
   },
@@ -113,10 +89,6 @@ She walked into the room wearing a *stunning* gown that turned heads and capture
       {
         qText: 'The view of the valley was *stunning*!',
         options: 'amazing, dangerous, dark, ordinary'
-      },
-      {
-        qText: 'The view of the valley was *stunning*!',
-        options: 'unimpressive, amazing, dark'
       }
     ]
   },
@@ -130,10 +102,6 @@ The formal *invitation* to the gala was beautifully designed and elegantly prese
       {
         qText: `Prem did not *invite* Arun to his party.`,
         options: 'call, ask, come, go'
-      },
-      {
-        qText: `Prem did not *invite* Arun.`,
-        options: 'exclude, call, come'
       }
     ]
   },
@@ -147,10 +115,6 @@ After hours of searching, they finally *sighted* the lighthouse on the distant s
       {
         qText: 'We *sighted* three tiger cubs in the distance.',
         options: 'saw, heard, walked, caught'
-      },
-      {
-        qText: 'We *sighted* three tiger cubs.',
-        options: 'lost sight of, saw, walked'
       }
     ]
   },
@@ -177,10 +141,6 @@ The constant noise from the construction site left the residents *annoyed* and f
       {
         qText: 'My mother was quite *annoyed* with me!',
         options: 'irritated, kind, polite, happy'
-      },
-      {
-        qText: 'My mother was quite *annoyed* with me!',
-        options: 'pleased, irritated, polite'
       }
     ]
   },
@@ -221,10 +181,6 @@ His *favorite* color was blue, and he painted his room in various shades of it.`
       {
         qText: "Potato chips are Tanya's *favorite* snack.",
         options: 'best, hated, disliked, unlike'
-      },
-      {
-        qText: "Potato chips are Tanya's *favorite* snack.",
-        options: 'hated, best, loved'
       }
     ]
   },
@@ -241,23 +197,6 @@ As the morning mist cleared, the ancient castle began to *appear* on the horizon
       }
     ]
   },
-  delicious: {
-    meaning: 'highly pleasant to the taste',
-    eg: `The homemade cookies were so *delicious* that they disappeared within minutes.
-The chef prepared a *delicious* three-course meal for the guests.`,
-    antonyms: 'unpalatable, tasteless',
-    synonyms: 'tasty, appetizing',
-    mcqs: [
-      {
-        qText: 'The food in this restaurant is very *delicious*!',
-        options: 'tasty, hot, colorful, unpalatable'
-      },
-      {
-        qText: 'The food in this restaurant is very *delicious*!',
-        options: 'tasteless, tasty, colorful'
-      }
-    ]
-  },
   ruined: {
     meaning: 'destroyed or severely damaged',
     eg: `The heavy rainstorm completely *ruined* the outdoor picnic plans.
@@ -268,10 +207,6 @@ The abandoned mansion, once grand and majestic, now stood in a *ruined* state.`,
       {
         qText: 'The tailor has *ruined* my dress!',
         options: 'spoilt, lost, forgot, torn'
-      },
-      {
-        qText: 'The tailor has *ruined* my dress!',
-        options: 'improved, spoilt, forgot'
       }
     ]
   },
@@ -326,10 +261,6 @@ The scientist conducted a *meticulous* experiment, recording every variable with
       {
         qText: 'She is always *meticulous* about her work.',
         options: 'careful and precise, unattentive, focused, distracted'
-      },
-      {
-        qText: 'She is always *meticulous* about her work.',
-        options: 'careless, careful, unattentive'
       }
     ]
   },
@@ -344,11 +275,6 @@ Despite facing challenges, the team approached the project with great *enthusias
         qText:
           'The students showed great *enthusiasm* during the science experiment.',
         options: 'eagerness, ambitious, alarmed, distracted'
-      },
-      {
-        qText:
-          'The students showed great *enthusiasm* during the science experiment.',
-        options: 'apathy, ambitious, alarmed'
       }
     ]
   },
@@ -363,27 +289,6 @@ Athletes rely on their *agility* to navigate urban environments, executing preci
         qText:
           'The athlete displayed remarkable *agility* during the competition.',
         options: 'speed, slow, lazy, strength'
-      },
-      {
-        qText: 'The athlete was *agile* during the competition.',
-        options: 'clumsy, quick, lazy'
-      }
-    ]
-  },
-  fragrant: {
-    meaning: 'having a pleasant or sweet smell',
-    eg: `The garden was filled with *fragrant* flowers, creating a delightful aroma that perfumed the air.
-As she entered the bakery, the *fragrant* scent of freshly baked bread and pastries greeted her.`,
-    antonyms: 'foul smelling',
-    synonyms: 'pleasant smelling, aromatic',
-    mcqs: [
-      {
-        qText: 'The garden was filled with *fragrant* flowers.',
-        options: 'pleasant smelling, colourful, vibrant, sweet'
-      },
-      {
-        qText: 'The garden was filled with *fragrant* flowers.',
-        options: 'foul smelling, colourless, dull'
       }
     ]
   },
@@ -397,10 +302,6 @@ As the fireworks exploded in the night sky, the crowd was treated to a *deafenin
       {
         qText: 'The music at the party was *deafening*.',
         options: 'extremely loud, extremely quiet, defective, harmonious'
-      },
-      {
-        qText: 'The music at the party was *deafening*.',
-        options: 'extremely quiet, extremely loud, defective'
       }
     ]
   },
@@ -742,6 +643,10 @@ Despite the challenges, the team remained *loyal* to their leader.`,
     antonyms: 'unfaithful, disloyal',
     synonyms: 'devoted, steadfast',
     mcqs: [
+      {
+        qText: `Dogs are known for their *loyal* and devoted nature towards their owners.`,
+        options: 'faithful, disloyal, unfaithful, good'
+      },
       {
         qText: 'He remained *loyal* to his friends through thick and thin.',
         options: `faithful and committed 

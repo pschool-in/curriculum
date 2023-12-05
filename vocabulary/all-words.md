@@ -6,130 +6,92 @@
 
 # 3nd Grade
 
-## Word meanings
+ability, absorb, accuse, act, active, actual, adopt, advantage, advice, ambition, ancient, approach, arrange, arctic, attitude, attract, average, avoid, bold, border
 
-ability, absorb, accuse, act, active, actual, adopt, advantage, advice, ambition, ancient, approach, arctic, attitude, attract, average, avoid, bold, border, brief, brilliant
+brief, brilliant, cable, capture, certain, chill, clever, cling, coast, confess, consider, contain, convince, coward, crew, crumple, custom, decay, deed, defend
 
-cable, capture, certain, chill, clever, climate, cling, coast, confess, consider, contain, continent, convince, coward, crew, crumple, custom, decay, deed, defend
+delicate, digest, disease, distant, doze, drift, elegant, enable, examine, explore, fan, fatal, fierce, fortunate, frail, glide, grace, gradual, harsh, imitate
 
-delicate, device, diagram, digest, disease, distant, doze, drift, elegant, enable, examine, explore, fan, fatal, fierce, flutter, fortunate, frail, gasp, glide
+individual, intelligent, intend, journey, launch, limit, locate, loyal, magnificent, marsh, method, mischievous, enormous, dazzling, capsize, burgled, broad, stunning, invite, sighted
 
-globe, grace, gradual, grasp, habit, harsh, imitate, individual, intelligent, intend, journey, launch, limit, locate, loyal, magnificent, marsh, method
+communicate, annoyed, route, live, favorite, appear, ruined, extremely, scurried, illusion, meticulous, enthusiasm, agility, deafening, apathy, hypothesis, ambiguous, inevitable, innovate, juxtapose
 
-## MCQ Synonyms and Antonyms
+nostalgia, quarantine, whimsical, discrepancy, empathy, synchronize, exaggerate, oblivious, diligent, tenacious, alleviate, voracious, aid, eager, fragile, harmony, illuminate, loyal, century, moments
 
-mischievous, enormous, dazzling, capsize, burgled, broad, stunning, invite, sighted, communicate, annoyed, shortest, live, favorite, appear, delicious, ruined, hot, scurried, bewitching, meticulous
+forntnight, ages, summit, quickly, stunning, confidence, downtown, often, early, dawn, daily
 
-## MCQ on meanings
-
-apathy, hypothesis, ambiguous, inevitable, innovate, juxtapose, nostalgia, quarantine, vivid, whimsical, discrepancy, empathy, synchronize, exaggerate, oblivious, diligent, tenacious, alleviate, voracious, aid, eager
-
-fragile, harmony, illuminate, loyal
+climate, continent, device, diagram, flutter, gasp, globe, grasp, habit, shortest, bewitching,
 
 # 4th Grade
 
-## Word meanings
+misery, moisture, mural, mystify, nectar, observe, ordeal, origin, outcome, pastime, pause, perform, plunge, predator, predict, prevent, primary, privilege, process, rare, recall
 
-misery, moisture, mural, mystify, nectar, nursery, observe, opponent, opposite, ordeal, origin, outcome, passage, pastime, pause, perform, plunge, predator, predict, prevent
+rely, remark, resident, respect, responsible, revive, risk, scatter, schedule, sensitive, signal, solution, spoil, starve, steer, struggle, suitable, survey, swift, symbol
 
-primary, privilege, process, rare, rate, recall, rely, remark, resident, respect, responsible, reverse, revive, risk, scatter, schedule, sensitive, signal, solution, spoil
+talent, thrill, treasure, triumph, vision, volunteer, wander, wisdom, wit, woe, creative, vivid, melodious, intuition, culinary, fascination, peaceful, strategy, penchant, persistent
 
-starve, steer, struggle, suitable, survey, swift, symbol, talent, theory, thrill, treasure, triumph, value, vision, volunteer, wander, wisdom
+powerful, dedication, theory, courage, educational, eloquent, fragrant, priceless, suspenseful, collaboration, profound, significant, exquisite, captivating, vibrant, patience, cooperation, persistent, generous, curiosity
 
-wit, woe
+reliable, celebration, creativity, honesty, optimistic, efficiency, gratitude, adventure, persistence, compassion, innovation, kindness, hilltop, amidst, midway, peak, effortlessly, excessively, passionately, incredible, endlessly
 
-## MCQ Synonyms and Antonyms
-
-creative, enthusiasm, vivid, melodious, intuition, culinary, fascination, peaceful, strategy, penchant, persistent, powerful, dedication, theory, courage, educational, eloquent, fragrant, priceless, collaboration
-
-profound, significant, exquisite, captivating
-
-## MCQ on meanings
-
-vibrant, patience, cooperation, persistent, generous, curiosity, reliable, celebration, creativity, honesty
-
-resilience, optimistic, efficiency, gratitude, peaceful, adventure, persistence, compassion, innovation, kindness
+nursery, opponent, opposite, passage, rate, reverse, value, resilience,
 
 # 5th Grade
 
-## Word meanings
+accurate, address, afford, alert, analyze, annual, apparent, appropriate, arena, arrest, ascend, assist, attempt, attractive, balance, barrier, benefit, bias, bond, capacity
 
-accurate, address, afford, alert, analyze, ancestor, annual, apparent, appropriate, arena, arrest, ascend, assist, attempt, attractive, balance, barrier, benefit, bias, bond
+category, cease, challenge, characteristic, cite, civil, clarify, classic, coincide, collapse, colleague, calculate, capable, captivity, carefree, chamber, coax, column, competition, complete
 
-brief, bulk, capacity, category, cease, challenge, channel, characteristic, cite, civil, clarify, classic, coincide, collapse, colleague, calculate, capable, captivity, carefree, century
+concentrate, concern, conclude, confuse, congratulate, considerable, content, contribute, create, demonstrate, descend, desire, develop, disaster, disclose, distract, distress, entertain, enlighten, establish
 
-chamber, circular, coax, column, communicate, competition, complete, concentrate, concern, conclude
+evaluate, flexible, focus, fragile, frantic, frequent, furious, generosity, hardship, jovial, challenging, hilarious, comprehensive, serene, exceptional, breathtaking, commendable, riveting, delicious, prompt
 
-confuse, congratulate, considerable, content, contribute, crafty, create, demonstrate, descend, desire, destructive, develop, disaster, disclose, distract, distress, dusk, eager, ease, entertain, enlighten
+spectacular, inspiring, electrifying, innovative, vanished, resembling, eternally, reluctantly, rapidly, enchanting, firmly, complex, extensively, shortly, underground, detailed, acumen, eloquence, assiduous, ambiguity
 
-enthusiasm, establish, evaluate, flexible, focus, fragile, frantic, frequent, frontier, furious, generosity, hail, hardship
+resilience, languid, haunting, astute, candid, innovative, euphoric, prolixity, keen, avarice, rugged, reticence, revolutionized, eerie, zenith, virtuoso, cacophony, intricate
 
-## MCQ Synonyms and Antonyms
-
-jovial, captivating, challenging, magnificent, hilarious, comprehensive, serene, profound, meticulous, exceptional, breathtaking, commendable, riveting, delicious, prompt, spectacular, inspiring, electrifying, innovative, vanished
-
-## MCQ on meanings
-
-acumen, persistence, eloquence, assiduous, ambiguity, resilience, languid, haunting, astute, candid, innovative, euphoric, prolixity, keen, avarice, perspicacity, rugged, reticence, revolutionized, eerie
-
-zenith, virtuoso, cacophony, intricate
+ancestor, brief, bulk, channel, circular, communicate, crafty, destructive, dusk, eager, ease, frontier, hail, perspicacity,
 
 # 6th Grade
-
-## Word meanings
 
 indicate, inspire, instant, invisible, jagged, lack, limb, limp, manufacture, master, mature, meadow, mistrust, mock, modest, noble, orchard, outstanding, peculiar, peer
 
 permit, plead, plentiful, practice, predict, queasy, recent, recognize, reduce, release, represent, request, resist, response, reveal, routine, severe, shabby, shallow, sole
 
-source, sturdy, surface, survive, terror, threat, tidy, tour, tradition, tragic, typical, vacant, valiant, variety, vast, venture, weary
+source, sturdy, surface, survive, terror, threat, tidy, tour, tradition, tragic, typical, vacant, valiant, variety, vast, venture, weary, exuberant, intriguing, puzzling
 
-## MCQ Synonyms and Antonyms
+majestic, hysterical, thorough, tranquil, proficient, precise, outstanding, mesmerizing, admirable, compelling, delightful, swift, stunning, motivating, thrilling, eccentric, mundane, efficacious, equivocal, obfuscation
 
-exuberant, intriguing, puzzling, majestic, hysterical, thorough, tranquil, proficient, precise, outstanding, mesmerizing, admirable, compelling, delightful, swift, stunning, motivating, thrilling, eccentric, mundane
+ostentatious, ubiquity, intrepid, juxtaposition, acerbic, lucrative, crystalline, effulgent, laconic, autocratic, ephemeral, pervasive, equanimity, mellifluous, serendipitous, eclectic, altruistic, quixotic, lugubrious, frugality,
 
-## MCQ on meanings
-
-efficacious, equivocal, obfuscation, ostentatious, ubiquity, cacophonous, intrepid, juxtaposition, acerbic, lucrative, crystalline, effulgent, laconic, autocratic, ephemeral, pervasive, equanimity, mellifluous, serendipitous, eclectic
-
-altruistic, quixotic, lugubrious, frugality, peripatetic
+peripatetic, resembling, grudge, sublime, exquisite, timeless, indefenite, expeditious, enrapturing, eons, intricate, emulating
 
 # 7th Grade
-
-## Word meanings
 
 abandon, abundant, access, accommodate, accumulate, adapt, adhere, agony, allegiance, ambition, ample, anguish, anticipate, anxious, apparel, appeal, apprehensive, arid, arrogant, awe
 
 barren, beacon, beneficial, blunder, boisterous, boycott, burden, campaign, capacity, chronological, civic, clarity, collaborate, collide, commend, commentary, compact, composure, concise, consent
 
-consequence, conserve, conspicuous, constant, contaminate, context, continuous, controversy, convenient, cope, cordial, cultivate, cumulative, declare, deluge
+consequence, conserve, conspicuous, constant, contaminate, context, continuous, controversy, convenient, cope, cordial, cultivate, cumulative, declare, deluge, idiom, ignite, immense, improvise, inept
 
-idiom, ignite, immense, improvise, inept, inevitable, influence, ingenious, innovation, intimidate, jovial, knack, leeway, legislation, leisure, liberate, likeness
+inevitable, influence, ingenious, innovation, intimidate, jovial, knack, leeway, legislation, leisure, liberate, likeness, linger, literal, loathe, lure, majority, makeshift, manipulate, marvel
 
-linger, literal, loathe, lure, majority, makeshift, manipulate, marvel, massive, maximum, meager, mere, migration, mimic, minute, monotonous, negotiate, obstacle, omniscient, onset
+massive, maximum, meager, mere, migration, mimic, minute, monotonous, negotiate, obstacle, omniscient, onset, optimist, originate, painstaking, paraphrase, parody, persecute, plummet, possess
 
-optimist, originate, painstaking, paraphrase, parody, persecute, plummet, possess, poverty, precise, predicament, predict, prejudice
-
-## MCQ Synonyms and Antonyms
-
-agile, radiant, unwavering, uplifting, serene, eloquent, perplexing, grandiose, competent, effervescent, banal, sublime, consummate, superlative, riveting
-
-## MCQ on meanings
+poverty, precise, predicament, predict, prejudice, agile, radiant, unwavering, uplifting, serene, eloquent, perplexing, grandiose, competent, effervescent, banal, sublime, consummate, superlative, riveting
 
 penurious, effervescent, quintessential, alacrity, munificent, visceral, pugnacious, melancholy, egalitarian, eloquent, lugubrious, stoic, serendipitous, labyrinthine, amicable, acerbic, garrulous, dilapidated, allegorical, clandestine
 
-peripatetic, mellifluous, scrupulous, gregarious, quixotic
+peripatetic, mellifluous, scrupulous, gregarious, quixotic, obnoxious, misanthropic, rejuvinate
 
 # 8th Grade
 
-## Word meanings
+dense, deplete, deposit, designate, desperate, deteriorate, dialogue, diligent, diminish, discretion, dissent, dissolve, distinct, diversity, domestic, dominate, drastic, duration, dwell, economy
 
-dense, deplete, deposit, designate, desperate, deteriorate, dialogue, diligent, diminish, discretion, dissent, dissolve, distinct, diversity, domestic, dominate, drastic, duration, dwell, economy, eerie
+eerie, effect, efficient, elaborate, eligible, elude, encounter, equivalent, erupt, esteem, evolve, exaggerate, excel, exclude, expanse, exploit, extinct, extract, factor, former
 
-effect, efficient, elaborate, eligible, elude, encounter, equivalent, erupt, esteem, evolve, exaggerate, excel, exclude, expanse, exploit, extinct, extract, factor, former, formulate
+formulate, futile, generate, genre, habitat, hazardous, hoax, hostile, preliminary, primitive, priority, prominent, propel, prosecute, prosper, provoke, pursue, quest, recount, refuge
 
-futile, generate, genre, habitat, hazardous, hoax, hostile, preliminary, primitive, priority, prominent, propel, prosecute, prosper, provoke, pursue, quest, recount, refuge, reinforce
-
-reluctant, remorse, remote, resolute, restrain, retaliate, retrieve, rigorous, rural, salvage, sanctuary, siege, significant, solar, soothe, stationary, stifle, strive, subordinate
+reinforce, reluctant, remorse, remote, resolute, restrain, retaliate, retrieve, rigorous, rural, salvage, sanctuary, siege, significant, solar, soothe, stationary, stifle, strive, subordinate
 
 subsequent, superior, supplement, swarm, tangible, terminate, terrain, trait, transform, transport, treacherous, unanimous, unique, unruly, urban
