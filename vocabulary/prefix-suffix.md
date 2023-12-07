@@ -114,6 +114,78 @@ The following words are usually not considered as prefixes.
 predict, preferable, presentation, president, precious, pressure, prepare, repeat, response, reasonable, revolution, replicate, delicious, develop, deliver, decline, destiny
 ```
 
+# auto- words
+
+```
+automatic, autobiography, autopilot, autograph, autonomy, autopsy, autofocus
+```
+
+# extra- words
+
+```
+extravagant, extraneous, extraterrestrial, extraordinary, extrasensory, extrapolate, extracurricular, extracellular
+```
+
+# hyper- words
+
+```
+hyperactive, hyperbole, hypertension, hyperlink, hypermarket',
+```
+
+# inter- words
+
+```
+interact, intercontinental, intermediate, interlude, internet, interstellar, intertwine
+```
+
+# mid- words
+
+```
+midnight, midday, midway, midterm
+```
+
+# non- words
+
+```
+nonprofit, nonsense, nonfiction
+```
+
+# out- words
+
+```
+outrageous, outspoken, outgoing, outskirts, outsource, outgrow, outdo, outnumber, outrun
+```
+
+# post- words
+
+```
+postpone, postscript, postwar, postgraduate
+```
+
+# pro- words
+
+```
+proactive, proclaim, profound, prologue
+```
+
+# sub- words
+
+```
+submarine, subconscious, submerge, subordinate, suburb, subdivide, subdue, substantial, substitute, sublime
+```
+
+# trans- words
+
+```
+transform, translate, transmission, transparent, transcribe, transplant
+```
+
+# up- words
+
+```
+upgrade, uphold, upbeat, uphill, upturn, uplift, uptake, uptown, upend, uproar
+```
+
 # suffix
 
 A suffix is a group of letters added to the ending of words, and it changes the
@@ -219,6 +291,66 @@ passionate, fortunate, approximate, negotiate, interrogate, congratulate, discri
 ```
 musical, technical, practical, logical, periodical,
 electrical, historical, grammatical
+```
+
+# -ance words
+
+```
+acceptance, assistance, attendance, resistance, assurance, performance, tolerance, radiance, brilliance
+```
+
+# -ence words
+
+```
+excellence, presence, difference, independence, confidence, consequence, persistence, intelligence, essence, convergence
+```
+
+# -dom words
+
+```
+kingdom, freedom, wisdom, random, stardom, fandom
+```
+
+# -ee words
+
+```
+employee, trainee, referee, interviewee, trustee, addressee, absentee, attendee, refugee
+```
+
+# -er words
+
+```
+teacher, writer, dancer, singer, baker, gardener, engineer, speaker, painter, driver
+```
+
+# -or words
+
+```
+actor, director, professor, operator, editor, supervisor, governor, investor, author
+```
+
+# -hood words
+
+```
+childhood, brotherhood, neighborhood, parenthood, adulthood, sisterhood, fatherhood, motherhood, boyhood, girlhood
+```
+
+# -ry words
+
+```
+mystery, victory, history, discovery, delivery, gallery, memory, bakery, nursery, factory
+```
+
+# -en words
+
+```
+brighten, lengthen, heighten, strengthen, fasten, weaken, soften, widen, ripen, broaden
+```
+
+# -y words
+
+```
+happy, sunny, rainy, silly, tasty, noisy, sleepy, shiny, healthy
 ```
 
 # Notes
