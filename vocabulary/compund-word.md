@@ -1,13 +1,13 @@
 # 3-5
 
 ```
-aircraft, airplane, airport, allover, alongside, another, anybody, anyhow, anymore, anyone, anything, anytime, anyway, armchair, backbone, backdrop, background, backward, baseball, basketball
+aircraft, airplane, airport, allover, another, anybody, anyhow, anymore, anyone, anything, anytime, anyway, background, backward, baseball, basketball
 
-bathroom, became, because, bedroom, bedtime, blackmail, blueprint, bodyguard, bookmark, bookshelf, bookstore, brainwash, breakfast, butterfly, buttermilk, cabdriver, candlelight, cannot, carefree, caretaker
+bathroom, became, because, bedroom, bedtime, blackmail, bookshelf, bookstore, breakfast, butterfly, buttermilk, cabdriver, candlelight, cannot,  caretaker
 
-caveman, chairman, checkup, classroom, clockwise, comeback, commonplace, copycat, courtroom, cowboy, cupboard, daydream, daylight, dishwasher, dragonfly, eardrop, earring, earthquake, elsewhere, everything
+checkup, classroom,  comeback, copycat, courtroom, cowboy, cupboard, daydream, daylight, dishwasher, dragonfly, eardrop, earring, earthquake, elsewhere, everything
 
-eyeballs, eyesight, eyewitness, firearm, firecracker, firefighter, fireworks, football, footprint, footrest, forecast, forefather, forever, forget, forgive, fortnight, goodbye, goodnight, grandchild, grandmother
+eyeballs, eyesight, firecracker, firefighter, fireworks, football, footprint, footrest, forever, forget, forgive, goodbye, goodnight, grandchild, grandmother
 
 grandson, haircut, handbag, handbook, handcuff, hereafter, hereby, herself, highway, homemade, hometown, homework, honeybee, houseboat, housekeeper, income, indoor, inside, jackfruit, jellyfish
 
@@ -27,6 +27,10 @@ whitewash, without
 ## 6-8
 
 ```
+
+alongside, armchair, backbone, backdrop, blueprint, bodyguard, bookmark, brainwash,  carefree, caveman, chairman, clockwise, commonplace, eyewitness, firearm,  forecast, forefather,  fortnight, 
+
+
 anybody, everybody, nobody, somebody, anyone, everyone, someone, anything, everything, nothing, something, anywhere, everywhere, nowhere, somewhere, babysit, background, barefoot, baseball, basketball
 
 football, bathroom, bedroom, blackberry, blueberry, breakfast, cannot, checkout, cowboy, daylight, desktop, fingerprint, firefly, forever, gentleman, grandmother, grandfather, granddaughter, grapefruit, grasshopper
