@@ -24,9 +24,9 @@ whitewash, without
 
 # Second Playlist (6-8)
 
-aircraft, allover, baseball, scapegoat, scarecrow, paycheck, shipyard, spacewalk, taskmaster, thunderbolt, wardroom, warehouse, warmhearted, watchdog,
+aircraft, allover, baseball, scapegoat, scarecrow, paycheck, shipyard, spacewalk, taskmaster, thunderbolt, wardroom, warehouse, warmhearted, watchdog, shipwreck,
 
-alongside, armchair, backbone, backdrop, blueprint, bodyguard, bookmark, brainwash, carefree, caveman, chairman, clockwise, commonplace, eyewitness, firearm, forecast, forefather, fortnight, earthquake, lawmaker, meantime, newfound, sidekick, skyscraper,
+alongside, armchair, backbone, backdrop, blueprint, bodyguard, bookmark, brainwash, carefree, caveman, chairman, clockwise, commonplace, eyewitness, firearm, forecast, forefather, fortnight, earthquake, lawmaker, meantime, newfound, sidekick, skyscraper, layman, layoff
 
 ## 6-8
 
