@@ -1,35 +1,34 @@
 # 3-5
 
-```
-aircraft, airplane, airport, allover, another, anybody, anyhow, anymore, anyone, anything, anytime, anyway, background, backward, baseball, basketball
+airplane, airport, another, anybody, anyhow, anymore, anyone, anything, anytime, anyway, background, backward, basketball
 
-bathroom, became, because, bedroom, bedtime, blackmail, bookshelf, bookstore, breakfast, butterfly, buttermilk, cabdriver, candlelight, cannot,  caretaker
+bathroom, became, because, bedroom, bedtime, blackmail, bookshelf, bookstore, breakfast, butterfly, buttermilk, cabdriver, candlelight, cannot, caretaker
 
-checkup, classroom,  comeback, copycat, courtroom, cowboy, cupboard, daydream, daylight, dishwasher, dragonfly, eardrop, earring, earthquake, elsewhere, everything
+checkup, classroom, comeback, copycat, courtroom, cowboy, cupboard, daydream, daylight, dishwasher, dragonfly, eardrop, earring, elsewhere, everything
 
 eyeballs, eyesight, firecracker, firefighter, fireworks, football, footprint, footrest, forever, forget, forgive, goodbye, goodnight, grandchild, grandmother
 
 grandson, haircut, handbag, handbook, handcuff, hereafter, hereby, herself, highway, homemade, hometown, homework, honeybee, houseboat, housekeeper, income, indoor, inside, jackfruit, jellyfish
 
-keyboard, keyhole, keyword, landmark, landslide, lawmaker, layman, layoff, lifeboat, lifelong, lifetime, lighthouse, mailbox, meantime, meanwhile, moonlight, moreover, motorcycle, nearby, newfound
+keyboard, keyhole, keyword, landmark, landslide, layman, layoff, lifeboat, lifelong, lifetime, lighthouse, mailbox, meanwhile, moonlight, moreover, motorcycle, nearby,
 
-newspaper, nightfall, nobody, nowhere, oneself, onetime, outside, overcoat, overflow, pancake, passport, paycheck, pickup, playback, playground, popcorn, postcard, railway, rainbow, raincoat
+newspaper, nightfall, nobody, nowhere, oneself, onetime, outside, overcoat, overflow, pancake, passport, pickup, playback, playground, popcorn, postcard, railway, rainbow, raincoat
 
-rainfall, rainwater, rubberband, scapegoat, scarecrow, schoolbus, seashore, sendoff, setback, shipwreck, shipyard, shoelace, sidekick, skyscraper, slowdown, somebody, someone, something, sometimes, somewhere
+rainfall, rainwater, rubberband, schoolbus, seashore, sendoff, setback, shipwreck, shoelace, slowdown, somebody, someone, something, sometimes, somewhere
 
-soundproof, spacewalk, starfish, steamboat, stonewall, subway, sunflower, sunshine, superman, tablecloth, tablespoon, taskmaster, teammate, teenage, textbook, themselves, therefore, thunderbolt, timetable, together
+soundproof, starfish, steamboat, stonewall, subway, sunflower, sunshine, superman, tablecloth, tablespoon, teammate, teenage, textbook, themselves, therefore, timetable, together
 
-toothpaste, underground, upgrade, uppercase, upside, waistcoat, wallpaper, wardroom, warehouse, warmhearted, washroom, wastepaper, watchdog, watchman, waterfall, waterlog, watermelon, weatherman, welldone, wheelchair
+toothpaste, underground, upgrade, uppercase, upside, waistcoat, wallpaper, washroom, wastepaper, watchman, waterfall, waterlog, watermelon, weatherman, welldone, wheelchair
 
 whitewash, without
-```
+
+# Second Playlist (6-8)
+
+aircraft, allover, baseball, scapegoat, scarecrow, paycheck, shipyard, spacewalk, taskmaster, thunderbolt, wardroom, warehouse, warmhearted, watchdog,
+
+alongside, armchair, backbone, backdrop, blueprint, bodyguard, bookmark, brainwash, carefree, caveman, chairman, clockwise, commonplace, eyewitness, firearm, forecast, forefather, fortnight, earthquake, lawmaker, meantime, newfound, sidekick, skyscraper,
 
 ## 6-8
-
-```
-
-alongside, armchair, backbone, backdrop, blueprint, bodyguard, bookmark, brainwash,  carefree, caveman, chairman, clockwise, commonplace, eyewitness, firearm,  forecast, forefather,  fortnight, 
-
 
 anybody, everybody, nobody, somebody, anyone, everyone, someone, anything, everything, nothing, something, anywhere, everywhere, nowhere, somewhere, babysit, background, barefoot, baseball, basketball
 
@@ -46,4 +45,3 @@ real estate, remote control, report card, rib cage, role model, roller coaster, 
 check-in, clean-cut, editor-in-chief, empty-handed, far-fetched, father-in-law, mother-in-law, sister-in-law, free-for-all, know-how, know-it-all, life-size, merry-go-round, long-distance, long-term, mind-blowing, nitty-gritty, one-sided, one-dimensional, two-dimensional
 
 over-the-counter, run-in, runner-up, strong-arm, topsy-turvy, toss-up, up-to-date, well-being, word-of-mouth
-```
